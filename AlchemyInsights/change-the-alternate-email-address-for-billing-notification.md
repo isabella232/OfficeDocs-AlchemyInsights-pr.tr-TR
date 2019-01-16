@@ -1,0 +1,35 @@
+---
+title: Ödeme bildirim için diğer e-posta adresini değiştirme
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.date: 2/25/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
+ms.openlocfilehash: 8871a5d8acbbe56b622eb62f2fbaeca03fcdb1ed
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: tr-TR
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28317719"
+---
+# <a name="change-the-alternate-email-address-for-billing-notification"></a>Ödeme bildirim için diğer e-posta adresini değiştirme
+
+Ödeme bildirim diğer e-posta adresini değiştirmek kolaydır! Aşağıdaki adımları izlemeniz yeterlidir:
+  
+1. Yönetim merkezinde [Fatura Bildirimleri](https://go.microsoft.com/fwlink/p/?linkid=853212) sayfasına gidin veya **Faturalama** \> **Fatura bildirimleri**'ni seçin.
+    
+2. Listeden bir ad seçin.
+    
+3. Diğer e-posta adresi **diğer e-posta** kutusuna yazın. 
+    
+4. **Kaydet** ' i seçin ve Başardınız! 
+    
+Daha fazla ayrıntı ve ekran görüntüleri ile adımları için bkz: [Office 365, faturalama adresleri değiştirme](https://support.office.com/en-us/article/Change-your-billing-addresses-for-Office-365-for-business-a25c10d6-c1e9-4299-9185-25178df9eba6).
+  
+

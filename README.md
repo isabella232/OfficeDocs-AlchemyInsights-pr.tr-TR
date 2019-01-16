@@ -1,0 +1,2 @@
+## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft açık kaynak kodu kuralları
+Bu proje, [Microsoft açık kaynak kullanım kuralları](https://opensource.microsoft.com/codeofconduct/)başlamıştır. Daha fazla bilgi için [Yürütmek SSS kod](https://opensource.microsoft.com/codeofconduct/faq/) bakın veya [opencode@microsoft.com](mailto:opencode@microsoft.com) ile herhangi bir ek sorular veya yorumlar başvurun.
