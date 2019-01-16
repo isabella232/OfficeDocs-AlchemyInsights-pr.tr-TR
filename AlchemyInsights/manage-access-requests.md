@@ -1,0 +1,35 @@
+---
+title: Erişim isteklerini yönet
+ms.author: mikeplum
+author: MikePlumleyMSFT
+manager: scotv
+ms.date: 8/3/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
+ms.openlocfilehash: a273b6dd665e1998c874203248bc31bbb40f20b0
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: tr-TR
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28318455"
+---
+# <a name="manage-access-requests"></a>Erişim isteklerini yönet
+
+Bir kullanıcı bir öğeyi SharePoint'te erişmeyi dener ve izne sahip olmayan öğeye erişme iznine gereksinim duydukları bir ileti göreceksiniz. Kullanıcı erişimi (bazı durumlarda, belirli bir öğeye veya gruba katılmak için) ve site sahibi onaylama veya reddetme isteği isteyebilir. Site sahibi olmayan birisi başka bir kişi ile bir site paylaşıyorsa, site sahibinin yeni kullanıcı için bir erişim isteği de alırsınız. Onaylamak veya reddetmek erişim istekleri için:
+  
+1. Sitesine gidin, sağ üst ayarları simgesini tıklatın ve ardından **Site Ayarları**' nı tıklatın. (Site Ayarları görmüyorsanız, **Site izinleri**tıklatın ve sonra **Gelişmiş izinler ayarlar**' ı tıklatın. "Erişim istekleri ve Davetler göster." adlı bir bağlantısı olan bir başlık için Ara)
+    
+2. **Kullanıcılar ve İzinler'in**altında **erişim istekleri ve Davetler**tıklatın. (Bu görünmezse, hiç bir erişim isteği yapıldı.)
+    
+3. Tek tek kullanıcı izni vermek için **Onayla** veya **Reddet**seçeneklerinden birini tıklatın. Belirli bir izin düzeyi seçmek için ilk kişinin adının yanındaki üç nokta (...) tıklatın. Alternatif olarak, kullanıcı siteye iznine sahip olan bir gruba ekleyin. İletişim siteleri ve klasik ekip siteleri için Site Ayarları sayfasında bunu yapabilirsiniz. Bir Office 365 grubuna ait siteler için kullanıcı grubuna ekleyebilirsiniz.
+    
+    [Erişim isteklerini yönet](https://go.microsoft.com/fwlink/?linkid=2008747)
+    
+    [İzin düzeyleri hakkında daha fazla bilgi](https://go.microsoft.com/fwlink/?linkid=867071)
+    
+
