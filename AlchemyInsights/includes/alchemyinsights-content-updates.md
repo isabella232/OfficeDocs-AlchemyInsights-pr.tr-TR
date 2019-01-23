@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: tr-TR
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383525"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 11/1/2019 | [Kullanıcıları silme](/AlchemyInsights/deleting-users) | değiştiren |
 | 11/1/2019 | [Kesintisiz çoklu oturum açma dağıtma](/AlchemyInsights/deploy-seamless-single-sign-on) | değiştiren |
 | 11/1/2019 | [Yammer erişimi devre dışı bırak](/AlchemyInsights/disable-access-to-yammer) | değiştiren |
+
+
+## <a name="week-of-january-14-2019"></a>14 Ocak 2019 haftası
+
+
+| Üzerinde yayınlanan |Konu başlığı | Değiştir |
+|------|------------|--------|
+| 14/1/2019 | Alchemy yer tutucu | kaldırıldı |
+| 14/1/2019 | Alchemy etki alanı ekleme | kaldırıldı |
+| 14/1/2019 | [Alchemy görüşleri giriş](/AlchemyInsights/index) | değiştiren |
+| 17/1/2019 | [aynı dosya adı iyi olduğu gibi [kural #-açıklama]](/AlchemyInsights/1-alchemy-insight-template) | eklendi |
