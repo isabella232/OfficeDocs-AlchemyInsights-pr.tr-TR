@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
 ms.openlocfilehash: 257cefce17262a45c689d63a513aa1157be537d6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28317485"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29495171"
 ---
-# <a name="spam-filter-not-working"></a><span data-ttu-id="a6135-102">İstenmeyen posta Filtresi çalışmıyor</span><span class="sxs-lookup"><span data-stu-id="a6135-102">Spam filter not working</span></span>
+# <a name="spam-filter-not-working"></a><span data-ttu-id="669b4-102">İstenmeyen posta Filtresi çalışmıyor</span><span class="sxs-lookup"><span data-stu-id="669b4-102">Spam filter not working</span></span>
 
-<span data-ttu-id="a6135-p101">Almış bir iletiyi, bir kimlik avı ya da Sızdırma dolandırıcılığı amaçlı olduğunu düşünüyorsanız, iletiyi önemsiz olarak işaretlemek, sonra iletinin **Önemsiz e-posta**için ve **Önemsiz** seçin Git \> bir kimlik avı dolandırıcılığı işaretlemek için **kimlik avı** . Kötüye kullanma, kimlik avı ve Sızdırma, [Bu okuma](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3)hakkında daha fazla bilgi edinmek için. E-posta adreslerini engelleme, adresleri veya etki alanı Güvenli Gönderenler listenize ekleyin veya diğer Önemsiz e-posta seçeneklerini uygulamak için **Önemsiz e-posta seçenekleri**' ni seçin.</span><span class="sxs-lookup"><span data-stu-id="a6135-p101">If you believe a message you've received is a phishing or spoofing scam, mark the message as junk, then go to **Junk Email**, select the message, and select **Not junk** \> **Phishing** to mark it as a phishing scam. To learn more about abuse, phishing, and spoofing, [read this](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3). To block email addresses, add addresses or domains to your Safe senders list, or apply other junk email options, select **Junk email options**.</span></span> 
+<span data-ttu-id="669b4-p101">Almış bir iletiyi, bir kimlik avı ya da Sızdırma dolandırıcılığı amaçlı olduğunu düşünüyorsanız, iletiyi önemsiz olarak işaretlemek, sonra iletinin **Önemsiz e-posta**için ve **Önemsiz** seçin Git \> bir kimlik avı dolandırıcılığı işaretlemek için **kimlik avı** . Kötüye kullanma, kimlik avı ve Sızdırma, [Bu okuma](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3)hakkında daha fazla bilgi edinmek için. E-posta adreslerini engelleme, adresleri veya etki alanı Güvenli Gönderenler listenize ekleyin veya diğer Önemsiz e-posta seçeneklerini uygulamak için **Önemsiz e-posta seçenekleri**' ni seçin.</span><span class="sxs-lookup"><span data-stu-id="669b4-p101">If you believe a message you've received is a phishing or spoofing scam, mark the message as junk, then go to **Junk Email**, select the message, and select **Not junk** \> **Phishing** to mark it as a phishing scam. To learn more about abuse, phishing, and spoofing, [read this](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3). To block email addresses, add addresses or domains to your Safe senders list, or apply other junk email options, select **Junk email options**.</span></span> 
   
 
