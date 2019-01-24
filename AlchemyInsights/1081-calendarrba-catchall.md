@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
 ms.openlocfilehash: e608368a5a7250edfaff290203ba5f2e1d11cf16
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28317481"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29494195"
 ---
-# <a name="create-and-manage-room-mailboxes"></a>Oluşturma ve oda posta kutularını yönetme
+# <a name="create-and-manage-room-mailboxes"></a>Oda Posta Kutularını Oluşturma ve Yönetme
 
 Oluşturma ve değiştirme odası posta kutuları için bkz: [oluşturma ve oda Posta kutularynyn yönetiminde](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
   

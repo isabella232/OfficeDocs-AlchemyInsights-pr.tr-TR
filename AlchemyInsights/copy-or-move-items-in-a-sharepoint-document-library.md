@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28317327"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29494285"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>SharePoint belge kitaplığındaki öğeleri taşıma veya kopyalama
 
@@ -37,6 +37,6 @@ Kopyalama ve dosyaları, klasörleri ve bağlantılar bir belge kitaplığında 
 3. **Buraya Kopyala** veya **Buraya Taşı**' yı tıklatın.
     
 > [!NOTE]
->  Bir kerede en çok 500 MB'lik dosya ve klasörleri kopyalayabilirsiniz. > Sürüm geçmişi olan belgeleri kopyaladığınızda, yalnızca en son sürümünü kopyalanır. Belgeleri taşıdığınızda, kendi geçmişini de taşınır. 
+>  Bir kerede en çok 500 MB'lik dosya ve klasörleri kopyalayabilirsiniz. Sürüm geçmişi, yalnızca en son sürümünü içeren belgelerin kopyaladığınızda, > kopyalanır. Belgeleri taşıdığınızda, kendi geçmişini de taşınır. 
   
 

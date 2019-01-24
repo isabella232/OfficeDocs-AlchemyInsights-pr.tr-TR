@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
 ms.openlocfilehash: a041d21bcbc77b8069178dc74e92d07df312af7a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28317767"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29494223"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>OneDrive ya da SharePoint dosyaları karşıya yüklemek
 
@@ -27,6 +27,6 @@ ms.locfileid: "28317767"
 3. Dosyaları seçin ve bunları OneDrive veya SharePoint konumuna sürükleyin. Not: Microsoft Edge, Mozilla FireFox veya Google Chrome kullanıyorsanız de bir klasör ve içindeki tüm dosyaları karşıya yükleyebilirsiniz.
     
 > [!NOTE]
->  Dosyaları karşıya yükleyebilir 15 GB boyutunda. > Tam yolu (dosya adı dahil) bir dosya için 400'den fazla karakterden uzun olamaz. > 100'den fazla dosya, [OneDrive eşitleme istemcisi](https://go.microsoft.com/fwlink/?linkid=866427)yüklemek gereksiniminiz varsa. 
+>  Dosyaları karşıya yükleyebilir 15 GB boyutunda. > tam yolu (dosya adı dahil) bir dosya için 400'den fazla karakterden uzun olamaz. 100'den fazla dosya, [OneDrive eşitleme istemcisi](https://go.microsoft.com/fwlink/?linkid=866427)yüklemek gereksiniminiz varsa >. 
   
 
