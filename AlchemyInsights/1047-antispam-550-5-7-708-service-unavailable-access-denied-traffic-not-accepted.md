@@ -13,8 +13,8 @@ ms.openlocfilehash: 1c10f03dcd105fe80edf3407288bdd551cfed54a
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383518"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454090"
 ---
 # <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>Erişim engellendi 550 5.7.708 trafik bu IP'den kabul edilmedi
 

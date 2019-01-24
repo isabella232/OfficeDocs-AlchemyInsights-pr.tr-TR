@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383525"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454450"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383525"
 ## <a name="week-of-january-07-2019"></a>07 Ocak 2019 haftası
 
 
-| Üzerinde yayınlanan |Konu başlığı | Değiştir |
+| Üzerinde yayınlanan |Konu başlığı | Değiştir'i seçin. |
 |------|------------|--------|
 | 7/1/2019 | [Parolanızı değiştirme](/AlchemyInsights/change-your-password-in-outlook.com) | eklendi |
 | 7/1/2019 | [Bir posta kutusu izinlerini değiştirme](/AlchemyInsights/changing-permissions-on-a-mailbox) | eklendi |
@@ -218,7 +218,7 @@ ms.locfileid: "29383525"
 | 10/1/2019 | [Bir kullanıcı için bir e-posta diğer adı ekleyip](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | eklendi |
 | 10/1/2019 | [Boş koltuk için bir ön ödemeli abonelik Ekle](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | eklendi |
 | 10/1/2019 | [Boş koltuk için bir ön ödemeli abonelik Ekle](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | eklendi |
-| 10/1/2019 | [Office 365'e kullanıcı ekleme](/AlchemyInsights/add-users-to-office-365) | eklendi |
+| 10/1/2019 | Office 365'e kullanıcı ekleme | eklendi |
 | 10/1/2019 | [Dış kullanıcı bir dağıtım grubuna ekleme?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | eklendi |
 | 10/1/2019 | [Harici kullanıcılar ekleme](/AlchemyInsights/adding-external-users) | eklendi |
 | 10/1/2019 | [ADFS Federasyon sertifika zaman aşımına uğramak](/AlchemyInsights/adfs-federation-certificate-expiring) | eklendi |
@@ -272,7 +272,7 @@ ms.locfileid: "29383525"
 | 10/1/2019 | [SharePoint çevrimiçi etki alanı adını değiştir](/AlchemyInsights/change-domain-name-in-sharepoint-online) | eklendi |
 | 10/1/2019 | [Ne kadar sıklıkla ödeme değiştirme](/AlchemyInsights/change-how-often-you-pay) | eklendi |
 | 10/1/2019 | [MDM yetkilisi değiştirme](/AlchemyInsights/change-mdm-authority) | eklendi |
-| 10/1/2019 | [NameServers değiştirme](/AlchemyInsights/change-nameservers) | eklendi |
+| 10/1/2019 | Change nameservers | eklendi |
 | 10/1/2019 | [OneDrive değiştirmek için iş depolama kotası](/AlchemyInsights/change-onedrive-for-business-storage-quota) | eklendi |
 | 10/1/2019 | [Ödeme yöntemini değiştir](/AlchemyInsights/change-payment-method) | eklendi |
 | 10/1/2019 | [SharePoint liste veya kitaplık izinlerini değiştirme](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | eklendi |
@@ -515,7 +515,7 @@ ms.locfileid: "29383525"
 | 11/1/2019 | [Bir kullanıcı için bir e-posta diğer adı ekleyip](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | değiştiren |
 | 11/1/2019 | [Boş koltuk için bir ön ödemeli abonelik Ekle](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | değiştiren |
 | 11/1/2019 | [Boş koltuk için bir ön ödemeli abonelik Ekle](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | değiştiren |
-| 11/1/2019 | [Office 365'e kullanıcı ekleme](/AlchemyInsights/add-users-to-office-365) | değiştiren |
+| 11/1/2019 | Office 365'e kullanıcı ekleme | değiştiren |
 | 11/1/2019 | [Dış kullanıcı bir dağıtım grubuna ekleme?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | değiştiren |
 | 11/1/2019 | [Harici kullanıcılar ekleme](/AlchemyInsights/adding-external-users) | değiştiren |
 | 11/1/2019 | [ADFS Federasyon sertifika zaman aşımına uğramak](/AlchemyInsights/adfs-federation-certificate-expiring) | değiştiren |
@@ -569,7 +569,7 @@ ms.locfileid: "29383525"
 | 11/1/2019 | [SharePoint çevrimiçi etki alanı adını değiştir](/AlchemyInsights/change-domain-name-in-sharepoint-online) | değiştiren |
 | 11/1/2019 | [Ne kadar sıklıkla ödeme değiştirme](/AlchemyInsights/change-how-often-you-pay) | değiştiren |
 | 11/1/2019 | [MDM yetkilisi değiştirme](/AlchemyInsights/change-mdm-authority) | değiştiren |
-| 11/1/2019 | [NameServers değiştirme](/AlchemyInsights/change-nameservers) | değiştiren |
+| 11/1/2019 | Change nameservers | değiştiren |
 | 11/1/2019 | [OneDrive değiştirmek için iş depolama kotası](/AlchemyInsights/change-onedrive-for-business-storage-quota) | değiştiren |
 | 11/1/2019 | [Ödeme yöntemini değiştir](/AlchemyInsights/change-payment-method) | değiştiren |
 | 11/1/2019 | [SharePoint liste veya kitaplık izinlerini değiştirme](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | değiştiren |
@@ -637,7 +637,7 @@ ms.locfileid: "29383525"
 ## <a name="week-of-january-14-2019"></a>14 Ocak 2019 haftası
 
 
-| Üzerinde yayınlanan |Konu başlığı | Değiştir |
+| Üzerinde yayınlanan |Konu başlığı | Değiştir'i seçin. |
 |------|------------|--------|
 | 14/1/2019 | Alchemy yer tutucu | kaldırıldı |
 | 14/1/2019 | Alchemy etki alanı ekleme | kaldırıldı |
