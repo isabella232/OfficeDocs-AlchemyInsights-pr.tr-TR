@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c46c757e-d2e6-46e9-95b2-5b47bb4bd572
 ms.openlocfilehash: e3ba051ba68722740838995def42b633d7a2e294
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28317962"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29494283"
 ---
 # <a name="delete-a-sharepoint-page"></a>SharePoint sayfa silme
 
@@ -28,6 +28,6 @@ ms.locfileid: "28317962"
     
 4. Sayfayı seçin ve sonra sayfanın sağında elipslere (...) tıklatın.
     
-5. **Sil**' i tıklatın.
+5. Click Delete
     
 

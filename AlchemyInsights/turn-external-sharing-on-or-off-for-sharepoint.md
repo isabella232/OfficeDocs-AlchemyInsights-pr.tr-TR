@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ad290ba4-169e-4866-9c78-2763319e9ed0
 ms.openlocfilehash: 1c98fcf991bc1e8648d23178b169bc6aba67784a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28317857"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29494676"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Dış açmak veya kapatmak için SharePoint Paylaşımı Kapat
 
@@ -25,7 +25,7 @@ ms.locfileid: "28317857"
 2. Ayarı açıp kapatabilir veya açık olduğundan, paylaşım seçeneğini seçin.
     
 > [!NOTE]
-> SharePoint için paylaşım devre dışı bırakılması için OneDrive kapanır. Herhangi bir sitede paylaşımı dış izin vermek için kuruluş çapında ayarınızı üzerinde olması gerekir. > Dış paylaşım OneDrive veya tek tek tüm SharePoint siteleri için izin vermek için kuruluş çapında SharePoint için etkinleştirilmesi. Sonra onu belirli site koleksiyonları için kapatabilirsiniz. İletişim siteleri ve Office 365 gruplara ait siteleri harici paylaşım ayarlarını yönetmek için yeni SharePoint Yönetim Merkezi (Önizleme) veya PowerShell kullanmanız gerekir. Dış paylaşım ayarlarını yönetme hakkında daha fazla bilgi için bkz: [dış paylaşımını Kapat](https://go.microsoft.com/fwlink/?linkid=866426). 
+> SharePoint için paylaşım devre dışı bırakılması için OneDrive kapanır. Herhangi bir sitede paylaşımı dış izin vermek için kuruluş çapında ayarınızı üzerinde olması gerekir. > OneDrive veya tek tek tüm SharePoint siteleri için paylaşımı dış izin vermek için SharePoint kuruluş çapında etkinleştirmelisiniz. Sonra onu belirli site koleksiyonları için kapatabilirsiniz. İletişim siteleri ve Office 365 gruplara ait siteleri harici paylaşım ayarlarını yönetmek için yeni SharePoint Yönetim Merkezi (Önizleme) veya PowerShell kullanmanız gerekir. Dış paylaşım ayarlarını yönetme hakkında daha fazla bilgi için bkz: [dış paylaşımını Kapat](https://go.microsoft.com/fwlink/?linkid=866426). 
   
 [Dış SharePoint'te paylaşma hakkında daha fazla bilgi edinin](https://go.microsoft.com/fwlink/?linkid=734908)
   

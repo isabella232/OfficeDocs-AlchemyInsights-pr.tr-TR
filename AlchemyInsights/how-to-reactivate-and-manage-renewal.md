@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
 ms.openlocfilehash: de9ab3b22eb2416f47c99f0588bc73d1ad57ab2d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28317576"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29494769"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Yeniden etkinleştirmek ve yinelenen fatura yönetme
 
