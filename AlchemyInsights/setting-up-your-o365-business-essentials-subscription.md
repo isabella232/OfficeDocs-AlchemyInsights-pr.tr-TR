@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f637accfbcf9e3f77ab75dd89bb618e4eb5c4cf0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28318508"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29495024"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>O365 Business Essentials aboneliğinizi kurma
 
 Office 365 hesapları oluşturun ve etki alanınızdaki eklemek
   
-- Bu adımda, kullanıcılarınız için Office 365 hesapları oluşturmak ve kendi etki alanı eklemek için Kurulum Sihirbazı'nı kullanın. Sihirbaz herkesin kullanıcı kimliği ve e-posta [rob@contoso.com](mailto:rob@contoso.com)gibi işletmeniz için kişiselleştirmenize olanak sağlar.
+- Bu adımda, Kurulum Sihirbazı'nı kullanarak kullanıcılarınız için Office 365 hesapları oluşturacak ve kendi etki alanınızı ekleyeceksiniz. Sihirbaz, işletmeniz için herkesin kullanıcı kimliğini ve e-postasını kişiselleştirmenize (rob@contoso.com gibi) imkan tanır.
     
 - [Office 365 yönetim merkezine gidin](https://login.partner.microsoftonline.cn/).
     

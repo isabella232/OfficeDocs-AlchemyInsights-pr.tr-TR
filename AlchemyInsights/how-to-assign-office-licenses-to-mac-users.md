@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.openlocfilehash: 23e680603bb120a3daadd0f5e912cae570d3b915
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28317567"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29495052"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Mac kullanıcıları için Office lisansı atama hakkında
 
@@ -24,7 +24,7 @@ ms.locfileid: "28317567"
     
 - Sağ kısımdaki **Ürün lisansları** satırında **Düzenle**'yi seçin.
     
-- **Ürün Lisansı**s Bölmesi'nde, bu kullanıcıya atamak istediğiniz lisans **üzerindeki** konumunu aç/kapa geçin. 
+- **Ürün lisansları** bölmesinde, bu kullanıcıya atamak istediğiniz lisansın iki durumlu düğmesini **Açık** konuma getirin. 
     
 - **Ürün lisansları** bölmesinin en altında, **Kaydet** \> **Kapat** \> **Kapat**'ı seçin.
     
