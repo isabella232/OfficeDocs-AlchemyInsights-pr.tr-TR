@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
 ms.openlocfilehash: d5ffe2695c7a81380126e6ee58eae8fcbcb72832
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28317889"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29494534"
 ---
 # <a name="unable-to-send-group-emails"></a>Grup e-posta gönderilemiyor.
 
@@ -26,7 +26,7 @@ Kişi veya kişi grupları için e-posta gönderebilirler, aşağıdakileri dene
     
 2. [Kişiler](https://outlook.live.com/people/)kişi listesi veya grubu seçin ve sonra **e-posta Gönder**' i seçin, grup için e-posta oluşturma sorun yaşamaya devam ediyorsanız, gidin.
     
- **Notlar:**
+ **Notlar**
   
 1. Engellenen Açılır pencereleri değilsiniz emin olun: e-posta gönderme ilgili kişi listesi sayfası, yeni bir pencere açar.
     
