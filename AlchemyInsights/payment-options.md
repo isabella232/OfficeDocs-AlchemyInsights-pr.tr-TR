@@ -1,5 +1,5 @@
 ---
-title: Ödeme seçenekleri
+title: Ödeme seçenekleri’ni seçin.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 2130f3fffccdc71e2777991d34ed39402142c23c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28318511"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29495065"
 ---
- **Ödeme seçenekleri**
+ Ödeme seçenekleri’ni seçin.
   
 Kredi kartı, banka hesabı (doğrudan borç) ve fatura (çekle ödeme veya elektronik fon transferi)
   
@@ -38,6 +38,6 @@ Geçerli bir abonelik için ödeme yapma nasıl değiştirmek istiyorsanız, yö
   
  **Ek bilgi**
   
-[İş Abonelik için Office 365 için ödeme](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
+[İş için Office 365 aboneliğinizi ödeme](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
 
