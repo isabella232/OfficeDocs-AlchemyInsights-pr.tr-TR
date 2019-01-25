@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3241ac3e-57be-4888-9e95-c48c0cca8b13
 ms.openlocfilehash: 26dcf946c12738e0ca47a6751162f5cb7a365067
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28318107"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29494327"
 ---
-# <a name="storage-limits-in-outlookcom"></a><span data-ttu-id="26905-102">Outlook.com depolama sınırları</span><span class="sxs-lookup"><span data-stu-id="26905-102">Storage limits in Outlook.com</span></span>
+# <a name="storage-limits-in-outlookcom"></a><span data-ttu-id="3eed7-102">Outlook.com depolama sınırları</span><span class="sxs-lookup"><span data-stu-id="3eed7-102">Storage limits in Outlook.com</span></span>
 
-<span data-ttu-id="26905-p101">Microsoft, e-posta depolama alanı ücretsiz Outlook.com hesap başına 15 GB sunar. Office 365 ev ve Office 365 kişisel aboneleri 50 GB alanı alın.</span><span class="sxs-lookup"><span data-stu-id="26905-p101">Microsoft offers 15GB of email storage space per free Outlook.com account. Office 365 Home and Office 365 Personal subscribers get 50GB of space.</span></span>
+<span data-ttu-id="3eed7-p101">Microsoft, e-posta depolama alanı ücretsiz Outlook.com hesap başına 15 GB sunar. Office 365 ev ve Office 365 kişisel aboneleri 50 GB alanı alın.</span><span class="sxs-lookup"><span data-stu-id="3eed7-p101">Microsoft offers 15GB of email storage space per free Outlook.com account. Office 365 Home and Office 365 Personal subscribers get 50GB of space.</span></span>
   
-<span data-ttu-id="26905-p102">Gelen kutusu dolu ise, herhangi bir ileti göndermek veya almak mümkün olmayacaktır. Ayrıca, e-posta gönderen kişiler, gelen kutusu dolu bir hata iletisi alırsınız. Gelen kutunuza depolama alanı boşaltmak için [depolama sınırları içinde Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001900&amp;clcid=0x409)bakın.</span><span class="sxs-lookup"><span data-stu-id="26905-p102">If your inbox is full, you won't be able to send or receive any messages. Also, people who send you email will receive an error message that your inbox is full. To free up storage space in your inbox, see [Storage limits in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001900&amp;clcid=0x409).</span></span>
+<span data-ttu-id="3eed7-p102">Gelen kutusu dolu ise, herhangi bir ileti göndermek veya almak mümkün olmayacaktır. Ayrıca, e-posta gönderen kişiler, gelen kutusu dolu bir hata iletisi alırsınız. Gelen kutunuza depolama alanı boşaltmak için [depolama sınırları içinde Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001900&amp;clcid=0x409)bakın.</span><span class="sxs-lookup"><span data-stu-id="3eed7-p102">If your inbox is full, you won't be able to send or receive any messages. Also, people who send you email will receive an error message that your inbox is full. To free up storage space in your inbox, see [Storage limits in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001900&amp;clcid=0x409).</span></span>
   
 
