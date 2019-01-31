@@ -2,44 +2,28 @@
 title: Etkinleştirme sorunlarını giderme
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Makalenizi çok kısa bir giriş (1. cümle) ile başlatın. Kendinizi okuyucunun - yararlanılmasını neden burada olduklarını? Yapması gerekenler?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498286"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646979"
 ---
-Makalenizi çok kısa bir giriş (1. cümle) ile başlatın. Kendinizi okuyucunun - yararlanılmasını neden burada olduklarını? Yapması gerekenler? 
-  
-1. Hızlı bir görevi yerine getirmek için gerekli adımları listesine düz öğrenin.
-    
-    Bir kavramı açıklamak gereksinim duyduğunuz ya da önceden gerekli adımları yapmak sahip oldukları ve kavram veya adımları [bağlantı](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) gereken yeri adım aşağıda hızlı bir Özet ekleyin. 
-    
-2. Yordamlar kısa - tercihen 5 veya daha az adım, en fazla 8 tutun.
-    
-3. **UI Stili** kullanmak için kullanıcı arabirimi öğeleri veya metni kişilerin girmeniz gerekir. 
-    
-4. Fiiller seçin, Seç veya eylemler olarak girin ve menü **menü** olarak biçimlendirmek kullan \> **komutu**.
-    
-5. İsteğe bağlı olarak, bağlam için bir ekran görüntüsü (kullanıcı Arabirimi bulmak sabit veya görevi tamamlamak için gerekli olan varsa) ekleyin.
-    
-    En fazla genişlik: 520 piksel. Standart bir tema kullanmak, değil herhangi bir kişisel bilgi göster ve yalnızca ilgili nedir göstermek için kırpma. 
-    
-    ![Yer tutucu - SOC makale resimler için maksimum genişlik 520 pikseldir](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-[Adımlar ve video kılavuz örnek](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx)video veya ekran görüntüsü eklemek, iki sütun kılavuzunu kullanın ve ekran görüntüsü - sağ veya sol ve video adımları sahip olmasını istiyorsanız, bkz. 
-  
-Bir makale için 500'den fazla sözcük hedefleyin.
-  
-# <a name="example-article"></a>Örnek makale
+# <a name="activation-troubleshooting"></a>Etkinleştirme sorunlarını giderme
 
-[Benim fotoğraf değiştirme](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+**Denetim Masası** ' ndaki \> **programları ve özellikleri**, Office arayın. Microsoft Office 365 ProPlus veya Microsoft Office 365 iş görmelisiniz. Listelenen Office'in birden çok sürümünü görürseniz, kullanmadığınız sürümü kaldırın. 
   
-
+Denetim Masası'nı kullanarak başarıyla kaldıramazsanız, [Destek ve kurtarma Yardımcısı](https://aka.ms/SARA-OfficeUninstall-Alchemy) kullanmadığınız sürümünü kaldırmak için kullanın. 
+  
+Office hala lisanssız ise, **Denetim Masası** geri dönmek \> **Programlar ve Özellikler**. Kalan Office yükleme sağ tıklatın, **Değiştir** (veya Değiştir) seçin ve **Çevrimiçi Onar**' ı seçin. Çevrimiçi onarım biraz zaman alabilir. Office'i yeniden başlatın ve çalışmanızı kullanarak oturum açın veya hesap, istenirse Okul.
+  
+Office hala lisanssız ise, karşıdan yükleme ve etkinleştirme sorunlarını gidermek için etkilenen makinede [etkinleştirme sorun gidericisini](https://aka.ms/SARA-OfficeActivation-Alchemy) çalıştırın. 
+  
+Daha fazla bilgi için bkz: [Office Etkinleştirme hataları ve lisanssız ürün](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

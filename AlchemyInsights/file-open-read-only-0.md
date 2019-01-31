@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a828f8d-ff31-40a7-b701-b2339e771817
-ms.openlocfilehash: cbc3a97debc70ce7be02f651253c71651bbb2643
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ed1db79b7c0aef53c7ded1a8d2119fd326a84832
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29495104"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661267"
 ---
 # <a name="file-open-read-only"></a>Dosyayı salt okunur açmak
 
@@ -30,7 +30,7 @@ Dosya özellikleri, dosyayı sağ tıklayıp Özellikler'i seçerek denetleyebil
   
  **İçerik korumalı görünümde olur.**
   
-Internet ve diğer güvenli olmama olasılığı bulunan yerlerden gelen dosyaları virüs, solucan veya diğer tür, bilgisayarınıza zarar verebilecek kötü amaçlı yazılım içerebilir. Bu da genellikle e-posta eklerini veya karşıdan yüklediğiniz dosyaları ile durumdur. Bilgisayarınızın korunmasına yardımcı olmak için güvenli olmama olasılığı bulunan bu konumlardan dosya Korumalı Görünüm'de açılır. Korumalı Görünüm'ü kullanarak, bir dosyayı okumasına ve riskleri azaltmanın yanı sıra içeriğine bakın. Korumalı Görünüm ve ayarlarının nasıl değiştirileceği hakkında daha fazla bilgi için bu makaleye bakın: [Korumalı Görünüm nedir?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Internet ve diğer güvenli olmama olasılığı bulunan yerlerden gelen dosyaları virüs, solucan veya diğer tür, bilgisayarınıza zarar verebilecek kötü amaçlı yazılım içerebilir. Bu da genellikle e-posta eklerini veya karşıdan yüklediğiniz dosyaları ile durumdur. Bilgisayarınızın korunmasına yardımcı olmak için güvenli olmama olasılığı bulunan bu konumlardan dosya Korumalı Görünüm'de açılır. Korumalı Görünüm'ü kullanarak, bir dosyayı okumasına ve riskleri azaltmanın yanı sıra içeriğine bakın. Korumalı Görünüm ve ayarlarının nasıl değiştirileceği hakkında daha fazla bilgi için bu makaleye bakın: [Korumalı Görünüm nedir?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **OneDrive dolu mu?**
   
@@ -38,7 +38,7 @@ Dosya OneDrive üzerinde depolanır ve OneDrive depolama alanınızı tam ise, a
   
  **Office etkinleştirildi mi?**
   
-Office etkinleştirilmemişse veya aboneliğinizi süresi dolmuşsa, salt okunur sınırlı işlevsellik Modu'nda olabilir. Office etkinleştirme hakkında daha fazla bilgi için bkz: [Office Etkinleştirme hataları ve lisanssız ürün](https://support.office.com/en-us/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Office etkinleştirilmemişse veya aboneliğinizi süresi dolmuşsa, salt okunur sınırlı işlevsellik Modu'nda olabilir. Office etkinleştirme hakkında daha fazla bilgi için bkz: [Office Etkinleştirme hataları ve lisanssız ürün](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Hepsi başarısız olursa...**
   

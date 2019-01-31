@@ -2,51 +2,30 @@
 title: SharePoint sitesini Sil
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29495069"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660036"
 ---
 # <a name="delete-a-sharepoint-site"></a>SharePoint sitesini Sil
-
- **Bir Office 365 grubuna ait siteleri silin:**
+ **Yeni SharePoint Yönetim Merkezi'nden sitelerini Sil**
   
-Kullanıcılar SharePoint evden yeni bir ekip sitesi oluşturun (veya yeni SharePoint Yönetim Merkezi önizleme yeni bir ekip sitesi oluşturduğunuzda,), karşılık gelen Office 365 grubu otomatik olarak oluşturulur. Teams Microsoft Office 365 grup veya bir takım oluşturduğunuzda office 365 Grup bağlı ekip siteleri de oluşturulur. Bir Office 365 grubuna ait bir SharePoint sitesini silmek için Office 365 Grup silmeniz gerekir. 
+Etkin siteyi silmek için geçerli SharePoint Yönetim Merkezi'ne gidin, "şimdi sağ üst'ı deneyin" bağlantısını tıklatın. **Etkin sitelere**seçin, siteyi seçin ve sonra **Sil**' i seçin. [Yeni SharePoint Yönetim Merkezi'ndeki Site Silinen görünümü ve geri yükleme](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)için **siteleri silinmiş**seçin. Daha fazla bilgi için bkz: [Yeni SharePoint Yönetim Merkezi'ndeki siteleri yönetme](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
-1. [Office 365 Yönetim Merkezi sayfasının grupları](https://portal.office.com/adminportal/home#/groups)gidin.
+**Önemli:** Site bekletme ilkesinin bir parçası ise, size site kaldırılır kadar silmek mümkün olmayabilir [Güvenlik &amp; uygunluk Yönetim Merkezi](https://protection.office.com/?rfr=AdminCenter#/homepage). [Bekletme İlkeleri'ne genel bakış](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) , daha fazla bilgi için bkz. 
   
-2. Grubun yanındaki onay kutusunu seçin.
-  
-3. **Sil**' i seçin. 
-  
-Not: bir grubu sildiğinizde, olabilir bir gecikme site SharePoint'ten kaldırılmadan önce.
-  
- **Klasik veya iletişim siteleri silin:**
-  
-1. Sitesine gidin.
-  
-2. ' I ** ayarları ** (dişli Tekerlek simgesi) sağ üst. 
-  
-3. **Site ayarları**' nı tıklatın. **Site bilgileri** veya **Site eylemleri**altında **Bu siteyi sil**' i tıklatın ve sonra **Sil**' i tıklatın. 
-  
- **SharePoint site koleksiyonunu silin:**
-  
-Klasik site koleksiyonunu silmek için:
-  
-1. Klasik SharePoint Yönetim Merkezi, site koleksiyonları sayfasında, site koleksiyonu yanındaki **onay kutusunu** seçin. 
-  
-2. Site koleksiyonlarını sekmesinde seçtiğiniz **silin.**
-  
- **Bir sitenin yanlışlıkla silinmiş?**
-  
-[Silinmiş bir site koleksiyonunu geri](https://go.microsoft.com/fwlink/?linkid=867660)bakın.
+İpuçları:
+- Şimdi bir **Office 365 Grup**üyeliği siteleri genel yöneticileri ve SharePoint yöneticileri silebilirsiniz. Bu grup ve Outlook posta ve Takvim ve tüm takımlar kanalları da dahil olmak üzere tüm kaynaklarını, silecek. Daha fazla bilgi için bkz: [bir SharePoint sitesi silme](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- 93 gün siteleri silinmiş kurtarabilirsiniz. Not Silinmiş Grup 30 gün içinde geri yüklenmesi gerekir. Daha fazla bilgi için bkz: [siteleri görüntüle ve geri yükleme silindi](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Bir site Powershell ile tümüyle kaldırmak için [Kaldır-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet örneğe bakın. 
   
 

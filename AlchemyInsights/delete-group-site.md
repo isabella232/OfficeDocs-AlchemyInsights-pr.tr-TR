@@ -3,31 +3,30 @@ title: Site Grubu Sil
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 6/8/2018
+ms.date: 1/24/2019
 ms.audience: Admin
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 521e61b64be253be1eee3d7d41f930d55e1492a3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0541ae0fadd4bad34476fa80bd501bdde739c23
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29495186"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660691"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Bir Office 365 grubuna ait bir SharePoint sitesini Sil
 
-Kullanıcılar SharePoint evden yeni bir ekip sitesi oluşturun (veya yeni SharePoint Yönetim Merkezi önizleme yeni bir ekip sitesi oluşturduğunuzda,), karşılık gelen Office 365 grubu otomatik olarak oluşturulur. Teams Microsoft Office 365 grup veya bir takım oluşturduğunuzda office 365 Grup bağlı ekip siteleri de oluşturulur. Bir Office 365 grubuna ait bir SharePoint sitesini silmek için Office 365 Grup silmeniz gerekir. 
+Genel yöneticileri ve SharePoint yöneticileri bir Office 365 grubuna ait siteler artık silebilirsiniz. Bu siteleri silme, Grup ve Outlook posta ve Takvim ve tüm takımlar kanalları da dahil olmak üzere tüm kaynaklarını, silecek.
   
-1. [Office 365 Yönetim Merkezi sayfasının grupları](https://portal.office.com/adminportal/home#/groups)gidin.
-    
-2. Grubun yanındaki onay kutusunu seçin.
-    
-3. **Sil**' i seçin.
-    
-Not: bir grubu sildiğinizde, olabilir bir gecikme site SharePoint'ten kaldırılmadan önce.
+Önemli:
+- 93 gün siteleri silinmiş kurtarabilirsiniz. Daha fazla bilgi için bkz: görüntüleme ve Silinen siteler geri yükleyin. Not Silinmiş Grup 30 gün içinde geri yüklenmesi gerekir. 
+- Site bekletme ilkesinin bir parçası ise, size site kaldırılır kadar silmek mümkün olmayabilir [Güvenlik &amp; uygunluk Yönetim Merkezi](https://protection.office.com/?rfr=AdminCenter#/retention). [Bekletme İlkeleri'ne genel bakış](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) , daha fazla bilgi için bkz. 
+  
+[Yeni SharePoint Yönetim Merkezi'ndeki Site Silinen görünümü ve geri yükleme](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)için **siteleri silinmiş**seçin. Silinmiş olan bir site seçin ve geri veya Delete (hangi sitenin kalıcı olarak siler) seçin. Etkin siteyi silmek için **Etkin** siteler'i seçin, siteyi seçin ve **Sil**' i seçin. Daha fazla bilgi için bkz: [Yeni SharePoint Yönetim Merkezi'ndeki siteleri yönetme](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
 

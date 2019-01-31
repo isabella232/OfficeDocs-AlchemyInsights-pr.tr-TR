@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
-ms.openlocfilehash: 81479c4438ce7d981af1312fd4eb7b6ae51ffd42
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 16821181a58da470b37e286e082180d0c6012b2d
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29494418"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655867"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>Etki alanı ad sunucularınızı Office 365'e güncelleştirme
 
@@ -31,6 +31,6 @@ Office 365'te etki alanınızı ayarlamak için kayıt şirketinizdeki ad sunucu
     
 3. Değişiklikleri kaydedin.
     
-Bu makalede de ayrıntılı yönergeler bulabilirsiniz: [Herhangi bir etki alanı kayıt şirketiyle Office 365'i ayarlamak için ad sunucularını değiştirme](https://support.office.com/article/https://support.office.com/en-us/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
+Bu makalede de ayrıntılı yönergeler bulabilirsiniz: [Herhangi bir etki alanı kayıt şirketiyle Office 365'i ayarlamak için ad sunucularını değiştirme](https://support.office.com/article/https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
   
 

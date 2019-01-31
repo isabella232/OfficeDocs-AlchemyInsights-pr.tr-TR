@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
-ms.openlocfilehash: eaad6c0d62011957a870943e8868787d7926376c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d2dfb2b59fe78671980931d50a00a98af774a3df
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29494797"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661015"
 ---
 # <a name="trying-to-remove-your-domain"></a>Etki alanınızın kaldırmaya çalışıyorsunuz?
 
-Etki alanınızı Office 365 ' kaldırmak için bu makaledeki adımları izleyin: [Office 365'den etki alanı kaldırma](https://support.office.com/article/https://support.office.com/en-us/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
+Etki alanınızı Office 365 ' kaldırmak için bu makaledeki adımları izleyin: [Office 365'den etki alanı kaldırma](https://support.office.com/article/https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
   
 Kullanıcıları veya grupları, etki alanını kaldırmadan önce bu etki alanı adı için atanan güncelleştirmeniz gerekir.
   
