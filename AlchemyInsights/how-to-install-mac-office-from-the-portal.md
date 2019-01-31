@@ -3,27 +3,29 @@ title: Portal Mac Office nasıl yüklenir
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
-ms.openlocfilehash: f5d99c0710f3de69b99206a2780b4ae3064418c5
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ac9ad20db3a55e9c9b3795c7d95bf84fa7b43389
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29494993"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661375"
 ---
-# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="141b4-102">Portal Mac Office nasıl yüklenir</span><span class="sxs-lookup"><span data-stu-id="141b4-102">How to install Mac Office from the portal</span></span>
+# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="817cc-102">Portal Mac Office nasıl yüklenir</span><span class="sxs-lookup"><span data-stu-id="817cc-102">How to install Mac Office from the portal</span></span>
 
-1. <span data-ttu-id="141b4-103">[Bilgisayarlarınızı Mac için Office 2011 kaldırın](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa).</span><span class="sxs-lookup"><span data-stu-id="141b4-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa).</span></span>
+
+1. <span data-ttu-id="817cc-103">[Bilgisayarlarınızı Mac için Office 2011 kaldırın](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="817cc-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span></span>
     
-2. <span data-ttu-id="141b4-104">[Emin olun Mac yazılım yüklemeleri Office 365 Yönetici portalı etkindir](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360).</span><span class="sxs-lookup"><span data-stu-id="141b4-104">[Ensure Mac Software downloads are enabled on the Office 365 admin portal](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360).</span></span>
+2. <span data-ttu-id="817cc-104">[Emin olun Mac yazılım yüklemeleri Office 365 Yönetici portalı etkindir](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="817cc-104">[Ensure Mac Software downloads are enabled on the Office 365 admin portal](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).</span></span>
     
-3. <span data-ttu-id="141b4-105">[Bir Office lisans Mac Kullanıcılarınıza atamak](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).</span><span class="sxs-lookup"><span data-stu-id="141b4-105">[Assign an Office license to your Mac users](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).</span></span>
+3. <span data-ttu-id="817cc-105">[Bir Office lisans Mac Kullanıcılarınıza atamak](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="817cc-105">[Assign an Office license to your Mac users](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span></span>
     
-4. <span data-ttu-id="141b4-106">Kullanıcılar daha sonra Office yazılımı kendilerini yükleyebilir veya [Dağıtmak Office Mac kullanıcılarınız için](https://docs.microsoft.com/en-us/DeployOffice/mac/deployment-guide-for-office-for-mac)kullanabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="141b4-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/en-us/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>
+4. <span data-ttu-id="817cc-106">Kullanıcılar daha sonra Office yazılımı kendilerini yükleyebilir veya [Dağıtmak Office Mac kullanıcılarınız için](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac)kullanabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="817cc-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>
     
 

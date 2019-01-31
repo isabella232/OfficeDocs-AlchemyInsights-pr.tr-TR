@@ -11,23 +11,23 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 58b9b6d4d5de9b9863bf9c2ab0b55e50ca074e45
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f9b7af73137814462b1130b7f377683b80b85d22
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29494864"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655183"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="7cda7-102">DNS kayıtlarını güncelleştirerek web sitenizi geçerli barındırma sağlayıcınızla koruma</span><span class="sxs-lookup"><span data-stu-id="7cda7-102">Update DNS records to keep your website with your current hosting provider</span></span>
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="58fc2-102">DNS kayıtlarını güncelleştirerek web sitenizi geçerli barındırma sağlayıcınızla koruma</span><span class="sxs-lookup"><span data-stu-id="58fc2-102">Update DNS records to keep your website with your current hosting provider</span></span>
 
-<span data-ttu-id="7cda7-103">Office 365 ortak Web barındırma sağlayıcısına başka bir taşıma işleminin bir parçası olarak, büyük olasılıkla etki alanı kayıtlarınızı değişiklikler yapmak gerekecektir.</span><span class="sxs-lookup"><span data-stu-id="7cda7-103">As part of the process of moving your Office 365 Public Website to another hosting provider, you'll likely need to make changes to your domain records.</span></span>
+<span data-ttu-id="58fc2-103">Office 365 ortak Web barındırma sağlayıcısına başka bir taşıma işleminin bir parçası olarak, büyük olasılıkla etki alanı kayıtlarınızı değişiklikler yapmak gerekecektir.</span><span class="sxs-lookup"><span data-stu-id="58fc2-103">As part of the process of moving your Office 365 Public Website to another hosting provider, you'll likely need to make changes to your domain records.</span></span>
   
-1. <span data-ttu-id="7cda7-104">**Kurulumu** için Yönetim Merkezi'nde Git \> **etki alanları** ve değiştirmek istediğiniz etki alanı adını seçin.</span><span class="sxs-lookup"><span data-stu-id="7cda7-104">In the admin center, go to **Setup** \> **Domains** and choose the domain name you want to change.</span></span> 
+1. <span data-ttu-id="58fc2-104">**Kurulumu** için Yönetim Merkezi'nde Git \> **etki alanları** ve değiştirmek istediğiniz etki alanı adını seçin.</span><span class="sxs-lookup"><span data-stu-id="58fc2-104">In the admin center, go to **Setup** \> **Domains** and choose the domain name you want to change.</span></span> 
     
-2. <span data-ttu-id="7cda7-105">Web sitenize yeni barındırma sağlayıcınıza hizalar bilgileri girin.</span><span class="sxs-lookup"><span data-stu-id="7cda7-105">Enter the information that aligns to your website with your new hosting provider.</span></span>
+2. <span data-ttu-id="58fc2-105">Web sitenize yeni barındırma sağlayıcınıza hizalar bilgileri girin.</span><span class="sxs-lookup"><span data-stu-id="58fc2-105">Enter the information that aligns to your website with your new hosting provider.</span></span>
     
-<span data-ttu-id="7cda7-106">Daha fazla bilgi için bkz: [güncelleştirme DNS kayıtları geçerli barındırma sağlayıcınız ile Web sitenizi korumak için](https://support.office.com/en-us/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061).</span><span class="sxs-lookup"><span data-stu-id="7cda7-106">To learn more, see [Update DNS records to keep your website with your current hosting provider](https://support.office.com/en-us/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061).</span></span> 
+<span data-ttu-id="58fc2-106">Daha fazla bilgi için bkz: [güncelleştirme DNS kayıtları geçerli barındırma sağlayıcınız ile Web sitenizi korumak için](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061).</span><span class="sxs-lookup"><span data-stu-id="58fc2-106">To learn more, see [Update DNS records to keep your website with your current hosting provider](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061).</span></span> 
   
-<span data-ttu-id="7cda7-107">[Ortak site discontinuation hakkında daha fazla bilgi için SharePoint çevrimiçi ortak na sonra devam edilecek Web sitelerine](https://support.office.com/en-us/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US)bakın.</span><span class="sxs-lookup"><span data-stu-id="7cda7-107">To learn more about the public site discontinuation, see [SharePoint Online Public Websites to be discontinued](https://support.office.com/en-us/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span> 
+<span data-ttu-id="58fc2-107">[Ortak site discontinuation hakkında daha fazla bilgi için SharePoint çevrimiçi ortak na sonra devam edilecek Web sitelerine](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US)bakın.</span><span class="sxs-lookup"><span data-stu-id="58fc2-107">To learn more about the public site discontinuation, see [SharePoint Online Public Websites to be discontinued](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span> 
   
 
