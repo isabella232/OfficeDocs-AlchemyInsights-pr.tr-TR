@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29494914"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646403"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Bir Office 365 grubuna ait siteleri silin:
 
@@ -30,7 +30,7 @@ Kullanıcılar SharePoint evden yeni bir ekip sitesi oluşturun (veya yeni Share
     
 Not: bir grubu sildiğinizde, olabilir bir gecikme site SharePoint'ten kaldırılmadan önce.
   
-## <a name="delete-communication-sites-or-classic-sites"></a>Klasik veya iletişim siteleri silin:
+**Klasik veya iletişim siteleri silin:**
 
 1. Sitesine gidin.
   
@@ -38,7 +38,7 @@ Not: bir grubu sildiğinizde, olabilir bir gecikme site SharePoint'ten kaldırı
   
 3. **Site ayarları**' nı tıklatın. **Site bilgileri** veya **Site eylemleri**altında **Bu siteyi sil**' i tıklatın ve sonra **Sil**' i tıklatın.
   
-## <a name="delete-a-sharepoint-site-collection"></a>SharePoint site koleksiyonunu silin:
+**SharePoint site koleksiyonunu silin:**
 
 Klasik site koleksiyonunu silmek için:
   
@@ -46,7 +46,7 @@ Klasik site koleksiyonunu silmek için:
     
 2. Site koleksiyonlarını sekmesinde seçtiğiniz **silin.**
     
-## <a name="deleted-a-site-by-accident"></a>Bir sitenin yanlışlıkla silinmiş?
+**Bir sitenin yanlışlıkla silinmiş?**
 
 [Silinmiş bir site koleksiyonunu geri](https://go.microsoft.com/fwlink/?linkid=867660)bakın.
   

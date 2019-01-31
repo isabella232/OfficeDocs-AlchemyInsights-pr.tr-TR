@@ -3,24 +3,24 @@ title: İPad üzerinde Office nasıl yüklenir
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
-ms.openlocfilehash: 1c892ea8e43c3adec107b1c15e2dc5693afa44e5
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96606cdfffd2ca548f36ea1233f8770b338bbf9c
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29495020"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29645899"
 ---
 # <a name="how-to-install-office-on-an-ipad"></a>İPad üzerinde Office nasıl yüklenir
 
-- Kullanıcı [uygun Office 365 abonelik](https://support.office.com/article/9ef8b63a-05fd-4f9c-bac5-29da046833ea)ile ilişkili iş veya Okul bir hesap olduğundan emin olun.
-    
-- Word, Excel, PowerPoint ve OneNote kullanıcı [karşıdan yükleme bağlantısını dokunun](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628) kendi mobil aygıttan vardır. 
+
+- Word, Excel, PowerPoint ve OneNote kullanıcı [karşıdan yükleme bağlantısını dokunun](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) kendi mobil aygıttan vardır. 
     
 - Kullanıcı uygulamayı başlatın, **Oturum Aç'a** dokunun ve işlerini girin veya kimlik bilgileri Okul vardır. 
     
