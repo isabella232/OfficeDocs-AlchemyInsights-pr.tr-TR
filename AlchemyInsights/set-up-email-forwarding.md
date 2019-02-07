@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 3215eadb8555a194680326768adf58e021f0bd55
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 4cb1a0455bc9cbdd5b838e97e0e2e8b90f06ff93
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657853"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759480"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Bir posta kutusu ayarlarını iletme e-postayı denetle
 
@@ -30,6 +30,6 @@ Daha fazla ayrıntı için [e-posta içinde Office 365 iletme yapılandırma](ht
   
 Üzerinde kendi posta kutularına e-posta iletme yukarı ayarlayabilirsiniz böylece kullanıcılarınız için yönergeleri göndermek için bunları [e-postadan Office 365 başka bir e-posta hesabına ilet ](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e)gelin. Tek bir e-posta adresine iletebilirsiniz unutmayın. İçin bir grup kişiye iletme ayarlamanız gerekiyorsa, bir dağıtım listesine (Grup) altında oluşturun, ekleyin kullanıcılarınız için ve bu gruba iletme yapılandırın.
   
-Bırakarak bir çalışan var mı? [Office 365'den eski bir çalışanın kaldırmak](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) için önerilen atılması gereken adımları bakın. 
+Bırakarak bir çalışan var mı? [Office 365'den eski bir çalışanın kaldırmak](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) için önerilen atılması gereken adımları bakın. 
   
 
