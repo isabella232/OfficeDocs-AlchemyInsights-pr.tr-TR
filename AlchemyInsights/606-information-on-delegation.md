@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29495053"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770673"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a>Outlook ve Outlook Web temsilcileri hakkında
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Outlook ve Outlook web üzerinde temsilci sorunlarını giderme
 
-Daha fazla bilgi için şu konulara bakın:
-  
-- **Outlook**: [başkasının posta ve takviminizi yönetmesine izin](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)
-    
-- **Outlook Web**: [iş için Web'de Outlook'taki Takvim temsilci seçme](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)
-    
+**Sibel aracı ile sorun giderme:**
 
+1. Sibel aracını buradan yükleyip
+1. Outlook seçin, ardından "sorunları ile takvimim yaşıyorum"
+1. Etkilenen makinenin Evet deyin
+1. Etkilenen kullanıcının e-posta adresi ekleme
+1. "Temsilci izinleri ile ilgili sorunlarım" seçin
+1. Sonraki komut isteminde, izinleri vermeyi kişiyseniz, temsilciniz e-posta adresini girin. İzinler alındı ve temsilciyseniz, izin verdiği kişinin e-posta adresini girin.
+1. Sonraki menüde, senaryonuza en uygun seçeneği seçin. 
+1. Sonraki menü de izin düzeyini seçin.
+1. Bu aşamada, SaRA araç otomatik denetimleri gerçekleştirir ve olası çözüm ile sağlayacak veya alternatif olarak daha ayrıntılı sorun giderme için kullanılan bir tanı günlüğünü sağlayacaktır.
+1. C:\Users\Username\AppData\Local\SaraResults bulunan SaRA sonuçları klasöründeki günlükleri bulabilirsiniz
