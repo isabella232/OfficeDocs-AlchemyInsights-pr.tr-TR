@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 6c69511f6bcdad5793cd2473a20a2d168d2ac260
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 73e8db432afccb73b872ec7a3ce84c25f1ba7f25
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29660727"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786790"
 ---
+# <a name="retention-policies-in-exchange-admin-center"></a>Exchange Yönetim Merkezi'nde bekletme ilkeleri
+
  **Sorun:** Yeni oluşturulan veya posta kutularına Exchange Yönetim Merkezi'ndeki güncelleştirilmiş bekletme ilkeleri yapmamayı veya öğeleri değil arşiv posta kutusuna taşınmış veya silinmiş. 
   
  **Ana nedenler:**
