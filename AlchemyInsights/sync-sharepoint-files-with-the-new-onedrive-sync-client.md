@@ -7,16 +7,16 @@ ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: dba20a24df6e70d51fd06d929373dd3c0b2b6d92
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 99ad9631d31e106a949aad544982f173ee646bc5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29494181"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29917984"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Yeni OneDrive eşitleme istemcisi ile SharePoint dosyaları eşitleme
 
@@ -29,7 +29,7 @@ ms.locfileid: "29494181"
     > [!NOTE]
     > Bu seçenek görünmüyorsa, kuruluşunuzda zaten SharePoint dosyaları eşitlemek için yeni OneDrive eşitleme istemcisi kullanmak için ayarlanmış. 
   
-4. Click OK
+4. **Tamam**' ı tıklatın.
     
 Daha fazla bilgi için bkz: [Yeni OneDrive eşitleme istemcisi ile SharePoint dosyaları eşitlemek kullanıcılar etkinleştirme](https://go.microsoft.com/fwlink/?linkid=866433). [Yeni OneDrive eşitleme istemcisi ile eşitleme SharePoint dosyaları](https://go.microsoft.com/fwlink/?linkid=866427)kullanıcılarınıza vermek yönergeler için bkz.
   

@@ -7,14 +7,14 @@ ms.date: 11/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 46f868dba0f5e99ed1d2df7cf9bed7e5ebb350c9
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 9ecfb5bb167a0c959d39d47713bbb0e64862abb8
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29660151"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29926948"
 ---
 - Bir dava uygulamak için ayrı tutma veya bir yerinde tutun bir posta kutusu için bir [Plan 2 Exchange Online lisans](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) gereklidir. Başka bir planı varsa, ayrı bir [Exchange Online arşivleme](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) lisansı hesabına atayın. 
     
