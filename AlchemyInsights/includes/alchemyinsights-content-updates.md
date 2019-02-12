@@ -838,3 +838,57 @@
 | 30/1/2019 | [Bir hesabı alma 123 OWA'da hata devre?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | değiştiren |
 | 1/2/2019 | [aynı dosya adı iyi olduğu gibi [kural #-açıklama]](/AlchemyInsights/1-alchemy-insight-template) | değiştiren |
 | 1/2/2019 | [Bir posta kutusu izinlerini değiştirme](/AlchemyInsights/changing-permissions-on-a-mailbox) | değiştiren |
+
+
+## <a name="week-of-february-04-2019"></a>04 Şubat 2019 haftası
+
+
+| Üzerinde yayınlanan |Konu başlığı | Değiştir |
+|------|------------|--------|
+| 4/2/2019 | [Office 365'e kullanıcı ekleme](/AlchemyInsights/add-users-to-office-365) | değiştiren |
+| 6/2/2019 | [Çalışan bırakarak](/AlchemyInsights/employee-leaving) | değiştiren |
+| 6/2/2019 | [Yönetim denetimi](/AlchemyInsights/admin-takeover) | değiştiren |
+| 6/2/2019 | [127 e-posta erişirken bir TenantAccessBlockedException hatası alınıyor?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | değiştiren |
+| 6/2/2019 | [959 görüntü adını değiştir](/AlchemyInsights/959-change-display-name) | değiştiren |
+| 6/2/2019 | [Bir kullanıcı için bir e-posta diğer adı ekleyip](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | değiştiren |
+| 6/2/2019 | Boş koltuk için bir ön ödemeli abonelik Ekle | kaldırıldı |
+| 6/2/2019 | [Office 365'e kullanıcı ekleme](/AlchemyInsights/add-users-to-office-365) | değiştiren |
+| 6/2/2019 | [Dış kullanıcı bir dağıtım grubuna ekleme?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | değiştiren |
+| 6/2/2019 | Admin - Office 365 Genel Kurulum ve yönetim | kaldırıldı |
+| 6/2/2019 | Admin - kullanıcılar, gruplar ve kaynaklar yönetme | kaldırıldı |
+| 6/2/2019 | Admin - Kur etki alanı ve DNS ayarları | kaldırıldı |
+| 6/2/2019 | Admin - oturum açma ve parola sorunları | kaldırıldı |
+| 6/2/2019 | [Office 365 aboneliği iptal et](/AlchemyInsights/cancel-office-365-subscription) | değiştiren |
+| 6/2/2019 | [Bir kullanıcının adını ve e-posta adresini değiştirme](/AlchemyInsights/change-a-user-s-name-and-email-address) | değiştiren |
+| 6/2/2019 | Ticaret - faturaları, ödemeleri, abonelikleri ve Lisansları Yönet | kaldırıldı |
+| 6/2/2019 | [E-posta erişirken bir TenantAccessBlockedException hatası alıyorsunuz?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | değiştiren |
+| 6/2/2019 | [E-posta teslim sorunlarıyla karşılaşıyorsunuz?](/AlchemyInsights/having-email-delivery-issues-0) | değiştiren |
+| 6/2/2019 | [E-posta teslim sorunlarıyla karşılaşıyorsunuz?](/AlchemyInsights/having-email-delivery-issues) | değiştiren |
+| 6/2/2019 | [Bağlanmak için Outlook Alma sorunları yaşıyorsunuz?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | değiştiren |
+| 6/2/2019 | [Bağlanmak için Outlook Alma sorunları yaşıyorsunuz?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | değiştiren |
+| 6/2/2019 | Intune - karşıdan yükleme, kurma ve Intune kullanmak | kaldırıldı |
+| 6/2/2019 | [İş için Skype ile sorun?](/AlchemyInsights/issue-with-skype-for-business) | değiştiren |
+| 6/2/2019 | ODSP | kaldırıldı |
+| 6/2/2019 | Office istemci - Excel | kaldırıldı |
+| 6/2/2019 | [Silinen geri yükleme kullanıcı](/AlchemyInsights/restore-deleted-user) | değiştiren |
+| 6/2/2019 | [Devam eden hizmet olayı](/AlchemyInsights/service-incident-in-progress-0) | değiştiren |
+| 6/2/2019 | [Devam eden hizmet olayı](/AlchemyInsights/service-incident-in-progress-1) | değiştiren |
+| 6/2/2019 | [Devam eden hizmet olayı](/AlchemyInsights/service-incident-in-progress-2) | değiştiren |
+| 6/2/2019 | [Devam eden hizmet olayı](/AlchemyInsights/service-incident-in-progress-3) | değiştiren |
+| 6/2/2019 | [Devam eden hizmet olayı](/AlchemyInsights/service-incident-in-progress-4) | değiştiren |
+| 6/2/2019 | [Devam eden hizmet olayı](/AlchemyInsights/service-incident-in-progress-5) | değiştiren |
+| 6/2/2019 | [Devam eden hizmet olayı](/AlchemyInsights/service-incident-in-progress) | değiştiren |
+| 6/2/2019 | [Proje ayarlama](/AlchemyInsights/setting-up-project) | değiştiren |
+| 6/2/2019 | Arşiv, bekletme, dava, eBulma ve MDM Kur Uyumluluk özellikleri gibi | kaldırıldı |
+| 6/2/2019 | Office için çevrimdışı yükleyici kullanarak | kaldırıldı |
+| 6/2/2019 | Yammer - Kurulum ve Yammer hizmetlerini kullanmak | kaldırıldı |
+| 7/2/2019 | [Kilitlenen Excel?](/AlchemyInsights/excel-crashing) | değiştiren |
+| 7/2/2019 | [Nasıl eklemek veya bir VatID düzenlemek için](/AlchemyInsights/how-to-add-or-edit-a-vatid) | değiştiren |
+| 7/2/2019 | [Minecraft Edition Office 365 ile eğitim için serbest](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | değiştiren |
+| 7/2/2019 | [Temsilci 606 bilgi](/AlchemyInsights/606-information-on-delegation) | değiştiren |
+| 7/2/2019 | [Grubunuzun grupları listesinde göstermiyor](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | değiştiren |
+| 8/2/2019 | [DLP ilkesi çalışmıyor ipuçları](/AlchemyInsights/dlp-policy-tips-not-working) | değiştiren |
+| 8/2/2019 | [DLP kuralı ABD / İngiltere Pasaport numarası çalışmıyor](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | değiştiren |
+| 8/2/2019 | [Office 365 ücretsiz eğitim için](/AlchemyInsights/office-365-education-for-free) | değiştiren |
+| 8/2/2019 | [Microsoft ToDo için gerekli lisans](/AlchemyInsights/required-licences-for-microsoft-todo) | değiştiren |
+| 8/2/2019 | [Bekletme ilkeleri Exchange Yönetim Merkezi çalışmıyor](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | değiştiren |
