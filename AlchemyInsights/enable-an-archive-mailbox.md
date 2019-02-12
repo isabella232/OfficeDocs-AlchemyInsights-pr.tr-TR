@@ -1,21 +1,21 @@
 ---
-title: Arşiv Posta Kutusunu Etkinleştirme
+title: Bir arşiv posta etkinleştirme
 ms.author: markjjo
 author: markjjo
 ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 1e883894d97e6aff5de740d91a80aba25846953a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d2d30d6f78c99fe11fcf77dc010e6eddf0ddb482
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29494409"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927848"
 ---
-# <a name="enable-an-archive-mailbox"></a>Arşiv Posta Kutusunu Etkinleştirme
+# <a name="enable-an-archive-mailbox"></a>Bir arşiv posta etkinleştirme
 
 Arşiv posta kutuları ( *Çevrimiçi arşivleri* olarak da bilinir) Office 365'te kullanıcılara ek e-posta depolama sağlar. Kullanıcılar, taşımak veya öğeleri arşiv posta kutusuna kopyalamak ve admins posta kutuları arşivlemek için öğeleri otomatik olarak taşıyan bir arşiv ilkesi oluşturabilirsiniz. 
   
