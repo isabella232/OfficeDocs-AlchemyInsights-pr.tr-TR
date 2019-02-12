@@ -7,22 +7,22 @@ ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 61adcd2ba21a98793d072d3fad2d9d2e68fa3c20
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c1789c2eb11241b204f069f9b8231cd51b655c4b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29495103"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29935696"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Nasıl bir lisans bir kullanıcıya atamak için
 
 Bir kullanıcının hizmetlerine erişim sağlamak için bir lisans gerekir. Ekleme, değiştirme veya bir lisans bir kullanıcıyı kaldırmak için adımları şunlardır.
   
-1. Yönetim merkezinde [Etkin kullanıcılar](https://go.microsoft.com/fwlink/p/?linkid=834822) sayfasına gidin veya **Kullanıcılar** \> **Etkin kullanıcılar**'ı seçin.
+1. Yönetim Merkezi'nde [Etkin kullanıcılar](https://go.microsoft.com/fwlink/p/?linkid=834822) sayfasına gidin veya **kullanıcıların** \> **Etkin kullanıcılar**.
     
 2. Atama, değiştirme veya bir lisans kaldırmak istediğiniz kullanıcı adının yanındaki onay kutusunu işaretleyin.
     
