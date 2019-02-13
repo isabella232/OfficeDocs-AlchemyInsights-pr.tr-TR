@@ -6,23 +6,23 @@ ms.date: 9/19/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: f57713db-eb98-4980-a7fc-b53bf80f7e81
-ms.openlocfilehash: f93d0f648466f641c457a16e8fc8e69819fde316
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 80cbf08ede54fa97da4a8b8fa4365fe15ea0bae1
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759588"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29928535"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="b0b21-102">Devam eden hizmet olayı</span><span class="sxs-lookup"><span data-stu-id="b0b21-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="df6b6-102">Devam eden hizmet olayı</span><span class="sxs-lookup"><span data-stu-id="df6b6-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="b0b21-p101">Bir hizmeti olay tarafından etkilenen veya danışma, şu anda incelenmektedir. [Hizmet durumu](https://admin.microsoft.com/adminportal/home#/servicehealth) sayfasına giderek son durumunu denetleyebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="b0b21-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span> 
+<span data-ttu-id="df6b6-p101">Bir hizmeti olay tarafından etkilenen veya danışma, şu anda incelenmektedir. [Hizmet durumu](https://admin.microsoft.com/adminportal/home#/servicehealth) sayfasına giderek son durumunu denetleyebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="df6b6-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span> 
   
-<span data-ttu-id="b0b21-105">Kolaylık olması için bu olay aşağıdaki özetini bulabilirsiniz:</span><span class="sxs-lookup"><span data-stu-id="b0b21-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="df6b6-105">Kolaylık olması için bu olay aşağıdaki özetini bulabilirsiniz:</span><span class="sxs-lookup"><span data-stu-id="df6b6-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="b0b21-106">**Olay numarası:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="b0b21-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="df6b6-106">**Olay numarası:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="df6b6-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="b0b21-107">Açıklama etkisi: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="b0b21-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="df6b6-107">Açıklama etkisi: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="df6b6-107">Impact description: {ImpactDescription}</span></span>
     
 
