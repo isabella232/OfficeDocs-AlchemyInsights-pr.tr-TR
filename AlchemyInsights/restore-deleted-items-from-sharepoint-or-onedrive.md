@@ -7,33 +7,33 @@ ms.date: 5/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: a3c980565059e47a297a812cd6e2e656b36becb6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 94203849c1cca9dc1d2d6207f2390a57ad3e9680
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29494203"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29923204"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a><span data-ttu-id="e9edb-102">SharePoint veya OneDrive silinmiş öğeleri geri yükleme</span><span class="sxs-lookup"><span data-stu-id="e9edb-102">Restore deleted items from SharePoint or OneDrive</span></span>
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a><span data-ttu-id="266ae-102">SharePoint veya OneDrive silinmiş öğeleri geri yükleme</span><span class="sxs-lookup"><span data-stu-id="266ae-102">Restore deleted items from SharePoint or OneDrive</span></span>
 
-1. <span data-ttu-id="e9edb-103">OneDrive veya SharePoint sitesine gidin.</span><span class="sxs-lookup"><span data-stu-id="e9edb-103">Go to your OneDrive or the SharePoint site.</span></span>
+1. <span data-ttu-id="266ae-103">OneDrive veya SharePoint sitesine gidin.</span><span class="sxs-lookup"><span data-stu-id="266ae-103">Go to your OneDrive or the SharePoint site.</span></span>
     
-2. <span data-ttu-id="e9edb-104">Sol bölmede **Geri Dönüşüm Kutusu'nu** tıklatın.</span><span class="sxs-lookup"><span data-stu-id="e9edb-104">Click **Recycle Bin** in the left pane.</span></span> 
+2. <span data-ttu-id="266ae-104">Sol bölmede **Geri Dönüşüm Kutusu'nu** tıklatın.</span><span class="sxs-lookup"><span data-stu-id="266ae-104">Click **Recycle Bin** in the left pane.</span></span> 
     
-3. <span data-ttu-id="e9edb-105">Öğeleri veya dosyaları geri yüklemek istediğiniz solunu tıklatın.</span><span class="sxs-lookup"><span data-stu-id="e9edb-105">Click to the left of the items or files you want to restore.</span></span>
+3. <span data-ttu-id="266ae-105">Öğeleri veya dosyaları geri yüklemek istediğiniz solunu tıklatın.</span><span class="sxs-lookup"><span data-stu-id="266ae-105">Click to the left of the items or files you want to restore.</span></span>
     
-4. <span data-ttu-id="e9edb-106">**Geri Yükle**'ye tıklayın.</span><span class="sxs-lookup"><span data-stu-id="e9edb-106">Click **Restore**.</span></span> 
+4. <span data-ttu-id="266ae-106">**Geri Yükle**'ye tıklayın.</span><span class="sxs-lookup"><span data-stu-id="266ae-106">Click **Restore**.</span></span> 
     
-<span data-ttu-id="e9edb-p101">Dosyaları, klasörleri, kitaplıkları, listeleri ve liste öğelerini bir SharePoint sitesinden sildiğinizde, Geri Dönüşüm Kutusu'na birisi bu Geri Dönüşüm Kutusu'ndan siler sürece nerede bunlar 93 gün süreyle tutulacağını, gidin. Bu geri dönüşüm (sitenin Geri Dönüşüm Kutusu'na denir) depo gözünden silmiş, bunlar site koleksiyonu geri dönüşüm kutusu için kalan süreyi gidin ve sonra kalıcı olarak silinir. Silinen siteleri ve site koleksiyonları oluşturmalarını doğrudan 93 gün için site koleksiyonu Geri Dönüşüm Kutusu'na gidin.</span><span class="sxs-lookup"><span data-stu-id="e9edb-p101">When files, folders, libraries, lists, and list items are deleted from a SharePoint site, they go to the Recycle Bin, where they're kept for 93 days unless someone deletes them from this Recycle Bin. If they're deleted from this Recycle Bin (called the site Recycle Bin), they go to the site collection Recycle Bin for the remaining time, and then are permanently deleted. Deleted sites and site collections go directly to the site collection Recycle Bin for the 93 days.</span></span>
+<span data-ttu-id="266ae-p101">Dosyaları, klasörleri, kitaplıkları, listeleri ve liste öğelerini bir SharePoint sitesinden sildiğinizde, Geri Dönüşüm Kutusu'na birisi bu Geri Dönüşüm Kutusu'ndan siler sürece nerede bunlar 93 gün süreyle tutulacağını, gidin. Bu geri dönüşüm (sitenin Geri Dönüşüm Kutusu'na denir) depo gözünden silmiş, bunlar site koleksiyonu geri dönüşüm kutusu için kalan süreyi gidin ve sonra kalıcı olarak silinir. Silinen siteleri ve site koleksiyonları oluşturmalarını doğrudan 93 gün için site koleksiyonu Geri Dönüşüm Kutusu'na gidin.</span><span class="sxs-lookup"><span data-stu-id="266ae-p101">When files, folders, libraries, lists, and list items are deleted from a SharePoint site, they go to the Recycle Bin, where they're kept for 93 days unless someone deletes them from this Recycle Bin. If they're deleted from this Recycle Bin (called the site Recycle Bin), they go to the site collection Recycle Bin for the remaining time, and then are permanently deleted. Deleted sites and site collections go directly to the site collection Recycle Bin for the 93 days.</span></span>
   
-<span data-ttu-id="e9edb-110">[Site koleksiyonu geri dönüşüm kutusu öğeleri geri yükleme](https://go.microsoft.com/fwlink/?linkid=867800) (site koleksiyonu yöneticileri)</span><span class="sxs-lookup"><span data-stu-id="e9edb-110">[Restore items in the site collection Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (site collection admins)</span></span> 
+<span data-ttu-id="266ae-110">[Site koleksiyonu geri dönüşüm kutusu öğeleri geri yükleme](https://go.microsoft.com/fwlink/?linkid=867800) (site koleksiyonu yöneticileri)</span><span class="sxs-lookup"><span data-stu-id="266ae-110">[Restore items in the site collection Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (site collection admins)</span></span> 
   
-<span data-ttu-id="e9edb-111">[Site koleksiyonu geri yükleme silindi](https://go.microsoft.com/fwlink/?linkid=867660) (genel veya SharePoint Yöneticiler Office 365'te)</span><span class="sxs-lookup"><span data-stu-id="e9edb-111">[Restore deleted site collections](https://go.microsoft.com/fwlink/?linkid=867660) (global or SharePoint admins in Office 365)</span></span> 
+<span data-ttu-id="266ae-111">[Site koleksiyonu geri yükleme silindi](https://go.microsoft.com/fwlink/?linkid=867660) (genel veya SharePoint Yöneticiler Office 365'te)</span><span class="sxs-lookup"><span data-stu-id="266ae-111">[Restore deleted site collections](https://go.microsoft.com/fwlink/?linkid=867660) (global or SharePoint admins in Office 365)</span></span> 
   
-<span data-ttu-id="e9edb-p102">Bir Office 365 grubuna ait siteler için Grup siteyi geri yüklemek için geri yüklemeniz gerekir. [Silinen bir Office 365 Grup Geri](https://go.microsoft.com/fwlink/?linkid=867802) (Genel Yönetim) konusuna bakın.</span><span class="sxs-lookup"><span data-stu-id="e9edb-p102">For sites that belong to an Office 365 group, you need to restore the group to restore the site. See [Restore a deleted Office 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span></span> 
+<span data-ttu-id="266ae-p102">Bir Office 365 grubuna ait siteler için Grup siteyi geri yüklemek için geri yüklemeniz gerekir. [Silinen bir Office 365 Grup Geri](https://go.microsoft.com/fwlink/?linkid=867802) (Genel Yönetim) konusuna bakın.</span><span class="sxs-lookup"><span data-stu-id="266ae-p102">For sites that belong to an Office 365 group, you need to restore the group to restore the site. See [Restore a deleted Office 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span></span> 
   
 
