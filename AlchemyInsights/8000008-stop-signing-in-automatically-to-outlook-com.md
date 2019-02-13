@@ -7,19 +7,19 @@ ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e7b3ce1b-9291-49ec-b6a6-4dad0f4d6880
-ms.openlocfilehash: ee27a3abbf7bbbc8b27dd1429ecd1f6ab795156a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 050b8100c49f1e36c0ac085dd4533ae51742e7d4
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29494552"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29915032"
 ---
-# <a name="how-to-stop-signing-in-automatically"></a><span data-ttu-id="785bf-102">Nasıl otomatik olarak açmasını durdurma</span><span class="sxs-lookup"><span data-stu-id="785bf-102">How to stop signing in automatically</span></span>
+# <a name="how-to-stop-signing-in-automatically"></a><span data-ttu-id="7e478-102">Nasıl otomatik olarak açmasını durdurma</span><span class="sxs-lookup"><span data-stu-id="7e478-102">How to stop signing in automatically</span></span>
 
-<span data-ttu-id="785bf-103">Otomatik olarak açmasını durdurmak için kutuyu **Bana imzalı tutmak** için parolanızı girin nerede sayfada temizleyin.</span><span class="sxs-lookup"><span data-stu-id="785bf-103">To stop signing in automatically, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span> 
+<span data-ttu-id="7e478-103">Otomatik olarak açmasını durdurmak için kutuyu **Bana imzalı tutmak** için parolanızı girin nerede sayfada temizleyin.</span><span class="sxs-lookup"><span data-stu-id="7e478-103">To stop signing in automatically, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span> 
   
-<span data-ttu-id="785bf-104">Daha fazla bilgi için [nasıl oturum için veya Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873113)bakın.</span><span class="sxs-lookup"><span data-stu-id="785bf-104">To learn more, see [How to sign in to or out of Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873113).</span></span>
+<span data-ttu-id="7e478-104">Daha fazla bilgi için [nasıl oturum için veya Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873113)bakın.</span><span class="sxs-lookup"><span data-stu-id="7e478-104">To learn more, see [How to sign in to or out of Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873113).</span></span>
   
 
