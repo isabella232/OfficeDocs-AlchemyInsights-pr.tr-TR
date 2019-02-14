@@ -9,12 +9,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: 345ad2020e0a2559be2c2a1e7c0e433a8221a73b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4b3bfb9cf38dddf9b6f6482950c752e7c54497f7
+ms.sourcegitcommit: a74a9fb82e5f238024e9fcaf36b0d552ab5db5fb
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900920"
+ms.locfileid: "29953393"
 ---
 # <a name="install-office"></a>Office'i yükleme
 
@@ -30,4 +30,5 @@ Office, sonra aşağıdaki adımları izleyerek yüklenebilir:
     
 Daha fazla ayrıntı için bkz: [karşıdan yükleme ve yükleme veya bir PC veya Mac Office programını yeniden yükleyin](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
   
+[Yüklemek, Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) veya [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281) , Visio veya Project hakkında belirli yönergeler için bkz.
 
