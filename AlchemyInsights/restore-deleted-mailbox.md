@@ -14,12 +14,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: f9529dc92637e6b6174ff3cb8d1587ab2dffd0e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: da3d35e5f86f2b76fe6bd25829458b1b2d1a1e9a
+ms.sourcegitcommit: c3ed7525f24f80cc6372aa3f496463500bb0c3ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927524"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "30088133"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Silinen bir posta kutusunu geri yükleme
 
@@ -33,6 +33,6 @@ Kullanıcı Exchange Online lisansının kaybettiğinde, kendi posta kutusu 30 g
     
 3. Exchange Online lisans atamak ve **Kaydet** tuşuna basın.
     
-Paylaşılan bir posta kutusunu kurtarmak çalışıyorsanız, bunun da 30 gün boyunca kurtarılabilir. **Kullanıcılar** altında bulabilirsiniz \> **Silinmiş** kullanıcılar. Paylaşılan posta kutuları için lisans gerekmez. 
+Paylaşılan bir posta kutusunu kurtarmak çalışıyorsanız, bunun da 30 gün boyunca kurtarılabilir. **Kullanıcılar** altında bulabilirsiniz \> **Silinen** kullanıcıların; Paylaşılan posta kutuları için lisans gerekmez. Silinmiş bir kullanıcı geri gerektiğini fark ederseniz, [bir kullanıcının Office 365'te geri](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user)bakın.
   
 
