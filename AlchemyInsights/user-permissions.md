@@ -8,34 +8,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: f1ecdafdf21fa3cd026108738432c942d2c1ad45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941132"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209865"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a><span data-ttu-id="b83d2-102">Kullanıcı izinleri SharePoint ve OneDrive</span><span class="sxs-lookup"><span data-stu-id="b83d2-102">User permissions in SharePoint and OneDrive</span></span>
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a><span data-ttu-id="6a81d-102">Kullanıcı izinleri SharePoint ve OneDrive</span><span class="sxs-lookup"><span data-stu-id="6a81d-102">User permissions in SharePoint and OneDrive</span></span>
 
-<span data-ttu-id="b83d2-103">Kuruluşunuzdaki bir kullanıcı SharePoint veya OneDrive erişmek mümkün değilse, SharePoint ve OneDrive içeren bir lisansa sahip olduklarından emin olun.</span><span class="sxs-lookup"><span data-stu-id="b83d2-103">If a user in your organization isn't able to access SharePoint or OneDrive, make sure they have a license that includes SharePoint and OneDrive.</span></span> 
+<span data-ttu-id="6a81d-103">Kuruluşunuzdaki bir kullanıcı SharePoint veya OneDrive erişmek mümkün değilse, SharePoint ve OneDrive içeren bir lisansa sahip olduklarından emin olun.</span><span class="sxs-lookup"><span data-stu-id="6a81d-103">If a user in your organization isn't able to access SharePoint or OneDrive, make sure they have a license that includes SharePoint and OneDrive.</span></span> 
   
-1. <span data-ttu-id="b83d2-104">[Etkin kullanıcılar Office 365 Yönetim Merkezi sayfasına](https://portal.office.com/adminportal/home#/users) gidin ve istediğiniz kullanıcıyı seçin.</span><span class="sxs-lookup"><span data-stu-id="b83d2-104">Go to the [Active users page in the Office 365 admin center](https://portal.office.com/adminportal/home#/users) and select the user.</span></span> 
+1. <span data-ttu-id="6a81d-104">[Etkin kullanıcılar Microsoft 365 Yönetim Merkezi sayfasına](https://portal.office.com/adminportal/home#/users) gidin ve istediğiniz kullanıcıyı seçin.</span><span class="sxs-lookup"><span data-stu-id="6a81d-104">Go to the [Active users page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/users) and select the user.</span></span> 
     
-2. <span data-ttu-id="b83d2-105">**Ürün lisansları**altında lisans atanır ve **SharePoint çevrimiçi** seçili olduğundan emin olun.</span><span class="sxs-lookup"><span data-stu-id="b83d2-105">Make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
+2. <span data-ttu-id="6a81d-105">**Ürün lisansları**altında lisans atanır ve **SharePoint çevrimiçi** seçili olduğundan emin olun.</span><span class="sxs-lookup"><span data-stu-id="6a81d-105">Make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
     
- <span data-ttu-id="b83d2-106">Bir kullanıcı bir SharePoint sitesine erişim izni vermek için:</span><span class="sxs-lookup"><span data-stu-id="b83d2-106">To give a user permission to access a SharePoint site:</span></span> 
+ <span data-ttu-id="6a81d-106">Bir kullanıcı bir SharePoint sitesine erişim izni vermek için:</span><span class="sxs-lookup"><span data-stu-id="6a81d-106">To give a user permission to access a SharePoint site:</span></span> 
   
-1. <span data-ttu-id="b83d2-107">Site bir web tarayıcısında açın.</span><span class="sxs-lookup"><span data-stu-id="b83d2-107">Open the site in a web browser.</span></span>
+1. <span data-ttu-id="6a81d-107">Site bir web tarayıcısında açın.</span><span class="sxs-lookup"><span data-stu-id="6a81d-107">Open the site in a web browser.</span></span>
     
-2. <span data-ttu-id="b83d2-p101">Site bir Office 365 grubuna aitse, sağ üst ayarları simgesini tıklatın ve **Site izinleri**' ni tıklatın. **Kişi davet et**' i tıklatın ve sonra site paylaşmak veya Office 365 gruba üye eklemek seçin.</span><span class="sxs-lookup"><span data-stu-id="b83d2-p101">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**. Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
+2. <span data-ttu-id="6a81d-p101">Site bir Office 365 grubuna aitse, sağ üst ayarları simgesini tıklatın ve **Site izinleri**' ni tıklatın. **Kişi davet et**' i tıklatın ve sonra site paylaşmak veya Office 365 gruba üye eklemek seçin.</span><span class="sxs-lookup"><span data-stu-id="6a81d-p101">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**. Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
     
-    <span data-ttu-id="b83d2-110">Bir iletişim sitesi **Paylaşım sitesi** üst sağ tıklatın, kişinin adını girin ve sonra (okuma, düzenleme veya tam denetim) izin düzeyini seçin.</span><span class="sxs-lookup"><span data-stu-id="b83d2-110">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
+    <span data-ttu-id="6a81d-110">Bir iletişim sitesi **Paylaşım sitesi** üst sağ tıklatın, kişinin adını girin ve sonra (okuma, düzenleme veya tam denetim) izin düzeyini seçin.</span><span class="sxs-lookup"><span data-stu-id="6a81d-110">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
     
-    <span data-ttu-id="b83d2-p102">Klasik takım sitesi için sağ üst köşede **Paylaş** ' ı tıklatın. Herkes, kuruluşunuzdaki herkesle paylaşmak için yazın ya da davet etmek istediğiniz kişinin adını girin. **Paylaş**' ı tıklatın.</span><span class="sxs-lookup"><span data-stu-id="b83d2-p102">For a classic team site, click **Share** in the upper-right. Enter the name of the person you want to invite or type Everyone to share with everyone in your organization. Click **Share**.</span></span>
+    <span data-ttu-id="6a81d-p102">Klasik takım sitesi için sağ üst köşede **Paylaş** ' ı tıklatın. Herkes, kuruluşunuzdaki herkesle paylaşmak için yazın ya da davet etmek istediğiniz kişinin adını girin. **Paylaş**' ı tıklatın.</span><span class="sxs-lookup"><span data-stu-id="6a81d-p102">For a classic team site, click **Share** in the upper-right. Enter the name of the person you want to invite or type Everyone to share with everyone in your organization. Click **Share**.</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="b83d2-114">Bir site ancak bir sahip bir üyesi iseniz, kişilerin siteye davet edebilirsiniz ancak davetinizi ya da onaylanan veya site sahibi tarafından reddedilen bir erişim isteği oluşturur.</span><span class="sxs-lookup"><span data-stu-id="b83d2-114">If you're a member of a site but not an owner, you can invite people to the site, but your invitation will generate an access request that can be either approved or declined by a site owner.</span></span> 
+> <span data-ttu-id="6a81d-114">Bir site ancak bir sahip bir üyesi iseniz, kişilerin siteye davet edebilirsiniz ancak davetinizi ya da onaylanan veya site sahibi tarafından reddedilen bir erişim isteği oluşturur.</span><span class="sxs-lookup"><span data-stu-id="6a81d-114">If you're a member of a site but not an owner, you can invite people to the site, but your invitation will generate an access request that can be either approved or declined by a site owner.</span></span> 
   
-[<span data-ttu-id="b83d2-115">Bir dosya veya klasörü bir kullanıcıyla paylaşmayı öğrenin</span><span class="sxs-lookup"><span data-stu-id="b83d2-115">Learn how to share a file or folder with a user</span></span>](https://go.microsoft.com/fwlink/?linkid=533408)
+[<span data-ttu-id="6a81d-115">Bir dosya veya klasörü bir kullanıcıyla paylaşmayı öğrenin</span><span class="sxs-lookup"><span data-stu-id="6a81d-115">Learn how to share a file or folder with a user</span></span>](https://go.microsoft.com/fwlink/?linkid=533408)
   
 
