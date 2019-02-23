@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 8fe5e7ca24f8d3ddeb9c38090ad098eed1dbb32b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5434c0e01c65687269c8f3fa37bbe903f15dd3f0
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919460"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208103"
 ---
 # <a name="compare-office-365-plans"></a>Office 365 tarifelerini karşılaştırın
 
@@ -26,7 +26,7 @@ Office 365 planları, [işletme](https://products.office.com/compare-all-microso
   
 Kuruluşunuzun tüm planlarını karşılaştırmak ve fiyatlandırma ilgileniyorsa, [tüm Office 365 tarifelerini karşılaştırın](https://products.office.com/business/compare-more-office-365-for-business-plans)gözden geçirin.
   
-Kuruluşunuz Office 365 planı zaten satın ve ilgilenen edebilir böylece Office 365 Yönetim Merkezi'nden [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054)gidin veya **Faturalama** seçin başka bir plana geçiş içinde ise \> **abonelikleri**. **Anahtarı planları** kullanılabilir yeni planları listesini görüntülemek için seçin. 
+Kuruluşunuz Office 365 planı zaten satın ve ilgilenen edebilir böylece Microsoft 365 Yönetim Merkezi'nden [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054)gidin veya **Faturalama** seçin başka bir plana geçiş içinde ise \> **abonelikleri**. **Anahtarı planları** kullanılabilir yeni planları listesini görüntülemek için seçin. 
   
 Ayrıca kuruluşunuzun karıştırmak ve gereksinimlerini ve kullanıcılar özellik gereksinimlerini karşılamak üzere Office 365 planları eşleşecek. Office 365 Yönetici [Satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfasına gidin veya **Faturalama** seçin \> **Satın alma hizmetleri**.
   

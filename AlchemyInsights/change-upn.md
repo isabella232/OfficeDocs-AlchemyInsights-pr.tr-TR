@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 7788acd13218b6e15a7accb7e87ca14e9c90b691
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901064"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208461"
 ---
 # <a name="change-a-users-email-address"></a>Kullanıcının e-posta adresini değiştirme
 
 Kişinin e-posta adresini değiştirmek kolaydır! Aşağıdaki adımları izlemeniz yeterlidir:
   
-1. Office 365 Yönetim Merkezi'ndeki [Kullanıcılar](https://go.microsoft.com/fwlink/p/?linkid=834822) sayfasına gidin veya **kullanıcıların** \> **Etkin kullanıcılar**.
+1. Microsoft 365 Yönetim Merkezi'ndeki [Kullanıcılar](https://go.microsoft.com/fwlink/p/?linkid=834822) sayfasına gidin veya **kullanıcıların** \> **Etkin kullanıcılar**.
     
 2. Kullanıcıyı seçin.
     

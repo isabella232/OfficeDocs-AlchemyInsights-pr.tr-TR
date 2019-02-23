@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: c341ac08f261d926a2ab229e6a56f69c6ce14181
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1b0969720aeb10eb50eeb221ae7e467052650e15
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29909344"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209056"
 ---
 # <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Outlook web üzerinde geçersiz lisans hatayla karşılaşıyor musunuz?
 
 Web'de Outlook kullanıyorsanız ve **bir şeylerin yanlış gittiğini** bir hata almak içeren **X OWA hata: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, Exchange Online Lisansınızı doğru olarak atanmamış veya son var. süresi dolmuş. Yöneticinizden aşağıdaki adımları izleyerek bir lisans için atayabilirsiniz:
   
-1. [Office 365 Yönetim Merkezi'ni](https://portal.office.com/adminportal/home#/homepage) açın ve **Etkin kullanıcılar** **Kullanıcı Düzenle**seçin.
+1. [Microsoft 365 Yönetim Merkezi'ni](https://portal.office.com/adminportal/home#/homepage) açın ve **Etkin kullanıcılar** **Kullanıcı Düzenle**seçin.
     
 2. Açan **bir kullanıcı Düzenle** sayfasında, kullanıcıyı seçin. Açan kullanıcı Özellikler sayfasında, **Ürün lisansları**için **Düzenle** ' yi tıklatın.
     

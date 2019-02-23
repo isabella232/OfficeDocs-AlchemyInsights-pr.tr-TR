@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 20b538846997c021b6e88596a1e8aff401ea935b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4b132a3cb0fac015ab44a1fa08565af15b7e8121
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900912"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207705"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>SharePoint içerik dış kullanıcılarla paylaşma sorunlarını düzeltme
 
 Dış paylaşımı, kuruluşunuz için açık olduğundan emin olun:
   
-1. Git [Hizmetleri &amp; Eklentileri Office 365 Yönetim Merkezi sayfasında](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)ve **Siteler**düğmesini tıklatın.
+1. Git [Hizmetleri &amp; eklentileri Microsoft 365 Yönetim Merkezi sayfasında](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)ve **Siteler**düğmesini tıklatın.
     
-2. "Aç." ayarı açık olduğundan emin olun "Varolan yalnızca dış kullanıcılar" seçilirse, dış kullanıcının Office 365 Yönetim Merkezi'nde listelenen olduğundan emin olun.
+2. "Aç." ayarı açık olduğundan emin olun "Varolan yalnızca dış kullanıcılar" seçilirse, harici kullanıcı Microsoft 365 Yönetim Merkezi'nde listelenen olduğundan emin olun.
     
 Site için dış paylaşımı açık olduğundan emin olun. Klasik site koleksiyonu için:
   
