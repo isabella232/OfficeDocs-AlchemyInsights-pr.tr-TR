@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
-ms.openlocfilehash: 9f3a47f27099c5e53e251ed9d80a18dd643069f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 251ffb13eb2c0042b9c077acc8845f89c06ab2d7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898544"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243989"
 ---
 # <a name="read-receipts-in-outlookcom"></a>Outlook.com içinde okundu
 
 Okundu olarak Outlook.com isteğinde bulunamaz, ancak Windows için Outlook kullanılarak gönderilen Outlook.com iletiler için okundu alındıları isteyebilir. Öğrenmek için [Ekle ve giriş ve teslim bildirimlerini Okuma isteği](https://go.microsoft.com/fwlink/p/?linkid=874355)bkz.
   
-Outlook.com okundu bilgisi isteklerini nasıl tepki vereceğini belirlemek için **Ayarlar**Git![ayarları](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **seçenekleri** \> **posta** \> **Otomatik işleme** \> **Okundu**. 
+Outlook.com okundu bilgisi isteklerini nasıl tepki vereceğini belirlemek için **Ayarlar** Git\> **seçenekleri** \> **posta** \> **Otomatik işleme** \> **Okundu**. 
   
-Outlook.com beta **ayarlarını**seçin![ayarları](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) ve **okundu bilgileri**arayın. 
+Outlook.com beta **ayarları** ve **okundu bilgileri**arama seçin. 
   
 

@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: e3f1b2692af4d70167133c7a4f913338e491d242
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e6709cc7b29922b3af919ed1a813cdd701d4a424
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941024"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244313"
 ---
 # <a name="how-to-attach-files"></a>Dosya ekleme hakkında
 
@@ -28,7 +28,7 @@ Outlook.com Beta dosyaları eklemek için:
   
 1. Yeni bir ileti veya bir iletiye yanıt oluşturun.
     
-2. Düzenleme bölmesinin en altında seçin ![Ekle](media/da223d01-5fe6-448c-a3a3-e2b5262da4b9.png).
+2. Düzenleme bölmesinin en altında ataç simgesini seçin.
     
 [Outlook.com dosyaları iliştirme](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409)hakkında daha fazla bilgi edinin.
   

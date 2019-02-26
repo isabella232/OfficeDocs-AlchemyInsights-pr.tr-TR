@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: a66b7961a81ab7a0ec76edf7fa0c1e2e85b9eed7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 384104963a98e07a77dbfaba64787ef30fb4be29
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938432"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244169"
 ---
 # <a name="how-to-create-an-email-signature"></a>Bir e-posta imzası oluşturma hakkında
 
 Outlook.com Beta sürümünü kullanıyorsanız:
   
-- Sayfanın üstündeki **ayarları**seçin![ayarları](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **tam görünüm ayarlarını** \> **oluşturma ve yanıtlama**. 
+- Sayfanın üstündeki **ayarları** seçin \> **tam görünüm ayarlarını** \> **oluşturma ve yanıtlama**. 
     
 Klasik Outlook.com kullanıyorsanız:
   
-- Sayfanın üstündeki **ayarları**seçin![ayarları](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **seçenekleri** \> **posta** \> **Düzen** \> **e-posta imzası**. 
+- Sayfanın üstündeki **ayarları** seçin \> **seçenekleri** \> **posta** \> **Düzen** \> **e-posta imzası**. 
     
  **Not:** Hesap başına yalnızca bir imzaya sahip olabilir. 
   
