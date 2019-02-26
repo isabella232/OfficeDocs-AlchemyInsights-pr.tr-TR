@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
-ms.openlocfilehash: e92c0a1f08d56128a1dc04022af2cbba78dd3909
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 67a16f6c3bae7b797cee4e823741a2196cd6d426
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928676"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244277"
 ---
-# <a name="change-your-email-name-in-outlookcom"></a><span data-ttu-id="d5c12-102">Outlook.com e-posta adınızı değiştirme</span><span class="sxs-lookup"><span data-stu-id="d5c12-102">Change your email name in Outlook.com</span></span>
+# <a name="change-your-email-name-in-outlookcom"></a><span data-ttu-id="f6b9e-102">Outlook.com e-posta adınızı değiştirme</span><span class="sxs-lookup"><span data-stu-id="f6b9e-102">Change your email name in Outlook.com</span></span>
 
-<span data-ttu-id="d5c12-103">E-posta adresi ve değiştirmek istediğiniz varsa adı alıcıların iletilerinizi görürsünüz:</span><span class="sxs-lookup"><span data-stu-id="d5c12-103">If you have one email address and want to change the name recipients will see in your messages:</span></span>
+<span data-ttu-id="f6b9e-103">E-posta adresi ve değiştirmek istediğiniz varsa adı alıcıların iletilerinizi görürsünüz:</span><span class="sxs-lookup"><span data-stu-id="f6b9e-103">If you have one email address and want to change the name recipients will see in your messages:</span></span>
   
-1. <span data-ttu-id="d5c12-104">Outlook.com, sayfanın sağ üst köşesindeki hesap resminizi seçin.</span><span class="sxs-lookup"><span data-stu-id="d5c12-104">In Outlook.com, select your account picture at the top right corner of the page.</span></span>
+1. <span data-ttu-id="f6b9e-104">Outlook.com, sayfanın sağ üst köşesindeki hesap resminizi seçin.</span><span class="sxs-lookup"><span data-stu-id="f6b9e-104">In Outlook.com, select your account picture at the top right corner of the page.</span></span>
     
-2. <span data-ttu-id="d5c12-105">**Profil Düzenle**' yi seçin.</span><span class="sxs-lookup"><span data-stu-id="d5c12-105">Select **Edit profile**.</span></span> 
+2. <span data-ttu-id="f6b9e-105">**Profil Düzenle**' yi seçin.</span><span class="sxs-lookup"><span data-stu-id="f6b9e-105">Select **Edit profile**.</span></span> 
     
-3. <span data-ttu-id="d5c12-106">**Kaydet**' i seçin ve değişiklik yapmak için **Düzen adı** seçin.</span><span class="sxs-lookup"><span data-stu-id="d5c12-106">Select **Edit name** to make changes and select **Save**.</span></span> 
+3. <span data-ttu-id="f6b9e-106">**Kaydet**' i seçin ve değişiklik yapmak için **Düzen adı** seçin.</span><span class="sxs-lookup"><span data-stu-id="f6b9e-106">Select **Edit name** to make changes and select **Save**.</span></span> 
     
-<span data-ttu-id="d5c12-107">Lütfen profil fotoğrafınızı veya yürürlüğe gitmek için ad değişiklikleri için 24 saat bekleyin.</span><span class="sxs-lookup"><span data-stu-id="d5c12-107">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>
+<span data-ttu-id="f6b9e-107">Lütfen profil fotoğrafınızı veya yürürlüğe gitmek için ad değişiklikleri için 24 saat bekleyin.</span><span class="sxs-lookup"><span data-stu-id="f6b9e-107">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>
   
-<span data-ttu-id="d5c12-108">Birden fazla e-posta diğer adı veya adresi Outlook.com hesabınızı bağlı varsa, e-posta adreslerinizi birini göndermeyi seçebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="d5c12-108">If you have more than one email alias or address connected to your Outlook.com account, you can choose to send email from any of your addresses.</span></span>
+<span data-ttu-id="f6b9e-108">Birden fazla e-posta diğer adı veya adresi Outlook.com hesabınızı bağlı varsa, e-posta adreslerinizi birini göndermeyi seçebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="f6b9e-108">If you have more than one email alias or address connected to your Outlook.com account, you can choose to send email from any of your addresses.</span></span>
   
-1. <span data-ttu-id="d5c12-109">Outlook.com içinde yeni bir ileti veya bir iletiye yanıt oluşturun.</span><span class="sxs-lookup"><span data-stu-id="d5c12-109">In Outlook.com, compose a new message or reply to a message.</span></span>
+1. <span data-ttu-id="f6b9e-109">Outlook.com içinde yeni bir ileti veya bir iletiye yanıt oluşturun.</span><span class="sxs-lookup"><span data-stu-id="f6b9e-109">In Outlook.com, compose a new message or reply to a message.</span></span>
     
-2. <span data-ttu-id="d5c12-p101">Oluştur penceresinde seçin ![daha grubu Eylemler simgesi. ](media/b97ea7cd-eeb0-49c5-a564-7ca2d2e33909.png) \> Kimden satırı görmek için **Gösterilecek başlangıç** .</span><span class="sxs-lookup"><span data-stu-id="d5c12-p101">In the compose window, select ![The More group actions icon.](media/b97ea7cd-eeb0-49c5-a564-7ca2d2e33909.png) \> **Show From** to see the From line.</span></span> 
+2. <span data-ttu-id="f6b9e-110">Oluştur penceresinde seçin "..." \> Kimden satırı görmek için **Gösterilecek başlangıç** .</span><span class="sxs-lookup"><span data-stu-id="f6b9e-110">In the compose window, select "..." \> **Show From** to see the From line.</span></span> 
     
-3. <span data-ttu-id="d5c12-112">**Seçin** ve kullanmak istediğiniz hangi e-posta adresi seçin.</span><span class="sxs-lookup"><span data-stu-id="d5c12-112">Select **From** and choose which email address you want to use.</span></span> 
+3. <span data-ttu-id="f6b9e-111">**Seçin** ve kullanmak istediğiniz hangi e-posta adresi seçin.</span><span class="sxs-lookup"><span data-stu-id="f6b9e-111">Select **From** and choose which email address you want to use.</span></span> 
     
-<span data-ttu-id="d5c12-113">Daha fazla bilgi için bkz: [Outlook.com farklı bir adresten e-posta gönderme](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="d5c12-113">For more information, see [Send email from a different address in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409).</span></span>
+<span data-ttu-id="f6b9e-112">Daha fazla bilgi için bkz: [Outlook.com farklı bir adresten e-posta gönderme](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="f6b9e-112">For more information, see [Send email from a different address in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409).</span></span>
   
 
