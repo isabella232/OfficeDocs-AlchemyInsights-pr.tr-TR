@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941600"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468504"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft ekipleri - Konuk erişimi
 
+Açma ve Microsoft Teams Konuk erişimi özelliği ayarlama Yardım gerekiyor mu?
 
-Etkinleştirmek veya Microsoft Teams Konuk erişim rolü yapılandırmak gereksinim duyarsanız, bir adım adım yönerge Kılavuzu size sunuyoruz: [Konuk erişim denetim listesi](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
-  
-Takımlar yapılandırma değişikliklerinin etkili olması 24 saat beklemeniz gerekebilir.
-  
+İşte yapmanız gerekenler:
+
+1. Konuk erişimi yetkilendirin.
+1. Ekibiniz için Konuk kullanıcı ekleyin.
+1. Konuk kullanıcı izinlerini ayarlama.
+
+Nasıl yapılır videolar da dahil olmak üzere daha fazla bilgi için bkz: [Microsoft ekipleri de Konuk erişimi](https://docs.microsoft.com/en-us/microsoftteams/guest-access).
 
