@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939331"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634524"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Gerekli Alchemy başlık H1, H2's çalışmaz.
 En iyi yöntemleri ve yönergeleri Alchemy yazmak için:
 
 1. **Klasörlerde Alchemy görüşleri geçirmeyin**- Bu url yapısı kesecektir. Biz bu düzeltme içine bakıyorsunuzdur.
 1. **AlchemyInsights** klasöründeki dosyaları, dosya adını kural kimliği ve [Alchemy ortak portalı](https://alchemyportal.azurewebsites.net) kural adı olması gerekir.
-    1. örnek ***976-How-to-enable-litigation-hold***
+    1. ex. ***976-How-to-Enable-litigation-Hold***
 1. Meta veriler, bu dosyanın en üstünde, şablon olarak kullanın. Hiçbir şey gereklidir.
 1. [Alchemy ortak portalı](https://alchemyportal.azurewebsites.net)bölümüne gidin **Müşteri Insight Başlık:** ve H1 başlığınızın Insight için işaret eden bir başlangıç olarak kullanın. 
     > [!NOTE]
@@ -36,6 +36,6 @@ En iyi yöntemleri ve yönergeleri Alchemy yazmak için:
 
 Ve bu gerçekten zaten biraz fazla uzun. Yaklaşık 400 karakter en iyi uygulamadır---
 
-İçeriğinizi hazır olduktan sonra canlı dala çeker. Daha sonra [Alchemy ortak portalı](https://alchemyportal.azurewebsites.net) gidin ve dosya adı url alanına girin. Gözden geçirilmiş ve yayımlanan Insight "Evet" diyor emin olun ve sonra güncelleştirme Kuralı'nı tıklatın. **(Bu yakında serbest portal - yeni sürümünde prettier bakar.)** 
+İçeriğinizi hazır olduktan sonra canlı dala çeker. Daha sonra [Alchemy ortak portalı](https://alchemyportal.azurewebsites.net) gidin ve dosya adı url alanına girin. Gözden geçirilmiş ve yayımlanan Insight "Evet" diyor emin olun ve sonra güncelleştirme Kuralı'nı tıklatın. **(Bu prettier yakında serbest portal - yeni sürümünde görünecektir.)** 
  ![url alanı](media/for-content-team.PNG)
 
