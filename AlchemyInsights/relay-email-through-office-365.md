@@ -1,5 +1,5 @@
 ---
-title: Geçiş e-posta aracılığıyla Office 365
+title: Office 365 üzerinden e-posta geçişi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 1d3868457d87a0abf36223c33c96b01a57f5b8d7
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: ea852e315eaf7611d2d405dcfc9e85ab1ccca196
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468611"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30574643"
 ---
-# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Bir çok işlevli bir aygıt veya uygulama kullanarak Office 365'e-posta göndermek için ayarlamak
+# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Office 365 kullanarak e-posta göndermek için çok işlevli cihazı veya uygulamayı ayarlama
 
-Seçeneklerinizi ve adımları öğrenmek için [nasıl bir çok işlevli bir aygıt veya uygulama kullanarak Office 365'e-posta göndermek için ayarlamak](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4)bkz.
+Seçenekler ve adımlar hakkında bilgi edinmek için bkz. [Office 365 kullanarak e-posta göndermek için çok işlevli cihazı veya uygulamayı ayarlama](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).
   
- ** *Not:* ** bir aygıt veya uygulama durdu varsa, lütfen [biz son geliştirmeler yapmış olduğunuz Not](https://support.microsoft.com/help/4458479/) Etkilenme ihtimali. Biz şimdi **klasörüne Gönderilmiş iletileri Kaydet** **Bu posta kutusu doluysa reddedilen iletilerine neden**olabilir posta. Ayrıca, biz şimdi iletileri SMTP belirtimleri biçimlendirilmiş gerekir. Örneğin, gönderen aygıtın *christine@contoso.com* olduğu gibi e-posta adresi açılı ayraç içermelidir. 
-  
+**Not:** Yakın zamanda çalışmayı durduran bir cihaz veya uygulamanız varsa, lütfen kısa süre önce planlandığı gibi [3DES şifrelemesini devre dışı bırakmaya](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption) başladığımızı aklınızda bulundurun.  **Windows Server 2003 IIS SMTP artık çalışmayacak; Windows’un daha yeni bir sürümü gereklidir.** 
 
+Yaygın hatalar şunlara benzer olabilir: Kimlik doğrulama hatası, TLS hatası, Şifreleme algoritması hatası, Algoritma uyuşmazlığı veya Bağlantı kesildi.  Modern bir şifrelemenin desteklenip desteklenmediğini veya bir güncelleştirme olup olmadığını öğrenmek için lütfen uygulama veya cihaz satıcınıza başvurun.
