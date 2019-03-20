@@ -1,5 +1,5 @@
 ---
-title: 'aynı dosya adı iyi olduğu gibi [kural #-açıklama]'
+title: Dosya adı ile aynı en iyisidir
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -9,34 +9,32 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
-ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
+ms.openlocfilehash: ec979c2f2246fa06945b79bbb9348a7a57ad5180
+ms.sourcegitcommit: b3cf5130ac8118f0fed66abe5286aa80ee91af52
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30634524"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30683869"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a><span data-ttu-id="2f460-102">Gerekli Alchemy başlık H1, H2's çalışmaz.</span><span class="sxs-lookup"><span data-stu-id="2f460-102">Required Alchemy Header H1, H2's dont work.</span></span>
-<span data-ttu-id="2f460-103">En iyi yöntemleri ve yönergeleri Alchemy yazmak için:</span><span class="sxs-lookup"><span data-stu-id="2f460-103">Best Practices and guidelines for Alchemy authoring:</span></span>
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a><span data-ttu-id="5ac8e-102">Gerekli Alchemy başlık H1, H2's çalışmaz.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-102">Required Alchemy Header H1, H2's dont work.</span></span>
+<span data-ttu-id="5ac8e-103">En iyi yöntemleri ve yönergeleri Alchemy yazmak için:</span><span class="sxs-lookup"><span data-stu-id="5ac8e-103">Best Practices and guidelines for Alchemy authoring:</span></span>
 
-1. <span data-ttu-id="2f460-104">**Klasörlerde Alchemy görüşleri geçirmeyin**- Bu url yapısı kesecektir.</span><span class="sxs-lookup"><span data-stu-id="2f460-104">**Do not nest Alchemy Insights in folders**- this will break the url structure.</span></span> <span data-ttu-id="2f460-105">Biz bu düzeltme içine bakıyorsunuzdur.</span><span class="sxs-lookup"><span data-stu-id="2f460-105">We're looking into fixing this.</span></span>
-1. <span data-ttu-id="2f460-106">**AlchemyInsights** klasöründeki dosyaları, dosya adını kural kimliği ve [Alchemy ortak portalı](https://alchemyportal.azurewebsites.net) kural adı olması gerekir.</span><span class="sxs-lookup"><span data-stu-id="2f460-106">Files in the **AlchemyInsights** folder should have Rule ID and Rule Name from the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net) in the filename.</span></span>
-    1. <span data-ttu-id="2f460-107">ex.</span><span class="sxs-lookup"><span data-stu-id="2f460-107">ex.</span></span> <span data-ttu-id="2f460-108">***976-How-to-Enable-litigation-Hold***</span><span class="sxs-lookup"><span data-stu-id="2f460-108">***976-How-to-enable-litigation-hold***</span></span>
-1. <span data-ttu-id="2f460-109">Meta veriler, bu dosyanın en üstünde, şablon olarak kullanın.</span><span class="sxs-lookup"><span data-stu-id="2f460-109">Use the metadata at the top of this file as your template.</span></span> <span data-ttu-id="2f460-110">Hiçbir şey gereklidir.</span><span class="sxs-lookup"><span data-stu-id="2f460-110">Nothing else is required.</span></span>
-1. <span data-ttu-id="2f460-111">[Alchemy ortak portalı](https://alchemyportal.azurewebsites.net)bölümüne gidin **Müşteri Insight Başlık:** ve H1 başlığınızın Insight için işaret eden bir başlangıç olarak kullanın.</span><span class="sxs-lookup"><span data-stu-id="2f460-111">In the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net), navigate down to the section **Customer Insight Title:** and use that as a starting point for your H1 title for the insight.</span></span> 
+1. <span data-ttu-id="5ac8e-104">**Klasörlerde Alchemy görüşleri geçirmeyin**- Bu url yapısı kesecektir.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-104">**Do not nest Alchemy Insights in folders**- this will break the url structure.</span></span> <span data-ttu-id="5ac8e-105">Biz bu düzeltme içine bakıyorsunuzdur.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-105">We're looking into fixing this.</span></span>
+1. <span data-ttu-id="5ac8e-106">Küçük harfli dosya adlarını boşluk için tire ile dosyalar **AlchemyInsights** klasöründe olması gerekir.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-106">Files in the **AlchemyInsights** folder should have lowercase filenames with hyphens for spaces ex.</span></span> <span data-ttu-id="5ac8e-107">***how-to-enable-dava-tutun***.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-107">***how-to-enable-litigation-hold***.</span></span>
+    1. <span data-ttu-id="5ac8e-108">Kural kimliği veya demet kimliği [Alchemy ortak portalı](https://alchemyportal.azurewebsites.net) ms.custom alanına dahil edersiniz.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-108">Include the Rule ID or bucket ID from the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net) in the ms.custom field.</span></span> <span data-ttu-id="5ac8e-109">ex.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-109">ex.</span></span> <span data-ttu-id="5ac8e-110">***MS.Custom: 100021***</span><span class="sxs-lookup"><span data-stu-id="5ac8e-110">***ms.custom: 100021***</span></span>
+1. <span data-ttu-id="5ac8e-111">Meta verileri geri kalanı bu dosyanın en üstünde, şablon olarak kullanın.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-111">Use the rest of the metadata at the top of this file as your template.</span></span>
+1. <span data-ttu-id="5ac8e-112">[Alchemy ortak portalı](https://alchemyportal.azurewebsites.net)bölümüne gidin **Müşteri Insight Başlık:** ve H1 başlığınızın Insight için işaret eden bir başlangıç olarak kullanın.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-112">In the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net), navigate down to the section **Customer Insight Title:** and use that as a starting point for your H1 title for the insight.</span></span> 
     > [!NOTE]
-    > <span data-ttu-id="2f460-112">Üstünde sahip tek bir H1 görüşleri Alchemy olmalıdır veya üretimde kesintiye uğrar.</span><span class="sxs-lookup"><span data-stu-id="2f460-112">Alchemy Insights MUST have only a single H1 at the top or they will break in production.</span></span> <span data-ttu-id="2f460-113">H2s, bunu kullanmak **Kalın** veya ayrı bölümler belirtmek için diğer kuralları işlemek yoktur.</span><span class="sxs-lookup"><span data-stu-id="2f460-113">H2s dont render either so use **bold** or other conventions to signify separate sections.</span></span>
-1. <span data-ttu-id="2f460-114">Ardından, gövde metni Alchemy kural sayfanın müşteri görüşleri bölümünde taslak malzeme kullanarak doldurun</span><span class="sxs-lookup"><span data-stu-id="2f460-114">Next, fill in the body text using the draft material in the Customer Insights section of the Alchemy Rule page</span></span>
-    1. <span data-ttu-id="2f460-115">Madde işaretli listeler ince</span><span class="sxs-lookup"><span data-stu-id="2f460-115">Bulleted lists are fine</span></span>
-    1. <span data-ttu-id="2f460-116">Çok numaralı listeler</span><span class="sxs-lookup"><span data-stu-id="2f460-116">Numbered lists too</span></span>
-    1. <span data-ttu-id="2f460-117">**Kalın** ve *İtalik* a-ok</span><span class="sxs-lookup"><span data-stu-id="2f460-117">**Bold** and *italic* are a-ok</span></span>
-    1. <span data-ttu-id="2f460-118">Bağlantıları her zaman olması gerekir ya da **"Bağlantılar Web" / dış** veya **UI öğelerine derin bağlantılar**, değil iç bağlantılar.</span><span class="sxs-lookup"><span data-stu-id="2f460-118">Links should always be either **"links to web"/external** OR **deep-links to UI elements**, not internal links.</span></span>
+    > <span data-ttu-id="5ac8e-113">Üstünde sahip tek bir H1 görüşleri Alchemy olmalıdır veya üretimde kesintiye uğrar.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-113">Alchemy Insights MUST have only a single H1 at the top or they will break in production.</span></span> <span data-ttu-id="5ac8e-114">H2s, bunu kullanmak **Kalın** veya ayrı bölümler belirtmek için diğer kuralları işlemek yoktur.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-114">H2s dont render either so use **bold** or other conventions to signify separate sections.</span></span>
+1. <span data-ttu-id="5ac8e-115">Ardından, gövde metni Alchemy kural sayfanın müşteri görüşleri bölümünde taslak malzeme kullanarak doldurun</span><span class="sxs-lookup"><span data-stu-id="5ac8e-115">Next, fill in the body text using the draft material in the Customer Insights section of the Alchemy Rule page</span></span>
+    1. <span data-ttu-id="5ac8e-116">Madde işaretli listeler ince</span><span class="sxs-lookup"><span data-stu-id="5ac8e-116">Bulleted lists are fine</span></span>
+    1. <span data-ttu-id="5ac8e-117">Çok numaralı listeler</span><span class="sxs-lookup"><span data-stu-id="5ac8e-117">Numbered lists too</span></span>
+    1. <span data-ttu-id="5ac8e-118">**Kalın** ve *İtalik* a-ok</span><span class="sxs-lookup"><span data-stu-id="5ac8e-118">**Bold** and *italic* are a-ok</span></span>
+    1. <span data-ttu-id="5ac8e-119">Bağlantıları her zaman olması gerekir ya da **"Bağlantılar Web" / dış** veya **UI öğelerine derin bağlantılar**, değil iç bağlantılar.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-119">Links should always be either **"links to web"/external** OR **deep-links to UI elements**, not internal links.</span></span>
+    1. <span data-ttu-id="5ac8e-120">Resim şu anda resmi olarak desteklenmez, ancak bu yol haritası üzerinde.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-120">Pictures are not officially supported at this time, but it's on the roadmap.</span></span>
 
-<span data-ttu-id="2f460-119">Ve bu gerçekten zaten biraz fazla uzun.</span><span class="sxs-lookup"><span data-stu-id="2f460-119">And this is really already a bit too long.</span></span> <span data-ttu-id="2f460-120">Yaklaşık 400 karakter en iyi uygulamadır---</span><span class="sxs-lookup"><span data-stu-id="2f460-120">Best practice is about 400 characters ---------------------------------</span></span>
+<span data-ttu-id="5ac8e-121">Ve bu gerçekten zaten biraz fazla uzun.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-121">And this is really already a bit too long.</span></span> <span data-ttu-id="5ac8e-122">Yaklaşık 400 karakter en iyi uygulamadır---</span><span class="sxs-lookup"><span data-stu-id="5ac8e-122">Best practice is about 400 characters ---------------------------------</span></span>
 
-<span data-ttu-id="2f460-121">İçeriğinizi hazır olduktan sonra canlı dala çeker.</span><span class="sxs-lookup"><span data-stu-id="2f460-121">Once your content is ready, pull it to the live branch.</span></span> <span data-ttu-id="2f460-122">Daha sonra [Alchemy ortak portalı](https://alchemyportal.azurewebsites.net) gidin ve dosya adı url alanına girin.</span><span class="sxs-lookup"><span data-stu-id="2f460-122">Then, go to the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net) and enter the filename into the url field.</span></span> <span data-ttu-id="2f460-123">Gözden geçirilmiş ve yayımlanan Insight "Evet" diyor emin olun ve sonra güncelleştirme Kuralı'nı tıklatın.</span><span class="sxs-lookup"><span data-stu-id="2f460-123">Make sure Insight reviewed and published says "yes" and then click Update Rule.</span></span> <span data-ttu-id="2f460-124">**(Bu prettier yakında serbest portal - yeni sürümünde görünecektir.)** 
- ![url alanı](media/for-content-team.PNG)</span><span class="sxs-lookup"><span data-stu-id="2f460-124">**(This will look prettier in the new version of the portal - releasing soon.)**
-![url field](media/for-content-team.PNG)</span></span>
-
+<span data-ttu-id="5ac8e-123">İçeriğinizi hazır olduktan sonra canlı dala çeker.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-123">Once your content is ready, pull it to the live branch.</span></span> <span data-ttu-id="5ac8e-124">Daha sonra [Alchemy ortak portalı](https://alchemyportal.azurewebsites.net) gidin ve dosya adı url alanına girin.</span><span class="sxs-lookup"><span data-stu-id="5ac8e-124">Then, go to the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net) and enter the filename into the url field.</span></span> <span data-ttu-id="5ac8e-125">M</span><span class="sxs-lookup"><span data-stu-id="5ac8e-125">M</span></span>
