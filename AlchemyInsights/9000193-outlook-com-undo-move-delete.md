@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: cdac247b0a60af9d74481dfffba9b06c07c837e3
-ms.sourcegitcommit: e3df67530bd5205410acf5beba4a07acab9692f0
+ms.openlocfilehash: 566a12c192e117401a9d49486b468b0f4af93d5c
+ms.sourcegitcommit: 53ac59b8afb80cac084eeeec9d2f65591ebcb232
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30347571"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30701519"
 ---
 # <a name="action-confirmations"></a>Eylem teyitleri
 
-Outlook.com eylem onaylama özelliği yalnızca yanlışlıkla yaptığınız taşıma veya ileti silme işlemini geri izin verir. Geri alma iletişim için yaklaşık 5 saniye ekranın alt kısmında görüntülenir ve taşıma veya ileti silme eylemi tersine çevirecektir.
+Outlook.com eylem teyitleri özelliği yalnızca yanlışlıkla yaptığınız taşıma veya ileti silme işlemini geri izin verir. Geri alma iletişim yaklaşık 5 saniye ekranın alt kısmında görüntülenir ve hareket ters ya da silme eylemi.
 
-Bunun altında **ayarları**altında geçebilirsiniz > **Genel** > **bildirimleri** > **[Eylem onayları](https://outlook.live.com/mail/options/general/notifications)**.
+Bu [Eylem teyitleri](https://outlook.live.com/mail/options/general/notifications) içinde geçiş yapabilirsiniz (**ayarları** > **tüm Outlook ayarları görüntülemek** > **Genel** > **bildirim**).
 
-Not: İleti gönderme geri alamazsınız. [Outlook.com içindeki bir iletiyi çağırmak istediğiniz](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a) daha fazla bilgi için okuyun.
+Not: İleti gönderme geri alamazsınız. Daha fazla bilgi için bkz: [Outlook.com içindeki bir iletiyi çağırmak istiyorum](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).
