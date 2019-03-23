@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: fe2d5d9e78ad6f1e05d99d1e754b3ba990f28e58
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 76570a37a8683863eba8ad18b7f92e86bafa97f6
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925328"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760034"
 ---
 # <a name="buy-additional-licenses"></a>Ek lisans satın al
 
@@ -26,10 +26,10 @@ ms.locfileid: "29925328"
     
     [Ekle/Kaldır bağlantısını görmek yok](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1#bkmk_no_link)
     
-3. Bu abonelik için gereken lisansların toplam sayısı **toplam lisans** kutusuna girin ve sonra **Gönder** ' i seçin \> **Kapat**. Örneğin, 100 lisansları varsa ve daha fazla 5 eklemeniz gerekir, 105 girin.
+3. Bu abonelik için gereken lisansların toplam sayısı **toplam lisans** kutusuna girin ve sonra **Gönder** ' i seçin \> **Kapat**. Örneğin, 100 lisansınız varsa ve 5 lisans daha eklemeniz gerekiyorsa 105 yazın.
     
     > [!NOTE]
-    > Aboneliğiniz için kredi kartı veya banka hesabı ödüyorsanız, satın aldığınız tüm yeni lisanslar sipariş teyidi aldığınızda kullanılabilir. Fatura ile ödeme yapıyorsanız, yeni lisanslarınızı kullanılabilir olmadan önce bir kredi denetimi için beklemek zorunda kalabilirsiniz. 
+    > Aboneliğinizin ödemesini kredi kartı veya banka hesabıyla yaparsanız, satın aldığınız tüm yeni lisanslar sipariş onayı almanızın hemen ardından kullanıma hazır duruma gelir. Fatura karşılığında ödeme yapıyorsanız, yeni lisanslarınızın kullanılabilir duruma gelmesi için kredi denetimini beklemeniz gerekebilir. 
   
  **Ek kaynaklar**
   

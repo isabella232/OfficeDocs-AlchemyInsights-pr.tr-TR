@@ -1,39 +1,37 @@
 ---
-title: App parolalar
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 app parolalar
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938252"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762552"
 ---
 # <a name="app-passwords"></a>App parolalar
 
-App parola Office 365 hesabınıza erişmek için bir uygulama veya aygıt izin veren bir koddur. Yöneticinizden çok faktörlü kimlik doğrulama, kuruluşunuz için açık ve kullandığınız Office 365 hesabınıza bağlanmak apps app için Office 365 bağlanabilmesi için bir app parola oluşturmak gerekir. Örneğin, Outlook 2016 kullanıyorsanız veya önceki sürümleri Office 365, app parola oluşturmanız gerekecektir.
+App parola hesap okul veya Office 365 çalışmanızı erişmek için bir uygulama veya aygıt izni veren bir koddur. Hesabınız çok faktörlü kimlik doğrulama (MFA) gerektirir ve app hesabınıza bağlanır, app için Office 365 bağlanabilmesi için bir app parola oluşturmak gerekir. Örneğin, Outlook 2016 ve önceki sürümleri, Outlook app parola gerektirir.
   
-1. Office 365 Yönetici hesabınız için çok faktörlü kimlik doğrulama etkinleştirilmiş olup olmadığını denetleyin. Yapmadıysanız, çalıştığınızda aşağıdaki adımları yapmak seçenekler Office 365'te göremezsiniz.
+ **Not**: aşağıdaki adımları denemeden önce Office 365 Yönetici ile MFA hesabınız için gerekli olduğundan emin olun. Değilse, adımlarda açıklanan seçenekler sizin için kullanılabilir durumda olmaz.
+  
+1. Office 365 için çalışmanızı Okul hesabı ve parola ile oturum açın.
     
-2. Yine her zamanki gibi Office 365 iş veya Okul hesabınıza parola ile oturum açın. **Oturum Aç'ı**seçin, sonra kullanıcı adınız ve birkaç seçenekleri ile bir sayfa görürsünüz 
+2. **Şimdi ayarlamak**seçin.
     
-3. **Şimdi ayarlamak**seçin. 
+3. Kimlik doğrulama yöntemi seçin ve yönergeleri izleyin.
     
-4. Kimlik doğrulama yöntemi seçin ve ardından sayfadaki yönergeleri izleyin.
+4. Diğer kişi yönteminizi doğruladıktan sonra **İleri**' yi seçin.
     
-5. Diğer kişi yönteminizi doğruladıktan sonra **İleri**' yi seçin. 
-    
-6. Outlook, Apple Mail, VS kullanabilirsiniz bir app parola elde edersiniz. Parola, Pano'ya kopyalamak için Kopyala simgesini seçin. Bu parolayı ezberleseniz gerekmez. 
-    
-7. Zaman Office 365 e-posta hesabınızı Outlook (veya başka bir uygulama) ekleyin ve geçmiş bu app parola hesap parolanızı yazmak yerine parola kutusuna bir parola istenir. 
+5. Outlook, Apple Mail ve gerektiren diğer uygulamaları ile kullanabileceğiniz bir app parola elde edersiniz. Parola onu başka bir yere (onu ezberleseniz gerek yoktur) yapıştırmak üzere kopyalamak için **Kopyala** ' yı seçin. 
     
 

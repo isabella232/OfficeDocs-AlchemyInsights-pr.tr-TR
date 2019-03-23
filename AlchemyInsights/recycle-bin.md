@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 20c5ae457544a5bbf00134e9ae17097eb5a94c55
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a306d8764351a8769b4dba95b912f90433b2c2dc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940736"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762156"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>SharePoint çevrimiçi öğeleri geri yükleme
 
@@ -28,7 +28,7 @@ SharePoint çevrimiçi öğeleri sildiğinizde, bunlar 93 gün için toplam muha
     
 2. **Geri Dönüşüm Kutusu** sayfasında, onlara gelip görüntülenen onay işareti simgesini tıklatarak geri yüklemek istediğiniz öğeleri seçin. 
     
-3. **Geri Yükle**'ye tıklayın.
+3. **Geri Yükle**'yi tıklatın.
     
 [Site koleksiyonu geri dönüşüm kutusundan silinmiş öğeleri geri yükleme](https://go.microsoft.com/fwlink/?linkid=866439)
   
