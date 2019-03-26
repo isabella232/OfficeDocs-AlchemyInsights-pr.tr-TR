@@ -1,5 +1,5 @@
 ---
-title: DNS kayıtları güncelleştir
+title: DNS Kayıtlarını güncelleştirme
 ms.author: pebaum
 author: pebaum
 ms.date: 1/12/2018
@@ -8,21 +8,21 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: 3deb5f1ac8ec663c43848beb9d0a815198206e19
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 7d254fe04d98e28cd88f010749a423aea1474fe1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405091"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758774"
 ---
-# <a name="update-dns-records"></a><span data-ttu-id="493cb-102">DNS kayıtları güncelleştir</span><span class="sxs-lookup"><span data-stu-id="493cb-102">Update DNS Records</span></span>
+# <a name="update-dns-records"></a><span data-ttu-id="0156e-102">DNS Kayıtlarını güncelleştirme</span><span class="sxs-lookup"><span data-stu-id="0156e-102">Update DNS Records</span></span>
 
-<span data-ttu-id="493cb-p101">DNS kayıtlarınızı ayarı, Office 365 aboneliğinizi, özel etki alanı adı ile çalışmaya başlama için önemlidir. DNS kayıtlarınızı güncelleştirmek ya da eklemek için aşağıdaki bağlantıları kullanın.</span><span class="sxs-lookup"><span data-stu-id="493cb-p101">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name. Use the links below to add or update your DNS records.</span></span>
+<span data-ttu-id="0156e-103">Office 365 aboneliğinizin özel etki alanı adınızla çalışmasına sağlamak için DNS kayıtlarınızı ayarlamak önemlidir.</span><span class="sxs-lookup"><span data-stu-id="0156e-103">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name.</span></span> <span data-ttu-id="0156e-104">DNS kayıtlarınızı eklemek veya güncelleştirmek için bu bağlantıları kullanın.</span><span class="sxs-lookup"><span data-stu-id="0156e-104">Use the links below to add or update your DNS records.</span></span>
   
-- [<span data-ttu-id="493cb-105">Office 365'te DNS kayıtları güncelleştirme</span><span class="sxs-lookup"><span data-stu-id="493cb-105">Updating DNS records in Office 365</span></span>](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
+- <span data-ttu-id="0156e-105">[Office 365'te DNS kayıtlarını güncelleştirme](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)</span><span class="sxs-lookup"><span data-stu-id="0156e-105">[](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)Update DNS records in the Office 365 admin center</span></span>
     
-- [<span data-ttu-id="493cb-106">Ekleme veya özel DNS kayıtlarını düzenleme</span><span class="sxs-lookup"><span data-stu-id="493cb-106">Add or edit custom DNS records</span></span>](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
+- <span data-ttu-id="0156e-106">[Özel DNS kayıtlarını ekleme veya düzenleme](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)</span><span class="sxs-lookup"><span data-stu-id="0156e-106">[](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)Add or edit custom DNS records in Office 365</span></span>
     
 
