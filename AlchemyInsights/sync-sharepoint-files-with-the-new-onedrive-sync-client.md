@@ -1,5 +1,5 @@
 ---
-title: Yeni OneDrive eşitleme istemcisi ile SharePoint dosyaları eşitleme
+title: Yeni OneDrive eşitleme istemcisini kullanarak SharePoint dosyalarını eşitleme
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: f410e09f2ef7acee9b24686193a7ce6fb6ab706b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469043"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755066"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Yeni OneDrive eşitleme istemcisi ile SharePoint dosyaları eşitleme
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Yeni OneDrive eşitleme istemcisini kullanarak SharePoint dosyalarını eşitleme
 
-1. Klasik SharePoint Yönetim Merkezi **ayarları**seçin.
+1. Klasik SharePoint yönetim merkezinde, **ayarlar**’ı seçin.
     
-2. "OneDrive eşitleme düğme", "eşitleme düğmesini göstermek için." olarak ayarlandığından emin olun
+2. "OneDrive Eşitleme Düğmesi" için "Eşitleme düğmesini göster" ayarının seçildiğinden emin olun.
     
-3. "Eşitleme istemcisi için SharePoint için" **Yeni istemci Başlat**' ı seçin.
+3. "SharePoint için Eşitleme İstemcisi" olarak **Yeni istemciyi başlat**’ı seçin.
     
     > [!NOTE]
-    > Bu seçenek görünmüyorsa, kuruluşunuzda zaten SharePoint dosyaları eşitlemek için yeni OneDrive eşitleme istemcisi kullanmak için ayarlanmış. 
+    > Bu seçenek gösterilmiyorsa, kuruluşunuz SharePoint dosyalarını eşitlemek için yeni OneDrive eşitleme istemcisinin kullanılmasını zaten ayarlamıştır. 
   
-4. **Tamam**'ı tıklatın.
+4. **Tamam**'a tıklayın.
     
-Daha fazla bilgi için bkz: [Yeni OneDrive eşitleme istemcisi ile SharePoint dosyaları eşitlemek kullanıcılar etkinleştirme](https://go.microsoft.com/fwlink/?linkid=866433). [Yeni OneDrive eşitleme istemcisi ile eşitleme SharePoint dosyaları](https://go.microsoft.com/fwlink/?linkid=866427)kullanıcılarınıza vermek yönergeler için bkz.
+Daha fazla bilgi için bkz. [Kullanıcıların yeni OneDrive eşitleme istemcisiyle SharePoint dosyalarını eşitlemesini sağlama](https://go.microsoft.com/fwlink/?linkid=866433). Kullanıcılarınıza vereceğiniz yönergeler için bkz. [Kullanıcıların yeni OneDrive eşitleme istemcisiyle SharePoint dosyalarını eşitlemesini sağlama](https://go.microsoft.com/fwlink/?linkid=866427).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Kredi kartı nasıl eklenir?
+title: Nasıl kredi kartı eklerim?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: ffc0d6b0c23857180517e19e2ee2b05375c4c366
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: e7d9941af1379a3b0025835ed5c378ad1d5b3cbc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404623"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762876"
 ---
-# <a name="how-do-i-add-a-credit-card"></a>Kredi kartı nasıl eklenir?
+# <a name="how-do-i-add-a-credit-card"></a>Nasıl kredi kartı eklerim?
 
-1. Yönetim merkezinde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin veya **Faturalama** \> **Abonelikler**'i seçin.
+1. Yönetim merkezinde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin veya **Faturalama** \> **Abonelikler**’i seçin.
     
-2. Yeni kredi kartı veya banka hesabıyla ödeme yapmak istediğiniz aboneliği seçikten sonra **Ödeme ayrıntılarını güncelleştir**'i seçin.
+2. Yeni kredi kartı veya banka hesabıyla ödeme yapmak istediğiniz aboneliği seçikten sonra **Ödeme ayrıntılarını güncelleştir**’i seçin.
     
-3. **Ödeme yöntemi ekleyin veya seçin** alanında aşağı açılan oku seçin, sonra da **Yeni kredi kartı**'nı veya **Yeni banka hesabı**'nı seçin.
+3. 
+            **Ödeme yöntemi ekleyin veya seçin** alanında aşağı açılan oku seçin ve sonra **Yeni kredi kartı**'nı veya **Yeni banka hesabı**’nı seçin.
     
-4. Yeni kredi kartı veya banka hesabının bilgilerini girin ve sonra Gönder'i seçin.
+4. Yeni kredi kartı veya banka hesabının bilgilerini girin ve sonra Gönder’i seçin.
     
 

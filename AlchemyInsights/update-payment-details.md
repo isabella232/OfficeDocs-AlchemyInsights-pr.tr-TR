@@ -1,5 +1,5 @@
 ---
-title: Güncelleştirme ödeme ayrıntıları
+title: Ödeme ayrıntılarını güncelleştirme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
-ms.openlocfilehash: 366a29a2d3c0345ce857904bdceb8250ea88dc0f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: a20d332a32514e7c7608e825883b9e85f7d1a093
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404695"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755642"
 ---
-# <a name="update-payment-details"></a>Güncelleştirme ödeme ayrıntıları
+# <a name="update-payment-details"></a>Ödeme ayrıntılarını güncelleştirme
 
-1. Yönetim Merkezi [Ödeme yöntemi](https://go.microsoft.com/fwlink/p/?linkid=2018806) sayfasına gidin veya **Faturalama** seçin \> **Ödeme yöntemleri**.
+1. Yönetim merkezinde [Ödeme yöntemleri](https://go.microsoft.com/fwlink/p/?linkid=2018806) sayfasına gidin veya **Faturalama** \> **Ödeme yöntemleri**’ne gidin.
     
     > [!NOTE]
-    > Güncelleştirmelerinizi tam önce Yönetim giriş sayfasına gönderir bir döngü karşılaşırsanız, InPrivate veya Incognito modu. 
+    > Güncelleştirmeleriniz tamamlanmadan önce sizi Yönetici giriş sayfasına yönlendiren bir döngüyle karşılaşırsanız InPrivate veya Gizli moduna geçmeyi deneyin. 
   
-2. Güncelleştirmek istediğiniz kredi kartı seçin.
+2. Güncelleştirmek istediğiniz kredi kartını seçin.
     
     > [!NOTE]
-    > Admin başka bir ödeme yöntemi eklediyseniz, onun için kredi kartı veya banka hesabı bilgilerinizi güncelleştirmek kullanamazsınız. Kredi kartı dolmak üzere olan ve diğer yönetici güncelleştirme olanağınız yoksa, hizmet farklı kredi kartı veya abonelik için yeni banka hesabı **Ekle ödeme yöntemi**seçerek ekleyerek engelleyebilirsiniz. 
+    > Ödeme yöntemini başka bir yönetici eklediyse, aboneliğin kredi kartı veya banka hesabı bilgilerini güncelleştiremezsiniz. Kredi kartının süresi dolmak üzereyse ve diğer yönetici kart bilgilerini güncelleştiremiyorsa abonelik için farklı bir kredi kartı veya **Ödeme yöntemi ekle**’yi seçip yeni bir banka hesabı ekleyerek hizmet kesintisini önleyebilirsiniz. 
   
-3. **Ödeme ayrıntıları** sayfasında **Ödeme Ayrıntıları Düzenle**' yi seçin.
+3. **Ödeme ayrıntıları** sayfasında **Ödeme ayrıntılarını düzenle**’yi seçin.
     
-4. Güncelleştirme yapmak ve sonra **Kaydet**' i seçin.
+4. Güncelleştirmeleri yapın ve sonra **Kaydet**’i seçin.
     
-5. Bu ödeme yöntemi kaldırmak için **Sil**' i seçin.
+5. Bu ödeme yöntemi kaldırmak için **Sil**’i seçin.
     
-Daha fazla bilgi için bkz: [ekleme, güncelleştirme ya da kredi kartı numaranızı veya banka hesabı iş için Office 365'te kaldırmak](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) ve [sorun giderme kredi kartları ve banka hesapları](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Daha fazla bilgi için bkz. [İş için Office 365’te kredi kartı veya banka hesabını ekleme, güncelleştirme ya da kaldırma](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) ve [Kredi kartı ve banka hesabı sorunlarını giderme](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 

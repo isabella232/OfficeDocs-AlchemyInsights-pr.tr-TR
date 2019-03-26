@@ -1,5 +1,5 @@
 ---
-title: Etki alanını doğrulayın
+title: Etki alanını doğrulama
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: be907ec3ef667e353561a832cee466699662440a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404875"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760430"
 ---
-# <a name="trying-to-verify-your-domain"></a>Etki alanınızın doğrulamak çalışıyorsunuz?
+# <a name="trying-to-verify-your-domain"></a>Etki alanınızı doğrulamaya mı çalışıyorsunuz?
 
-Etki alanınızın size ait olduğunu doğrulamak için etki alanı Kaydedicisi TXT kaydı eklemeniz gerekir. **Ayarlar** ' ı tıklatarak etki alanı Ekle Sihirbazı'nı izleyin \> **etki alanı**ve **Etki alanı ekleyin**. 
+Etki alanınızın sahibi olduğunuzu doğrulamak için etki alanı kayıt şirketinize bir TXT kaydı eklemelisiniz. **Ayarlar** \> **Etki Alanı**'na ve ardından **Etki Alanı Ekle**'ye tıklayın ve Etki Alanı Ekle sihirbazını izleyin. 
   
-Etki alanınızın doğrulamak için bir TXT kaydı eklemek için makalede yer alan yönergeleri izleyin. Etki alanınız için özel yönergeler için etki alanı Kaydedicisi seçin.
+Etki alanınızı doğrulamak üzere TXT kaydını eklemek için bu makaledeki yönergeleri izleyin. Etki alanınıza ilişkin özel yönergeler için etki alanı kayıt şirketinizi seçin.
   
-[Office 365'için DNS kayıtları oluşturma](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[Office 365 için DNS kayıtları oluşturma](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
   
 
