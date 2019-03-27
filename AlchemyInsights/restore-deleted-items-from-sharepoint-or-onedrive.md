@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 94203849c1cca9dc1d2d6207f2390a57ad3e9680
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6076582a5d7fbcde47e8d281ecc649c97d8edfbc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923204"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767412"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>SharePoint veya OneDrive silinmiş öğeleri geri yükleme
 
@@ -26,7 +26,7 @@ ms.locfileid: "29923204"
     
 3. Öğeleri veya dosyaları geri yüklemek istediğiniz solunu tıklatın.
     
-4. **Geri Yükle**'ye tıklayın. 
+4. **Geri Yükle**'yi tıklatın. 
     
 Dosyaları, klasörleri, kitaplıkları, listeleri ve liste öğelerini bir SharePoint sitesinden sildiğinizde, Geri Dönüşüm Kutusu'na birisi bu Geri Dönüşüm Kutusu'ndan siler sürece nerede bunlar 93 gün süreyle tutulacağını, gidin. Bu geri dönüşüm (sitenin Geri Dönüşüm Kutusu'na denir) depo gözünden silmiş, bunlar site koleksiyonu geri dönüşüm kutusu için kalan süreyi gidin ve sonra kalıcı olarak silinir. Silinen siteleri ve site koleksiyonları oluşturmalarını doğrudan 93 gün için site koleksiyonu Geri Dönüşüm Kutusu'na gidin.
   

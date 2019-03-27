@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 244cf804ea0f270bf56ba3247beb91463ffb66b4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922916"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767448"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Nasıl eklemek veya lisansları azaltmak
 
 Nasıl kaldırmak veya daha fazla lisans satın İşte.
   
-1. Yönetim merkezinde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin veya **Faturalama** \> **Abonelikler**'i seçin.
+1. Yönetim merkezinde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin veya **Faturalama** \> **Abonelikler**’i seçin.
     
 2. Soldaki bölmede, abonelik lisanslarını eklemek/kaldırmak istediğiniz seçin
     
@@ -45,6 +45,6 @@ Nasıl kaldırmak veya daha fazla lisans satın İşte.
     
 - [Office 365 İş'i iptal etme](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
-- [Başka bir Office 365 İş aboneliği alın](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [Başka bir İşletmeler için Office 365 aboneliği satın alma](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
     
 

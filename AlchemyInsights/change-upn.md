@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: f8c412bda739179b295d62a1d6a6e31a88cf59c2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208461"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767052"
 ---
 # <a name="change-a-users-email-address"></a>Kullanıcının e-posta adresini değiştirme
 
@@ -30,11 +30,11 @@ Kişinin e-posta adresini değiştirmek kolaydır! Aşağıdaki adımları izlem
     
 4. **Diğer ad** kutusuna yeni bir e-posta yazın ve **Ekle**' yi seçin.
     
-    **Önemli**: hata iletisini alırsanız, " **parametre adı ile eşleşen bir parametre bulunamıyor ' EmailAddresses**" Office 365'ın yakın bir zamanda bir eklediyseniz, Kiracı veya özel etki alanınızda kurulumunu biraz uzun sürüyor anlamına gelir . Kurulum işlemini tamamlamak için 4 saat sürebilir. Kurulum işlemini tamamlayın ve sonra yeniden deneyin zamanı kalması için bir süre bekleyin. Sorun devam ederse, destek çağrısı ve bunlar tam sizin için yapar.
+    **ÖNEMLİ**: " **'EmailAddresses' parametre adıyla eşleşen bir parametre bulunamadı**" hata iletisini almanız, Office 365'in kiracınızı veya özel etki alanınızı (yakın zamanda bir özel etki alanı eklediyseniz) ayarlamayı tamamlamasının biraz uzun sürdüğü anlamına gelir. Ayarlama işleminin tamamlanması 4 saat kadar sürebilir. Biraz bekleyerek ayarlama işleminin bitmesi için zaman tanıyın ve sonra yeniden deneyin. Sorun devam ederse sizin için tam eşitleme gerçekleştirecek olan Destek ekibini arayın.
     
     Hata iletisini alırsanız " **kullanıcı düzenlenebilir alınamadı, Üzgünüz. Kullanıcı bilgileri gözden geçirin ve yeniden deneyin**", bir Office 365 global yönetici olmayan ve kullanıcı adını değiştirmek için izniniz yok demektir.
     
-5. Bu kişi için birincil e-posta adresi olarak ayarlamak istediğiniz e-posta adresi için **birincil olarak ayarla** ' yı seçin. GoDaddy abonelik satın aldıysanız, kendi Yönetim Konsolu için birincil e-posta adresini ayarlamak için kaydolmalısınız. 
+5. Bir kullanıcı için birincil olarak ayarlamak istediğiniz e-posta adresinde **Birincil Olarak Ayarla**'yı seçin. GoDaddy abonelik satın aldıysanız, kendi Yönetim Konsolu için birincil e-posta adresini ayarlamak için kaydolmalısınız. 
     
 6. **Kaydedin**, ardından **Kapat**' ı seçin ve Başardınız!
     
