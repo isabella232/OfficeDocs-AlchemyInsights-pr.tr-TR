@@ -21,48 +21,48 @@
 | 4/3/2019 | [1575-PowerApps ve Microsoft Flow uzantısı planlayın](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | yeniden adlandırılmış |
 | 4/3/2019 | [Çok faktörlü kimlik doğrulamasını etkinleştir](/AlchemyInsights/enable-multifactor-authentication) | değiştiren |
 | 4/3/2019 | [8000054 Outlook.com depolama sınırı aşıldı](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | eklendi |
-| 4/3/2019 | [423 Org güvenlik - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | değiştiren |
-| 4/3/2019 | [8000029 istenmeyen postalar veya kimlik avı Outlook.com içinde çalışılabilecek](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | değiştiren |
+| 4/3/2019 | [423 Kuruluş Güvenliği - E-posta Hesabının Güvenliği Aşıldı](/AlchemyInsights/423-org-securityemailaccountcompromised) | değiştiren |
+| 4/3/2019 | [8000029 Outlook.com’da istenmeyen posta veya kimlik avıyla başa çıkma](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | değiştiren |
 | 4/3/2019 | [Etki alanı kaldırma](/AlchemyInsights/remove-domain) | değiştiren |
-| 4/3/2019 | [Kullanıcı eklemek için Office 365](/AlchemyInsights/add-users-to-office-365) | değiştiren |
+| 4/3/2019 | [Office 365’e kullanıcı ekleme](/AlchemyInsights/add-users-to-office-365) | değiştiren |
 | 4/3/2019 | [Çok fazla gereksiz veya kimlik avı, posta kutunuzdaki alıyorsunuz?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | değiştiren |
-| 4/3/2019 | [NameServers değiştirme](/AlchemyInsights/change-nameservers) | değiştiren |
+| 4/3/2019 | [Ad Sunucularını Değiştirme](/AlchemyInsights/change-nameservers) | değiştiren |
 | 4/3/2019 | [PowerApps içinde uygulamaları oluşturma](/AlchemyInsights/create-apps-in-powerapps) | değiştiren |
 | 4/3/2019 | [Office 365 cutover geçişleri](/AlchemyInsights/cutover-migrations-to-office-365) | değiştiren |
 | 4/3/2019 | [E-posta teslim sorunlarıyla karşılaşıyorsunuz?](/AlchemyInsights/having-email-delivery-issues-0) | değiştiren |
 | 4/3/2019 | [E-posta teslim sorunlarıyla karşılaşıyorsunuz?](/AlchemyInsights/having-email-delivery-issues) | değiştiren |
-| 4/3/2019 | [Kredi kartı nasıl eklenir?](/AlchemyInsights/how-do-i-add-a-credit-card) | değiştiren |
-| 4/3/2019 | [Kredi kartı bilgilerimi nasıl güncelleştirilsin mi?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | değiştiren |
+| 4/3/2019 | [Nasıl kredi kartı eklerim?](/AlchemyInsights/how-do-i-add-a-credit-card) | değiştiren |
+| 4/3/2019 | [Kredi kartı bilgilerimi nasıl güncelleştirebilirim?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | değiştiren |
 | 4/3/2019 | [Office nasıl yüklenir](/AlchemyInsights/how-to-install-office) | değiştiren |
 | 4/3/2019 | [IMAP e-posta geçirme](/AlchemyInsights/migrate-email-from-imap) | değiştiren |
 | 4/3/2019 | [Ödeme seçenekleri](/AlchemyInsights/payment-options) | değiştiren |
 | 4/3/2019 | [Bir hesap tehlikeye düştüğünde uygulanması önerilen adımlar](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | değiştiren |
-| 4/3/2019 | [Çok fazla istenmeyen posta göndermek için Engellenen gönderen](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | değiştiren |
-| 4/3/2019 | [Dynamics 365 destek istekleri gönderme](/AlchemyInsights/submit-dynamics-365-support-requests) | değiştiren |
+| 4/3/2019 | [Gönderen çok fazla sayıda istenmeyen posta gönderdiği için engellendi](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | değiştiren |
+| 4/3/2019 | [Dynamics 365 destek isteği gönderme](/AlchemyInsights/submit-dynamics-365-support-requests) | değiştiren |
 | 4/3/2019 | [Etki alanı zaten kullanılıyor](/AlchemyInsights/the-domain-is-already-in-use) | değiştiren |
-| 4/3/2019 | [Sorun Office 365 Portal bir satın almayı tamamlama](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | değiştiren |
-| 4/3/2019 | [DNS kayıtları güncelleştir](/AlchemyInsights/update-dns-records-0) | değiştiren |
-| 4/3/2019 | [DNS kayıtları güncelleştir](/AlchemyInsights/update-dns-records) | değiştiren |
-| 4/3/2019 | [Güncelleştirme ödeme ayrıntıları](/AlchemyInsights/update-payment-details) | değiştiren |
-| 4/3/2019 | [Etki alanını doğrulayın](/AlchemyInsights/verify-domain) | değiştiren |
+| 4/3/2019 | [Office 365 portalında satın alma işlemini tamamlarken sorun yaşıyorsunuz](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | değiştiren |
+| 4/3/2019 | [DNS Kayıtlarını güncelleştirme](/AlchemyInsights/update-dns-records-0) | değiştiren |
+| 4/3/2019 | [DNS Kayıtlarını güncelleştirme](/AlchemyInsights/update-dns-records) | değiştiren |
+| 4/3/2019 | [Ödeme ayrıntılarını güncelleştirme](/AlchemyInsights/update-payment-details) | değiştiren |
+| 4/3/2019 | [Etki alanını doğrulama](/AlchemyInsights/verify-domain) | değiştiren |
 | 4/3/2019 | [İletim için birden çok e-posta adresi ayarlama](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | değiştiren |
 | 4/3/2019 | [Çözme 'Bir kabul edilen etki alanı değil' hatası](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | değiştiren |
-| 6/3/2019 | [1581 açın ve Outlook web üzerindeki bir paylaşılan posta kullanın](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | değiştiren |
+| 6/3/2019 | [1581 Web üzerinde Outlook’ta paylaşılan posta kutusunu açma ve kullanma](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | değiştiren |
 | 6/3/2019 | [Takımlar kaydırır](/AlchemyInsights/1686-teams-shifts) | eklendi |
-| 6/3/2019 | [1703 takımlar hakkında bilgiye gereksinim ve Polycom telefonlar](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | eklendi |
+| 6/3/2019 | [1703 Teams ve Polycom telefonları hakkında bilgi gerekir](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | eklendi |
 | 6/3/2019 | [Takımlar PS modülü yüklemek ve başvuru](/AlchemyInsights/1787-teams-ps-module-install-ref) | eklendi |
-| 6/3/2019 | [615 türleri paylaşımını nasıl oluşturacağınızı ve.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | değiştiren |
+| 6/3/2019 | [Paylaşmanın 615 Türü ve bunların ayarlanması.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | değiştiren |
 | 6/3/2019 | [Takımlar Freemium](/AlchemyInsights/997-teams-freemium) | eklendi |
 | 6/3/2019 | [Meşru ileti spam işaretlenmesini var mı?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | değiştiren |
 | 6/3/2019 | [Microsoft ekipleri etkinleştir](/AlchemyInsights/enable-microsoft-teams) | değiştiren |
 | 6/3/2019 | [Takımlar, Öğrenciler için etkinleştirilmiş olan?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | değiştiren |
-| 6/3/2019 | [Bir abonelik yeniden etkinleştirmek için](/AlchemyInsights/how-to-reactivate-a-subscription) | değiştiren |
+| 6/3/2019 | [Aboneliği yeniden etkinleştirme](/AlchemyInsights/how-to-reactivate-a-subscription) | değiştiren |
 | 6/3/2019 | Intune App dağıtım - kural kimliği 991 arası | kaldırıldı |
 | 6/3/2019 | [İş için Skype ile sorun?](/AlchemyInsights/issue-with-skype-for-business) | değiştiren |
 | 6/3/2019 | [Microsoft ekipleri - Konuk erişimi](/AlchemyInsights/microsoft-teamsguest-access) | değiştiren |
 | 6/3/2019 | [Silinen takım siteyi geri Microsoft ekipleri-](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | değiştiren |
 | 6/3/2019 | [Office 365 üzerinden e-posta geçişi](/AlchemyInsights/relay-email-through-office-365) | değiştiren |
-| 6/3/2019 | [Yeni OneDrive eşitleme istemcisi ile SharePoint dosyaları eşitleme](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | değiştiren |
+| 6/3/2019 | [Yeni OneDrive eşitleme istemcisini kullanarak SharePoint dosyalarını eşitleme](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | değiştiren |
 | 6/3/2019 | [Microsoft Teams tam sürümüne yükseltme](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | değiştiren |
 | 7/3/2019 | [8000064 Outlook.com e-posta alamazsınız eşitleme - İSPANYOLCA](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | eklendi |
 | 7/3/2019 | [8000065 Outlook.com istenmeyen Önemsiz - İSPANYOLCA](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | eklendi |
@@ -134,7 +134,7 @@
 | 22/3/2019 | [Boş koltuk için bir ön ödemeli abonelik Ekle](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | değiştiren |
 | 22/3/2019 | [1800018 Ekle/e-posta hesaplarını ayarlama](/AlchemyInsights/add-set-up-email-accounts) | yeniden adlandırılmış |
 | 22/3/2019 | [764 Ekle/Kurulum e-posta hesapları](/AlchemyInsights/add-setup-email-accounts) | yeniden adlandırılmış |
-| 22/3/2019 | [Kullanıcı eklemek için Office 365](/AlchemyInsights/add-users-to-office-365) | değiştiren |
+| 22/3/2019 | [Office 365’e kullanıcı ekleme](/AlchemyInsights/add-users-to-office-365) | değiştiren |
 | 22/3/2019 | [8000040 Windows için Outlook Outlook.com hesabınızı ekleyin](/AlchemyInsights/add-your-outlook-com-account-in-outlook-for-windows) | yeniden adlandırılmış |
 | 22/3/2019 | [713 ek e-posta adresi bir dağıtım listesine ekleme](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | yeniden adlandırılmış |
 | 22/3/2019 | [718 ekleme dış kişi / kişiler dışında bir dağıtım listesine organizasyon](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | yeniden adlandırılmış |
@@ -196,7 +196,7 @@
 | 22/3/2019 | [Outlook.com 8000013 değişiklik yazı tipini](/AlchemyInsights/change-font-in-outlook-com) | yeniden adlandırılmış |
 | 22/3/2019 | [Ne kadar sıklıkla ödeme değiştirme](/AlchemyInsights/change-how-often-you-pay) | değiştiren |
 | 22/3/2019 | [8000010 e-posta adresimi Outlook.com değiştirme](/AlchemyInsights/change-my-email-address-in-outlook-com) | yeniden adlandırılmış |
-| 22/3/2019 | [NameServers değiştirme](/AlchemyInsights/change-nameservers) | değiştiren |
+| 22/3/2019 | [Ad Sunucularını Değiştirme](/AlchemyInsights/change-nameservers) | değiştiren |
 | 22/3/2019 | [OneDrive değiştirmek için iş depolama kotası](/AlchemyInsights/change-onedrive-for-business-storage-quota) | değiştiren |
 | 22/3/2019 | [Ödeme yöntemini değiştir](/AlchemyInsights/change-payment-method) | değiştiren |
 | 22/3/2019 | [SharePoint liste veya kitaplık izinlerini değiştirme](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | değiştiren |
@@ -210,7 +210,7 @@
 | 22/3/2019 | [8000002, Outlook.com parolanızı değiştirme](/AlchemyInsights/change-your-password-in-outlook-com) | yeniden adlandırılmış |
 | 22/3/2019 | [8000036 Outlook.com profil adınızı değiştirme](/AlchemyInsights/change-your-profile-name-in-outlook-com) | yeniden adlandırılmış |
 | 22/3/2019 | [Harici kullanıcı erişimine yapılan değişiklikler](/AlchemyInsights/changes-to-external-user-access) | değiştiren |
-| 22/3/2019 | [Outlook.com 8000026 değişiklikler](/AlchemyInsights/changes-to-outlook-com) | yeniden adlandırılmış |
+| 22/3/2019 | [8000026 Outlook.com’daki değişiklikler](/AlchemyInsights/changes-to-outlook-com) | yeniden adlandırılmış |
 | 22/3/2019 | [Ortak klasör izinlerini değiştirme](/AlchemyInsights/changing-public-folder-permissions) | değiştiren |
 | 22/3/2019 | [Paylaşılan posta gönderme olarak davranışını değiştirme](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | değiştiren |
 | 22/3/2019 | [AAD kimlik eşitleme durumunu denetle](/AlchemyInsights/check-aad-identity-sync-status) | değiştiren |
@@ -243,7 +243,7 @@
 | 22/3/2019 | [Bul, değil Excel 2016 Değiştir CTRL + H gösterir](/AlchemyInsights/ctrl-plus-h-shows-find-not-replace-in-excel-2016) | değiştiren |
 | 22/3/2019 | [Outlook.com'nda kimlik avı 8000029 çalışılabilecek](/AlchemyInsights/deal-with-phishing-in-outlook-com) | yeniden adlandırılmış |
 | 22/3/2019 | [İstenmeyen posta olarak Outlook.com 8000029 Dağıt](/AlchemyInsights/deal-with-spam-in-outlook-com) | yeniden adlandırılmış |
-| 22/3/2019 | [8000029 istenmeyen postalar veya kimlik avı Outlook.com içinde çalışılabilecek](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | yeniden adlandırılmış |
+| 22/3/2019 | [8000029 Outlook.com’da istenmeyen posta veya kimlik avıyla başa çıkma](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | yeniden adlandırılmış |
 | 22/3/2019 | [Reddedilen kredi kartı](/AlchemyInsights/declined-credit-card) | değiştiren |
 | 22/3/2019 | [Bir ilgili kişi olarak Outlook.com 8000012 Sil](/AlchemyInsights/delete-a-contact-in-outlook-com) | yeniden adlandırılmış |
 | 22/3/2019 | [8000016 Outlook.com bir klasörde silme](/AlchemyInsights/delete-a-folder-in-outlook-com) | yeniden adlandırılmış |
@@ -299,10 +299,10 @@
 | 22/3/2019 | [SharePoint ve OneDrive için kullanıcılara erişim vermek](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | değiştiren |
 | 22/3/2019 | [Yardım anlama değer vergisi (KDV) eklenir.](/AlchemyInsights/help-understanding-value-added-tax-vat) | değiştiren |
 | 22/3/2019 | [Faturanızı anlama Yardım](/AlchemyInsights/help-understanding-your-bill) | değiştiren |
-| 22/3/2019 | [Kredi kartı nasıl eklenir?](/AlchemyInsights/how-do-i-add-a-credit-card) | değiştiren |
+| 22/3/2019 | [Nasıl kredi kartı eklerim?](/AlchemyInsights/how-do-i-add-a-credit-card) | değiştiren |
 | 22/3/2019 | [Fatura için kredi kartı ödemelerini nasıl değiştirebilirim?](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | değiştiren |
 | 22/3/2019 | [Kredi kartı bilgilerimi nasıl kaldırırım?](/AlchemyInsights/how-do-i-remove-my-credit-card-information) | değiştiren |
-| 22/3/2019 | [Kredi kartı bilgilerimi nasıl güncelleştirilsin mi?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | değiştiren |
+| 22/3/2019 | [Kredi kartı bilgilerimi nasıl güncelleştirebilirim?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | değiştiren |
 | 22/3/2019 | [8000056 seyahat ederken Outlook.com erişmek nasıl](/AlchemyInsights/how-to-access-outlook-com-while-traveling) | yeniden adlandırılmış |
 | 22/3/2019 | [Nasıl eklemek veya lisansları azaltmak](/AlchemyInsights/how-to-add-or-reduce-licenses) | değiştiren |
 | 22/3/2019 | [Nasıl bir lisans bir kullanıcıya atamak için](/AlchemyInsights/how-to-assign-a-license-to-a-user) | değiştiren |
@@ -329,7 +329,7 @@
 | 22/3/2019 | [Office 365 olmayan karlar için satın almak nasıl](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-0) | değiştiren |
 | 22/3/2019 | [Office 365 olmayan karlar için satın almak nasıl](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-1) | değiştiren |
 | 22/3/2019 | [Office 365 olmayan karlar için satın almak nasıl](/AlchemyInsights/how-to-purchase-office-365-for-non-profits) | değiştiren |
-| 22/3/2019 | [Bir abonelik yeniden etkinleştirmek için](/AlchemyInsights/how-to-reactivate-a-subscription) | değiştiren |
+| 22/3/2019 | [Aboneliği yeniden etkinleştirme](/AlchemyInsights/how-to-reactivate-a-subscription) | değiştiren |
 | 22/3/2019 | [Yeniden etkinleştirmek ve yenileme yönetme](/AlchemyInsights/how-to-reactivate-and-manage-renewal) | değiştiren |
 | 22/3/2019 | [8000033 nasıl yanıtlamak veya iletmek iletileri Outlook.com Beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | yeniden adlandırılmış |
 | 22/3/2019 | [8000063 nasıl bir Mac üzerinde sağ tıklatın.](/AlchemyInsights/how-to-right-click-on-a-mac) | yeniden adlandırılmış |
@@ -384,7 +384,7 @@
 | 22/3/2019 | [SharePoint belge kitaplığındaki öğeleri Taşı](/AlchemyInsights/move-items-in-a-sharepoint-document-library) | değiştiren |
 | 22/3/2019 | [8000062 Outlook.com bir klasöre taşıma](/AlchemyInsights/moving-a-folder-in-outlook-com) | yeniden adlandırılmış |
 | 22/3/2019 | [Birden çok Çevrimiçi ödeme araçlarını şarj girişimleri](/AlchemyInsights/multiple-attempts-to-charge-online-payment-instruments) | değiştiren |
-| 22/3/2019 | [1703 takımlar hakkında bilgiye gereksinim ve Polycom telefonlar](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | yeniden adlandırılmış |
+| 22/3/2019 | [1703 Teams ve Polycom telefonları hakkında bilgi gerekir](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | yeniden adlandırılmış |
 | 22/3/2019 | [122 Web'de Outlook'taki bir imza oluşturmanız gerekir?](/AlchemyInsights/need-to-create-a-signature-in-outlook-on-the-web) | yeniden adlandırılmış |
 | 22/3/2019 | [8000037 e-posta Outlook.com almıyor.](/AlchemyInsights/not-receiving-email-in-outlook-com) | yeniden adlandırılmış |
 | 22/3/2019 | [Office 365 iş planları ve fiyatlandırma](/AlchemyInsights/office-365-for-business-plans-and-pricing) | değiştiren |
@@ -396,11 +396,11 @@
 | 22/3/2019 | [Şirket içi Federasyon Hizmeti sertifikalarınızı birini süresinin dolmasını](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | değiştiren |
 | 22/3/2019 | [OneDrive depolama](/AlchemyInsights/onedrive-storage) | değiştiren |
 | 22/3/2019 | [SharePoint kitaplığında dosya Gezgini'nde açın.](/AlchemyInsights/open-a-sharepoint-library-in-file-explorer) | değiştiren |
-| 22/3/2019 | [1581 açın ve Outlook web üzerindeki bir paylaşılan posta kullanın](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | yeniden adlandırılmış |
+| 22/3/2019 | [1581 Web üzerinde Outlook’ta paylaşılan posta kutusunu açma ve kullanma](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | yeniden adlandırılmış |
 | 22/3/2019 | [Açık Explorer düğmesini devre dışı bırakılır](/AlchemyInsights/open-with-explorer-button-is-disabled) | değiştiren |
 | 22/3/2019 | [Açık Explorer düğmesi eksik](/AlchemyInsights/open-with-explorer-button-missing) | değiştiren |
 | 22/3/2019 | [Explorer ile Aç'ı çalışmıyor](/AlchemyInsights/open-with-explorer-doesn-t-work) | değiştiren |
-| 22/3/2019 | [423 Org güvenlik - EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | yeniden adlandırılmış |
+| 22/3/2019 | [423 Kuruluş Güvenliği - E-posta Hesabının Güvenliği Aşıldı](/AlchemyInsights/org-securityemailaccountcompromised) | yeniden adlandırılmış |
 | 22/3/2019 | [424 Org güvenlik - istenmeyen yanlış pozitif](/AlchemyInsights/org-securityspam-false-positive) | yeniden adlandırılmış |
 | 22/3/2019 | [Korsanlarca girilmiş Outlook.com hesap 8000073 - FRANSIZCA](/AlchemyInsights/outlook-com-account-hacked-french) | yeniden adlandırılmış |
 | 22/3/2019 | [Korsanlarca girilmiş 8000039 Outlook.com hesabı](/AlchemyInsights/outlook-com-account-hacked) | yeniden adlandırılmış |
@@ -472,62 +472,16 @@
 | 22/3/2019 | [1488-Perform-eDiscovery-and-Content-Searches](/AlchemyInsights/perform-ediscovery-and-content-searches) | yeniden adlandırılmış |
 
 
-## <a name="week-of-february-18-2019"></a>18 Şubat 2019 haftası
+## <a name="week-of-march-25-2019"></a>25 Mart 2019 haftası
 
 
 | Üzerinde yayınlanan |Konu başlığı | Değiştir |
 |------|------------|--------|
-| 19/2/2019 | [Bir 'Parametresi bulunamadı' hatası var mı?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | değiştiren |
-| 19/2/2019 | [Office 365 için e-posta taşıma](/AlchemyInsights/move-email-to-office-365) | değiştiren |
-| 19/2/2019 | [Geri yükleme silinmiş posta kutusu](/AlchemyInsights/restore-deleted-mailbox) | değiştiren |
-| 21/2/2019 | [Portal Mac Office nasıl yüklenir](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | yeniden adlandırılmış |
-| 22/2/2019 | [1048 5.7.750 hizmeti kullanılamıyor. İstemci kaydı etki alanlarından göndermesini engelledi](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | değiştiren |
-| 22/2/2019 | [Geçersiz Lisans hata Web'de Outlook'taki Alma 125?](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | değiştiren |
-| 22/2/2019 | [126 bir posta alma hatası OWA'da bulunamıyor?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | değiştiren |
-| 22/2/2019 | [127 e-posta erişirken bir TenantAccessBlockedException hatası alınıyor?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | değiştiren |
-| 22/2/2019 | [128 e-posta erişirken bir TenantAccessBlockedException hatası alınıyor?](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | değiştiren |
-| 22/2/2019 | [711 dağıtım listesi veya grup oluşturma](/AlchemyInsights/711-creating-a-distribution-list-or-group) | değiştiren |
-| 22/2/2019 | [Kuruluşunuzdaki herkes için 912 Yapılandır Focused gelen](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | değiştiren |
-| 22/2/2019 | [Etki alanı kaldırma](/AlchemyInsights/remove-domain) | değiştiren |
-| 22/2/2019 | [Bir grup için bir SharePoint sitesi ekleme](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | değiştiren |
-| 22/2/2019 | [Başka bir e-posta diğer adı Ekle](/AlchemyInsights/add-another-email-alias) | değiştiren |
-| 22/2/2019 | [O365 grubuna kişi ekleme](/AlchemyInsights/add-contacts-to-o365-group) | değiştiren |
-| 22/2/2019 | [UPN Değiştir](/AlchemyInsights/change-upn) | değiştiren |
-| 22/2/2019 | [Ortak klasör izinlerini değiştirme](/AlchemyInsights/changing-public-folder-permissions) | değiştiren |
-| 22/2/2019 | [Paylaşılan posta gönderme olarak davranışını değiştirme](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | değiştiren |
-| 22/2/2019 | [AAD kimlik eşitleme durumunu denetle](/AlchemyInsights/check-aad-identity-sync-status) | değiştiren |
-| 22/2/2019 | [Office 365 tarifelerini karşılaştırın](/AlchemyInsights/compare-office-365-plans) | değiştiren |
-| 22/2/2019 | [Klasik bir site oluşturmak](/AlchemyInsights/create-a-classic-site) | değiştiren |
-| 22/2/2019 | [SharePoint çevrimiçi bir site oluşturmak](/AlchemyInsights/create-a-site-in-sharepoint-online) | değiştiren |
-| 22/2/2019 | [Ortak klasör oluşturma](/AlchemyInsights/creating-public-folders) | değiştiren |
-| 22/2/2019 | [SharePoint sitesini Sil](/AlchemyInsights/delete-a-sharepoint-site-0) | değiştiren |
-| 22/2/2019 | [SharePoint ve OneDrive için kullanıcılara erişim vermek](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | değiştiren |
-| 22/2/2019 | [Bir 'Parametresi bulunamadı' hatası var mı?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | değiştiren |
-| 22/2/2019 | [E-posta teslim sorunlarıyla karşılaşıyorsunuz?](/AlchemyInsights/having-email-delivery-issues-0) | değiştiren |
-| 22/2/2019 | [E-posta teslim sorunlarıyla karşılaşıyorsunuz?](/AlchemyInsights/having-email-delivery-issues) | değiştiren |
-| 22/2/2019 | [Bağlanmak için Outlook Alma sorunları yaşıyorsunuz?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | değiştiren |
-| 22/2/2019 | [Bağlanmak için Outlook Alma sorunları yaşıyorsunuz?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | değiştiren |
-| 22/2/2019 | [Mac kullanıcıları için Office lisansı atama hakkında](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | değiştiren |
-| 22/2/2019 | [Office 365 iş aboneliğiniz için lisans satın alma](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | değiştiren |
-| 22/2/2019 | [OneDrive işletmeler için depolama artırma](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | değiştiren |
-| 22/2/2019 | [Bir abonelik yeniden etkinleştirmek için](/AlchemyInsights/how-to-reactivate-a-subscription) | değiştiren |
-| 22/2/2019 | [Kurumsal SKU'ları için posta kutusu boyutunu Artır](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | değiştiren |
-| 22/2/2019 | [SMB SKU'ları için posta kutusu boyutunu Artır](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | değiştiren |
-| 22/2/2019 | [Posta kutusu boyutunu Artır](/AlchemyInsights/increase-mailbox-size) | değiştiren |
-| 22/2/2019 | [İş için Skype ile sorun?](/AlchemyInsights/issue-with-skype-for-business) | değiştiren |
-| 22/2/2019 | [Eşzamanlı kullanıcı hesaplarını yönetme](/AlchemyInsights/manage-synchronized-user-accounts) | değiştiren |
-| 22/2/2019 | [OneDrive ve SharePoint kullanım ve etkinliğini izleme](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | değiştiren |
-| 22/2/2019 | [Bir aboneliğini yeniden etkinleştir](/AlchemyInsights/reactivate-a-subscription) | değiştiren |
-| 22/2/2019 | [Silinen bir OneDrive geri yükleme](/AlchemyInsights/restore-a-deleted-onedrive) | değiştiren |
-| 22/2/2019 | [Office 365 Exchange Yönetim Merkezi'ni kullanarak bir grubu geri yükleme](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | değiştiren |
-| 22/2/2019 | [O365 Business Essentials aboneliğinizi kurma](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | değiştiren |
-| 22/2/2019 | [Dış kullanıcılarla paylaşma çalışmıyor](/AlchemyInsights/sharing-with-external-users-isn-t-working) | değiştiren |
-| 22/2/2019 | [Deneme sürümünü bulmak çalışıyorsunuz?](/AlchemyInsights/trying-to-find-a-trial) | değiştiren |
-| 22/2/2019 | [Dış açmak veya kapatmak için SharePoint Paylaşımı Kapat](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | değiştiren |
-| 22/2/2019 | [Dış açmak veya kapatmak için SharePoint Paylaşımı Kapat](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | değiştiren |
-| 22/2/2019 | [Kullanıcı izinleri](/AlchemyInsights/user-permissions) | değiştiren |
-| 22/2/2019 | [Ne zaman ödeme bildirimi oluşturulur?](/AlchemyInsights/when-is-the-billing-statement-generated) | değiştiren |
-| 22/2/2019 | [Etki alanınızı Office 365 ile doğrulama hakkında](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | değiştiren |
+| 25/3/2019 | [Outlook.com Dili Değiştir](/AlchemyInsights/outlook-com-change-language) | değiştiren |
+| 27/3/2019 | [SharePoint sitesini Sil](/AlchemyInsights/delete-a-sharepoint-site) | değiştiren |
+| 28/3/2019 | SharePoint çevrimiçi kısıtlamak için Klasik mod | eklendi |
+| 28/3/2019 | [Varsayılan ekleyemezsiniz 2010 onay iş akışı](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | değiştiren |
+| 28/3/2019 | [SharePoint çevrimiçi kısıtlamak için Klasik mod](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | yeniden adlandırılmış |
 
 
 ## <a name="week-of-february-25-2019"></a>25 Şubat 2019 haftası
@@ -546,7 +500,7 @@
 | 25/2/2019 | [8000015 engellenen Outlook.com gönderenlerden gelen e-postayı](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | değiştiren |
 | 25/2/2019 | [Outlook.com'nda kimlik avı 8000029 çalışılabilecek](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | değiştiren |
 | 25/2/2019 | [İstenmeyen posta olarak Outlook.com 8000029 Dağıt](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | değiştiren |
-| 25/2/2019 | [8000029 istenmeyen postalar veya kimlik avı Outlook.com içinde çalışılabilecek](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | değiştiren |
+| 25/2/2019 | [8000029 Outlook.com’da istenmeyen posta veya kimlik avıyla başa çıkma](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | değiştiren |
 | 25/2/2019 | [8000033 nasıl yanıtlamak veya iletmek iletileri Outlook.com Beta](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | değiştiren |
 | 25/2/2019 | [Outlook.com içinde 8000034 okundu](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | değiştiren |
 | 25/2/2019 | [8000036 Outlook.com e-posta adınızı değiştirme](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | değiştiren |
