@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941780"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747870"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Bir dosya veya klasör SharePoint veya OneDrive paylaşın
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941780"
   - **Belirli kişilerin** erişimi verir başkalarının zaten erişiminiz olabilir, ancak yalnızca kişiler için belirttiğiniz. Kişileri Paylaşma davetini iletmek, öğesine erişimi olan kişilerin bağlantı kullanmanız mümkün olacaktır. 
     
     > [!NOTE]
-    > Bu seçeneklerden birini kullanılabilir değilse veya farklı bir bağlantı türü varsayılan olarak görünmesini istiyorsanız, Klasik SharePoint Yönetim Merkezi'ne gidip **Paylaşımı** sol bölmede tıklatarak kuruluş çapında ayarlarınızı değiştirebilirsiniz. [Daha fazla bilgi edinin](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Bu seçeneklerden birini kullanılabilir değilse veya farklı bir bağlantı türü varsayılan olarak görünmesini isterseniz, yeni SharePoint Yönetim Merkezi'ne gidip **Paylaşımı** sol bölmede tıklatarak kuruluş çapında ayarlarınızı değiştirebilirsiniz. [Daha fazla bilgi edinin](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. Varsayılan olarak, **izin düzenleme** açıktır. İnsanların sadece dosyalarınızı görüntülemek isterseniz, onay kutusunu temizleyin. 
     

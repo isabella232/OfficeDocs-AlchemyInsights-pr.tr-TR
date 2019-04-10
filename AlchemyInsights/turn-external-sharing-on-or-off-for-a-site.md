@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: af9b6c50430814a356a08e661a0bc4e237f4616e
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 9dfd0a4c72a279970bc883aee1e999e2bf63cc61
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758486"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747294"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Dış açmak veya kapatmak için bir SharePoint sitesi Paylaşımı Kapat
 
-Klasik site koleksiyonu için:
+Bir site için:
   
-1. Sol bölmede, Klasik SharePoint Yönetim Merkezi **site koleksiyonları**' ı tıklatın.
+1. Sol bölmede, yeni SharePoint Yönetim Merkezi **sitesi**' ı tıklatın.
     
 2. Siteyi veya siteleri seçin ve Şerit üzerinde **Paylaşım**' ı tıklatın.
     
-Kuruluş çapında ayarı olmayan bağlantılar kullanarak dosya paylaşımı izin vermediği sürece varsayılan olarak, kullanıcıların hem (Office 365 gruplara ait ekip siteleri) ve iletişim siteleri oluşturmak yeni siteler aynı paylaşım kuruluş çapında ayarınız olarak ayarına sahiptir oturum açması gerekir. Bu durumda, siteler oturum yeni ve varolan dış kullanıcılar ile paylaşılmasına izin verecek. Belirli sitelerin ayarını değiştirmek için yeni bir SharePoint Yönetim Merkezi (Önizleme) kullanın.
+Kuruluş çapında ayarı olmayan bağlantılar kullanarak dosya paylaşımı izin vermediği sürece varsayılan olarak, kullanıcıların hem (Office 365 gruplara ait ekip siteleri) ve iletişim siteleri oluşturmak yeni siteler aynı paylaşım kuruluş çapında ayarınız olarak ayarına sahiptir oturum açması gerekir. Bu durumda, siteler oturum yeni ve varolan dış kullanıcılar ile paylaşılmasına izin verecek. Belirli sitelerin ayarını değiştirmek için yeni SharePoint Yönetim Merkezi'ni kullanın.
   
 > [!NOTE]
 > Dış paylaşım ayarı herhangi bir site için kuruluş çapında ayarından daha fazla olmayacak izin veren ancak kuruluş çapında ayarınızı daha kısıtlayıcı olabilir. 

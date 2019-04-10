@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e966b80c8709ae24b9600b63e089d8ca06c1e131
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: ff481944428f2a67dd4f72b91212db7c33f53632
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758666"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747654"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Dış açmak veya kapatmak için SharePoint Paylaşımı Kapat
 
@@ -25,7 +25,7 @@ ms.locfileid: "30758666"
 2. Ayarı açıp kapatabilir veya açık olduğundan, paylaşım seçeneğini seçin.
     
 > [!NOTE]
-> SharePoint için paylaşım devre dışı bırakılması için OneDrive kapanır. Herhangi bir sitede paylaşımı dış izin vermek için kuruluş çapında ayarınızı üzerinde olması gerekir. > OneDrive veya tek tek tüm SharePoint siteleri için paylaşımı dış izin vermek için SharePoint kuruluş çapında etkinleştirmelisiniz. Sonra onu belirli site koleksiyonları için kapatabilirsiniz. İletişim siteleri ve Office 365 gruplara ait siteleri harici paylaşım ayarlarını yönetmek için yeni SharePoint Yönetim Merkezi (Önizleme) veya PowerShell kullanmanız gerekir. Dış paylaşım ayarlarını yönetme hakkında daha fazla bilgi için bkz: [dış paylaşımını Kapat](https://go.microsoft.com/fwlink/?linkid=866426). 
+> SharePoint için paylaşım devre dışı bırakılması için OneDrive kapanır. Herhangi bir sitede paylaşımı dış izin vermek için kuruluş çapında ayarınızı üzerinde olması gerekir. > OneDrive veya tek tek tüm SharePoint siteleri için paylaşımı dış izin vermek için SharePoint kuruluş çapında etkinleştirmelisiniz. Sonra onu belirli site koleksiyonları için kapatabilirsiniz. İletişim siteleri ve Office 365 gruplara ait siteleri harici paylaşım ayarlarını yönetmek için yeni SharePoint Yönetim Merkezi veya PowerShell kullanmanız gerekir. Dış paylaşım ayarlarını yönetme hakkında daha fazla bilgi için bkz: [dış paylaşımını Kapat](https://go.microsoft.com/fwlink/?linkid=866426). 
   
 [Dış SharePoint'te paylaşma hakkında daha fazla bilgi edinin](https://go.microsoft.com/fwlink/?linkid=734908)
   
