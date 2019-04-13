@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1051
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: 1ced5ea839e65f8a46895848b9d74b56a1852dd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 79984ff02fcc6fe29e983793dbb5593874f0bd5c
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30778516"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858044"
 ---
 # <a name="47500-access-denied-please-try-again-later"></a>4.7.500 erişim engellendi, lütfen daha sonra yeniden deneyin
 
 Kaynak IP adresinden gelen e-posta trafiği hacmini kaynak IP adresi itibarını (veya itibarını eksikliği) temel alan sınırı aştığında, bu hata oluşur.
-  
-Kaynak IP adresinden gelen e-posta engelleme bir saat içinde sona erecek. Kaynak IP adresi size ait bir şirket içi e-posta sunucusu ise, posta akışı bağlayıcısı yapılandırmasını doğrulayın. Bir saatten fazla için davranış devam ederse, bir özel durum için kaynak IP adresini istemek için desteğe başvurun.
-  
 
+Kaynak IP adresinden gelen e-posta engelleme bir saat içinde sona erecek. Kaynak IP adresi size ait bir şirket içi e-posta sunucusu ise, posta akışı bağlayıcısı yapılandırmasını doğrulayın. Bir saatten fazla için davranış devam ederse, bir özel durum için kaynak IP adresini istemek için desteğe başvurun.

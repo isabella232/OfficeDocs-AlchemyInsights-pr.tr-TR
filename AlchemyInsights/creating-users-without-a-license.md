@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 743
 ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
-ms.openlocfilehash: 65f968613ae845dc71c21adb502698b7e1c63887
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 3aea61b21f30b8fcac1399a45fc585024d8cf5c9
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30787196"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858188"
 ---
 # <a name="create-mailboxes-that-dont-require-licenses"></a>Lisans gerektirmeyen posta kutuları oluşturma
 
 - Birden çok kişi için bir grup e-posta adresine gereksiniminiz varsa, bkz: [paylaşılan bir posta kutusu oluşturma](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).
-    
-- Bir takım kişilerin e-posta ve dosya paylaşmak ve birlikte çalışmak için izin vermek için bkz: [Office 365 grupları hakkında bilgi edinin](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
-    
 
+- Bir takım kişilerin e-posta ve dosya paylaşmak ve birlikte çalışmak için izin vermek için bkz: [Office 365 grupları hakkında bilgi edinin](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
