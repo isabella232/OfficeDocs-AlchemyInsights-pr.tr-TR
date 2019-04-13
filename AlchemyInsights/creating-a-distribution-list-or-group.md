@@ -11,17 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 711
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: 3e862cfb5de42214e430c81986c03cc5e50c2b3a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: fb8bc8354f659776b7ee5083581483534954b768
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30779916"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31856748"
 ---
 # <a name="create-distribution-groups"></a>Dağıtım grupları oluşturma
 
 Dağıtım grupları (dağıtım listeleri da bilinir), gruplar içinde ve kuruluşunuzun dışındaki kişiler için e-posta iletilerini teslim etmek için kullanın. Bunları oluşturmak kolaydır! Yönergeler için bkz: [Microsoft 365 Yönetim Merkezi'nde oluşturma dağıtım listeleri](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).
-  
- **Not**: bir dağıtım grubu üyeliğini yönetmek bir yönetici gerekiyor. Kullanıcıların istiyorsanız listesini grup üyeliklerini yönetmek için [Office 365 grupları](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) yerine düşünmek isteyebilirsiniz. 
-  
 
+**Not**: bir dağıtım grubu üyeliğini yönetmek bir yönetici gerekiyor. Kullanıcıların istiyorsanız listesini grup üyeliklerini yönetmek için [Office 365 grupları](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) yerine düşünmek isteyebilirsiniz. 
