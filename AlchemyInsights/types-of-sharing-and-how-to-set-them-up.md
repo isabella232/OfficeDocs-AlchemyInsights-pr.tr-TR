@@ -20,7 +20,7 @@ ms.contentlocale: tr-TR
 ms.lasthandoff: 03/22/2019
 ms.locfileid: "30782121"
 ---
-# <a name="different-types-of-shared-calendars-and-how-to-set-them-up"></a>Farklı paylaşılan takvim türleri ve bunların ayarlanması
+# <a name="different-types-of-shared-calendars-and-how-to-set-them-up"></a>Paylaşılan takvimlerin farklı türleri ve bunların ayarlanması
 
 - [Paylaşılan posta kutusu oluşturma](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)
     
@@ -30,6 +30,6 @@ ms.locfileid: "30782121"
     
 - [Outlook takvimini başkalarıyla paylaşma](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
     
-- Başka takvimlerde takvim serbest/meşgul bilgilerini göremiyorsanız veya başka kişiler sizin takviminizde serbest/meşgul bilgilerini göremiyorsa, [Office 365 için Microsoft Destek ve Kurtarma Yardımcısı](https://diagnostics.office.com/)'nı kullanın.
+- Başka takvimlerde takvim serbest/meşgul bilgilerini göremiyorsanız veya başka kişiler sizin takviminizde serbest/meşgul bilgilerini göremiyorsa [Office 365 için Microsoft Destek ve Kurtarma Yardımcısı](https://diagnostics.office.com/)'nı kullanın.
     
 

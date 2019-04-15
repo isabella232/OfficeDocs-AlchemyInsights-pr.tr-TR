@@ -28,7 +28,7 @@ ms.locfileid: "30755642"
 2. Güncelleştirmek istediğiniz kredi kartını seçin.
     
     > [!NOTE]
-    > Ödeme yöntemini başka bir yönetici eklediyse, aboneliğin kredi kartı veya banka hesabı bilgilerini güncelleştiremezsiniz. Kredi kartının süresi dolmak üzereyse ve diğer yönetici kart bilgilerini güncelleştiremiyorsa abonelik için farklı bir kredi kartı veya **Ödeme yöntemi ekle**’yi seçip yeni bir banka hesabı ekleyerek hizmet kesintisini önleyebilirsiniz. 
+    > Ödeme yöntemini başka bir yönetici eklediyse, kredi kartı veya banka hesabı bilgilerini güncelleştiremezsiniz. Kredi kartının süresi dolmak üzereyse ve diğer yönetici kart bilgilerini güncelleştiremiyorsa **Ödeme yöntemi ekle**’yi seçip abonelik için farklı bir kredi kartı veya yeni bir banka hesabı ekleyerek hizmet kesintisini önleyebilirsiniz. 
   
 3. **Ödeme ayrıntıları** sayfasında **Ödeme ayrıntılarını düzenle**’yi seçin.
     

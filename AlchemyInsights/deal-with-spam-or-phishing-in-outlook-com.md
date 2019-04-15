@@ -18,16 +18,16 @@ ms.contentlocale: tr-TR
 ms.lasthandoff: 03/22/2019
 ms.locfileid: "30779846"
 ---
-# <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Gelen kutunuzdaki istenmeyen posta veya kimlik avı dolandırıcılıklarıyla başa çıkma
+# <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Gelen kutunuzda istenmeyen posta veya kimlik avı dolandırıcılıklarıyla başa çıkma
 
-İstenmeyen posta veya kimlik avı dolandırıcılığı gibi görünen bir e-posta alırsanız, iletiye sağ tıklayıp **Gereksiz olarak işaretle**’yi seçerek bunu bildirebilirsiniz. 
+İstenmeyen posta veya kimlik avı dolandırıcılığı gibi görünen bir e-posta alırsanız iletiye sağ tıklayıp **Gereksiz olarak işaretle**’yi seçerek bunu bildirebilirsiniz. 
   
-Outlook.com’daki gereksiz e-posta filtreleri bir iletiyi gereksiz olarak işaretlediğinizde gelişir. Bunu ayrıca kimlik avı dolandırıcılığı olarak da bildirebilir veya kendilerinden ileti almak istemediğiniz e-posta adreslerini ve etki alanlarını engelleyebilirsiniz.
+İletileri gereksiz olarak işaretleyerek Outlook.com’daki gereksiz e-posta filtrelerini geliştirebilirsiniz. Bunu ayrıca kimlik avı dolandırıcılığı olarak da bildirebilir veya kendilerinden ileti almak istemediğiniz e-posta adreslerini ve etki alanlarını engelleyebilirsiniz.
   
-Kimlik avı dolandırıcılığı veya kimlik sahtekarlığıyla karşı karşıya olduğunuza inanıyorsanız, e-postayı gereksiz olarak işaretleyin, Gereksiz E-posta klasörünüze gidin ve bunu bir kimlik avı dolandırıcılığı olarak işaretlemek için **İstenmeyen posta değil** \> **Kimlik Avı**’nı seçin. [Uygunsuz kullanım, kimlik avı veya kimlik sahtekârlığı ile başa çıkma](https://go.microsoft.com/fwlink/p/?linkid=873139) hakkında daha fazla bilgi edinin.
+Kimlik avı dolandırıcılığı veya kimlik sahtekarlığıyla karşı karşıya olduğunuza inanıyorsanız e-postayı gereksiz olarak işaretleyin, Gereksiz E-posta klasörünüze gidin ve e-postayı kimlik avı dolandırıcılığı olarak işaretlemek için **İstenmeyen posta değil** \> **Kimlik Avı**’nı seçin. [Uygunsuz kullanım, kimlik avı veya kimlik sahtekârlığı ile başa çıkma](https://go.microsoft.com/fwlink/p/?linkid=873139) hakkında daha fazla bilgi edinin.
   
-E-posta adreslerini engellemek için **Ayarlar** \> **Seçenekler** \> **Engellenen gönderenler**’e gidin. Adresleri veya etki alanlarını güvenilen gönderenler listesine eklemek için **Güvenilen gönderenler**’i seçin. 
+E-posta adreslerini engellemek için **Ayarlar** \> **Seçenekler** \> **Engellenen gönderenler**’e gidin. Adresleri veya etki alanlarını güvenilir gönderenler listesine eklemek için **Güvenilir gönderenler**’i seçin. 
   
-İstenmeyen postada bir artış görüyorsanız, [istenmeyen ve gereksiz e-postaları gelen kutunuzdan uzak tutma yardımı](https://go.microsoft.com/fwlink/p/?linkid=873140)’nı okuyun.
+İstenmeyen postada bir artış görüyorsanız [istenmeyen ve gereksiz e-postaları gelen kutunuzdan uzak tutma](https://go.microsoft.com/fwlink/p/?linkid=873140) konusunda yardım alın.
   
 

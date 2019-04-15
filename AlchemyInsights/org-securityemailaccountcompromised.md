@@ -21,9 +21,9 @@ ms.locfileid: "30785096"
 
 Office 365 kuruluşunuzda güvenliği artırmanıza yardımcı olacak birkaç adım vardır:
   
-- **Çok faktörlü kimlik doğrulamayı etkinleştirme (MFA)**: Bir hesabın güvenliği aşılmışsa parolayı sıfırladıktan sonra MFA'yı etkinleştirmek, bir daha aşılmasını engellemenin iyi bir yoludur. Güvenliği aşılan hesap istenmeyen posta göndermek için kullanılmışsa, büyük olasılıkla e-posta göndermesi engellenmiştir (güvenliği sağlamak için gerekli adımları tamamlamış olsanız bile). Kullanıcıyı engellenenler listesinden kaldırmak için [bu konuya](https://technet.microsoft.com/library/ms.exch.eac.actioncenter.aspx) bakın.
+- **Çok faktörlü kimlik doğrulamayı (MFA) etkinleştirme**: Bir hesabın güvenliği aşılmışsa parolayı sıfırladıktan sonra MFA'yı etkinleştirmek, güvenliğin yeniden risk altına girmesini engellemenin iyi bir yoludur. Güvenliği aşılan hesap istenmeyen posta göndermek için kullanılmışsa, güvenliğini sağlamak için gerekli adımları tamamlamış olsanız bile büyük olasılıkla e-posta göndermesi engellenmiştir. Kullanıcıyı engellenenler listesinden kaldırmak için [bu konuya](https://technet.microsoft.com/library/ms.exch.eac.actioncenter.aspx) bakın.
     
-- **Office 365 Güvenlik Puanı’nı çalıştırma**: Güvenlik Puanı, kuruluşunuzdaki güvenlik seçeneklerinin ayrıntılı çözümlemesini gerçekleştirip daha güvenli hâle getirmek için öneriler sağlar.
+- **Office 365 Güvenlik Puanı hizmetini çalıştırma**: Güvenlik Puanı, kuruluşunuzdaki güvenlik ayarlarının ayrıntılı çözümlemesini gerçekleştirip güvenliği artırma önerileri sunar.
     
 - **Posta kutusu denetim günlüğünü etkinleştirme**: Posta kutusu denetim günlüğü bir kullanıcı hesabının güvenliği aşıldığında gerçekleşen olayları izlemenizi kolaylaştırır.
     
