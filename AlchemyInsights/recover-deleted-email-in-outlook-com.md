@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000011
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: 28266eff5fc77c855370f7fc75a7b7332d1e72e2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7f18d2a5196234e450f7e639b6d63d1ddfcf411a
+ms.sourcegitcommit: 32ee065560611cd527754f482b9ad244878975a0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773756"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31980650"
 ---
 # <a name="recover-deleted-email"></a>Recover silinmiş e-posta
 
 1. Sol bölmede, **Silinmiş öğeler**' i seçin. 
     
-2. Geri yükleme ve **Kurtarma**seçmek istediğiniz öğeyi seçin. 
+2. Kurtarma ve **Geri Yükleme'yi**seçmek için istediğiniz öğeyi seçin. 
   
  **Not**: tüm iletileri görünür durumdaysa, yalnızca tüm seçebilirsiniz. Bu sizin göremediğiniz iletileri yanlışlıkla eylemleri önlemek içindir. **CTRL + tıklatma** iletileri tek tek seçer, **SHIFT + tıklatma** iki tıklatma arasında her şeyi seçer. 
     
-3. İleti silinmiş öğeler içinde değilse, pencerenin üstündeki **Silinmiş Öğeleri Kurtar'ı** seçin. 
+3. İleti Silinmiş Öğeler'de değilse, pencerenin üstündeki **Bu klasörden silinen öğeleri kurtarma** seçin. 
     
  **Silinmiş öğeleri hakkında önemli bilgiler:**
   
