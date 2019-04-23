@@ -3,86 +3,6 @@
 
 
 
-## <a name="week-of-march-04-2019"></a>04 Mart 2019 haftası
-
-
-| Üzerinde yayınlanan |Konu başlığı | Değiştir |
-|------|------------|--------|
-| 4/3/2019 | E-posta 8000011 Outlook.com Recover silinmiş | eklendi |
-| 4/3/2019 | [Outlook.com içinde 8000034 okundu](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | değiştiren |
-| 4/3/2019 | [8000047 Outlook.com bir e-posta imzası oluşturma hakkında](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | değiştiren |
-| 4/3/2019 | [8000086 Outlook.com Ekle Resim](/AlchemyInsights/80000860-outlook-com-insert-image) | eklendi |
-| 4/3/2019 | [8000087 Outlook.com klavye kısayolları](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | eklendi |
-| 4/3/2019 | [8000088 e-postayla Outlook.com Kaydet](/AlchemyInsights/8000088-outlook-com-save-emails) | değiştiren |
-| 4/3/2019 | [8000089 Outlook.com Güvenli Gönderenler](/AlchemyInsights/8000089-outlook-com-safe-senders) | eklendi |
-| 4/3/2019 | E-posta 8000011 Outlook.com Recover silinmiş | kaldırıldı |
-| 4/3/2019 | 1575-PowerApps ve Microsoft Flow uzantısı planlayın | eklendi |
-| 4/3/2019 | [Office 365 grup etki alanını değiştir](/AlchemyInsights/change-domain-for-group) | yeniden adlandırılmış |
-| 4/3/2019 | [1575-PowerApps ve Microsoft Flow uzantısı planlayın](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | yeniden adlandırılmış |
-| 4/3/2019 | [Çok faktörlü kimlik doğrulamasını etkinleştir](/AlchemyInsights/enable-multifactor-authentication) | değiştiren |
-| 4/3/2019 | [8000054 Outlook.com depolama sınırı aşıldı](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | eklendi |
-| 4/3/2019 | [423 Kuruluş Güvenliği - E-posta Hesabının Güvenliği Aşıldı](/AlchemyInsights/423-org-securityemailaccountcompromised) | değiştiren |
-| 4/3/2019 | [8000029 Outlook.com’da istenmeyen posta veya kimlik avıyla başa çıkma](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | değiştiren |
-| 4/3/2019 | [Etki alanı kaldırma](/AlchemyInsights/remove-domain) | değiştiren |
-| 4/3/2019 | [Office 365’e kullanıcı ekleme](/AlchemyInsights/add-users-to-office-365) | değiştiren |
-| 4/3/2019 | [Çok fazla gereksiz veya kimlik avı, posta kutunuzdaki alıyorsunuz?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | değiştiren |
-| 4/3/2019 | [Ad Sunucularını Değiştirme](/AlchemyInsights/change-nameservers) | değiştiren |
-| 4/3/2019 | [PowerApps içinde uygulamaları oluşturma](/AlchemyInsights/create-apps-in-powerapps) | değiştiren |
-| 4/3/2019 | [Office 365 cutover geçişleri](/AlchemyInsights/cutover-migrations-to-office-365) | değiştiren |
-| 4/3/2019 | [E-posta teslim sorunlarıyla karşılaşıyorsunuz?](/AlchemyInsights/having-email-delivery-issues-0) | değiştiren |
-| 4/3/2019 | [E-posta teslim sorunlarıyla karşılaşıyorsunuz?](/AlchemyInsights/having-email-delivery-issues) | değiştiren |
-| 4/3/2019 | [Nasıl kredi kartı eklerim?](/AlchemyInsights/how-do-i-add-a-credit-card) | değiştiren |
-| 4/3/2019 | [Kredi kartı bilgilerimi nasıl güncelleştirebilirim?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | değiştiren |
-| 4/3/2019 | [Office nasıl yüklenir](/AlchemyInsights/how-to-install-office) | değiştiren |
-| 4/3/2019 | [IMAP e-posta geçirme](/AlchemyInsights/migrate-email-from-imap) | değiştiren |
-| 4/3/2019 | [Ödeme seçenekleri](/AlchemyInsights/payment-options) | değiştiren |
-| 4/3/2019 | [Bir hesap tehlikeye düştüğünde uygulanması önerilen adımlar](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | değiştiren |
-| 4/3/2019 | [Gönderen çok fazla sayıda istenmeyen posta gönderdiği için engellendi](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | değiştiren |
-| 4/3/2019 | [Dynamics 365 destek isteği gönderme](/AlchemyInsights/submit-dynamics-365-support-requests) | değiştiren |
-| 4/3/2019 | [Etki alanı zaten kullanılıyor](/AlchemyInsights/the-domain-is-already-in-use) | değiştiren |
-| 4/3/2019 | [Office 365 portalında satın alma işlemini tamamlarken sorun yaşıyorsunuz](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | değiştiren |
-| 4/3/2019 | [DNS Kayıtlarını güncelleştirme](/AlchemyInsights/update-dns-records-0) | değiştiren |
-| 4/3/2019 | [DNS Kayıtlarını güncelleştirme](/AlchemyInsights/update-dns-records) | değiştiren |
-| 4/3/2019 | [Ödeme ayrıntılarını güncelleştirme](/AlchemyInsights/update-payment-details) | değiştiren |
-| 4/3/2019 | [Etki alanını doğrulama](/AlchemyInsights/verify-domain) | değiştiren |
-| 4/3/2019 | [İletim için birden çok e-posta adresi ayarlama](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | değiştiren |
-| 4/3/2019 | [Çözme 'Bir kabul edilen etki alanı değil' hatası](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | değiştiren |
-| 6/3/2019 | [1581 Web üzerinde Outlook’ta paylaşılan posta kutusunu açma ve kullanma](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | değiştiren |
-| 6/3/2019 | [Takımlar kaydırır](/AlchemyInsights/1686-teams-shifts) | eklendi |
-| 6/3/2019 | [1703 Teams ve Polycom telefonları hakkında bilgi gerekir](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | eklendi |
-| 6/3/2019 | [Takımlar PS modülü yüklemek ve başvuru](/AlchemyInsights/1787-teams-ps-module-install-ref) | eklendi |
-| 6/3/2019 | [Paylaşmanın 615 Türü ve bunların ayarlanması.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | değiştiren |
-| 6/3/2019 | [Takımlar Freemium](/AlchemyInsights/997-teams-freemium) | eklendi |
-| 6/3/2019 | [Meşru ileti spam işaretlenmesini var mı?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | değiştiren |
-| 6/3/2019 | [Microsoft ekipleri etkinleştir](/AlchemyInsights/enable-microsoft-teams) | değiştiren |
-| 6/3/2019 | [Takımlar, Öğrenciler için etkinleştirilmiş olan?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | değiştiren |
-| 6/3/2019 | [Aboneliği yeniden etkinleştirme](/AlchemyInsights/how-to-reactivate-a-subscription) | değiştiren |
-| 6/3/2019 | Intune App dağıtım - kural kimliği 991 arası | kaldırıldı |
-| 6/3/2019 | [İş için Skype ile sorun?](/AlchemyInsights/issue-with-skype-for-business) | değiştiren |
-| 6/3/2019 | [Microsoft ekipleri - Konuk erişimi](/AlchemyInsights/microsoft-teamsguest-access) | değiştiren |
-| 6/3/2019 | [Silinen takım siteyi geri Microsoft ekipleri-](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | değiştiren |
-| 6/3/2019 | [Office 365 üzerinden e-posta geçişi](/AlchemyInsights/relay-email-through-office-365) | değiştiren |
-| 6/3/2019 | [Yeni OneDrive eşitleme istemcisini kullanarak SharePoint dosyalarını eşitleme](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | değiştiren |
-| 6/3/2019 | [Microsoft Teams tam sürümüne yükseltme](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | değiştiren |
-| 7/3/2019 | [8000064 Outlook.com e-posta alamazsınız eşitleme - İSPANYOLCA](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | eklendi |
-| 7/3/2019 | [8000065 Outlook.com istenmeyen Önemsiz - İSPANYOLCA](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | eklendi |
-| 7/3/2019 | [8000066 - kural 1 - Outlook.com korsan saldırısı - İSPANYOLCA](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | eklendi |
-| 7/3/2019 | [8000066 - korsan saldırısı - Kural 2 - Outlook.com İSPANYOLCA](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | eklendi |
-| 7/3/2019 | [8000067 - Outlook.com hesabı Kapat - İSPANYOLCA](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | eklendi |
-| 7/3/2019 | [8000068 - Outlook.com eklemek hesap - İSPANYOLCA](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | eklendi |
-| 7/3/2019 | [8000069 - Outlook.com engelleme gönderen - İSPANYOLCA](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | eklendi |
-| 7/3/2019 | [8000070 - Outlook.com-İSPANYOLCA oturum olamaz](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | eklendi |
-| 7/3/2019 | [Silinen geri yükleme kullanıcı](/AlchemyInsights/restore-deleted-user) | değiştiren |
-| 8/3/2019 | Outlook.com 8000043 POP, IMAP ve SMTP ayarları | kaldırıldı |
-| 8/3/2019 | [Outlook.com 8000043 POP, IMAP ve SMTP ayarları](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | yeniden adlandırılmış |
-| 8/3/2019 | [8000071 Outlook.com düzeltme e-posta eşitleme - FRANSIZCA](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | eklendi |
-| 8/3/2019 | [8000072 Outlook.com önemsiz posta - FRANSIZCA](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | eklendi |
-| 8/3/2019 | [Korsanlarca girilmiş Outlook.com hesap 8000073 - FRANSIZCA](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | eklendi |
-| 8/3/2019 | [8000074 Outlook.com hesabı Kapat - FRANSIZCA](/AlchemyInsights/8000074-outlook-com-close-account-french) | eklendi |
-| 8/3/2019 | [8000075 Outlook.com Parolayı Değiştir - FRANSIZCA](/AlchemyInsights/8000075-outlook-com-change-password-french) | eklendi |
-| 8/3/2019 | [8000076 Outlook.com göndereni engelle - FRANSIZCA](/AlchemyInsights/8000076-outlook-com-block-sender-french) | eklendi |
-
-
 ## <a name="week-of-march-11-2019"></a>11 Mart 2019 haftası
 
 
@@ -167,7 +87,7 @@
 | 22/3/2019 | [8000015 blok veya Gönderenler Engellemeyi Kaldır](/AlchemyInsights/block-or-unblock-senders) | yeniden adlandırılmış |
 | 22/3/2019 | [726 Blocking e-posta iletme](/AlchemyInsights/blocking-email-forwarding) | yeniden adlandırılmış |
 | 22/3/2019 | [763 Exchange PowerShell çevrimiçi engelleme erişim kullanıcıları için](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | yeniden adlandırılmış |
-| 22/3/2019 | [Ücretsiz aboneliğinizden Office 365 İş aboneliği satın alma](/AlchemyInsights/buy-a-subscription-to-office-365-for-business-from-your-free-trial) | değiştiren |
+| 22/3/2019 | [Ücretsiz deneme sürümünüzle İşletmeler için Office 365 aboneliği satın alma](/AlchemyInsights/buy-a-subscription-to-office-365-for-business-from-your-free-trial) | değiştiren |
 | 22/3/2019 | [Ek lisans satın al](/AlchemyInsights/buy-additional-licenses) | değiştiren |
 | 22/3/2019 | [Karma kurulumlarına 608 Takvim bilgileri](/AlchemyInsights/calendar-information-on-hybrid-setups) | yeniden adlandırılmış |
 | 22/3/2019 | [613 takvim yayımlama bilgileri](/AlchemyInsights/calendar-publishing-information) | yeniden adlandırılmış |
@@ -347,7 +267,7 @@
 | 22/3/2019 | [Temsilci 606 bilgi](/AlchemyInsights/information-on-delegation) | yeniden adlandırılmış |
 | 22/3/2019 | [609 bilgi alma ve verme takvimler](/AlchemyInsights/information-on-importing-and-exporting-calendars) | yeniden adlandırılmış |
 | 22/3/2019 | [Office 2013 notification yüklenmelidir](/AlchemyInsights/install-office-2013-notification) | değiştiren |
-| 22/3/2019 | [Skype Kurumsal'ı yükleme](/AlchemyInsights/install-skype-for-business) | değiştiren |
+| 22/3/2019 | [İş için Skype'ı yükleyin](/AlchemyInsights/install-skype-for-business) | değiştiren |
 | 22/3/2019 | [Geçersiz dosya adları OneDrive](/AlchemyInsights/invalid-file-names-in-onedrive) | değiştiren |
 | 22/3/2019 | [1264 IP bloke (550 5.7.51) çok fazla istenmeyen posta göndermek için](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | yeniden adlandırılmış |
 | 22/3/2019 | [Bir kullanıcı gönderme sorunları yaşıyorsa, 322 sorunları](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | yeniden adlandırılmış |
@@ -370,7 +290,7 @@
 | 22/3/2019 | [Benim fatura ve ödeme](/AlchemyInsights/manage-my-bill-and-payments) | değiştiren |
 | 22/3/2019 | [Faturam yönetme](/AlchemyInsights/manage-my-bill) | değiştiren |
 | 22/3/2019 | [Eşzamanlı kullanıcı hesaplarını yönetme](/AlchemyInsights/manage-synchronized-user-accounts) | değiştiren |
-| 22/3/2019 | [Kimlerin Office 365 Grupları oluşturabileceğini yönetme](/AlchemyInsights/manage-who-can-create-office-365-groups) | değiştiren |
+| 22/3/2019 | [Kim Office 365 grupları oluşturabilirsiniz yönetme](/AlchemyInsights/manage-who-can-create-office-365-groups) | değiştiren |
 | 22/3/2019 | [SharePoint veya OneDrive depolama birimi Yönet](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | değiştiren |
 | 22/3/2019 | [SharePoint kitaplığı için bir ağ sürücüsüne](/AlchemyInsights/map-a-sharepoint-library-to-a-network-drive) | değiştiren |
 | 22/3/2019 | [SharePoint kitaplığı için ağ sürücüsünü eşleyin](/AlchemyInsights/map-sharepoint-library-to-network-drive) | değiştiren |
@@ -492,7 +412,7 @@
 | 1/4/2019 | [SharePoint, OneDrive ve takımlar Microsoft Office 365 KM etkinleştir](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | eklendi |
 | 1/4/2019 | [Office 365 tehdit Koruması (ATP) Kurulumu](/AlchemyInsights/office-365-atp-setup) | eklendi |
 | 1/4/2019 | [9000071 @ simgesi Mac üzerine yazamazsınız](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | yeniden adlandırılmış |
-| 1/4/2019 | [Office 365 Grubunu Exchange yönetim merkezini kullanarak geri yükleme](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | değiştiren |
+| 1/4/2019 | [Office 365 Exchange Yönetim Merkezi'ni kullanarak bir grubu geri yükleme](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | değiştiren |
 | 1/4/2019 | [İle Office 365 Gelişmiş tehdit Koruması (ATP) sorunlarını giderme](/AlchemyInsights/troubleshoot-issues-office-365-atp) | eklendi |
 | 2/4/2019 | Office 365'te sınıflandırma etiketleri | eklendi |
 | 2/4/2019 | Veri kaybını önleme (DLP) genel bakış | eklendi |
@@ -504,3 +424,109 @@
 | 2/4/2019 | Site ve içerik yapısı kaldırıldı | eklendi |
 | 2/4/2019 | Dosya bulunamadı Hata 404 ile ilgili sorunları giderme | eklendi |
 | 3/4/2019 | [Hata kodu 550 5.7.705 erişim engellendi, Kiracı eşiği aştı](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | değiştiren |
+
+
+## <a name="week-of-april-08-2019"></a>08 Nisan 2019 haftası
+
+
+| Üzerinde yayınlanan |Konu başlığı | Değiştir |
+|------|------------|--------|
+| 9/4/2019 | [Arşiv posta kutusuna e-posta iletileri taşı](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | değiştiren |
+| 9/4/2019 | [Anonim paylaşımı](/AlchemyInsights/anonymous-sharing) | değiştiren |
+| 9/4/2019 | [Çok sayıda dosyayı bir kerede denetleme](/AlchemyInsights/check-in-several-files-at-once) | değiştiren |
+| 9/4/2019 | [Klasik SharePoint ekip sitesi bir gruba bağlanmak](/AlchemyInsights/connect-a-classic-sharepoint-team-site-to-a-group) | değiştiren |
+| 9/4/2019 | [SharePoint çevrimiçi bir site oluşturmak](/AlchemyInsights/create-a-site-in-sharepoint-online) | değiştiren |
+| 9/4/2019 | [Site oluşturma](/AlchemyInsights/create-a-site) | yeniden adlandırılmış |
+| 9/4/2019 | [SharePoint sitesini Sil](/AlchemyInsights/delete-a-sharepoint-site-0) | değiştiren |
+| 9/4/2019 | [Site silme](/AlchemyInsights/delete-site-collection) | değiştiren |
+| 9/4/2019 | [Dosya Paylaşımı başlattığınızda hata iletisi](/AlchemyInsights/error-message-when-sharing-files) | değiştiren |
+| 9/4/2019 | [Harici bir ekip sitesi ile paylaşma](/AlchemyInsights/external-sharing-with-a-team-site) | değiştiren |
+| 9/4/2019 | [SharePoint çevrimiçi terim deposu nasıl kullanılır](/AlchemyInsights/how-to-use-the-sharepoint-online-term-store) | değiştiren |
+| 9/4/2019 | [SharePoint çevrimiçi arama sözlüklerde yönetme](/AlchemyInsights/manage-search-dictionaries-in-sharepoint-online) | değiştiren |
+| 9/4/2019 | [SharePoint veya OneDrive depolama birimi Yönet](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | değiştiren |
+| 9/4/2019 | [Silinen bir siteyi geri](/AlchemyInsights/restore-a-deleted-site-collection) | değiştiren |
+| 9/4/2019 | [Silinen bir alt siteyi geri yükle](/AlchemyInsights/restore-a-deleted-subsite) | değiştiren |
+| 9/4/2019 | [Bir dosya veya klasör SharePoint veya OneDrive paylaşın](/AlchemyInsights/share-a-file-or-folder-in-sharepoint-or-onedrive) | değiştiren |
+| 9/4/2019 | [SharePoint depolama](/AlchemyInsights/sharepoint-storage) | değiştiren |
+| 9/4/2019 | [Dış kullanıcılarla paylaşma çalışmıyor](/AlchemyInsights/sharing-with-external-users-isn-t-working) | değiştiren |
+| 9/4/2019 | [Yeni OneDrive eşitleme istemcisini kullanarak SharePoint dosyalarını eşitleme](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | değiştiren |
+| 9/4/2019 | [Dış açmak veya kapatmak için bir site Paylaşımı Kapat](/AlchemyInsights/turn-external-sharing-on-or-off-for-a-site) | değiştiren |
+| 9/4/2019 | [Dış açmak veya kapatmak için SharePoint Paylaşımı Kapat](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | değiştiren |
+| 9/4/2019 | [Dış açmak veya kapatmak için SharePoint Paylaşımı Kapat](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | değiştiren |
+| 9/4/2019 | Dosya bulunamadı Hata 404 ile ilgili sorunları giderme | değiştiren |
+| 9/4/2019 | [Bir Project Web App sitesine erişim](/AlchemyInsights/access-denied-to-a-project-online-site) | eklendi |
+| 9/4/2019 | [Proje çevrimiçi bir salt okunur durumda olur.](/AlchemyInsights/project-online-is-in-a-read-only-state) | eklendi |
+| 9/4/2019 | [Project Web App SharePoint site koleksiyonundan eksik.](/AlchemyInsights/project-web-app-missing-from-site-collection) | eklendi |
+| 12/4/2019 | [1048 5.7.750 hizmeti kullanılamıyor. İstemci kaydı etki alanlarından göndermesini engelledi](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | değiştiren |
+| 12/4/2019 | [713 ek e-posta adresi bir dağıtım listesine ekleme](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | değiştiren |
+| 12/4/2019 | [718 ekleme dış kişi / kişiler dışında bir dağıtım listesine organizasyon](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | değiştiren |
+| 12/4/2019 | [E-posta dağıtım listeleri için 714 Allowing Dış Gönderenler](/AlchemyInsights/allowing-external-senders-to-email-distribution-lists) | değiştiren |
+| 12/4/2019 | [Dağıtım listesini e-posta göndermek için 717 kullanıcılara](/AlchemyInsights/allowing-users-to-send-email-as-a-distribution-list) | değiştiren |
+| 12/4/2019 | [1049 postadan koruma 4.5.3 çok fazla alıcı (AS780090)](/AlchemyInsights/antispam-4-5-3-too-many-recipients-as780090) | değiştiren |
+| 12/4/2019 | [1051 postadan koruma 4.7.500 erişim engellendi, lütfen daha sonra yeniden deneyin](/AlchemyInsights/antispam-4-7-500-access-denied-please-try-again-later) | değiştiren |
+| 12/4/2019 | [1050 postadan koruma 4.7.500 Sunucu meşgul. Lütfen [XXX.XXX.XXX.XXX] daha sonra yeniden deneyin](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | değiştiren |
+| 12/4/2019 | [1047 postadan koruma 550 5.7.708 hizmeti kullanılamıyor. Erişim engellendi, kabul edilmedi bu IP trafiği](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | değiştiren |
+| 12/4/2019 | [500 app parolalar](/AlchemyInsights/app-passwords) | değiştiren |
+| 12/4/2019 | [726 Blocking e-posta iletme](/AlchemyInsights/blocking-email-forwarding) | değiştiren |
+| 12/4/2019 | [763 Exchange PowerShell çevrimiçi engelleme erişim kullanıcıları için](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | değiştiren |
+| 12/4/2019 | [Karma kurulumlarına 608 Takvim bilgileri](/AlchemyInsights/calendar-information-on-hybrid-setups) | değiştiren |
+| 12/4/2019 | [613 takvim yayımlama bilgileri](/AlchemyInsights/calendar-publishing-information) | değiştiren |
+| 12/4/2019 | [618 Takvim paylaşım İlkesi](/AlchemyInsights/calendar-sharing-policy) | değiştiren |
+| 12/4/2019 | [398 - kayıt takvimi](/AlchemyInsights/calendarbooking) | değiştiren |
+| 12/4/2019 | [399 Takvim - temsilci](/AlchemyInsights/calendardelegate) | değiştiren |
+| 12/4/2019 | [400 Takvim - FreeBusy](/AlchemyInsights/calendarfreebusy) | değiştiren |
+| 12/4/2019 | [402 Takvim - O365Groups](/AlchemyInsights/calendaro365groups) | değiştiren |
+| 12/4/2019 | [1081 Takvim - RBA CatchAll](/AlchemyInsights/calendarrba-catchall) | değiştiren |
+| 12/4/2019 | [Kuruluşunuzdaki herkes için 912 Yapılandır Focused gelen](/AlchemyInsights/configure-focused-inbox-for-everyone-in-your-organization) | değiştiren |
+| 12/4/2019 | [Exchange Online MFA etkinleştirildiğinde PowerShell 761 bağlanma](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | değiştiren |
+| 12/4/2019 | [PowerShell çevrimiçi alışverişi için 760 bağlanma](/AlchemyInsights/connecting-to-exchange-online-powershell) | değiştiren |
+| 12/4/2019 | [Dağıtım listesi için bir Office 365 Grup Dönüştürme 712](/AlchemyInsights/converting-a-distribution-list-to-an-office-365-group) | değiştiren |
+| 12/4/2019 | [711 dağıtım listesi veya grup oluşturma](/AlchemyInsights/creating-a-distribution-list-or-group) | değiştiren |
+| 12/4/2019 | [Kuruluşu karma moddayken 744 oluşturma kullanıcılar](/AlchemyInsights/creating-users-when-organization-is-in-hybrid-mode) | değiştiren |
+| 12/4/2019 | [Lisansı olmayan 743 oluşturma kullanıcılar](/AlchemyInsights/creating-users-without-a-license) | değiştiren |
+| 12/4/2019 | [1065, deprecation EOP giden IP adresi rangesMC146155](/AlchemyInsights/deprecation-of-eop-outbound-ip-address-ranges-mc146155) | değiştiren |
+| 12/4/2019 | [1314 çoğaltma nesnesi düzeltme](/AlchemyInsights/duplicate-object-remediation) | değiştiren |
+| 12/4/2019 | [934 etkinleştirmek POP ve IMAP hesapları](/AlchemyInsights/enable-pop-and-imap-accounts) | değiştiren |
+| 12/4/2019 | [Hata kodu erişim engellendi 550 5.7.501, istenmeyen posta kötüye algılandı](/AlchemyInsights/error-code-550-5-7-501-access-denied-spam-abuse-detected) | değiştiren |
+| 12/4/2019 | [Hata kodu 550 5.7.705 erişim engellendi, Kiracı eşiği aştı](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | değiştiren |
+| 12/4/2019 | [126 bir posta alma hatası OWA'da bulunamıyor?](/AlchemyInsights/getting-a-mailbox-cannot-be-found-error-in-owa) | değiştiren |
+| 12/4/2019 | [127 e-posta erişirken bir TenantAccessBlockedException hatası alınıyor?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | değiştiren |
+| 12/4/2019 | [646 AADConnect biçimde nasıl yapılandırılır](/AlchemyInsights/how-to-configure-aadconnect) | değiştiren |
+| 12/4/2019 | [955 MFA biçimde nasıl yapılandırılır](/AlchemyInsights/how-to-configure-mfa) | değiştiren |
+| 12/4/2019 | [614 nasıl oluşturulacağı ve oda posta kutularını yönetme](/AlchemyInsights/how-to-create-and-manage-room-mailboxes) | değiştiren |
+| 12/4/2019 | [401 karma - FreeBusy](/AlchemyInsights/hybridfreebusy) | değiştiren |
+| 12/4/2019 | [DeflectTransport kuralları 929 gelen kutusu kuralları](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | değiştiren |
+| 12/4/2019 | [922 gelen kutusu kuralları](/AlchemyInsights/inbox-rules) | değiştiren |
+| 12/4/2019 | [Azaltma sınırı posta geçişi için EWS artırın](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | eklendi |
+| 12/4/2019 | [1264 IP bloke (550 5.7.51) çok fazla istenmeyen posta göndermek için](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | değiştiren |
+| 12/4/2019 | [Bir kullanıcı gönderme sorunları yaşıyorsa, 322 sorunları](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | değiştiren |
+| 12/4/2019 | [Bir kullanıcı e-posta alırken değil 321 sorunları](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | değiştiren |
+| 12/4/2019 | [E-postadaki gecikmeler 323 sorunları](/AlchemyInsights/issues-with-delays-in-email) | değiştiren |
+| 12/4/2019 | [Yanlış hedefe giden email(s) 324 sorunları](/AlchemyInsights/issues-with-email-s-going-to-the-wrong-destination) | değiştiren |
+| 12/4/2019 | [898 dış Takvim paylaşım seçenekleri hakkında bilgi edinin.](/AlchemyInsights/learn-about-external-calendar-sharing-options) | değiştiren |
+| 12/4/2019 | [617 harici paylaşım seçeneklerini hakkında bilgi edinin.](/AlchemyInsights/learn-about-external-sharing-options) | değiştiren |
+| 12/4/2019 | [610 Office 365 grupları hakkında bilgi edinin.](/AlchemyInsights/learn-about-office-365-groups) | değiştiren |
+| 12/4/2019 | [612 takvimler ve ortak klasörler hakkında nasıl bilgi edinin.](/AlchemyInsights/learn-how-about-calendars-and-public-folders) | değiştiren |
+| 12/4/2019 | [603 Gündem ayarlarını öğrenin](/AlchemyInsights/learn-how-to-adjust-agenda-settings) | değiştiren |
+| 12/4/2019 | [Kullanıcının birincil e-posta e-posta diğer adı yapma 723](/AlchemyInsights/making-an-email-alias-a-primary-email-for-the-user) | değiştiren |
+| 12/4/2019 | [597 Microsoft rezervasyonlarına App](/AlchemyInsights/microsoft-bookings-app) | değiştiren |
+| 12/4/2019 | [973 geçiş StalledDueTo * kuralı](/AlchemyInsights/migration-stalleddueto-rule) | değiştiren |
+| 12/4/2019 | [1581 Web üzerinde Outlook’ta paylaşılan posta kutusunu açma ve kullanma](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | değiştiren |
+| 12/4/2019 | [423 Kuruluş Güvenliği - E-posta Hesabının Güvenliği Aşıldı](/AlchemyInsights/org-securityemailaccountcompromised) | değiştiren |
+| 12/4/2019 | [424 Org güvenlik - istenmeyen yanlış pozitif](/AlchemyInsights/org-securityspam-false-positive) | değiştiren |
+| 12/4/2019 | [1332 - OWA gelen kutusu kuralları bir posta kutusu için yürütülen değil](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | değiştiren |
+| 12/4/2019 | [182 SaRA tanılamak için lütfen çalıştırmak &amp; Outlook kimlik doğrulaması sorunlarını çözme](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | değiştiren |
+| 12/4/2019 | [Takvim paylaştırırken 412 İlkesi hatası](/AlchemyInsights/policy-error-when-sharing-calendar) | değiştiren |
+| 12/4/2019 | [408 RBA](/AlchemyInsights/rba) | değiştiren |
+| 12/4/2019 | [1336 RecoverableItems klasörü dolu](/AlchemyInsights/recoverableitems-folder-is-full) | değiştiren |
+| 12/4/2019 | [1374 iki posta kutuları nasıl çözmek](/AlchemyInsights/resolve-two-mailboxes-howto) | değiştiren |
+| 12/4/2019 | [924 kuralı sınırlarını](/AlchemyInsights/rule-limits) | değiştiren |
+| 12/4/2019 | [414 arama deneyimini güncelleştirildi](/AlchemyInsights/search-experience-updated) | değiştiren |
+| 12/4/2019 | [902 (Eşitleme hataları nedeniyle yinelenen nesneleri)](/AlchemyInsights/sync-errors-due-to-duplicate-objects) | değiştiren |
+| 12/4/2019 | [Deneme Office 365 Kiracı Spamhaus tarafından engellendi](/AlchemyInsights/trial-office-365-tenant-blocked-by-spamhaus) | değiştiren |
+| 12/4/2019 | [Gelen Kutusu'nda istemci odaklı 911 kapatma](/AlchemyInsights/turning-off-focused-inbox-in-the-client) | değiştiren |
+| 12/4/2019 | [Paylaşmanın 615 Türü ve bunların ayarlanması.](/AlchemyInsights/types-of-sharing-and-how-to-set-them-up) | değiştiren |
+| 12/4/2019 | [413 anlama Gündem posta](/AlchemyInsights/understanding-agenda-mail) | değiştiren |
+| 12/4/2019 | [932 yükseltme AADConnect](/AlchemyInsights/upgrading-aadconnect) | değiştiren |
+| 12/4/2019 | [Mobil aygıttaki 725 kullanarak e-posta diğer adı](/AlchemyInsights/using-email-alias-on-mobile-device) | değiştiren |
+| 12/4/2019 | [1554 Winsock hata 10061](/AlchemyInsights/winsock-error-10061) | değiştiren |

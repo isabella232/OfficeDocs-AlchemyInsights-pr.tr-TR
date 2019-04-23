@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: ffed863e8d44d2513fbcf53edd9bfa14b859b913
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900812"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869615"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP İlkesi ipucu sorunları
 
 **DLP ilkeleri**kullanılırken, kullanıcıların **ilke ipuçları**ile bir ilke ihlalinin bildirilmesini seçebilirsiniz. Admins DLP ilkelerini sınama sırasında veya ilke tam zorlama modunda olduğunda göstermek için ipuçlarını ilkesi yapılandırabilirsiniz. 
   
-DLP ilkenizde Güvenlik ve Uyumluluk Merkezi tam zorlama modunda ipuçları ilkesini yapılandırmak için aşağıdakileri yapın:
+Tam zorlama modunda güvenlik ve uyumluluk Merkezi'nde DLP ilkeniz ipuçları İlkesi yapılandırmak için aşağıdakileri yapın:
   
 - Emin adımlarla DLP kuralın **Etkin** ilke ipuçları edilmiştir [burada](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
     
