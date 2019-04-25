@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 971edd9c064b448446ba16361e99df4a2291c14f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919004"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410142"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Office bir Terminal sunucusuna program yükleme
 
@@ -25,9 +25,9 @@ Uzak Masaüstü Hizmetleri (RDS) kullanan Windows Server Office 365 ProPlus dağ
     
 Office 365 ProPlus RDS üzerinde Office 365 portalından yüklemek istiyorsanız ** *varsayılan yükleme ayarlarını kullanan* **, şu adımları izleyin: 
   
-1. Elinizde hangi Office 365 planını denetleyin. [Öğrenmek nasıl](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Elinizde hangi Office 365 planını denetleyin. [Öğrenin nasıl](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
     
-2. Gerekirse, başka bir Office 365 anahtarı düşünüyorsanız. [Öğrenmek nasıl](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Gerekirse, başka bir Office 365 anahtarı düşünüyorsanız. [Öğrenin nasıl](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
     
 3. Diğer Office 365 planları kullanarak RDS Sunucu üzerinde Office yüklüyse, kaldırın. Örneğin, Denetim Masası'na giderek tarafından \> program Kaldır. Sorunlar çalıştırıyorsanız, [Microsoft destek ve kurtarma Yardımcısı'nı](https://aka.ms/SARA-OfficeUninstall-Alchemy) kullanarak kaldırın. 
     
