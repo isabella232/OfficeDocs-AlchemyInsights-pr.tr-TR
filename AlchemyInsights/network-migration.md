@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
 ms.openlocfilehash: 02f824897b0163a7577e93451d6642464966594d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904700"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417727"
 ---
 # <a name="network-migration"></a>Ağ taşıma
 
 O365 Kiracı, büyük olasılıkla 1 Kiracı Yammer ağlarda ilişkilidir: birçok ağları yapılandırma. 16 Ekim 2018 başlayarak Yammer artık bir Office 365 Kiracı ile ilişkilendirilmiş birden çok Yammer ağları destekler. Tercih edilen bir 1:1 yapılandırma için almak için bir ağ geçişi gerçekleştirebilirsiniz.
   
-- Kiracı ile ilişkili ağların listesini görüntülemek için Yammer Office 365 genel yönetici olarak oturum açın ve **Ağ Yöneticisi**, sonra **Ağ geçişi**gözatın. **İleri**' yi seçin.
+- Kiracı ile ilişkili ağların listesini görüntülemek için Yammer Office 365 genel yönetici olarak oturum açın ve **Ağ Yöneticisi**, sonra **Ağ geçişi**gözatın. **İleri**'yi seçin.
     
 - Birden çok ağ üzerinde Adım 2 / 3 listelenen görürseniz, O365 Kiracı ile ilişkilendirilmiş birden çok Yammer ağı vardır.
     
@@ -29,8 +29,8 @@ O365 Kiracı, büyük olasılıkla 1 Kiracı Yammer ağlarda ilişkilidir: birç
     
 Lütfen unutmayın:
   
-- **Etkin bir ağ geçişi geçirir ve kullanıcılar bekliyor.** Etkin kullanıcılar yanı sıra, adı ve profil resmi gibi kullanıcı bilgilerini de geçirilir. Grupları da dahil olmak üzere, herhangi bir ağ İçerik Geçişi değil. 
+- **Yalnızca etkin bir ağ geçişi geçirir ve kullanıcılar bekliyor.** Etkin kullanıcılar yanı sıra, adı ve profil resmi gibi kullanıcı bilgilerini de geçirilir. Grupları da dahil olmak üzere, herhangi bir ağ İçerik Geçişi değil. 
     
-- **Ağ geçişi yapamazsınız alınması.** Geçişten sonra bayi ağınızı ve içeriği erişmesi mümkün olmayacak. Bu nedenle bir geçiş düşünmeden önce dikkatlice planlamanız istiyorsunuz. 
+- **Ağ geçiş geri alınamaz.** Geçişten sonra bayi ağınızı ve içeriği erişmesi mümkün olmayacak. Bu nedenle bir geçiş düşünmeden önce dikkatlice planlamanız istiyorsunuz. 
     
 
