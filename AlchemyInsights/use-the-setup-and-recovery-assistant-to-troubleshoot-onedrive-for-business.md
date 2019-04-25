@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
 ms.openlocfilehash: 659c08d2e8c123147dd7106798d2c8af1ac37249
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758234"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423383"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="91105-102">OneDrive eşitleme sorunlarını düzeltme</span><span class="sxs-lookup"><span data-stu-id="91105-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="c4583-102">OneDrive eşitleme sorunlarını düzeltme</span><span class="sxs-lookup"><span data-stu-id="c4583-102">Fix OneDrive sync problems</span></span>
 
-<span data-ttu-id="91105-103">Destek ve kurtarma Yardımcısı app OneDrive dosyaları eşitleme ile ortak sorunlarını tanımlamak ve gidermek yardımcı olabilir.</span><span class="sxs-lookup"><span data-stu-id="91105-103">The Support and Recovery Assistant app can help you identify and fix common problems with syncing OneDrive files.</span></span> 
+<span data-ttu-id="c4583-103">Destek ve kurtarma Yardımcısı app OneDrive dosyaları eşitleme ile ortak sorunlarını tanımlamak ve gidermek yardımcı olabilir.</span><span class="sxs-lookup"><span data-stu-id="c4583-103">The Support and Recovery Assistant app can help you identify and fix common problems with syncing OneDrive files.</span></span> 
   
-<span data-ttu-id="91105-104">[Destek ve kurtarma Yardımcısı'nı karşıdan yükleyin](https://aka.ms/sara), iş veya Okul hesapla oturum açın ve iş OneDrive gidermek için app'ndaki yönergeleri izleyin.</span><span class="sxs-lookup"><span data-stu-id="91105-104">[Download the Support and Recovery Assistant](https://aka.ms/sara), sign in with your work or school account, and follow the instructions in the app to troubleshoot OneDrive for Business.</span></span> 
+<span data-ttu-id="c4583-104">[Destek ve kurtarma Yardımcısı'nı karşıdan yükleyin](https://aka.ms/sara), iş veya Okul hesapla oturum açın ve iş OneDrive gidermek için app'ndaki yönergeleri izleyin.</span><span class="sxs-lookup"><span data-stu-id="c4583-104">[Download the Support and Recovery Assistant](https://aka.ms/sara), sign in with your work or school account, and follow the instructions in the app to troubleshoot OneDrive for Business.</span></span> 
   
-[<span data-ttu-id="91105-105">Ek sorun giderme adımları</span><span class="sxs-lookup"><span data-stu-id="91105-105">More troubleshooting steps</span></span>](https://go.microsoft.com/fwlink/?linkid=872097)
+[<span data-ttu-id="c4583-105">Ek sorun giderme adımları</span><span class="sxs-lookup"><span data-stu-id="c4583-105">More troubleshooting steps</span></span>](https://go.microsoft.com/fwlink/?linkid=872097)
   
 
