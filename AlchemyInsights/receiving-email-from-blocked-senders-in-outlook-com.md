@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000015
 ms.assetid: 46a04853-e422-41cc-9bb7-a46d6b6f8aa0
 ms.openlocfilehash: 462d95d4931152bcec72587899f83431bf0ce937
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772986"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371390"
 ---
 # <a name="receiving-email-from-blocked-senders"></a>Engellenen gönderenlerden gelen e-posta alma
 
