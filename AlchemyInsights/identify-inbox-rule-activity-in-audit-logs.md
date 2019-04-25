@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 1368
 ms.assetid: ''
 ms.openlocfilehash: 9339d9c58056f568dc994b75bffe39f2c8bbdd34
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31909642"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417266"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Gelen Kutusu Kuralı Denetim günlüklerini etkinliğinde belirle
 
