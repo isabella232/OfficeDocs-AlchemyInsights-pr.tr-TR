@@ -9,21 +9,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f32262a370abf8b6e0801cd0741f827a9d4be707
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207885"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421404"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>O365 Business Essentials aboneliğinizi kurma
 
 Office 365 hesapları oluşturun ve etki alanınızdaki eklemek
   
-- Bu adımda, kullanıcılarınız için Office 365 hesapları oluşturmak ve kendi etki alanı eklemek için Kurulum Sihirbazı'nı kullanın. Sihirbaz herkesin kullanıcı kimliği ve e-posta [rob@contoso.com](mailto:rob@contoso.com)gibi işletmeniz için kişiselleştirmenize olanak sağlar.
+- Bu adımda, Kurulum Sihirbazı'nı kullanarak kullanıcılarınız için Office 365 hesapları oluşturacak ve kendi etki alanınızı ekleyeceksiniz. Sihirbaz herkesin kullanıcı kimliği ve e-posta [rob@contoso.com](mailto:rob@contoso.com)gibi işletmeniz için kişiselleştirmenize olanak sağlar.
     
 - [Microsoft 365 Yönetim Merkezi'ne](https://login.partner.microsoftonline.cn/)gidin.
     
-- Sihirbazı başlatmak için **Kurulum için Git**' i seçin. Daha fazla bilgi için bkz: [Kullanıcı Ekle ve Office 365 etki alanı](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- Sihirbazı başlatmak için **Kuruluma git**'i seçin. Daha fazla bilgi için bkz. [Office 365'e kullanıcı ve etki alanı ekleme](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
     
 E-posta içe aktarma
   
@@ -31,7 +31,7 @@ E-posta içe aktarma
     
 - E-posta hesapları bağlama
     
-  - Outlook Office 365 postanızın yönetmenin yanı sıra, diğer e-posta hesapları için Outlook, Gmail ve Yahoo hesapları gibi de bağlanabilir. Bu, tüm tek bir yerde e-postanızı yönetmenize olanak sağlar. En fazla 5 e-posta hesapları için Outlook bağlanabilirsiniz. [Bağlan (Office 365) Web'de Outlook'taki e-posta hesapları](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) daha fazla ayrıntı için bkz. 
+  - Outlook'ta Office 365 e-postanızı yönetmeye ek olarak, Gmail ve Yahoo hesapları gibi diğer e-posta hesaplarını da Outlook'a bağlayabilirsiniz. Bu işlem, tüm e-postalarınızı aynı yerden yönetmenize olanak sağlar. En çok 5 e-posta hesabını Outlook'a bağlayabilirsiniz. [Bağlan (Office 365) Web'de Outlook'taki e-posta hesapları](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) daha fazla ayrıntı için bkz. 
     
 Skype Kurumsal'ı yükleme
   
@@ -39,7 +39,7 @@ Skype Kurumsal'ı yükleme
     
 Dosyaları çevrimiçi depolama
   
-- İşletmeniz için en iyi hangi depolama konumları öğrenmek için bkz: [Office 365'te dosyaları saklayabileceğiniz](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Office 365 hesapları oluşturduğunuzda, herkes **OneDrive** bulut depolama konumu otomatik olarak alır. OneDrive ile bilgisayarlar, telefonlar ve tabletler üzerinde dosyalara erişebilirsiniz. 
+- İşletmeniz için en iyi hangi depolama konumları öğrenmek için bkz: [Office 365'te dosyaları saklayabileceğiniz](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Kişiler için Office 365 hesapları oluşturduğunuzda, bu kişiler otomatik olarak bir **OneDrive** bulut depolama konumuna sahip olur. OneDrive ile bilgisayar, telefon ve tabletlerinizdeki dosyalara erişebilirsiniz. 
     
 Kurulum için ayrıntılı adımlar [Bu makalenin](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials)bulunabilir.
   
