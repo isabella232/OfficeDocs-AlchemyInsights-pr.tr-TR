@@ -10,11 +10,11 @@ ms.custom: 9000289
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 5543ff98408b394ad77bbe462b80207f12b30702
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30784606"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393669"
 ---
 # <a name="how-to-deal-with-phishing-email-in-outlookcom"></a>Outlook.com kimlik avı e-posta ile başa çıkma
 

@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
 ms.openlocfilehash: 76570a37a8683863eba8ad18b7f92e86bafa97f6
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760034"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396508"
 ---
 # <a name="buy-additional-licenses"></a>Ek lisans satın al
 
-1. Yönetim merkezinde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin veya **Faturalama** \> **Abonelikler**'i seçin.
+1. Yönetim merkezinde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin veya **Faturalama** \> **Abonelikler**’i seçin.
     
 2. **Abonelikleri** sayfasında, lisans eklemek istediğiniz aboneliği seçin ve **Lisans Ekle/Kaldır'ı**seçin.
     
