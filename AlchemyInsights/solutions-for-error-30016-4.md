@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
 ms.openlocfilehash: 841e181243932bacb18bdb49508468db1da3c715
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760178"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421188"
 ---
-# <a name="solutions-for-error-30016-4"></a><span data-ttu-id="25056-102">Hata 30016 4 çözümleri</span><span class="sxs-lookup"><span data-stu-id="25056-102">Solutions for error 30016-4</span></span>
+# <a name="solutions-for-error-30016-4"></a><span data-ttu-id="27f56-102">Hata 30016 4 çözümleri</span><span class="sxs-lookup"><span data-stu-id="27f56-102">Solutions for error 30016-4</span></span>
 
 
-<span data-ttu-id="25056-103">Office 365 ProPlus bir bilgisayardan kaldırmak deneyin ve hata iletisi, **bir şeyler yanlış 30016 4 gittiğini**alın **% temp %** sürücü **% ProgramFiles %** başka bir sürücüyü eşleştirilir anlamına gelir.</span><span class="sxs-lookup"><span data-stu-id="25056-103">When you try to uninstall Office 365 ProPlus from a computer, and you get the error message, **Something went wrong 30016-4**, it means the **%temp%** drive is mapped to a drive other than **%ProgramFiles%**.</span></span>
+<span data-ttu-id="27f56-103">Office 365 ProPlus bir bilgisayardan kaldırmak deneyin ve hata iletisi, **bir şeyler yanlış 30016 4 gittiğini**alın **% temp %** sürücü **% ProgramFiles %** başka bir sürücüyü eşleştirilir anlamına gelir.</span><span class="sxs-lookup"><span data-stu-id="27f56-103">When you try to uninstall Office 365 ProPlus from a computer, and you get the error message, **Something went wrong 30016-4**, it means the **%temp%** drive is mapped to a drive other than **%ProgramFiles%**.</span></span>
   
-<span data-ttu-id="25056-104">Düzeltmek için karşıdan yükleyip [Destek ve kurtarma Yardımcısı](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span><span class="sxs-lookup"><span data-stu-id="25056-104">To fix, download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span></span>
+<span data-ttu-id="27f56-104">Düzeltmek için karşıdan yükleyip [Destek ve kurtarma Yardımcısı](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span><span class="sxs-lookup"><span data-stu-id="27f56-104">To fix, download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span></span>
   
-1. <span data-ttu-id="25056-105">Açıldığında, **Office'i Kaldır ürünleri** kaldırmak için **İleri**' yi seçin ve istediğiniz sürümü seçin.</span><span class="sxs-lookup"><span data-stu-id="25056-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
+1. <span data-ttu-id="27f56-105">Açıldığında, **Office'i Kaldır ürünleri** kaldırmak için **İleri**' yi seçin ve istediğiniz sürümü seçin.</span><span class="sxs-lookup"><span data-stu-id="27f56-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
     
-2. <span data-ttu-id="25056-106">Ekranlar giderek devam edin ve istendiğinde bilgisayarınızı yeniden başlatın.</span><span class="sxs-lookup"><span data-stu-id="25056-106">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="27f56-106">Ekranlar giderek devam edin ve istendiğinde bilgisayarınızı yeniden başlatın.</span><span class="sxs-lookup"><span data-stu-id="27f56-106">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="25056-107">Yeniden başlattıktan sonra destek ve kurtarma Yardımcısı otomatik olarak yeniden açılır kaldırma işlemini tamamlamak için.</span><span class="sxs-lookup"><span data-stu-id="25056-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="27f56-107">Yeniden başlattıktan sonra destek ve kurtarma Yardımcısı otomatik olarak yeniden açılır kaldırma işlemini tamamlamak için.</span><span class="sxs-lookup"><span data-stu-id="27f56-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-3. <span data-ttu-id="25056-108">Kalan istemleri ve [Office'i yeniden](https://portal.office.com/OLS/MySoftware.aspx) uygulayın veya Yardımcısı'nı kapatın.</span><span class="sxs-lookup"><span data-stu-id="25056-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
+3. <span data-ttu-id="27f56-108">Kalan istemleri ve [Office'i yeniden](https://portal.office.com/OLS/MySoftware.aspx) uygulayın veya Yardımcısı'nı kapatın.</span><span class="sxs-lookup"><span data-stu-id="27f56-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
     
 
