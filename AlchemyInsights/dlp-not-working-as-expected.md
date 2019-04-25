@@ -11,37 +11,37 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
 ms.openlocfilehash: 6d8e3e540494e99e42f04080681f46324f2936bd
-ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2019
-ms.locfileid: "31869579"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404713"
 ---
-# <a name="dlp-not-working-as-expected"></a><span data-ttu-id="c2fd4-102">DLP beklendiği gibi çalışmıyor</span><span class="sxs-lookup"><span data-stu-id="c2fd4-102">DLP not working as expected</span></span>
+# <a name="dlp-not-working-as-expected"></a><span data-ttu-id="a8b71-102">DLP beklendiği gibi çalışmıyor</span><span class="sxs-lookup"><span data-stu-id="a8b71-102">DLP not working as expected</span></span>
 
 
-<span data-ttu-id="c2fd4-103">Office 365'de beklendiği gibi çalışmıyor **Veri kaybını önleme (DLP)** ile ilgili sorunlar yaşıyorsunuz?</span><span class="sxs-lookup"><span data-stu-id="c2fd4-103">Are you having problems with **Data Loss Prevention (DLP)** in Office 365 not working as expected?</span></span> <span data-ttu-id="c2fd4-104">Bu durumda, **DLP İlkesi** doğru ayarlandığından ve onu değerlendirildiğinde verilerinizi **DLP İlkesi** içeren aradığı emin olun.</span><span class="sxs-lookup"><span data-stu-id="c2fd4-104">If so, make sure that your **DLP policy** is set up correctly, and that your data contains what the **DLP policy** is looking for when it is being evaluated.</span></span> 
+<span data-ttu-id="a8b71-103">Office 365'de beklendiği gibi çalışmıyor **Veri kaybını önleme (DLP)** ile ilgili sorunlar yaşıyorsunuz?</span><span class="sxs-lookup"><span data-stu-id="a8b71-103">Are you having problems with **Data Loss Prevention (DLP)** in Office 365 not working as expected?</span></span> <span data-ttu-id="a8b71-104">Bu durumda, **DLP İlkesi** doğru ayarlandığından ve onu değerlendirildiğinde verilerinizi **DLP İlkesi** içeren aradığı emin olun.</span><span class="sxs-lookup"><span data-stu-id="a8b71-104">If so, make sure that your **DLP policy** is set up correctly, and that your data contains what the **DLP policy** is looking for when it is being evaluated.</span></span> 
   
- <span data-ttu-id="c2fd4-105">**DLP ayarlama:**</span><span class="sxs-lookup"><span data-stu-id="c2fd4-105">**Setting up DLP:**</span></span>
+ <span data-ttu-id="a8b71-105">**DLP ayarlama:**</span><span class="sxs-lookup"><span data-stu-id="a8b71-105">**Setting up DLP:**</span></span>
   
-<span data-ttu-id="c2fd4-106">DLP ilkeleri belirlemenize ve kuruluşunuz içindeki hassas bilgileri korumak sağlar.</span><span class="sxs-lookup"><span data-stu-id="c2fd4-106">DLP policies allows you to identify and protect sensitive information in your organization.</span></span> <span data-ttu-id="c2fd4-107">DLP ilkeleri Kurulum, bilgileri kullanmak için [burada](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).</span><span class="sxs-lookup"><span data-stu-id="c2fd4-107">To setup DLP policies, use the information [here](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).</span></span>
+<span data-ttu-id="a8b71-106">DLP ilkeleri belirlemenize ve kuruluşunuz içindeki hassas bilgileri korumak sağlar.</span><span class="sxs-lookup"><span data-stu-id="a8b71-106">DLP policies allows you to identify and protect sensitive information in your organization.</span></span> <span data-ttu-id="a8b71-107">DLP ilkeleri Kurulum, bilgileri kullanmak için [burada](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).</span><span class="sxs-lookup"><span data-stu-id="a8b71-107">To setup DLP policies, use the information [here](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).</span></span>
   
- <span data-ttu-id="c2fd4-108">**DLP ilkelerin dikkat edin:**</span><span class="sxs-lookup"><span data-stu-id="c2fd4-108">**What DLP policies look for:**</span></span>
+ <span data-ttu-id="a8b71-108">**DLP ilkelerin dikkat edin:**</span><span class="sxs-lookup"><span data-stu-id="a8b71-108">**What DLP policies look for:**</span></span>
   
-<span data-ttu-id="c2fd4-109">**Yerleşik hassas bilgi türleri** Office 365 güvenlik ve uyumluluk Merkezi'nde kullanırken, DLP ilkeleri belirli desenleri ve öğeleri bu hassas türler algılama zaman arayın.</span><span class="sxs-lookup"><span data-stu-id="c2fd4-109">When using the **built-in sensitive information types** in Office 365 Security and Compliance center, DLP policies look for specific patterns and elements when detecting these sensitive types.</span></span> 
+<span data-ttu-id="a8b71-109">**Yerleşik hassas bilgi türleri** Office 365 güvenlik ve uyumluluk Merkezi'nde kullanırken, DLP ilkeleri belirli desenleri ve öğeleri bu hassas türler algılama zaman arayın.</span><span class="sxs-lookup"><span data-stu-id="a8b71-109">When using the **built-in sensitive information types** in Office 365 Security and Compliance center, DLP policies look for specific patterns and elements when detecting these sensitive types.</span></span> 
   
-- <span data-ttu-id="c2fd4-110">**Yerleşik hassas bilgi türleri:**</span><span class="sxs-lookup"><span data-stu-id="c2fd4-110">**Built-in Sensitive Information Types:**</span></span>
+- <span data-ttu-id="a8b71-110">**Yerleşik hassas bilgi türleri:**</span><span class="sxs-lookup"><span data-stu-id="a8b71-110">**Built-in Sensitive Information Types:**</span></span>
     
-    <span data-ttu-id="c2fd4-111">Yerleşik hassas türler ve DLP İlkesi zaman duyarlı türünü algılama göründüğünü hakkında daha fazla bilgi için bkz: [önemli bilgi türlerini arayın](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).</span><span class="sxs-lookup"><span data-stu-id="c2fd4-111">For information on the built-in Sensitive types and what a DLP policy looks for when detecting the Sensitive type, see: [What the sensitive information types look for](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).</span></span>
+    <span data-ttu-id="a8b71-111">Yerleşik hassas türler ve DLP İlkesi zaman duyarlı türünü algılama göründüğünü hakkında daha fazla bilgi için bkz: [önemli bilgi türlerini arayın](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).</span><span class="sxs-lookup"><span data-stu-id="a8b71-111">For information on the built-in Sensitive types and what a DLP policy looks for when detecting the Sensitive type, see: [What the sensitive information types look for](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).</span></span>
     
-- <span data-ttu-id="c2fd4-112">**Özel hassas bilgi türleri:**</span><span class="sxs-lookup"><span data-stu-id="c2fd4-112">**Custom Sensitive Information Types:**</span></span>
+- <span data-ttu-id="a8b71-112">**Özel hassas bilgi türleri:**</span><span class="sxs-lookup"><span data-stu-id="a8b71-112">**Custom Sensitive Information Types:**</span></span>
     
-    <span data-ttu-id="c2fd4-113">Özel hassas bilgi türlerini oluşturmaya çalışıyorsanız, özel bir hassas tür oluşturma hakkında bilgi için aşağıdaki makaleyi kullanın: [özel önemli bilgiler türü yaratma](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).</span><span class="sxs-lookup"><span data-stu-id="c2fd4-113">If you are trying to create custom sensitive information types, use the following article for information on how to create a custom sensitive type: [Create a custom sensitive information type](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).</span></span>
+    <span data-ttu-id="a8b71-113">Özel hassas bilgi türlerini oluşturmaya çalışıyorsanız, özel bir hassas tür oluşturma hakkında bilgi için aşağıdaki makaleyi kullanın: [özel önemli bilgiler türü yaratma](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).</span><span class="sxs-lookup"><span data-stu-id="a8b71-113">If you are trying to create custom sensitive information types, use the following article for information on how to create a custom sensitive type: [Create a custom sensitive information type](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).</span></span>
     
- <span data-ttu-id="c2fd4-114">**Raporlar:**</span><span class="sxs-lookup"><span data-stu-id="c2fd4-114">**Reports:**</span></span>
+ <span data-ttu-id="a8b71-114">**Raporlar:**</span><span class="sxs-lookup"><span data-stu-id="a8b71-114">**Reports:**</span></span>
   
-- <span data-ttu-id="c2fd4-115">Hassas veriler görüşleri ile elde [DLP raporları.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span><span class="sxs-lookup"><span data-stu-id="c2fd4-115">Get sensitive data insights with [DLP Reports.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span></span>
+- <span data-ttu-id="a8b71-115">Hassas veriler görüşleri ile elde [DLP raporları.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span><span class="sxs-lookup"><span data-stu-id="a8b71-115">Get sensitive data insights with [DLP Reports.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span></span>
     
-- <span data-ttu-id="c2fd4-116">Belirli bir [Olayı rapor](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports)olayın ayrıntılarını görmek.</span><span class="sxs-lookup"><span data-stu-id="c2fd4-116">See specific details of the event with an [Incident Report](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).</span></span>
+- <span data-ttu-id="a8b71-116">Belirli bir [Olayı rapor](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports)olayın ayrıntılarını görmek.</span><span class="sxs-lookup"><span data-stu-id="a8b71-116">See specific details of the event with an [Incident Report](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).</span></span>
     
 

@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom: 8000029
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
 ms.openlocfilehash: f42e001ce889b28651c2d1cd70306bdcfa46fd83
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773791"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406404"
 ---
-# <a name="deal-with-phishing-scams-in-your-inbox"></a><span data-ttu-id="514e8-102">Kimlik avı dolandırıcılığı, gelen kutunuzdaki çalışılabilecek</span><span class="sxs-lookup"><span data-stu-id="514e8-102">Deal with phishing scams in your inbox</span></span>
+# <a name="deal-with-phishing-scams-in-your-inbox"></a><span data-ttu-id="57dbc-102">Kimlik avı dolandırıcılığı, gelen kutunuzdaki çalışılabilecek</span><span class="sxs-lookup"><span data-stu-id="57dbc-102">Deal with phishing scams in your inbox</span></span>
 
-<span data-ttu-id="514e8-103">Kimlik avı dolandırıcılığı gibi görünen bir e-posta alırsanız, rapor edebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="514e8-103">If you get an email that looks like a phishing scam, you can report it.</span></span>
+<span data-ttu-id="57dbc-103">Kimlik avı dolandırıcılığı gibi görünen bir e-posta alırsanız, rapor edebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="57dbc-103">If you get an email that looks like a phishing scam, you can report it.</span></span>
   
-1. <span data-ttu-id="514e8-104">İletiyi sağ tıklatın ve **Önemsiz olarak işaretle**' yi seçin.</span><span class="sxs-lookup"><span data-stu-id="514e8-104">Right-click the message and select **Mark as junk**.</span></span> 
+1. <span data-ttu-id="57dbc-104">İletiyi sağ tıklatın ve **Önemsiz olarak işaretle**' yi seçin.</span><span class="sxs-lookup"><span data-stu-id="57dbc-104">Right-click the message and select **Mark as junk**.</span></span> 
     
-2. <span data-ttu-id="514e8-105">Önemsiz e-posta klasörüne gidin ve iletiyi seçin.</span><span class="sxs-lookup"><span data-stu-id="514e8-105">Go to the Junk Email folder and select the message.</span></span>
+2. <span data-ttu-id="57dbc-105">Önemsiz e-posta klasörüne gidin ve iletiyi seçin.</span><span class="sxs-lookup"><span data-stu-id="57dbc-105">Go to the Junk Email folder and select the message.</span></span>
     
-3. <span data-ttu-id="514e8-106">Sayfanın üstündeki **Önemsiz** yanındaki oku tıklatın ve sonra **kimlik avı**seçin.</span><span class="sxs-lookup"><span data-stu-id="514e8-106">At the top of the page, select the arrow next to **Not junk** and then select **Phishing**.</span></span> 
+3. <span data-ttu-id="57dbc-106">Sayfanın üstündeki **Önemsiz** yanındaki oku tıklatın ve sonra **kimlik avı**seçin.</span><span class="sxs-lookup"><span data-stu-id="57dbc-106">At the top of the page, select the arrow next to **Not junk** and then select **Phishing**.</span></span> 
     
-<span data-ttu-id="514e8-107">[Kötüye kullanma, kimlik avı ya da sızdırma ile anlaşma](https://go.microsoft.com/fwlink/p/?linkid=873139)yapma konusunda daha fazla bilgi edinin.</span><span class="sxs-lookup"><span data-stu-id="514e8-107">Learn more about how to [deal with abuse, phishing, or spoofing](https://go.microsoft.com/fwlink/p/?linkid=873139).</span></span>
+<span data-ttu-id="57dbc-107">[Uygunsuz kullanım, kimlik avı veya kimlik sahtekârlığı ile başa çıkma](https://go.microsoft.com/fwlink/p/?linkid=873139) hakkında daha fazla bilgi edinin.</span><span class="sxs-lookup"><span data-stu-id="57dbc-107">Learn more about how to [deal with abuse, phishing, or spoofing](https://go.microsoft.com/fwlink/p/?linkid=873139).</span></span>
   
-<span data-ttu-id="514e8-108">İstenmeyen bir artış açıklamaktansa varsa okuyun nasıl [istenmeyen posta ve önemsiz e-posta kutunuzdan tutmaya yardımcı olmak](https://go.microsoft.com/fwlink/p/?linkid=873140)için.</span><span class="sxs-lookup"><span data-stu-id="514e8-108">If you're seeing an increase in spam, read how to [help keep spam and junk email out of your inbox](https://go.microsoft.com/fwlink/p/?linkid=873140).</span></span>
+<span data-ttu-id="57dbc-108">İstenmeyen postada bir artış görüyorsanız [istenmeyen ve gereksiz e-postaları gelen kutunuzdan uzak tutma](https://go.microsoft.com/fwlink/p/?linkid=873140) konusunda yardım alın.</span><span class="sxs-lookup"><span data-stu-id="57dbc-108">If you're seeing an increase in spam, read how to [help keep spam and junk email out of your inbox](https://go.microsoft.com/fwlink/p/?linkid=873140).</span></span>
   
-<span data-ttu-id="514e8-109">**Ayarları** ' na gidin, e-posta adreslerini engellemek için \> **seçenekleri** \> **Engellenen Gönderenler**.</span><span class="sxs-lookup"><span data-stu-id="514e8-109">To block email addresses, go to **Settings** \> **Options** \> **Blocked senders**.</span></span> <span data-ttu-id="514e8-110">Güvenli Gönderenler listenizde adresleri veya etki alanları eklemek için **Güvenli Gönderenler**seçin.</span><span class="sxs-lookup"><span data-stu-id="514e8-110">To add addresses or domains to your safe senders list, select **Safe senders**.</span></span> 
+<span data-ttu-id="57dbc-109">E-posta adreslerini engellemek için **Ayarlar** \> **Seçenekler** \> **Engellenen gönderenler**’e gidin.</span><span class="sxs-lookup"><span data-stu-id="57dbc-109">To block email addresses, go to **Settings** \> **Options** \> **Blocked senders**.</span></span> <span data-ttu-id="57dbc-110">Adresleri veya etki alanlarını güvenilir gönderenler listesine eklemek için **Güvenilir gönderenler**’i seçin.</span><span class="sxs-lookup"><span data-stu-id="57dbc-110">To add addresses or domains to your safe senders list, select **Safe senders**.</span></span> 
   
 
