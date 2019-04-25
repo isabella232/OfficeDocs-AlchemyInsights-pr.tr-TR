@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>11 Mart 2019 haftası
-
-
-| Üzerinde yayınlanan |Konu başlığı | Değiştir |
-|------|------------|--------|
-| 12/3/2019 | 8000054 Outlook.com gelen değil yükleniyor | eklendi |
-| 12/3/2019 | [8000078 Outlook.com gelen değil yükleniyor](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | yeniden adlandırılmış |
-| 12/3/2019 | [8000078 Outlook.com gelen değil yükleniyor](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | değiştiren |
-| 13/3/2019 | [Office 365 üzerinden e-posta geçişi](/AlchemyInsights/relay-email-through-office-365) | değiştiren |
-| 14/3/2019 | [aynı dosya adı iyi olduğu gibi [kural #-açıklama]](/AlchemyInsights/1-alchemy-insight-template) | değiştiren |
-| 14/3/2019 | [Posta kutusu boyutunu Artır](/AlchemyInsights/increase-mailbox-size) | değiştiren |
-| 15/3/2019 | [Outlook Masaüstü geri çağırma veya değiştirme bir e-posta iletisi](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | eklendi |
-
-
 ## <a name="week-of-march-18-2019"></a>18 Mart 2019 haftası
 
 
@@ -530,3 +516,47 @@
 | 12/4/2019 | [932 yükseltme AADConnect](/AlchemyInsights/upgrading-aadconnect) | değiştiren |
 | 12/4/2019 | [Mobil aygıttaki 725 kullanarak e-posta diğer adı](/AlchemyInsights/using-email-alias-on-mobile-device) | değiştiren |
 | 12/4/2019 | [1554 Winsock hata 10061](/AlchemyInsights/winsock-error-10061) | değiştiren |
+
+
+## <a name="week-of-april-15-2019"></a>15 Nisan 2019 haftası
+
+
+| Üzerinde yayınlanan |Konu başlığı | Değiştir |
+|------|------------|--------|
+| 15/4/2019 | [Alchemy - tanılamak ve Outlook bağlanırlık sorunlarını Çöz](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | değiştiren |
+| 15/4/2019 | [Alchemy - Outlook profilinizi yeniden oluşturun.](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | değiştiren |
+| 15/4/2019 | [Özel bir tür DLP gerekebilir](/AlchemyInsights/dlp-might-need-custom-type) | eklendi |
+| 15/4/2019 | [DLP beklendiği gibi çalışmıyor](/AlchemyInsights/dlp-not-working-as-expected) | değiştiren |
+| 15/4/2019 | [DLP ilkesi çalışmıyor ipuçları](/AlchemyInsights/dlp-policy-tips-not-working) | değiştiren |
+| 15/4/2019 | [Outlook.com hata 550](/AlchemyInsights/outlook-com-error-550) | eklendi |
+| 15/4/2019 | [Outlook.com üzerinden kota](/AlchemyInsights/outlook-com-over-quota) | eklendi |
+| 15/4/2019 | [Skype Outlook.com Kaldır](/AlchemyInsights/outlook-com-remove-skype-rule-1) | eklendi |
+| 15/4/2019 | [Skype Outlook.com Kaldır](/AlchemyInsights/outlook-com-remove-skype-rule-2) | eklendi |
+| 15/4/2019 | [182 SaRA tanılamak için lütfen çalıştırmak &amp; Outlook kimlik doğrulaması sorunlarını çözme](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | değiştiren |
+| 16/4/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | değiştiren |
+| 16/4/2019 | [Skype Outlook.com Kaldır](/AlchemyInsights/outlook-com-remove-skype-rule-1) | değiştiren |
+| 16/4/2019 | [8000088 e-postayla Outlook.com Kaydet](/AlchemyInsights/outlook-com-save-emails) | değiştiren |
+| 16/4/2019 | [Outlook.com 8000052 dosyaları iliştirme](/AlchemyInsights/attach-files-in-outlook-com) | değiştiren |
+| 16/4/2019 | [8000015 blok veya Gönderenler Engellemeyi Kaldır](/AlchemyInsights/block-or-unblock-senders) | değiştiren |
+| 16/4/2019 | [8000014 Outlook.com dili değiştirmek nasıl](/AlchemyInsights/how-to-change-language-in-outlook-com) | değiştiren |
+| 16/4/2019 | [8000059 nasıl düzeninizi değiştirin](/AlchemyInsights/how-to-change-your-layout) | değiştiren |
+| 16/4/2019 | [8000033 nasıl yanıtlamak veya iletmek iletileri Outlook.com Beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | değiştiren |
+| 16/4/2019 | [8000055 için veya Outlook.com oturum açmak nasıl](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | değiştiren |
+| 16/4/2019 | [8000062 Outlook.com bir klasöre taşıma](/AlchemyInsights/moving-a-folder-in-outlook-com) | değiştiren |
+| 16/4/2019 | [Duyarlılık etiketleri otomatik olarak uygulama](/AlchemyInsights/auto-apply-sensitivity-labels) | eklendi |
+| 16/4/2019 | [Duyarlılık etiketleri görüntülenmiyor](/AlchemyInsights/sensitivity-labels-not-appearing) | eklendi |
+| 16/4/2019 | [Otomatik olarak oluşturulan yeni bekletme etiketleri](/AlchemyInsights/new-retention-labels-created-automatically) | eklendi |
+| 16/4/2019 | [SharePoint ve OneDrive denetim günlükleri](/AlchemyInsights/classic-sharepoint-audit-log-reports) | eklendi |
+| 16/4/2019 | [Denetim günlüklerini sil iletisi olayları tanımlama](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | eklendi |
+| 16/4/2019 | [Dış e-posta İletim Denetim günlüklerini de posta kutuları belirle](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | eklendi |
+| 16/4/2019 | [Gelen Kutusu Kuralı Denetim günlüklerini etkinliğinde belirle](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | eklendi |
+| 16/4/2019 | [IP adresi ve denetim günlüklerini istemcisinde belirle](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | eklendi |
+| 16/4/2019 | [Almadan önce .pst dosyasını onarma](/AlchemyInsights/repair-pst-before-importing) | eklendi |
+| 16/4/2019 | [Klasik SharePoint denetim günlüğü raporları](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | eklendi |
+| 16/4/2019 | [Klasik SharePoint denetim günlüğü raporları](/AlchemyInsights/classic-sharepoint-audit-log-reports) | değiştiren |
+| 16/4/2019 | [Dış e-posta İletim Denetim günlüklerini de posta kutuları belirle](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | değiştiren |
+| 16/4/2019 | [Gelen Kutusu Kuralı Denetim günlüklerini etkinliğinde belirle](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | değiştiren |
+| 16/4/2019 | [Klasik SharePoint denetim günlüğü raporları](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | değiştiren |
+| 17/4/2019 | [Etkin posta ortak klasörlere e-posta teslim sorunları düzeltme](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | eklendi |
+| 17/4/2019 | [Takımlar kaydırır](/AlchemyInsights/teams-shifts) | değiştiren |
+| 18/4/2019 | [Outlook.com e-postayla 8000011 recover silinmiş](/AlchemyInsights/recover-deleted-email-in-outlook-com) | değiştiren |

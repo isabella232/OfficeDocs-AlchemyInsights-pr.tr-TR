@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
 ms.openlocfilehash: d2d21fb5546d36990d69b76e3ceb72ce2edf3d80
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933500"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404437"
 ---
 Office 365'de hassas bilgi türünü kullanırken, bir **Sosyal güvenlik numarası (SSK)** içeren içerik için çalışmıyor **Veri kaybını önleme (DLP)** ile ilgili sorunlar yaşıyorsunuz? Öyleyse, içeriğinizi DLP İlkesi ne arıyor için gerekli bilgileri içerdiğinden emin olun. 
   
