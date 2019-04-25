@@ -1,5 +1,5 @@
 ---
-title: Çok fazla gereksiz veya kimlik avı, posta kutunuzdaki alıyorsunuz?
+title: Çok sayıda istenmeyen posta veya kimlik avı postaları mı alıyorsunuz?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 75d912b3-f154-4219-9b8c-4e1d41aaa442
 ms.openlocfilehash: dc65d3d027f11fd6ccf328141d0f1d080c53a482
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404947"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397244"
 ---
-# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Çok fazla gereksiz veya kimlik avı, posta kutunuzdaki alıyorsunuz?
+# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Çok sayıda istenmeyen posta veya kimlik avı postaları mı alıyorsunuz?
 
-[Office 365'te istenmeyen e-posta azaltmak](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) istenmeyen posta sorun giderme adımları için bkz. 
+İstenmeyen posta sorununu gidermek için bkz. [Office 365'te istenmeyen postaları azaltma](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email). 
   
-Bu tür sorunları raporlamak için en iyi yolu şudur: 
+Bu tür sorunları bildirmenin en iyi yolu şudur: 
   
-1. [Raporlama eklentisi etkinleştirmek](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) için kullanıcı. 
+1. Kullanıcı için [raporlama eklentisini etkinleştirme](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in). 
     
-2. [Kullanıcı iletisi rapor](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) önemsiz olarak sahip. 
+2. [Kullanıcının iletiyi gereksiz e-posta olarak raporlamasını](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) sağlama. 
     
 
