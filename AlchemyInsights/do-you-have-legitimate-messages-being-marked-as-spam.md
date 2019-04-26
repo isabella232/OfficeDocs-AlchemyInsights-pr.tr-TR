@@ -1,5 +1,5 @@
 ---
-title: Meşru ileti spam işaretlenmesini var mı?
+title: Normal iletileriniz istenmeyen e-posta olarak işaretleniyor mu?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
 ms.openlocfilehash: 21b33d36886bdc8db56550afb3879fc4e69d51f1
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469079"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399161"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Meşru ileti spam işaretlenmesini var mı?
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Normal iletileriniz istenmeyen e-posta olarak işaretleniyor mu?
 
 
-Yukarıdaki tanı deneyin veya bu [iyi iletileri istenmeyen posta olarak işaretlenmesini sorunlarını gidermek için adım adım kılavuzu](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0)deneyin.
+Yukarıdaki tanılamayı deneyin veya [iyi iletilerin istenmeyen e-posta olarak işaretlenmesi sorununu gidermeye yönelik adım adım kılavuzu](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0) izleyin.
   
-Bu tür sorunları raporlamak için en iyi yolu şudur:
+Bu tür sorunları bildirmenin en iyi yolu şudur:
   
-1. [Raporlama eklentisi etkinleştirmek](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) için kullanıcı. 
+1. Kullanıcı için [raporlama eklentisini etkinleştirme](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in). 
     
-2. Kullanıcı [iletiyi önemsiz değil olarak rapor](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US)vardır.
+2. Kullanıcının [iletiyi Önemsiz Değil olarak raporlamasını](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US) sağlama.
     
-Bir destek bileti açmak isterseniz, lütfen tam e-posta üstbilgileri gelen en az iliştirin **bir özgün iletinin tamamı** aşağıda. 
+Destek bileti açmak isterseniz lütfen en az **bir tam özgün iletinin** tam e-posta üst bilgilerini aşağıya ekleyin. 
   
 
