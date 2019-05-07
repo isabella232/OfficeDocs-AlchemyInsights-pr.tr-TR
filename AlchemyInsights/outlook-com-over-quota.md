@@ -3,21 +3,25 @@ title: Outlook.com üzerinden kota
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/15/2019
+ms.date: 5/6/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 8000084
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: fd13efaefe5b02b8783045cc81a81484585f3dc7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom: 8000084
+ms.openlocfilehash: 8f314b20f6095b83cb12b340f10aa04eb8f6dbc9
+ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392750"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33632099"
 ---
-# <a name="email-and-storage-quota-in-outlookcom"></a><span data-ttu-id="871bc-102">Outlook.com e-posta ve depolama kotası</span><span class="sxs-lookup"><span data-stu-id="871bc-102">Email and storage quota in Outlook.com</span></span>
+# <a name="email-and-storage-quota-in-outlookcom"></a><span data-ttu-id="78259-102">Outlook.com e-posta ve depolama kotası</span><span class="sxs-lookup"><span data-stu-id="78259-102">Email and storage quota in Outlook.com</span></span>
 
-<span data-ttu-id="871bc-103">**Gönderme sınırları** Bir günlük e-posta gönderme sınırına sahip olma çabalarımızda, istenmeyen postayı azaltmanıza bir parçası olan yardımcı olmak için neler yapabileceğinizi öğrenmek için [Gönderme sınırları Outlook.com](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e) okuyun.</span><span class="sxs-lookup"><span data-stu-id="871bc-103">**Sending limits** Having a daily email sending limit is part of our efforts to reduce spam, read [Sending limits in Outlook.com](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e) to learn what you can do to help.</span></span>
+<span data-ttu-id="78259-103">**Gönderme sınırları**</span><span class="sxs-lookup"><span data-stu-id="78259-103">**Sending limits**</span></span>
 
-<span data-ttu-id="871bc-104">**Depolama sınırları** Gelen kutusu dolu ise, herhangi bir ileti gönderip göremezsiniz ve size e-posta gönderen kişiler, gelen kutusu dolu bir hata iletisi alırsınız.</span><span class="sxs-lookup"><span data-stu-id="871bc-104">**Storage limits** If your inbox is full, you won't be able to send or receive any messages, and people who send you email will get an error message that your inbox is full.</span></span> <span data-ttu-id="871bc-105">[Ne kadar depolama alanı kullandığınız görmek](https://go.microsoft.com/fwlink/?linkid=2052089) veya [Outlook.com depolama sınırları](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e), posta kutunuzdaki yer hakkında bilgi edinmek için okuyun.</span><span class="sxs-lookup"><span data-stu-id="871bc-105">[See how much storage you've used](https://go.microsoft.com/fwlink/?linkid=2052089) or to learn how to make room in your mailbox, read [Storage limits in Outlook.com](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).</span></span>
+<span data-ttu-id="78259-104">İstenmeyen postayı azaltmanıza yardımcı olmak için Outlook.com bir günlük e-posta gönderme sınırı vardır.</span><span class="sxs-lookup"><span data-stu-id="78259-104">To help reduce spam, Outlook.com has a daily email sending limit.</span></span> <span data-ttu-id="78259-105">Günlük gönderen sınırınızı nasıl artırabileceğinizi öğrenin [Outlook.com sınırları gönderme](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e)bkz.</span><span class="sxs-lookup"><span data-stu-id="78259-105">To learn how you can increase your daily sending limit, see [Sending limits in Outlook.com](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e).</span></span>
+
+<span data-ttu-id="78259-106">**Depolama sınırları**</span><span class="sxs-lookup"><span data-stu-id="78259-106">**Storage limits**</span></span>
+
+<span data-ttu-id="78259-107">Gelen kutusu dolu ise, herhangi bir ileti gönderip göremezsiniz ve size e-posta gönderen kişiler, gelen kutusu dolu bir hata iletisi alırsınız.</span><span class="sxs-lookup"><span data-stu-id="78259-107">If your inbox is full, you won't be able to send or receive any messages, and people who send you email will get an error message that your inbox is full.</span></span> <span data-ttu-id="78259-108">[Ne kadar depolama alanı kullandığınız görmek](https://go.microsoft.com/fwlink/?linkid=2052089)veya [posta kutunuzda yer açmak öğrenin](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).</span><span class="sxs-lookup"><span data-stu-id="78259-108">You can [see how much storage you've used](https://go.microsoft.com/fwlink/?linkid=2052089), or you can [learn how to make room in your mailbox](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).</span></span>
