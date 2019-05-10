@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401204"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867958"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Hızlı arama kataloğunuzu yeniden oluþturma tarafından arama sorunlarını düzeltme
+# <a name="troubleshoot-search-issues"></a>Arama sorunlarını giderme
 
-1. Outlook'u kapatın ve **Denetim Masası'nı**açın.
-    
-    > [!NOTE]
-    > Kullanmakta olduğunuz Office sürümüne bağlı olarak, **Başlat** düğmesini tıklatın ve **Başlat** menüsünden **Denetim**Masası gerekebilir. 
-  
-2. Aşağıdakilerden birini yapın:
-    
-  - **Dizin oluşturma seçenekleri**seçin.
-    
-  - **Arama** kutusuna *dizin oluşturma* yazın ve sonra **Dizin oluşturma seçenekleri**' ni seçin.
-    
-3. **Dizine eklenen konumlar** iletişim kutusunda **Seçilen konumları Değiştir**altında değiştirmek istediğiniz konum için onay kutusunu seçin ve **Tamam**' ı tıklatın.
-    
-4. **Gelişmiş Seçenekler** iletişim kutusunda **Dizin ayarları** sekmesinde, **sorun giderme**, **yeniden**tıklatın.
-    
-    > [!NOTE]
-    > Bir **Dizini yeniden oluştur** iletişim kutusu açılır, uyarı "dizin tamamlanması uzun zaman alabilir." Yeniden başlatmak için **Tamam** ' ı seçin. 
-  
-Daha fazla bilgi için bkz: bilinen bir sorun [yok POP/IMAP hesapları için arama sonuçları](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Lütfen arama ile ilgili sorunlar yaşıyorsanız, sorun giderme Yardımı için aşağıdaki bağlantılara bakın.
 
+Bu en yaygın sorunları olan ve başlamak için iyi bir yerdir:
+- [Outlook arama sonuç verir](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook arama tamamlanmamış sonuçlar verir.](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Eski e-postaları Outlook arama bulamıyor](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Daha az karşılaşılan sorunlara yönelik olası çözümleri burada bulunabilir:
+- [Yalnızca Outlook 2016: Arama sekmesi gri dışarı](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Paylaşılan posta: Arama sonuçları sorunları](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Hata: Arama performansı Outlook nasıl yapılandırılacağı ile ilgili bir sorun nedeniyle etkilenmemiş](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Hiçbir konu beklenmeyen PersonMetadata öğeleri arama klasörleri göster](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
