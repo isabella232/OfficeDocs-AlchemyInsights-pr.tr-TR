@@ -1,0 +1,38 @@
+---
+title: Performans sorunları-SharePoint veya OneDrive
+ms.author: kirks
+author: Techwriter40
+ms.date: 1/3/2019
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
+ms.openlocfilehash: 3b04e811b69a1f9d652abbd603c3c09df068480c
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.translationtype: MT
+ms.contentlocale: tr-TR
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34719536"
+---
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint veya OneDrive yavaş, erişilemez veya birden çok kullanıcı için kullanılamaz
+
+OneDrive veya SharePoint sitesi önceden erişimi olduğu birden çok kullanıcı için kullanılabilir durumda değilse, geçici olarak hizmet sorunu olabilir. [Hizmet durumu panoyu kontrol edin](https://portal.office.com/adminportal/home#/servicehealth).
+
+## <a name="add-and-license-the-user"></a>Ekleme ve kullanıcı lisansı
+
+Emin olun, sizin [iş için Office 365'te kullanıcılara lisans atayın](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+
+
+## <a name="assign-permissions"></a>İzinleri atama
+
+Kullanıcı Sharepoint lisans atadığı ve erişim engellendi iletisi almaya devam, onlar atanan [uygun izin düzeyine](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels) sahip olun.
+
+## <a name="consider-using-the-access-request-feature"></a>Erişim isteği özelliğini kullanmayı düşünün
+
+[Erişim isteği özelliği](https://support.office.com/en-us/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) şu anda görme izni olmayan içeriğe erişim isteği veriyor.
+
+## <a name="allow-custom-script-may-cause-access-denied-issues"></a>Özel komut dosyası erişim sorunları neden olabilir izin ver
+
+*Özel komut dosyası izin ver* özelliği erişim engellendi burada sunmak bazı senaryolar vardır. Etkilenen özellikler listesi, güvenlik konuları ve özelliğini devre dışı bırakabilir. Lütfen ziyaret [izin ver veya özel komut dosyası engelleme](https://docs.microsoft.com/en-us/sharepoint/allow-or-prevent-custom-script).
+
