@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
-ms.openlocfilehash: c51e48fe5694f964aef74c2973f774b44415ebb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 76f0b5ed67d3220559d25dfd72c7535181a4513b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422195"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761779"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>SharePoint çevrimiçi kısıtlamak için Klasik mod
 
-Bazı kuruluşlar, yine Klasik mod deneyimi gerektirir. Klasik mod parçalı düzeyde kaldırmak için hiçbir planları olsa da, Nisan başlayan 1,2019, onu artık olacak bir kuruluş (Kiracı) listeler ve kitaplıklar için Klasik moda kısıtlamak mümkün.
+Bazı kuruluşlar, yine Klasik mod deneyimi gerektirir. Klasik mod parçalı düzeyde kaldırmak için hiçbir planları olsa da, artık bir kuruluş (Kiracı) listeler ve kitaplıklar için Klasik mod sınırlamak mümkündür.
 
 Admin tek tek listeler ve kitaplıklar Klasik modunda aşağıdaki düzeylerde sağladığımız parçalı çevirme anahtarları kullanarak yönetmek için aşağıdaki seçeneğiniz olacaktır:
 
@@ -28,6 +28,6 @@ Admin tek tek listeler ve kitaplıklar Klasik modunda aşağıdaki düzeylerde s
 
 Ayrıca, belirli özellikleri kullanan listeleri ve modern tarafından desteklenmeyen özelleştirmeleri yine otomatik olarak Klasik moda bırakılacak.
 
-1 Nisan sonra listeler ve kitaplıklar Klasik mod Kiracı çevirme sonucu olan otomatik olarak site düzeyinde ve liste düzeyinde yönetilecektir.
+1 Nisan 2019, Kiracı düzeyi devre dışı bırakma işlemi başlayan opt dışında modern liste ve kitaplıkları Başlat ve 31 Mayıs 2019 devam.  Klasik mod Kiracı çevirme sonucu olan kitaplıkları ve listeleri otomatik olarak modern için kaydırılır.
 
-Klasik mod gerekiyorsa lütfen daha fazla bilgi görmek ve seçeneklerini ve araçlarını açıklar PnP Powershell yönerge burada bugün Kiracı düzey çevirme Nisan 1 kaldırılması hazırlamak için kullanabilirsiniz.
+Klasik mod gerekiyorsa lütfen daha fazla bilgi bakın [burada](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) ve PnP Powershell talimatı seçenekleri ve bugün Klasik mod deneyimi kullanmak için kullanabileceğiniz araçları açıklar [burada](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) .

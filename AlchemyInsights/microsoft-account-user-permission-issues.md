@@ -8,14 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 1825cfd0a78a29734d0a5128e19acbfba9115d32
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 81bf8082198de1c44037291f23c434d06a77f02a
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34717366"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34762420"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Sorun giderme sorun - kullanıcı dizinde bulunamadı
 
-<p>Kullanıcılar <strong>hata iletisi alıyorsanız, &ldquo; &hellip;kullanıcı&rsquo;t dizinde bulunabilir. Lütfen yeniden deneyin&hellip; </strong> sorun türü olduğu <strong> &ldquo;kullanıcı değil, dizini.&rdquo;</strong>, sorunu gidermek için aşağıdaki adımları izleyin.</p> <ol> <li>Daha sonra oturum açmak için kullanılan aynı hesabı e-posta daveti olduğu kabul hesabına emin olun. Kullanıcı daveti kabul etmek ve siteye imzalamak için aynı hesabı kullandığından emin olun. <br /><br />Office 365 oturumu yönetmek için <a href="https://support.microsoft.com/en-us/help/12407/microsoft-account-how-to-manage-aliases">diğer adlar için Microsoft hesabınızı yönetme hakkında</a> daha fazla bilgi için bkz. <br /><br /></li> <li>Kullanıcı hatayı alıyor her site için göz atın. <br /><br />bir. Eklemek <strong> &ldquo;/_layouts/15/people.aspx/membershipgroupid=0&rdquo; </strong> (çift tırnak içinde) site URL'SİNİN sonuna. <br /><br />Örnek: https://&lt;contoso&gt;.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0 <br /><br />b. Kullanıcı listeden seçin. <br /><br />c. <strong>Şerit'ten kullanıcı izinlerini Kaldır</strong>' ı tıklatın. <br /><br />d. Yeniden kullanıcı ekleyin ve davet kullanıcıya yeniden gönderin.</li> </ol>
+Kullanıcı hata iletisi "kullanıcı bulunamadı" dizinde alıyorsanız. Yeniden burada sorun türü kullanıcı dizininde değil deneyin.
+
+Bu sorunu gidermek için aşağıdaki adımları tamamlanabilir.
+
+- Daha sonra oturum açmak için kullanılan aynı hesabı e-posta daveti olduğu kabul hesabına emin olun. Kullanıcı daveti kabul etmek ve siteye imzalamak için aynı hesabı kullandığından emin olun. 
+
+Daha fazla bilgi için bkz: [diğer adlar için Microsoft hesabınızı yönetmek nasıl</a> Office 365 oturumu yönetmek için](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+
+- Kullanıcı hatayı alıyor her site için göz atın. 
+
+Eklemek "/ _layouts/15/people.aspx/membershipgroupid=0" (çift tırnak içinde) site URL'SİNİN sonuna. 
+
+Örnek: https://_lT _"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+
+- Kullanıcı listeden seçin.
+
+- Şerit'ten **kullanıcı izinlerini Kaldır** ' ı tıklatın. 
+-  Yeniden kullanıcı ekleyin ve davet kullanıcıya yeniden gönderin.
 

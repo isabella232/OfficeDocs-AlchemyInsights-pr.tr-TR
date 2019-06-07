@@ -8,18 +8,41 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 14b005e353b162b7c49c350ec434798009269219
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 425752ce9b25132005fcff503b90aac2b9130903
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34716876"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760779"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Dış SharePoint çevrimiçi paylaşımı etkinleştirin
 
-Kuruluşunuz belgeleri paylaşmak veya doğrudan satıcılara, müşterileriniz ve müşteriler ile işbirliği ile ilgili iş yapar sonra içeriği kişilerle paylaşmak için <a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview"><span style="color: blue;">dış paylaşımı çevrimiçi SharePoint özelliklerini</span></a> kullanabilirsiniz, Organizasyon.
+Kuruluşunuz belgeleri paylaşmak veya doğrudan satıcılara, müşterileriniz ve müşteriler ile işbirliği ile ilgili iş yapar sonra içeriği kişilerle paylaşmak için [dış paylaşımı çevrimiçi SharePoint özelliklerini](https://docs.microsoft.com/sharepoint/external-sharing-overview) kullanabilirsiniz, Organizasyon.
 
-Dış paylaşımı hakkında daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.</span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-is-an-external-user"><span style="color: blue;">Harici kullanıcı nedir?</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document"><span style="color: blue;">Ben bir site veya belge paylaşmak ne olur?</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off"><span style="color: blue;">SharePoint Online için dış paylaşımı açma veya kapatma</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/change-external-sharing-site"><span style="color: blue;">Dış açmak veya kapatmak için bir site Paylaşımı Kapat</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/create-b2b-extranet"><span style="color: blue;">Çevrimiçi SharePoint extranet işletmeden işletmeye (B2B) çözüm olarak kullanın</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c"><span style="color: blue;">SharePoint dosya veya klasörü paylaşma</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">OneDrive veya SharePoint dosyaları veya klasörleri paylaşmayı durdurmak veya izinleri değiştirme</span></a></span></li> <li><a href="https://docs.microsoft.com/en-us/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center">Harici kullanıcı Sil</a></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong style="mso-bidi-font-weight: normal;"><u><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;">
+Dış paylaşımı hakkında daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
 
-Bir hata ile harici kullanıcı alma? &nbsp;Aşağıdaki bağlantıları denetleyin. </span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0"><span style="color: blue;">Başka bir hesabı kullanarak harici bir kullanıcı SharePoint çevrimiçi daveti kabul ettiğinde hata iletisi</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f"><span style="color: blue;">Paylaşılan bir klasöre erişim</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message"><span style="color: blue;">OSE Sharepoint ve OneDrive hatalar paylaşımı</span></a></span></li> </ul>
+[Harici kullanıcı nedir?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+
+[Ben bir site veya belge paylaşmak ne olur?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+
+
+[Dış açmak veya kapatmak için SharePoint çevrimiçi Paylaşımı Kapat](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)</
+
+[Dış açmak veya kapatmak için bir site Paylaşımı Kapat](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+
+[Çevrimiçi SharePoint extranet işletmeden işletmeye (B2B) çözüm olarak kullanın](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+
+[SharePoint dosya veya klasörü paylaşma](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[OneDrive veya SharePoint dosyaları veya klasörleri paylaşmayı durdurmak veya izinleri değiştirme](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+
+[Harici kullanıcı Sil](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+
+Bir hata ile harici kullanıcı alma? &nbsp;Aşağıdaki bağlantıları denetleyin.
+
+- [Başka bir hesabı kullanarak harici bir kullanıcı SharePoint çevrimiçi daveti kabul ettiğinde hata iletisi](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0- )
+
+- [Paylaşılan bir klasöre erişim](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+
+- [OSE Sharepoint ve OneDrive hatalar paylaşımı](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
