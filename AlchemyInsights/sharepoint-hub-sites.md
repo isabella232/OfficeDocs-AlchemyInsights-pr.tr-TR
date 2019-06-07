@@ -7,14 +7,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: 1a4c349352053ec4a4a8eeb934ec3e41eadddf5f
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: b10426e316d4691f7d26b8909e31e55edd537a28
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719746"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760010"
 ---
 # <a name="sharepoint-hub-sites-overview"></a>SharePoint Merkez sitelere genel bakış
 
-<p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #2f2f2f;">SharePoint siteleri Yardım hub bağlanma ve siteleri düzenlemek, kuruluşunuzun gereksinimlerini karşılayacak temel proje, bölüm, bölüm, bölge, vb. kolaylaştırır:</span></p> <ul style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;" type="disc"> <li style="color: black; ; font-size: 12pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;"></span><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Haberler ve diğer site etkinlikler gibi ilgili içeriği keşfedin.&nbsp;</span></li> <li style="color: black; ; font-size: 12pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Genel gezinti ve ilişkili siteler arasında marka uygulayın.</span></li> <li style="color: black; ; font-size: 12pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">İlişkili tüm sitelerde arama.</span></li> </ul> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #000111;">Bkz.</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> <a href="https://docs.microsoft.com/en-us/sharepoint/create-hub-site">SharePoint çevrimiçi bir hub sitesi oluştur</a> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">Yeni Yönetim Merkezi'nden bir hub sitesi oluşturma hakkında daha fazla bilgi için veya</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black;">PowerShell</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">. &nbsp;</span></p> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">Bkz.</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> <a href="https://support.office.com/en-us/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05">Hub site bir SharePoint sitesiyle ilişkilendirmek</a> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">Varolan sitelerde yeni Yönetim Merkezi'nden bir hub sitesine ilişkilendirme hakkında daha fazla bilgi için veya</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black;">PowerShell</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">.</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> &nbsp;</span></p> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">Bkz.</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> <a href="https://docs.microsoft.com/en-us/sharepoint/remove-hub-site">Hub site kaldırma</a> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">Yeni Yönetim Merkezi'nden varolan bir hub'ı kaldırma hakkında daha fazla bilgi için site veya</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black;">PowerShell</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">. &nbsp;</span></p> <p>&nbsp;</p> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;">&nbsp;</p>
+SharePoint siteleri Yardım hub bağlanma ve siteleri düzenlemek, kuruluşunuzun gereksinimlerini karşılayacak temel proje, bölüm, bölüm, bölge, vb. kolaylaştırır:
+
+Haberler ve diğer site etkinlikler gibi ilgili içeriği keşfedin.
+
+Genel gezinti ve ilişkili siteler arasında marka uygulayın. 
+
+İlişkili tüm sitelerde arama.
+
+Yeni Yönetim Merkezi veya PowerShell hub sitesi oluşturma hakkında daha fazla bilgi için bkz: [hub sitedeki SharePoint çevrimiçi oluşturma](https://docs.microsoft.com/sharepoint/create-hub-site) .
+
+[Hub site bir SharePoint sitesiyle ilişkilendirmek](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) Varolan sitelerde yeni Yönetim Merkezi veya PowerShell bir hub sitesine ilişkilendirme hakkında daha fazla bilgi için bkz.
+
+[Hub site kaldırma](https://docs.microsoft.com/sharepoint/remove-hub-site) varolan bir hub sitesi yeni Yönetim Merkezi veya PowerShell kaldırma hakkında daha fazla bilgi için bkz.
 

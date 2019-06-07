@@ -12,24 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 76aba7b2c065e78364ba48eabdae1436e2e6e9cc
-ms.sourcegitcommit: f2b5fdfde0b407828b06fa5c91403c960a30294f
+ms.openlocfilehash: ff9fa79aa4124c7af0521e07a5f1ce243f9e7f47
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34738075"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757346"
 ---
 # <a name="upgrade-to-visio-2019"></a>Visio 2019 Yükselt
 
-Visio Masaüstü app Visio Online aboneliğinizin bir parçası olarak yüklediyseniz, en son sürümü zaten vardır. Visio planları ve abonelik seçenekleri karşılaştırmak için Visio karşılaştırma seçenekleri konusuna bakın.
+Bir Visio Online aboneliği zaten bir parçası olarak Visio masaüstü uygulaması yüklü kullanıcılar son sürüme sahip. 
 
-Visio 2016 gibi Visio aboneliği olmayan bir sürümü varsa ve için Visio 2019 yükseltmek istediğiniz Visio 2019 satın almanız veya Visio Online abonelik satın gerekir. Visio 2019 zaten var ve yüklemek hazır, [Visio yükleme](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)konusuna bakın. 
+Visio 2016 gibi bir aboneliği olmayan sürümünü yükseltmek için Visio Online abonelik veya Visio Standard veya Professional 2019 görme tek seferlik bir satın alma satın almak gerekir. [Visio karşılaştırma seçenekleri](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options)konusuna bakın.
 
-Visio yan yana aynı bilgisayarda Office ile takıyorsanız, [Office, proje ve Visio aynı bilgisayarda farklı sürümlerini yüklemek için desteklenen senaryolar](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)bkz.
+Zaten daha yeni bir sürümü satın ve yüklemek hazır, [Yükleme Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) görmek ve sürümünüze uygun adımları izleyin. 
 
-**Not**: Visio 2019 ana sürümünü 16.0 sırasında kalıyor.
+Office Visio yan yana yüklemek için [Office, proje ve Visio aynı bilgisayarda farklı sürümlerini yüklemek için desteklenen senaryolar](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)bkz.
 
-Daha fazla bilgi için bkz: [Visio için dağıtım kılavuzu](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)
-[Visio 2019 ana sürüm sayısını 16.0 kaldığını](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)
-[Yıl 2016 Office ve Office 365 istemci uygulamalar olarak ataması will be removed Başlat menüsü girişleri](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) 
- [Office 2019 ticari for Windows ve Mac sık sorulan sorular](https://support.microsoft.com/help/4133312) 
+Daha fazla bilgi için bkz.<br>
+[Visio için Dağıtım Kılavuzu](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Visio 2019 ana sürüm numarasını 16.0 sırasında kalıyor](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[Yıl 2016 Office ve Office 365 istemci uygulamalar olarak ataması will be removed Başlat menüsü girişleri](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[Office 2019 ticari for Windows ve Mac sık sorulan sorular](https://support.microsoft.com/help/4133312) 
