@@ -2,7 +2,7 @@
 title: 898 dış Takvim paylaşım seçenekleri hakkında bilgi edinin.
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 5/30/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 898
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 5342cc5463840a404239e7a225324dce8f78c90e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eea84c3e2c51d89eb7e22e2a17db6b305855d994
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32410034"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34754914"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="773ad-102">Harici Takvim paylaşım seçenekleri hakkında bilgi edinin</span><span class="sxs-lookup"><span data-stu-id="773ad-102">Learn about external calendar sharing options</span></span>
+# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="93396-102">Harici Takvim paylaşım seçenekleri hakkında bilgi edinin</span><span class="sxs-lookup"><span data-stu-id="93396-102">Learn about external calendar sharing options</span></span>
 
-<span data-ttu-id="773ad-103">[Dış kullanıcılarla paylaşım takvimler](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx)bakın.</span><span class="sxs-lookup"><span data-stu-id="773ad-103">See [Share calendars with external users](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span></span>
+<span data-ttu-id="93396-103">[Dış kullanıcılarla paylaşım takvimler](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx)bakın.</span><span class="sxs-lookup"><span data-stu-id="93396-103">See [Share calendars with external users](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span></span>
