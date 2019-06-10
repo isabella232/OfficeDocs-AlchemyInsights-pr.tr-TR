@@ -1,23 +1,23 @@
 ---
-title: Office 365 cutover geçişleri
+title: Office 365'e tam geçişler
 ms.author: dstrome
 author: dstrome
-manager: serdars
+manager: dansimp
 ms.date: 5/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 11929899-2837-4b45-ba79-873bb5485810
-ms.openlocfilehash: a48304c7f654af5b040c0b8ce8b78c7f25a35f7d
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 00ea61d7931c6016fa1e1019a1cc83bf78ff8f58
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405271"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34753155"
 ---
-# <a name="cutover-migrations-to-office-365"></a><span data-ttu-id="05989-102">Office 365 cutover geçişleri</span><span class="sxs-lookup"><span data-stu-id="05989-102">Cutover migrations to Office 365</span></span>
+# <a name="cutover-migrations-to-office-365"></a><span data-ttu-id="4254a-102">Office 365'e tam geçişler</span><span class="sxs-lookup"><span data-stu-id="4254a-102">Cutover migration to Office 365</span></span>
 
-<span data-ttu-id="05989-p101">Office 365 için kaydolduğunuzda, Office 365'için şirket içi Exchange kuruluşundaki kullanıcı posta kutularının içeriğini geçirebilirsiniz. Bir kerede tüm bu iletiyi aldığınızda, onu cutover geçiş çağırdı. Exchange desteklenen bir sürümünü çalıştırıyorsanız ve daha az 2.000 bırakmazlar cutover geçiş için uygun olabilir. Cutover geçişleri hakkında daha fazla bilgi için bir göz atalım: [Cutover geçiş Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).</span><span class="sxs-lookup"><span data-stu-id="05989-p101">When you sign up for Office 365, you can migrate the contents of user mailboxes from an on-premises Exchange organization to Office 365. When you do this all at one time, it's called a cutover migration. A cutover migration could be right for you if you're running a supported version of Exchange and have fewer than 2,000 mailboxes. To find out more about cutover migrations, take a look at: [Cutover migration to Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).</span></span>
+<span data-ttu-id="4254a-103">Office 365’e kaydolduğunuzda kullanıcı posta kutularının içeriğini şirket içi Exchange kuruluşundan Office 365’e geçirebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="4254a-103">When you sign up for Office 365, you can migrate the contents of user mailboxes from an on-premises Exchange organization to Office 365.</span></span> <span data-ttu-id="4254a-104">Bu işlemin tamamını bir kerede yaparsanız, buna tam geçiş denir.</span><span class="sxs-lookup"><span data-stu-id="4254a-104">When you do this all at one time, it's called a cutover migration.</span></span> <span data-ttu-id="4254a-105">Exchange’in desteklenen bir sürümünü çalıştırıyorsanız ve 2.000’den az posta kutunuz varsa tam geçiş sizin için doğru tercih olacaktır.</span><span class="sxs-lookup"><span data-stu-id="4254a-105">A cutover migration could be right for you if you're running a supported version of Exchange and have fewer than 2,000 mailboxes.</span></span> <span data-ttu-id="4254a-106">Tam geçiş hakkında daha fazla bilgi edinmek için [Office 365’e tam geçiş](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx) konusunu gözden geçirin.</span><span class="sxs-lookup"><span data-stu-id="4254a-106">To find out more about cutover migrations, take a look at: [Cutover migration to Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).</span></span>
   
 
