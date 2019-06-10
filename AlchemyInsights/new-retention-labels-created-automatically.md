@@ -9,16 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 950b20b9982bbac8620a153315598a2b6ea08c6f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6f36420280cc016c1117d19c15c2887d4e308f77
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418171"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771219"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Otomatik olarak oluşturulan yeni bekletme etiketleri
 
-Kuruluşunuzdaki güvenlik veya uygunluk Yönetim Merkezi **bekletme etiketleri** altında otomatik olarak oluşturulan [üç yeni bekletme etiketleri](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) görebilirsiniz. Etiket adları şunlardır:
+Kuruluşunuzdaki güvenlik veya uygunluk Yönetim Merkezi **bekletme etiketleri** altında otomatik olarak oluşturulan [üç yeni bekletme etiketleri](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) görebilirsiniz. Etiket adları şunlardır:
 
 - Operasyonel yordamı
 - Genel işletme
@@ -30,4 +30,4 @@ Bu, oluşturulan diğer bekletme etiketi varsa **Dosya planı** seçin ilk kez o
 
 1. _GT_ **etiketi silmek**kaldırmak istediğiniz bekletme etiketleri seçin > etiketi silmek için**Evet** .
 
-Plan Dosya Yöneticisi ile [Plan Dosya Yöneticisi'ne genel bakış](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager)- daha fazla bilgi için kuruluşunuzun ilkelerine bakın ve bekletme etiketleri yönetebilirsiniz.
+Plan Dosya Yöneticisi ile [Plan Dosya Yöneticisi'ne genel bakış](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager)- daha fazla bilgi için kuruluşunuzun ilkelerine bakın ve bekletme etiketleri yönetebilirsiniz.

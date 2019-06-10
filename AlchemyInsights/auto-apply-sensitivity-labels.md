@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408738"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769562"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Duyarlılık etiketleri otomatik olarak uygulama
 
@@ -25,7 +25,7 @@ Duyarlılık etiketleri otomatik olarak uygulama içeriğini sınıflandırmak k
 Etiketleri otomatik olarak uygulamak için aşağıdakiler gereklidir:
 
 - Azure bilgi koruma P2 abonelik
-- [Azure bilgi koruma birleştirilmiş etiketleme istemci karşıdan yükleyip](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Azure bilgi koruma birleştirilmiş etiketleme istemci karşıdan yükleyip](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 Biz gelecekte Azure bilgi koruma birleştirilmiş etiketleme istemci istemeyecektir yerel destek üzerinde çalışıyorsunuz.
 
@@ -33,5 +33,5 @@ Biz gelecekte Azure bilgi koruma birleştirilmiş etiketleme istemci istemeyecek
 
 Duyarlılık etiketleri ve bunları otomatik olarak içeriğe uygulama hakkında daha fazla bilgi için bkz:
 
-- [Duyarlılık etiketleri genel bakış](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Duyarlılık etiket içeriği otomatik olarak uygulama](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Duyarlılık etiketleri genel bakış](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Duyarlılık etiket içeriği otomatik olarak uygulama](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

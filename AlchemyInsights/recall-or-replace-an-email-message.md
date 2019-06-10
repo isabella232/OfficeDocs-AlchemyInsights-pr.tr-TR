@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096662"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770828"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Çağrılacağı ya da bir e-posta iletisi
 
@@ -36,7 +36,7 @@ Geri çekme üzerinde nasıl kontrol edileceğini de dahil olmak üzere daha faz
 
 ***Arama ve kuruluşunuzdaki e-posta iletileri silme*** Genel yönetici iseniz aramak ve kuruluşunuzdaki e-posta iletilerini silmek için en kolay yöntemdir Genel Yönetici değilseniz, hesabınızı uyumluluğu arama yönetim rolü veya eBulma Yöneticisi Rol grubuna eklenmesi gerekir. İletileri silmek için Kuruluş Yönetimi rol grubunun ya da arama ve temizleme yönetim rolü katılmak gerekir. [Güvenlik & Uyumluluk Merkezi](https://protection.office.com/)bu rollere izinler atanır.
 
-1. İletiyi silmek için bulmak için [arama içerik oluşturma](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) .
-2. [Güvenlik & Uyumluluk Merkezi PowerShell için bağlayın](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. İletiyi silmek için bulmak için [arama içerik oluşturma](https://docs.microsoft.com/office365/securitycompliance/content-search) .
+2. [Güvenlik & Uyumluluk Merkezi PowerShell için bağlayın](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-MFA kullanıyorsanız, [çok faktörlü kimlik doğrulama kullanarak bağlan Office 365 güvenlik & Uyumluluk Merkezi PowerShell için](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)bkz. 
+MFA kullanıyorsanız, [çok faktörlü kimlik doğrulama kullanarak bağlan Office 365 güvenlik & Uyumluluk Merkezi PowerShell için](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)bkz. 
