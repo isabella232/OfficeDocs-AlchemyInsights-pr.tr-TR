@@ -12,20 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 0ddafabd1896040fc93d4ad49bc306bea3104492
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765499"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883180"
 ---
 # <a name="activate-visio"></a>Visio'yu etkinleştirin
 
-[Visio lisans](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) önce masaüstü Visio Visio çevrimiçi planı 2'de bulunan masaüstü uygulaması yüklü ve etkin bir kullanıcıya atamak admin gerekir. (Plan 1 Visio çevrimiçi Visio Masaüstü sürümü içermez).
+Kullanıcı bir kullanıcı yükleyebilir ve kendi Visio çevrimiçi planı 2'de bulunan Masaüstü Visio Masaüstü uygulamayı etkinleştirmek için önce bir [Visio lisans](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)atanmış gerekir.
+
+**Not** Visio çevrimiçi planı 1 Visio bir Masaüstü sürümünü içermez.
+
+Visio etkinleştirmek için:
 
 1. Zaten yüklü değilse [Yüklemek Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) .
-2. Yükleme tamamlandığında, uygulamasını açın. Çoğu zaman app otomatik olarak etkinleştirir ve kullanıcı Visio hemen kullanmaya başlayabilirsiniz.
-    Oturum açmanız istendiğinde, kullanıcı aynı iş veya Visio lisansı atandı Okul hesabı ile oturum açmanız gerekir. 
+2. Yükleme tamamlandığında, Visio'yu açın. Çoğu zaman app otomatik olarak etkinleştirir ve Visio hemen kullanmaya başlayabilirsiniz. Oturum açmanız istendiğinde, aynı işi veya bir Visio lisansı atandı Okul hesabı ile oturum emin olun. 
+
+Etkinleştirme sorunları için Etkilenen bilgisayarda [etkinleştirme sorun gidericisini](https://aka.ms/SARA-OfficeActivation-Alchemy) çalıştırın.
 
 Ayrıntılı bilgi için bkz:<br>
 [PC'de Office etkinleştirme](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
