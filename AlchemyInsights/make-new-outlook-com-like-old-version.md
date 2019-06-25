@@ -1,35 +1,33 @@
 ---
-title: 8000035 eski yeni Outlook.com görünümlü yapma
+title: Eski yeni Outlook.com görünümlü yapma
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409422"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117633"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Eski sürüm yeni Outlook.com görünümlü yapma
 
-İşte, bazı ayarları ve görünümleri, eski sürüm yeni Outlook.com görünümlü yapmak için değiştirebilirsiniz.
+Eski sürüm yeni Outlook.com görünümlü olmak için değiştirebileceğiniz bazı ayarlar şunlardır:
 
-1. Çark simgesi ayarlarını açmak için sayfanın üstündeki seçin.
-2. Tercih edilen **Tema**seçin.
-3. **Üstte yeni iletileri** **görüşme görünümü** değiştirin.
-4. **Okuma bölmesini** **gizlemek**için değiştirin.
-5. **Kapalı** **Focused gelen** geçin.
-6. **Gönderen görüntü** **Kapalı**geçiş yapın. 
-7. **Grup iletileri tarihe göre** **Kapalı**geçiş yapın. 
-8. **Ek önizlemeyi** **Kapat**geçin. 
-9. **İleti önizleme metni** **üzerinde**geçiş yapın.
+1. [Düzen ayarları](https://outlook.live.com/mail/options/mail/layout)' na gidin.
+1. **İletilerim sıralanmıyor** **Focused gelen**seçin.
+1. **Kuruluş ileti** **Üstte yeni iletileri**seçin.
+1. **Gönderen resimleri gösterme** **gönderen resmi**seçin.
+1. **Okuma Bölmesi** **Okuma Bölmesi Gizle'yi**seçin.
+1. **İleti önizleme metni** **Göster Önizleme metni**seçin.
+1. **Ekleri ileti listesinde gösterme** **satır içi önizlemeleri**seçin.
 
-Not: Burada önerilen Outlook.com Klasik sürümü için en yakın olası düzenini sağlayan ayarlar yalnızca bazı yer almaktadır. Hala istenen ayarlarınıza bağlı olacaktır.
-
-Gelen kutusu görünür ve [Outlook.com yeni posta deneyiminizi kişiselleştirme](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c)görmek için istediğiniz gibi davranır böylece posta ayarlarınızı değiştirmek için.
+Gelen kutusu görünür ve istediğiniz şekilde davranır şekilde posta ayarlarınızı değiştirmek için [posta kutunuzdaki Outlook.com ve web üzerinde yeni Outlook görünümünü değiştirme](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)bkz.

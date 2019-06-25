@@ -1,9 +1,9 @@
 ---
-title: Bul ve eksik e-posta Web'de Outlook'taki kurtarmak
+title: Bul ve eksik veya silinmiş e-posta, takvim olayları veya kişileri Kurtar
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 5/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.custom:
 - "8000003"
 - "1991"
-ms.openlocfilehash: b6a8028a95d81542774bd654e0104c8b858867d0
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: b909735859e7e7f5d7970daea700c1a952108214
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643681"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273538"
 ---
-# <a name="how-to-find-and-recover-missing-or-deleted-email-calendar-events-or-contacts"></a>Nasıl bulacağınızı ve eksik veya silinmiş e-posta, takvim olayları veya kişileri Kurtar
+# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts"></a>Bul ve eksik veya silinmiş e-posta, takvim olayları veya kişileri Kurtar
 
-E-posta iletileri veya ilgili kişileri aramak için sayfanın üstündeki arama çubuğunu kullanabilirsiniz. [Posta ve kişileri Outlook web üzerinde arama](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b)yapma konusunda daha fazlasını okuyun.
+- Mail'de, [iletileri veya ilgili kişileri aramak](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b)için sayfanın üstündeki **Arama** çubuğunu kullanın.
 
-Bir takvim görüntülerken, bir madde için bir sözcük, bir kişinin adı veya bir ifade kullanarak arama yapabilirsiniz. Arama, arama terimlerinizin herhangi bir yerinde bu takvim için kontrol eder. Açık birden fazla takvimi varsa, arama şu anda seçili olan takvim üzerinde odaklanır. [Takviminizi Outlook'ta Web'de arama](https://support.office.com/article/d587aaec-fb2c-4f6f-aee1-0df1fc591477)yapma konusunda daha fazla bilgi edinin.
+- Takvim [olayları arama kullanarak bir sözcük, ad veya tümcecik](https://support.office.com/article/d587aaec-fb2c-4f6f-aee1-0df1fc591477)için sayfanın üstündeki **Arama** çubuğu kullanın. Açık birden fazla takvimi varsa, arama şu anda seçili olan takvim üzerinde odaklanır.
 
-E-posta mesajı yanlışlıkla silerseniz, öğe, Silinmiş Öğeler klasörüne veya önemsiz e-posta klasöründe yine ise kurtarmak ve sonra Silinmiş Öğeler klasörünü boşaltma, hatta bazı durumlarda bir öğeyi kurtarmak. Nasıl [geri yükleme silinmiş e-posta iletilerini Outlook Web](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11)hakkında daha fazlasını okuyun.
+- Bir ileti, takvim olayı veya kişi yanlışlıkla silerseniz, [Bu öğeler, silinmiş öğeler veya önemsiz e-posta klasöründe yine iseniz kurtarmak](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11)olabilir.

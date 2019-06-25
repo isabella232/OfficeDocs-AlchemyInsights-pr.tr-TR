@@ -1,25 +1,26 @@
 ---
-title: Outlook.com beta sürümünden Klasik Outlook.com için geri almak için 8000035 iste
+title: Outlook.com beta sürümünden Klasik Outlook.com için geri almak için istek
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 4f131df08d5a9cdb8c72f19381c6a7906665d2f0
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+ms.openlocfilehash: 82189ce9fedc7a85e0295ae06bb8c4190d8962f1
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391963"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117597"
 ---
 # <a name="the-new-outlookcom"></a>Yeni Outlook.com
 
-Artık Outlook.com beta ayrılıp Outlook.com Klasik sürümüne dönmek mümkün değil.
+Artık yeni Outlook.com deneyimi ayrılıp Outlook.com Klasik sürümüne dönmek mümkün değil.
 
 Yeni Outlook.com hakkında geribildirim vermek isterseniz, [UserVoice forum](https://go.microsoft.com/fwlink/p/?linkid=851599)gidin. Düşüncelere oy kullanabilir veya ele alınan sorunları görmek ister misiniz ve biz üst yorumlar ve öneriler için yanıt.
 
-[Yeni Outlook.com hakkında daha fazla bilgi edinin.](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[Outlook.com ile ilgili yardım alın.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

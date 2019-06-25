@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1936"
 - "9000201"
-ms.openlocfilehash: c32e6c4146a315f2f5b83b307108227ec4b72567
-ms.sourcegitcommit: f2b5fdfde0b407828b06fa5c91403c960a30294f
+ms.openlocfilehash: e80a37e186f43f1243594fa115b3d9467d935be5
+ms.sourcegitcommit: 0bff5e2cddacaf2feb44c43e48c8c196f9dfd1e3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 06/06/2019
-ms.locfileid: "34738110"
+ms.locfileid: "34748838"
 ---
 # <a name="uninstall-visio"></a>Visio kaldırma
 
@@ -29,6 +29,6 @@ Karşıdan yükleme ve [Destek ve kurtarma Yardımcısı](https://aka.ms/SARA-Of
     
     Yeniden başlattıktan sonra destek ve kurtarma Yardımcısı otomatik olarak yeniden açılır kaldırma işlemini tamamlamak için.
     
-3. Geri kalan yönergeleri izleyin ve Visio Online bir aboneliğiniz varsa, Visio Office 365 [portal hesabı](https://portal.office.com/account#installs)yeniden yükleyebilirsiniz. [Visio yüklemek](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936)Ek Yardım veya Visio aboneliği olmayan sürümünü yükleme hakkında bilgi için bkz. 
+3. Geri kalan yönergeleri izleyin ve Visio Online bir aboneliğiniz varsa, Visio Office 365 [portal hesabı](https://portal.office.com/account#installs)yeniden yükleyebilirsiniz. [Visio yüklemek](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936)Ek Yardım veya Visio Professional gibi Visio aboneliği olmayan sürümünü yükleme hakkında bilgi için bkz. 
     
 Diğer kaldırma seçenekleri listesi için [Bir PC'den Office'i Kaldır'ı](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936)seçin.
