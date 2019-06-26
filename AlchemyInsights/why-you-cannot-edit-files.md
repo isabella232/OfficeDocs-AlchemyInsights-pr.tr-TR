@@ -1,5 +1,5 @@
 ---
-title: Dosyayı salt okunur açmak
+title: Dosya düzenlemeye karşı kilitlenmiş
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b311b134afe0c71dcc6bfdcd387eec1a624c312
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757125"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222688"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Neden dosyaları düzenlemeniz mümkün olmayabilir?
 
@@ -24,9 +24,9 @@ Not: Ödeme, kitaplıklarla gerekli sütunları/metadata veya taslak öğe güve
 
 OneDrive kitaplıkları için OneDrive bir kilit simgesinin yanındaki eşitleme durumunu gösterir ve kullanıcının belirtilen ayarları kaldırılıncaya kadar kitaplık eşitleme olmayacak.
 
-Word/Excel için kilitli dosyaları ile ilgili daha fazla bilgi için lütfen aşağıdaki makalelere bakın.
+Word veya Excel için kilitli dosyaları hakkında daha fazla bilgi için lütfen aşağıdaki makalelere bakın.
 
-[Excel dosyası başka bir kullanıcı tarafından düzenlemeye karşı kilitlenmiş.](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excel dosyası başka bir kullanıcı tarafından düzenlemeye karşı kilitlenmiş.](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-[Word dosyayı başka bir kullanıcı tarafından düzenlemeye karşı kilitlenmiş.](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Word dosyayı başka bir kullanıcı tarafından düzenlemeye karşı kilitlenmiş.](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 
