@@ -9,23 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
-ms.openlocfilehash: 1d9c0009e743e2cb514124ba5b9c3292580d9a88
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "652"
+- "2000017"
+ms.openlocfilehash: 58e43416a86dd3fb478dbb89e3ea3a8953a01c2f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399935"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385274"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Office 365 iş aboneliğiniz için lisans satın alma
 
 Kullanıcılarınıza Office 365 lisansları atarken, ek lisans satın almaya gerek duyan bulabilirsiniz. Bunu yapmak için:
   
 - Microsoft 365 Yönetim Merkezi [abonelikleri]( https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin veya **Faturalama** seçin \> **abonelikleri**.
-    
+
 - **Abonelikler** sayfasında, lisans eklemek istediğiniz aboneliği seçin ve sonra **Lisans Ekle/Kaldır**'ı seçin.
-    
+
 - **Toplam lisans** kutusuna bu abonelik için ihtiyacınız olan toplam lisans sayısını girin ve **Gönder** \> **Kapat**'ı seçin. Örneğin, 100 lisansınız varsa ve 5 lisans daha eklemeniz gerekiyorsa 105 yazın.
-    
+
 Daha fazla bilgi için: [İş Abonelik için Office 365 lisansları satın al](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
   
-

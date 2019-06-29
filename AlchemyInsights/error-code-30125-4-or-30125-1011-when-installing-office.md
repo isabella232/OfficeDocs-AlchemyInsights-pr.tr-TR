@@ -8,28 +8,30 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "983"
+- "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: 56f78580480dd35671c88f0203db29c646de9d25
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f259ac2a844aec327c3e99466902b92f82e9de77
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402651"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388301"
 ---
 # <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Hata kodu 30125 4 veya Office'i yüklerken 30125-1011
 
 Virüsten koruma yazılımı, güvenlik duvarı, proxy ayarları veya bağlantısı, Office yüklemenizi engelliyorsa, bu hatayı görebilirsiniz. Sorunu çözmek için deneyebileceğiniz bazı şeyleri burada bulabilirsiniz:
   
 - Bilgisayarınızı yeniden başlatın ve Office programını yeniden yükleyin
-    
+
 - [Office çevrimdışı yükleyici](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) kullanarak Office'i yükleyin.
-    
+
 - Proxy ayarlarını geçici olarak kapatma
-    
+
 - Virüsten koruma yazılımını geçici olarak kapatma
-    
+
 - Güvenlik duvarını geçici olarak kapatma
-    
+
 Daha fazla bilgi için bkz: [hata kodu 30125 4 veya Office'i yüklerken 30125-1011](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
   
-
