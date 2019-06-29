@@ -9,38 +9,40 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
+ms.custom:
+- "1639"
+- "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: a3534000b8b8f3d8c2a2cd9b5b3cf1eb278d3c85
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404767"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360793"
 ---
 # <a name="payment-options"></a>Ödeme seçenekleri
 
  **Ödeme seçenekleri**
   
-Kredi kartı, banka hesabı (doğrudan borç) ve fatura (çekle ödeme veya elektronik fon transferi)
+Kredi kartı, Banka Hesabı (talimatlı ödeme) ve Fatura (çekle veya elektronik fon transferiyle ödeme)
   
- **Kredi kartı ve banka hesabı ile Öde**
+ **Kredi kartı ve Banka hesabıyla ödeme**
   
-Kredi kartı veya banka hesabı tarafından ödeme yaptığınızda, otomatik olarak için aboneliğinizi Fatura tarihinden sonraki gün abonelik süreniz sonuna kadar Tahsil edilecek. Gerektii, [Kredi kartı veya banka hesap bilgilerini](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) güncelleştirebilirsiniz. Ayrıca [, ödeme bildirimi e-posta bir kopyasını alma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email)seçebilirsiniz.
+Aboneliğiniz için kredi kartı veya banka hesabıyla ödeme yaptığınızda, abonelik döneminizin sonuna kadar, fatura tarihinden bir gün sonra otomatik olarak ücretlendirilirsiniz. Gerektiğinde [kredi kartı veya banka hesabı bilgilerinizi güncelleştirebilirsiniz](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide). Ayrıca, dilerseniz [Fatura ekstrenizin kopyasını e-posta olarak alma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
   
-Kredi kartınız reddedildi veya vadesi geçmiş sahipse, Bakiye **Ödeme** üzerinde **Şimdi Ödeme** seçeneğini seçebilirsiniz \> [abonelikleri](https://portal.office.com/adminportal/home#/subscriptions) sayfa. 
+Kredi kartınız reddedildiyse veya vadesi geçmiş borç bakiyesi varsa **Faturalama** \> [Abonelikler](https://portal.office.com/adminportal/home#/subscriptions) sayfasındaki **Şimdi Öde** seçeneğini kullanabilirsiniz.
   
- **(Onay veya elektronik fon transferi) fatura ile ödeme**
+ **Faturayla ödeme (çek veya elektronik fon transferi)**
   
-Belirli bir miktarda para (bu tutarı servis konuma göre değişir) üzerinden aboneliğinizi maliyetleri onay veya EFT kullanarak fatura ile ödeme seçeneği sunulur. Bir kredi kontrolü büyük fatura ödemeleri için gerekli olabilir. Kredi onay gerekli ise, abonelik satın aldığınız zaman size bildirilir. Ve bağlantı kurulmasını kabul ederseniz, kredi onay için uygulama hakkında daha fazla bilgi içeren bir e-posta alacaksınız. Kredi denetimleri, genellikle iki iş günü içinde tamamlanır.
+Aboneliğinizin maliyeti belirli bir tutarın üzerindeyse (tutar, hizmet konumuna göre değişir), faturayı EFT veya çekle ödeme seçeneğini kullanabilirsiniz. Tutarı yüksek olan fatura ödemelerinde kredi denetimi gerekebilir. Kredi denetimi yapılması gerekiyorsa, aboneliklerinizi satın aldığınızda bu durum size bildirilir. Sizinle bağlantı kurulmasını kabul ederseniz, kredi onayına başvurma konusunda daha fazla bilgi sağlayan bir e-posta alırsınız. Kredi denetimleri genellikle iki iş günü içinde tamamlanır.
   
-Aboneliğiniz için fatura ile ödeme yapıyorsanız, fatura özeti görüntülemek hazır olduğuna ilişkin bir e-posta alacaksınız. Bu e-posta, fatura özeti bir kopyasını içermez. Ancak [, ödeme bildirimi e-posta bir kopyasını alma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email)seçebilirsiniz. Faturalama deyiminiz bir ödeme yapmak için seçenekleriniz hakkında ayrıntıları içerir. Bir abonelik satın aldığınızda, bir satınalma siparişi (PO) numarası girerseniz, sayı, fatura özeti üzerinde görünür. [Görünüm fatura veya fatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide)ödeme ifadeleri erişme hakkında daha fazla bilgi için bkz.
+Aboneliğinizi faturayla ödüyorsanız, fatura ekstrenizin görüntülenmeye hazır olduğunu bildiren bir e-posta alırsınız. Bu e-posta fatura ekstrenizin kopyasını içermez. Bununla birlikte dilerseniz [Fatura ekstrenizin kopyasını e-postayla almayı](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email) seçebilirsiniz. Fatura ekstreniz, ödeme yapma seçeneklerinizle ilgili ayrıntıları içerir. Abonelik satın alırken bir satın alma siparişi (PO) numarası girdiyseniz, bu numara fatura ekstrenizde görünür. Fatura ekstrelerine erişim hakkında daha fazla bilgi için bkz. [Fatura ekstrenizi veya faturanızı görüntüleme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
- **Nasıl ödeme değiştirme**
+ **Ödeme yönteminizi değiştirme**
   
-Geçerli bir abonelik için ödeme yapma nasıl değiştirmek istiyorsanız, yönergeleri izleyin [burada](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
+Geçerli aboneliğinizin ödeme yöntemini değiştirmek isterseniz [buradaki](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide) yönergeleri izleyin.
   
- **Ek bilgi**
+ **Ek bilgiler**
   
-[İş Abonelik için Office 365 için ödeme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
+[İş için Office 365 aboneliğinizi ödeme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
-
