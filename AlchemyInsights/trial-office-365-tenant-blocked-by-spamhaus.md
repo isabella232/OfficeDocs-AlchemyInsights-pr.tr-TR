@@ -8,13 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
-ms.openlocfilehash: 7162b8b89c09834332eefc17f6e0f9a6e214f955
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "255"
+- "3100003"
+ms.openlocfilehash: 96b2438d01163398438e5124a24228630756b7bc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420468"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353917"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="dbd7e-102">Bir Office 365 deneme kullanıcı e-posta gönderdiğinde hata: istemci ana bilgisayar Spamhaus kullanılarak engellendi</span><span class="sxs-lookup"><span data-stu-id="dbd7e-102">Error when an Office 365 trial user sends email: Client host blocked using Spamhaus</span></span>
+# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="6a3c6-102">Bir Office 365 deneme kullanıcı e-posta gönderdiğinde hata: istemci ana bilgisayar Spamhaus kullanılarak engellendi</span><span class="sxs-lookup"><span data-stu-id="6a3c6-102">Error when an Office 365 trial user sends email: Client host blocked using Spamhaus</span></span>
 
-<span data-ttu-id="dbd7e-103">Yeni bir Office 365 deneme Kuruma ait e-posta gönderme görünür.</span><span class="sxs-lookup"><span data-stu-id="dbd7e-103">It appears that you are sending email from a new Office 365 trial organization.</span></span> <span data-ttu-id="dbd7e-104">Tacizleri önlemeye yardımcı olmak için biz önceden deşifre bilinen IP adresleri bloğu.</span><span class="sxs-lookup"><span data-stu-id="dbd7e-104">To help prevent abuse, we block IP addresses that are known to have been previously compromised.</span></span> <span data-ttu-id="dbd7e-105">Bu özel denetimi lisansları ödenen kullanmaya başladıktan sonra artık zorlanır.</span><span class="sxs-lookup"><span data-stu-id="dbd7e-105">This specific check is no longer enforced after you start using paid licenses.</span></span> <span data-ttu-id="dbd7e-106">Geçici Tahliye, Internet servis sağlayıcınızdan (ISS) için yeni bir IP adresi isteyen ya da blok [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) Web sitesinden kaldırılması mümkün olabilir.</span><span class="sxs-lookup"><span data-stu-id="dbd7e-106">You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span>
+<span data-ttu-id="6a3c6-103">Yeni bir Office 365 deneme Kuruma ait e-posta gönderme görünür.</span><span class="sxs-lookup"><span data-stu-id="6a3c6-103">It appears that you are sending email from a new Office 365 trial organization.</span></span> <span data-ttu-id="6a3c6-104">Tacizleri önlemeye yardımcı olmak için biz önceden deşifre bilinen IP adresleri bloğu.</span><span class="sxs-lookup"><span data-stu-id="6a3c6-104">To help prevent abuse, we block IP addresses that are known to have been previously compromised.</span></span> <span data-ttu-id="6a3c6-105">Bu özel denetimi lisansları ödenen kullanmaya başladıktan sonra artık zorlanır.</span><span class="sxs-lookup"><span data-stu-id="6a3c6-105">This specific check is no longer enforced after you start using paid licenses.</span></span> <span data-ttu-id="6a3c6-106">Geçici Tahliye, Internet servis sağlayıcınızdan (ISS) için yeni bir IP adresi isteyen ya da blok [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) Web sitesinden kaldırılması mümkün olabilir.</span><span class="sxs-lookup"><span data-stu-id="6a3c6-106">You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span>
