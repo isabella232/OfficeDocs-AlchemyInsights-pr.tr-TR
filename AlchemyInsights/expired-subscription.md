@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "456"
+- "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 3a2f33686c2d9fd6803c0a5fc208a2e6bd80cd4b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a32b3df7df1975b69d3c618195ab3dab3a8da51c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402117"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388049"
 ---
 # <a name="expired-subscription"></a>Süresi dolan abonelik
 
@@ -25,17 +27,15 @@ Bir veya daha fazla zaman aşımına uğramış abonelikler varsa görünür. Hi
  **Yeniden etkinleştirme**
   
 1. Yönetim merkezinde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin veya **Faturalama** \> **Abonelikler**’i seçin.
-    
+
 2. Aboneliği yeniden seçin.
-    
+
 3. Sağ tarafta **yeniden etkinleştir**' i seçin.
-    
+
  **Yeni satın alma**
   
 1. Yönetim Merkezi [Satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfasına gidin veya **Faturalama** seçin \> **Satın alma hizmetleri**.
-    
-2. Satın almak istediğiniz bir abonelik seçin.
-    
-3. Taşın üzerine getirin ve **şimdi satın al**' ı seçin.
-    
 
+2. Satın almak istediğiniz bir abonelik seçin.
+
+3. Taşın üzerine getirin ve **şimdi satın al**' ı seçin.

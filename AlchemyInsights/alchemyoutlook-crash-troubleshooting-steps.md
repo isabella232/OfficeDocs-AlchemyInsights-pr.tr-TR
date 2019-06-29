@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883147"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357589"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Sorun giderme adımları outlook çökme
 
@@ -25,10 +27,9 @@ Outlook Masaüstü kilitlenme sorunları yaşıyorsanız, tüm ayrıntılı olar
   
 1. adım: eklentileri ile ilgili olası sorunları araştırmak.
   
-Adım 2: Outlook onarım ve etkilenen bilgisayarda [Outlook başlangıç hatalarını gidermek için destek ve kurtarma Yardımcısı aracını](https://aka.ms/SaRA-OutlookWontStart) çalıştırın. 
+Adım 2: Outlook onarım ve etkilenen bilgisayarda [Outlook başlangıç hatalarını gidermek için destek ve kurtarma Yardımcısı aracını](https://aka.ms/SaRA-OutlookWontStart) çalıştırın.
   
-Adım 3: yeni bir Outlook profili oluşturun veya etkilenen makinede [Outlook profili aracını](https://aka.ms/SaRA-OutlookSetupProfile) çalıştırabilirsiniz. 
+Adım 3: yeni bir Outlook profili oluşturun veya etkilenen makinede [Outlook profili aracını](https://aka.ms/SaRA-OutlookSetupProfile) çalıştırabilirsiniz.
   
 Bir güncelleştirme sonra sorun oluştu ve Yukarıdaki adımlar işe yaramıyor, önceki bir yapı için dönmek gerekebilir. [Office 2013 veya Office 2016 Tıklat-Çalıştır önceki bir sürüme dönmek](https://support.microsoft.com/help/2770432)bkz.
   
-

@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000093
-ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1431"
+- "8000093"
+ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417986"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375809"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>"İznine sahip olmasanız görünüyorsunuz" nasıl
 
 Hata iletisini görürseniz, "biz almak için e-posta... izniniz yok gibi görünüyor" Lütfen aşağıdakileri yapın:
 
-1. [Bağlı hesap ayarları](https://outlook.live.com/mail/options/mail/accounts) ' nı açın ve kaldırmak veya hata listelenen bağlı hesabı silin. 
+1. [Bağlı hesap ayarları](https://outlook.live.com/mail/options/mail/accounts) ' nı açın ve kaldırmak veya hata listelenen bağlı hesabı silin.
 2. Bağlı hesabın yeniden ekleyin.
 3. [Geri gelen kutunuza](https://outlook.live.com/mail/inbox)gidin.
 

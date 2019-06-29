@@ -1,27 +1,29 @@
 ---
-title: Outlook.com kimlik avı
+title: Kimlik avı, Outlook.com ilgilenmek
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/3/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000289
+ms.custom:
+- "1895"
+- "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5543ff98408b394ad77bbe462b80207f12b30702
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0551eb86016b572796a789e6e82fd4c46274bea7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393669"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373577"
 ---
-# <a name="how-to-deal-with-phishing-email-in-outlookcom"></a>Outlook.com kimlik avı e-posta ile başa çıkma
+# <a name="how-to-deal-with-a-phishing-email"></a>Kimlik avı e-posta ile başa çıkma
 
-Kimlik avı dolandırıcılığı yasal gibi görünen ancak, kişisel bilgilerinizi almak veya paranızı çalmak için bir girişim olan bir e-postadır. Dolandırıcılar, sızdırma adı verilen bir teknik bir e-posta kendinizi aldığınız gibi görünmesini sağlamak için de kullanabilirsiniz.
+Kimlik avı dolandırıcılığı yasal gibi görünen ancak gerçekte kişisel bilgiler veya para çalmak için denemesi olan bir e-postadır. Dolandırıcılar, sızdırma adı verilen bir teknik bir e-posta kendinizi aldığınız gibi görünmesini sağlamak için de kullanabilirsiniz.
 
-Kimlik avı dolandırıcılığı gibi görünen bir e-posta alırsanız, bunu iletisini ve ardından **Önemsiz**seçerek bildirebilirsiniz > **kimlik avı** > **rapor**.
+Kimlik avı dolandırıcılığı gibi görünen bir e-posta alırsanız, bunu iletisini ve ardından **Önemsiz**seçerek bildirebilirsiniz > **kimlik avı**.
 
-İleti kimlik avı olarak işaretlediğinizde, yalnızca gönderen bildirir.Bu gönderenden ileride iletileri göndermesini engellemez. Göndereni engellemek için göndereni Engellenen Gönderenler listenize eklemeniz gerekir. Daha fazla bilgi için bkz: [gönderenleri engelleme veya Outlook.com gönderenlerden Engellemeyi Kaldır](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e).
+*Not:* İleti kimlik avı olarak işaretlediğinizde, yalnızca gönderen bildirir.Bu gönderenden ileride iletileri göndermesini engellemez. Göndereni engellemek için göndereni Engellenen Gönderenler listenize eklemeniz gerekir. Daha fazla bilgi için bkz: [gönderenleri engelleme veya Outlook.com gönderenlerden Engellemeyi Kaldır](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
 
-[Kötüye kullanma, kimlik avı veya Outlook.com içinde bilgi sızdırma ile anlaşma](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3) ve [Office 365 aboneleri için Outlook.com Gelişmiş Güvenlik](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2)hakkında daha fazla bilgi edinin.
+[Kötüye kullanma, kimlik avı veya Outlook.com içinde bilgi sızdırma çalışılabilecek](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3) ve [Office 365 aboneleri için Gelişmiş Outlook.com güvenlik](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2)hakkında bilgi edinin.

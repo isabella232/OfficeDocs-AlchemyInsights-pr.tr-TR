@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "232"
+- "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 16fa7c045d4323f2f65d6ae219583affa9e27d37
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e1c773901cf367f40256597e1559da4d5da861c8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401096"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387221"
 ---
 # <a name="font-formatting-problems-in-excel"></a>Excel'de yazı tipi biçimlendirme sorunları
 
-Excel 2016'de yazı tipi biçimlendirmesi doğru bir hücre içinde görünmeyebilir. Bir hücre birden fazla tür yazı tipi biçimlendirmesi içeriyorsa oluşabilir. Örneğin, bazı karakterler, kalın ve kalın diğerleri değildir görünür kalın göremeyebilirsiniz varsa. Veya aynı hücreye farklı renkli karakterler varsa, düzgün görünen renkler göremeyebilirsiniz. Mühendislik ekibimiz bu sorunun farkındadır ve bir düzeltme şu anda çalışıyor. Bu arada, farklı bir yazı tipi kullanmayı deneyin. Veya, bu sorun çözülene kadar içinde aynı hücre biçimlendirme birçok kullanmaktan kaçýnýn. 
+Excel 2016'de yazı tipi biçimlendirmesi doğru bir hücre içinde görünmeyebilir. Bir hücre birden fazla tür yazı tipi biçimlendirmesi içeriyorsa oluşabilir. Örneğin, bazı karakterler, kalın ve kalın diğerleri değildir görünür kalın göremeyebilirsiniz varsa. Veya aynı hücreye farklı renkli karakterler varsa, düzgün görünen renkler göremeyebilirsiniz. Mühendislik ekibimiz bu sorunun farkındadır ve bir düzeltme şu anda çalışıyor. Bu arada, farklı bir yazı tipi kullanmayı deneyin. Veya, bu sorun çözülene kadar içinde aynı hücre biçimlendirme birçok kullanmaktan kaçýnýn.
   
-
