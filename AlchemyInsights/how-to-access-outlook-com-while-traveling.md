@@ -1,44 +1,24 @@
 ---
-title: 8000056 seyahat ederken Outlook.com erişmek nasıl
+title: Seyahat ederken Outlook.com erişmek nasıl
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 5/31/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/6/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000056
+ms.custom:
+- "921"
+- "8000056"
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: 06ffae55cb9683eec2b0df2a87bf6ed4616c306e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 56a0df203b091d2e8addd01a9fcd297fe726ac84
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400151"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385925"
 ---
 # <a name="how-to-access-outlookcom-while-traveling"></a>Seyahat ederken Outlook.com erişmek nasıl
 
-Seyahat ederken Outlook.com erişmek için Microsoft hesap güvenlik bilgisi - güvenlik kodlarını alabileceğiniz bir diğer e-posta adresi veya telefon numarası - güncel olduğundan emin olun.
-  
-1. [Güvenlik temelleri](https://go.microsoft.com/fwlink/p/?linkid=842325) sayfasına gidin ve sizin Microsoft hesapla oturum açın. 
-    
-2. **Bilgilerini güncelleme** seçin \> **Güvenlik bilgisi Ekle**. 
-    
-3. E-posta veya telefon numaranızı girmek için yönergeleri izleyin. Microsoft, bu yeni e-posta adresi veya telefon numarası için güvenlik kodu gönderir.
-    
-4. Güvenlik kodunu girin ve **İleri**tuşuna basın. Yeni güvenlik bilgilerinizi listenizde görünür. 
-    
-Aygıtınızın tatile gideceksiniz ve güvenlik kodlarını alamaz, güvenilir bir aygıt olun. Bu Microsoft için Outlook.com aygıtta oturum açtığınızda kimlik doğrulama kodlarını göndermeyecek anlamına gelir.
-  
-1. Güvenilir bir aygıt olun, [güvenlik ayarları](https://go.microsoft.com/fwlink/p/?linkid=2002000&amp;clcid=0x409) sayfasına gidin ve Microsoft hesabınızda oturum açmayı istediğiniz aygıtı. 
-    
-2. E-posta, metin ya da kimlik doğrulayıcısı uygulaması aracılığıyla bir güvenlik kodu almak bu seçeneği seçin. Kod olduktan sonra metin kutusuna girin.
-    
-3. Onay kutusunu seçmek için **sık sık bu aygıtta oturum. İçin bir kod sorma.**
-    
-4. **Gönder**' i seçin. 
-    
-Otomatik yanıtlar için kendi iletilerini hemen yanıt gerekmez söylemek için kullanın. Öğrenmek nasıl [Outlook.com otomatik yanıtlar Gönder](https://go.microsoft.com/fwlink/p/?linkid=2002100&amp;clcid=0x409).
-  
-
+Seyahat ederken Outlook.com erişmek için Microsoft hesap güvenlik bilgisi - güvenlik kodlarını alabileceğiniz bir diğer e-posta adresi veya telefon numarası - güncel olduğundan emin olun. Daha fazla bilgi için bkz: [seyahat ederken Outlook.com erişmek nasıl](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e).

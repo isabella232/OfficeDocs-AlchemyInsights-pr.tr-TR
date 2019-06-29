@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914126"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381893"
 ---
 # <a name="install-visio"></a>Visio yükleyin
 
 Visio tek başına uygulama olarak satılan bunu onu henüz, [satın almak veya Visio deneyin](https://products.office.com/visio)yoksa. 
 
-Visio çevrimiçi planı 2 bir aboneliğiniz varsa, kullanıcılar bir [Lisans atadığınız](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764)yoksa Visio **Benim yükler** [Benim hesap portal](https://portal.office.com/account#installs) yüklemek için bir seçenek görmezsiniz.
-
 **Not**: Visio çevrimiçi planı 1 Visio, masaüstü sürümü içermez, böylece yükleme mümkündür.
 
-[Visio yükleme](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764)karşıdan yükleme ve Visio özel yönergeler için bkz. 
+Visio çevrimiçi planı 2 bir aboneliğiniz varsa, bir kullanıcı için [bir lisans atamak](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) gerekir veya Visio **Benim yükler** [Benim hesap portal](https://portal.office.com/account#installs)yükleme seçeneğine sahip olmaz. 
 
-Geçerli bir abonelik/lisans varsa ve sorunlar Kurulum sırasında çalıştırıyorsanız, [Destek ve kurtarma Yardımcısı'nı](https://aka.ms/SaRA-VisioSetupScenario)kullanarak Visio yüklemeyi deneyin.
+Visio Standard veya Visio Professional olmayan toplu lisans sürümlerini Microsoft firmalarla ilişkili ve Yönetim Merkezi yönetilen. Bu sürümlerini yüklemek için kullanıcılar [account.microsoft.com](https://account.microsoft.com) için Visio sürümüyle ilişkilendirilmiş Microsoft hesabıyla kaydolmalısınız.
+
+Daha ayrıntılı yardım için bkz: [Visio yüklemek](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) ve Visio sürümünüze uygun adımları izleyin.
 
 Daha fazla bilgi için bkz:<br>
 [Visio için Dağıtım Kılavuzu](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>

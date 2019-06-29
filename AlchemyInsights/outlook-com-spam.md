@@ -1,34 +1,29 @@
 ---
-title: Outlook.com istenmeyen posta ve Önemsiz
+title: İstenmeyen posta ve Outlook.com içinde Önemsiz postalarla
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 31d81e48cfbc02ad5f93faf1aa707f98a3c67f8e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1896"
+- "9000290"
+ms.openlocfilehash: 37e37c7c810ef23182d6d31eec14b0dfa01b615e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373552"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372029"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Outlook.com, istenmeyen posta ve önemsiz e-posta
+# <a name="mark-email-messages-as-junk"></a>E-posta iletileri Önemsiz olarak işaretleme
 
-E-posta önemsiz veya istenmeyen posta olarak işaretlemek için:
+Bir iletiyi önemsiz veya istenmeyen posta olarak işaretlemek için ileti listesinde iletiyi seçin ve **Önemsiz**seçin > **Önemsiz**.
 
-1. İleti veya iletiler, ileti listesinde seçin.
-1. **Önemsiz**ileti listesinin seçin > **Önemsiz**.
+Belirli bir e-posta adresinden gelen tüm iletileri engellemek için ileti veya iletiler, ileti listesinde seçin ve sonra **Önemsiz**seçin > **bloğu**.
 
-**Not:** Bir e-posta iletisi spam olmadığını fark ederseniz, (olması için Önemsiz e-posta klasörünüze) iletiyi yeniden seçin ve **Önemsiz**seçin > **Önemsiz değil**. Önemsiz e-posta klasöründeki öğeler 30 gün sonra silinir.  [Canlı istenmeyen posta ve önemsiz e-posta kutunuzdan Outlook.com yardımcı olma hakkında daha fazla bilgi edinin.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)
+Yanlışlıkla bir iletiyi önemsiz olarak işaretlerseniz, ileti, [Önemsiz e-posta klasörü](https://outlook.live.com/mail/junkemail) seçip, **Önemsiz** > **Önemsiz değil**. (*Not:* , önemsiz e-posta klasöründeki öğeler 30 gün sonra silinir.)
 
-Belirli bir e-posta adresleri veya etki alanlarından gelen tüm iletileri engellemek için:
-
-1. İleti veya iletiler, ileti listesinde seçip, ardından **Önemsiz** > **Blok** > **Tamam**. (E-posta iletisi yeni bir pencerede açık ise, **Blok** penceresinin üstünde bir seçenek olarak görünür.)
-1. [Önemsiz e-posta ayarlarını](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2)açmak, e-posta adresi veya engellemek istediğiniz etki alanını girin ve **Ekle**' yi seçin > **kaydedin**.
-1. [Önemsiz e-posta filtreleri](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption)yalnızca e-posta adresleri Güvenli Gönderenler ve etki alanlarının listesi ve güvenli posta listeleri güvenmeyi seçebilirsiniz.
-
-[Engellemek veya izin vermek, Outlook.com Gönderenler hakkında daha fazla bilgi edinin.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)
+Daha fazla bilgi için [e-posta önemsiz veya blok gönderenlerden Outlook.com olarak işaretle](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)okuyun.
