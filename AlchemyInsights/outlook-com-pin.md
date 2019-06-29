@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000233
-ms.openlocfilehash: af81ead91c865d2b36ea20476b91c51e36452690
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1817"
+- "9000233"
+ms.openlocfilehash: 4a3813c9c926e7a6b9106703204dae644b06b84a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392430"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373469"
 ---
 # <a name="change-your-pin"></a>PIN'İNİZİ değiştirmek
 
 Outlook.com PIN kullanmaz, ancak PIN veya Windows Merhaba PC'NİZLE oturum. Windows 10 PIN kodunuzu değiştirmek için:
 
-1. Başlat'a gidin ve sonra **Ayarlar**' ı seçin > **Firmalar** > **oturum seçenekleri**.
+1. Başlat düğmesini seçin veya klavyenizde Windows tuşuna basın, ardından **Ayarlar**' ı seçin > **Firmalar** > **oturum seçenekleri**.
 2. **PIN**altında **Değiştir** düğmesini seçin.
 3. Geçerli PIN kodunuzu girin sonra girin ve altındaki Yeni PIN'İNİZİ onaylayın.
 

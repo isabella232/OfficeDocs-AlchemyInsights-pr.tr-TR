@@ -8,21 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f57713db-eb98-4980-a7fc-b53bf80f7e81
-ms.openlocfilehash: 80cbf08ede54fa97da4a8b8fa4365fe15ea0bae1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "113"
+- "1600012"
+ms.openlocfilehash: fe2e412362246f4126bb8ed71d853858e92ef15a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32378048"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35369217"
 ---
 # <a name="service-incident-in-progress"></a>Devam eden hizmet olayı
 
-Bir hizmeti olay tarafından etkilenen veya danışma, şu anda incelenmektedir. [Hizmet durumu](https://admin.microsoft.com/adminportal/home#/servicehealth) sayfasına giderek son durumunu denetleyebilirsiniz. 
+Bir hizmeti olay tarafından etkilenen veya danışma, şu anda incelenmektedir. [Hizmet durumu](https://admin.microsoft.com/adminportal/home#/servicehealth) sayfasına giderek son durumunu denetleyebilirsiniz.
   
 Kolaylık olması için bu olay aşağıdaki özetini bulabilirsiniz:
   
 > **Olay numarası:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Açıklama etkisi: {ImpactDescription}
-    
-

@@ -9,19 +9,22 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1647"
+- "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 0ccdc524625ac76031004300a2406d5bfddcc759
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 8b49afcf50e5eb53f517bbdbd002fb80dddb6f9b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770336"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389705"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>Özel bir tür DLP gerekebilir
 
 Veri kaybını önleme (DLP) ilkesi ile tanımlamak ve kuruluşunuzdaki önemli verileri koru. Bazı senaryolarda, kuruluunuzun verilerini korumak için kendi **Özel** önemli bilgiler türünüzü oluşturmanız gerekebilir.
 
-Örneğin, kuruluşunuzun tanımlamak ve çalışan kimliklerini veya diğer bazı biçiminde, Krlş. için belirli veri koruma gerekebilir Öyleyse, daha fazla bilgi için aşağıdaki makalelere bakın. 
+Örneğin, kuruluşunuzun tanımlamak ve çalışan kimliklerini veya diğer bazı biçiminde, Krlş. için belirli veri koruma gerekebilir Öyleyse, daha fazla bilgi için aşağıdaki makalelere bakın.
   
  **Yerleşik hassas bilgilerin türünü özelleştirin**
   
@@ -29,10 +32,8 @@ Yerleşik hassas bilgilerin türü birkaç tweaks ile gereksinimlerinizi karşı
   
  **Özel hassas bilgi türü oluştur**
   
-Ancak tanımlamak ve hassas bilgiler farklı türde tamamen korumak gerekiyorsa, kullanıcı arabiriminde Uyumluluk Merkezi güvenlik &, [özel önemli bilgiler türü oluşturmak](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) olabilir. 
+Ancak tanımlamak ve hassas bilgiler farklı türde tamamen korumak gerekiyorsa, kullanıcı arabiriminde Uyumluluk Merkezi güvenlik &, [özel önemli bilgiler türü oluşturmak](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) olabilir.
   
 **Güvenlik & Uyumluluk Merkezi PowerShell özel önemli bilgiler türü oluştur**
 
 Gereksinim duyduğunuz tüm seçenekleri UI vermiyorsa, son olarak, [Güvenlik & Uyumluluk Merkezi PowerShell özel önemli bilgiler yazıyla](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell)oluşturabilirsiniz. Bir XML dosyası ile başlayarak kullanılabilir her seçeneği kullanabilirsiniz.
-
-    

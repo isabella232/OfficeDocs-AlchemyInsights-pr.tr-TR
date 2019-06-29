@@ -1,26 +1,34 @@
 ---
-title: Outlook.com Dur iletileri gelen önemsiz klasöre gitme
+title: İletilerin Önemsiz e-posta klasörüne Outlook.com gitme Dur
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/16/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1897"
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373264"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371813"
 ---
-# <a name="stop-messages-going-to-your-junk-email-folder"></a>Dur iletileri Önemsiz e-posta klasörünüze gitme
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Dur iletileri gelen önemsiz e-posta klasörünüze gitme
 
-Önemsiz e-posta klasörünüzdeki e-posta iletisine istenmeyen veya önemsiz değildi fark ederseniz:
+Önemsiz e-posta iletisinde, önemsiz e-posta klasörünüze olmadığını fark ederseniz:
 
-1. [Önemsiz e-posta klasörünü](https://outlook.live.com/mail/junkemail) açın ve iletiyi seçin. (Önemsiz e-posta klasöründeki öğeler 30 gün sonra silinir.)
+1. [Önemsiz e-posta klasörünü](https://outlook.live.com/mail/junkemail)açın.
+1. İletiyi seçin. (*Not:* , önemsiz e-posta klasöründeki öğeler 30 gün sonra silinir.)
 1. İleti listesinin, **Önemsiz**seçin > **Önemsiz değil**.
+
+Bir gönderenden gelen tüm iletileri Önemsiz e-posta klasörüne gitmesini engellemek istiyorsanız, göndereni Güvenli Gönderenler listenize ekleyin:
+
 1. [Önemsiz e-posta ayarlarını](https://go.microsoft.com/fwlink/?linkid=2035804)açın.
-1. Altında **Güvenilir Gönderenler**, e-posta adresi veya etki alanı eklemek istediğiniz girin ve **Ekle**' yi seçin. Adresleri veya Güvenli Gönderenler listesi, önemsiz e-posta klasörünüze taşınan yoksa üzerinde etki alanlarından gelen e-posta.
+1. **Güvenli Gönderenler ve etki alanları**altında **Ekle**' yi seçin, e-posta adresi veya etki alanı eklemek istediğiniz girin ve **Kaydet**' i seçin.
+
+Daha fazla bilgi için [e-posta önemsiz veya blok gönderenlerden Outlook.com olarak işaretle](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)okuyun.
