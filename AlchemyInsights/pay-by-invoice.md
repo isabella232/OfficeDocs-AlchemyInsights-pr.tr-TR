@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "492"
+- "1500024"
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: aa1dafada1f55da1b4d561f0facf5307925d37a0
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6d6ab46e54379fbd4c62dab4953299167438c26f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372616"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360865"
 ---
 # <a name="pay-by-invoice"></a>Fatura ile ödeme
 
@@ -28,4 +30,3 @@ Aboneliğiniz için fatura ile ödeme yapıyorsanız, fatura özeti görüntüle
   
 Değiştirmek için arıyorsanız ödeme yöntemleri [Office 365 iş için Ödeme yönteminizi değiştirme](https://support.office.com/article/8652f539-3123-4a8f-b9bd-6aa2f0e0372d)konusuna bakın.
   
-

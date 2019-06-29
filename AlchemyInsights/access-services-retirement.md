@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769486"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359391"
 ---
 # <a name="access-services-retirement"></a>Access services emeklilik
 
@@ -24,7 +27,7 @@ Haziran 2019 başlayarak, biz yeni Access veritabanlarında SharePoint çevrimi�
 
 **Bu değişikliğe hazırlanmak için ne yapmalıyım?**
 
-Kuruluşunuzun Access web veritabanları için bir geçiş planı oluşturmak için önerilir. Yöneticileri [SharePoint erişimi app tarayıcı](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) siteleri kullanarak erişim apps envanterini elde etmek için kullanabilirsiniz. 
+Kuruluşunuzun Access web veritabanları için bir geçiş planı oluşturmak için önerilir. Yöneticileri [SharePoint erişimi app tarayıcı](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) siteleri kullanarak erişim apps envanterini elde etmek için kullanabilirsiniz.
 
 Access web veritabanları veri taşımak için birkaç yolu vardır:
 

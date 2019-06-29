@@ -7,14 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 997
-ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "997"
+- "6500005"
+ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
+ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771434"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354025"
 ---
 # <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Takımlar için ücretsiz kaydolun istersiniz, ancak bağlanamıyorum.
 
@@ -23,5 +25,3 @@ ms.locfileid: "34771434"
 - Akademik kuruluşlara bu ücretsiz teklif için uygun değildir. Ancak, Öğretmenler ve öğrenciler, Microsoft Teams tam sürümünü içeren Office 365 ücretsiz sürümünü alabilirsiniz. [Office 365 Microsoft ekipleri lisans](https://docs.microsoft.com/microsoftteams/office-365-licensing)konusuna bakın.
 
 - ABD devlet kurumları bu ücretsiz teklif için uygun değildir. Office 365 planları için hükümet kurumları (ücretsiz deneme sürümü dahil) hakkında bilgi edinmek için [Office 365 Microsoft ekipleri Lisansı'nı](https://docs.microsoft.com/microsoftteams/office-365-licensing)okuyun.
-
-
