@@ -3,25 +3,25 @@ title: E-posta adresimi Outlook.com değiştirme
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/20/2019
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "8000010"
 - "259"
+- "8000010"
 ms.assetid: fa795da0-f04b-4032-bd27-177ecdd488f9
-ms.openlocfilehash: 95f6aab3f502d4eab98579ac3391b716c2959b2e
-ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
+ms.openlocfilehash: 127494523ecf5d55ba9fb6e084b45cb5ac9dda3f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34325808"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376493"
 ---
 # <a name="change-your-email-address"></a>E-posta adresinizi değiştirme
 
 E-posta adresinizi değiştirmek için başka bir tane eklemek ve birincil e-posta diğer adınızı yapmak gerekecektir.
   
-[Ekleme veya kaldırma bir e-posta diğer adı Outlook.com'ndaki](https://go.microsoft.com/fwlink/p/?linkid=873115)yönergeleri izleyin.
+[Ekleme veya kaldırma bir e-posta diğer adı Outlook.com'ndaki](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)yönergeleri izleyin.

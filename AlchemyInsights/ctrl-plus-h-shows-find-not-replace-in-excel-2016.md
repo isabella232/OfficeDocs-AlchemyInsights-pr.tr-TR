@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "235"
+- "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 0a398d2d6792e9e6af33dfe0678e40f71f6928ac
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3437582885556104ad4eea14845acb0fd1c431fb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406486"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362950"
 ---
 # <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H Bul, Excel'de değiştirmez gösterir.
 
 Excel 2016, CTRL + H tuşlarına basarak Bul ve Değiştir iletişim kutusunu açar ve Bul sekmesini gösterir, Değiştir sekmesini yerine Giriş sekmesinde Değiştir'i tıklatarak aynı şeyi yapar. 1708 (8431.2094) sürümünde bu sorun giderilmiştir. Bu sorunu gidermek için Office'in en son sürüme güncelleştirin. **Dosyayı** seçin \> **Hesap** \> **güncelleştirme seçenekleri** \> **Şimdi Güncelleştir**.
   
-
