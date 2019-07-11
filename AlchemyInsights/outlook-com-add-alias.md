@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: b964252af07e990bd0802484a3b042448c931b57
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9553fc152c12fd4b1799b781707588f977bcc53d
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377717"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614118"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a><span data-ttu-id="bcc2e-102">Outlook.com içinde bir e-posta diğer adı Ekle</span><span class="sxs-lookup"><span data-stu-id="bcc2e-102">Add an email alias in Outlook.com</span></span>
+# <a name="add-an-email-alias-in-outlookcom"></a><span data-ttu-id="f220b-102">Outlook.com içinde bir e-posta diğer adı Ekle</span><span class="sxs-lookup"><span data-stu-id="f220b-102">Add an email alias in Outlook.com</span></span>
 
-<span data-ttu-id="bcc2e-103">Bir diğer birincil e-posta adresiniz aynı gelen kutusu, kişi listesi ve hesap ayarlarını kullanan bir ek e-posta adresidir.</span><span class="sxs-lookup"><span data-stu-id="bcc2e-103">An alias is an additional email address that uses the same inbox, contact list, and account settings as your primary email address.</span></span> <span data-ttu-id="bcc2e-104">Posta göndermek için e-posta adresi ve Outlook.com hesabınızı herhangi diğer adları, oturum açabilirsiniz seçebileceğiniz — hepsi aynı parolayı kullanın.</span><span class="sxs-lookup"><span data-stu-id="bcc2e-104">You can choose which email address to send mail from, and you can sign in to your Outlook.com account with any of your aliases — they all use the same password.</span></span>
+<span data-ttu-id="f220b-103">Bir diğer birincil e-posta adresiniz aynı gelen kutusu, kişi listesi ve hesap ayarlarını kullanan bir ek e-posta adresidir.</span><span class="sxs-lookup"><span data-stu-id="f220b-103">An alias is an additional email address that uses the same inbox, contact list, and account settings as your primary email address.</span></span> <span data-ttu-id="f220b-104">Posta göndermek için e-posta adresi ve Outlook.com hesabınızı herhangi diğer adları, oturum açabilirsiniz seçebileceğiniz — hepsi aynı parolayı kullanın.</span><span class="sxs-lookup"><span data-stu-id="f220b-104">You can choose which email address to send mail from, and you can sign in to your Outlook.com account with any of your aliases — they all use the same password.</span></span>
 
-<span data-ttu-id="bcc2e-105">E-posta adresi eklemek için:</span><span class="sxs-lookup"><span data-stu-id="bcc2e-105">To add an email address:</span></span>
+<span data-ttu-id="f220b-105">E-posta adresi eklemek için:</span><span class="sxs-lookup"><span data-stu-id="f220b-105">To add an email address:</span></span>
 
-1. <span data-ttu-id="bcc2e-106">[Bir diğer ad Ekle](https://go.microsoft.com/fwlink/p/?linkid=864833)gidin.</span><span class="sxs-lookup"><span data-stu-id="bcc2e-106">Go to [Add an alias](https://go.microsoft.com/fwlink/p/?linkid=864833).</span></span> <span data-ttu-id="bcc2e-107">İstendiğinde Microsoft hesabınıza oturum açın.</span><span class="sxs-lookup"><span data-stu-id="bcc2e-107">Sign in to your Microsoft account, if prompted.</span></span>
-2. <span data-ttu-id="bcc2e-108">**Bir diğer ad Ekle**altında ya da:</span><span class="sxs-lookup"><span data-stu-id="bcc2e-108">Under **Add an alias**, either:</span></span>
-    1. <span data-ttu-id="bcc2e-109">Outlook.com yeni bir e-posta adresi oluşturmak ve bir diğer ad ekleyin.</span><span class="sxs-lookup"><span data-stu-id="bcc2e-109">Create a new Outlook.com email address and add it as an alias.</span></span>
-    2. <span data-ttu-id="bcc2e-110">Varolan bir e-posta adresi, bir diğer ad ekleyin.</span><span class="sxs-lookup"><span data-stu-id="bcc2e-110">Add an existing email address as an alias.</span></span>
-3. <span data-ttu-id="bcc2e-111">**Diğer ad Ekle'yi**seçin.</span><span class="sxs-lookup"><span data-stu-id="bcc2e-111">Select **Add alias**.</span></span>
+1. <span data-ttu-id="f220b-106">[Bir diğer ad Ekle](https://go.microsoft.com/fwlink/p/?linkid=864833)gidin.</span><span class="sxs-lookup"><span data-stu-id="f220b-106">Go to [Add an alias](https://go.microsoft.com/fwlink/p/?linkid=864833).</span></span> <span data-ttu-id="f220b-107">İstendiğinde Microsoft hesabınıza oturum açın.</span><span class="sxs-lookup"><span data-stu-id="f220b-107">Sign in to your Microsoft account, if prompted.</span></span>
+2. <span data-ttu-id="f220b-108">**Bir diğer ad Ekle**altında ya da:</span><span class="sxs-lookup"><span data-stu-id="f220b-108">Under **Add an alias**, either:</span></span>
+    1. <span data-ttu-id="f220b-109">Outlook.com yeni bir e-posta adresi oluşturmak ve bir diğer ad ekleyin.</span><span class="sxs-lookup"><span data-stu-id="f220b-109">Create a new Outlook.com email address and add it as an alias.</span></span>
+    2. <span data-ttu-id="f220b-110">Varolan bir e-posta adresi, bir diğer ad ekleyin.</span><span class="sxs-lookup"><span data-stu-id="f220b-110">Add an existing email address as an alias.</span></span>
+3. <span data-ttu-id="f220b-111">**Diğer ad Ekle'yi**seçin.</span><span class="sxs-lookup"><span data-stu-id="f220b-111">Select **Add alias**.</span></span>
 
-<span data-ttu-id="bcc2e-112">[Eklemek](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2)veya bir e-posta diğer adı Outlook.com kaldırma hakkında daha fazlasını okuyun.</span><span class="sxs-lookup"><span data-stu-id="bcc2e-112">Read more about how to [add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2).</span></span>  
+<span data-ttu-id="f220b-112">[Eklemek](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)veya bir e-posta diğer adı Outlook.com kaldırma hakkında daha fazlasını okuyun.</span><span class="sxs-lookup"><span data-stu-id="f220b-112">Read more about how to [add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>  
 
-<span data-ttu-id="bcc2e-113">[Başka bir e-posta hesabına bağlanmak üzere nasıl](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) Outlook.com hesabınızı okuyun.</span><span class="sxs-lookup"><span data-stu-id="bcc2e-113">Read [how to connect another email account](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) to your Outlook.com account.</span></span>
+<span data-ttu-id="f220b-113">[Başka bir e-posta hesabına bağlanmak üzere nasıl](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) Outlook.com hesabınızı okuyun.</span><span class="sxs-lookup"><span data-stu-id="f220b-113">Read [how to connect another email account](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) to your Outlook.com account.</span></span>
