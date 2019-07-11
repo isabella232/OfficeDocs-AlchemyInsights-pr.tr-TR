@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1825"
 - "9000240"
-ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 77ae61c4c92497fe35cea8f0be18f90385d38df5
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372569"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614010"
 ---
 # <a name="replying-in-outlookcom"></a>Outlook.com içinde yanıtlama
 
@@ -39,4 +39,4 @@ Tüm iletilere otomatik olarak yanıt vermek için:
 5. Yalnızca, ilgili kişilerinize yanıtları göndermek için **yalnızca ilgili kişiler için yanıtları gönder** onay kutusunu seçin.
 6. **Kaydet** 'i seçin.
 
-[Outlook.com otomatik iletme](https://support.office.com/article/14614626-9855-48dc-a986-dec81d07b1a0)hakkında daha fazla bilgi edinin.
+[Outlook.com otomatik iletme](https://support.office.com/article/14614626-9855-48dc-a986-dec81d07b1a0?wt.mc_id=Office_Outlook_com_Alchemy)hakkında daha fazla bilgi edinin.

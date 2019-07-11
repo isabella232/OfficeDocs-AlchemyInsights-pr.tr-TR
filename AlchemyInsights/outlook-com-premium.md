@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: e3640f6792410551aef2b9d22b8dc6922c04027f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4bcf87b2914c22b522dd29b2e754a16a7a31e28c
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373325"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614058"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com Premium
 
 **Mevcut Premium aboneler**
 
-- Outlook.com Premium abonelik varsa, [Outlook.com Premium SSS](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b)okuyun.
+- Outlook.com Premium abonelik varsa, [Outlook.com Premium SSS](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy)okuyun.
 
 **Yeni üyelerin**
 
 - Üzgünüz, ancak yeni abonelere Outlook.com Premium şimdi kapalı.
-- Çok [özellikleri ve yararları](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2) olan [Home Office 365'yi ve Office 365 kişisel abonelikleri](https://go.microsoft.com/fwlink/?linkid=2017122)ile dahil.
+- Çok [özellikleri ve yararları](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) olan [Home Office 365'yi ve Office 365 kişisel abonelikleri](https://go.microsoft.com/fwlink/?linkid=2017122)ile dahil.
