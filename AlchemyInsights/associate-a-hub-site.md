@@ -11,22 +11,23 @@ ms.custom:
 - "1012"
 - "5300012"
 ms.assetid: 50249bb9-3c28-408f-946b-2caab6b1b9f4
-ms.openlocfilehash: 88086a37b30448b6849f78f7504e64f5c38ecbee
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4915604747f504ddc321f6f845940218743c6c4f
+ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360472"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35802806"
 ---
 # <a name="associate-a-hub-site"></a>Bir Hub sitesi ilişkilendirme
 
 Varolan bir sitenin, hub sitesine ilişkilendirmek için aşağıdakileri yapın:
   
-1. Sitenizde,'ı **ayarları (** sağ üst köşedeki çark simgesi) ve **Site bilgileri**' ni tıklatın.
+1. Sitenizin **ayarlarını** (sağ üst köşedeki çark simgesi) seçin ve sonra **Site bilgilerini**seçin.
 
-2. Düzenleme site Bilgi panelinde, Hub site ilişkilendirmesini altında sitenize ilişkilendirmek istediğiniz hub sitesi seçin ve **Kaydet**' i tıklatın. Hub sitesi eşleştirmek için sitenizin görünümünü değiştirir ve hub sitesi gezinti çubuğunun üstünde görünür.
+2. **Site bilgilerini düzenleme** panelinde, **Hub site ilişkilendirmesini** menüsünde ilişkilendirmek istediğiniz hub sitesi seçin, sitenizin iseniz ve **Kaydet**' i seçin. Hub sitesi eşleştirmek için sitenizin görünümünü değiştirir ve hub sitesi gezinti çubuğunun üstünde görünür.
 
- **Not**: Hub site ilişkilendirmesini seçeneği mevcut değilse veya hiçbir siteleri listeleniyor, hub sitelerde etkinleştirilmemiş olabilir veya siteleri bir hub siteyle ilişkilendirme izniniz olmayabilir. Daha fazla bilgi için yöneticinize başvurun.
-  
- **Not:** Hub site ile ilişkili site sayısına bir sınır yoktur.
+ > [!Note]
+>Hub site ilişkilendirmesini seçeneği mevcut değilse veya hiçbir siteleri listeleniyor, hub sitelerde etkinleştirilmemiş veya siteleri bir hub siteyle ilişkilendirme izniniz olmayabilir. Daha fazla bilgi için yöneticinize başvurun.
+
+>Hub site ile ilişkili site sayısına bir sınır yoktur.
   

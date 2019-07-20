@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: 07b60aa96a42511f3bfbfe0d63b8107a0cfd87e2
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 5387aeaff7be7df4dc44723f420ff2c5784cd260
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752909"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800137"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>OneNote eşitleme sorunlarını giderme
+
+* OneNote eşitlemek için ilgili sorunları en yaygın yönelik olarak, lütfen [OneNote eşitleyemiyor zaman sorunlarını giderecek](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)adımları kullanın.
 
 Eşitlenmez Not OneDrive veya daha yeni sürümlerini SharePoint üzerinde saklanıyorsa, Not Defteri (www.onenote.com) OneNote Online açmayı deneyin. Bu sunucu veya OneNote tarafından soruna neden olup olmadığını belirlemek yardımcı olabilir.
 
@@ -33,5 +35,3 @@ Eşitlenmez Not OneDrive veya daha yeni sürümlerini SharePoint üzerinde sakla
 Not defterini açamıyor OneNote Online ve değişiklikleri görünür, OneNote, masaüstü sürümü ile soruna neden olabilir. Not Defteri yeniden açma ve kapatma genellikle temizler ve başarılı bir şekilde bağlantıyı sıfırlar.
 
 * [Güncelleştirmeleri yüklemeden Office'deki](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) adımları, Bilgisayarınızda en son OneNote güncelleştirmeleri yüklemek için öneririz. Üzerinde bir Mac kullanıyorsanız, [Office Mac güncelleştirmelerini otomatik olarak denetle](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1)bölümündeki adımları izleyin.
-
-* Sorunları OneeNote eşitleme için ilgili en yaygın adres, lütfen [OneNote eşitleyemiyor zaman sorunlarını giderecek](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)adımları kullanın.
