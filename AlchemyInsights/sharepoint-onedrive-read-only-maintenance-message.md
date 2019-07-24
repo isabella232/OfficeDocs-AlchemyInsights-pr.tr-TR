@@ -1,7 +1,7 @@
 ---
-title: 127 e-posta erişirken bir TenantAccessBlockedException hatası alınıyor?
-ms.author: kirks
-author: Techwriter40
+title: SharePoint veya OneDrive kullanmaya çalışırken bakım ileti için salt okunur
+ms.author: efrene
+author: efrene
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -12,27 +12,27 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5613138e7613deb264a7ab2c966f8b9c4a24763d
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
+ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736422"
+ms.lasthandoff: 07/24/2019
+ms.locfileid: "35840535"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>SharePoint veya OneDrive kullanmaya çalışırken bakım ileti için salt okunur
 
-Kullanıcılar SharePoint veya OneDrive kullanmaya çalışırken bir salt okunur bakım ileti alabilirsiniz.
+Kullanıcılar, SharePoint veya OneDrive kullanmaya çalışırken bir **Bakım için salt okunur** ileti alabilirsiniz.  Bu durumda, [İleti Merkezi](https://portal.office.com/adminportal/home#/MessageCenter)giderek, Kiracı üzerinde gerçekleşen etkin bakım olup olmadığını denetleyin. Ayrıca, herhangi danışma /, oluşabilecek KAZALARI için denetlemek için [Sağlık Hizmeti](https://portal.office.com/adminportal/home#/servicehealth) panoyu kontrol ettiğinizden emin olun.
 
-[İleti Merkezi](https://portal.office.com/adminportal/home#/MessageCenter)giderek, Kiracı üzerinde gerçekleşen etkin bakım olup olmadığını denetleyin. Son olarak, tüm danışma /, oluşabilecek KAZALARI için denetlemek için[Hizmet durumu](https://portal.office.com/adminportal/home#/servicehealth) sayfasını ziyaret edin emin olun.
-
-İleti Merkezi veya hizmetleri sağlık Panosu ne geçerli bakımı hakkında herhangi bir şey için Kiracı dikkate aldıysanız bu sorunu önbelleğe tarayıcı olabilir.
+Pano ne ileti merkezi ya da Sağlık Hizmeti geçerli bakımı hakkında hiçbir şey, Kiracı için dikkate aldıysanız, bu sorunu önbelleğe tarayıcı olabilir.
 
 Lütfen siteye gitmeden önce tarayıcı önbelleği temizlemek deneyin.
 
-- Microsoft Edge tarayıcıda daha Ayarları'na gidin.
+1. Microsoft Edge tarayıcınızın **ayarlarını**seçin ve ardından **Gizlilik ve güvenlik**seçin.
+2. **Clear göz**altında **temizlemek ne seçin**seçin.
+3. **Tanımlama bilgileri ve kaydedilmiş Web sitesi verilerini**seçin ve **Temizle'yi**seçin.
 
-- Clear gözatma altında ne temizlemek Seç.
-- Tanımlama bilgileri ve kaydedilmiş Web sitesi verileri onay kutusunu seçin ve Temizle'yi seçin.
+>[!Note] 
+> Bu adımlar, Mozilla Firefox veya Google Chrome gibi başka tarayıcıları kullanırken, farklı olabilir.
 
-**Not**: aşağıdaki adımları Firefox veya krom gibi başka tarayıcıları kullanırken, farklı olabilir.
-
+>[!Note] 
+> SharePoint sitesi veya OneDrive yeni InPrivate penceresinde açmak için başka bir seçenek olacaktır.
