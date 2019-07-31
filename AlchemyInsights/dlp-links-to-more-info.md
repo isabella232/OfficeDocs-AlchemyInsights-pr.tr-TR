@@ -12,20 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: cf18afc7c2ab07b3318a9c79ad657a83810e5a42
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.openlocfilehash: 7687f6cb4a2e71a68edc762e69ccee2994e60c6f
+ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35475551"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35941124"
 ---
 # <a name="more-info-about-dlp-issues"></a>DLP sorunlar hakkında daha fazla bilgi
 
-DLP İlkesi ile tanımlamak, izlemek ve otomatik olarak Office 365 arasında hassas bilgileri koruyun. 
+DLP İlkesi ile tanımlamak, izlemek ve otomatik olarak Office 365 arasında hassas bilgileri koruyun.
 
 Daha fazla bilgi için bu bağlantıları ziyaret edin:
 
 - [Veri kaybını önleme genel bakış](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies)
+- [Hassas bilgi türlerini aramak](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- [Özel hassas bilgi türü oluştur](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type)
+- [E-posta bildirimlerini göndermek ve ilke ipuçlarını göster](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips)
 - [DLP ve bekletme etiketleri ile çevrimiçi SharePoint dosyaları koruma](https://docs.microsoft.com/en-us/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
 - [DLP ve Microsoft ekipleri](https://docs.microsoft.com/en-us/office365/securitycompliance/dlp-microsoft-teams)
 
