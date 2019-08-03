@@ -8,24 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: ''
-ms.openlocfilehash: 4298bb2ac29affef0c879f567ea62d0a149c2139
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.custom:
+- "9000641"
+- "2478"
+ms.openlocfilehash: e7494964f08c7300c9329330b758edf7e0380554
+ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34934314"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171270"
 ---
 # <a name="fix-outlook-on-the-web-sync-issues"></a>Outlook Web eşitleme sorunları düzeltme
 
 Outlook Web posta kutunuza bağlanmak için kullandığınız mobil aygıtları gösterir. Artık bir aygıt kullanıyorsanız veya aygıtla eşitleme düzgün değilse, bu listeden silebilirsiniz.
 
-1. **Ayarlar**' ı seçin > **tüm Outlook ayarları görüntülemek** > **Genel** > **mobil aygıtlar**.
-1. Aygıtınız listede üzerine imleci getirin ve sonra aygıt ortaklığını silmek için Çöp Kutusu simgesini seçin.
+1. Seçin <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ **Ayarları** > **tüm Outlook ayarları görüntülemek** > **Genel** > **mobil aygıtlar**.
+1. Aygıtınız listede üzerine imleci getirin ve sonra Çöp Kutusu simgesini seçin. <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAASCAYAAACEnoQPAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wgCFhU3Ud7cHwAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAdklEQVQ4je2UyxGAIAxEiWMLFJOWQhNpgiopYj3xGYyMoN58Fwiw2TBDIABwi+zWoqq6lFKJvfdOVc8HYSAiwzhDABBCmC45xlidr7KPqtqmLRtMcb5GP94SP3L+xR+J33thbSdZ9PulJZnZbrsOZi5zAtY/gwP06MoBiw8fkwAAAABJRU5ErkJggg==' /> Aygıt ortaklığını silmek için.
 1. Pencerenin üst kısmında, **Kaydet**' i seçin.
 1. Mobil aygıtınıza gidin ve onu kapalı tamamen güç.
 1. Mobil aygıtınızı birkaç saniye sonra yeniden başlatın ve sonra posta yeniden eşitleme.
 
 Daha fazla bilgi için [Outlook web posta kutusu üzerinde bir aygıttan kaldırmak veya Eşitleme sorunları düzeltme e-posta](https://support.office.com/article/775ed31c-05bd-4ee4-b1b3-33fad7b5b992) bakın.
 
-*Not:* Bağlı hesaplar artık Outlook web üzerinde desteklenir. [Bağlı hesaplar Outlook web üzerinde desteklenen artık](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887) daha fazla bilgi için bkz:
+*Not:* Bağlı hesaplar artık Outlook web üzerinde desteklenir. Daha fazla bilgi için [Outlook Web bağlı hesaplar artık desteklenen](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887) görmek

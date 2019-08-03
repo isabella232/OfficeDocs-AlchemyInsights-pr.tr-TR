@@ -1,25 +1,24 @@
 ---
-title: Otomatik olarak oluşturulan yeni bekletme etiketleri
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: Bekletme ilkeleri hakkında daha fazla bilgi
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223012"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448855"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Otomatik olarak oluşturulan yeni bekletme etiketleri
+# <a name="more-info-about-retention-policies"></a>Bekletme ilkeleri hakkında daha fazla bilgi
 
 Çoğu kuruluş, hacim ve verilerini karmaşıklığını artırmak için her gün - e-posta, belgeler, anlık iletiler ve daha fazlası.
-
-Etkili bir şekilde yönetmek veya bu bilgileri yöneten önemlidir, bir bekletme ilkesi bu hedeflerin gerçekleştirilmesine yardımcı olur. Bekletme ilkeleri hakkında daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
+Bekletme İlkesi, bu hedeflerin gerçekleştirilmesine yardımcı olabilir ve etkili bir şekilde yönetmek veya bu bilgileri yöneten önemlidir. Bekletme ilkeleri hakkında daha fazla bilgi için bu bağlantıları ziyaret edin:
 
 - [Bekletme İlkeleri'ne genel bakış](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
