@@ -1,20 +1,24 @@
 ---
-title: Bir liste veya kitaplıkta sürüm oluşturmayı etkinleştirme
-ms.author: kirks
-author: Techwriter40
+title: SharePoint ve OneDrive sürüm oluşturma
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.custom:
+- "5300025"
+- "1702"
+ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223624"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232678"
 ---
-# <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>SharePoint liste veya kitaplık için sürüm oluşturmayı etkinleştirme
+# <a name="versioning-in-sharepoint-and-onedrive"></a>SharePoint ve OneDrive sürüm oluşturma 
 
 
 SharePoint liste veya kitaplıkta sürüm oluşturma etkin olduğunda, depolamak, izlemek ve bunlar her değiştirdiğinizde bir listedeki öğeleri ve dosyaları kitaplığa geri. Sürüm oluşturma, teslim alma gibi diğer ayarları ile birlikte çok sayıda denetim sitenizde nakledilir ve bugüne kadar bakmak veya öğenin veya dosyanın eski bir sürümünü geri yüklemek için bir gereksinim varsa, gerçek değer sağlayabilir içeriği sağlar.
