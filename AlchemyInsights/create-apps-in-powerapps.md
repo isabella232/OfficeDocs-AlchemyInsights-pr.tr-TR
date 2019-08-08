@@ -1,5 +1,5 @@
 ---
-title: PowerApps içinde uygulamaları oluşturma
+title: PowerApps'te uygulama oluşturma
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
@@ -9,21 +9,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "30404983"
 ---
-# <a name="create-apps-with-powerapps"></a>PowerApps ile uygulamalar oluşturma
+# <a name="create-apps-with-powerapps"></a>PowerApps ile uygulama oluşturma
 
-PowerApps bir iş uygulamaları geliştirme platformudur. Bu üç ana bileşen vardır: 
+PowerApps, iş uygulamalarına yönelik geliştirme platformudur. Üç ana bileşeni vardır: 
   
-- Oldukça özel bir arabirim ile boş bir tuval gücünü hazırlayın ve seçiminize 200 veri kaynaklarına bağlanma, kullanıcı deneyimi ile [Apps tuval](https://go.microsoft.com/fwlink/?linkid=874495) başlar. Tuval apps web, mobil ve tablet uygulamaları oluşturabilirsiniz. 
+- [Tuval uygulamaları](https://go.microsoft.com/fwlink/?linkid=874495) boş bir tuvalin gücüyle son derece uyarlanmış bir arayüz hazırlayarak ve bunu 200 veri kaynağı seçiminize bağlayarak kullanıcı deneyiminizle başlar. Web, mobil ve tablet uygulamaları için tuval uygulamaları oluşturabilirsiniz. 
     
-- Çekirdek iş verilerini ve ortak veri hizmeti işlemlerinde şekilden model formları, görünümleri ve diğer bileşenler oluşturmayı veri modelinizi - [model güdümlü apps](https://go.microsoft.com/fwlink/?linkid=874496) Başlarken. Model güdümlü apps cihaz üzerinden yanıt harika UI otomatik olarak oluşturur. 
+- [Model odaklı uygulamalar](https://go.microsoft.com/fwlink/?linkid=874496) formları, görünümleri ve diğer öğeleri modellemek için Ortak Veri Hizmetindeki temel iş verilerinizin ve işlemlerinizin şeklinden geliştirerek veri modelinizle başlar. Model odaklı uygulamalar, tüm cihazlarda hızlı yanıt veren harika bir arabirimi otomatik biçimde oluşturur. 
     
-- [Ortak veri hizmeti](https://go.microsoft.com/fwlink/?linkid=874497) PowerApps ile birlikte gelir ve depolamak ve iş veri modeli sağlayan veri platformudur. Dynamics 365 uygulamaları yerleşik platformudur. Dynamics müşteri iseniz, verileriniz zaten ortak veri hizmet vermiyor. 
+- [Ortak Veri Hizmeti](https://go.microsoft.com/fwlink/?linkid=874497), PowerApps ile birlikte gelen veri platformudur ve iş verilerini depolamanıza ve modellemenize olanak tanır. Bu, Dynamics 365 uygulamalarının üzerinde oluşturulduğu platformdur. Bir Dynamics müşterisiyseniz, verileriniz zaten Ortak Veri Hizmetindedir. 
     
 [PowerApps hakkında daha fazla bilgi](https://go.microsoft.com/fwlink/?linkid=874498)
   
