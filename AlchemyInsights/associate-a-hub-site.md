@@ -1,21 +1,22 @@
 ---
 title: Bir Hub sitesi ilişkilendirme
-ms.author: kirks
-author: Techwriter40
-ms.date: 1/3/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "1012"
 - "5300012"
-ms.openlocfilehash: 651df67ea7eec0526cf6c1cc61232c3d31125596
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+- "1012"
+ms.openlocfilehash: 88fe29b4aa89f05609b7aefc7732bb2b78cf3002
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903057"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270188"
 ---
 # <a name="associate-a-hub-site"></a>Bir Hub sitesi ilişkilendirme
 
@@ -27,6 +28,6 @@ Varolan bir sitenin, hub sitesine ilişkilendirmek için aşağıdakileri yapın
 
  > [!Note]
 >Hub site ilişkilendirmesini seçeneği mevcut değilse veya hiçbir siteleri listeleniyor, hub sitelerde etkinleştirilmemiş veya siteleri bir hub siteyle ilişkilendirme izniniz olmayabilir. Daha fazla bilgi için yöneticinize başvurun.
-
+>
 >Hub site ile ilişkili site sayısına bir sınır yoktur.
   
