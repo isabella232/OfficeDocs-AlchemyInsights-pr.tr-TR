@@ -13,28 +13,30 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: a32b3df7df1975b69d3c618195ab3dab3a8da51c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5ac8c629c98f6dbd716b0076f2e203a95263fe4f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388049"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389105"
 ---
 # <a name="expired-subscription"></a>Süresi dolan abonelik
 
 Bir veya daha fazla zaman aşımına uğramış abonelikler varsa görünür. Hizmet devam etmek istiyorsanız, aboneliğini yeniden etkinleştir veya yeni bir satın alma.
   
- **Yeniden etkinleştirme**
+**Yeniden etkinleştirme**
   
-1. Yönetim merkezinde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin veya **Faturalama** \> **Abonelikler**’i seçin.
+1. **Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
 
 2. Aboneliği yeniden seçin.
 
 3. Sağ tarafta **yeniden etkinleştir**' i seçin.
 
- **Yeni satın alma**
+Yeni Yönetim Merkezi kullanıyor musunuz? [Aboneliğinizi yeniden](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription)yeni adımlar için bkz.
+
+**Yeni satın alma**
   
-1. Yönetim Merkezi [Satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfasına gidin veya **Faturalama** seçin \> **Satın alma hizmetleri**.
+1. **Faturalama** için Yönetim Merkezi'nde Git \> [Satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfa.
 
 2. Satın almak istediğiniz bir abonelik seçin.
 

@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359392"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386928"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Ücretsiz deneme aboneliğinizden Office 365 aboneliği satın alma
 
@@ -26,18 +26,16 @@ Office 365'i denediniz ve artık satın almak için hazırsınız. Office 365'i 
   
  **Aynı plan deneme olarak satın alabilir**
   
-1. Yönetim merkezinde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin veya **Faturalama** \> **Abonelikler**’i seçin.
+1. **Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
 
 2. **Şimdi satın almak** istediğiniz bir deneme aboneliği seçin ve kullanıma almanız için gereken adımları izleyin.
 
 veya **farklı bir abonelik satın al**
   
-1. Office 365'te iş veya okul hesabı hesabınızla genel yönetici olarak oturum açın. [Oturum açmayı öğrenin](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
+1. **Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
 
-2. Başlangıç sayfasında **Office 365** ' i seçin.
+2. **Abonelik** sayfasında **Ekle subscriptions**' ı seçin.
 
-3. Gezinti çubuğunun altında sayfanın sağ üst kısmında **Satınalma**seçin.
+3. Satın Al, **Şimdi satın**seçin ve kullanıma almanız için gereken adımları izleyin istediğiniz abonelik bulun.
 
-4. **Satınalma abonelikleri** sayfasında, çalıştığınız plan **İçinde deneme** başlık vardır.
-
-5. **Şimdi satın almak** istediğiniz bir deneme aboneliği seçin ve kullanıma almanız için gereken adımları izleyin.
+Yeni Yönetim Merkezi kullanıyor musunuz? Yeni adımlar için bkz: [Office 365 ücretsiz denemenizi işletmeler için bir abonelik satın alınır](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

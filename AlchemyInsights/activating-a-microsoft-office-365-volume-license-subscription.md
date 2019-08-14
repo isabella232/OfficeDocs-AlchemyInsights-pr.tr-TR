@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 6e47011a79db805085e16e520455b64b937f0c3b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358849"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385885"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Microsoft Office 365 birim lisans abonelik etkinleştirme
 
@@ -32,4 +32,4 @@ ms.locfileid: "35358849"
 
 5. İmzalamak için Office 365 ([https://portal.office.com](https://portal.office.com)), varolan Office 365 Yönetici kimlik bilgilerini kullanarak. Başarıyla oturum açtıktan sonra satın aldığınız onaylayan başka bir e-posta alırsınız.
 
-6. Oturumu açmadıysanız sonra [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin, veya **Faturalama** seçin - \> **abonelikleri** doğrulamak, Kiracı içinde satın alınan Office 365 aboneliklerinizi etkinleştirilir. (Ayrıca **Abonelik** sekmesi aboneliğinizi yatırılan doğrulama ayrıntıları görüntülemek için VLSC seçebilirsiniz.) 
+6. Oturumu açmadıysanız sonra **Faturalama** için gidebilirsiniz \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa içinde Kiracı, satın alınan Office 365 abonelikleri etkinleştirilir doğrulamak için. (Ayrıca **Abonelik** sekmesi aboneliğinizi yatırılan doğrulama ayrıntıları görüntülemek için VLSC seçebilirsiniz.)

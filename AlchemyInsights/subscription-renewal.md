@@ -13,18 +13,18 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 8dfeeded3106f707a57a2d0bcfb84c5e7a3416ec
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354097"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388224"
 ---
 # <a name="subscription-recurring-billing"></a>Abonelik yinelenen fatura
 
 Ne zaman, aylık veya yıllık abonelik ( **yinelenen fatura** açıksa) Fatura edilecek veya ( **yinelenen fatura** kapalıysa) sona bilmek istiyorsanız:
   
-1. Yönetim merkezinde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin veya **Faturalama** \> **Abonelikler**’i seçin.
+1. **Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
 
 2. Hakkında daha fazla bilgi edinmek istediğiniz aboneliği seçin.
 
@@ -33,3 +33,5 @@ Ne zaman, aylık veya yıllık abonelik ( **yinelenen fatura** açıksa) Fatura 
 4. Bu tarihten sonra hizmeti kullanmaya devam edebilmek için **yinelenen fatura ayarları** Değiştir **üzerinde**geçiş yapın. Durum abonelik sonraki fatura tarihini gösterir.
 
 5. Bu tarihte hizmeti durdurmak için **yinelenen fatura** geçiş **Kapalı**geçiş yapın. Durum abonelik sona erme tarihi gösterir.
+
+Yeni Yönetim Merkezi kullanıyor musunuz? [Turn kapatma veya fatura yinelenen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription)yeni adımlar için bkz.

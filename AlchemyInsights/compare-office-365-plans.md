@@ -13,12 +13,12 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2bc74bf0d2bbb12a0973abf045020ce9b39014cf
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362233"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386640"
 ---
 # <a name="compare-office-365-plans"></a>Office 365 tarifelerini karşılaştırın
 
@@ -28,7 +28,6 @@ Office 365 planları, [işletme](https://products.office.com/compare-all-microso
   
 Kuruluşunuzun tüm planlarını karşılaştırmak ve fiyatlandırma ilgileniyorsa, [tüm Office 365 tarifelerini karşılaştırın](https://products.office.com/business/compare-more-office-365-for-business-plans)gözden geçirin.
   
-Kuruluşunuz Office 365 planı zaten satın ve ilgilenen edebilir böylece Microsoft 365 Yönetim Merkezi'nden [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054)gidin veya **Faturalama** seçin başka bir plana geçiş içinde ise \> **abonelikleri**. **Anahtarı planları** kullanılabilir yeni planları listesini görüntülemek için seçin.
+Kuruluşunuzda zaten Office 365 planı satın ve başka bir plana geçiş içinde ilgilenmektedir Microsoft 365 Yönetim Merkezi'nden bunu yapabilirsiniz. **Faturalama** Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa, sonra **anahtarı planları** kullanılabilir yeni planları listesini görüntülemek için seçin.
   
-Ayrıca kuruluşunuzun karıştırmak ve gereksinimlerini ve kullanıcılar özellik gereksinimlerini karşılamak üzere Office 365 planları eşleşecek. Office 365 Yönetici [Satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfasına gidin veya **Faturalama** seçin \> **Satın alma hizmetleri**.
-  
+Ayrıca kuruluşunuzun karıştırmak ve gereksinimlerini ve kullanıcılar özellik gereksinimlerini karşılamak üzere Office 365 planları eşleşecek. **Faturalama** için Yönetim Merkezi'nden Git \> [Satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfa.

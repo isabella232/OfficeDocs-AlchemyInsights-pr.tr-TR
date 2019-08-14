@@ -13,16 +13,16 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 93e354494902d7ca52f5c3d6117be895975f52f0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3641fb38fa95173a6367c1c0754c26bd3ee3eb0f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388733"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386388"
 ---
 # <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Bir çalışanın bırakarak var ve veri ve e-posta erişimi engellemek gerekiyor?
   
-1. [Etkin kullanıcılar](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)gidin.
+1. **Kullanıcıların** Yönetim Merkezi'nde Git \> [Etkin kullanıcılar](https://go.microsoft.com/fwlink/p/?linkid=834822) sayfa.
 
 2. Engellemek istediğiniz kullanıcıyı seçin.
 
@@ -30,4 +30,4 @@ ms.locfileid: "35388733"
 
 4. **Kullanıcının oturum açmayı engelleme** seçin \> **kaydedin**.
 
- **Not**: bazı uygulamalar hemen olmayabilir için oturum kapatma. Bu makalede daha fazla eylem izleyin: [Office 365'den eski bir çalışanın Kaldır](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
+**Not**: bazı uygulamalar hemen olmayabilir için oturum kapatma. Bu makalede daha fazla eylem izleyin: [Office 365'den eski bir çalışanın Kaldır](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)

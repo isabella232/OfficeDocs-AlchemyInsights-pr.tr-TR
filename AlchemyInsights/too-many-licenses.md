@@ -13,20 +13,20 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: e84f1102a5862bf76bbb24a99fa13835dedd6a79
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367417"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388044"
 ---
 # <a name="too-many-licenses"></a>Çok fazla lisans?
 
 İçin çok fazla lisans fatura düşünüyorsanız, sonra da gereksinim duyduğunuz daha fazla lisans satın nedeniyle genellikle budur.
   
- **Satın alınan lisans sayısını azaltın**
+**Satın alınan lisans sayısını azaltın**
   
-1. Yönetim merkezinde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin veya **Faturalama** \> **Abonelikler**’i seçin.
+1. **Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
 
 2. Soldaki bölmede, abonelik lisanslarını kaldırmak istediğiniz seçin.
 
@@ -35,3 +35,5 @@ ms.locfileid: "35367417"
 4. Kullanıcıların gerekli toplam sayısını girin. Örneğin, şu anda 25 lisansları var ve 5 kaldırmak istediğiniz 20 Bu alana girin.
 
 5. **Gönder**'i seçin.
+
+Yeni Yönetim Merkezi kullanıyor musunuz? Yeni adımlar için bkz: [İş Abonelik için Office 365 lisanslarını kaldırma](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

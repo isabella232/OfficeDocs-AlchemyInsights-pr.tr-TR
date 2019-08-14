@@ -13,18 +13,17 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: acd84c9d7de2887170b40431954b3cf791b479de
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bc1bd4f8b0a895a16c574239f79d0ba956c6c030
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360073"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389160"
 ---
 # <a name="declined-credit-card"></a>Reddedilen kredi kartı
 
-Kredi kartıyla ödeme yapıyorsanız ancak kredi kartınız reddedildiyse ödemeyi gerçekleştiremediğimiz konusunda sizi bilgilendiren bir e-posta alırsınız. Kredi kartı ve kredi kartı deyiminiz yaptıklarını tam olarak [Kredi kartı ayrıntıları](https://go.microsoft.com/fwlink/p/?linkid=842054) - kart numarası, son kullanma tarihi, adı kredi kartı ve adres, şehir, İl ve posta kodu da dahil olmak üzere - görünür olduğunu denetleyin. Kredi kartı bilgilerinizi güncelleştirmek ve hemen ödeme [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasında **Şimdi Öde** düğmesini kullanarak gönderin. Daha fazla bilgi için bkz: "ne kredi kartımı doldu ve benim ödeme vadesi geçmiş nedir?" [İş Abonelik için Office 365 için ödeme](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
+Kredi kartıyla ödeme yapıyorsanız ancak kredi kartınız reddedildiyse ödemeyi gerçekleştiremediğimiz konusunda sizi bilgilendiren bir e-posta alırsınız. Kredi kartı ve kredi kartı deyiminiz yaptıklarını tam olarak [Kredi kartı ayrıntıları](https://go.microsoft.com/fwlink/p/?linkid=842054) - kart numarası, son kullanma tarihi, adı kredi kartı ve adres, şehir, İl ve posta kodu da dahil olmak üzere - görünür olduğunu denetleyin. Kredi kartı bilgilerinizi güncelleştirmek ve hemen ödeme [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasında **Şimdi Öde** düğmesini kullanarak gönderin. Daha fazla bilgi için bkz: "ne kredi kartımı doldu ve benim ödeme vadesi geçmiş nedir?" [İş Abonelik için Office 365 için ödeme](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
 "Reddedildi" iletisini görmeye devam ediyorsanız, bankanızla iletişime geçin. Kredi kartınız etkin olmayabilir. Örneğin, yakın zamanda son kullanma tarihi güncelleştirilmiş yeni bir kredi kart aldıysanız, kredi kartını etkinleştirmeniz gerekebilir. Kredi kartınızın çevrimiçi, uluslararası veya yinelenen işlemler için onaylanıp onaylanmadığını da bankanız size söyleyebilir.  
   
-Ek bilgi için bkz: [sorun giderme kredi kartları ve banka hesapları](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
-  
+Ek bilgi için bkz: [sorun giderme kredi kartları ve banka hesapları](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

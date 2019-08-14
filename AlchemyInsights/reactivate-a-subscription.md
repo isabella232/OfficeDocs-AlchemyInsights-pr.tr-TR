@@ -13,21 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 401e9785398e04816040453655178c6afb93898b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370587"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36391072"
 ---
 # <a name="reactivate-a-subscription"></a>Bir aboneliğini yeniden etkinleştir
 
-Aboneliğinizin süresi dolarsa, Microsoft tarafından devre dışı bırakıldı veya bir abonelik süresi ortasında iptal edildi, Microsoft 365 Yönetim Merkezi'nde yeniden etkinleştirebilirsiniz.
+Aboneliğinizin süresi dolarsa, Microsoft tarafından devre dışı bırakıldı veya bir abonelik süresi ortasında iptal edildi, Yönetim Merkezi'nde yeniden etkinleştirebilirsiniz.
   
-1. Yönetim merkezinde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin veya **Faturalama** \> **Abonelikler**’i seçin.
+1. **Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
 
 2. Yeniden etkinleştirin, sonra da **yeniden etkinleştir**' i seçin, istediğiniz aboneliği seçin.
 
     **Yeniden** kullanılabilir bir eylem olarak görmüyorsanız, aboneliğinizi yeniden etkinleştirmek için bir destek mühendisi konuşmak için "siz bizi arayın" seçeneğini kullanın.
 
 3. Ödeme ayrıntılarınızı girin. Varolan ödeme bilgilerinizi buraya güncelleştirebilirsiniz.
+
+Yeni Yönetim Merkezi kullanıyor musunuz? [Aboneliğinizi yeniden](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription)yeni adımlar için bkz.
