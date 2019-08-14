@@ -11,33 +11,31 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 68912255fb1c76e417c59bf131dae08d8551fd3c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ee7612cef4ad67c2620a2b1c6851b8d092eb1c36
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409494"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390784"
 ---
-# <a name="looking-to-buy-a-new-subscription"></a><span data-ttu-id="d95bd-102">Yeni bir abonelik satın almak istiyorsunuz?</span><span class="sxs-lookup"><span data-stu-id="d95bd-102">Looking to buy a new subscription?</span></span>
+# <a name="looking-to-buy-a-new-subscription"></a><span data-ttu-id="ceb35-102">Yeni bir abonelik satın almak istiyorsunuz?</span><span class="sxs-lookup"><span data-stu-id="ceb35-102">Looking to buy a new subscription?</span></span>
 
-<span data-ttu-id="d95bd-103">Office 365 iş abonelik için zaten ve kuruluşunuz için başka bir abonelik satın almak istiyorsanız [Satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfasına gidin veya **Faturalama** seçin \> yayımlarının bir listesini görmek için **Satın alma hizmetleri** Kuruluşunuz için kullanılabilir.</span><span class="sxs-lookup"><span data-stu-id="d95bd-103">If you already have an Office 365 for business subscription and you want to buy another subscription for your organization, go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services** to see a list of subscriptions available to your organization.</span></span> 
-  
-1. <span data-ttu-id="d95bd-104">Abonelik taşın üzerine fare ve **Şimdi satın al'ı**tıklatın.</span><span class="sxs-lookup"><span data-stu-id="d95bd-104">Mouse over the subscription tile and click **Buy Now**.</span></span>
-    
-2. <span data-ttu-id="d95bd-105">Ödeme yönteminizi ve gerekli kullanıcı lisansı sayısını seçin.</span><span class="sxs-lookup"><span data-stu-id="d95bd-105">Choose how you would like to pay, and the number of user licenses needed.</span></span>
-    
-3. <span data-ttu-id="d95bd-106">**Kullanıma**seçin. Sonraki sayfada, sipariş gözden geçirebilir ve satın almayı tamamlayın.</span><span class="sxs-lookup"><span data-stu-id="d95bd-106">Choose **Check Out**. On the next page, you can review the order and complete the purchase.</span></span>
-    
-4. <span data-ttu-id="d95bd-107">Siz değilseniz, alışveriş Bitti, seçim **sepetine eklemek** \> geri Kataloğu'na gidin ve başka bir abonelik satın **Devam alışveriş** .</span><span class="sxs-lookup"><span data-stu-id="d95bd-107">If you're not done shopping, choose **Add to Cart** \> **Continue Shopping** to go back to the Catalog and purchase another subscription.</span></span> 
-    
-5. <span data-ttu-id="d95bd-108">Satın alma işleminiz tamamlandığında, lisansları yeniden atamanız veya aboneliği iptal etmek gerekebilir.</span><span class="sxs-lookup"><span data-stu-id="d95bd-108">When your purchase is complete, you may need to reassign licenses or cancel a subscription.</span></span> <span data-ttu-id="d95bd-109">Bununla ilgili Yardım için lütfen aşağıdaki ek kaynaklar bölümüne bakın.</span><span class="sxs-lookup"><span data-stu-id="d95bd-109">For help with this, please see the Additional Resources section below.</span></span>
-    
- <span data-ttu-id="d95bd-110">**Ek kaynaklar:**</span><span class="sxs-lookup"><span data-stu-id="d95bd-110">**Additional resources:**</span></span>
-  
-- [<span data-ttu-id="d95bd-111">İşletmeler için Office 365'te kullanıcılara lisans atama</span><span class="sxs-lookup"><span data-stu-id="d95bd-111">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
-    
-- [<span data-ttu-id="d95bd-112">İş için Office 365 iptal et</span><span class="sxs-lookup"><span data-stu-id="d95bd-112">Cancel Office 365 for Business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
-    
-- <span data-ttu-id="d95bd-113">Abonelikler arasında geçiş yapma ilgileniyorsanız, bkz: [geçiş yapmak için iş planı için farklı bir Office 365.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)</span><span class="sxs-lookup"><span data-stu-id="d95bd-113">If you are interested in switching subscriptions, see [Switch to a different Office 365 for business plan.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)</span></span>
-    
+<span data-ttu-id="ceb35-103">**Faturalama** için iş abonelik için Office 365 zaten var ve kuruluşunuz için başka bir abonelik satın almak istediğiniz, Git \> , kuruluşunuz için kullanılabilir yayımlarının bir listesini görmek için sayfa [Satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) .</span><span class="sxs-lookup"><span data-stu-id="ceb35-103">If you already have an Office 365 for business subscription and you want to buy another subscription for your organization, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page to see a list of subscriptions available to your organization.</span></span>
+ 
+1. <span data-ttu-id="ceb35-104">Abonelik taşın üzerine fare ve **Şimdi satın al'ı**tıklatın.</span><span class="sxs-lookup"><span data-stu-id="ceb35-104">Mouse over the subscription tile and click **Buy Now**.</span></span>
 
+2. <span data-ttu-id="ceb35-105">Ödeme yönteminizi ve gerekli kullanıcı lisansı sayısını seçin.</span><span class="sxs-lookup"><span data-stu-id="ceb35-105">Choose how you would like to pay, and the number of user licenses needed.</span></span>
+
+3. <span data-ttu-id="ceb35-106">**Kullanıma**seçin. Sonraki sayfada, sipariş gözden geçirebilir ve satın almayı tamamlayın.</span><span class="sxs-lookup"><span data-stu-id="ceb35-106">Choose **Check Out**. On the next page, you can review the order and complete the purchase.</span></span>
+
+4. <span data-ttu-id="ceb35-107">Siz değilseniz, alışveriş Bitti, seçim **sepetine eklemek** \> geri Kataloğu'na gidin ve başka bir abonelik satın **Devam alışveriş** .</span><span class="sxs-lookup"><span data-stu-id="ceb35-107">If you're not done shopping, choose **Add to Cart** \> **Continue Shopping** to go back to the Catalog and purchase another subscription.</span></span> 
+
+5. <span data-ttu-id="ceb35-108">Satın alma işleminiz tamamlandığında, lisansları yeniden atamanız veya aboneliği iptal etmek gerekebilir.</span><span class="sxs-lookup"><span data-stu-id="ceb35-108">When your purchase is complete, you may need to reassign licenses or cancel a subscription.</span></span> <span data-ttu-id="ceb35-109">Bununla ilgili Yardım için lütfen aşağıdaki ek kaynaklar bölümüne bakın.</span><span class="sxs-lookup"><span data-stu-id="ceb35-109">For help with this, please see the Additional Resources section below.</span></span>
+
+ <span data-ttu-id="ceb35-110">**Ek kaynaklar:**</span><span class="sxs-lookup"><span data-stu-id="ceb35-110">**Additional resources:**</span></span>
+  
+- [<span data-ttu-id="ceb35-111">İşletmeler için Office 365'te kullanıcılara lisans atama</span><span class="sxs-lookup"><span data-stu-id="ceb35-111">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+    
+- [<span data-ttu-id="ceb35-112">Aboneliğinizi iptal etme</span><span class="sxs-lookup"><span data-stu-id="ceb35-112">Cancel your subscription</span></span>](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+    
+- <span data-ttu-id="ceb35-113">Abonelikler arasında geçiş yapma ilgileniyorsanız, bkz: [geçiş yapmak için iş planı için farklı bir Office 365.](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)</span><span class="sxs-lookup"><span data-stu-id="ceb35-113">If you are interested in switching subscriptions, see [Switch to a different Office 365 for business plan.](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)</span></span>

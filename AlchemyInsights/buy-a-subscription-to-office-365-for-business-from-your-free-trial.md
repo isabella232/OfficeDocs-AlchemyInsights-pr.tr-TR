@@ -13,31 +13,29 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359392"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386928"
 ---
-# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a><span data-ttu-id="974c2-102">Ücretsiz deneme aboneliğinizden Office 365 aboneliği satın alma</span><span class="sxs-lookup"><span data-stu-id="974c2-102">Buy a subscription to Office 365 from your free trial</span></span>
+# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a><span data-ttu-id="4b1de-102">Ücretsiz deneme aboneliğinizden Office 365 aboneliği satın alma</span><span class="sxs-lookup"><span data-stu-id="4b1de-102">Buy a subscription to Office 365 from your free trial</span></span>
 
-<span data-ttu-id="974c2-103">Office 365'i denediniz ve artık satın almak için hazırsınız.</span><span class="sxs-lookup"><span data-stu-id="974c2-103">You've tried Office 365, and now you're ready to buy.</span></span> <span data-ttu-id="974c2-104">Office 365'i deneme sürümünüz üzerinden satın alırken kullanabileceğiniz iki seçenek vardır.</span><span class="sxs-lookup"><span data-stu-id="974c2-104">You have two options when buying Office 365 from your trial version.</span></span>
+<span data-ttu-id="4b1de-103">Office 365'i denediniz ve artık satın almak için hazırsınız.</span><span class="sxs-lookup"><span data-stu-id="4b1de-103">You've tried Office 365, and now you're ready to buy.</span></span> <span data-ttu-id="4b1de-104">Office 365'i deneme sürümünüz üzerinden satın alırken kullanabileceğiniz iki seçenek vardır.</span><span class="sxs-lookup"><span data-stu-id="4b1de-104">You have two options when buying Office 365 from your trial version.</span></span>
   
- <span data-ttu-id="974c2-105">**Aynı plan deneme olarak satın alabilir**</span><span class="sxs-lookup"><span data-stu-id="974c2-105">**You can buy the same plan as your trial**</span></span>
+ <span data-ttu-id="4b1de-105">**Aynı plan deneme olarak satın alabilir**</span><span class="sxs-lookup"><span data-stu-id="4b1de-105">**You can buy the same plan as your trial**</span></span>
   
-1. <span data-ttu-id="974c2-106">Yönetim merkezinde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin veya **Faturalama** \> **Abonelikler**’i seçin.</span><span class="sxs-lookup"><span data-stu-id="974c2-106">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="4b1de-106">**Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.</span><span class="sxs-lookup"><span data-stu-id="4b1de-106">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="974c2-107">**Şimdi satın almak** istediğiniz bir deneme aboneliği seçin ve kullanıma almanız için gereken adımları izleyin.</span><span class="sxs-lookup"><span data-stu-id="974c2-107">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span>
+2. <span data-ttu-id="4b1de-107">**Şimdi satın almak** istediğiniz bir deneme aboneliği seçin ve kullanıma almanız için gereken adımları izleyin.</span><span class="sxs-lookup"><span data-stu-id="4b1de-107">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span>
 
-<span data-ttu-id="974c2-108">veya **farklı bir abonelik satın al**</span><span class="sxs-lookup"><span data-stu-id="974c2-108">or **You can buy a different subscription**</span></span>
+<span data-ttu-id="4b1de-108">veya **farklı bir abonelik satın al**</span><span class="sxs-lookup"><span data-stu-id="4b1de-108">or **You can buy a different subscription**</span></span>
   
-1. <span data-ttu-id="974c2-109">Office 365'te iş veya okul hesabı hesabınızla genel yönetici olarak oturum açın. [Oturum açmayı öğrenin](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span><span class="sxs-lookup"><span data-stu-id="974c2-109">Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span></span>
+1. <span data-ttu-id="4b1de-109">**Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.</span><span class="sxs-lookup"><span data-stu-id="4b1de-109">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="974c2-110">Başlangıç sayfasında **Office 365** ' i seçin.</span><span class="sxs-lookup"><span data-stu-id="974c2-110">Choose **Office 365** on the start page.</span></span>
+2. <span data-ttu-id="4b1de-110">**Abonelik** sayfasında **Ekle subscriptions**' ı seçin.</span><span class="sxs-lookup"><span data-stu-id="4b1de-110">On the **Subscription** page, select **Add subscriptions**.</span></span>
 
-3. <span data-ttu-id="974c2-111">Gezinti çubuğunun altında sayfanın sağ üst kısmında **Satınalma**seçin.</span><span class="sxs-lookup"><span data-stu-id="974c2-111">At the top right-hand corner of the page, under the navigation bar, choose **Purchase**.</span></span>
+3. <span data-ttu-id="4b1de-111">Satın Al, **Şimdi satın**seçin ve kullanıma almanız için gereken adımları izleyin istediğiniz abonelik bulun.</span><span class="sxs-lookup"><span data-stu-id="4b1de-111">Find the subscription that you want to buy, select **Buy Now**, and follow the steps to check out.</span></span>
 
-4. <span data-ttu-id="974c2-112">**Satınalma abonelikleri** sayfasında, çalıştığınız plan **İçinde deneme** başlık vardır.</span><span class="sxs-lookup"><span data-stu-id="974c2-112">On the **Purchase subscriptions** page, the plan you're trying has an **In Trial** banner.</span></span>
-
-5. <span data-ttu-id="974c2-113">**Şimdi satın almak** istediğiniz bir deneme aboneliği seçin ve kullanıma almanız için gereken adımları izleyin.</span><span class="sxs-lookup"><span data-stu-id="974c2-113">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span>
+<span data-ttu-id="4b1de-112">Yeni Yönetim Merkezi kullanıyor musunuz?</span><span class="sxs-lookup"><span data-stu-id="4b1de-112">Are you using the new admin center?</span></span> <span data-ttu-id="4b1de-113">Yeni adımlar için bkz: [Office 365 ücretsiz denemenizi işletmeler için bir abonelik satın alınır](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).</span><span class="sxs-lookup"><span data-stu-id="4b1de-113">For new steps, see [Buy a subscription to Office 365 for business from your free trial](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).</span></span>
