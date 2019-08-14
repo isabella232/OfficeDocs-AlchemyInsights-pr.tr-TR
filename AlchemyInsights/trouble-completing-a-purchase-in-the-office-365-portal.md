@@ -13,14 +13,13 @@ ms.custom:
 - "483"
 - "1500029"
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 357ee96d92a76e59cb176bc3dbe254bfad1565d9
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 17e37f939c199120b85637eb889bb22432e85325
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367273"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388008"
 ---
 # <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Office 365 portalında satın alma işlemini tamamlarken sorun yaşıyorsunuz
 
 Satın alma işlemi sırasında Office 365 portalında birkaç kez oturum açmanız istendiyse veya bir sorunla karşılaşıldığı iletisi aldıysanız en etkili ilk adım tarayıcınızın özel/gizli modunu kullanmayı denemektir. Özel/gizli bir pencere açtıktan sonra [portal.office.com](https://portal.office.com) sitesine gidip yönetici kimlik bilgilerinizle oturum açın. Satın alma işleminizi tamamlayın.
-  
