@@ -13,16 +13,16 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 3f83db2fa1aab6a9f8171be3a423a5d87ac8ca48
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386033"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389016"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Kredi kartı bilgilerimi nasıl güncelleştirebilirim?
 
-1. Yönetim merkezinde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin veya **Faturalama** \> **Abonelikler**’i seçin.
+1. Yönetim merkezinde **Ödeme** \> [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
 
 2. Güncelleştirmek istediğiniz kredi kartı veya banka hesabıyla satın aldığınız aboneliği seçtikten sonra **Ödeme ayrıntılarını güncelleştir**’i seçin.
 
@@ -33,5 +33,6 @@ ms.locfileid: "35386033"
 
 5. Bir onay iletisi gösterilmelidir.
 
-Ek bilgi için bkz. [Kredi kartı ve banka hesabı sorunlarını giderme](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
-  
+Ek bilgi için bkz. [Kredi kartı ve banka hesabı sorunlarını giderme](https://docs.microsoft.com/tr-TR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+
+Yeni yönetim merkezini kullanıyor musunuz? Yeni adımlar için bkz. [İş için Office 365'te kredi kartı veya banka hesabı ekleme, güncelleştirme veya kaldırma](https://docs.microsoft.com/tr-TR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

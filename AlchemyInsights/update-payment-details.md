@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903741"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387792"
 ---
 # <a name="update-payment-details"></a>Ödeme ayrıntılarını güncelleştirme
 
-1. Yönetim merkezinde [Ödeme yöntemleri](https://go.microsoft.com/fwlink/p/?linkid=2018806) sayfasına gidin veya **Faturalama** \> **Ödeme yöntemleri**’ne gidin.
+1. Yönetim merkezinde **Faturalama** \> [Ödeme yöntemleri](https://go.microsoft.com/fwlink/p/?linkid=2018806) sayfasına gidin.
 
     > [!NOTE]
     > Güncelleştirmeleriniz tamamlanmadan önce sizi Yönetici giriş sayfasına yönlendiren bir döngüyle karşılaşırsanız InPrivate veya Gizli moduna geçmeyi deneyin.
@@ -37,4 +37,4 @@ ms.locfileid: "35903741"
 
 5. Bu ödeme yöntemi kaldırmak için **Sil**’i seçin.
 
-Daha fazla bilgi için bkz. [İş için Office 365’te kredi kartı veya banka hesabını ekleme, güncelleştirme ya da kaldırma](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) ve [Kredi kartı ve banka hesabı sorunlarını giderme](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Daha fazla bilgi için bkz. [İş için Office 365’te kredi kartı veya banka hesabını ekleme, güncelleştirme ya da kaldırma](https://docs.microsoft.com/tr-TR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ve [Kredi kartı ve banka hesabı sorunlarını giderme](https://docs.microsoft.com/tr-TR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
