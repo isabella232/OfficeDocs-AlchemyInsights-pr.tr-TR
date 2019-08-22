@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 49c510668f4c73a71495b89ee9f810d4e7244da3
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270692"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530911"
 ---
-# <a name="workflow-email-is-not-being-sent"></a>İş akışı e-posta gönderme
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>İş akışı e-posta bir SharePoint listesi veya kitaplığı için gönderiliyor.
 
 1. Tüm kullanıcıları veya yalnızca belirli kullanıcıların iş akışları gelen e-posta gönderilmez veya gördüğünüz hata **e-posta iletisi gönderilemez. Geçerli bir alıcı e-posta olup olmadığını**.
 
@@ -30,10 +30,10 @@ ms.locfileid: "36270692"
     - Kullanıcı grubu izinleri yoksa e-posta adresinin doğru olduğundan emin olun.
     - Kullanıcıların e-posta adresi burada ayarlı değilse, daha sonra eşitleme, kullanıcı hesabının bu site koleksiyonu için olan kullanıcı profilleri SharePoint'ten zorlar, bu kullanıcı için bir örnek uyarıyı oluşturun.
  
-2. E-postadan iş akışları site koleksiyonu yöneticileri, ancak diğer kullanıcılara gönderilen ve hata **HTTP Yasak için <spam> <spam> ** <spam> <spam>.
+2. E-postadan iş akışları site koleksiyonu yöneticileri, ancak diğer kullanıcılara gönderilen ve hata **için HTTP Yasak <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    [Gönderilen e-posta grupları, erişim engellendi](https://docs.microsoft.com/sharepoint/support/server-admin/access-denied-when-send-an-email-to-groups)bakın.
+    [SharePoint grubuna bir e-posta gönderdiğinizde, erişim engellendi](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups)bakın.
 
     Ayrıca, **sınırlı erişimli kullanıcı izni kilitleme modu** site koleksiyonu özelliği etkin olmadığından emin olun.
 

@@ -13,14 +13,14 @@ ms.custom:
 - "1839"
 - "8000014"
 - "9000249"
-ms.openlocfilehash: 133cf9ba507e551d00a3f109f7e3ef7bddc7abed
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2c50650d25fc826a00e198fda2aab6f126db95ac
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376372"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537374"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone"></a>Dil, tarih ve saat biçimi veya saat dilimini değiştirme
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Dil, tarih ve saat biçimi veya Outlook.com saat dilimini değiştirme
 
 1. Açık, [Dil ve saat ayarlarını](https://go.microsoft.com/fwlink/?linkid=2085505).
 1. Dil, tarih biçimini, saat biçimini ve kullanmak istediğiniz saat dilimini seçin.
