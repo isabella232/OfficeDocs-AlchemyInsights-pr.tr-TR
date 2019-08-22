@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 7bba3d7fc4e432c7c266ce8aa87322fc784a8ac0
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1e925ef8e83dfc5d16b4d19dee88f1a26abe6ef4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754295"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520543"
 ---
 # <a name="check-in-several-files-at-once"></a>Çok sayıda dosyayı bir kerede denetleme
 
-Giriş ve çıkış dosyaları denetleniyor izlemek ve içeriği nasıl güncelleştirileceğini denetlemek için harika bir yoldur. Sitesinde bir dosya değişiklik ve başka hiç kimse emin olmak istiyorsanız, bu düzenleme, dosyayı kullanıma alın. Dosya kullanıma sahip olduğunuzda, çevrimiçi veya çevrimdışı ve dosyayı birden çok kez gerekirse üzerinde düzenleme yapabilirsiniz.
+Bir SharePoint içindeki ve dışındaki dosyaları denetleme izlemek için harika bir yol ve içeriği nasıl güncelleştirileceğini denetim kitaplığıdır. Sitesinde bir dosya değişiklik ve başka hiç kimse emin olmak istiyorsanız, bu düzenleme, dosyayı kullanıma alın. Dosya kullanıma sahip olduğunuzda, çevrimiçi veya çevrimdışı ve dosyayı birden çok kez gerekirse üzerinde düzenleme yapabilirsiniz.
 
 Aşağıda bazı yararlı bağlantılar bu özelliği ile ilgili olan.
 
-- [Onay nasıl out, iade etme veya dosyalara değişiklikleri at](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Nasıl kullanıma, iade etme veya dosyalara değişiklikleri at](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
 - [Kullanıma alma, iade etme hakkında üst sorular ve sürümleri](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 

@@ -13,14 +13,14 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 70b09fc739d5967f40b7fa7a036e0721ff614e95
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5456a07a919b6344206deb2847aaf3843182b63b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390173"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511541"
 ---
-# <a name="how-to-verify-your-account"></a>Hesabınızı doğrulamak nasıl
+# <a name="how-to-verify-your-outlookcom-account"></a>Outlook.com hesabınızı doğrulamak nasıl
 
 İki adımlı doğrulama daha zor Microsoft hesabınıza oturum açmak için başka birisi için yaparak korunmasına yardımcı olur. İki farklı form kimliğini kullanır: parolanızı ve bağlantı yöntemi (güvenlik bilgisi olarak da bilinir).
   

@@ -13,28 +13,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 1dbf7035b3c21e744904a026d62c5cf3475cadc2
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387072"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518059"
 ---
-# <a name="buy-additional-licenses"></a>Ek lisans satın al
+# <a name="buy-additional-office-365-licenses"></a>Office 365 lisansları satın al
 
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
+1. **Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
 
-2. **Abonelikleri** sayfasında, lisans eklemek istediğiniz aboneliği seçin ve **Lisans Ekle/Kaldır'ı**seçin.
+2. Lisans eklemek istediğiniz abonelik bulun ve sonra **Lisans Ekle/Kaldır'ı**seçin.
 
-    [Ekle/Kaldır bağlantısını görmek yok](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [Ekle/Kaldır bağlantısını görmek yok](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. Bu abonelik için gereken lisansların toplam sayısı **toplam lisans** kutusuna girin ve sonra **Gönder** ' i seçin \> **Kapat**. Örneğin, 100 lisansınız varsa ve 5 lisans daha eklemeniz gerekiyorsa 105 yazın.
+3. Bu abonelik için gereken ve sonra seçin lisans toplam sayısını **toplam lisans** kutusunda girin **Gönder* değiştirme **. Örneğin, 100 lisansınız varsa ve 5 lisans daha eklemeniz gerekiyorsa 105 yazın.
 
     > [!NOTE]
     > Aboneliğinizin ödemesini kredi kartı veya banka hesabıyla yaparsanız, satın aldığınız tüm yeni lisanslar sipariş onayı almanızın hemen ardından kullanıma hazır duruma gelir. Fatura karşılığında ödeme yapıyorsanız, yeni lisanslarınızın kullanılabilir duruma gelmesi için kredi denetimini beklemeniz gerekebilir.
   
 **Ek kaynaklar**
 
-- [Lisansları iş için Office 365'te kullanıcılara atama](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Lisansları iş için Office 365'te kullanıcılara atama](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-Yeni Yönetim Merkezi kullanıyor musunuz? [Office 365 iş abonelik lisanslarını satın](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)yeni adımlar için bkz.
+Daha fazla bilgi için bkz: [İş Abonelik için Office 365 lisansları satın alın](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).

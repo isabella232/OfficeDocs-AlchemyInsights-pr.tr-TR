@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381749"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498435"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Office bir Terminal sunucusuna program yükleme
 
@@ -26,7 +26,7 @@ Uzak Masaüstü Hizmetleri (RDS) kullanan Windows Server Office 365 ProPlus dağ
 
 - [Paylaşılan bilgisayar](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)etkinleştirmesi gerekir.
 
-Office 365 ProPlus RDS üzerinde Office 365 portalından yüklemek istiyorsanız ** *varsayılan yükleme ayarlarını kullanan* **, şu adımları izleyin:
+Office 365 portal, ***varsayılan yükleme ayarlarını kullanan***Office 365 ProPlus RDS yüklemek istiyorsanız şu adımları izleyin:
   
 1. Elinizde hangi Office 365 planını denetleyin. [Öğrenin nasıl](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ Office 365 ProPlus RDS üzerinde Office 365 portalından yüklemek istiyorsanız
 
 4. RDS Sunucu üzerinde yönetici hesabı ve [Office 365 ProPlus yüklemek](https://portal.office.com/OLS/MySoftware.aspx)Office 365 portalına oturum açın.
 
-5. Office yüklendikten sonra ** *açmayın veya oturum* ** tüm Office uygulamaları için.
+5. Office yüklendikten sonra ***açmayın veya oturum açmak*** için herhangi bir Office uygulaması.
 
 6. RDS Sunucu üzerinde aaıdaki adımları izleyerek kayıt defterini düzenleyerek paylaşılan bilgisayar etkinleştirme etkinleştir:
 
@@ -46,7 +46,7 @@ Office 365 ProPlus RDS üzerinde Office 365 portalından yüklemek istiyorsanız
 
 3. Kayıt Defteri Düzenleyicisi'nde, HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration altında 1 ayarı ile **SharedComputerLicensing** bir dize değeri ekleyin.
 
-7. RDS Sunucu üzerindeki ** *bir son kullanıcı oturum aç* ** ve [paylaşılan bilgisayar etkinleştirme Office 365 ProPlus için etkinleştirilmiş olduğunu doğrulayın](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. RDS Sunucu, ***bir son kullanıcı oturum açın*** ve [paylaşılan bilgisayar etkinleştirme Office 365 ProPlus için etkinleştirilmiş olduğunu doğrulayın](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 Önkoşullar, kurulum yönergelerini ve Office Dağıtım Aracı'nı kullanarak özelleştirilmiş yüklemeleri Kılavuzu hakkında daha fazla ayrıntı için lütfen [Dağıtmak Office 365 Uzak Masaüstü Hizmetleri kullanarak ProPlus](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)bakın.
   

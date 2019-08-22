@@ -13,14 +13,14 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 62d67ad0ebaee202f41b0a0fa0e0c36f681588ac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385848"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510103"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a>Faturalama deyiminiz bir kopyasını e-postayla alırsınız.
+# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Office 365 faturalama deyiminiz bir kopyasını e-postayla alırsınız.
 
 Dilerseniz fatura ekstrenizin kopyasını e-posta eki olarak da alabilirsiniz. Bu işlem hakkında bilmeniz gerekenler:
   
@@ -32,4 +32,4 @@ E-postayla, ödeme bildirimi almak için:
   
 1. **Faturalama** için Yönetim Merkezi'nde Git \> [Ödeme bildirimleri](https://go.microsoft.com/fwlink/p/?linkid=853212) sayfa.
 
-2. **Fatura ekstrenizi e-posta eki olarak almak istiyor musunuz?** seçeneğinin altındaki iki durumlu düğmeyi **Açık** duruma getirin. Fatura ekstrelerini e-posta olarak almayı durdurmak isterseniz, iki durumlu düğmeyi **Kapalı** duruma getirebilirsiniz.
+2. Altında **Ödeme bildirimi e-posta eki olarak aldığınız?**, **üzerinde**geçiş geçiş yapın. Fatura ekstrelerini e-posta olarak almayı durdurmak isterseniz, iki durumlu düğmeyi **Kapalı** duruma getirebilirsiniz.

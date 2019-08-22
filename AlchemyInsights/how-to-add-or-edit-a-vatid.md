@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386424"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522631"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Nasıl eklemek veya bir VatID düzenlemek için
 
-- **Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
+1.  **Faturalama** için Microsoft 365 Yönetim Merkezi'nde Git \> [& servicces ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
 
-- **Abonelikleri** sayfa üzerinde düzenleyin, sonra da **Diğer Eylemler** seçmek istediğiniz aboneliği seçin \> **düzenleme KDV numarası**.
+2. Güncelleştirmek istediğiniz abonelik için abonelik kartı bulun.
 
-- **Hizmet kullanım adresinizi düzenleme** bölmesinin altındaki girin veya KDV Kimliğinizi **KDV numarası** kutusunda Düzenle ve **Gönder**' i seçin.
+3. **Ayarları & Eylemler** bölümünde **hizmet kullanımı adresi Düzenle**' yi seçin.
+
+4. **Hizmet kullanım adresinizi Düzenle** sayfasında, KDV Kimliğinizi **KDV numarası** kutusuna girin ve **Kaydet**' i seçin.
 
     Tamamlandığında, sonraki faturanızda KDV ücretlendirilmez.
 
-Daha fazla bilgi için bkz: [hangi vergi benim için Office 365 tahsil edilir?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
-
-Yeni Yönetim Merkezi kullanıyor musunuz? [KDV Kimliğinizi Ekle](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only)yeni adımlar için bkz.
+Daha fazla bilgi için bkz: [hangi vergi benim için Office 365 tahsil edilir?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) veya [KDV Kimliğinizi Ekle](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

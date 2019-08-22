@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 49d2b7655cd086fd56f5a6fc45ac437b6ca95970
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2092a4a1f45d5edf99471c88a0556721b5a1f38e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412509"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499443"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Posta kutunuzun boyutu 100 GB ise yapmanız gerekenler
 
@@ -26,7 +26,7 @@ E-posta arşivlemeyi etkinleştirmek için:
   
 1. **Yönetim Merkezi** 365 Microsoft Yönetim Merkezi'nde Git \> **Exchange**. 
     
-2. **Alıcıları** Seç \> ** posta kutuları ** ve bir posta kutusu seçin. 
+2. **Alıcıları** Seç \> **posta kutusu**ve posta kutusu seçin. 
     
 3. **Yerinde arşiv**altındaki ayrıntılar bölmesinde **Etkinleştir**' i seçin. 
     
