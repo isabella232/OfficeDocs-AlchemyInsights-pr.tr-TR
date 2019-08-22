@@ -15,16 +15,16 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7a547841700f739f59ac17969e444f781093fb2e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373901"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535987"
 ---
 # <a name="security-info-and-security-codes"></a>Güvenlik bilgileri ve güvenlik kodları
 
-Güvenlik bilgisi hesabınıza eklemek için:
+Güvenlik bilgisi Microsoft hesabınıza eklemek için:
 
 1. [Güvenlik temelleri](https://account.microsoft.com/security) için Microsoft hesabınızla oturum açın.
 1. **Güvenlik bilgisi kişi**seçin.
