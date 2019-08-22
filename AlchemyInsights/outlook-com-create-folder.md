@@ -13,16 +13,16 @@ ms.custom:
 - "219"
 - "8000009"
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
-ms.openlocfilehash: ad9db8a30105981c11d75364b15568a4f314543b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d759ce00e47206d0d58bae771c962b408595416c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375557"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536959"
 ---
-# <a name="create-a-folder"></a><span data-ttu-id="61539-102">Bir klasör oluşturun</span><span class="sxs-lookup"><span data-stu-id="61539-102">Create a folder</span></span>
+# <a name="create-a-folder-in-outlookcom"></a><span data-ttu-id="8c636-102">Outlook.com içinde bir klasör oluşturun</span><span class="sxs-lookup"><span data-stu-id="8c636-102">Create a folder in Outlook.com</span></span>
 
-1. <span data-ttu-id="61539-103">Klasör bölmesinin en altında **Yeni bir klasör**seçin.</span><span class="sxs-lookup"><span data-stu-id="61539-103">At the bottom of the folder pane, select **New folder**.</span></span> <span data-ttu-id="61539-104">Aşağı klasör bölmesinde, **Yeni klasör** düğmesini görmek için kaydırma yapmanız gerekebilir.</span><span class="sxs-lookup"><span data-stu-id="61539-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
-2. <span data-ttu-id="61539-105">Metin kutusuna, klasör için bir ad girin ve Enter tuşuna basın.</span><span class="sxs-lookup"><span data-stu-id="61539-105">In the text box, enter a name for the folder and then press Enter.</span></span>
+1. <span data-ttu-id="8c636-103">Klasör bölmesinin en altında **Yeni bir klasör**seçin.</span><span class="sxs-lookup"><span data-stu-id="8c636-103">At the bottom of the folder pane, select **New folder**.</span></span> <span data-ttu-id="8c636-104">Aşağı klasör bölmesinde, **Yeni klasör** düğmesini görmek için kaydırma yapmanız gerekebilir.</span><span class="sxs-lookup"><span data-stu-id="8c636-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
+2. <span data-ttu-id="8c636-105">Metin kutusuna, klasör için bir ad girin ve Enter tuşuna basın.</span><span class="sxs-lookup"><span data-stu-id="8c636-105">In the text box, enter a name for the folder and then press Enter.</span></span>
 
-<span data-ttu-id="61539-106">Daha fazla bilgi için bkz: [Outlook.com içinde bir klasör oluşturun](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="61539-106">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="8c636-106">Daha fazla bilgi için bkz: [Outlook.com içinde bir klasör oluşturun](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="8c636-106">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
