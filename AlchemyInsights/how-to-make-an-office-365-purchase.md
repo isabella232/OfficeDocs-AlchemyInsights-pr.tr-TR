@@ -13,31 +13,23 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 186aefa35d6090189df28b15a6a5e4a9bb8b573d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3d4a30dc8b27be8fbb428addb867f89965a4cb12
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391000"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540309"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Nasıl Office 365 satın alma
 
 Office 365'te Satınalmalar Yönetim Merkezi'nde yapılabilir.
   
-- Abonelik gidin **Faturalama** için Office 365 satın almak için \> [Satın hizmetler](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfası.
+- **Faturalama** için Office 365 subscriptio satın almak için gitmek \> sayfa [Hizmetleri satın](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-- **Faturalama** için ek lisans satın almak için gitmek \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa. **Abonelikleri** sayfasında, lisans eklemek istediğiniz aboneliği seçin ve **Lisans Ekle/Kaldır'ı**seçin.
-
-- Başka bir plana geçiş yapmak için:
-
-  - **Anahtarı planları** kullanılabilir yeni planları listesini görüntülemek için seçin.
-
-  - Her ay yeni toplam maliyetini görmek için bir plan seçin. Anahtar bilgileri okuyun, sonra da teslim almak için **sonraki** seçin emin olun.
-
-Yeni Yönetim Merkezi kullanıyor musunuz? [Başka bir plana yükseltme](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)yeni adımlar için bkz.
+- **Faturalama** için ek lisans satın almak için gitmek \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası. Lisans eklemek istediğiniz aboneliği seçin ve sonra **Lisans Ekle/Kaldır'ı**seçin.
   
  **Ek kaynaklar**
   
-- [İşletmeler için Office 365'te kullanıcılara lisans atama](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [İşletmeler için Office 365'te kullanıcılara lisans atama](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [İş için Office 365 iptal et](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [İş için Office 365 iptal et](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382973"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539049"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>IP adresi ve denetim günlüklerini istemcisinde belirle
 
-Bir kullanıcı veya yönetici tarafından bir etkinlik karşılık gelen IP adresini denetim günlüklerinde gösterilir. İstemci bilgileri de kaydedilir. Bu tür bilgileri tanımlamak üzere adımlar şunlardır
+Bir aktiviteyi bir Office 365 kullanıcı veya yönetici tarafından karşılık gelen IP adresini denetim günlüklerinde gösterilir. İstemci bilgileri de kaydedilir. Bu tür bilgileri tanımlamak üzere adımlar şunlardır
 
-1. Oturum [Office 365 güvenlik & Uyumluluk Merkezi](https://protection.office.com/)
+1. [Office 365 güvenlik & Uyumluluk Merkezi](https://protection.office.com/)oturum açın.
 
-2. **Arama ve araştırma'yı** tıklatın ve **Denetim günlüğü Ara**' yı seçin.
+2. **Arama**gidin > **Denetim günlüğü arama** sayfası.
 
    Belirli bir etkinlik ilgileniyorsanız, **etkinlikler** listesinden seçin. Aksi halde, tüm etkinlikleri seçilen kullanıcı için (varsayılan ayar) döndürülür.
 
