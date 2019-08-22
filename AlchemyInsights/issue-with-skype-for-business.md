@@ -11,24 +11,24 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 606a3a8cd8fefade73e0024cdb75a86799b17a87
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2345822cc022fa1113a9aa4203fb09eff872a2cc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381497"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498039"
 ---
-# <a name="issue-with-skype-for-business"></a><span data-ttu-id="320b8-102">Skype Kurumsal'da sorun mu var?</span><span class="sxs-lookup"><span data-stu-id="320b8-102">Issue with Skype for Business?</span></span>
+# <a name="issue-with-skype-for-business"></a><span data-ttu-id="9154a-102">Skype Kurumsal'da sorun mu var?</span><span class="sxs-lookup"><span data-stu-id="9154a-102">Issue with Skype for Business?</span></span>
 
-<span data-ttu-id="320b8-103">Şu bir veya birden çok etki alanında Skype Kurumsal'ın düzgün çalışmasını engelleyebilecek sorunlar olduğunu algıladık:</span><span class="sxs-lookup"><span data-stu-id="320b8-103">We've detected that the following domain(s) have problems that might prevent Skype for Business from working properly:</span></span>
+<span data-ttu-id="9154a-103">Şu bir veya birden çok etki alanında Skype Kurumsal'ın düzgün çalışmasını engelleyebilecek sorunlar olduğunu algıladık:</span><span class="sxs-lookup"><span data-stu-id="9154a-103">We've detected that the following domain(s) have problems that might prevent Skype for Business from working properly:</span></span>
   
-<span data-ttu-id="320b8-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="320b8-104">{HealthCheckString}</span></span>
+<span data-ttu-id="9154a-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="9154a-104">{HealthCheckString}</span></span>
   
-<span data-ttu-id="320b8-105">Etki alanı (DNS) ayarlarının NS, CNAME veya SRV kayıtları Skype Kurumsal için düzgün yapılandırılmamış.</span><span class="sxs-lookup"><span data-stu-id="320b8-105">The NS, CNAME, or SRV records of the domain (DNS) settings are not configured correctly for Skype for Business.</span></span> <span data-ttu-id="320b8-106">Ayrıntılı yönergeler için [Office 365'te DNS kayıtlarını güncelleştirme](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) konusuna bakabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="320b8-106">You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span>
+<span data-ttu-id="9154a-105">Etki alanı (DNS) ayarlarının NS, CNAME veya SRV kayıtları Skype Kurumsal için düzgün yapılandırılmamış.</span><span class="sxs-lookup"><span data-stu-id="9154a-105">The NS, CNAME, or SRV records of the domain (DNS) settings are not configured correctly for Skype for Business.</span></span> <span data-ttu-id="9154a-106">Ayrıntılı yönergeler için [Office 365'te DNS kayıtlarını güncelleştirme](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) konusuna bakabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="9154a-106">You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span>
   
-<span data-ttu-id="320b8-107">Bunu düzeltmek için lütfen Microsoft 365 yönetim merkezinin [Etki Alanları](https://admin.microsoft.com/adminportal/home#/Domains) sayfasına gidin; size yardımcı olacağız.</span><span class="sxs-lookup"><span data-stu-id="320b8-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span>
+<span data-ttu-id="9154a-107">Bunu düzeltmek için lütfen Microsoft 365 yönetim merkezinin [Etki Alanları](https://admin.microsoft.com/adminportal/home#/Domains) sayfasına gidin; size yardımcı olacağız.</span><span class="sxs-lookup"><span data-stu-id="9154a-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span>
   
-<span data-ttu-id="320b8-108">Kuruluşunuzun dışındaki kullanıcılarla iletişim kurarken sorun yaşıyorsanız, ayrıntılı yönergeler için [Skype Kurumsal Çevrimiçi Sürüm dış iletişimleri ayarlama](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) konusuna bakabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="320b8-108">If you are having problems communicating with users that are external to your organization, you can refer to [Set up Skype for Business Online external communications](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) for detailed instructions.</span></span>
+<span data-ttu-id="9154a-108">Kuruluşunuzun dışındaki kullanıcılarla iletişim kurarken sorun yaşıyorsanız, ayrıntılı yönergeler için [Skype Kurumsal Çevrimiçi Sürüm dış iletişimleri ayarlama](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) konusuna bakabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="9154a-108">If you are having problems communicating with users that are external to your organization, you can refer to [Set up Skype for Business Online external communications](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) for detailed instructions.</span></span>
   
-<span data-ttu-id="320b8-109">Diğer yaygın çözümler için [Etki Alanları SS](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) bölümünü gözden geçirin.</span><span class="sxs-lookup"><span data-stu-id="320b8-109">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span>
+<span data-ttu-id="9154a-109">Diğer yaygın çözümler için [Etki Alanları SS](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) bölümünü gözden geçirin.</span><span class="sxs-lookup"><span data-stu-id="9154a-109">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span>
   
