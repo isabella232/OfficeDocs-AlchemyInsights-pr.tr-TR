@@ -13,16 +13,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 81890c6dce8e72ef30a12bd7fa9c68979fce1e0f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a3a5ca84f6e7e0173bdaef5222033d25abbced8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360361"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516187"
 ---
 # <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Bir kullanıcının posta kutusuna paylaşılan bir posta kutusuna Dönüştür
 
-Bir kullanıcının posta kutusu için bir paylaşılan posta dönüştürdüğünüzde, tüm varolan e-posta ve Takvim korunur. Şimdi yalnızca birkaç kişi yerine bir kişi erişebilir olacaktır nerede bir paylaşılan posta ayarlanır. Daha sonraki bir tarihte (geri bir kullanıcı özel) posta kutusu için bir paylaşılan posta dönüştürebilirsiniz.
+Tek bir kullanıcının posta kutusu için bir paylaşılan posta dönüştürdüğünüzde, tüm varolan e-posta ve takvim öğeleri birden fazla kişi erişebileceğiniz paylaşılan bir posta kutusuna korunur. Paylaşılan bir posta kutusuna (geri bir kullanıcı özel) posta kutusu için de dönüştürebilirsiniz.
   
-[Daha fazlasını okuyun](https://support.office.com/article/2e122487-e1f5-4f26-ba41-5689249d93ba)
+[Daha fazla bilgi edinin...](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox)
   

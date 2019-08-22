@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059272"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507651"
 ---
-# <a name="search-in-sharepoint-online"></a>Çevrimiçi arama SharePoint içinde
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>İçeriği gezinme ve SharePoint Çevrimiçi dizinleme
 
 İçeriği gezinme ve kullanıcıların ne onlar için SharePoint çevrimiçi aradığınız bulmak arama dizini eklenir. İçeriği otomatik olarak tabanlı (gezinme zamanlaması değiştirilemez) önceden tanımlanmış gezinme zamanlaması üzerinde gezildiğinde. Gezgin en son gezinmeden sonra değişti ve dizini güncelleştirir içeriğini seçer. İçerik gezilen ve dizinin güncelleştirildiğinden emin olmak için aşağıdakilere dikkat edin:
 
@@ -30,7 +30,8 @@ ms.locfileid: "36059272"
 
     Gezinme ve tam dizin yeniden başlattığından beri 24 saatten fazla geçmişse, Lütfen destek durumu günlüğe yazılır. Çoğu durumda, biz zaten bir çözüm üzerinde çalışıyorsunuz. Lütfen bize bir çözüm tamamlamak için en az 24 saat verin.
 
->[! Önemli!]: bir site, belge (kitaplık) veya bir liste silinir ve hala gösterir arama sonuçlarında ise, kullanıcılar bir **Hata 404 Dosya bulunamadı** erişmek çalışırken almalısınız. Bu sorun bir destek çalışması için daha fazla araştırma olarak oturum açmış olmanız. 
+> [!IMPORTANT]
+> Bir site, belge (kitaplık) veya bir liste silindi ve görüntülenmeye devam eder arama sonuçlarında kullanıcıların bir **Hata 404 Dosya bulunamadı** erişmek çalışırken almalısınız. Bu sorun bir destek çalışması için daha fazla araştırma olarak oturum açmış olmanız. 
 
 
 

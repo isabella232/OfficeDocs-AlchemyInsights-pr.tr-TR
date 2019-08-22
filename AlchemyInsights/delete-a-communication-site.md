@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405828"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514168"
 ---
 # <a name="delete-a-communication-site"></a>İletişim site silme
 
@@ -25,14 +25,12 @@ ms.locfileid: "32405828"
   
 3. **Site bilgileri**altında **Bu siteyi sil**' i tıklatın ve sonra **Sil**' i tıklatın. 
   
-Yöneticiler ayrıca iletişim site Modern Yönetim Merkezi'nden aşağıdaki adımları izleyerek silebilirsiniz: 
+Yöneticiler ayrıca iletişim site yeni Yönetim Merkezi'nden aşağıdaki adımları izleyerek silebilirsiniz: 
   
-1. Sağ üst köşesinde **Şimdi deneyin** düğmesini tıklatarak yeni Yönetim Merkezi deneyin. 
+1. **Etkin sitelere** solda seçin. 
   
-2. **Etkin sitelere**seçin. 
+2. Yanında siteyi silmek için tıklatın ve üst menüden bir **silme** seçeneği görüntülenir. 
   
-3. Yanında siteyi silmek için tıklatın ve üst menüden bir **silme** seçeneği görüntülenir. 
-  
- **Not:** İletişim site (onu geri dönüşüm kutusundan kaldırarak) kalıcı olarak silmek istiyorsanız, site URL'sini yeniden kullanabilmeniz için kullanmak [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) geri dönüşüm değerlendirmek için ve [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) site Geri Dönüşüm Kutusu'ndan kaldırmak için. 
+ **Not:** İletişim site (onu geri dönüşüm kutusundan kaldırarak) kalıcı olarak silmek istiyorsanız, site URL'sini yeniden kullanabilmeniz için [Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) Geri Dönüşüm ve site Geri Dönüşüm Kutusu'ndan kaldırmak için [Kaldır SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) değerlendirmek için kullanın. 
   
 

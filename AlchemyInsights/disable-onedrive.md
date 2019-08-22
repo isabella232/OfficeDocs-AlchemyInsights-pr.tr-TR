@@ -12,23 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 2ef6ff1f67b8f04ed09b21568aaef4607950c2d8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36272183"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512911"
 ---
 # <a name="disable-onedrive"></a>OneDrive devre dışı bırak
 
 İş ihtiyaçlarınıza bağlı olarak OneDrive ve kendi hizmetlerine erişimi devre dışı bırakabilirsiniz birkaç yolu vardır:
 
-[Kes, gizlemek veya OneDrive uygulamayı kaldırmak](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-[yalnızca belirli kuruluşlar için eşitlemeye izin](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
-[bazı kullanıcıların site oluşturma devre dışı OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
-SharePoint çevrimiçi ve OneDrive verilere erişim denetimi[ ağ konumuna bağlı](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
-[Kişisel OneDrive eşitleme devre dışı](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
-[OneDrive ve diğer hizmetler için Windows aygıtlardan bağlantılarını yönet](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[Kes, gizlemek veya OneDrive uygulama kaldırma](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+
+[Yalnızca belirli kuruluşlar için eşitlemeye izin ver](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+
+[Bazı kullanıcılar için OneDrive site oluşturmayı devre dışı bırak](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+
+[Ağ konumuna dayalı olarak SharePoint Online ve OneDrive verilerine erişimi denetleme](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+
+[Kişisel OneDrive eşitleme devre dışı bırakma](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+
+[OneDrive ve diğer hizmetler için Windows aygıtlardan bağlantılarını yönetme](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

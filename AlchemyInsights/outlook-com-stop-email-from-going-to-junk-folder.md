@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6dfccf70f1d200a57b916b8aa7bea1a154a7cfad
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 062a0d9bfbd83ed40457f603cc739e3a916c7045
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35696976"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511939"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Dur iletileri gelen önemsiz e-posta klasörünüze gitme
 
-Önemsiz e-posta iletisinde, önemsiz e-posta klasörünüze olmadığını fark ederseniz:
+Önemsiz e-posta iletisinde, önemsiz e-posta klasörünüze Outlook.com olmadığını fark ederseniz:
 
 1. [Önemsiz e-posta klasörünü](https://outlook.live.com/mail/junkemail)açın.
 1. İletiyi seçin. (*Not:* , önemsiz e-posta klasöründeki öğeler 30 gün sonra silinir.)
