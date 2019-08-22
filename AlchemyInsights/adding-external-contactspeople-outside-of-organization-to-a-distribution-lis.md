@@ -13,15 +13,15 @@ ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: 46ab32341a75695ffe925a09b7e30be6065b4c32
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e31a9f4213a69e84f78fcd00b767edb04bd9ec4e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358129"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494583"
 ---
-# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="a7983-102">Dış e-posta adreslerini bir dağıtım grubuna ekleyin.</span><span class="sxs-lookup"><span data-stu-id="a7983-102">Add external email addresses to a distribution group</span></span>
+# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="7853e-102">Dış e-posta adreslerini bir dağıtım grubuna ekleyin.</span><span class="sxs-lookup"><span data-stu-id="7853e-102">Add external email addresses to a distribution group</span></span>
 
-<span data-ttu-id="a7983-103">İlk olarak, dış e-posta adresi için kuruluşunuzdaki bir kişi oluşturmak gerekir.</span><span class="sxs-lookup"><span data-stu-id="a7983-103">First, you need to create a contact in your organization for the external email address.</span></span> <span data-ttu-id="a7983-104">Daha sonra dağıtım grubuna ilgili kişi ekleyebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="a7983-104">Then, you can add the contact to the distribution group.</span></span> <span data-ttu-id="a7983-105">Daha fazla bilgi için bkz: [dış kullanıcı bir dağıtım grubuna ekleme?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span><span class="sxs-lookup"><span data-stu-id="a7983-105">For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
+<span data-ttu-id="7853e-103">İlk olarak, dış e-posta adresi için kuruluşunuzdaki bir kişi oluşturmak gerekir.</span><span class="sxs-lookup"><span data-stu-id="7853e-103">First, you need to create a contact in your organization for the external email address.</span></span> <span data-ttu-id="7853e-104">Daha sonra dağıtım grubuna ilgili kişi ekleyebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="7853e-104">Then, you can add the contact to the distribution group.</span></span> <span data-ttu-id="7853e-105">Daha fazla bilgi için bkz: [dış kullanıcı bir dağıtım grubuna ekleme?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span><span class="sxs-lookup"><span data-stu-id="7853e-105">For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
 
-<span data-ttu-id="a7983-106">Dış kullanıcıların dağıtım grubuna ileti göndermek isterseniz, Grup dış gönderenlerden gelen posta kabul edecek biçimde yapılandırılmış doğrulayın.</span><span class="sxs-lookup"><span data-stu-id="a7983-106">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders.</span></span> <span data-ttu-id="a7983-107">Daha fazla bilgi için bkz: [teslim Yönetimi](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span><span class="sxs-lookup"><span data-stu-id="a7983-107">For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>
+<span data-ttu-id="7853e-106">Dış kullanıcıların dağıtım grubuna ileti göndermek isterseniz, Grup dış gönderenlerden gelen posta kabul edecek biçimde yapılandırılmış doğrulayın.</span><span class="sxs-lookup"><span data-stu-id="7853e-106">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders.</span></span> <span data-ttu-id="7853e-107">Daha fazla bilgi için bkz: [teslim Yönetimi](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span><span class="sxs-lookup"><span data-stu-id="7853e-107">For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>
