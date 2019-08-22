@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 189eb0365e57bb872e1fb4ea400bff0f786e640b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420144"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533281"
 ---
 # <a name="trying-to-verify-your-domain"></a>Etki alanınızı doğrulamaya mı çalışıyorsunuz?
 
-Etki alanınızın sahibi olduğunuzu doğrulamak için etki alanı kayıt şirketinize bir TXT kaydı eklemelisiniz. **Ayarlar** \> **Etki Alanı**'na ve ardından **Etki Alanı Ekle**'ye tıklayın ve Etki Alanı Ekle sihirbazını izleyin. 
+Etki alanınızın sahibi olduğunuzu doğrulamak için etki alanı kayıt şirketinize bir TXT kaydı eklemelisiniz. Yeni etki alanı Sihirbazı'nda Microsoft 365 Yönetim Merkezi **Kurulum** giderek izleyin \> **etki alanları**ve **etki alanı Ekle**. 
   
 Etki alanınızı doğrulamak üzere TXT kaydını eklemek için bu makaledeki yönergeleri izleyin. Etki alanınıza ilişkin özel yönergeler için etki alanı kayıt şirketinizi seçin.
   
