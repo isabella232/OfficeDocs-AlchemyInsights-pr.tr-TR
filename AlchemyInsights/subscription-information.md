@@ -13,16 +13,16 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 3c455489f1daadee74eca909e1a974887227039f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388332"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501276"
 ---
 # <a name="subscription-information"></a>Abonelik bilgileri
 
-**Faturalama** için size ait abonelikleri hakkında daha fazla bilgi için gidin \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
+**Faturalama** için gidin, kendi, Yönetim Merkezi'nde, Office 365 abonelikleri hakkında daha fazla bilgi için \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
   
 Her abonelik hakkında önemli bilgiler:
   

@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 65059f334e6a6d74c35324d2b10ca5c175398990
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: d56062f049246fdf63bacfc5884453446d7286c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390316"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523171"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Kredi kartı bilgilerimi nasıl kaldırırım?
 
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
+1. **Faturalama** için Microsoft 365 Yönetim Merkezi'nde Git \> [Ödeme yöntemleri](https://go.microsoft.com/fwlink/p/?linkid=2018806) sayfası.
 
-2. Herhangi bir aboneliği seçin ve sonra da **Ödeme ayrıntılarını güncelleştir**'i seçin.
+2. **Ödeme yöntemleri** sayfasında, kredi kartı numaranızı veya banka hesabı silmek için seçin.
 
-3. **Ödeme yöntemi ekleyin veya seçin** alanında açılan oku seçin, silmek istediğiniz kredi kartını veya banka hesabını seçtikten sonra **Kaldır**'ı seçin.
-
-4. Kredi kartını veya banka hesabını silmek için yeniden **Kaldır**'ı seçin.
+3. Kredi kartı numaranızı veya banka hesabı kaldırmak için seçin **Ödeme yöntemini silin.**
 
 > [!NOTE]
-> Kredi kartında veya banka hesabında devreden bir bakiyeniz olmadığı ve etkin bir aboneliği ödemek için bunu kullanmadığınız sürece, kredi kartını veya banka hesabını kaldırabilirsiniz.
+> Bir aboneliğin ödemesini yapmak için kullanılmakta olan bir kredi kartını veya banka hesabını kaldıramazsınız.
 
-Yeni Yönetim Merkezi kullanıyor musunuz? [Ekleme, güncelleştirme, veya kredi kartı numaranızı veya banka hesabı iş için Office 365'te kaldırma](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)yeni adımlar için bkz.
+4. **Ödeme yöntemi Sil** bölmesinde, **Sil**' i seçin.
+
+Daha fazla bilgi için bkz: [ekleme, güncelleştirme, veya kredi kartı numaranızı veya banka hesabı iş için Office 365'te kaldırma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

@@ -13,40 +13,38 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: f2d9896f10f122e3d1e6b24de441144134d03570
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388836"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522451"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Nasıl eklemek veya lisansları azaltmak
 
-Nasıl kaldırmak veya daha fazla lisans satın İşte.
+İşte nasıl kaldırmak veya daha çok Office 365 lisansları satın alın.
   
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
+1. **Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
 
-2. Soldaki bölmede, abonelik lisanslarını eklemek/kaldırmak istediğiniz seçin
+2. Abonelik lisanslarını eklemek/kaldırmak istediğiniz seçin.
 
-3. **Lisans ekle/kaldır**'ı seçin.
+3. **Lisans Ekle/Kaldır'ı**seçin.
 
 4. Kullanıcıların gerekli toplam sayısını girin.
 
     Örneğin, şu anda 25 lisansları var ve 5 kaldırmak istediğiniz 20 Bu alana girin.
 
-5. **Gönder**'i seçin.
+5. **Gönder Değiştir**' i seçin.
 
 > [!NOTE]
 > Yeni ücretsiz (lisans artış) ya da kredi (lisans azaltma) sonraki faturanızda gösterilir.
 
-Yeni Yönetim Merkezi kullanıyor musunuz? [Office 365 iş abonelik lisanslarını satın](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)yeni adımlar için bkz.
+Daha fazla bilgi için bkz: [İş Abonelik için Office 365 lisansları satın alın](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
- **Kaynaklar**
+ **Ek kaynaklar**
   
-- [İşletmeler için Office 365 aboneliğinizden lisans kaldırma](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [İşletmeler için Office 365 aboneliğinizden lisans kaldırma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
 
-- [Office 365 İş aboneliğiniz için lisans satın alma](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)
+- [Office 365 İş'i iptal etme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
 
-- [Office 365 İş'i iptal etme](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
-
-- [Başka bir İşletmeler için Office 365 aboneliği satın alma](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Başka bir İşletmeler için Office 365 aboneliği satın alma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)

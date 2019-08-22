@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2389"
-ms.openlocfilehash: 42be9f5a34d16e51ae2ac2173bcc365f006cc2e1
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 25276298935449e93ac07d132e4ff4d726516c89
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36272179"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526087"
 ---
 # <a name="external-sharing"></a>Dış paylaşım
 
@@ -37,7 +37,7 @@ Dış paylaşımı hakkında daha fazla bilgi için aşağıdaki bağlantıları
 Bir hata ile harici kullanıcı alma?Aşağıdaki bağlantıları kontrol edin:
 
 - ["Erişim reddedildi", "İhtiyacınız bu siteye erişme izni" veya "Kullanıcı dizinde bulunamadı" hataları SharePoint çevrimiçi ve iş OneDrive](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [Bir öğe veya SharePoint çevrimiçi ya da OneDrive iş için sitede paylaşırken "konusunda kuruluşunuzun ilkelerini bu kullanıcılarla paylaşmak izin vermiyor" hata](https://docs.microsoft.com/en-us/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Bir öğe veya SharePoint çevrimiçi ya da OneDrive iş için sitede paylaşırken "konusunda kuruluşunuzun ilkelerini bu kullanıcılarla paylaşmak izin vermiyor" hata](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 - [Paylaşım seçeneklerini SharePoint çevrimiçi veya OneDrive paylaşırken nda](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
 - [Başka bir hesabı kullanarak harici bir kullanıcı SharePoint çevrimiçi daveti kabul ettiğinde hata iletisi](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
 - [OSE SharePoint ve OneDrive hatalar paylaşımı](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
