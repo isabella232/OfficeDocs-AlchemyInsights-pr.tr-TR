@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385421"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522523"
 ---
-# <a name="how-to-assign-office-licenses-to-mac-users"></a><span data-ttu-id="bdd01-102">Mac kullanıcıları için Office lisansı atama hakkında</span><span class="sxs-lookup"><span data-stu-id="bdd01-102">How to assign Office licenses to Mac users</span></span>
+# <a name="how-to-assign-office-licenses-to-mac-users"></a><span data-ttu-id="598dd-102">Mac kullanıcıları için Office lisansı atama hakkında</span><span class="sxs-lookup"><span data-stu-id="598dd-102">How to assign Office licenses to Mac users</span></span>
 
-- <span data-ttu-id="bdd01-103">Microsoft 365 Yönetim Merkezi'ndeki [Etkin kullanıcılar](https://go.microsoft.com/fwlink/p/?linkid=834822) sayfasına gidin veya **kullanıcıların** \> **Etkin kullanıcılar**.</span><span class="sxs-lookup"><span data-stu-id="bdd01-103">In the Microsoft 365 admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.</span></span>
+1. <span data-ttu-id="598dd-103">**Kullanıcıların** Yönetim Merkezi'nde Git \> [Etkin kullanıcılar](https://go.microsoft.com/fwlink/p/?linkid=834822) sayfa.</span><span class="sxs-lookup"><span data-stu-id="598dd-103">In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
 
-- <span data-ttu-id="bdd01-104">Lisans atamak istediğiniz kullanıcının adının yanındaki kutuyu seçin.</span><span class="sxs-lookup"><span data-stu-id="bdd01-104">Select the box next to the name of the user to whom you want to assign a license.</span></span>
+2. <span data-ttu-id="598dd-104">Atama, değiştirme veya bir lisans kaldırmak istediğiniz kullanıcının adını seçin.</span><span class="sxs-lookup"><span data-stu-id="598dd-104">Select the name of the user to whom you want to assign, change, or remove a license.</span></span>
 
-- <span data-ttu-id="bdd01-105">Sağ kısımdaki **Ürün lisansları** satırında **Düzenle**'yi seçin.</span><span class="sxs-lookup"><span data-stu-id="bdd01-105">On the right, in the **Product licenses** row, choose **Edit**.</span></span>
+3. <span data-ttu-id="598dd-105">Bu kullanıcıya atamak istediğiniz lisans **Lisans ve uygulamalar** sekmesinde seçin.</span><span class="sxs-lookup"><span data-stu-id="598dd-105">On the **Licenses and Apps** tab, select the license that you want to assign to this user.</span></span>
 
-- <span data-ttu-id="bdd01-106">**Ürün Lisansı**s Bölmesi'nde, bu kullanıcıya atamak istediğiniz lisans **üzerindeki** konumunu aç/kapa geçin.</span><span class="sxs-lookup"><span data-stu-id="bdd01-106">In the **Product license**s pane, switch the toggle to the **On** position for the license that you want to assign to this user.</span></span>
+    <span data-ttu-id="598dd-106">Varsayılan olarak, söz konusu lisansla ilişkili tüm hizmetler kullanıcıya otomatik olarak atanır.</span><span class="sxs-lookup"><span data-stu-id="598dd-106">By default, all services associated with that license are automatically assigned to the user.</span></span> <span data-ttu-id="598dd-107">Kullanıcıya hangi hizmetlerin kullanılabileceğini sınırlamak için o kullanıcının sahip olmasını istemediğiniz Hizmetleri onay kutusunu temizleyin.</span><span class="sxs-lookup"><span data-stu-id="598dd-107">To limit which services are available to the user, clear the check box for the services that you don't want that user to have.</span></span>
 
-- <span data-ttu-id="bdd01-107">**Ürün lisansları** bölmesinin en altında, **Kaydet** \> **Kapat** \> **Kapat**'ı seçin.</span><span class="sxs-lookup"><span data-stu-id="bdd01-107">At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.</span></span>
+4. <span data-ttu-id="598dd-108">Bölmenin alt kısmında, **Değişiklikleri Kaydet**' i seçin.</span><span class="sxs-lookup"><span data-stu-id="598dd-108">At the bottom of the pane, choose **Save changes**.</span></span>
 
-<span data-ttu-id="bdd01-108">Daha fazla bilgi için: [iş için Office 365'te kullanıcılara lisans atayın](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="bdd01-108">For more information: [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span></span>
+<span data-ttu-id="598dd-109">Daha fazla bilgi için: [iş için Office 365'te kullanıcılara lisans atayın](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="598dd-109">For more information: [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span></span>
   
