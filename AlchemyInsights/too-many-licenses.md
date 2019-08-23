@@ -13,27 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388044"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549095"
 ---
 # <a name="too-many-licenses"></a>Çok fazla lisans?
 
-İçin çok fazla lisans fatura düşünüyorsanız, sonra da gereksinim duyduğunuz daha fazla lisans satın nedeniyle genellikle budur.
+İçin çok sayıda Office 365 lisansları fatura düşünüyorsanız, sonra da gereksinim duyduğunuz daha fazla lisans satın nedeniyle genellikle budur.
   
 **Satın alınan lisans sayısını azaltın**
   
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
+1. **Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
 
-2. Soldaki bölmede, abonelik lisanslarını kaldırmak istediğiniz seçin.
+2. Lisansları kaldırmak istediğiniz aboneliğin sonra **Lisans Ekle/Kaldır'ı**seçin.
 
-3. **Lisans ekle/kaldır**'ı seçin.
+3. **Toplam lisans** kutusunda, bu abonelik için gereken lisansların toplam sayısını girin ve ardından **Gönder'i Değiştir**' i seçin. Örneğin, 110 lisansınız varsa ve bunların 5'ini silmek istiyorsanız 105 yazın.
 
-4. Kullanıcıların gerekli toplam sayısını girin. Örneğin, şu anda 25 lisansları var ve 5 kaldırmak istediğiniz 20 Bu alana girin.
-
-5. **Gönder**'i seçin.
-
-Yeni Yönetim Merkezi kullanıyor musunuz? Yeni adımlar için bkz: [İş Abonelik için Office 365 lisanslarını kaldırma](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Daha fazla bilgi için [Office 365 iş abonelik lisanslarını kaldırma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)konusuna bakın.

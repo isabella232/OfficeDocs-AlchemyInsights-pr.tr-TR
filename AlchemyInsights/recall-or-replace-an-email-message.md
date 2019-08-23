@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356617"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553452"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Çağrılacağı ya da bir e-posta iletisi
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Çağrılacağı ya da Office 365'te bir e-posta iletisi
 
 - **Yalnızca kuruluşunuzdaki kişilere gönderilen iletileri geri çağırma**kullanabilirsiniz. Örneğin, Gmail adresine ileti gönderilmişse, onu Çekemiyor.
 - **Yalnızca PC için 2016 Outlook uygulamasından gönderilen iletileri geri çağırma**kullanabilirsiniz. Bir kullanıcı Mac için Outlook veya Outlook Web kullanarak bir ileti gönderirse, Çekemiyor.
 - Bir yönetici iseniz, **PowerShell kullanarak kullanıcılar adına ileti geri çekme**olabilir. Yönetim Merkezi iletilerden Çekemiyor. "Ara ve kuruluşunuzdaki e-posta iletileri silme" daha fazla bilgi için gidin.
 
-***Çağrılacağı ya da size gönderilen bir e-posta iletisi***
+**Çağrılacağı ya da size gönderilen bir e-posta iletisi**
 
 1. Gönderilmiş Öğeler klasörü Outlook penceresinin soldaki klasör bölmesinde seçin.
 2. Geri çekmek istediğiniz iletiyi açın. İletiyi açmak için çift tıklatmanız gerekir. Okuma Bölmesi'nde görüntülenir, böylece iletiyi seçerek iletiyi geri çekmek izin vermiyor.

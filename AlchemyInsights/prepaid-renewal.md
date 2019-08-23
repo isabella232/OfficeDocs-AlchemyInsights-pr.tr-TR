@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388620"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554641"
 ---
-# <a name="prepaid-renewal"></a>Ön ödemeli yenileme
+# <a name="prepaid-office-365-renewal"></a>Ön ödemeli Office 365 yenileme
 
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
+1. **Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
 
-2. Ön ödemeli abonelik uzatma sonra **Genişlet**' i seçin ister misiniz seçin.
+2. Genişletmek istediğiniz abonelik bulun. **Faturalama** bölümünde **genişletme bitiş tarihini**seçin.
 
-3. **Ürün anahtarı**için bir seçenek belirleyin. (Bu bir ürün anahtarı satın perakende konumda ise, diğer ödeme yöntemleriyle uzatma seçeneği olabilir.)
+3. **Extend abonelik** bölmesinde, **Yeni ve kullanılmamış ürün anahtarı kullan**' ı seçin, sonra **İleri**' yi seçin.
 
-4. Ürün anahtarını girin.
+4. Ürün anahtarını girin ve sonra **İleri**' yi seçin.
 
-5. Bilgilerin doğru olduğundan emin olun, sonra **İleri**' yi seçin.
+> [!NOTE]
+> Birden fazla ürün anahtarı varsa, bunları girmek için **başka bir ürün anahtarı eklemek** seçebilirsiniz.
 
-6. Varolan lisans bitiş tarihini uzatmak ve ardından **sonraki**seçim için radyo düğmesini seçin.
+5. Sipariş ayrıntılarınızı gözden geçirin ve sonra **Redeem**seçin.
 
-Yeni Yönetim Merkezi kullanıyor musunuz? Yeni adımlar için bkz: [Lisans eklemek veya bir ürün anahtarı kullanarak için ödenen bir abonelik uzatma](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+Daha fazla bilgi için bkz: [Lisans eklemek veya bir ürün anahtarı kullanarak için ödenen bir abonelik uzatma](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

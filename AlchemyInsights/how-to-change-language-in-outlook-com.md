@@ -13,16 +13,16 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 1f354ea7195a0927abc5c46538b66c6c705bfc20
-ms.sourcegitcommit: 9c6c2ff5865275dc8e3d48132180108884647365
+ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34430584"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541686"
 ---
 # <a name="change-your-language"></a>Dilinizi değiştirin
 
-1. [**Dil ve saat**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) ayarları gidin (**ayarları** \> **tüm Outlook ayarları görüntülemek** > **Genel** > **Dil ve saat**).
+1. Chang için Outlook bu dili, [**Dil ve saat**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) Ayarları'na gidin (**ayarları** \> **tüm Outlook ayarları görüntülemek** > **Genel** > **Dil ve saat**).
 
 2. Dilinizi seçin.
 
