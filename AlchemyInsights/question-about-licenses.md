@@ -13,25 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388476"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553596"
 ---
-# <a name="question-about-licenses"></a>Lisansları hakkında soru
+# <a name="questions-about-your-office-365-license"></a>Office 365 lisansınız hakkında sorular
 
 Satın aldığınız lisans veya lisans sayısını bir abonelikten atanan bilmek istiyorsanız:
   
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
+1. **Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
 
-2. Daha fazla bilgi almak istediğiniz aboneliği seçin.
+2. Hakkında daha fazla bilgi edinmek istediğiniz abonelik adı altında lisanslar için ödeme yapıyorsanız ve ne kadar atanmak üzere kullanılabilir sayısını görebilirsiniz.
 
-3. Abonelik kartı sol tarafında lisanslarınızı hakkında bilgiler verilmektedir:
-
-  - **Satın alınan** lisans için ödeme yapıyorsanız sayıdır.
-
-  - Bir kullanıcıya atanan lisans sayısı **atanan** sayıdır.
-
-4. Daha çok lisans eklemek isterseniz veya çok varsa, çoğu, **Ekle/Kaldır lisansları** satın miktarını ayarlamak için seçin.
+Daha çok lisans eklemek isterseniz veya çok varsa, çoğu, **Ekle/Kaldır lisansları** satın miktarını ayarlamak için seçin.

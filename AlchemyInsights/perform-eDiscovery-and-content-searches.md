@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444792"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555253"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>İçerik arama ve eBulma aramalar gerçekleştirme
 
@@ -32,6 +32,6 @@ Exchange posta kutuları, SharePoint siteleri ve OneDrive hesap ve anlık ileti 
 4. Anahtar sözcükler ve içerik konumları dahil olmak üzere gerekli arama koşulu girin.  
 5. Arama adı, yeniden başlatın ve sonra sonuçların önizlemesini görmek için **& çalışma Kaydet** ' i tıklatın.
 
-İçerik arama hakkında ayrıntılı yönergeler için [İçerik arama](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) ve [eBulma çalışmalarının](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases)sonuçları verme ve veri tutmak için eBulma durumları oluşturma bakın.
+İçerik arama hakkında ayrıntılı yönergeler için [İçerik arama](https://docs.microsoft.com/office365/securitycompliance/content-search) ve [eBulma çalışmalarının](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)sonuçları verme ve veri tutmak için eBulma durumları oluşturma bakın.
 
-Dikkat edilmesi gereken [gereksinimleri ve sınırları](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) ve [kısmen dizinli öğe araştırma](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) inceleme tarafından içerik arama hakkında daha fazla bilgi ve diğer sonuçları anlamak.
+Dikkat edilmesi gereken [gereksinimleri ve sınırları](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) ve [kısmen dizinli öğe araştırma](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) inceleme tarafından içerik arama hakkında daha fazla bilgi ve diğer sonuçları anlamak.

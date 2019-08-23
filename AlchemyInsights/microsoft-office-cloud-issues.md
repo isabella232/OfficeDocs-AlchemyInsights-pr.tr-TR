@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 956cf333f83dc681b7d74e984fdeb4c6c273d703
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769527"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544631"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Bulut hizmeti ile sorunlarınız var mı?
 
-Bulut hizmeti ile ilgili sorunlar yaşıyorsanız, [Sağlık Hizmeti](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) desteği'ni arayın veya sorun giderme zaman harcamak önce devam eden bir çözüm ile ilgili bilinen bir sorun olup olmadığını belirlemek için kontrol edebilirsiniz. Çok geçici ve ancak olabilir lapse zaman sorunu tanımlama ve nakil Hizmetleri sağlık Panosu arasında Microsoft tarafından önceden tanımlanmış bir sorun olabilir. Lütfen daha fazla güncelleştirmeleri hizmet Pano bakmaya devam edin.
+Bulut hizmeti ile ilgili sorunlar yaşıyorsanız, destek çağrısı veya sorun giderme zaman harcamak önce devam eden bir çözüm ile ilgili bilinen bir sorun olup olmadığını belirlemek için [Sağlık Hizmeti](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Microsoft 365 Yönetim Merkezi'ndeki denetleyebilirsiniz. Çok geçici ve ancak olabilir lapse zaman sorunu tanımlama ve nakil Hizmetleri sağlık Panosu arasında Microsoft tarafından önceden tanımlanmış bir sorun olabilir. Lütfen daha fazla güncelleştirmeleri hizmet Pano bakmaya devam edin.
 
 **İlke bildirimi**
 

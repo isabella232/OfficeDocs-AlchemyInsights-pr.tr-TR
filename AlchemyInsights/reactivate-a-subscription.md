@@ -13,23 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391072"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553380"
 ---
-# <a name="reactivate-a-subscription"></a>Bir aboneliğini yeniden etkinleştir
+# <a name="reactivate-an-office-365-subscription"></a>Office 365 aboneliğini yeniden etkinleştir
 
 Aboneliğinizin süresi dolarsa, Microsoft tarafından devre dışı bırakıldı veya bir abonelik süresi ortasında iptal edildi, Yönetim Merkezi'nde yeniden etkinleştirebilirsiniz.
   
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
+1. **Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
 
-2. Yeniden etkinleştirin, sonra da **yeniden etkinleştir**' i seçin, istediğiniz aboneliği seçin.
+2. Yeniden etkinleştirmek istediğiniz aboneliği seçin. Faturalama bölümünde **yeniden etkinleştir**' i seçin.
 
-    **Yeniden** kullanılabilir bir eylem olarak görmüyorsanız, aboneliğinizi yeniden etkinleştirmek için bir destek mühendisi konuşmak için "siz bizi arayın" seçeneğini kullanın.
+    **Yeniden** kullanılabilir eylem, aboneliğinizi yeniden etkinleştirmek için [destek çağrısı](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) görmüyorsanız.
 
-3. Ödeme ayrıntılarınızı girin. Varolan ödeme bilgilerinizi buraya güncelleştirebilirsiniz.
+3. Ödeme ayrıntılarınızı doğrulayın. Varolan ödeme bilgilerinizi buraya güncelleştirebilirsiniz. Ödeme yönteminize girmeyi bitirdiğinizde, **yeniden etkinleştir**' i seçin.
 
-Yeni Yönetim Merkezi kullanıyor musunuz? [Aboneliğinizi yeniden](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription)yeni adımlar için bkz.
+Daha fazla bilgi için bkz: [aboneliğinizi yeniden etkinleştirin](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

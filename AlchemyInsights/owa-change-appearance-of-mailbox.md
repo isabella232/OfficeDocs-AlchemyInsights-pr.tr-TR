@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171378"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557521"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Posta kutunuz görünümünü değiştirme
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Outlook posta kutunuzda görünümünü değiştirme
 
 Böylece arar ve istediğiniz gibi davranır, ileti listesi ve okuma bölmesi görünümünü değiştirebilirsiniz. Yeni iletileri üstüne veya altına ve ileti listesinde görünmüyorsa, iletilerinizi tek tek veya konuşmalar, olarak görüntülenip görüntülenmeyeceğini seçin.
 
