@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 122
 ms.assetid: 9468585d-e98e-4774-9176-44be073c54d0
-ms.openlocfilehash: b09b8d99a98865423b0c77104bde82ac4df6867c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7782381d8c4ea3de7b0392aa4c3a7ec5b48360a7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418633"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538833"
 ---
-# <a name="need-to-create-an-email-signature"></a><span data-ttu-id="63765-102">Bir e-posta imzası gerekiyor?</span><span class="sxs-lookup"><span data-stu-id="63765-102">Need to create an email signature?</span></span>
+# <a name="need-to-create-an-email-signature"></a><span data-ttu-id="f9272-102">Bir e-posta imzası gerekiyor?</span><span class="sxs-lookup"><span data-stu-id="f9272-102">Need to create an email signature?</span></span>
 
-<span data-ttu-id="63765-103">Outlook hesabı veya bir Outlook web (Office 365 iş veya Okul) hesabı varsa, bir imza oluşturun ve tüm giden iletilere otomatik olarak eklemek veya seçime bağlı olarak, belirli giden iletilere ekleme.</span><span class="sxs-lookup"><span data-stu-id="63765-103">If you have an Outlook account or an Outlook on the web (Office 365 work or school) account, you can create a signature and automatically add it to all outgoing messages, or selectively add it to specific outgoing messages.</span></span> <span data-ttu-id="63765-104">E-posta imzanız Outlook ve Outlook web üzerinde farklı olduğunu unutmayın.</span><span class="sxs-lookup"><span data-stu-id="63765-104">Note that your email signature is different in Outlook and Outlook on the web.</span></span> <span data-ttu-id="63765-105">E-posta imzanızı oluşturmak için bkz: [oluşturma ve Outlook'ta iletilere imza eklemek](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) veya [oluşturma ve web üzerinde Outlook'ta bir e-posta imzası ekleyin](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx).</span><span class="sxs-lookup"><span data-stu-id="63765-105">To create your email signature, see [Create and add a signature to messages in Outlook](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) or [Create and add an email signature in Outlook on the web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx).</span></span>
+<span data-ttu-id="f9272-103">Outlook hesabı veya bir Outlook web (Office 365 iş veya Okul) hesabı varsa, bir imza oluşturun ve tüm giden iletilere otomatik olarak eklemek veya seçime bağlı olarak, belirli giden iletilere ekleme.</span><span class="sxs-lookup"><span data-stu-id="f9272-103">If you have an Outlook account or an Outlook on the web (Office 365 work or school) account, you can create a signature and automatically add it to all outgoing messages, or selectively add it to specific outgoing messages.</span></span> <span data-ttu-id="f9272-104">E-posta imzanız Outlook ve Outlook web üzerinde farklı olduğunu unutmayın.</span><span class="sxs-lookup"><span data-stu-id="f9272-104">Note that your email signature is different in Outlook and Outlook on the web.</span></span> <span data-ttu-id="f9272-105">E-posta imzanızı oluşturmak için bkz: [oluşturma ve Outlook'ta iletilere imza eklemek](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) veya [oluşturma ve web üzerinde Outlook'ta bir e-posta imzası ekleyin](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx).</span><span class="sxs-lookup"><span data-stu-id="f9272-105">To create your email signature, see [Create and add a signature to messages in Outlook](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) or [Create and add an email signature in Outlook on the web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx).</span></span>
 

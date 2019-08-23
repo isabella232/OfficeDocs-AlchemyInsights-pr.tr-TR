@@ -13,23 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391072"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553380"
 ---
-# <a name="reactivate-a-subscription"></a><span data-ttu-id="97fb9-102">Bir aboneliğini yeniden etkinleştir</span><span class="sxs-lookup"><span data-stu-id="97fb9-102">Reactivate a subscription</span></span>
+# <a name="reactivate-an-office-365-subscription"></a><span data-ttu-id="a8758-102">Office 365 aboneliğini yeniden etkinleştir</span><span class="sxs-lookup"><span data-stu-id="a8758-102">Reactivate an Office 365 subscription</span></span>
 
-<span data-ttu-id="97fb9-103">Aboneliğinizin süresi dolarsa, Microsoft tarafından devre dışı bırakıldı veya bir abonelik süresi ortasında iptal edildi, Yönetim Merkezi'nde yeniden etkinleştirebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="97fb9-103">If your subscription expires, was disabled by Microsoft, or you cancelled it in the middle of a subscription term, you can reactivate it in the admin center.</span></span>
+<span data-ttu-id="a8758-103">Aboneliğinizin süresi dolarsa, Microsoft tarafından devre dışı bırakıldı veya bir abonelik süresi ortasında iptal edildi, Yönetim Merkezi'nde yeniden etkinleştirebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="a8758-103">If your subscription expires, was disabled by Microsoft, or you cancelled it in the middle of a subscription term, you can reactivate it in the admin center.</span></span>
   
-1. <span data-ttu-id="97fb9-104">**Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.</span><span class="sxs-lookup"><span data-stu-id="97fb9-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="a8758-104">**Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.</span><span class="sxs-lookup"><span data-stu-id="a8758-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="97fb9-105">Yeniden etkinleştirin, sonra da **yeniden etkinleştir**' i seçin, istediğiniz aboneliği seçin.</span><span class="sxs-lookup"><span data-stu-id="97fb9-105">Choose the subscription that you want to reactivate, then choose **Reactivate**.</span></span>
+2. <span data-ttu-id="a8758-105">Yeniden etkinleştirmek istediğiniz aboneliği seçin.</span><span class="sxs-lookup"><span data-stu-id="a8758-105">Choose the subscription that you want to reactivate.</span></span> <span data-ttu-id="a8758-106">Faturalama bölümünde **yeniden etkinleştir**' i seçin.</span><span class="sxs-lookup"><span data-stu-id="a8758-106">In the Billing section, select **Reactivate**.</span></span>
 
-    <span data-ttu-id="97fb9-106">**Yeniden** kullanılabilir bir eylem olarak görmüyorsanız, aboneliğinizi yeniden etkinleştirmek için bir destek mühendisi konuşmak için "siz bizi arayın" seçeneğini kullanın.</span><span class="sxs-lookup"><span data-stu-id="97fb9-106">If you do not see **Reactivate** as an available action, use the "Let us call you" option to talk to a support engineer to reactivate your subscription.</span></span>
+    <span data-ttu-id="a8758-107">**Yeniden** kullanılabilir eylem, aboneliğinizi yeniden etkinleştirmek için [destek çağrısı](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) görmüyorsanız.</span><span class="sxs-lookup"><span data-stu-id="a8758-107">If you don't see **Reactivate** as an available action, [call support](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) to reactivate your subscription.</span></span>
 
-3. <span data-ttu-id="97fb9-107">Ödeme ayrıntılarınızı girin.</span><span class="sxs-lookup"><span data-stu-id="97fb9-107">Enter your payment details.</span></span> <span data-ttu-id="97fb9-108">Varolan ödeme bilgilerinizi buraya güncelleştirebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="97fb9-108">You can update your existing payment information here.</span></span>
+3. <span data-ttu-id="a8758-108">Ödeme ayrıntılarınızı doğrulayın.</span><span class="sxs-lookup"><span data-stu-id="a8758-108">Confirm your payment details.</span></span> <span data-ttu-id="a8758-109">Varolan ödeme bilgilerinizi buraya güncelleştirebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="a8758-109">You can update your existing payment information here.</span></span> <span data-ttu-id="a8758-110">Ödeme yönteminize girmeyi bitirdiğinizde, **yeniden etkinleştir**' i seçin.</span><span class="sxs-lookup"><span data-stu-id="a8758-110">When you're finished entering your payment method, select **Reactivate**.</span></span>
 
-<span data-ttu-id="97fb9-109">Yeni Yönetim Merkezi kullanıyor musunuz?</span><span class="sxs-lookup"><span data-stu-id="97fb9-109">Are you using the new admin center?</span></span> <span data-ttu-id="97fb9-110">[Aboneliğinizi yeniden](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription)yeni adımlar için bkz.</span><span class="sxs-lookup"><span data-stu-id="97fb9-110">For new steps, see [Reactivate your subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
+<span data-ttu-id="a8758-111">Daha fazla bilgi için bkz: [aboneliğinizi yeniden etkinleştirin](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="a8758-111">For more information, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
