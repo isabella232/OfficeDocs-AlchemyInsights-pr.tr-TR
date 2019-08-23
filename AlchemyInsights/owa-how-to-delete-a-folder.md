@@ -13,18 +13,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: d6ae972c6d95b33612290b4ee20464e53f60327f
-ms.sourcegitcommit: 3ddd01d693d306d47509da7a2fd44737b3059dd0
+ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "34423072"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556549"
 ---
-# <a name="how-to-delete-a-folder"></a><span data-ttu-id="fa700-102">Nasıl bir klasörü silmek için</span><span class="sxs-lookup"><span data-stu-id="fa700-102">How to delete a folder</span></span>
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a><span data-ttu-id="53ee7-102">Nasıl Outlook web üzerindeki bir klasörü silmek için</span><span class="sxs-lookup"><span data-stu-id="53ee7-102">How to delete a folder in Outlook on the web</span></span>
 
-1. <span data-ttu-id="fa700-103">Klasör bölmesinde, klasör veya silmek istediğiniz alt klasörü sağ tıklatın.</span><span class="sxs-lookup"><span data-stu-id="fa700-103">In the folder pane, right-click the folder or subfolder you want to delete.</span></span>
-2. <span data-ttu-id="fa700-104">**Klasörü Sil**' i seçin.</span><span class="sxs-lookup"><span data-stu-id="fa700-104">Select **Delete folder**.</span></span>
-3. <span data-ttu-id="fa700-105">Onaylamak için **Tamam** ' ı seçin.</span><span class="sxs-lookup"><span data-stu-id="fa700-105">Select **OK** to confirm.</span></span>
+1. <span data-ttu-id="53ee7-103">Klasör bölmesinde, klasör veya silmek istediğiniz alt klasörü sağ tıklatın.</span><span class="sxs-lookup"><span data-stu-id="53ee7-103">In the folder pane, right-click the folder or subfolder you want to delete.</span></span>
+2. <span data-ttu-id="53ee7-104">**Klasörü Sil**' i seçin.</span><span class="sxs-lookup"><span data-stu-id="53ee7-104">Select **Delete folder**.</span></span>
+3. <span data-ttu-id="53ee7-105">Onaylamak için **Tamam** ' ı seçin.</span><span class="sxs-lookup"><span data-stu-id="53ee7-105">Select **OK** to confirm.</span></span>
 
-<span data-ttu-id="fa700-106">Daha fazla bilgi için bkz: [Web'de Outlook'taki ileti klasörleri ile çalışma](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="fa700-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
+<span data-ttu-id="53ee7-106">Daha fazla bilgi için bkz: [Web'de Outlook'taki ileti klasörleri ile çalışma](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="53ee7-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
 
