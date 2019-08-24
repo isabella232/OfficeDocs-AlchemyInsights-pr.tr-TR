@@ -13,23 +13,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 3963f9627da61e6b49f00593094084af3c2db5ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 52e65c95ec8ac0176d30ae8a13a62ba843fbcf34
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526159"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575663"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Office 365 deneme iş için genişletir
 
 Deneme sürümü aboneliğinizin süresi doluyorsa, 15 gün içinde ve deneme önce genişletilmiş taşınmadığından, başka bir 30 günlük süre için denemenizin genişletebilirsiniz. Bu işlem yalnızca bir kez yapılabilir.
   
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa.
+1. **Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
 
 2. Genişletmek istediğiniz deneme aboneliği seçin.
 
-3. **Deneme Genişlet** ' i seçin ve kalan adımları tamamlayın.
+3. **Bölüm & Eylemler** bölümünde **deneme Genişlet** ' i seçin ve kalan adımları tamamlayın.
 
 4. Deneme genişletmek için kredi kartı bilgilerini sağlamanız gerekir. Biz deneme uzantısı için kredi kartınızı ücretinin değil.
 
-Denemeler genişletme hakkında veya hakkında adım adım yönergeler için daha fazla bilgi için [Office 365 işletmeler için denemenizin Genişlet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial)bakın.
+Eski Yönetim Merkezi kullanıyor musunuz? [Genişletme Office 365 işletmeler için deneme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial)eski adımlar için veya daha fazla bilgi için bkz.

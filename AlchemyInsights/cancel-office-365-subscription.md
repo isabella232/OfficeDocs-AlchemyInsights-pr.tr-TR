@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 19f21e93419a208229c64c874748f5f94acfe8b4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4400fa666e0f4485286793a8703f82606702e6cf
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494173"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576076"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Office 365 aboneliğinizi iptal ediliyor?
 
@@ -24,8 +24,8 @@ Siz gidin görmek özür dileriz, ancak aboneliğinizi iptal etmek için seçene
   
 - Deneme müşterisiyseniz, iptal etmek için bir şey yok. Bir ödeme yöntemi sağlamadığınız sürece otomatik olarak deneme aboneliği süresi.
 
-- 25'ten az atanan lisansları varsa, çevrimiçi aboneliğinizi iptal edebilirsiniz. **Faturalama** Git \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054)ve **daha fazla eylem** seçin \> **aboneliği iptal edin**.
+- 25'ten az atanan lisansları varsa, çevrimiçi aboneliğinizi iptal edebilirsiniz. **Faturalama** Git \> [ürünleri & services](https://go.microsoft.com/fwlink/p/?linkid=842054). **Ayarları & Eylemler** bölümünde, **aboneliği iptal**' i seçin.
 
 - 25'ten fazla atanan lisansına sahipseniz, 25'den az olması veya bir destek mühendisine konuşmak için "siz bizi arayın" seçeneği kullanmak kadar kullanıcılar ya da kaldırabilirsiniz.
 
-- Adım adım yönergeler veya aboneliği iptal etme hakkında daha fazla bilgi için bkz: [aboneliğinizi iptal](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Eski Yönetim Merkezi kullanıyor musunuz? [Aboneliğinizi iptal](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)eski adımlar için veya daha fazla bilgi için bkz.

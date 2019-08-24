@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840535"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620743"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>SharePoint veya OneDrive kullanmaya çalışırken bakım ileti için salt okunur
 
-Kullanıcılar, SharePoint veya OneDrive kullanmaya çalışırken bir **Bakım için salt okunur** ileti alabilirsiniz.  Bu durumda, [İleti Merkezi](https://portal.office.com/adminportal/home#/MessageCenter)giderek, Kiracı üzerinde gerçekleşen etkin bakım olup olmadığını denetleyin. Ayrıca, herhangi danışma /, oluşabilecek KAZALARI için denetlemek için [Sağlık Hizmeti](https://portal.office.com/adminportal/home#/servicehealth) panoyu kontrol ettiğinizden emin olun.
+Kullanıcılar, SharePoint veya OneDrive aşağıdaki senaryolardan birini kullanmaya çalışırken bir **Bakım için salt okunur** ileti alabilirsiniz. 
 
-Pano ne ileti merkezi ya da Sağlık Hizmeti geçerli bakımı hakkında hiçbir şey, Kiracı için dikkate aldıysanız, bu sorunu önbelleğe tarayıcı olabilir.
+-   Bir etkin veya planlı bakım etkinlikleri.  Onlar için [İleti Merkezi](https://portal.office.com/adminportal/home#/messagecenter)giderek denetleyin.
+-   Oluşabilecek yüksek öncelikli etkin servis olayı. [Sağlık Hizmeti](https://portal.office.com/adminportal/home#/servicehealth)için giderek herhangi danışma/olayları denetleyin.
+-   Beklenmeyen olaylar nedeniyle 30 min ya da bunu daha az için son sunucularda olmuyor, küçük otomatik düzeltme kurtarma senaryosu. 
+    
+    Hiçbir ileti merkezi vardır veya Sağlık Hizmeti bu küçük kurtarmaları için deftere naklettiği ancak normal olarak çok yakında olmalı.
+
+Çok az sayıda olayda yukarıda listelenen üç senaryolardan birini neden olmuştur ve hizmet geri yüklendi ancak kullanıcıların tarayıcı önbellek temizlenmiş taşınmadığından Kutlandı.
 
 Lütfen siteye gitmeden önce tarayıcı önbelleği temizlemek deneyin.
 
