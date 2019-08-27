@@ -13,22 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: c65d8606b749c76c90271c1d81d78d1c843618a3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3135c72aefac97eb58cfa8e2deffebe318c20753
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390460"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575680"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Nasıl kredi kartı eklerim?
 
-1. Yönetim merkezinde **Ödeme** \> [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
+1. Microsoft 365 yönetim merkezinde **Faturalama** \> [Ödeme yöntemleri](https://go.microsoft.com/fwlink/p/?linkid=2018806) sayfasına gidin.
 
-2. Yeni kredi kartı veya banka hesabıyla ödeme yapmak istediğiniz aboneliği seçikten sonra **Ödeme ayrıntılarını güncelleştir**’i seçin.
+2. **Ödeme yöntemi ekle**’yi seçin.
 
-3. 
-            **Ödeme yöntemi ekleyin veya seçin** alanında aşağı açılan oku seçin ve sonra **Yeni kredi kartı**'nı veya **Yeni banka hesabı**’nı seçin.
+3. **Ödeme yöntemleri** sayfasındaki açılan menüden bir ödeme yöntemi seçin.
 
-4. Yeni kredi kartı veya banka hesabının bilgilerini girin ve sonra Gönder’i seçin.
+4. Yeni kredi kartı veya banka hesabının bilgilerini girin ve sonra **Kaydet**’i seçin.
 
-Yeni yönetim merkezini kullanıyor musunuz? Yeni adımlar için bkz. [İş için Office 365'te kredi kartı veya banka hesabı ekleme, güncelleştirme veya kaldırma](https://docs.microsoft.com/tr-TR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Eski yönetim merkezini mi kullanıyorsunuz? Eski adımları öğrenmek veya daha fazla bilgi edinmek için bkz. [İş için Office 365'te kredi kartı veya banka hesabı ekleme, güncelleştirme veya kaldırma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

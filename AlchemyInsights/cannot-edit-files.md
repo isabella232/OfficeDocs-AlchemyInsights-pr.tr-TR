@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 546d9c63d0ed37403d602e942c18d1b35caf6075
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 243179d0501089ee4865aeaf6b340a68f428d6c1
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519712"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631647"
 ---
-# <a name="cant-edit-files"></a>Dosyaları düzenleyemezsiniz?
+# <a name="cant-edit-files"></a>Dosyaları düzenleyemezsiniz? 
 
 Bir belge, çalışma sayfası veya sunu düzenlemeye karşı kilitlenmiş ve Windows masaüstü uygulamalarında açılamıyor, dosya zaten başkası tarafından düzenlenmekte olan veya dosya kullanıma sahip oldukları olabilir. Bazı nedenleri [neden dosyayı düzenlemeniz mümkün olmayabilir](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)hızlı bir göz atalım.
 
