@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388692"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555289"
 ---
-# <a name="payment-options"></a>Ödeme seçenekleri
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Office 365 İş abonelikleri için ödeme seçenekleri
 
 **Ödeme seçenekleri**
   
@@ -30,7 +30,7 @@ Kredi kartı, Banka Hesabı (talimatlı ödeme) ve Fatura (çekle veya elektroni
   
 Aboneliğiniz için kredi kartı veya banka hesabıyla ödeme yaptığınızda, abonelik döneminizin sonuna kadar, fatura tarihinden bir gün sonra otomatik olarak ücretlendirilirsiniz. Gerektiğinde [kredi kartı veya banka hesabı bilgilerinizi güncelleştirebilirsiniz](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account). Ayrıca, dilerseniz [Fatura ekstrenizin kopyasını e-posta olarak alma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
-Kredi kartınız reddedildiyse veya vadesi geçmiş borç bakiyesi varsa **Faturalama** \> [Abonelikler](https://portal.office.com/adminportal/home#/subscriptions) sayfasındaki **Şimdi Öde** seçeneğini kullanabilirsiniz.
+Kredi kartınız reddedildiyse veya vadesi geçmiş borç bakiyesi varsa **Faturalama** \> [Ürünler ve hizmetler](https://portal.office.com/adminportal/home#/subscriptions) sayfasındaki **Bakiyeyi Öde** seçeneğini kullanabilirsiniz.
   
 **Faturayla ödeme (çek veya elektronik fon transferi)**
   
