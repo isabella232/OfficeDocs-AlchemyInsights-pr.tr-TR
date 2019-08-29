@@ -3,7 +3,6 @@ title: 1385-office-365-uyarı-ilkeleri
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,26 +12,26 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 46a029f262fa05edffa6f681c7205e289fe448c5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496372"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661316"
 ---
 # <a name="office-365-alert-policies"></a>Office 365 uyarı ilkeleri
 
-Office 365 Enterprise veya Office 365 ABD hükümeti E1/G1, E3/G3 veya E5/G5 abone olan kuruluşlar için uyarı tetikleyen Uyumluluk Merkezi teklifleri [Varsayılan uyarı ilkeleri](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) Office 365 güvenlik &. Bu nedenle, yöneticiler tarafından Office365Alerts@microsoft.com gibi bir konu satırı ile gönderilen bir uyarı e-posta bildirimi alabilirsiniz "düşük önem Uyarı:*Uyarı ilkesinin adı*". Uyarı bildirimlerini gönderilen zaman gibi genel etkinlikler için uyarılar tetiklendiğinde kullanıcılar:
+Office 365 Enterprise veya Office 365 ABD hükümeti E1/G1, E3/G3 veya E5/G5 abone olan kuruluşlar için uyarı tetikleyen Uyumluluk Merkezi teklifleri [Varsayılan uyarı ilkeleri](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) Office 365 güvenlik &. Bu nedenle, yöneticiler tarafından Office365Alerts@microsoft.com gibi bir konu satırı ile gönderilen bir uyarı e-posta bildirimi alabilirsiniz "düşük önem Uyarı: *Uyarı ilkesinin adı*". Uyarı bildirimlerini gönderilen zaman gibi genel etkinlikler için uyarılar tetiklendiğinde kullanıcılar:
 
 - İleriye doğru e-posta Gelen Kutusu kuralları oluşturun.
 - Kendi posta kutusu izinleri atayın.
-- Paylaşımı veya çok sayıda dosya SharePoint dosya paylaşımı siliniyor.
+- Paylaşmak veya çok sayıda SharePoint dosya paylaşımı dosyaları silin.
 - EBulma aramalar oluşturabilir ve arama sonuçlarını aktarın.
 
 Gözden geçirmek ve uyarı üzerinde çalışmak için:
 
-1. [Güvenlik & Uyumluluk Merkezi](https://protection.office.com) için gidin ve oturum açın.
-2. **Uyarılar > Uyarıları görüntüle'yi**tıklatın.
+1. [Güvenlik & Uyumluluk Merkezi](https://protection.office.com) gidin ve oturum açın.
+2. **Uyarılar**' ı > **Uyarıları görüntüle**.
 3. Uyarı uyarı hakkında bilgi içeren bir çıkma sayfasını görüntülemek için tıklatın.
 
 [Şüpheli gelen kutusu kuralı kaldırma](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)gibi bir uyarı üzerinde işlemleri gerçekleştirebilir. Ya da sadece uyarı çıkma sayfada **Çözümleme** tıklatarak uyarıyı kapatabilirsiniz.
@@ -41,8 +40,8 @@ Uyarı ilkelerini yönetme ve yapılandırma hakkında daha fazla bilgi için [B
 
 **Önemli**: Microsoft uyarı e-posta bildirimlerini asla istemez, aşağıdakileri yapın:
 
-- Bir parola sağlayın.
-- Hesabınızı güvenlik ayrıntılarını doğrulayın.
-- Kendinizi yeniden kimlik doğrulaması.
+- Bir parola sağlayın
+- Hesabınızı güvenlik ayrıntılarını doğrulayın
+- Kendinizi yeniden kimlik doğrulaması
 
 Böyle bir e-posta iletisi alırsanız, Microsoft tarafından gönderilmedi ve kimlik avı dolandırıcılığı düşünülmelidir. Bu durumda, [onu Microsoft'a bildirin](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)Lütfen.

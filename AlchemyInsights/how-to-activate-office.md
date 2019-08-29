@@ -1,8 +1,7 @@
 ---
-title: Office etkinleştirme
+title: Office nasıl etkinleştirilir?
 ms.author: jillz
 author: jillz
-ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,20 +11,20 @@ ms.custom:
 - "936"
 - "2000023"
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: d43bd4479e5b94b3c4136cf3d4f026842f2812f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 194c03d4cb1e519b1dc72737fa92a1fcfadc5e26
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522595"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664376"
 ---
-# <a name="how-to-activate-office"></a>Office etkinleştirme
+# <a name="how-to-activate-office"></a>Office nasıl etkinleştirilir?
 
-Yükleyin ve Office başarıyla etkinleştirmek için yönetici bir [Office lisans](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) kullanıcının iş ya da Okul hesabı atamış olmanız gerekir.
+Office'i başarıyla yüklemek ve etkinleştirmek için yöneticinin bir kullanıcının çalışmasına veya okul hesabına [Office lisansı](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) atamış olması gerekir.
   
-Office yüklendikten sonra Office 365 çoğu durumda apps otomatik olarak etkinleştirir ve bir kullanıcı etkinleştirmek için değil istenirse, bunlar Office hemen kullanmaya başlayabilirsiniz.
+Office'i yükledikten sonra, çoğu durumda Office 365 uygulamaları otomatik olarak etkinleştirilir ve bir kullanıcıdan etkinleştirme istenirse Office'i hemen kullanmaya başlayabilirler.
   
-Ancak, **ofis Kur oturum açmak**için bir kullanıcı istenirse bunlar işlerini ile imzalamak veya Okul zaten bir [atanan Office lisansına](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)sahip olmalıdır hesabı gerekir.
+Ancak, bir kullanıcıoffice **kurmak için oturum açmak**istenirse , onlar zaten atanmış bir [Office lisansı](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)olması gerekir kendi iş veya okul hesabı ile oturum açmanız gerekir.
   
-Ayrıntılı bilgi için bkz: [Bir PC'de Office Etkinleştirme](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) veya [Mac Office Etkinleştirme](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).
+Ayrıntılı bilgi için [bkz.](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) [](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA)
   

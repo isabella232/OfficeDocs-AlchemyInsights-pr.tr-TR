@@ -2,7 +2,6 @@
 title: Proje ayarlama
 ms.author: pebaum
 author: pebaum
-ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +11,17 @@ ms.custom:
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: Bir makale için 500'den fazla sözcük hedefleyin.
-ms.openlocfilehash: 551ccbb34135b415fa90893ac3e6230762e718b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0a9d519b34dad0519cc2a1dbf6a8ed26e73b04d8
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508875"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666212"
 ---
 # <a name="setting-up-project"></a>Proje ayarlama
 
-Office 365 aboneliğiniz ile birlikte proje kurma yardıma ihtiyacınız gibi görünüyor.
-Mac kullanıcıları için Uyarı: Project ürün kullanılamaz MacOS için şu anda. Bir bilgisayarınız varsa, aşağıdaki adımları kullanarak yazılım yüklemek mümkün olmayacaktır.
+ Microsoft Project ayarlamak için [Bu](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)makaledeki adımları izleyin.
+
+**For Mac kullanıcılarının dikkat edin:** Proje ürün şu anda MacOS için kullanılamaz. 
   
-Kurulum Tamamlandı almak için [Bu makalede](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)yer alan adımları izleyebilirsiniz.
-  
-Kurulum sırasında [Destek ve kurtarma Yardımcısı yükleme Project kullanarak](https://aka.ms/SaRA-ProjectSetupScenario) hataları çalıştırıyorsanız
+Kurulum sırasında [Proje desteği ve kurtarma Yardımcısı'nı kullanarak yükleme](https://aka.ms/SaRA-ProjectSetupScenario)hataları çalıştırıyorsanız.

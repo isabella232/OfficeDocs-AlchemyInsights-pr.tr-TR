@@ -3,19 +3,18 @@ title: Sızdırma, kimlik avı veya kimliğe bürünme ile ilgili sorunlar?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 62eb0d8b43f3673bbf05dda8d533333aaaa37ce1
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765497"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661496"
 ---
 # <a name="issues-with-spoofing-phishing-or-impersonation"></a>Sızdırma, kimlik avı veya kimliğe bürünme ile ilgili sorunlar?
 
@@ -33,6 +32,6 @@ Ek öneriler:
 
 - Kullanıcılar yapılandırıldığında doğrulamak sızdırma saldırılarına olanak tanıyabilir liste girdileri izin verir.
 
-- Önemsiz e-posta klasörü yerine karantina Yüksek Güvenirlik istenmeyen posta ve kimlik avı iletilerini teslim etmek üzere göz önünde bulundurun.
+- Önemsiz e-posta klasörü yerine karantina Yüksek Güvenilirlikli istenmeyen posta ve kimlik avı iletilerini teslim etmek üzere göz önünde bulundurun.
 
-**[Bu ileti Microsoft'a bildirilen](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2)elinizde? Filtreleri nasıl gerçekleştiriyorsunuz bilmek bize en iyi yolu budur.**
+**[İletileri Microsoft raporlama](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) bize filtreleri nasıl gerçekleştiriyorsunuz bilmek için en iyi yoldur.**

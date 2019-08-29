@@ -1,9 +1,8 @@
 ---
-title: Nasıl eklemek veya lisansları azaltmak
+title: Lisans ekleme veya azaltma
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,33 +12,33 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574962"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664304"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Nasıl eklemek veya lisansları azaltmak
+# <a name="how-to-add-or-reduce-licenses"></a>Lisans ekleme veya azaltma
 
-İşte nasıl kaldırmak veya daha çok Office 365 lisansları satın alın.
+Office 365 lisanslarını şu şekilde kaldırabilirsiniz veya daha fazla lisans satın alaabilirsiniz.
   
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
+1. Yönetici merkezinde, **Faturalama** \> [Ürünleri & hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
 
-2. Abonelik lisanslarını eklemek/kaldırmak istediğiniz seçin.
+2. Lisans eklemek/kaldırmak istediğiniz aboneliği seçin.
 
 3. **Lisans Ekle/Kaldır'ı**seçin.
 
-4. Kullanıcıların gerekli toplam sayısını girin.
+4. Gereken toplam kullanıcı sayısını girin.
 
-    Örneğin, şu anda 25 lisansları var ve 5 kaldırmak istediğiniz 20 Bu alana girin.
+    Örneğin, şu anda 25 lisansınvarsa ve 5'i kaldırmak istiyorsanız, bu alana 20 girin.
 
-5. **Gönder Değiştir**' i seçin.
+5. **Değiştir'i**Gönder'i seçin.
 
 > [!NOTE]
-> Yeni ücretsiz (lisans artış) ya da kredi (lisans azaltma) sonraki faturanızda gösterilir.
+> Herhangi bir yeni ücret (lisans artışı) veya kredi (lisans azaltma) sonraki faturanızda gösterecektir.
 
-Eski Yönetim Merkezi kullanıyor musunuz? Eski adımlar için ya da daha fazla bilgi için [Office 365 iş abonelik lisanslarını satın](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)bakın.
+Daha fazla bilgi için [bkz.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)
 
  **Ek kaynaklar**
   

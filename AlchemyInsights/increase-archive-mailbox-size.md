@@ -3,25 +3,24 @@ title: 305 arşiv posta kutunuzun boyutunu artırın.
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391601"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661820"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Arşiv posta kutusu boyutunu büyütün
 
 Office 365 [sınırları](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) kullanıcı hesabına atanan lisans arşiv posta kutularını boyutu temel. Arşiv posta kutusu boyutunu izin verilen % 90'ını ulaştığında, kullanıcı bir e-posta bildirimi alır. Bir arşiv posta kutusu boyut sınırına ulaştığında, kullanıcının posta kutusuna arşiv daha fazla öğeler taşınamıyor. Office 365, boyut sınırına ulaşıldığında bir arşiv posta kutunuzun boyutunu artırmak olmayacaktır. Bunun yerine, kullanıcılar arşiv posta kutusunda alan boşaltmak için aşağıdaki eylemleri gerçekleştirebilirsiniz:
 
-- Verme Outlook kullanarak bir .pst dosyasına öğeleri
+- Verme Outlook kullanarak bir .pst dosyasına öğeleri.
 
 - Öğeleri bir arşiv posta kutusundan silin.
 
