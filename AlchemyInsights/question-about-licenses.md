@@ -13,19 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553596"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666680"
 ---
-# <a name="questions-about-your-office-365-license"></a><span data-ttu-id="91d72-102">Office 365 lisansınız hakkında sorular</span><span class="sxs-lookup"><span data-stu-id="91d72-102">Questions about your Office 365 license</span></span>
+# <a name="questions-about-your-office-365-license"></a><span data-ttu-id="49570-102">Office 365 lisansınız hakkında sorular</span><span class="sxs-lookup"><span data-stu-id="49570-102">Questions about your Office 365 license</span></span>
 
-<span data-ttu-id="91d72-103">Satın aldığınız lisans veya lisans sayısını bir abonelikten atanan bilmek istiyorsanız:</span><span class="sxs-lookup"><span data-stu-id="91d72-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
+<span data-ttu-id="49570-103">Satın aldığınız lisans veya lisans sayısını bir abonelikten atanan bilmek istiyorsanız:</span><span class="sxs-lookup"><span data-stu-id="49570-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
   
-1. <span data-ttu-id="91d72-104">**Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.</span><span class="sxs-lookup"><span data-stu-id="91d72-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="49570-104">**Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.</span><span class="sxs-lookup"><span data-stu-id="49570-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="91d72-105">Hakkında daha fazla bilgi edinmek istediğiniz abonelik adı altında lisanslar için ödeme yapıyorsanız ve ne kadar atanmak üzere kullanılabilir sayısını görebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="91d72-105">Under the name of the subscription you want to know more about, you can see the number of licenses you are paying for and how many are available to be assigned.</span></span>
+2. <span data-ttu-id="49570-105">Hakkında daha fazla bilgi edinmek istediğiniz aboneliğin bulun.</span><span class="sxs-lookup"><span data-stu-id="49570-105">Find the subscription you want to know more about.</span></span> <span data-ttu-id="49570-106">Lisansları için ödeme yapıyorsanız ve ne kadar atanmak üzere kullanılabilir sayısını görebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="49570-106">You can see the number of licenses you are paying for and how many are available to be assigned.</span></span>
 
-<span data-ttu-id="91d72-106">Daha çok lisans eklemek isterseniz veya çok varsa, çoğu, **Ekle/Kaldır lisansları** satın miktarını ayarlamak için seçin.</span><span class="sxs-lookup"><span data-stu-id="91d72-106">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
+<span data-ttu-id="49570-107">Daha çok lisans eklemek isterseniz veya çok varsa, çoğu, **Ekle/Kaldır lisansları** satın miktarını ayarlamak için seçin.</span><span class="sxs-lookup"><span data-stu-id="49570-107">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
