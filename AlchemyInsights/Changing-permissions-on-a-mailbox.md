@@ -1,5 +1,5 @@
 ---
-title: Bir posta kutusu izinlerini değiştirme
+title: Posta kutusunda izinleri değiştirme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: fc58e79d98a8ec617d065f147d12171a472573b8
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360001"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661424"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>Bir posta kutusu izinlerini değiştirme
+# <a name="changing-permissions-on-a-mailbox"></a>Posta kutusunda izinleri değiştirme
 
-Kullanıcılar dışında kendi posta kutularına erişim gerekiyorsa, bunlar o posta ile çalışma izni verilmesi gerekir. Nasıl bu izinleri atadığınız posta kutusu türüne bağlıdır. Kullanıcılar erişmeniz gerekirse:
+Kullanıcıların kendi posta kutuları dışındaki Office 365 posta kutularına erişmeleri gerekiyorsa, bu posta kutularıyla çalışmak için izin verilmesi gerekir. Bu izinleri nasıl atadığınız posta kutusu türüne bağlıdır. Kullanıcıların şu erişime ihtiyacı varsa:
   
-- Başka bir kullanıcının posta kutusu - lütfen bkz: [Office 365'te başka bir kullanıcının posta kutusuna izin vermek](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
+- Diğer kullanıcının posta kutuları [](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8)- lütfen bkz.
     
-- Paylaşılan bir posta kutusu - lütfen [bir paylaşılan posta üyeleri ekleme veya kaldırma](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7)konusuna bakın.
+- Paylaşılan posta kutusu - lütfen paylaşılan bir posta kutusundan [üye ekle veya](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7)kaldır' ı görün.
     
-Yukarıdaki adımları yaptıktan sonra izinleri düzgün çalışmazsa, Exchange Yönetim Merkezine gidin ve ( [alıcılar için Manage permissions](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)konusuna başvurun) buradan izinleri ayarlamak deneyin.
+Yukarıdaki adımları yaptıktan sonra izinler doğru şekilde çalışmazsa, Exchange yönetici merkezine gidin ve izinleri buradan ayarlamayı deneyin (bkz. [alıcılar için izinleri](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)yönet).
   

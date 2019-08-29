@@ -2,7 +2,6 @@
 title: Geri yükleme silinmiş posta kutusu
 ms.author: pebaum
 author: pebaum
-ms.date: 9/12/2017
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -16,24 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 9fc1980b5c1d5a0bd9df032b14e2010b7f0d5873
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 44b23be5e75a0669821bbeb07b0f064eeef6d021
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551867"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666392"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Silinen bir posta kutusunu geri yükleme
 
-Kullanıcı Exchange Online lisansının kaybettiğinde, kendi posta kutusu 30 gün süreyle korunur ve yalnızca lisans kullanıcıya yeniden atayarak kurtarıldı.
+Bir kullanıcı bir Exchange Online lisans kaybettiğinde, kendi posta kutusu 30 gün süreyle korunur ve yalnızca lisans kullanıcıya yeniden atayarak kurtarıldı.
   
- *Bu 30 gün içinde çalışır.*  Admin Portal'da aşağıdaki adrese gidin:
+ *Bu 30 gün içinde çalışır.*  
   
-1. **Kullanıcılar** \> **Etkin** kullanıcılar. Söz konusu kullanıcıyı seçin.
+1. **Kullanıcıların** Microsoft 365 Yönetim Merkezi'nde Git \> **Etkin kullanıcılar** sayfa. Söz konusu kullanıcıyı seçin.
 
-2. Ürün lisansları değiştirmek için **Düzenle** tuşuna basın
+2. **Lisanslar ve uygulamalar** sekmesinde, Exchange Online lisans atayın ve **Değişiklikleri Kaydet**' i seçin.
 
-3. Exchange Online lisans atamak ve **Kaydet** tuşuna basın.
-
-Paylaşılan bir posta kutusunu kurtarmak çalışıyorsanız, bunun da 30 gün boyunca kurtarılabilir. **Kullanıcılar** altında bulabilirsiniz \> **Silinen** kullanıcıların; Paylaşılan posta kutuları için lisans gerekmez. Silinmiş bir kullanıcı geri gerektiğini fark ederseniz, [bir kullanıcının Office 365'te geri](https://docs.microsoft.com/office365/admin/add-users/restore-user)bakın.
+Paylaşılan bir posta kutusunu kurtarmak çalışıyorsanız, bunun da 30 gün boyunca kurtarılabilir. **Kullanıcılar** altında bulabilirsiniz \> **Silinen kullanıcıların**; Paylaşılan posta kutuları için lisans gerekmez. Silinmiş bir kullanıcı geri gerektiğini fark ederseniz, [bir kullanıcının Office 365'te geri](https://docs.microsoft.com/office365/admin/add-users/restore-user)bakın.
   
