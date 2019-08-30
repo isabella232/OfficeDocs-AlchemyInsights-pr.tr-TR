@@ -12,16 +12,16 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: 3a1cc0b5cfed4a149641a1295898c8f0b77797dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fca4150c6dbeed2d83d7d6d6503b9f8742a1ff6b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529651"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665185"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Normal iletileriniz istenmeyen e-posta olarak işaretleniyor mu?
 
-Yukarıdaki tanılamayı deneyin veya [iyi iletilerin istenmeyen e-posta olarak işaretlenmesi sorununu gidermeye yönelik adım adım kılavuzu](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0) izleyin.
+Yukarıdaki tanılamayı deneyin veya [Office 365’te iyi iletilerin istenmeyen e-posta olarak işaretlenmesi sorununu gidermeye yönelik adım adım kılavuzu](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0) izleyin.
   
 Bu tür sorunları bildirmenin en iyi yolu şudur:
   

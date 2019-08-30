@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 62f7af474db4eb99563744cfe266e1eac92bf53d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574782"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664016"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Aboneliği yeniden etkinleştirme
 
@@ -32,4 +32,4 @@ Aboneliğinizin süresi dolduysa, iptal edildiyse veya Microsoft tarafından dev
 
 3. Ödeme ayrıntılarınızı onaylayın. Var olan ödeme bilgilerinizi burada güncelleştirebilirsiniz. Ödeme yönteminizi girmeyi bitirdiğinizde, **Yeniden Etkinleştir**’i seçin.
 
-Eski yönetim merkezini mi kullanıyorsunuz? Eski adımlar için veya daha fazla bilgi almak için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Daha fazla bilgi edinmek için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
