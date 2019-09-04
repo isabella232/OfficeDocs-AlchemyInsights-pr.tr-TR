@@ -1,5 +1,5 @@
 ---
-title: Sızdırma, kimlik avı veya kimliğe bürünme ile ilgili sorunlar?
+title: Sızdırma, kimlik avı veya kimliğe bürünme yle ilgili sorunlar mı?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 73a960d76802ccfee5500b1816f34a15b960c3f2
+ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661496"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36716123"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Sızdırma, kimlik avı veya kimliğe bürünme ile ilgili sorunlar?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Sızdırma, kimlik avı veya kimliğe bürünme yle ilgili sorunlar mı?
 
-Office 365 sizden nasıl koruduğunu öğrenin:
+Office 365'in sizi nasıl koruduğundan öğrenin:
 
 - [Sızdırma](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
 
@@ -26,12 +26,12 @@ Office 365 sizden nasıl koruduğunu öğrenin:
 
 Ek öneriler:
 
-- Kendi etki alanından geliyormuş gibi görünmesine sahte Gönderenler SPF ve DKIM yardımcı olur.
+- Kendi etki alanınızdan gelmiş gibi görünen sahte gönderenler için [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) ve [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) yardımcı olabilir.
 
-- Kendi etki alanındaki gönderenler istenmeyen akışı kuralları (aktarım kuralları olarak da bilinir) kullanarak süzme atlamak için yapılandırılmamış veya izin listesi girdilerini doğrulayın.
+- Kendi etki alanınızdaki gönderenlerin posta akışı kuralları (aktarım kuralları olarak da bilinir) kullanarak istenmeyen posta önleme filtrelemenin önünde niçin yapılandırılmamasını veya liste girişlerine izin verilebildiğini doğrulayın. Daha fazla bilgi için Bkz. [Office 365 spam filtrelerini atlayalara karşı uyarılar.](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-- Kullanıcılar yapılandırıldığında doğrulamak sızdırma saldırılarına olanak tanıyabilir liste girdileri izin verir.
+- Kullanıcıların kimlik avı saldırılarına izin verebilecek [Güvenli Gönderenler liste](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) girişlerini yapılandırmadığını doğrulayın.
 
-- Önemsiz e-posta klasörü yerine karantina Yüksek Güvenilirlikli istenmeyen posta ve kimlik avı iletilerini teslim etmek üzere göz önünde bulundurun.
+- Önemsiz E-posta klasörü yerine karantinaya yüksek güven e-posta ve kimlik avı iletileri göndermeyi düşünün. Daha fazla bilgi için [Office 365'teki Karantina e-posta iletilerine](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages)bakın.
 
-**[İletileri Microsoft raporlama](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) bize filtreleri nasıl gerçekleştiriyorsunuz bilmek için en iyi yoldur.**
+**[İletileri Microsoft'a bildirmek,](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) filtrelerin nasıl performans gösterdiğini bize bildirmenin en iyi yoludur.**
