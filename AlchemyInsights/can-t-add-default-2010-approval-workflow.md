@@ -1,6 +1,6 @@
 ---
-title: Varsayılan ekleyemezsiniz 2010 onay iş akışı
-ms.author: kirks
+title: Varsayılan 2010 Onay İş Akışı eklenemez
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/28/2019
 ms.audience: ITPro
@@ -12,18 +12,18 @@ ms.custom:
 - "1403"
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: ecdbaeaa002a40a743d836ee50ccaaeda3426ec7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5486e218e9b6e3d632330bcc3a64b7b87952581
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493819"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747696"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="7f204-102">Varsayılan ekleyemezsiniz 2010 onay iş akışı</span><span class="sxs-lookup"><span data-stu-id="7f204-102">Can't add default 2010 Approval Workflow</span></span>
+# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="1c313-102">Varsayılan 2010 Onay İş Akışı eklenemez</span><span class="sxs-lookup"><span data-stu-id="1c313-102">Can't add default 2010 Approval Workflow</span></span>
 
-<span data-ttu-id="7f204-103">Bir Microsoft SharePoint site koleksiyonu (örneğin, "onay - SharePoint 2010") genel olarak yeniden kullanılabilir bir iş akışı bir liste veya kitaplığa ekleyemezsiniz.</span><span class="sxs-lookup"><span data-stu-id="7f204-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span> <span data-ttu-id="7f204-104">Onay iş akışı eksik olabilir.</span><span class="sxs-lookup"><span data-stu-id="7f204-104">The approval workflow may be missing.</span></span> <span data-ttu-id="7f204-105">Bu sorunu gidermek için [SharePoint liste veya kitaplık için genel olarak yeniden kullanılabilir iş akışı ekleyemezsiniz](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library)bakın.</span><span class="sxs-lookup"><span data-stu-id="7f204-105">To resolve this issue, refer to [Can't add a globally reusable workflow to a SharePoint list or library](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span></span>
+<span data-ttu-id="1c313-103">Microsoft SharePoint site koleksiyonunda, bir listeye veya kitaplıka genel olarak yeniden kullanılabilir bir iş akışı ("Onay - SharePoint 2010" gibi) ekemezsiniz.</span><span class="sxs-lookup"><span data-stu-id="1c313-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span> <span data-ttu-id="1c313-104">Onay iş akışı eksik olabilir.</span><span class="sxs-lookup"><span data-stu-id="1c313-104">The approval workflow may be missing.</span></span> <span data-ttu-id="1c313-105">Bu sorunu gidermek için, [sharepoint listesine veya kitaplığına genel olarak yeniden kullanılabilir bir iş akışı ekleyebilir'](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library)konusuna bakın.</span><span class="sxs-lookup"><span data-stu-id="1c313-105">To resolve this issue, refer to [Can't add a globally reusable workflow to a SharePoint list or library](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span></span>
 
-<span data-ttu-id="7f204-106">[Onay iş akışları hakkında tüm](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742)iş akışı onayları hakkında daha fazla bilgi için bkz.</span><span class="sxs-lookup"><span data-stu-id="7f204-106">For more info about Workflow Approvals, see [All about Approval workflows](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span></span> 
+<span data-ttu-id="1c313-106">İş Akışı Onayları hakkında daha fazla bilgi için Onay [iş akışları hakkında her şeye](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742)bakın.</span><span class="sxs-lookup"><span data-stu-id="1c313-106">For more info about Workflow Approvals, see [All about Approval workflows](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span></span> 
  
-<span data-ttu-id="7f204-107">[Modern akışı onayları](https://flow.microsoft.com/blog/introducing-modern-approvals)hakkında daha fazla bilgi edinin.</span><span class="sxs-lookup"><span data-stu-id="7f204-107">Learn more about [Modern Approvals in Flow](https://flow.microsoft.com/blog/introducing-modern-approvals).</span></span> 
+<span data-ttu-id="1c313-107">[Akışta Modern Onaylar](https://flow.microsoft.com/blog/introducing-modern-approvals)hakkında daha fazla bilgi edinin.</span><span class="sxs-lookup"><span data-stu-id="1c313-107">Learn more about [Modern Approvals in Flow](https://flow.microsoft.com/blog/introducing-modern-approvals).</span></span> 
   

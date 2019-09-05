@@ -1,5 +1,5 @@
 ---
-title: 726 Blocking e-posta iletme
+title: 726 E-posta yönlendirmeengelleme
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 4bb1516964fac51fac484cc5dbbacef495081e30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 70cc2529361766c92e9167162b13e06796a9c4b0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517627"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737749"
 ---
-# <a name="block-email-forwarding"></a><span data-ttu-id="af682-102">Bloke e-posta iletme</span><span class="sxs-lookup"><span data-stu-id="af682-102">Block email forwarding</span></span>
+# <a name="block-email-forwarding"></a><span data-ttu-id="89e08-102">E-posta yönlendirmeyi engelleme</span><span class="sxs-lookup"><span data-stu-id="89e08-102">Block email forwarding</span></span>
 
-<span data-ttu-id="af682-103">E-posta iletme için belirli bir posta kutusu devre dışı bırakmak için bkz: [e-posta iletme yukarı ayarlama](https://support.office.com/client/15abf81d-5c5d-49da-ac81-1b4daa1809f6).</span><span class="sxs-lookup"><span data-stu-id="af682-103">To disable email forwarding for a specific mailbox, see [Set up email forwarding](https://support.office.com/client/15abf81d-5c5d-49da-ac81-1b4daa1809f6).</span></span>
+<span data-ttu-id="89e08-103">Belirli bir posta kutusu için e-posta yönlendirmeyi devre dışı kılabilir, [bkz.](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding)</span><span class="sxs-lookup"><span data-stu-id="89e08-103">To disable email forwarding for a specific mailbox, see [Configure email forwarding](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span></span>
 
-<span data-ttu-id="af682-104">E-posta iletme, [çevrimiçi Exchange iletme otomatik e-posta engellemek için birçok yol](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/)tüm kuruluş için engellemek için.</span><span class="sxs-lookup"><span data-stu-id="af682-104">To block email forwarding for the whole organization, [The many ways to block automatic email forwarding in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span></span>
+<span data-ttu-id="89e08-104">Tüm kuruluş için e-posta yönlendirmesini engellemek için Exchange [Online'da otomatik e-posta yönlendirmesini engellemenin birçok yolu](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/)vardır.</span><span class="sxs-lookup"><span data-stu-id="89e08-104">To block email forwarding for the whole organization, [The many ways to block automatic email forwarding in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span></span>

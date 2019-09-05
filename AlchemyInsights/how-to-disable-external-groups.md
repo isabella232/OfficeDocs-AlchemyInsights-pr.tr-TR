@@ -1,5 +1,5 @@
 ---
-title: Dış grupları devre dışı bırakma
+title: Dış Gruplar nasıl devre dışı edilir?
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,24 +11,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: 4683a71438ec31f9e9211404a9c66c4e45e0e1df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540921"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739513"
 ---
-# <a name="how-to-disable-external-groups"></a><span data-ttu-id="d3651-102">Dış grupları devre dışı bırakma</span><span class="sxs-lookup"><span data-stu-id="d3651-102">How to disable External Groups</span></span>
+# <a name="how-to-disable-external-groups"></a><span data-ttu-id="fda26-102">Dış Gruplar nasıl devre dışı edilir?</span><span class="sxs-lookup"><span data-stu-id="fda26-102">How to disable External Groups</span></span>
 
-<span data-ttu-id="d3651-103">Yammer dış ileti Exchange Aktarım kuralı (ETRs), şirket bilgi paylaşılmasını önlemek için önceden önlem almaya yönelik denetimler kümesi uygular.</span><span class="sxs-lookup"><span data-stu-id="d3651-103">Yammer external messaging applies Exchange Transport Rules (ETRs), a set of proactive controls to prevent company information from being shared.</span></span> <span data-ttu-id="d3651-104">Kullanıcılar dış grupları oluşturmasını kısıtlamak için Exchange Aktarım kuralı (ETR) yapılandırmak ve sonra Yammer dış iletileri engellemek için Exchange aktarımı kuralı kullanacak şekilde yapılandırmak gerekir.</span><span class="sxs-lookup"><span data-stu-id="d3651-104">In order to restrict users from creating external groups, you need to configure an Exchange transport rule (ETR), and then configure Yammer to use the Exchange Transport rule to block external messaging.</span></span>
+<span data-ttu-id="fda26-103">Yammer harici mesajlaşma, şirket bilgilerinin paylaşılmasını önlemek için bir dizi proaktif denetim olan Exchange Transport Rules (ETR) uygular.</span><span class="sxs-lookup"><span data-stu-id="fda26-103">Yammer external messaging applies Exchange Transport Rules (ETRs), a set of proactive controls to prevent company information from being shared.</span></span> <span data-ttu-id="fda26-104">Kullanıcıların dış gruplar oluşturmasını kısıtlamak için, bir Exchange aktarım kuralını (ETR) yapılandırmanız ve ardından Yammer'ı dış iletileri engellemek için Exchange Aktarım kuralını kullanacak şekilde yapılandırmanız gerekir.</span><span class="sxs-lookup"><span data-stu-id="fda26-104">In order to restrict users from creating external groups, you need to configure an Exchange transport rule (ETR), and then configure Yammer to use the Exchange Transport rule to block external messaging.</span></span>
   
-<span data-ttu-id="d3651-105">Çevrimiçi Exchange Yönetim Merkezi'nde bir kural oluşturduktan sonra Yammer'da uygulamak için ETR ayarlamak için şu adımları izleyin:</span><span class="sxs-lookup"><span data-stu-id="d3651-105">Once you have created a rule in Exchange Online admin center, follow these steps to set ETR to apply in Yammer:</span></span>
+<span data-ttu-id="fda26-105">Exchange Online yönetici merkezinde bir kural oluşturduktan sonra, ETR'yi Yammer'da uygulanacak şekilde ayarlamak için aşağıdaki adımları izleyin:</span><span class="sxs-lookup"><span data-stu-id="fda26-105">Once you have created a rule in Exchange Online admin center, follow these steps to set ETR to apply in Yammer:</span></span>
   
-- <span data-ttu-id="d3651-106">Oturum açmak için Yammer olarak doğrulanan yönetim ve **Yönetim Merkezi Yammer**, C-go **İçerik ve güvenlik \> güvenlik ayarlarını.**</span><span class="sxs-lookup"><span data-stu-id="d3651-106">Log on to Yammer as a verified admin, and in the **Yammer admin center**, go to C **Content and Security \> Security Settings.**</span></span>
+- <span data-ttu-id="fda26-106">Doğrulanmış bir yönetici olarak Yammer'da oturum açın ve **Yammer yönetici merkezinde**C **İçerik ve \> Güvenlik Ayarları'na gidin.**</span><span class="sxs-lookup"><span data-stu-id="fda26-106">Log on to Yammer as a verified admin, and in the **Yammer admin center**, go to C **Content and Security \> Security Settings.**</span></span>
 
-- <span data-ttu-id="d3651-107">**Dış ileti**altında seçin **Exchange çevrimiçi Exchange Aktarım kuralları (ETRs) zorla Yammer'da.**</span><span class="sxs-lookup"><span data-stu-id="d3651-107">Under **External Messaging**, select **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer.**</span></span>
+- <span data-ttu-id="fda26-107">**Harici İleti altında,** **Yammer'daki Exchange Online Exchange Aktarım Kurallarınızı (ETR) uygulayın'ı seçin.**</span><span class="sxs-lookup"><span data-stu-id="fda26-107">Under **External Messaging**, select **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer.**</span></span>
 
-- <span data-ttu-id="d3651-108">**Kaydet**'i seçin.</span><span class="sxs-lookup"><span data-stu-id="d3651-108">Choose **Save**.</span></span>
+- <span data-ttu-id="fda26-108">**Kaydet**'i seçin.</span><span class="sxs-lookup"><span data-stu-id="fda26-108">Choose **Save**.</span></span>
 
-<span data-ttu-id="d3651-109">Daha fazla bilgi için bkz: [dış Exchange aktarımı kurallarla Yammer ağında ileti denetimi](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)</span><span class="sxs-lookup"><span data-stu-id="d3651-109">For more information, see [Control external messaging in a Yammer network with Exchange Transport rules](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)</span></span>
+<span data-ttu-id="fda26-109">Daha fazla bilgi için, [bir Yammer ağında harici iletileri devre dışı](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)bırakın.</span><span class="sxs-lookup"><span data-stu-id="fda26-109">For more information, see [Disable external messaging in a Yammer network](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span></span>
   

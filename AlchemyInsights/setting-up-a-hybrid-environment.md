@@ -1,5 +1,5 @@
 ---
-title: Karma ortamı kurma
+title: Karma ortam ayarlama
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -12,14 +12,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 041ba1c8e235bc9adf4f951b8ff7688dcf12e826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cf623c3b7e9fe2e31b285607181e3120ff590cd7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509164"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741025"
 ---
-# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="a0b64-102">Karma ortamı kurma</span><span class="sxs-lookup"><span data-stu-id="a0b64-102">Setting up a hybrid environment</span></span>
+# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="a36ae-102">Karma ortam ayarlama</span><span class="sxs-lookup"><span data-stu-id="a36ae-102">Setting up a hybrid environment</span></span>
 
-<span data-ttu-id="a0b64-103">Kullanıcılarınızın verilerini yerinde sunucularda veya Office 365'te depolanıyorsa, sorunsuz olarak birlikte bağımsız çalışmasını sağlamak için bir karma ortamı ayarlamak gerekebilir.</span><span class="sxs-lookup"><span data-stu-id="a0b64-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="a0b64-104">Seçeneklerinizi özetini almak için [yerinde ortamları ile tümleştirme Office 365](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx)denetleyin.</span><span class="sxs-lookup"><span data-stu-id="a0b64-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span></span>
+<span data-ttu-id="a36ae-103">Verilerinin şirket içi sunucularda veya Office 365'te depolanmış olması durumunda kullanıcılarınızın sorunsuz bir şekilde birlikte çalışmasına izin vermek için karma bir ortam ayarlamanız gerekebilir.</span><span class="sxs-lookup"><span data-stu-id="a36ae-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="a36ae-104">Seçeneklerinize genel bir bakış almak [için, office 365 tümleştirmesinin şirket içi ortamlarla birleştirilmesine](https://docs.microsoft.com/office365/enterprise/office-365-integration)göz atın.</span><span class="sxs-lookup"><span data-stu-id="a36ae-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span></span>
   

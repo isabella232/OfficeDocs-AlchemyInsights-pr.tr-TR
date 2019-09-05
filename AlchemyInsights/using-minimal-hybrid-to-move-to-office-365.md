@@ -1,5 +1,5 @@
 ---
-title: Office 365 arası taşıma için en az karma kullanma
+title: Office 365'e geçmek için Minimal Hibrit'i kullanma
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -12,13 +12,13 @@ ms.custom:
 - "691"
 - "3500010"
 ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
-ms.openlocfilehash: a1cd9c07e56a525d82e905070571812bf4fd8d40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c1c28be90e04d8132756d65b657a83382bd66808
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531667"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741709"
 ---
-# <a name="using-minimal-hybrid-to-move-to-office-365"></a><span data-ttu-id="78f70-102">Office 365 arası taşıma için en az karma kullanma</span><span class="sxs-lookup"><span data-stu-id="78f70-102">Using Minimal Hybrid to move to Office 365</span></span>
+# <a name="using-minimal-hybrid-to-move-to-office-365"></a><span data-ttu-id="5d20a-102">Office 365'e geçmek için Minimal Hibrit'i kullanma</span><span class="sxs-lookup"><span data-stu-id="5d20a-102">Using Minimal Hybrid to move to Office 365</span></span>
 
-<span data-ttu-id="78f70-103">En az karma hakkında daha fazla bilgi edinmek için olarak da bilinen geçiş Express, [Hızla Office 365 Exchange posta kutularına geçirmek için en az karma](https://support.office.com/article/FDECCEED-0702-4AF3-85BE-F2A0013937EF.aspx)denetleyin.</span><span class="sxs-lookup"><span data-stu-id="78f70-103">To learn more about Minimal Hybrid, also known as Express migration, check out [Use Minimal Hybrid to quickly migrate Exchange mailboxes to Office 365](https://support.office.com/article/FDECCEED-0702-4AF3-85BE-F2A0013937EF.aspx).</span></span>
+<span data-ttu-id="5d20a-103">Express geçişi olarak da bilinen Minimal Karma hakkında daha fazla bilgi edinmek [için Exchange posta kutularını Office 365'e hızla geçirmek için Minimal Hibrit'i Kullan'a](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate)göz atın.</span><span class="sxs-lookup"><span data-stu-id="5d20a-103">To learn more about Minimal Hybrid, also known as Express migration, check out [Use Minimal Hybrid to quickly migrate Exchange mailboxes to Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate).</span></span>
