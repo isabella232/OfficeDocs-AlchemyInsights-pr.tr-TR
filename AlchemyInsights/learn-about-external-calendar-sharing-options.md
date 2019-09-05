@@ -1,5 +1,5 @@
 ---
-title: 898 dış Takvim paylaşım seçenekleri hakkında bilgi edinin.
+title: 898 Dış Takvim Paylaşım Seçenekleri hakkında bilgi edinin
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,13 +12,13 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 48bdc17e8f16d719445492f395c44e10bf6cbaea
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 564d8ab4c98d793db68aca46087e37414fd5ab55
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497823"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735517"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="c2691-102">Harici Takvim paylaşım seçenekleri hakkında bilgi edinin</span><span class="sxs-lookup"><span data-stu-id="c2691-102">Learn about external calendar sharing options</span></span>
+# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="38c7a-102">Dış takvim paylaşım seçenekleri hakkında bilgi edinin</span><span class="sxs-lookup"><span data-stu-id="38c7a-102">Learn about external calendar sharing options</span></span>
 
-<span data-ttu-id="c2691-103">Kuruluşunuzun dışındaki kişilere ile toplantı zamanlamanız gerekiyorsa, Office 365 takvimler "dış kullanıcılar için" serbest ve meşgul görmek için gerekli olanlar yapmanıza olanak sağlayan saat ama Office 365 ortamınız için kullanıcı hesabı yok.</span><span class="sxs-lookup"><span data-stu-id="c2691-103">If you need to schedule meetings with people outside your organization, Office 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Office 365 environment.</span></span> <span data-ttu-id="c2691-104">Daha fazla bilgi için bkz: [dış kullanıcılarla paylaşım takvimleri](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span><span class="sxs-lookup"><span data-stu-id="c2691-104">For more information, see [Share calendars with external users](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span></span>
+<span data-ttu-id="38c7a-103">Kuruluşunuz dışındaki kişilerle toplantı zamanlamalısınız, Office 365 takvimleri "harici kullanıcılar" için kullanılabilir hale getirmenize olanak tanır, boş/yoğun zaman ları görmesi gereken ancak Office 365 ortamınız için kullanıcı hesabı olmayanlar.</span><span class="sxs-lookup"><span data-stu-id="38c7a-103">If you need to schedule meetings with people outside your organization, Office 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Office 365 environment.</span></span> <span data-ttu-id="38c7a-104">Daha fazla bilgi için [bkz.](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users)</span><span class="sxs-lookup"><span data-stu-id="38c7a-104">For more information, see [Share calendars with external users](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span></span>
