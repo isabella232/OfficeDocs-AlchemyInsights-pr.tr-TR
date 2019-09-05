@@ -1,6 +1,6 @@
 ---
-title: Dış paylaşımını etkinleştir
-ms.author: kirks
+title: Dış paylaşımı etkinleştirme
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/4/2018
 ms.audience: ITPro
@@ -8,35 +8,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53eadea43e4ac9365bd7f434b1db254ccf224e4b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527671"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756048"
 ---
-# <a name="enable-external-sharing"></a><span data-ttu-id="e3cb0-102">Dış paylaşımını etkinleştir</span><span class="sxs-lookup"><span data-stu-id="e3cb0-102">Enable external sharing</span></span>
+# <a name="enable-external-sharing"></a><span data-ttu-id="23326-102">Dış paylaşımı etkinleştirme</span><span class="sxs-lookup"><span data-stu-id="23326-102">Enable external sharing</span></span>
 
- <span data-ttu-id="e3cb0-103">Paylaşım için çevrimiçi SharePoint etkinleştirildiğinden emin olmak için:</span><span class="sxs-lookup"><span data-stu-id="e3cb0-103">To ensure that sharing is enabled for SharePoint Online:</span></span>
+ <span data-ttu-id="23326-103">SharePoint Online için paylaşımın etkin olduğundan emin olmak için:</span><span class="sxs-lookup"><span data-stu-id="23326-103">To ensure that sharing is enabled for SharePoint Online:</span></span>
   
-- <span data-ttu-id="e3cb0-104">**Genel paylaşım**</span><span class="sxs-lookup"><span data-stu-id="e3cb0-104">**Global Sharing**</span></span>
+- <span data-ttu-id="23326-104">**Küresel Paylaşım**</span><span class="sxs-lookup"><span data-stu-id="23326-104">**Global Sharing**</span></span>
     
-  - <span data-ttu-id="e3cb0-105">Portal -\> dış paylaşım -\> paylaşımı genel bakış - siteleri, Let dış kişiler sitelerinize erişmek: ON</span><span class="sxs-lookup"><span data-stu-id="e3cb0-105">Portal -\> External Sharing -\> Sharing Overview - Sites, Let external people access your sites: ON</span></span>
+  - <span data-ttu-id="23326-105">Portal\> - Dış\> Paylaşım - Paylaşıma Genel Bakış - Siteler, Harici kişilerin sitelerinize erişmesine izin verin: ON</span><span class="sxs-lookup"><span data-stu-id="23326-105">Portal -\> External Sharing -\> Sharing Overview - Sites, Let external people access your sites: ON</span></span>
     
-  - <span data-ttu-id="e3cb0-106">Portal -\> dış paylaşım -\> siteler - "dış kişiler sitelerinize erişmek istiyorum" onay kutusu</span><span class="sxs-lookup"><span data-stu-id="e3cb0-106">Portal -\> External Sharing -\> Sites - "Let external people access your sites" check box</span></span>
+  - <span data-ttu-id="23326-106">Portal\> - Dış\> Paylaşım - Siteler - "Harici kişilerin sitelerinize erişsin" onay kutusu</span><span class="sxs-lookup"><span data-stu-id="23326-106">Portal -\> External Sharing -\> Sites - "Let external people access your sites" check box</span></span>
     
-- <span data-ttu-id="e3cb0-107">**Yönetimsel paylaşımı - SharePoint Yönetim Merkezi**</span><span class="sxs-lookup"><span data-stu-id="e3cb0-107">**Administrative Sharing - SharePoint Admin Center**</span></span>
+- <span data-ttu-id="23326-107">**Yönetim Paylaşım - SharePoint Yönetici Merkezi**</span><span class="sxs-lookup"><span data-stu-id="23326-107">**Administrative Sharing - SharePoint Admin Center**</span></span>
     
-    <span data-ttu-id="e3cb0-108">Dış paylaşım - iki seçeneği seçili emin olun:</span><span class="sxs-lookup"><span data-stu-id="e3cb0-108">External Sharing - ensure either of the two options are selected:</span></span>
+    <span data-ttu-id="23326-108">Dış Paylaşım - iki seçenekten birinin seçildiğinden emin olun:</span><span class="sxs-lookup"><span data-stu-id="23326-108">External Sharing - ensure either of the two options are selected:</span></span>
     
-  - <span data-ttu-id="e3cb0-109">"Paylaşım davetleri ve oturum açma kimliği doğrulanmış kullanıcılar olarak kabul eden dış kullanıcılara izin ver"</span><span class="sxs-lookup"><span data-stu-id="e3cb0-109">"Allow external users who accept sharing invitations and sign in as authenticated users"</span></span>
+  - <span data-ttu-id="23326-109">"Paylaşım davetlerini kabul eden ve kimlik doğrulaması verilen kullanıcılar olarak oturum açabilen harici kullanıcılara izin verin"</span><span class="sxs-lookup"><span data-stu-id="23326-109">"Allow external users who accept sharing invitations and sign in as authenticated users"</span></span>
     
-  - <span data-ttu-id="e3cb0-110">"Paylaşımı kabul eden her iki dış kullanıcıların davetleri ve anonim Konuk bağlantılar"</span><span class="sxs-lookup"><span data-stu-id="e3cb0-110">"Allow both external users who accept sharing invitations and anonymous guest links"</span></span>
+  - <span data-ttu-id="23326-110">"Paylaşım davetlerini ve anonim konuk bağlantılarını kabul eden her iki harici kullanıcıya izin verin"</span><span class="sxs-lookup"><span data-stu-id="23326-110">"Allow both external users who accept sharing invitations and anonymous guest links"</span></span>
     
-- <span data-ttu-id="e3cb0-111">**Tek tek Site koleksiyonları**</span><span class="sxs-lookup"><span data-stu-id="e3cb0-111">**Individual Site Collections**</span></span>
+- <span data-ttu-id="23326-111">**Bireysel Site Koleksiyonları**</span><span class="sxs-lookup"><span data-stu-id="23326-111">**Individual Site Collections**</span></span>
     
-  - <span data-ttu-id="e3cb0-112">Site koleksiyonları - Select site koleksiyonu söz konusu ve Paylaşım - Şeritten - ı\> ya da paylaşım seçenekleri belirlendiğinde emin olun.</span><span class="sxs-lookup"><span data-stu-id="e3cb0-112">Site Collections - Select site collection in question, and then click Sharing - from the ribbon -\> ensure either sharing options are selected.</span></span>
+  - <span data-ttu-id="23326-112">Site Koleksiyonları - Söz konusu site koleksiyonunu seçin ve ardından\> şeritten Paylaşım'ı tıklatın ve paylaşım seçeneklerinin seçildiğinden emin olun.</span><span class="sxs-lookup"><span data-stu-id="23326-112">Site Collections - Select site collection in question, and then click Sharing - from the ribbon -\> ensure either sharing options are selected.</span></span>
     
-<span data-ttu-id="e3cb0-113">Dış paylaşımını açma konusunda ek bilgi için bkz: [dış açmak veya kapatmak için SharePoint çevrimiçi paylaşımı kapatma.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="e3cb0-113">For additional information on how to turn on external sharing, see [Turn external sharing on or off for SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)</span></span>
+<span data-ttu-id="23326-113">Dış paylaşımı niçin açabilirsiniz hakkında daha fazla bilgi için [SharePoint Online için dış paylaşımı açma veya kapatma konusuna bakın.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="23326-113">For additional information on how to turn on external sharing, see [Turn external sharing on or off for SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)</span></span>
   
 
