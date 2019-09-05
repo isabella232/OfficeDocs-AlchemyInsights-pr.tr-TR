@@ -1,6 +1,6 @@
 ---
-title: Dosya Paylaşımı başlattığınızda hata iletisi
-ms.author: kirks
+title: Dosyaları paylaşırken hata iletisi
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: dea173f74f8ddc6da485b44648a009a4900e1294
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ce62675193c835ec0ec394d8ccceac2261354bb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527311"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755976"
 ---
 # <a name="error-messages-when-sharing"></a>Paylaşırken hata iletileri
 
-Harici bir kullanıcıyla paylaşmak çalışırken bir hata iletisi alırsanız, büyük olasılıkla dış paylaşımı etkinleştirilmemiş veya paylaşım kullanıcı paylaşım düzeyini çalışıyor izin vermeyecek şekilde ayarlanmış.
+Harici bir kullanıcıyla paylaşmaya çalışırken bir hata iletisi alırsanız, büyük olasılıkla dış paylaşım etkin değildir veya paylaşım, kullanıcının çalıştığı paylaşım düzeyine izin vermeyecek şekilde ayarlanır.
   
-Yeni SharePoint Yönetim Merkezi'nde, sol bölmede **Paylaşım** ' ı tıklatın. İzin vermek istediğiniz paylaşımı düzeyini seçin. Dış paylaşım sitesi için açık olduğundan emin olun. 
+Yeni SharePoint yönetici merkezinde, sol bölmedeki **paylaşımı** tıklatın. İzin vermek istediğiniz paylaşım düzeyini seçin. Site için dış paylaşımın açık olduğundan emin olun. 
   
-Oturum açmaya çalışan kullanıcıya bir hata iletisi alırsa, lütfen aşağıdaki adımları deneyin:
+Oturum açmaya çalışan kullanıcı bir hata iletisi alıyorsa, lütfen aşağıdaki adımları deneyin:
   
-- Kullanıcıya gönderilen Paylaşma davetini kabul etti emin olun.
+- Kullanıcının gönderilen paylaşım davetini kabul ettiğinden emin olun.
     
-- Kullanıcı için gönderildiği e-posta adresli daveti kabul etmesini sağlayın.
+- Kullanıcının daveti gönderildiği e-posta adresiyle kabul ettiğinden emin olun.
     
 

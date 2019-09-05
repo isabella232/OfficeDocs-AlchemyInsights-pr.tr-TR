@@ -1,6 +1,6 @@
 ---
-title: 2010 onay iş akışı eklenemiyor.
-ms.author: kirks
+title: 2010 Onay İş Akışı eklenemiyor
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/3/2018
 ms.audience: ITPro
@@ -8,36 +8,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 1f564c5d1e689dcf41b22fab5a05ab1b488c2b0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 13e3ed6db8c31adb1eb5a556c0e5fbc437b3fdb1
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558637"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748704"
 ---
-# <a name="unable-to-add-2010-approval-workflow"></a>2010 onay iş akışı eklenemiyor.
+# <a name="unable-to-add-2010-approval-workflow"></a>2010 Onay İş Akışı eklenemiyor
 
-Bir Microsoft SharePoint site koleksiyonu (örneğin, "onay - SharePoint 2010") genel olarak yeniden kullanılabilir bir iş akışı bir liste veya kitaplığa ekleyemezsiniz.
+Microsoft SharePoint site koleksiyonunda, bir listeye veya kitaplıka genel olarak yeniden kullanılabilir bir iş akışı ("Onay - SharePoint 2010" gibi) ekemezsiniz.
   
-Bu sorunu gidermek için şu adımları izleyin: 
+Bu sorunu gidermek için aşağıdaki adımları izleyin: 
   
-1. Kök Web sitesinin site koleksiyonunun SharePoint Designer 2013'de açın.
+1. SharePoint Designer 2013'te site koleksiyonunun kök web sitesini açın.
   
-2. **Site nesneleri**altında **iş akışı**seçin. 
+2. **Site Nesneleri** **altında, İş Akışları'nı**seçin. 
   
-3. **İş akışları** Şerit'in **Yeni** bölümünde, **Yeniden kullanılabilir iş akışı**seçin. 
+3. **İş Akışları** şeridinin **Yeni** bölümünde, Yeniden Kullanılabilir **İş Akışı'nı**seçin. 
   
-4. **Yeniden kullanılabilir iş akışı Oluştur** formunda, adı girin ** *Repair2010* **. **Platform türü**, **SharePoint 2010 iş akışı**' nı tıklatın ve sonra **Tamam**' ı tıklatın. 
+4. Yeniden **Kullanılabilir İş Akışı Oluştur** formuna ** *Repair2010* **adını girin. **Platform Türü**için **SharePoint 2010 İş Akışı'nı**tıklatın ve ardından **Tamam'ı**tıklatın. 
   
-1. **İş akışı** Şerit **Kaydet** bölümünde **Yayımlama**seçin. 
+1. **İş Akışı** şeridinin **Kaydet** bölümünde **Yayımla'yı**seçin. 
   
-2. **Genel olarak yayınlama** **iş akışı** Şerit **Yönet** bölümünde seçin. Görüntülenen onay iletişim kutusunda **Tamam**' ı seçin. 
+2. **İş Akışı** şeridinin **Yönet** bölümünde, Genel **Olarak Yayımla'yı**seçin. Görünen onay iletişim kutusunda **Tamam'ı**seçin. 
   
-3. Bir web tarayıcısında site koleksiyonunun kök Web sitesi bulun ve sonra **Site ayarlarını** erişim \> **Site koleksiyonu özellikleri**. **İş akışı** özelliğini Değiştir: 
+3. Bir web tarayıcısında, site koleksiyonunun kök web sitesini bulun ve **ardından Site Ayarları** \> **Site Toplama Özelliklerine**erişin. **İş Akışları** özelliğini geçişe: 
   
-· Özellik *etkinleştirildi* , **etkinliğini,** tıklatın ve ardından **Etkinleştir**' i tıklatın. 
+· Özellik *Etkinleştirildiyse,* **Devre Dışı bırak'ı** tıklatın ve sonra **Etkinleştir'i**tıklatın. 
   
-· Bu özellik *devre dışı* ise, **Etkinleştir**' i tıklatın. 
+· Özellik Devre *Dışı* bırakılırsa, **Etkinleştir'i**tıklatın. 
   
 Daha fazla bilgi için lütfen aşağıdaki [makaleye](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)bakın.
   

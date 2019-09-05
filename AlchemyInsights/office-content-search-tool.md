@@ -1,6 +1,6 @@
 ---
-title: 1491-Search-Not-returning-Expected-Results
-ms.author: kirks
+title: 1491-search-not-return-beklenen-sonuçlar
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 9432ba267e423ea5bbcfbc40f4ea914901207140
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132707"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753887"
 ---
-# <a name="content-search-tool-to-find-relevant-info"></a>İlgili bilgileri bulmak için arama aracını içerik
+# <a name="content-search-tool-to-find-relevant-info"></a>İlgili bilgileri bulmak için İçerik Arama aracı
 
-Exchange posta kutuları, SharePoint siteleri ve OneDrive konumları ve anlık ileti iş için Skype konuşmalardaki belgeleri e-posta hızlı bir şekilde bulmak için Uyumluluk Merkezi güvenlik & içinde içerik arama aracını kullanın. E-posta, belgeler ve anlık ileti konuşmaları Microsoft Teams ve Office 365 gruplar gibi Office 365 işbirliği araçları aramak için içerik arama aracını kullanabilirsiniz.
+Exchange posta kutularında, SharePoint sitelerindeki ve OneDrive konumlarında bulunan belgeleri ve Skype for Business'taki anlık ileti konuşmalarını hızlı bir şekilde bulmak için Security & Compliance Center'daki İçerik Arama aracını kullanın. Microsoft Teams ve Office 365 Grupları gibi Office 365 işbirliği araçlarında e-posta, belge ve anlık ileti konuşmalarını aramak için içerik arama aracını kullanabilirsiniz.
 
 
-[Güvenlik & Uyumluluk Merkezi](https://sip.protection.office.com/homepage) [İçerik araması](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) kullanmadan önce [izinlerini yapılandırabilir](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [ayar İndirme hızları](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) ve [dışa aktarma ayarları](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results)dahil olmak üzere yapılandırma ayarlarını tamamlamak isteyeceksiniz.
+[Güvenlik & Uyumluluk Merkezi'nden](https://sip.protection.office.com/homepage) [İçerik Arama'yı](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) kullanmadan önce, [yapılandırma izinleri,](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search) [indirme hızlarını ayarlama](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) ve [dışa aktarma ayarlarını](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results)içeren yapılandırma ayarlarını tamamlamak istersiniz.
 
-Daha fazla içerik arama hakkında [gereksinimleri ve sınırları](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [kısmen dizinli öğe araştırma](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ve diğer Sonuçları inceleyerek dikkat edilmesi gereken anlayın.
+[Gereksinimleri ve sınırları](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search)gözden geçirerek, kısmen [dizine eklenmiş öğeleri](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ve dikkat edilmesi gereken diğer sonuçları inceleyerek İçerik Arama sı hakkında daha fazla bilgi edin.
 
-Yapılandırma ayarlarını ve içeriği arama sınırlamalarını gözden geçirdikten sonra bakın [kullanarak içerik arama</a> yerinde anlık ileti konuşmaları Office 365 kuruluşunuzdaki e-posta ve belgeler gibi öğeleri aramak için](https://docs.microsoft.com/office365/securitycompliance/content-search).
+İçerik Arama'nın yapılandırma ayarlarını ve kısıtlamalarını inceledikten sonra, [Office 365 kuruluşunuzdaki e-posta, belge ve anlık ileti konuşmaları gibi yerinde öğeleri aramak için İçerik Aramasını</a> Kullanma](https://docs.microsoft.com/office365/securitycompliance/content-search)bölümüne bakın.
 
-İçin tam bir adım adım içerik arama, daha fazla bilgi için bkz: [Office 365'te içerik arama](https://docs.microsoft.com/office365/securitycompliance/search-for-content) .
+İçerik Arama'nın adım adım tamamı için daha fazla bilgi [için Office 365'te içerik ara](https://docs.microsoft.com/office365/securitycompliance/search-for-content) bölümüne bakın.

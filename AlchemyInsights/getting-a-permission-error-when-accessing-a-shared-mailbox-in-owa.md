@@ -1,5 +1,5 @@
 ---
-title: 124 bir paylaşılan posta OWA'ya erişirken izin hatası alınıyor?
+title: 124 OWA'da paylaşılan bir posta kutusuna erişirken izin hatası mı alalıp?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: af3f4f55332d5332d00fddd3f7d6a3bf60523ada
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc682538ae8683c8b419d33bfccf96ac080304a6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523927"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735805"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Outlook web üzerindeki bir paylaşılan posta açarken bir izin hatası alıyorsunuz?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Web'de Outlook'ta paylaşılan bir posta kutusunu açarken izin hatası mı alaçıktınız?
 
-**Hatası alırsanız, bir sorun oluştu. Bu posta kutusunu açma izniniz yok.** Outlook web üzerindeki bir paylaşılan posta açmaya çalıştığınızda, hesabınızı paylaşılan bir posta kutusuna erişmek için izniniz olmayabilir. Kuruluş yöneticiniz [bir paylaşılan posta oluşturma](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)konusundaki yönergeleri izleyerek paylaşılan posta kutusuna, hesap izinlerinize atayabilirsiniz.
+Eğer hata alırsanız **bir şey yanlış gitti. Bu posta kutusunu açma izniniz yok.** Web'de Outlook'ta paylaşılan bir posta kutusu açmaya çalıştığınızda, hesabınızpaylaşılan posta kutusuna erişim iznine sahip olmayabilir. Kuruluş yöneticiniz, paylaşılan posta [kutusu oluşturma](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)konusuyla ilgili yönergeleri izleyerek hesap izinlerinizi paylaşılan posta kutusuna atayabilir.
   

@@ -1,34 +1,34 @@
 ---
-title: SharePoint veya OneDrive erişimi sınırlama
-ms.author: kirks
+title: SharePoint veya OneDrive'da erişimi kısıtlama
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: bc0028626c8934e57e5580477b193a70e49d87be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b1ec30a55ec0c08b291228ee90771bc56a55a36d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504231"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751764"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a>SharePoint dosyaları için IRM koruması
+# <a name="irm-protection-to-sharepoint-files"></a>SharePoint dosyalarına IRM Koruması
 
 
-Çevrimiçi SharePoint içinde IRM koruması liste ve kitaplık düzeyinde dosyalara uygulanır. Kuruluşunuzun IRM koruması kullanmadan önce haklar yönetimini ayarlamanız gerekir. IRM Azure bilgileri şifrelemek ve kullanım kısıtlamaları atamak için koruma Azure Rights Management hizmetinden yararlanır. Bazı Office 365 planları Azure Rights Management, ancak tümünü içerir. 
+SharePoint Online'da, liste ve kitaplık düzeyindeki dosyalara IRM koruması uygulanır. Kuruluşunuz IRM korumasını kullanabiliyor, önce Hak Yönetimi'ni ayarlamanız gerekir. IRM, kullanım kısıtlamalarını şifrelemek ve atamak için Azure Bilgi Koruması'ndan Azure Hakları Yönetimi hizmetine güvenir. Bazı Office 365 planları Azure Hakları Yönetimini içerir, ancak tümü ne değildir. 
 
 Daha fazla bilgi için bkz.
 
-- [Nasıl Office uygulamaları ve Hizmetleri Azure haklar yönetimini destekler](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
+- [Office uygulamaları ve hizmetleri Azure Hakları Yönetimini nasıl destekler?](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)
 
-- [SharePoint Yönetim Merkezi'nde Bilgi Hakları Yönetimi (IRM) yukarı ayarlayın](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+- [SharePoint yönetici merkezinde Bilgi Hakları Yönetimi 'ni (IRM) ayarlayın.](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)
 
-- [IRM etkin SharePoint belge kitaplıkları ve listeler](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
+- [IRM etkinleştirin SharePoint belge kitaplıkları ve listeleri.](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists)
 
-- [Office, Bilgi Hakları Yönetimi](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
+- [Ofiste Bilgi Hakları Yönetimi](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
 
-- [Bilgileri Exchange çevrimiçi hak yönetimi](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
+- [Exchange Online Bilgi Hakları Yönetimi](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
 
 

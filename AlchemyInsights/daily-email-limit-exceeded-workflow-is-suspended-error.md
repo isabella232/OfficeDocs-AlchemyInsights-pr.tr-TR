@@ -1,6 +1,6 @@
 ---
-title: Günlük e-posta sınırı aştı. İş akışı Beklemede hatadır
-ms.author: kirks
+title: Günlük e-posta Sınırı Aşıldı. İş Akışı Askıya Alındı hatasıdır
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -8,22 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f3bed6ed-48c1-47af-9e6f-29f716aa8d6b
-ms.openlocfilehash: 3a96a8a58672c6fb3f9d34c525a3734a48daf8de
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6cce569133d97e9fefea3834a63be1f1b756b417
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514490"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755364"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended-error"></a>Günlük e-posta sınırı aştı. İş akışı Beklemede hatadır
+# <a name="daily-email-limit-exceeded-workflow-is-suspended-error"></a>Günlük e-posta Sınırı Aşıldı. İş Akışı Askıya Alındı hatasıdır
 
- **Günlük e-posta sınırı aştı. İş akışı askıya** hata iletisi, aşağıdaki öğelerden birini kullanıyorsanız oluşabilir: 
+ **Günlük e-posta Sınırı Aşıldı. İş akışı Askıya Alınan** hata iletisi aşağıdaki öğelerden birine sahipseniz oluşabilir: 
   
-- Bir iş akışı SharePoint 2010 SharePoint veya SharePoint 2013 iş akışı platform türü kullanan çevrimiçi olarak vardır.
+- SharePoint Online'da SharePoint 2010 veya SharePoint 2013 iş akışı platform türünü kullanan bir iş akışınız vardır.
     
-- İş akışı, bir saat, günde 10. 000'den fazla alıcı veya dakika başına 30'dan fazla ileti 200'den fazla kullanıcılara özel e-posta iletisi göndermek için yapılandırılır.
+- İş akışı, aynı anda 200'den fazla kullanıcıya, günde 10.000'den fazla alıcıya veya dakikada 30'dan fazla iletigöndermek üzere özel bir e-posta iletisi gönderecek şekilde yapılandırılmıştır.
     
-- İş akışını çalıştırmak, e-posta iletisi gönderilmez ve hata iletisini görürsünüz, **İç Durumu Beklemede veya alıcılara gönderilemiyor ayarlanır** görüntülenir. 
+- İş akışını çalıştırdığınızda, e-posta iletisi gönderilmez ve hata iletisini fark edeyim, **İç Durum Askıya Alınan veya alıcıya gönderilemiyor** olarak ayarlanır görüntülenir. 
     
-Ek bilgi için bkz: [Günlük e-posta sınırını aştı ve iş akışınızı askıya aldı](https://go.microsoft.com/fwlink/?Linkid=2031137).
+Daha fazla bilgi için bkz. [Günlük e-posta sınırı aşıldı ve iş akışınız askıya alındı.](https://go.microsoft.com/fwlink/?Linkid=2031137)
   

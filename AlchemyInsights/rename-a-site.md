@@ -1,6 +1,6 @@
 ---
-title: Bir siteyi yeniden adlandırma
-ms.author: kirks
+title: Siteyi yeniden adlandırma
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/7/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 3523b50a0d0eba7c65cd9e740bd4adcc918130ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee92e2687da9e72d8551e74a0d179bf2c50f2adb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552911"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752196"
 ---
 # <a name="rename-a-sharepoint-site"></a>SharePoint sitesini yeniden adlandırma
 
-Örneğin, bir site adını değiştirmek için https://contoso.sharepoint.com/sites/sample1 için https://contoso.sharepoint.com/sites/sample2, yeni bir site oluşturun ve sonra tüm içeriği eski siteden yeni bilgisayara taşımak gerekir. Belge kitaplıklarında öğe taşıma hakkında daha fazla bilgi için bkz: [bir SharePoint belge kitaplığından öğe taşıma veya kopyalama](https://go.microsoft.com/fwlink/?Linkid=2018691).
+Bir sitenin adını değiştirmek için, https://contoso.sharepoint.com/sites/sample1 örneğin, https://contoso.sharepoint.com/sites/sample2yeni bir site oluşturmanız ve ardından eski sitedeki tüm içeriği yeni siteye taşımanız gerekir. Belge kitaplıklarında öğeleri taşıma hakkında daha fazla bilgi için [bkz.](https://go.microsoft.com/fwlink/?Linkid=2018691)
   
-Not: çevrimiçi bir SharePoint URL'si (diğer bir deyişle, contoso parçası yukarıdaki URL) etki alanı adıyla değiştirmeye çalışıyorsanız, bu mümkün değil. [Etki alanlarınıza değiştirme](https://go.microsoft.com/fwlink/?Linkid=2018696)konusuna bakın.
+Not: Bir SharePoint Online URL'sinde alan adını (diğer bir deyişle yukarıdaki URL'nin contoso bölümü) değiştirmeye çalışıyorsanız, bu mümkün değildir. Bkz. [Etki alanlarınızı değiştirin.](https://go.microsoft.com/fwlink/?Linkid=2018696)
   

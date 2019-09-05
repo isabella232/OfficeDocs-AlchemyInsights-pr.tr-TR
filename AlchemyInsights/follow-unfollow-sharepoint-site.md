@@ -1,6 +1,6 @@
 ---
-title: İzleyin veya BM izlenen bir SharePoint sitesi
-ms.author: kirks
+title: SharePoint sitesini takip et veya geri
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ebbb69c987b331fb92e5149f972a4489288f8334
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ef2eaf323e24202117282ff6d9d09ba348bf9a62
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524611"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755724"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>İzleyin veya BM izlenen bir SharePoint sitesi
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>SharePoint sitesini takip et veya geri
 
-SharePoint'te ilginizi çeken bir site takip etmek için birden çok yolu vardır. Bu site listenizde kolayca bulmanızı sağlar ve sitesinden etkinliğini görmenize olanak sağlar. 
+SharePoint'te ilginizi çeken bir siteyi izlemenin birden çok yolu vardır. Bu, siteyi listenizde kolayca bulmanızı ve sitedeki etkinliği görmenizi sağlar. 
 
-[Bir SharePoint sitesi izleyin](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0)videoyu izleyin. 
+[SharePoint sitesini takip](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0)etmek için videoyu izleyin. 
 
-İzleyin veya BM izlenen bir site yapamazlar ve sonuçları ne beklenir değil düşünüyorsanız, sorunu tek bir kullanıcının veya tüm kullanıcıların kuruluşunuz içindeki ilişkili olup olmadığını görmek. Tüm kullanıcılar tarafından bir sorunla karşılaşılırsa, geçici olarak hizmet sorunu olabilir. 
+Bir siteyi takip edemiyor veya takip edemiyorsanız ve sonuçların beklenen gibi olmadığını düşünüyorsanız, sorunun tek bir kullanıcıyla mı yoksa kuruluşunuzdaki tüm kullanıcılarla mı ilgili olduğuna bakın. Sorun tüm kullanıcılar tarafından karşılanırsa, geçici bir hizmet sorunu olabilir. 
 
-[Hizmet durumu Panosu](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) kuruluşunuzun etkileniyor mu görmek için denetleyin.
+Kuruluşunuzun etkilenip etkilenmeip etkilenmeyin iã§in [Hizmet SaÄ lÄ±k Panosu'](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) nu denetleyin.

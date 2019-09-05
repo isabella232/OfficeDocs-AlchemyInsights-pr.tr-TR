@@ -1,6 +1,6 @@
 ---
-title: Çok sayıda dosyayı bir kerede denetleme
-ms.author: kirks
+title: Aynı anda birden fazla dosyayı iade edin
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/17/2018
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 9b5d4de2a39e7af0a91c5de758f6f98c5fd8457a
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 70b441ca4c8751a84603e923adabd56c87f3ea92
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631754"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755040"
 ---
-# <a name="check-in-several-files-at-once"></a>Çok sayıda dosyayı bir kerede denetleme
+# <a name="check-in-several-files-at-once"></a>Aynı anda birden fazla dosyayı iade edin
 
-Birkaç klasörü bir SharePoint Kitaplığı'nda çok sayıda dosyayı iade etmek için **Görünümü Düzenle** sayfasında **Klasörler** altındaki **tüm öğeleri klasörler olmadan göster** ' i seçin. 
+SharePoint kitaplığındaki birkaç klasördeki birkaç dosyayı iade etmek için, Görünüm ünü **edet** sayfasında **Klasörler** altında **klasörsüz tüm öğeleri göster'i** seçin. 
   
- **Not**: SharePoint Online ve Office 365 şu anda izin birden çok dosya ile modern mod denetlerken. 
+ **Not**: SharePoint Online ve Office 365 şu anda modern modda giriş yaparken birden fazla dosyaya izin vermiyor. 
   
-Onay-onay-çıkış hakkında daha sık sorulan sorular Bkz: [kullanıma, onay işareti, ilgili üst sorular ve sürümleri](https://go.microsoft.com/fwlink/?linkid=2018786)bakın.
+Check-in/check-out hakkında daha sık sorulan soruları görün, [check-out, check-in ve sürümler hakkındaki en sık sorulan soruları](https://go.microsoft.com/fwlink/?linkid=2018786)görün.
   
 

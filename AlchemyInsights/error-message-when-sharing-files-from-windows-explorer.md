@@ -1,6 +1,6 @@
 ---
-title: Windows Gezgini'nden bir dosya paylaşımı başlattığınızda hata iletisi
-ms.author: kirks
+title: Windows Gezgini'nden dosya paylaşırken hata iletisi
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/19/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 1460a73a0365c4fd170f6aea3a30cc4d6dcefce2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a8fe007084883b125b0ca538156a1576deb1c28e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527280"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756012"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Windows Gezgini'nden bir dosya paylaşımı başlattığınızda hata iletisi
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Windows Gezgini'nden dosya paylaşırken hata iletisi
 
-Windows Gezgini'nden paylaşmak çalışırken, aşağıdaki hata iletisini alabilirsiniz:
+Windows Gezgini'nden paylaşmaya çalışırken aşağıdaki hata iletisini alabilirsiniz:
   
-"Üzgünüm, şu anda sunucuya erişemezse dileriz. Lütfen daha sonra yeniden deneyin"
+"Üzgünüz, şu anda sunucuya ulaşamıyoruz. Lütfen daha sonra tekrar deneyin"
   
-Hatayı gidermek için ileti, Internet Explorer'dan gitmek için **Araçlar** \> **Internet Seçenekleri** \> **Gelişmiş** sekmesini tıklatın ve sonra **Şifreli sayfaları diske kaydetme**başlıklı onay kutusunu temizleyin.
+Hata iletisini gidermek için, Internet Explorer'dan **Araçlar** \> **Internet Seçenekleri'ne** \> gidin **Gelişmiş** sekmesini tıklatın ve ardından şifreli **sayfaları diske kaydetme başlıklı**onay kutusunu temizleyin.
   
- **Not**: ayarının etkinleşmesi tarayıcınızı yeniden başlatmanız gerekebilir. Ek bilgi bakın ["şu anda sunucuya erişilemedi" hata iletisi dosya paylaşımı](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Not**: Ayarın etkili olması için tarayıcınızı yeniden başlatmanız gerekebilir. Ek bilgi için bkz: ["Şu anda sunucuya ulaşamıyor" hata iletisi dosyaları paylaşırken.](https://go.microsoft.com/fwlink/?linkid=2022914)
   
