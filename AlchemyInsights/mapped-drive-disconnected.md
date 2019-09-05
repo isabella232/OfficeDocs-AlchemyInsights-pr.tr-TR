@@ -1,5 +1,5 @@
 ---
-title: Eşlenen sürücünün bağlantısı kesildi
+title: Eşlenen sürücü bağlantısı kesildi
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
-ms.openlocfilehash: 552b5a523a55d67c8ba5f902581f8a625410e9d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 16346f2f8edee6a4386f6f324424a86bc5d92b4a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496851"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734869"
 ---
-# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>Eşleştirilmiş ağ sürücüleri için SharePoint kitaplıklarına balantısı
+# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>Ağ sürücülerine eşlenen SharePoint kitaplıkları bağlantısı kesilir
 
-SharePoint belge kitaplığı için bir ağ sürücüsünü eşleme geçicidir. Bazen, SharePoint sitesini Internet Explorer'da açın ve oturum zaman aşımına uğramasını önlemek için **içinde kalmak** seçmeniz gerekir. 
+SharePoint belge kitaplığını ağ sürücüsüyle eşleme geçicidir. Oturumun süresinin dolmasını önlemek için zaman zaman Internet Explorer'da SharePoint sitesini açmanız ve **oturumda oturumda oturumda kal** seçeneğini seçmeniz gerekir. 
   
-[Yapılandırma ve eşlenen ağ sürücülerine sorun giderme yardım alın](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Eşlenen ağ sürücülerini yapılandırma ve sorun giderme konusunda yardım alın.](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
   
-Kitaplığa dosya Gezgini, [Dosyaları isteğe bağlı](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)içeren [Yeni OneDrive eşitleme istemcisi ile SharePoint dosyaları eşitlemek](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) çalışmak için. Tüm dosyalarınızı OneDrive yerel depolama alanını kullanmadan erişir.
+Dosya Gezgini'nde bir kitaplıkla çalışmak için, SharePoint dosyalarını [İsteğe Bağlı Dosyalar](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)içeren [yeni OneDrive eşitleme istemcisiyle eşitleyin.](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) Yerel depolama alanı kullanmadan OneDrive'daki tüm dosyalarınıza erişin.
   
 

@@ -1,5 +1,5 @@
 ---
-title: Ayarlama veya ortak klasör izinlerini değiştirme
+title: Ortak klasör izinlerini ayarlama veya değiştirme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: 3f891beeba8303b05d6730f608034e22b2bcdb92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1015c2203406e15d6b418c387b6632a182d6d2ff
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550175"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734689"
 ---
-# <a name="permissions-and-public-folders"></a>İzinler ve ortak klasörler
+# <a name="permissions-and-public-folders"></a>İzinler ve Ortak Klasörler
 
-Ortak, Outlook, Exchange Yönetim Merkezi (TZT) kullanarak klasör izinlerini değiştirebilirsiniz veya PowerShell:
+Outlook, Exchange yönetici merkezi (EAC) veya PowerShell'i kullanarak Ortak Klasörlerinizdeki izinleri değiştirebilirsiniz:
   
-- Outlook ilgili yönergeler için [burayı tıklatın](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
+- Outlook yönergeleri için [burayı tıklatın.](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx)
     
-- TZT için yönergeler için [Bu makaleye](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) bakın. ' I için TZT gitmek için [burada](https://support.office.com/article/ https://outlook.office365.com/ecp/.aspx) . 
+- EAC için, talimatlar için [bu makaleye](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) bakın. 
     
-- PowerShell için Ekle PublicFolderClientPermission komutunu kullanma hakkında yönergeler için [Bu makaleye](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) bakın. Bağlanmak için Exchange Powershell için yönergeler gereksinim duyarsanız, tıklatın [burada](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
+- Powershell için, Ekle-PublicFolderClientPermission komut unu kullanma yönergeleri için [bu makaleye](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) bakın. Exchange Powershell'e bağlanmak için talimatlara ihtiyacınız varsa, [buraya](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx)tıklayın.
     
-**Harici kullanıcılar etkin posta ortak klasöre e-posta gönderemezsiniz**, neden olabilir, ortak klasörde izinleri yok dış e-posta teslimi için gerekli. Bu Outlook yönergeleri kullanarak düzeltme [burada](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)veya PowerShell yönergeleri [burada](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
+**Harici kullanıcılar posta yla etkinleştirilmiş genel klasöre e-posta gönderemiyorsa,** bunun nedeni ortak klasörün harici e-posta teslimi için gereken izinleri eksik olması olabilir. Bunu [outlook](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)yönergelerini kullanarak veya [powershell yönergelerini buradan](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx)düzeltebilirsiniz.
   
 
