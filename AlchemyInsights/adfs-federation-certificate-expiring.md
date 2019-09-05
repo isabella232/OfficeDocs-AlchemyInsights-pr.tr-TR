@@ -1,5 +1,5 @@
 ---
-title: ADFS Federasyon sertifika zaman aşımına uğramak
+title: ADFS Federasyon Sertifikası Süresi Doluyor
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: c9922258c2d203cc07c1a1055ffa36c23a756115
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499911"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737209"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>ADFS Federasyon sertifika zaman aşımına uğramak
+# <a name="adfs-federation-certificate-expiring"></a>ADFS Federasyon Sertifikası Süresi Doluyor
 
-Bu sorunu gidermek için şu adımları izleyin:
+Bu sorunu gidermek için aşağıdaki adımları izleyin:
   
-1. Microsoft Azure Active Directory modülü için Windows PowerShell (modül yüklü değil ise) bilgisayara yükleyin. Bunu yapmak için [Windows PowerShell kullanarak Azure AD Yönet](https://aka.ms/aadposh)gidin.
+1. Windows PowerShell için Microsoft Azure Active Directory Modül'ü bilgisayara yükleyin (modül zaten yüklü değilse). Bunu yapmak için [Windows PowerShell'i kullanarak Azure REKLAM'ı yönet'e](https://aka.ms/aadposh)gidin.
 
-2. Adımları "Senaryo 1: AD FS belirteç imzalama sertifikasının süresi doldu" bölümünde [Office 365, Azure veya Intune federe bir kullanıcı oturum açtığında AD FS "sitesine erişilirken bir sorun oluştu" hata](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Federe [bir kullanıcı Office 365, Azure veya Intune'a girdiğinde AD FS'den gelen "Siteye erişimde sorun oluştu" bölümünün](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)"Senaryo 1: AD FS belirteç imzalama sertifikasının süresi doldu" bölümündeki adımları izleyin.
 
-3. [Nasıl update veya Office 365, Azure, veya Intune bir federe etki alanı ayarlarını onarmak](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3)adımları izleyin.
+3. [Office 365, Azure veya Intune'daki federe etki alanının ayarlarını güncelleştirme veya onarma](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)adımlarını izleyin.
 
-    Federasyon sertifikaları yenileme hakkında daha fazla bilgi için bkz: [Office 365 ve Azure Active Directory Federasyon sertifikalarını yenileme](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Federasyon sertifikalarını yenileme hakkında daha fazla bilgi edinmek [için Office 365 ve Azure Etkin Dizini için federasyon sertifikalarını](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)yenile'ye bakın.

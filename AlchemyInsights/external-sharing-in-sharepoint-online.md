@@ -1,5 +1,5 @@
 ---
-title: Dış SharePoint çevrimiçi paylaşma
+title: SharePoint Online'da dış paylaşım
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -11,34 +11,34 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: 1369df853da594d679d5850fbd032111bdf277fe
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664952"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735985"
 ---
-# <a name="external-sharing-in-sharepoint-online"></a>Dış SharePoint çevrimiçi paylaşma
+# <a name="external-sharing-in-sharepoint-online"></a>SharePoint Online'da dış paylaşım
 
-Kuruluşunuz belgeleri paylaşmak veya doğrudan satıcılara, müşterileriniz ve müşteriler ile işbirliği ile ilgili iş yapar sonra içeriği kişilerle paylaşmak için [dış paylaşımı çevrimiçi SharePoint özelliklerini](https://docs.microsoft.com/sharepoint/external-sharing-overview) kullanabilirsiniz, Organizasyon.
+Kuruluşunuz belge paylaşımı veya doğrudan satıcılar, müşteriler veya müşterilerle işbirliği yapmayı içeren işler yapıyorsa, [sharepoint online'ın dış paylaşım özelliklerini](https://docs.microsoft.com/sharepoint/external-sharing-overview) kullanarak içeriği dışarıdaki kişilerle paylaşabilirsiniz Organizasyon.
 
-Dış paylaşımı hakkında daha fazla bilgi için aşağıdaki bağlantıları ziyaret edin:
+Dış paylaşım hakkında daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin:
 
 - [SharePoint Online için dış paylaşımı açma veya kapatma](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
-- [Dış açmak veya kapatmak için bir site Paylaşımı Kapat](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
-- [Varsayılan site türü başına paylaşım ayarları](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
-- [Çevrimiçi SharePoint extranet işletmeden işletmeye (B2B) çözüm olarak kullanın](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
-- [SharePoint dosya veya klasörü paylaşma](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
-- [OneDrive veya SharePoint dosyaları veya klasörleri paylaşmayı durdurmak veya izinleri değiştirme](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&rs=en-US&ad=US)
-- [Microsoft Teams Konuk erişim](https://docs.microsoft.com/MicrosoftTeams/guest-access)
-- [Microsoft Konuk paylaşımı ayarları başvurusu (Azure Active Directory, Microsoft 365 ve çevrimiçi SharePoint)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
+- [Bir site için dış paylaşımı açma veya kapatma](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Site türübaşına varsayılan paylaşım ayarları](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
+- [Sharepoint Online'ı işletmeden işletmeye (B2B) extranet çözümü olarak kullanma](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [SharePoint dosyalarını veya klasörünü paylaşma](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [OneDrive veya SharePoint dosya veya klasörlerini paylaşmayı durdurun veya izinleri değiştirin](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Microsoft Teams'de konuk erişimi](https://docs.microsoft.com/MicrosoftTeams/guest-access)
+- [Microsoft Konuk Paylaşımı Ayarları Başvurusu (Azure Active Directory, Microsoft 365 ve SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
-Bir hata ile harici kullanıcı alma?Aşağıdaki bağlantıları kontrol edin:
+Harici bir kullanıcıda hata mı alıyoruz?Aşağıdaki bağlantıları kontrol edin:
 
-- ["Erişim reddedildi", "İhtiyacınız bu siteye erişme izni" veya "Kullanıcı dizinde bulunamadı" hataları SharePoint çevrimiçi ve iş OneDrive](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [Bir öğe veya SharePoint çevrimiçi ya da OneDrive iş için sitede paylaşırken "konusunda kuruluşunuzun ilkelerini bu kullanıcılarla paylaşmak izin vermiyor" hata](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Paylaşım seçeneklerini SharePoint çevrimiçi veya OneDrive paylaşırken nda](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Başka bir hesabı kullanarak harici bir kullanıcı SharePoint çevrimiçi daveti kabul ettiğinde hata iletisi](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [OSE SharePoint ve OneDrive hatalar paylaşımı](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [SharePoint Online ve OneDrive for Business'taki "Erişim Reddedildi", "Bu siteye erişmek için izne izin verebilirsiniz", "Dizinde bulunamayan kullanıcı" hataları](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [SharePoint Online veya OneDrive for Business'ta bir öğeyi veya siteyi paylaşırken "Kuruluşunuzun ilkeleri bu kullanıcılarla paylaşmanıza izin vermiyor" hatası](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [SharePoint Online veya OneDrive'dan paylaşım yaparken paylaşım seçenekleri soluk](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Harici bir kullanıcı başka bir hesap kullanarak SharePoint Online davetini kabul ettiğinde hata iletisi](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [SharePoint ve OneDrive'daki OSE paylaşım hataları](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 

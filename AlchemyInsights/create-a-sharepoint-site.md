@@ -1,5 +1,5 @@
 ---
-title: Bir SharePoint sitesi oluşturma
+title: SharePoint sitesi oluşturma
 ms.author: efrene
 author: efrene
 ms.date: 1/16/2019
@@ -14,27 +14,27 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 96780bd2f4182c1385406ec2a31cd62745137985
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515827"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738217"
 ---
-# <a name="create-a-sharepoint-site"></a>Bir SharePoint sitesi oluşturma
+# <a name="create-a-sharepoint-site"></a>SharePoint sitesi oluşturma
 
-SharePoint sitesi oluşturma hakkında bilgi için aşağıdakileri görebilirsiniz:
-- [Yeni SharePoint Yönetim Merkezi'ndeki siteleri yönetme](https://docs.microsoft.com/sharepoint/manage-site-creation): Klasik bir site veya Office 365 Grup içermez bir ekip sitesi oluşturma dahil olmak üzere site oluşturma seçenekleri hakkında bilgi edinin.
-- [SharePoint ekip sitesinde oluşturma](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): bir ekip sitesi oluşturmayı öğrenin.
-- [SharePoint çevrimiçi iletişim sitesi oluştur](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): iletişim site oluşturmayı öğrenin.
-- [Yeni SharePoint Yönetim Merkezi'ndeki siteleri yönetme](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Klasik bir site veya bir Office 365 Grup içermediği bir ekip sitesi oluşturmayı öğrenin.
+SharePoint site oluşturma hakkında bilgi için aşağıdakileri görebilirsiniz:
+- [Yeni SharePoint yönetici merkezindeki siteleri yönetme](https://docs.microsoft.com/sharepoint/manage-site-creation): Klasik bir sitenin veya Office 365 grubunu içermeyen bir ekip sitesinin nasıl oluşturulabildiğini içeren site oluşturma seçenekleri hakkında bilgi edinin.
+- [SharePoint'te bir ekip sitesi oluşturun](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): Ekip sitesi oluşturmayı öğrenin.
+- [SharePoint Online'da bir iletişim sitesi oluşturun](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): İletişim sitesi oluşturmayı öğrenin.
+- [Yeni SharePoint yönetici merkezindeki siteleri yönetme](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Klasik bir siteyi veya Office 365 grubunu içermeyen bir ekip sitesini nasıl oluşturacağız öğrenin.
 
 
   
 > [! İpuçları]
-> - Varolan bir sitenin aynı URL'ye bir site oluşturamazsınız. Site silindiğinde ve yeniden URL kullanmak isteyen, silinmiş bir site altında **Silinmiş siteler**hala varolduğunu mümkündür. Yönetmek için siteleri bkz:, [siteyi silebileceği](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)sildi. Bir site Powershell ile tümüyle kaldırmak için [Kaldır-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet örneğe bakın.
-> - Bazı kullanıcılar site oluşturmak mümkün olmayabilir. [Yönet Online'da SharePoint sitesi oluşturma](https://docs.microsoft.com/sharepoint/manage-site-creation)konusuna bakın.
-> - Site **oluşturma** sırasında beklenenden uzun takılmış görünüyor mümkündür. Bu sorun ilk gördüğünüz bu yana 24 saatten fazla başarılı olması halinde, Lütfen bir destek bileti oturum. Çoğu durumda, biz zaten bir çözüm üzerinde çalışıyorsunuz. Lütfen bize bir çözüm tamamlamak için en az 24 saat verin.
-> - Office 365 grup içeren yeni bir ekip sitesi oluşturmanız gerekiyorsa, 
+> - Varolan bir sitenin aynı URL'sini içeren bir site oluşturamazsınız. Bir siteyi sildiyseniz ve URL'yi yeniden kullanmak istiyorsanız, silinen site **silinmiş sitelerin**altında hala var olabilir. Silinen siteleri yönetmek için [bkz.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) Powershell içeren bir siteyi tamamen kaldırmak [için, Kaldır-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet örneğine bakın.
+> - Bazı kullanıcılar bir site oluşturamayabilir. Bkz. [SharePoint Online'da site oluşturmayı yönet.](https://docs.microsoft.com/sharepoint/manage-site-creation)
+> - Sitenin beklenenden daha uzun süredir **Oluşturma'da** sıkışmış görünmesi mümkündür. Bu sorunu ilk gördüğünüzden bu yana 24 saatten fazla zaman geçtiyse, lütfen bir destek bileti ni kaydedin. Çoğu durumda, zaten bir çözüm üzerinde çalışıyoruz. Lütfen bir çözümü tamamlamamız için bize en az 24 saat verin.
+> - Office 365 grubu içermeyen yeni bir ekip sitesi oluşturmanız gerekiyorsa, 
 
 

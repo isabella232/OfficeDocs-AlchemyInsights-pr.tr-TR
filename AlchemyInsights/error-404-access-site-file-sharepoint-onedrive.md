@@ -1,5 +1,5 @@
 ---
-title: '404 hatası: dosya bulunamadı'
+title: 'Hata 404: Dosya bulunamadı'
 ms.author: efrene
 author: efrene
 ms.date: 9/18/2018
@@ -7,19 +7,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 98c390e1781d9c00fbc0dbabc633594726f2fda0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527419"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740233"
 ---
-# <a name="error-404-file-not-found"></a>404 hatası: dosya bulunamadı
+# <a name="error-404-file-not-found"></a>Hata 404: Dosya bulunamadı
 
-**Hata 404: dosya bulunamadı** kullanıcıların site veya SharePoint veya OneDrive dosyasına erişmeye çalıştıklarında aldı. Bu genellikle bir site veya dosya veya grup alma yeniden adlandırılmış, taşınmış veya silinmiş kaynaklanır.
-Kullanıcılar hata kök site koleksiyonu erişmeye çalışırken karşılaşacaklardır ve silinmiş olabilir.
+**Hata 404:** Kullanıcılar SharePoint veya OneDrive'da bir siteye veya dosyaya erişmeye çalışırken dosya bulunamadı alınır. Bunun nedeni genellikle bir site nin veya dosyanın veya grubun yeniden adlandırılsa, taşınmasından veya silinmekten kaynaklanır.
+Kullanıcılar kök site koleksiyonuna erişmeye çalışırken hatayla karşılaşır ve silinir.
 
-Aşağıdaki ile bu sorunu çözmeye yardımcı olabilir:
-- [Yeni SharePoint Yönetim Merkezi'ndeki Site Silinen görünümü ve geri yükleme](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): Yeni Yönetim Merkezi önizlemede mevcut modern siteleri (iletişimi, Grup bağlı veya diğer siteler).
-- [SharePoint sitesi Geri Dönüşüm Kutusu'ndaki öğeleri geri yükle](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): dosya (veya başka bir öğe) çözümlemek için yeniden adlandırılmış, taşınmış veya silinmiş Git görünümü ve OneDrive ya da SharePoint sitesinde geri dönüşüm Site içeriğini depo gözü.
-- [Office 365 güvenlik denetim günlüğü arama &amp; Uyumluluk Merkezi](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): öğeyi bulun yine ulaşamıyorsanız, Denetim günlüğü (günlüğe kaydetme işlemi etkinleştirilmişse) arayın.
+Aşağıdakiler bu sorunu çözmede yardımcı olabilir:
+- [Silinen siteleri yeni SharePoint yönetici merkezinde görüntüleyin ve geri yükleyin](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): Yeni yönetici merkezi önizlemesinde bulunan modern siteler (iletişim, gruba bağlı veya diğer siteler) için.
+- [SharePoint sitesinin Geri Dönüşüm Kutusu'ndaki öğeleri geri yükleme](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): Yeniden adlandırılmış, taşınmış veya silinmiş dosyayı (veya diğer öğeyi) çözmek için SharePoint veya OneDrive sitesine gidin ve Site içeriğinden Geri Dönüşüm Kutusu'nu görüntüleyin.
+- [Güvenlik &amp; Uyumluluk Merkezi'ndeki denetim günlüğünü arayın](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance): Öğeyi hala bulamıyorsanız denetim günlüğünde (günlüğe kaydetme etkinse) arama yapın.

@@ -1,6 +1,6 @@
 ---
-title: Access services emeklilik
-ms.author: kirks
+title: Erişim hizmetleri emeklilik
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -10,26 +10,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 8886d7a6fad49e942e17f6a2f3c98542f87aae0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 197366882468ebc87fc26f2fe2733371790d1871
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495771"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747807"
 ---
-# <a name="access-services-retirement"></a>Access services emeklilik
+# <a name="access-services-retirement"></a>Erişim hizmetleri emeklilik
 
-Biz başlangıçta Mart 2017'de MC97576 duyurulan ve geçen yıl iletişim kurmak devamı olarak Access Services Office 365 ' emekli. Sonraki aşama bu işlem SharePoint listelerini, alttaki veri deposu olarak kullanan Access Web veritabanları kaldırılması olacaktır.
+İlk olarak MC97576'da, Mart 2017'de duyurduğumuz ve geçtiğimiz yıl içinde iletişim kurmaya devam ettiğimiz gibi Access Services, Office 365'ten emekliye ayrıldı. Bu işlemin bir sonraki aşaması, SharePoint listelerini temel veri depolama alanı olarak kullanan Access Web Veritabanlarının kaldırılması olacaktır.
 
-**Nasıl bu beni etkiler mi?**
+**Bu beni nasıl etkiliyor?**
 
-Haziran 2019 başlayarak, biz yeni Access veritabanlarında SharePoint çevrimiçi oluşturulmasını durdurmak ve hizmet ve kalan tüm apps aşağı tarafından Nisan 2020 kapatmak.
+Haziran 2019'dan itibaren SharePoint Online'da yeni Access veritabanları oluşturulmasını durduracağız ve hizmeti ve kalan uygulamaları Nisan 2020'ye kadar kapatacağız.
 
-**Bu değişikliğe hazırlanmak için ne yapmalıyım?**
+**Bu değişikliğe hazırlanmak için ne yapmam gerekiyor?**
 
-Kuruluşunuzun Access web veritabanları için bir geçiş planı oluşturmak için önerilir. Yöneticileri [SharePoint erişimi app tarayıcı](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) siteleri kullanarak erişim apps envanterini elde etmek için kullanabilirsiniz.
+Kuruluşunuzun Access web veritabanları için bir geçiş planı oluşturmanızı öneririz. Yöneticiler, sitelerin kullandığı Access uygulamalarının envanterini almak için [SharePoint Access uygulama tarayıcısını](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) kullanabilir.
 
-Access web veritabanları veri taşımak için birkaç yolu vardır:
+Access web veritabanları verilerini geçirmenin birkaç yolu vardır:
 
-- Yerel bir Access veritabanına alma (. Olmayan ACCDB) veya Excel dosyası.
-- Microsoft PowerApps web ve mobil aygıtlar için kod içermeyen iş çözümleri oluşturmak için alternatif bir platform olarak araştırma öneririz.
+- Yerel bir Access veritabanına aktarma (. ACCDB) veya bir Excel dosyasına.
+- Ayrıca, web ve mobil cihazlar için kodsuz iş çözümleri oluşturmak için Microsoft PowerApps'ı alternatif bir platform olarak keşfetmenizi öneririz.

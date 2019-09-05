@@ -1,5 +1,5 @@
 ---
-title: Silinen geri yükleme kullanıcı
+title: Silinen kullanıcıyı geri yükleme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551831"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745093"
 ---
 # <a name="restore-a-user-in-office-365"></a>Office 365'te bir kullanıcıyı geri yükleme
 
-Aşağıdaki adımları kullanarak Office 365'te kullanıcı geri yükleyin:
+Şu adımları kullanarak Office 365'te bir kullanıcıyı geri yükleme:
   
-1. Git [kullanıcı \> kullanıcılar silinmiş](https://admin.microsoft.com/adminportal/home#/deletedusers).
+1. Kullanıcılara Git [ \> Silinen kullanıcılar](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
-2. Kullanıcı'yı seçin, sonra **Geri Yükleme'yi**seçin.
+2. Kullanıcıyı seçin ve sonra **Geri Yükle'yi**seçin.
 
 3. Parolayı ayarlamak için istemleri izleyin.
 
-4. **E-posta göndermek ve Kapat**öğesini tıklatın ve Başardınız!
+4. **E-posta gönder'e**tıklayın ve kapatın, ve bittiniz!
 
-Kolay değildi? Daha fazla ayrıntı ve ekran görüntüleri ile adımları için bu makalede denetleyin: [bir kullanıcının Office 365'te geri](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx). Geri yükleme kullanıcının posta kutusu için bunun yerine gerekir fark ederseniz, bkz: [kullanıcı posta kutularını Exchange çevrimiçi geri yükleme veya silme](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Kolay olmadı mı? Ekran görüntüleriyle ilgili daha fazla ayrıntı ve adım için şu makaleye göz atın: [Office 365'te bir kullanıcıyı geri yükleyin.](https://docs.microsoft.com/office365/admin/add-users/restore-user) Bunun yerine kullanıcının posta kutusunu geri yüklemeniz gerektiğini fark ederseniz, bkz: [Exchange Online'daki kullanıcı posta kutularını silin veya geri yükleyin.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)

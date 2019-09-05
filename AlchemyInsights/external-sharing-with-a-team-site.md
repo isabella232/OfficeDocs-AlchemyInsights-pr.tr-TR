@@ -1,6 +1,6 @@
 ---
-title: Harici bir ekip sitesi ile paylaşma
-ms.author: kirks
+title: Ekip Sitesiyle Dış Paylaşım
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: da38dd61369e9581b123448c9a566cde5d2e561e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da9d90ba6024df5c61d45d2343008fa0b0fdab7b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526008"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755904"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Harici bir ekip sitesi ile paylaşma
+# <a name="external-sharing-with-a-team-site"></a>Ekip Sitesiyle Dış Paylaşım
 
-Dış kullanıcı için ekip siteleri paylaşımı etkinleştirmek için şu adımları izleyin: 
+Ekip Siteleri için harici kullanıcı paylaşımını açmak için aşağıdaki adımları izleyin: 
   
-1. Yeni SharePoint Yönetim Merkezi'nde **Etkin siteler**' i tıklatın.
+1. Yeni SharePoint yönetici **merkezinde, Etkin Siteler'i**tıklatın.
   
-2. **Ekip sitesi** şablonu içeren bir site seçin. 
+2. **Takım Sitesi** şablonu olan bir site seçin. 
   
-3. **Paylaşım** düğmesini üst menüden seçin. 
+3. Üst menüden **Paylaşım** düğmesini seçin. 
   
- **Not**: Modern bir ekip sitesi oluşturulduğunda, varsayılan olarak, dış paylaşım seçeneği yeni ve varolan dış kullanıcılar için ayarlanır. 
+ **Not**: Varsayılan olarak, Bir Modern Ekip Sitesi oluşturulduğunda, Dış paylaşım seçeneği Yeni ve varolan dış kullanıcılara ayarlanır. 
   
- **Not:** Seçili birden fazla siteniz varsa, **Paylaşım** düğmesini devre dışı görünür. Yalnızca tek bir site seçin. 
+ **Not:** Birden fazla site seçiliyse, **Paylaşım** düğmesi devre dışı görünür. Yalnızca bir site seçin. 
   
 

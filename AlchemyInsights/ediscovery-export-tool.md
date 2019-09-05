@@ -1,5 +1,5 @@
 ---
-title: eBulma verme aracı
+title: eDiscovery ihracat aracı
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528283"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736345"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Yükleyemez veya eBulma verme aracı çalıştırmak?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>eDiscovery Dışa Aktarma Aracı'nı yükleyemez veya çalıştıramıyor musunuz?
 
-Yükleme veya Office 365 eBulma arama sonuçları indirmek için verme aracı çalıştırmak, şunları denetleyin:
+Arama sonuçlarını indirmek için Office 365 eDiscovery Dışa Aktarma Aracı'nı yükleyemez veya çalıştıramıyorsanız, aşağıdaki leri denetleyin:
   
-- Kullanmakta olduğunuz bilgisayara bu ön gereksinimleri karşılıyor:
+- Kullandığınız bilgisayar şu ön koşulları karşılar:
 
-  - 32 veya 64 bit sürümleri Windows 7 ve sonraki sürümleri
+  - Windows 7 ve sonraki sürümlerin 32 veya 64 bit sürümleri
 
   - Microsoft .NET Framework 4.7
 
   - Desteklenen bir tarayıcı:
 
-  - Microsoft kenar
+  - Microsoft Edge
 
     Veya
 
   - Internet Explorer 10 ve sonraki sürümler
 
-    Google Chrome ve Mozilla Firefox gibi diğer tarayıcıları desteklenmez.
+    Google Chrome ve Mozilla Firefox gibi diğer tarayıcılar desteklenmez.
 
-- Kuruluşunuz içinde olan Azure bitiş noktası bağlanabilir ** \*. blob.core.windows.net** (joker karakter, dışa aktarma işi için benzersiz bir tanımlayıcı gösterir).
+- Kuruluşunuz Azure'daki ** \*** bitiş noktasına (blob.core.windows.net olan (joker karakter, dışa aktarma işiniz için benzersiz bir tanımlayıcıyı temsil eder) bağlanabilir.
 
-- Office 365 güvenlik verme rolüne atanmış &amp; Uyumluluk Merkezi. Varsayılan olarak, bu rolü yalnızca eBulma Yöneticisi Rol grubuna atanır. [EBulma izinler atama](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo)konusuna bakın.
+- Office 365 Güvenlik &amp; Uyumluluk Merkezi'nde Dışa Aktarma rolü atanırsınız. Varsayılan olarak, bu rol yalnızca eDiscovery Manager rol grubuna atanır. Bkz. [EDiscovery izinlerini atay.](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-Daha fazla bilgi için bkz: [Verme içerik arama sonuçları](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+Daha fazla bilgi için [İçerik Aramayı Dışa Aktar](https://docs.microsoft.com/office365/securitycompliance/export-search-results)ın sonuçlarına bakın.
   

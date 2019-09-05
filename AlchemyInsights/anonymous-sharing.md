@@ -1,6 +1,6 @@
 ---
-title: Anonim paylaşımı
-ms.author: kirks
+title: Anonim paylaşım
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 01971c5bb52b9ee7a679dbae84632d777f29952a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eaf958932ee1c1b4e33bd5dae96a48c37505739e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512479"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747854"
 ---
-# <a name="anonymous-sharing"></a>Anonim paylaşımı
+# <a name="anonymous-sharing"></a>Anonim paylaşım
 
- **Anonim erişimi etkinleştir**
+ **Anonim erişimi etkinleştirme**
   
-Yeni SharePoint Yönetim Merkezi'nde, sol bölmede **Paylaşım** ' ı tıklatın. 
+Yeni SharePoint yönetici merkezinde, sol bölmedeki **paylaşımı** tıklatın. 
   
-- Aşağıdakileri seçin: **dış kullanıcıların kimlik doğrulaması için izin Paylaşımı ve anonim erişim kullanılarak.**
+- Aşağıdakileri seçin: **Kimliği doğrulanmış harici kullanıcılara paylaşım ve anonim erişim kullanma izni verin.**
   
-(İsteğe bağlı olarak, belirli sayıda gün içinde kullanım süresi ve alıcıları bağlantıları nasıl kullanılacağını seçmek için bağlantılar ayarlayabilirsiniz.)
+(İsteğe bağlı olarak, bağlantıları belirli sayıda gün içinde sona erecek şekilde ayarlayabilir ve alıcıların bağlantıları nasıl kullanabileceğini seçebilirsiniz .)
     
- **Adsız bir dosya veya klasör paylaşma**
+ **Dosyayı veya klasörü anonim olarak paylaşma**
   
-- Dosya veya klasörü paylaşmak istediğiniz seçin ve sonra **Paylaştır**' ı tıklatın. 
+- Paylaşmak istediğiniz dosyayı veya klasörü seçin ve ardından **Paylaş'ı**tıklatın. 
     
-- Kimin için çalışmak için bu bağlantıyı ister misiniz? ' ı **herkesin.**
+- Bu bağlantının kimin için çalışmasını istersiniz? **Herkes'i tıklatın.**
   
- **Not**: **Herkes** bunlar Office 365 veya OneDrive olarak oturum açtınız değil olsa bile, herkesin belge veya klasöre erişmek için kullanabileceğiniz bir bağlantı oluşturur. Herkes, içinde veya dışında şirketiniz ile paylaşmak için bunu kullanın. Bu bağlantı da etrafındaki herkese iletilebilir. 
+ **Not**: Office 365 veya OneDrive'da oturum açmamış olsalar bile **herkes** belgeye veya klasöre erişmek için kullanabileceği bir bağlantı oluşturur. Bunu, şirketinizin içinde veya dışında herhangi biriyle paylaşmak için kullanın. Bu bağlantı da herkese iletilebilir. 
     
 

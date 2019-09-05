@@ -1,5 +1,5 @@
 ---
-title: Bir sürücü için SharePoint eşlerken erişim engellendi
+title: Bir sürücüyü SharePoint'e eşleme yaparken erişim reddedildi
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: c73358ebfbdede5b4e43ca2c35146f6611958e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c41bfd9d25c8aa946a4ec5156be6d2424f4e2133
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495879"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737497"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Eşleştirilmiş ağ sürücüleri için SharePoint kitaplıkları sorunlarını düzeltme
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Ağ sürücülerine eşlenen SharePoint kitaplıklarıyla ilgili sorunları düzeltme
 
-Bir eşlenen ağ sürücüsüne gözattığınızda, aşağıdaki iletilerden birini görebilirsiniz:
+Eşlenen bir ağ sürücüsüne göz attığınızda, aşağıdaki iletilerden birini görebilirsiniz:
   
-- **\\Yol erişilebilir değil. Bu ağ kaynağını kullanma izniniz olmayabilir. Erişim izinleri olup olmadığını öğrenmek için bu sunucunun yöneticisine başvurun.**
+- **\\Yola erişilemez. Bu ağ kaynağını kullanma izniniz olmayabilir. Erişim izinlerinizin olup olmadığını öğrenmek için bu sunucunun yöneticisine başvurun.**
 
-- **Erişim engellendi. Bu konumdaki dosyaları açmadan önce gereken ilk web sitesini Güvenilen siteler listenize ekleyin, web sitesine göz atın ve otomatik olarak oturum açma seçeneğini seçin.**
+- **Erişim Reddedildi. Bu konumda dosyaları açmadan önce, web sitesini önce güvenilen site listenize eklemeniz, web sitesine göz atmanız ve otomatik olarak oturum açma seçeneğini seçmeniz gerekir.**
 
-[Eşlenen ağ sürücülerine yazmalarını sorun giderme yardım alın](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Eşlenen ağ sürücülerini sorun giderme yardımı alın.](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
   
-Kitaplık olarak bir ağ sürücüsünü eşleme geçici ve Internet Explorer'da yalnızca desteklenen. Bunun yerine, [Talep dosyaları](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)içeren [SharePoint dosyaları yeni OneDrive eşitleme istemcisi ile eşitleme](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) . Tüm dosyalarınızı OneDrive yerel depolama alanını kullanmadan erişir.
+Kitaplığı ağ sürücüsü olarak eşleme geçicidir ve yalnızca Internet Explorer'da desteklenir. Bunun yerine, SharePoint dosyalarını [İsteğe Bağlı Dosyalar](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)içeren [yeni OneDrive eşitleme istemcisiyle eşitleyin.](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) Yerel depolama alanı kullanmadan OneDrive'daki tüm dosyalarınıza erişin.
   

@@ -1,5 +1,5 @@
 ---
-title: Oluşturma ve paylaşılan bir posta kutusu kullanma
+title: Paylaşılan Posta Kutusu oluşturma ve kullanma
 ms.author: dianef
 author: dianef77
 ms.audience: ITPro
@@ -10,18 +10,18 @@ ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
 ms.common:
 - "358"
 - "3500003"
-ms.openlocfilehash: c9d6789b3e6ea438656bb10ff81e19ef9e77aa7d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5d704041fdf9245036bd20e13bad187f9aea9401
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665383"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736705"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>Oluşturma ve paylaşılan bir posta kutusu kullanma
+# <a name="create-and-use-a-shared-mailbox"></a>Paylaşılan posta kutusu oluşturma ve kullanma
 
-Bir paylaşılan posta gönderip, sales@contoso.com gibi bir kısa ad, e-posta başka bir lisans atamadan birden fazla kişi sağlar.
+Paylaşılan posta kutusu, başka bir lisans atamadan, sales@contoso.com gibi bir takma ad için birden fazla kişinin e-posta göndermesine ve almasına olanak tanır.
   
-- Başlamak için [aşağıdaki adımları izleyin](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) Microsoft 365 Yönetim Merkezi'nde. 
+- Başlamak için Microsoft 365 yönetici merkezinde [aşağıdaki adımları izleyin.](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) 
 
-Ayrıca, bunların nasıl kullanılacağını da dahil olmak üzere paylaşılan posta kutuları hakkında bilmeniz gereken her şeyi söyleyecektir [oluşturma paylaşılan bir posta](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) makaleyi okuyabilirsiniz.
+Paylaşılan posta kutuları hakkında bilmeniz gereken her şeyi (bunları nasıl kullanacağınız da dahil) anlatan [paylaşılan posta kutusu](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) oluştur makalesini de okuyabilirsiniz.
   

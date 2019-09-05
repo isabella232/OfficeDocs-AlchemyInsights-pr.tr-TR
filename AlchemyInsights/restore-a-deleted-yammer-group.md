@@ -1,5 +1,5 @@
 ---
-title: Silinen bir Yammer Grup Geri Yükleme
+title: Silinmiş Yammer Grubunu Geri Yükleme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: b3adc5045a7fa8abea04fd1a79466cb6f8fca1a7
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 467dc14be08410397e08d6d0a4c33bffc7aea80e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753272"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745165"
 ---
-# <a name="restore-a-deleted-yammer-group"></a>Silinen bir Yammer Grup Geri Yükleme
+# <a name="restore-a-deleted-yammer-group"></a>Silinen Bir Yammer grubunu geri yükleme
 
-[Office 365 Yammer gruplarında bağlı](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) 30 gün içinde silme [Silinen Office 365 grup geri yüklemek](https://support.office.com/article/restore-a-deleted-office-365-group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54)için aşağıdaki adımları izleyerek geri yüklenebilir.
-Bazı durumlarda Yammer Grup bir Office 365 grubuna bağlı olmayabilir. Bu durumda, otomatik olarak grubun geri yüklemek mümkün değildir, ancak *Yumuşak silmek*için ağ [veri bekletme ilkesini](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) ayarlarsanız Yammer [veri verme](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) silinen verileri erişmek mümkün olabilir. [Yönetici tarafından onaylanmış](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) Yammer ağınız için veri bekletme ilkesini denetleyin veya veri dışa aktarma işlemi gerçekleştirmek için başvurun.
+[Yammer'daki Office 365 bağlı grupları](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) [silinen Office 365 Grubunu Geri Yükleme](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group)adımlarını izleyerek silinmeden sonraki 30 gün içinde geri yüklenebilir.
+Bazı durumlarda bir Yammer grubu Bir Office 365 grubuna bağlı olmayabilir. Bu durumda, grubu otomatik olarak geri yüklemek mümkün değildir, ancak ağ [veri saklama ilkesi](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) Yumuşak *Silme*olarak ayarlanmışsa Yammer [veri dışa aktarımında](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) silinen verilere erişmek mümkün olabilir. Veri saklama ilkesini denetlemek veya veri dışa aktarma gerçekleştirmek için Yammer ağınız için [Doğrulanmış Yönetici'ye](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) başvurun.

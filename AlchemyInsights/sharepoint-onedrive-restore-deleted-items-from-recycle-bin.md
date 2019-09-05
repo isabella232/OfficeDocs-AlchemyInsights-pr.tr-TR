@@ -1,6 +1,6 @@
 ---
-title: "\"Eksik dosya ve klasör sorunlarını giderme"
-ms.author: kirks
+title: "\"Eksik Dosya veya Klasörleri Sorun Giderme"
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,36 +10,36 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 0105c6e6fa6e44371dc260edc438ebfaf6919bda
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c5f9d50cc95b1dfeddad1cf6f9d141a7c0d876ad
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559933"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750756"
 ---
-# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Eksik dosya veya klasör OneDrive veya SharePoint sorun giderme
+# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>OneDrive veya SharePoint'te eksik Dosya veya Klasörleri Sorun Giderme
 
-- [Sitenin Geri Dönüşüm Kutusu'nu denetleyin](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Sitenin geri dönüşüm kutusunu kontrol edin](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
-- [SharePoint sitesi Geri Dönüşüm Kutusu'ndaki öğeleri geri yükleme](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- [SharePoint sitesinin Geri Dönüşüm Kutusu'ndaki öğeleri geri yükleme](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
 
-**Dosyaları geri yükleme özelliği**
+**Dosyaları Geri Yükleme özelliği**
 
-Çok fazla OneDrive veya SharePoint dosyalarınızı silinmiş, üzerine, bozuk veya kötü amaçlı yazılımın bulaşmış, tüm OneDrive veya Sharepoint kitaplığı dosyaları geri yükleme özelliğini kullanarak önceki bir zamana geri yükleyebilirsiniz.
+OneDrive veya SharePoint dosyalarınızın çoğu silinirse, üzerine yazılırsa, bozulursa veya kötü amaçlı yazılımdan enfekte olursa, dosyaların geri yükleme özelliğini kullanarak OneDrive veya Sharepoint kitaplığınızın tamamını önceki bir zamana geri yükleyebilirsiniz.
 
-- [Geri OneDrive kitaplığı](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+- [OneDrive kitaplığını geri yükleme](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
-- [Bir belge kitaplığına geri yükleme](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Belge kitaplığını geri yükleme](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-**Dosyanın geçmişini denetlemek için Denetim günlüğü veya dosya etkinliğini bölmesini kullanın.**
+**Dosyanın geçmişini denetlemek için denetim günlüğe kaydetme veya dosya etkinliği bölmesini kullanma**
 
-[Denetim raporları denetleme](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) </a> tarafından [burada](https://protection.office.com/#/unifiedauditlog) gezinme
+[](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c)</a> Burada gezinerek denetim raporlarını kontrol [edin](https://protection.office.com/#/unifiedauditlog)
 
-Dosyanın geçmişini denetlemek için [dosya etkinliğini](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) bölmesini kullanın.
+Dosyanın geçmişini denetlemek için [dosya etkinlik](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) bölmesini kullanın.
 
-OneDrive eşitleme istemcisi yerel makinenizde denetleyin.  OneDrive eşitleme istemcisi bilgisayarınızdaki dosyaları eşitlemişsinizdir, onu düzgün yüklendi emin olmak için yerel eşitleme klasörü denetleyin. Yerel makinenizde dönüşüm de kontrol emin olun.
+Yerel makinenizdeki OneDrive Sync İstemciyi kontrol edin.  Bilgisayarınızdaki dosyaları OneDrive Sync istemcisi üzerinden eşitlüyorsanız, düzgün bir şekilde yüklendiğinden emin olmak için yerel eşitleme klasörünü denetleyin. Yerel makinenizdeki geri dönüşüm kutusunu da kontrol ettiğinizden emin olun.
 
 
 

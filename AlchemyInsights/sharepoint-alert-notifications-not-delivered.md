@@ -1,5 +1,5 @@
 ---
-title: SharePoint Uyarı bildirimlerini teslim
+title: SharePoint uyarı bildirimleri teslim edilmedi
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f389785fcd1029ae5a47e07c723874f9f214109d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504483"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744661"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint Uyarı bildirimlerini teslim
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint uyarı bildirimleri teslim edilmedi
 
-Lütfen uyarıları var. bazen geçebilir gibi Önemsiz e-posta adresiniz, klasöründe denetleyin.
+Bazen uyarılar oraya gidebileceğinden, lütfen e-postanızdaki JUNK klasörünü kontrol edin.
 
-Olup **tüm uyarıların** veya **tek tek bir uyarı** belirli dosya ya da kitaplık değil teslim edilir.
+Tüm **uyarıların teslim edilip edilmemediğini** veya belirli bir dosya veya kitaplıktan **tek bir uyarı** nın teslim edilip edilmeymediğini belirleyin.
 
-- **Tek tek uyarıların**: tek bir uyarı belirli dosya veya kitaplığı teslim edilmeyen, silmek ve yeniden oluşturmak deneyebilirsiniz. Uyarı yeniden oluşturmak için [SharePoint uyarıları silmek veya görüntülemek, yönetme,](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) bkz.
-- **Tüm uyarıların**: birden çok dosya veya kitaplıkları tüm uyarıları teslim edilmemesi durumunda, [Sağlık Hizmeti panoyu](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) SharePoint veya Exchange ile gerçekleşen tüm danışma/olayları denetlemek için ziyaret edin. SharePoint uyarı yeteneği ya da e-postalar aracılığıyla Exchange gecikme sorunu olabilir. Ayrıca diğer e-posta teslim olup olmadığını ve bu sorunu Exchange gecikmelere büyük olasılıkla değil, unutmayın olacaktır.
+- **Tek tek uyarılar teslim edilmez**: Belirli bir dosyadan veya kitaplıktan tek tek bir uyarı teslim edilmezse, bu uyarıyı silmeyi ve yeniden oluşturmayı deneyebilirsiniz. Uyarıyı yeniden oluşturmak için [SharePoint uyarılarını yönet, görüntüleyin veya silin.](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online)
+- **Tüm uyarılar teslim edilmez**: Birden çok dosya veya kitaplıktan gelen tüm uyarılar teslim edilmezse, SharePoint veya Exchange ile oluşabilecek danışma/olayları kontrol etmek için [Hizmet Durumu panosunu](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ziyaret edin. Sorun SharePoint uyarı yeteneği veya Exchange üzerinden e-postalarda gecikmeler olabilir. Ayrıca, diğer e-postaların teslim edilip edilmediğine dikkat etmek de önemlidir ve teslim değilse, sorun Exchange gecikmeleri ile büyük olasılıkla.
 
-Uyarılar hakkında SSS:
+Uyarılarda SSS:
 
-- Dağıtım grubu, yalnızca güvenlik uyarıları göndermek mümkün değildir ve O365 gruplar desteklenir.
-- Uyarı e-posta şablonlarını özelleştirme yapılamaz; Bu elde etmek için Microsoft FLOW veya SharePoint Designer iş akışı kullanmak gerekir.
+- Dağıtım Grubu'na uyarı göndermek mümkün değildir, yalnızca Güvenlik ve O365 grupları desteklenir.
+- Uyarı e-posta şablonlarını özelleştiremezsiniz; bunları başarmak için Microsoft FLOW veya SharePoint Designer İş Akışını kullanmanız gerekir.
 
-Daha fazla bilgi:
+Daha Fazla Bilgi:
 
-- **Uyarı ayarı**: [SharePoint dosya veya klasörde değişiklik olduğunda bildiirm alma için uyarı oluşturma](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918)uyarıları ayarlama hakkında daha fazla bilgi için bkz.
-- **Sorun giderme uyarıları**: [kullanıcıların SharePoint çevrimiçi Uyarı bildirimlerini almadığınız](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications)uyarıları sorunlarını giderme hakkında daha fazla bilgi için bkz.
-- **Gelişmiş O365 uyumluluk uyarı ilkeler**: [Uyumluluk uyarı ilkeleri](https://docs.microsoft.com/office365/securitycompliance/alert-policies)bu uyarıları ayarlama hakkında daha fazla bilgi için bkz.
-- **SharePoint ve OneDrive günlüklerini denetleme**: [Denetim günlüğü arama](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)almak bu olaylar hakkında daha fazla bilgi için bkz.
-- **Uyarıları Gelişmiş tehdit Koruması tarafından gönderilen**: [ATP SharePoint ve OneDrive için](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)bkz.
-- **Veri kaybını önleme tarafından gönderilen uyarılar ilkeler**: [DLP ilkeleri için e-posta bildirimlerini](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)bakın.
+- **Uyarı kurulumu**: Uyarıları ayarlama hakkında daha fazla bilgi için, [SharePoint'te bir dosya veya klasör değiştiğinde haberdar olmak için uyarı oluştur'a](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918)bakın.
+- **Sorun giderme uyarıları**: Sorun giderme uyarıları hakkında daha fazla bilgi [için, Kullanıcılar SharePoint Online uyarı bildirimleri almaz.](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications)
+- **Gelişmiş O365 Uyumluluk Uyarı İlkeleri**: Bu uyarıları niçin ayarlama hakkında daha fazla bilgi için [Uyumluluk Uyarı İlkeleri'ne](https://docs.microsoft.com/office365/securitycompliance/alert-policies)bakın.
+- **SharePoint ve OneDrive Denetim Günlükleri**: Bu olayların nasıl alınılabildiğini hakkında daha fazla bilgi için [denetim günlüğüne ara](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)bakın.
+- **Gelişmiş Tehdit Koruması tarafından gönderilen uyarılar**: [SharePoint ve OneDrive için ATP'ye](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)bakın.
+- **Veri Kaybı Önleme polisleri tarafından gönderilen uyarılar**: [DLP politikaları için e-posta bildirimlerine](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)bakın.
 
 ## <a name="related-topics"></a>İlgili Konular
 
-SharePoint çevrimiçi Microsoft Flow denemek istiyor?
+SharePoint Online'da Microsoft Flow'u denemek ister misiniz?
 
-- [Akış oluşturma](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+- [Akış Oluştur](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint ve akış](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)
+- [SharePoint ve Akış](https://flow.microsoft.com//blog/sharepoint-and-flow/)

@@ -1,6 +1,6 @@
 ---
-title: SharePoint ve OneDrive hatalar OSE paylaşımı
-ms.author: kirks
+title: SharePoint ve OneDrive'daki OSE Paylaşımı hataları
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 18de4ff4b738f289084e7d533ddfc6339204efdb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543153"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752988"
 ---
-# <a name="ose-sharing-errors"></a>OSE paylaşımı hataları
+# <a name="ose-sharing-errors"></a>OSE Paylaşım hataları
 
-Makale dosya veya klasörler SharePoint çevrimiçi veya Office 365'te iş OneDrive paylaşırken karşılaşabileceğiniz farklı hataları kapsar. Genel olması gerekir veya bu hataları düzeltmek için kuruluşunuzdaki SharePoint Yönetim. Yönetici değilseniz, Yardım masanıza başvurun ve aldığınız hata kodu verin.
+Makale, Office 365'te SharePoint Online veya OneDrive for Business'tan dosya veya klasör paylaşırken karşılaşabileceğiniz farklı hataları kapsar. Bu hataları düzeltmek için kuruluşunuzdaki genel veya SharePoint yöneticisi olmanız gerekir. Yönetici değilseniz, yardım masanıza başvurun ve hata kodunuzu verin.
 
-OSE hata kodları hakkında daha fazla bilgi için bkz: [SharePoint ve OneDrive paylaşım hatalar](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+OSE hata kodları hakkında daha fazla bilgi için [SharePoint ve OneDrive'daki Paylaşım hatalarına](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)bakın.

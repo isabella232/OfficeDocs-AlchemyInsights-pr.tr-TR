@@ -1,6 +1,6 @@
 ---
-title: Sharepoint veya OneDrive dosyaları açarken sorun
-ms.author: kirks
+title: Sharepoint veya OneDrive'dan dosyaları açarken sorunlar
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 4/5/2018
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 5602212d4426d3f8cfb5a9f627fdaa47f5926532
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 50a4888a3f8b366101cefeae6b382c728994d8a0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548411"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753060"
 ---
-# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Sharepoint veya OneDrive dosyaları açarken sorun 
+# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Sharepoint veya OneDrive'dan dosyaları açarken sorunlar 
 
 
-OneDrive ya da SharePoint belge kitaplıkları Office dosyaları ve belgeleri açarken sorun varsa, bunları çözmenize yardımcı olmak için bazı öneriler aşağıdadır.
+Office dosyalarını ve belgelerini SharePoint veya OneDrive belge kitaplıklarından açarken sorun yaşıyorsanız, bunları düzeltmenize yardımcı olacak bazı öneriler aşağıda verebilirsiniz.
 
-- [Dosya desteklenen sağlamak için dosya sınırlamalarını onayla](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [Dosyanın desteklenmesini sağlamak için dosya sınırlamalarını denetleme](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- [Karşıdan yükleme ve yerel makinenizde dosya bozulma olup olmadığını denetleyin](https://support.office.com/article/How-to-recover-missing-deleted-or-corrupted-items-in-SharePoint-Online-and-OneDrive-for-Business-3d748edf-c072-46c9-81a4-4989056ebc87[])
+- [Yerel makinenizdeki dosya bozulmasını karşıdan yükleyin ve denetleyin](https://support.office.com/article/How-to-recover-missing-deleted-or-corrupted-items-in-SharePoint-Online-and-OneDrive-for-Business-3d748edf-c072-46c9-81a4-4989056ebc87[])
 
-- [Belge önbelleği silmek](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
+- [Ofis belge önbelleğinizi silme](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
 
-- [Office onarımı çalıştırmak](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- [Office'te onarım çalıştırma](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-Daha fazla bilgi veya ayrıntılar için lütfen makaleyi [SharePoint kitaplıklarında belge açarken sorun gidermek](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536) denetleyin
+Daha fazla bilgi veya ayrıntılar için lütfen [SharePoint kitaplıklarında belgeleri açan sorunları gider'i](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536) inceleyin
 

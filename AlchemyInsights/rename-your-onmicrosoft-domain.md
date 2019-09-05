@@ -1,5 +1,5 @@
 ---
-title: Onmicrosoft etki alanınızı yeniden adlandır
+title: Microsoft etki alanınızı yeniden adlandırın
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 98f0b26f0f38b51c96324233e1cb5618b4146eed
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666500"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741241"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Onmicrosoft.com etki alanınızı yeniden adlandır
+# <a name="rename-your-onmicrosoftcom-domain"></a>onmicrosoft.com etki alanınızı yeniden adlandırın
 
- **Sonra onmicrosoft etki alanını yeniden adlandırmak kaydolma.** Örneğin, seçtiğiniz ilk etki alanı *fourthcoffee.onmicrosoft.com*ise, *fabrikam.onmicrosoft.com*olması için değiştiremezsiniz. Farklı onmicrosoft.com etki alanı kullanmak için Office 365 ile yeni bir abonelik başlatmak gerekir.
+ **Kaydolduktan sonra onmicrosoft etki alanını yeniden adlandıramazsınız.** Örneğin, seçtiğiniz ilk etki alanı *fourthcoffee.onmicrosoft.com*ise, *fabrikam.onmicrosoft.com*olarak değiştiremezsiniz. Farklı bir onmicrosoft.com etki alanı kullanmak için Office 365 ile yeni bir abonelik başlatmanız gerekir.
   
-*Contoso.com* gibi özel bir etki alanı kullanmak isterseniz, [size ait bir tane ekleyin](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) veya [bir Microsoft satın](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d)olabilir.
+*contoso.com* gibi özel bir etki alanı kullanmak istiyorsanız, [microsoft'tan bir tane ekleyebilirsiniz.](https://docs.microsoft.com/office365/admin/setup/add-domain) [](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name)
   

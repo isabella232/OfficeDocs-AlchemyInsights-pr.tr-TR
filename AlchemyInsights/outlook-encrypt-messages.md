@@ -1,6 +1,6 @@
 ---
-title: S/MIME Outlook web üzerinde
-ms.author: kirks
+title: Web'de Outlook'ta S/MIME
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: f2c047ca31c586c0aa36701e6e7ca9976cfd1734
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6915470655b85922f6f97e8ca6fac353224b1ae0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666860"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752880"
 ---
-# <a name="encrypt-email-messages-in-outlook"></a>Outlook'ta e-posta iletileri şifreleme
+# <a name="encrypt-email-messages-in-outlook"></a>Outlook'ta e-posta iletilerini şifreleme
 
-Office 365 ileti şifreleme Microsoft Azure hakları Azure bilgi koruma parçası olan Yönetim üzerinde (Azure RMS) yerleşik olarak bulunur. Aboneliğinizi Azure hak yönetimi veya Azure bilgi koruma, Rights Management hizmeti **el ile etkinleştirmeniz veya etkinleştirmek için herhangi bir eylem gerçekleştirmenizi gerekmez** içeriyorsa.
+Office 365 İleti Şifrelemesi, Azure Bilgi Koruması'nın bir parçası olan Microsoft Azure Hakları Yönetimi 'nde (Azure RMS) yerleşiktir. Aboneliğiniz Azure Hakları Yönetimi veya Azure Bilgi Koruması içeriyorsa, Hak Yönetimi Hizmetini **el ile etkinleştirmek veya etkinleştirmek için herhangi bir işlem yapmanız gerekmez.**
 
-Müşteri görüşleri doğrultusunda, biz artık otomatik olarak varsayılan olarak belirli türde, Kiracı, hassas bilgilerin bulunduğu Giden e-posta şifrelemek Exchange posta akışı kurallarını etkinleştirmez. Bunun yerine, biz nasıl bunu yapabilirsiniz hakkında ayrıntılı yönergeler sağlanmaktadır yourselves. Önemli bilgileri şifrelemek için taşıma kuralının nasıl oluşturulacağı hakkında daha fazla ayrıntı için [Bu makaleye](https://aka.ms/OmeEtr)bakın.
+Müşteri geri bildirimlerine dayanarak, exchange posta akışı kurallarının varsayılan olarak kiracınızda belirli türde hassas bilgiler içeren giden e-postaları otomatik olarak şifrelemesini etkinleştirmeyeceğiz. Bunun yerine, bunu kendiniz nasıl yapabileceğinize ilişkin ayrıntılı talimatlar salıyoruz. Hassas bilgileri şifrelemek için aktarım kuralının nasıl oluşturulacaaçık ayrıntılar için [bu makaleye](https://aka.ms/OmeEtr)bakın.
 
-- Outlook Web (Eskiden **OWA**) kullanıyorsanız: bir e-posta iletisi oluştururken, OWA'ya **Koru** tıklatmanız yeterlidir. Bu izni "iletme yapın" uygulanır. **İzni değiştir'i** tıklatın ve yalnızca iletiyi şifrelemek için **şifreleme** seçeneğini belirleyin.
+- Outlook'u Web'de kullanıyorsanız (eski adıyla **OWA):** Bir e-posta iletisi oluştururken, OWA'da **Koru'yu** tıklatın. Bu " İlerletme" izni geçerli olacaktır. **İzin Değiştir'i** tıklatın ve yalnızca iletiyi şifrelemek için **Şifrele'yi** seçin.
 
-- **Outlook istemcisi**kullanıyorsanız: Mac için Outlook 2013 veya 2016 veya Outlook 2016 şifreli ileti göndermek için **seçenekleri**seçin > **izinleri**, sonra da gereksinim duyduğunuz koruma seçeneğini seçin.
+- Outlook **istemcisini**kullanıyorsanız : Outlook 2013 veya 2016'dan veya Mac için Outlook 2016'dan şifreli ileti göndermek için **Seçenekler** > **İzinleri'ni**seçin ve ardından ihtiyacınız olan koruma seçeneğini seçin.
 
-- Belirli alıcılar veya dış ortak kuruluşlar için gönderilen **tüm e-posta otomatik olarak şifrelemek** için Exchange Yönetim Merkezi'nde posta akışını taşıma kuralı oluşturmanız gerekir. [Bu destek makalesine](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities)ayrıntılı yönergeler sağlanmıştır.
+- Belirli alıcılara veya dış iş ortağı kuruluşlarına gönderilen **tüm e-postaları otomatik olarak şifrelemek** için Exchange Yönetici Merkezi'nde bir posta akışı aktarım kuralı oluşturmanız gerekir. Ayrıntılı talimatlar [bu destek makalesinde](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities)verilmiştir.
 

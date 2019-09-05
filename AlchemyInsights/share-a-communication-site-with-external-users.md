@@ -1,6 +1,6 @@
 ---
-title: İletişim Site dış kullanıcılarla paylaşma
-ms.author: kirks
+title: İletişim Sitesini Dış Kullanıcılarla Paylaşın
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 0bdcc0c42cf73f6538de1613d710dd2143dbf887
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e41b296f3ac02d766c55133c1d31f687f7854641
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508731"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751980"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>İletişim Site dış kullanıcılarla paylaşma
+# <a name="share-a-communication-site-with-external-users"></a>İletişim Sitesini Dış Kullanıcılarla Paylaşın
 
-Dış kullanıcı için iletişim siteleri paylaşımı etkinleştirmek için şu adımları izleyin: 
+İletişim siteleri için harici kullanıcı paylaşımını açmak için aşağıdaki adımları izleyin: 
   
-1. Açık, Klasik Yönetim merkezinde iseniz **Modern Yönetim Merkezi** - bir **Şimdi deneyin** göreceksiniz veya ** önizlemeyi deneyin ** sağ üstten düğme. Bu Modern yönetim merkezine götürür. 
+1. Modern **Yönetici Merkezi'ni** açın - Klasik Yönetici Merkezi'ndeyseniz **hemen deneyin** veya * Sağ üstteki önizleme ** düğmesini deneyin. Bu sizi Modern Yönetici Merkezi'ne götürecektir. 
   
-2. Seçin **etkin sitelere.**
+2. **Etkin Siteler'i seçin.**
   
-3. **İletişim Site şablonu**olan bir site seçin. 
+3. **İletişim Sitesi şablonu**olan bir site seçin. 
   
-4. **Paylaşım** düğmesini üst menüden seçin. 
+4. Üst menüden **Paylaşım** düğmesini seçin. 
   
- **Not:** Seçili birden fazla siteniz varsa, **Paylaşım** düğmesini devre dışı görünür. Yalnızca tek bir site seçin. 
+ **Not:** Birden fazla site seçiliyse, **Paylaşım** düğmesi devre dışı görünür. Yalnızca bir site seçin. 
   
 

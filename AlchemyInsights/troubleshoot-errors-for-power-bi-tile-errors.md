@@ -1,5 +1,5 @@
 ---
-Title: Yenileme senaryolar - döşeme hatalarında sorun giderme
+title: Düzeltme senaryoları sorun giderme - Döşeme Hataları
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 568fa4662c7d312583348981f80319aaefcf7290
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 48004ce28d94eccfffae9dc6f5fdc21100fdd455
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506859"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748848"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Yenileme senaryolar - döşeme hatalarında sorun giderme
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Düzeltme senaryoları sorun giderme - Döşeme Hataları
 
-Güç BI hizmet içinde döşeme yenileme hatalarıyla karşılaşırsanız, Pano döşemeleri yansıtılması yenileme için yaklaşık 10-15 dakika bekleyin. Onu hala gösterilmiyorsa, görselleştirme için panoyu yeniden Sabitle.
+Power BI hizmetinde kutucuk yenileme hataları yla karşılaşırsanız, yenilemenin pano karolarına yansıtılması için lütfen yaklaşık 10-15 dakika bekleyin. Hala görünmüyorsa, görselleştirmeyi panoya yeniden sabitle.
 
 Daha fazla bilgi için:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

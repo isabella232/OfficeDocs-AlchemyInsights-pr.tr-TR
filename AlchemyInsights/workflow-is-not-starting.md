@@ -1,5 +1,5 @@
 ---
-title: İş akışı başlatılıyor.
+title: İş akışı başlatmıyor
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558009"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738109"
 ---
-# <a name="workflow-is-not-starting"></a>İş akışı başlatılıyor.
+# <a name="workflow-is-not-starting"></a>İş akışı başlatmıyor
 
-- İş akışları SharePoint 2010 ve SharePoint 2013 başlangıç değil.
+- SharePoint 2010 ve SharePoint 2013 iş akışları başlatılmıyor.
 
-    - İş akışınızı başlatılamıyorsa, bir geçici olarak hizmet sorunu olabilir nerede kullanıcıların iş akışı ilerleme ile aralıklı gecikmeler yaşayabilirsiniz. [Hizmet durumu Panosu](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) kuruluşunuzun etkileniyor mu görmek için denetleyin.
+    - İş akışınız başlatılamazsa, kullanıcıların iş akışı ilerlemesinde aralıklı gecikmelerle karşılaşabilecekleri geçici bir hizmet sorunu olabilir. Kuruluşunuzun etkilenip etkilenmeip etkilenmeyin iã§in [Hizmet SaÄ lÄ±k Panosu'](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) nu denetleyin.
 
-    - Bu sorun ilk gördüğünüz bu yana 24 saatten fazla başarılı olması halinde, Lütfen bir destek bileti oturum. Çoğu durumda, biz zaten bir çözüm üzerinde çalışıyorsunuz. Lütfen bize bir çözüm tamamlamak için en az 24 saat verin.
+    - Bu sorunu ilk gördüğünüzden bu yana 24 saatten fazla zaman geçtiyse, lütfen bir destek bileti ni kaydedin. Çoğu durumda, zaten bir çözüm üzerinde çalışıyoruz. Lütfen bir çözümü tamamlamamız için bize en az 24 saat verin.
 
-- SharePoint 2010 iş akışı Başlat'ertelendi.
+- SharePoint 2010 iş akışları başlangıçta gecikti.
 
-    - Bu, büyük toplu olarak iş akışı tetikleniyorsa oluşur. (örneğin, ne zaman çeşitli öğeler aynı anda eklenir).
+    - Bu, iş akışı büyük gruplar halinde tetiklenirse oluşur. (örneğin, aynı anda birden fazla öğe eklendiğinde).
 
-    - İş akışları tasarımdan davranış bir gecikme olacak şekilde gerçek zamanlı, çalıştırmak için tasarlanmamış.
+    - İş akışları gerçek zamanlı çalışacak şekilde tasarlanmaz, bu nedenle gecikme tasarım davranışıdır.
 
-   -  İş akışı karmaşık Genişletilebilir nesne biçimlendirme dili (XMOL) ise, derleme yavaş olabilir. [Bu](https://support.microsoft.com/en-us/kb/3043697) makalede denetleyin.
+   -  İş Akışı karmaşık genişletilebilir Nesne Biçimlendirme Dili (XMOL) ise, derleme yavaş olabilir. [Bu](https://support.microsoft.com//kb/3043697) makaleyi kontrol edin.
 
-    - İş akışını kolaylaştırmak veya Microsoft SharePoint 2013 iş akışı platform türünü kullanarak yeniden tasarlamanız gerekir.
+    - Microsoft SharePoint 2013 İş Akışı platformu türünü kullanarak iş akışını basitleştirmeli veya yeniden tasarlamanız gerekir.
 
-    - İş akışı geçmişini büyüdüyse öğeleri Temizle veya yeni bir geçmiş listesi oluşturmak isteyebilirsiniz.
+    - İş akışı geçmişiniz büyüdüyse, öğeleri temizlemek veya yeni bir geçmiş listesi oluşturmak isteyebilirsiniz.
 
-        Daha fazla bilgi: [İş Akışı Geçmişi Temizle](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Daha Fazla Bilgi : [İş Akışı Geçmişini Temizleme](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>İlgili konular
-SharePoint çevrimiçi Microsoft Flow denemek istiyor?
-- [Akış oluşturma](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint ve akış](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+SharePoint Online'da Microsoft Flow'u denemek ister misiniz?
+- [Akış Oluştur](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint ve Akış](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

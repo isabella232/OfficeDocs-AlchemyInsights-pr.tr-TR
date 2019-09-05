@@ -13,21 +13,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 7ca04d81dd4ca2e094b5ac14a2949ffa3a88e987
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f9b0529d3200dd53afc70023c0b60d9d415a8fc1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532927"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742285"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>DNS kayıtlarını güncelleştirerek web sitenizi geçerli barındırma sağlayıcınızla koruma
 
-Office 365 ortak Web barındırma sağlayıcısına başka bir taşıma işleminin bir parçası olarak, büyük olasılıkla etki alanı kayıtlarınızı değişiklikler yapmak gerekecektir.
+Office 365 Genel Web Sitenizi başka bir barındırma sağlayıcısına taşıma sürecinin bir parçası olarak, büyük olasılıkla etki alanı kayıtlarınızda değişiklik yapmanız gerekir.
   
-1. **Kurulumu** için Yönetim Merkezi'nde Git \> **etki alanları** ve değiştirmek istediğiniz etki alanı adını seçin.
+1. Yönetici merkezinde, **Kurulum** \> **Etki Alanları'na** gidin ve değiştirmek istediğiniz etki alanı adını seçin.
 
-2. Web sitenize yeni barındırma sağlayıcınıza hizalar bilgileri girin.
+2. Web sitenize hizalayan bilgileri yeni barındırma sağlayıcınızla girin.
 
-Daha fazla bilgi için bkz: [güncelleştirme DNS kayıtları geçerli barındırma sağlayıcınız ile Web sitenizi korumak için](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061).
+Daha fazla bilgi edinmek [için, web sitenizi geçerli barındırma sağlayıcınızla tutmak için DNS kayıtlarını](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider)güncelleştir'e bakın.
   
-[Ortak site discontinuation hakkında daha fazla bilgi için SharePoint çevrimiçi ortak na sonra devam edilecek Web sitelerine](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US)bakın.
+Genel sitenin durdurulması hakkında daha fazla bilgi edinmek [için, durdurulmak üzere SharePoint Çevrimiçi Genel Web Siteleri'ne](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)bakın.

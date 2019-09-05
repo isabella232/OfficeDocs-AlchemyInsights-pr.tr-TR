@@ -1,5 +1,5 @@
 ---
-title: OneDrive yaygın sorunlar ve çözümleri
+title: OneDrive sık karşılaşılan sorunlar ve çözümler
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -11,20 +11,20 @@ ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: ffd92db8c2ff810e1cc12dae3cf9a5cb559a8f9d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 1aaac66a914b159dad64cce0950e46b04bf4685a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660884"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734293"
 ---
-# <a name="onedrive-common-issues-and-resolutions"></a>OneDrive yaygın sorunlar ve çözümleri
+# <a name="onedrive-common-issues-and-resolutions"></a>OneDrive sık karşılaşılan sorunlar ve çözümler
 
-OneDrive sorunları ile ilgili bazı sık istenen konular şunlardır:
+OneDrive sorunlarıyla ilgili sık sık istenen bazı konular şunlardır:
 
-- **Kur OneDrive eşitleme**: [eşitleme iş dosyaları için OneDrive](https://go.microsoft.com/fwlink/?linkid=533375) veya [SharePoint dosyaları eşitlemek](https://go.microsoft.com/fwlink/?linkid=871666) için Windows OneDrive eşitleme istemcisi ile.  Mac kullanıyorsunuz? [Eşitleme dosyaları OneDrive ile](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f) birlikte de kullanabilirsiniz.
+- **OneDrive Sync' i Kurulum**: [OneDrive'ınızı İş dosyaları için senkronize](https://go.microsoft.com/fwlink/?linkid=533375) edin veya [SharePoint dosyalarını](https://go.microsoft.com/fwlink/?linkid=871666) Windows için OneDrive eşitleme istemcisiyle senkronize edin.  Mac mi kullanıyorsun? Dosyaları [OneDrive ile](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f) de senkronize edebilirsiniz.
 
-- **OneDrive eşitleme sorunlarını giderme**: ise OneDrive beklediğiniz dosyaları eşitleme değil, [OneDrive eşitleme sorunlarını gidermek](https://go.microsoft.com/fwlink/?linkid=866431) için Windows yapabilirsiniz. Mac kullanıyorsunuz? [Eşitleme sorunlarını gidermek](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756?ui=en-US&rs=en-US&ad=US) için de kullanabilirsiniz.
-- **OneDrive sınırları**: dosya adları ve dosya türleri için OneDrive ile eşitlerken uygulanan [kısıtlamaları ve sınırlamaları](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) hakkında bilgi edinin.
-- **OneDrive depolama**: bakın nasıl [belirli bir kullanıcının OneDrive depolama alanını değiştirmek](https://docs.microsoft.com/onedrive/change-user-storage) veya [işletme depolaması için OneDrive yönetmek](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68)için.
-- **Denetim günlükleri**: nasıl dosyaları, klasörleri, kullanıcıları veya izinleri etkinliğini denetlemek için [Denetim günlüğü aramayı kullanmak](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) için bkz. 
+- **Sorun Giderme OneDrive Eşitleme**: OneDrive dosyaları beklediğiniz gibi eşitlemiyorsa, Windows için [OneDrive eşitleme sorunlarını giderebilirsiniz.](https://go.microsoft.com/fwlink/?linkid=866431) Mac mi kullanıyorsun? [Eşitleme sorunlarını](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756) da giderebilirsiniz.
+- **OneDrive Sınırları**: OneDrive ile eşitleme yaparken dosya adları ve dosya türleri için geçerli olan [kısıtlamalar ve sınırlamalar](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) hakkında bilgi edinin.
+- **OneDrive Depolama**: [Belirli bir kullanıcının OneDrive depolama alanını](https://docs.microsoft.com/onedrive/change-user-storage) nasıl değiştireceğiniz veya OneDrive for Business depolama alanını nasıl [yöneteceğiniz](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68)hakkında bilgi edin.
+- **Denetim Günlükleri**: Dosya(lar), klasör(ler), kullanıcı(lar) veya izinlerin etkinliğini denetlemek için [denetim günlüğü aramasını](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) nasıl kullanabileceğinizi görün. 

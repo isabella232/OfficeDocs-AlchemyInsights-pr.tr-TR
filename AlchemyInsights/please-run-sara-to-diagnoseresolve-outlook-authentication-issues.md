@@ -1,9 +1,8 @@
 ---
-title: 182 SaRA tanılamak için lütfen çalıştırmak &amp; Outlook kimlik doğrulaması sorunlarını çözme
+title: 182 Outlook kimlik doğrulama sorunlarını tanılamak ve çözmek için lütfen SaRA'yı çalıştırın
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 10/15/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +12,13 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 95a7d06759ea251cce0c35f7a6667dccda62ee28
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e2339130cd8a0e1668bf678c3b99b81099a220fd
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371273"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752664"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Sibel tanılamak ve Outlook kimlik doğrulama sorunlarını gidermek için kullanın
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Outlook kimlik doğrulama sorunlarını tanılamak ve çözmek için SaRA'yı kullanın
 
-[Outlook parolamı tamamlayamıyorum](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) tanı etkilenen makinede sorunlarını gidermek için Outlook sürekli parola ister burada kullandığınız önerilir. Bu [SaRA](https://diagnostics.office.com/#/) tanı otomatik denetim yapar ve olası çözümleri, algılanan sorunları gidermek için kullanabileceğiniz döndürür.
+Outlook'un sürekli olarak parola istediği sorunları gidermek için etkilenen makinede [parola tanımı soran Outlook'u](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) kullanmanızı öneririz. Bu [SaRA](https://diagnostics.office.com/#/) tanılama otomatik denetimleri yapar ve algılanan sorunları gidermek için kullanmak için olası çözümleri döndürür.

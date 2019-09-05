@@ -1,6 +1,6 @@
 ---
-title: SharePoint çevrimiçi bir site oluşturmak
-ms.author: kirks
+title: SharePoint Online'da site oluşturma
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,39 +10,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 7c24a0cf3bcae0f2780c1cb33c911cb38c1ca5cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42430c8dadc17b87dc7741f3fa045ba7c25fab84
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515018"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755328"
 ---
-# <a name="create-sharepoint-sites-using-templates"></a>Şablonları kullanarak SharePoint sitesi oluşturmak
+# <a name="create-sharepoint-sites-using-templates"></a>Şablonları kullanarak SharePoint siteleri oluşturma
 
-SharePoint site şablonları, belirli bir iş gereksinimini tasarlanmış önceden oluşturulmuş tanımlardır. Daha fazla bilgi için bkz: [farklı türde SharePoint siteleri oluşturmak için şablonları kullanma](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+SharePoint site şablonları, belirli bir iş gereksinimi etrafında tasarlanmış önceden oluşturulmuş tanımlardır. Daha fazla bilgi için bkz. [Farklı SharePoint siteleri oluşturmak için şablonları kullanma.](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4)
 
-İşte bazı yaygın sorunlar/çözümleri kaydetme bir Site veya liste ile ilgili bir şablon olarak Sharepoint çevrimiçi. 
+Sharepoint Online'da bir Siteyi veya Listeyi şablon olarak kaydetmeyle ilgili bazı sık karşılaşılan sorunlar/çözümler aşağıda verilmiştir. 
 
-**Site/liste şablonu Kaydet'i eksik veya kullanılabilir değil**
+**Site/liste şablonu kaydet düğmesi kullanılamıyor veya eksik**
 
-Yöneticiler, şablon özellikleri etkinleştirmek için özel komut dosyasına izin gerekir. Ayrıntılı adımlar için bkz: örnekler ve dikkat edilmesi gereken noktalar 
+Yöneticilerin şablon özelliklerini etkinleştirmek için Özel Komut Dosyasına İzin Vermeleri gerekir. Ayrıntılı adımlar, örnekler ve hususlar için bkz. 
 
-- [İzin verme veya özel komut dosyası engelleme](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Özel komut dosyasına izin verme veya engelleme](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Şablon komut olarak Kaydet site desteklenmez ve SharePoint Server Yayımlama altyapısını kullanan sitelerde sorunlara neden olabilir.
+- Şablon komutu olarak kaydet sitesi desteklenmez ve SharePoint Server Yayımlama Altyapısını kullanan sitelerde sorunlara neden olabilir.
 
-**Site şablonu oluşturulamıyor veya düzgün çalışmıyor**
+**Site şablonu oluşturulamıyor veya doğru çalışmıyor**
 
-Şablon [özelliği](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) eksik ve etkinleştirmeniz gerekmez. Özelliği geçerli site koleksiyonunda etkinleştirmek kullanılabilir değilse, site şablonu site oluşturmak için kullanamazsınız.
+Şablon bir [özellik](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) eksik olabilir ve etkinleştirilmez. Özellik geçerli site koleksiyonunda etkinleştirmek için kullanılamıyorsa, site şablonunu bir site oluşturmak için kullanamazsınız.
 
-- Bu site şablonu oluşturulmasını engelleyebilir gibi herhangi bir liste veya kitaplık 5000 öğeleri [Liste görünümü sınırı eşiği](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) aşarsa denetleyin.
+- Herhangi bir liste veya kitaplık, bir site şablonunun oluşturulmasını engelleyebilir gibi 5000 öğe liste [görünümü sınır eşiği](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) aşAbilir olup olmadığını görmek için denetleyin.
 
-- Site çok fazla kaynak kullanıyor olabilir ve bu nedenle site şablonu 50 MB sınırı aşıyor.
+- Site çok fazla kaynak kullanıyor olabilir ve bu nedenle site şablonu 50 MB sınırını aşıyor.
 
 
-- Arama sütunu kullanan bir listeden veri görüntüleme sorunları vardır. Daha fazla bilgi için bkz: [SharePoint çevrimiçi doğru arama listesinden verileri şablonu tarafından oluşturulan liste görüntülenmeyecek](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- Arama sütunu kullanan bir listeden veri görüntülemede sorunlar vardır. Daha fazla bilgi için bkz: [Şablon tarafından oluşturulan liste SharePoint Online'da doğru arama listesinden veri görüntülemiyor.](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data)
 
-Yaygın sorunlar ve çözümleri hakkında daha ayrıntılı bilgi için lütfen [site şablonları oluşturma ve kullanma](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)denetleyin.
+Sık karşılaşılan sorunlar ve çözümler hakkında daha ayrıntılı bilgi için lütfen [site şablonları oluştur ve bunları kullanın.](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)
 
 
 

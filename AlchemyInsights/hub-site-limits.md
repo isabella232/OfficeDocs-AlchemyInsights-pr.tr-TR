@@ -1,28 +1,28 @@
 ---
-title: Hub site sınırlamaları ve kısıtlamaları
-ms.author: kirks
+title: Hub sitesi sınırları ve kısıtlamaları
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: c3a2bd02cd610e8fc6e5eb296817eb439a055af5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c63cbe96f95bf4d1ce279a7294069a7ab8f0f953
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539373"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754608"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a>SharePoint hub sitesi sınırlar ve kısıtlamalar
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>SharePoint hub sitesi sınırları ve kısıtlamaları
 
-- İletişim site veya yeni modern şablonunu kullanan ekip sitesi seçmek için önerilir. Klasik ekip sitesi kullanıyorsanız, hub Gezinti yalnızca modern sayfalarında görüntülenir ve hub site ayarları yalnızca modern sayfalarında görünür.
+- Bir iletişim sitesi veya yeni modern şablonu kullanan bir ekip sitesi seçmeniz önerilir. Klasik bir ekip sitesi kullanıyorsanız, hub gezintisi yalnızca modern sayfalarda görünür ve hub site ayarları yalnızca modern sayfalarda görünür.
 
-- Siteler zaten başka bir hub **olamaz** ile ilişkili olan bir hub sitesine dönüştürülmesi. 
+- Zaten başka bir hub ile ilişkili siteler hub sitesine **dönüştürülemez.** 
 
-- Kuruluşunuz için en fazla 100 hub siteleri oluşturabilirsiniz. Hub site ile ilişkili site sayısına bir sınır yoktur.
+- Kuruluşunuz için en fazla 100 hub sitesi oluşturabilirsiniz. Hub sitesiyle ilişkilendirilebilen site sayısında bir sınır yoktur.
 
-- Kullanıcılar kendi sitelerine bir hub sitesi ile ilişkilendirdiğinizde, hub site veya ilişkili sitelerin izinlerini etkisi yoktur. Tüm kullanıcılar siteleri hub'ına ilişkilendirmek için izin hub izninizin olduğundan emin olmak önemlidir.
+- Kullanıcılar sitelerini bir hub sitesiyle ilişkilendirdiğinde, hub sitesinin veya ilişkili sitelerin izinlerini etkilemez. Hub'a siteleri ilişkilendirmenize izin vermiş olduğunuz tüm kullanıcıların hub'a izin aldığından emin olmak önemlidir.
 
 
 

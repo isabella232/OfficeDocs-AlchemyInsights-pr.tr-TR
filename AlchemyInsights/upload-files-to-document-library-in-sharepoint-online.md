@@ -1,6 +1,6 @@
 ---
-title: OneDrive ya da SharePoint dosyaları karşıya yüklemek
-ms.author: kirks
+title: Dosyaları OneDrive veya SharePoint'e yükleme
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,25 +10,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: ddb29e04597e86ee4e54d700666548b5d2b30a81
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 1494e0009634942e8720859b39ccc5a0caf70aee
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660848"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748577"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>OneDrive ya da SharePoint dosyaları karşıya yüklemek
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Dosyaları OneDrive veya SharePoint'e yükleme
 
-Yalnızca bilgisayarınızdan sürükleyerek ve bunları belge kitaplığına bırakarak çevrimiçi SharePoint belge kitaplığına dosyaları yükleyebilirsiniz. OneDrive ile bilgisayarınız ve bulut arasında dosyaları eşitleyebilir böylece yerden dosyalarınıza elde edebilirsiniz. Doğrudan dosya Gezgini'nde, eşitlenmiş dosyalarla çalışmak ve çevrimdışı olduğunuzda bile dosyalarınıza erişebilir. Karşıya yükleme ve eşitleme hakkında daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
+Dosyaları yalnızca bilgisayarınızdan sürükleyerek ve belge kitaplığına bırakarak SharePoint Online'daki bir belge kitaplığına yükleyebilirsiniz. OneDrive ile dosyalarınızı bilgisayarınızla bulut arasında senkronize edebilirsiniz, böylece dosyalarınıza her yerden ulaşabilirsiniz. Ayrıca, senkronize edilmiş dosyalarınızla doğrudan Dosya Gezgini'nde çalışabilir ve çevrimdışı olduğunuzda bile dosyalarınıza erişebilirsiniz. Yükleme ve eşitleme hakkında daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
 
-- [Kitaplığa bir klasör veya dosya karşıya yükleme](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+- [Kitaplık klasörüne veya dosyayükleme](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
 
-- [Eşitleme kullanarak karşıya yüklemek](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+- [Eşitleme kullanarak yükleme](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
 
-- [Dosya sınırları (geçersiz karakterler, dosya karşıya yükleme boyutu, yol uzunlukları, vs..)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Dosya sınırları (geçersiz karakterler, dosya yükleme boyutu, yol uzunlukları, vb.)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- [OneDrive eşitleme sorunları giderin.](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
+- [OneDrive Eşitleme sorunlarını düzeltme](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 
-- [OneDrive Web sitesinde dosya karşıya yükleme sorunları düzeltme](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
+- [OneDrive web sitesinde dosya yükleme sorunlarını giderme](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
 
-- [Karşıya yükleme en üst düzeye çıkarmak ve hızlı karşıdan yükleme](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
+- [Yükleme ve indirme hızını en üst düzeye çıkarın](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)

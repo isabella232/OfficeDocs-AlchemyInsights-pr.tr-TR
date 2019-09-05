@@ -1,32 +1,32 @@
 ---
-title: Dosya bulunamadı Hata 404 ile ilgili sorunları giderme
-ms.author: kirks
+title: Sorun Giderme Hatası 404, Dosya bulunamadı
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 3c5de2f9dc75b4da4db888c53be21710423b35df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 45e7269d474d51569a216e94c0175f0b1c72b220
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507291"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749028"
 ---
-# <a name="troubleshoot-error-404-file-not-found"></a>Dosya bulunamadı Hata 404 ile ilgili sorunları giderme
+# <a name="troubleshoot-error-404-file-not-found"></a>Sorun Giderme Hatası 404, Dosya bulunamadı
 
-Kullanıcıların site veya SharePoint veya OneDrive dosyasına erişmeye çalışırken bir hata 404 alındı. Bunun nedeni genellikle bir site veya dosya veya yeniden adlandırılmış, taşınmış veya silinmiş grubu tarafından. Örneğin: kullanıcılar kök Site koleksiyonuna erişmeyi deneyen bir 404 hatası yaşıyor ve silinmiş olabilir.
+Kullanıcılar SharePoint veya OneDrive'da bir siteye veya dosyaya erişmeye çalışırken bir Hata 404 alınır. Bunun nedeni genellikle bir site nin veya dosyanın veya grubun yeniden adlandırılsa, taşınmasından veya silinmekten kaynaklanır. Örneğin: Kullanıcılar Kök Site Koleksiyonu'na erişmeye çalışan bir 404 Hatası yla karşılaşır ve silinmiştir.
 
-Yeniden adlandırılmış, taşınmış veya silinmiş bir Site için 404 hata gidermek için:
+Yeniden adlandırılmış, taşınmış veya silinmiş bir Site için Hata 404'ün çözüme kavuşturulması için:
 
-[Silinmiş bir site koleksiyonunu geri](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)Klasik Yönetim merkezinde mevcut Klasik siteler için bkz.
+Klasik Yönetici Merkezi'nde bulunan klasik siteler için [silinmiş site koleksiyonunu geri yükle'ye](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)bakın.
 
 
-Yeni SharePoint Yönetim Merkezi'nde bulunan modern siteler için (iletişimi, Grup bağlı veya diğer sitelere), [Yeni SharePoint Yönetim Merkezi'ndeki Site Silinen görünümü ve geri yükleme](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)konusuna bakın.
+Yeni SharePoint yönetici merkezinde bulunan modern siteler (iletişim, gruba bağlı veya diğer siteler) için, [yeni SharePoint yönetici merkezinde silinen siteleri görüntüle ve geri yükleyin.](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-Hata 404 Dosya (veya başka bir öğe), yeniden adlandırılmış, taşınmış veya silinmiş çözmek için:
+Yeniden adlandırılmış, taşınmış veya silinmiş bir Dosya (veya başka bir öğe) için Hata 404'ü çözmek için:
 
-OneDrive ya da SharePoint sitesine gidin ve Geri Dönüşüm Kutusu'ndan Site içeriğini görüntüleyin. [SharePoint sitesi Geri Dönüşüm Kutusu'ndaki öğeleri geri](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online)bakın.
+SharePoint veya OneDrive sitesine gidin ve Site içeriğinden Geri Dönüşüm Kutusu'nu görüntüleyin. Bkz. [SharePoint sitesinin Geri Dönüşüm Kutusu'ndaki öğeleri geri yükleme.](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online)
 
-Oturum, Denetim günlüğü arama öğesi etkin Bul yine ulaşamıyorsanız, bkz: [Denetim günlüğü Office 365 güvenlik & Uyumluluk Merkezi arama](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).
+Öğeyi hala bulamıyorsanız, günlük kaydı etkinse denetim günlüğünde arama yapabilirsiniz [bkz.](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c)

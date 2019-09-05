@@ -1,5 +1,5 @@
 ---
-title: Eğitim teklif satın almak nasıl
+title: Eğitim teklifi satın alma
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,25 +14,25 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: 8a93e783c590559b850c53841a61e2afb57f9eba
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 24d8d17a761ee1c6dc7efdd12e266aaab45f1715
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663944"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739477"
 ---
-# <a name="how-to-purchase-education-offer"></a>Eğitim teklif satın almak nasıl
+# <a name="how-to-purchase-education-offer"></a>Eğitim teklifi satın alma
 
-Office 365 eğitim için onaylanmış olan. Satın almak için:
+Office 365 Eğitimi için onaylandınız. Satın almak için:
   
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
+1. Yönetici merkezinde, **Faturalama** \> [Ürünleri & hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
 
-2. **Öğrenciler ve Fakülte**için deneme sürümü'nü seçin.
+2. Öğrenciler veya **Fakülte**için deneme seçin.
 
-3. **Lisans** bölümünde, **Satınalma aboneliği**seçin.
+3. **Lisanslar** bölümünde, **Abonelik Satın Al'ı**seçin.
 
-4. Teslim almak için kalan adımları izleyin.
+4. Kullanıma almak için kalan adımları izleyin.
 
-**Faturalama** için deneme nedir başka bir abonelik satın almak istiyorsanız, gidin \> [Satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfa ve **Eğitim planları**altındaki listeden seçin.
+Deneme aşamasında olandan başka bir abonelik satın almak istiyorsanız, **FaturaSatın** \> [Alma Hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfasına gidin ve Eğitim **Planları**altındaki listeden seçim yapın.
 
-Daha fazla bilgi için [deneme sürümü olarak aynı planı satın](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial)bakın.
+Daha fazla bilgi için bkz: [Deneme sürümünüzle aynı planı satın alın.](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial)

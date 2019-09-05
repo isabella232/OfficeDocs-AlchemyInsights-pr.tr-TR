@@ -1,5 +1,5 @@
 ---
-title: Bir arşiv posta etkinleştirme
+title: Arşiv posta kutusunu etkinleştirme
 ms.author: markjjo
 author: markjjo
 ms.audience: ITPro
@@ -10,33 +10,33 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665176"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736309"
 ---
-# <a name="enable-an-archive-mailbox"></a>Bir arşiv posta etkinleştirme
+# <a name="enable-an-archive-mailbox"></a>Arşiv posta kutusunu etkinleştirme
 
-Arşiv posta kutuları ( *Çevrimiçi arşivleri*olarak da bilinir) Office 365'te kullanıcılara ek e-posta depolama sağlar. Kullanıcılar, taşımak veya öğeleri arşiv posta kutusuna kopyalamak ve admins posta kutuları arşivlemek için öğeleri otomatik olarak taşıyan bir arşiv ilkesi oluşturabilirsiniz.
+Office 365'teki *(Çevrimiçi Arşivler*olarak da adlandırılır) arşiv posta kutuları, kullanıcılara ek e-posta depolama alanı sağlar. Kullanıcılar öğeleri arşiv posta kutularına taşıyabilir veya kopyalayabilir ve yöneticiler öğeleri otomatik olarak arşiv posta kutularına taşıyan bir arşiv ilkesi oluşturabilir.
   
-Şöyle bir arşiv posta kutusu oluşturmak:
+Arşiv posta kutusu şu şekilde oluşturulur:
   
 1. [https://protection.office.com](https://protection.office.com) adresine gidin.
 
-2. Office 365 için yönetici hesabını kullanarak oturum açın.
+2. Yönetici hesabınızı kullanarak Office 365'te oturum açın.
 
-3. Sol bölmede güvenlik &amp; Uyumluluk Merkezi, select **veri yönetim** \> **Arşivi**.
+3. Güvenlik &amp; Uyumluluk Merkezi'nin sol bölmesinde Veri yönetim **Arşivi'ni** **** \> seçin.
 
-4. Arşiv posta kutusunu etkinleştirmek istediğiniz kullanıcıyı seçin.
+4. Etkinleştirmek istediğiniz arşiv posta kutusunu seçen kullanıcıyı seçin.
 
-5. Sağdaki Ayrıntılar bölmesinde **Etkinleştir** ' i seçin ve uyarı iletisinde, arşiv posta kutusunu etkinleştirmek için **Evet'i** seçin.
+5. Sağdaki ayrıntılar **bölmesinde, arşiv** posta kutusunu etkinleştirmek için Uyarı iletisinde Etkinleştir'i ve ardından **Evet'i** seçin.
 
-Siz de toplu-etkinleştirebilirsiniz arşiv posta kutuları ( **Shift** veya **Ctrl** tuşlarını kullanarak) birden çok kullanıcı seçerek ve sonra Ayrıntılar bölmesinde seçerek **etkinleştirin** .
+Ayrıca birden çok kullanıcı seçerek **(Shift** veya **Ctrl** tuşlarını kullanarak) ve ardından ayrıntılar bölmesinde **Etkinleştir'i** seçerek arşiv posta kutularını toplu olarak etkinleştirebilirsiniz.
   
 Daha fazla bilgi için bkz.
   
-- [Office 365'te arşiv posta kutularını etkinleştir](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
+- [Office 365'te arşiv posta kutularını etkinleştirme](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Office 365'te bir arşiv ve silme ilkesini ayarlama](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
+- [Office 365'te arşiv ve silme ilkesi ayarlama](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

@@ -1,5 +1,5 @@
 ---
-title: Klasik kök sitenizin Modern bir site ile takas
+title: Klasik kök sitenizi Modern bir siteyle değiştirin
 ms.author: efrene
 author: efrene
 ms.date: 8/6/2019
@@ -12,31 +12,31 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501099"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749280"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Klasik kök sitenizin Modern bir site ile takas
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Klasik kök sitenizi Modern bir siteyle değiştirin
 
-Ortamınızı önce Nisan 2019 ayarlarsanız, modern bir siteye kök sitenizin Microsoft PowerShell kullanarak değiştirebilirsiniz:
+Ortamınız Nisan 2019'dan önce ayarlanmışsa, Microsoft PowerShell'i kullanarak kök sitenizi modern bir siteyle değiştirebilirsiniz:
 
-- Sitenizin kök kullanmak istediğiniz farklı bir site varsa, (takas) kök site ile değiştirebilirsiniz. 
-    - [Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) konumunu başka bir siteye sahip bir site, özgün site Arşivlerken takas etmek için kullanın. Ekip sitesi (bir gruba bağlı değil) hem de iletişim Site için kullanılabilir. 
+- Kök siteniz olarak kullanmak istediğiniz farklı bir siteniz varsa, kök siteyi onunla değiştirebilir [(değiştirebilirsiniz).](https://docs.microsoft.com/sharepoint/modern-root-site) 
+    - Orijinal siteyi arşivlerken bir sitenin konumunu başka bir siteyle değiştirmek için [Invoke-SPOSiteSwap'ı](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) kullanın. Hem Takım Sitesi (bir gruba bağlı değil) hem de İletişim Sitesi için kullanılabilir. 
 
-- Ek yetenekler kullanılmaya başlanan yakında olanak tanıyacak şekilde sitesindeki içeriği kullanarak tutmak, ancak varolan sitenin iletişim siteye dönüştürmek. 
+- Sitedeki içeriği kullanmaya devam etmenizi, ancak varolan siteyi bir iletişim sitesine dönüştürmenizi sağlayacak ek özellikler yakında sunulacaktır. 
 >[!Important]
->Bu yetenekleri yavaş yavaş piyasaya çıkacağı. Güncelleştirmeler için Office 365 ileti merkezi bakmaya devam edin. 
+>Bu yetenekler kademeli olarak kullanıma sunulacaktır. Güncelleştirmeler için Office 365 İleti Merkezi'ni denetlemeye devam edin. 
 
-## <a name="known-issues-with-swapping-sites"></a>Takas siteleri ile ilgili bilinen sorunlar
+## <a name="known-issues-with-swapping-sites"></a>Siteleri değiştirme yle ilgili bilinen sorunlar
 
-- Hedef site kısa bir süre için bir "not found" (HTTP 404) hata döndürebilir.
-- İçerik arama dizini güncelleştirmek için recrawled gerekecek. Gereken el ile hiçbir adım - bu otomatik olarak yapılacaktır.
-- "Statik" bağlantıları (örneğin, dosya eşitleme ve OneNote dosyaları) bağımlı bir şey elle düzeltilmesi gerekir.
-- Kaynak site kuruluş haber sitesi varsa, URL'yi güncelleştirin.Tüm kuruluş haber sitelerin bir listesini alın.
-- Project Server siteleri doğru hala ilişkili olduklarından emin olmak için doğrulanması gerekebilir.
+- Hedef site kısa bir süre için bir "bulunamadı" (HTTP 404) hatası döndürebilir.
+- Arama dizinini güncelleştirmek için içeriğin yeniden taranması gerekir. El ile adım gerekmez - bu otomatik olarak yapılacaktır.
+- "Statik" bağlantılara (Dosya Eşitlemi ve OneNote dosyaları gibi) bağlı olan her şeyin el ile düzeltilmesi gerekir.
+- Kaynak site bir kuruluş haber sitesiyse, URL'yi güncelleştirin.Tüm organizasyonel haber sitelerinin listesini alın.
+- Project Server sitelerinin hala doğru ilişkili olduğundan emin olmak için doğrulanması gerekebilir.
 
 
 

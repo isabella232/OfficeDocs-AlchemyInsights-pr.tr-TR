@@ -1,24 +1,24 @@
 ---
-title: Koşullu erişim ile Intune
-ms.author: kirks
+title: Intune ile Koşullu Erişim
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 4111ae725c14a897c110af3d0d0002d81629c310
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b0f2a7bd2d28a05ea192747c5b8c95bc16d7b8fb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520191"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755580"
 ---
-# <a name="conditional-access"></a>Koşullu erişim
+# <a name="conditional-access"></a>Koşullu Erişim
 
-Koşullu erişim Azure Active Directory'nin bir yetenektir. Koşullu erişim ile bulut uygulamalarınızı koşullara göre erişim için otomatik erişim denetimi kararları uygulayabilirsiniz. Daha fazla bilgi için lütfen [Configuring Location-Based ilkeleri](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)ziyaret edin.
+Koşullu erişim, Azure Active Directory'nin bir özelliğidir. Koşullu erişimle, koşullara dayalı bulut uygulamalarınıza erişmek için otomatik erişim denetimi kararları uygulayabilirsiniz. Daha fazla bilgi için lütfen Konum Tabanlı İlkeleri Yapılandırma sayfasını ziyaret [edin.](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)
 
-Bir BT yöneticisi tanımlanan ağ konumlarında veya güvendiğiniz aygıtları dayalı SharePoint ve OneDrive kaynaklarına erişimi denetleyebilirsiniz. Daha fazla bilgi için aşağıdaki bağlantıları ziyaret edin.
+BT yöneticisi olarak, sharepoint ve OneDrive kaynaklarına erişimi tanımlı ağ konumlarını veya güvendiğiniz aygıtları temel alan olarak da denetleyebilirsiniz. Daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
 
 - [Ağ konumuna dayalı olarak SharePoint Online ve OneDrive verilerine erişimi denetleme](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 

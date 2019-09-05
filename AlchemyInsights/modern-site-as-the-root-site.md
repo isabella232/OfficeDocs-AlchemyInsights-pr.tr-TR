@@ -1,5 +1,5 @@
 ---
-title: Modern site kök site olarak
+title: Kök site olarak modern site
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
-ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
+ms.openlocfilehash: a3cf44d52a3948634fc0eed64c852ff17515fd9b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620779"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753924"
 ---
-# <a name="modern-site-as-root-site"></a>Modern site kök site olarak
+# <a name="modern-site-as-root-site"></a>Kök site olarak modern site
 
-Biz ürün için Klasik site kök sitenizin modern bir site ile takas etmek izin veren yeni bir özellik başlamıştır. [Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) konumunu başka bir siteye sahip bir site, özgün site Arşivlerken takas etmek için kullanın. Ekip sitesi (bir gruba bağlı değil) hem de iletişim Site için kullanılabilir. 
+Biz modern bir site ile klasik site [kök sitesi takas](https://docs.microsoft.com/sharepoint/modern-root-site)sağlayacak yeni bir özellik piyasaya başladı. Orijinal siteyi arşivlerken bir sitenin konumunu başka bir siteyle değiştirmek için [Invoke-SPOSiteSwap'ı](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) kullanın. Hem Takım Sitesi (bir gruba bağlı değil) hem de İletişim Sitesi için kullanılabilir.
 
 >[!Important]
-> Modern bir iletişim sitesi oluşturmak için Klasik kök site silmeyin. Bu Microsoft tarafından desteklenmez. Siteyi geri yüklemek veya aynı URL'de yeni bir site oluşturmak kadar kök site silindiğinde tüm SharePoint siteleri, kuruluşunuzdaki tüm kullanıcılar için erişilebilir hale getirir. Biz bu özellik ileti merkezi aracılığıyla iletişim. Özelliği, Kiracı kısa bir süre sonra açık olması için beklemeniz gerekir.
+> Modern bir İletişim Sitesi oluşturmak için klasik kök sitenizi silmeyin. Bu Microsoft tarafından desteklenmez. Siteyi geri yükleyene veya aynı URL'de yeni bir site oluşturana kadar, kök siteyi sevebilmek, kuruluşunuzdaki tüm SharePoint sitelerini tüm kullanıcılar tarafından erişilemez hale getirir. Bu özelliği mesaj merkezi aracılığıyla ileteceğiz. Özelliğin kısa süre içinde kiracınızda açık olmasını beklemelisiniz.
 
-## <a name="known-issues-with-swapping-sites"></a>Takas siteleri ile ilgili bilinen sorunlar
-- Hedef site kısa bir süre için bir "not found" (HTTP 404) hata döndürebilir.
-- İçerik arama dizini güncelleştirmek için recrawled gerekecek. Burada gereken el ile hiçbir adım, bu otomatik olarak yapılacaktır.
-- "Statik" bağlantıları (örneğin, dosya eşitleme ve OneNote dosyaları) bağımlı bir şey elle düzeltilmesi gerekir.
-- Project Server siteleri doğru hala ilişkili olduklarından emin olmak için doğrulanması gerekebilir. 
+## <a name="known-issues-with-swapping-sites"></a>Siteleri değiştirme yle ilgili bilinen sorunlar
+- Hedef site kısa bir süre için bir "bulunamadı" (HTTP 404) hatası döndürebilir.
+- Arama dizinini güncelleştirmek için içeriğin yeniden taranması gerekir. Burada herhangi bir manuel adım gereklidir, bu otomatik olarak yapılacaktır.
+- "Statik" bağlantılara (Dosya Eşitlemi ve OneNote dosyaları gibi) bağlı olan her şeyin el ile düzeltilmesi gerekir.
+- Project Server sitelerinin hala doğru ilişkili olduğundan emin olmak için doğrulanması gerekebilir. 

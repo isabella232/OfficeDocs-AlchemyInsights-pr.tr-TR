@@ -1,6 +1,6 @@
 ---
-title: Bir iş akışı görüntülerken erişim engellendi
-ms.author: kirks
+title: İş Akışını görüntülerken erişim engellendi
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 53bd9285e49e220f880eea21923f261302003127
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495843"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747768"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Bir iş akışı görüntülerken erişim engellendi
+# <a name="access-denied-when-viewing-a-workflow"></a>İş Akışını görüntülerken erişim engellendi
 
-SharePoint grubu üyeliğini herkese ayarlanmamışsa SharePoint 2013 SharePoint grubuna bir e-posta göndermeye iş akışları bir "Erişim reddedildi" hata iletisiyle başarısız olabilir.
+SharePoint grubuna e-posta göndermeye çalışan SharePoint 2013 SharePoint grubunun üyeliği Herkes olarak ayarlanmazsa "Erişim Reddedildi" hata iletisiyle başarısız olabilir.
   
- **Bu sorunu gidermek için şu adımları uygulayın:**
+ **Bu sorunu gidermek için şu adımları yapın:**
   
- 1. Herkes SharePoint grubunun üyelerini görmek izin verir.
+ 1. Herkesin SharePoint grubunun üyelerini görmesine izin verin.
   
- 2. SharePoint grubunu kaldırmak Kime veya bilgi satırındaki e-posta.
+ 2. E-postanın To veya CC satırından SharePoint grubunu kaldırın.
   
- 3. Kime veya bilgi Kullanıcıları açıkça eklemek için SharePoint grup üyeliği görünürlüğü değiştirilemez, satır.
+ 3. SharePoint grubu için üyelik görünürlüğü değiştirilemiyorsa, kullanıcıları Açıkça To veya CC satırına ekleyin.
   
-Görüntülemek için daha fazla ayrıntı lütfen [/_vti_bin/client.svc/sp.utilities.utility.SendEmail yetkisiz HTTP](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)için başvurun.
+Daha fazla bilgi için lütfen [http için /_vti_bin/client.svc/sp.utilities.utility.SendEmail bakın](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

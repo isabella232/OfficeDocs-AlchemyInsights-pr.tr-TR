@@ -1,5 +1,5 @@
 ---
-title: Ödeme bildirim için diğer e-posta adresini değiştirme
+title: Fatura bildirimi için alternatif e-posta adresini değiştirme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,24 +13,24 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 01b8fd0273ea9b0ef716b6f59ac7ee8c9d2acef7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4cb14da2358c4c97814b881de63214fe97f0c2ee
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521011"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738757"
 ---
-# <a name="change-the-alternate-email-address-for-billing-notification"></a>Ödeme bildirim için diğer e-posta adresini değiştirme
+# <a name="change-the-alternate-email-address-for-billing-notification"></a>Fatura bildirimi için alternatif e-posta adresini değiştirme
 
-Ödeme bildirim diğer e-posta adresini değiştirmek kolaydır. Aşağıdaki adımları izlemeniz yeterlidir:
+Fatura bildirimi için alternatif e-posta adresini değiştirmek kolaydır. Aşağıdaki adımları izlemen yeterlidir:
   
-1. **Faturalama** için Microsoft 365 Yönetim Merkezi'nde Git \> [Ödeme bildirimleri](https://go.microsoft.com/fwlink/p/?linkid=853212) sayfa.  
+1. Microsoft 365 yönetici merkezinde, **Faturalandırma** \> [Bildirimleri](https://go.microsoft.com/fwlink/p/?linkid=853212) sayfasına gidin.  
 
 2. Listeden bir ad seçin.
 
-3. **Alternatif e-posta adresi** kutusunda, diğer e-posta adresini yazın.
+3. Alternatif **e-posta adresi** kutusuna alternatif e-posta adresini yazın.
 
-4. Select **kaydetmek** ve bitirdiniz!
+4. **Kaydet'i** seçin ve bittiniz!
 
-Daha fazla ayrıntı ve ekran görüntüleri ile adımları için bkz: [Office 365, faturalama adresleri değiştirme](https://support.office.com/article/Change-your-billing-addresses-for-Office-365-for-business-a25c10d6-c1e9-4299-9185-25178df9eba6).
+Ekran görüntüleriyle ilgili daha fazla ayrıntı ve adım için Bkz. [Office 365 için fatura adreslerinizi değiştirin.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses)
   

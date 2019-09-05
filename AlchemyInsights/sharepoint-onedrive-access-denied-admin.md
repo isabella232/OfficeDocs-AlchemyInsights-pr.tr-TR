@@ -1,6 +1,6 @@
 ---
-title: Erişim reddedildi iletisi ile ilgili sorunları giderme
-ms.author: kirks
+title: Erişim Reddedilen iletileri sorun giderme
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/29/2018
 ms.audience: ITPro
@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 0a885e15d54c9337711f2528628789dfcb903264
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4e6fdc6fbf745d1702bf1a7b3474ac82f6662305
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503565"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751296"
 ---
-# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Sharepoint/OneDrive Yönetim Merkezi erişim engellendi iletilerinde sorun giderme
+# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Sharepoint/OneDrive Yönetici Merkezi'nde Reddedilen iletilere Erişim Sorunu
 
-Erişim engellendi iletisi Sharepoint/OneDrive yönetim merkezine gitmek çalışırken alıyorsanız, lütfen emin olun o [kullanıcı için bir lisans atayın](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One). Kullanıcı lisansı varsa, ayrıca Yönetim Merkezleri erişebileceği [bir yönetici rolü atanmış](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) olduklarından emin olmalısınız.
+Sharepoint/OneDrive Yönetici Merkezi'ne göz atlamaya çalışırken erişim reddedilen bir ileti alıyorsanız, lütfen [kullanıcıya bir lisans atadığınızdan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)emin olun. Kullanıcının bir lisansı varsa, yönetici merkezlerine erişebilecek [bir yönetici rolü](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) atanmış olduğundan da emin olmalısınız.
 
-Bu sorun, kullanıcı olduğunda ve aynı kullanıcı asıl adı ile (UPN) yeniden oluşturulması da oluşabilir. Yeni hesabı farklı bir PUID (Passport benzersiz kimliği) değeri kullanılarak oluşturulur. Kullanıcı bir site koleksiyonu veya kendi OneDrive erişmeye çalıştığında, kullanıcı yanlış bir PUID sahiptir. İkinci senaryo directory eşitlemesi, Active Directory kuruluş birimi (OU) ile ilgilidir. Bunlar, kullanıcıların zaten SharePoint için oturumu ve ardından farklı bir kuruluş birimine taşınan ve SharePoint ile resynced, bu sorunla karşılaşabilirsiniz.
+Bu sorun, bir kullanıcı silindiğinde ve aynı kullanıcı ana adı (UPN) ile yeniden oluşturulduğunda da oluşabilir. Yeni hesap farklı bir PUID (Passport Unique ID) değeri kullanılarak oluşturulur. Kullanıcı bir site koleksiyonuna veya OneDrive'ına erişmeye çalıştığında, kullanıcıyanlış PUID'ye sahiptir. İkinci bir senaryo, Etkin Dizin kuruluş birimi (OU) ile dizin eşitlemesi içerir. Kullanıcılar Zaten SharePoint oturum açmış ve daha sonra farklı bir OU taşınır ve SharePoint ile yeniden senkronize, onlar bu sorunla karşılaşabilirsiniz.
 
-Bu sorunu gidermek için makaledeki adımları, [bir kullanıcının Office 365'te geri](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide)ile özgün UPN kurtarmalısınız.
+Bu sorunu gidermek için, özgün UPN'yi makaledeki adımlarla geri yüklemeniz gerekir, [Office 365'te bir kullanıcıyı geri yüklemeniz](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide)gerekir.
 
-Not: bir OneDrive veya SharePoint Yönetim Merkezi önceden erişimi olduğu birden çok kullanıcı için kullanılabilir durumda değilse, bir geçici olarak hizmet sorunu olabilir.  [Hizmet durumu panoyu kontrol edin](https://portal.office.com/adminportal/home#/servicehealth).
+Not: OneDrive veya SharePoint Yönetici merkezi daha önce erişimi olan birden çok kullanıcı tarafından kullanılamıyorsa, geçici bir hizmet sorunu olabilir.  [Hizmet durumu panosunu kontrol edin.](https://portal.office.com/adminportal/home#/servicehealth)
 
 

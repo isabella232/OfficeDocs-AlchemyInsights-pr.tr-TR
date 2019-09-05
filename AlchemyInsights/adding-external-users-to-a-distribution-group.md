@@ -1,5 +1,5 @@
 ---
-title: Dış kullanıcı bir dağıtım grubuna ekleme
+title: Dağıtım Grubuna harici kullanıcı ekleme
 ms.author: chrisda
 author: chrisda
 ms.audience: ITPro
@@ -7,38 +7,38 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: 641636add2069fc395df9af156d8c011493a634a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e84a5b04d6fc805deaa47cb10c91081f37411e5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660812"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737929"
 ---
-# <a name="add-external-users-to-a-distribution-group"></a>Harici kullanıcılar bir dağıtım grubuna ekleyin.
+# <a name="add-external-users-to-a-distribution-group"></a>Dağıtım Grubuna harici kullanıcı ekleme
 
-Bir dağıtım grubu (DG) için harici bir ilgili kişi eklemek iki adımdan oluşan bir işlemdir:
+Dağıtım Grubuna (DG) harici bir bağlantı eklemek iki adımlı bir işlemdir:
   
-1. Dış kullanıcı için bir posta kişi oluşturun:
+1. Harici kullanıcı için Bir Posta İlgili Kişisi Oluşturun:
     
-    1. **Kullanıcıların**Yönetim Merkezi'nde Git > [Kişiler](https://admin.microsoft.com/adminportal/home#/Contact) sayfası. 
+    1. Yönetici merkezinde, **Kullanıcılar** > [Kişileri](https://admin.microsoft.com/adminportal/home#/Contact) sayfasına gidin. 
     
-    2. **Kişi Ekle**seçin.
+    2. **Kişi ekle'yi**seçin.
     
-    3. İlgili kişinizin bilgileri yazın ve **Ekle**' yi seçin.
+    3. İlgili kişinizin bilgilerini yazın ve **Ekle'yi**seçin.
     
-2. Posta kişi için DG ekleyin:
+2. Posta İlgili Kişisini DG'nize ekleyin:
     
-    1. Yönetim Merkezi'nde **grupları**Git > [Gruplar](https://admin.microsoft.com/adminportal/home#/groups) sayfası. 
+    1. Yönetici merkezinde Gruplar **sayfasına** > [](https://admin.microsoft.com/adminportal/home#/groups) gidin. 
     
-    2. Dış kullanıcı için eklemek istediğiniz DG bulun ve Düzenle iletişim kutusunu açmak için seçin.
+    2. Dış kullanıcıeklemek istediğiniz DG'yi bulun ve edit iletişim kutusunu açmak için seçin.
     
-    3. **Üyeler** sekmesinde, **görüntülemek ve üyeleri Yönet'ı**seçin. 
+    3. **Üyeler** sekmesinde, **Tümünü Görüntüle'yi ve üyeleri yönet'i**seçin. 
     
-    4. **Üyeler Ekle**seçin.
+    4. **Üye Ekle'yi**seçin.
     
-    5. Önceki adımda oluşturduğunuz posta kişiyi seçin ve sonra **Kaydet**' i seçin.
+    5. Önceki adımda oluşturduğunuz Posta İlgili Kişisini seçin ve ardından **Kaydet'i**seçin.
     
-Sonra aşağıdaki adımları, harici kullanıcılar e-postalar için DG gönderemez veya e-postaları ondan almıyorum, DG e-postalar iç kullanıcıların yalnızca izin vermek üzere işaretlenmiş olabilir. Bu yapılandırmayı denetleyin ve yönergeleri izleyerek bu sorunu düzelt [burada](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx).
+Bu adımları izleyerek dış kullanıcılarınız DG'ye e-posta gönderemezse veya ondan e-posta alamıyorsa, DG yalnızca dahili kullanıcılardan gelen e-postalara izin verecek şekilde işaretlenmiş olabilir. Bu yapılandırmayı kontrol edebilir ve [burada](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online)yönergeleri izleyerek düzeltebilirsiniz.
   
- **Not:** Grubunuzun türü "Dağıtım grubu" yerine "Office 365 grubu" ise bu yönergeler uygulanmaz Bu durumda, harici kullanıcı grubuna doğrudan Outlook'tan ekleyebilirsiniz. [Bu makalede](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx), Office 365 grupları guests hakkında ayrıntılı bilgi yanı sıra dış konuklar eklemek için yönergeler bulunabilir.
+ **Not:** Grubunuzun türü "Dağıtım grubu" yerine "Office 365 grubu" ise bu talimatlar geçerli değildir. Bu durumda, dış kullanıcıyı doğrudan Outlook'tan gruba ekleyebilirsiniz. Office 365 grupları nın konukları hakkında ayrıntılı bilgi ve dış misafir ekleme talimatları [na bu makalede](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)bulunabilir.
   

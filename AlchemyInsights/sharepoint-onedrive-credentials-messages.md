@@ -1,6 +1,6 @@
 ---
-title: SharePoint kitaplığında dosya Gezgini'nde açın.
-ms.author: kirks
+title: Dosya Gezgini'nde SharePoint kitaplığı açma
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 12d895b6a9fdd9bc14b858d171acb8dccb1b6b80
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d33e0ad6903d960320578d3e3b2b5224d07a9574
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508011"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751044"
 ---
-# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Kimlik bilgisi iletilerindeki SharePoint veya OneDrive
+# <a name="credential-messages-in-sharepoint-or-onedrive"></a>SharePoint veya OneDrive'daki kimlik bilgileri iletileri
 
-Kullanıcıların düzenli olarak Office tarafından SharePoint çevrimiçi veya OneDrive için kimlik belgeleri açmak çalışırken istenebilir.
+Belgeleri açmaya çalışırken kullanıcılara office tarafından düzenli olarak SharePoint Online veya OneDrive'a kimlik bilgileri istenebilir.
 
-Kimlik bilgisi iletilerin bazı örnekler şunlardır:
+Kimlik bilgileri iletilerine aşağıdaki bazı örnekler verilmiştir:
 
-- Kuruluş, hesapla oturum açın
+- Kuruluş hesabınızla oturum açın
 
-- Kimlik bilgileri gerekli
+- Kimlik bilgileri gereklidir
 
-- Şimdi bağlanmak için ağ bağlantınızı denetleyin bağlanamıyoruz
+- Şu anda bağlanamıyoruz, ağ bağlantınızı kontrol edin
 
-Bu belirtilerle karşılaşıyorsanız, lütfen [Bu makalede](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint)yer alan adımları deneyin.
+Bu belirtilerle karşılaşıyorsanız, lütfen [bu makalede](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint)bulunan adımları deneyin.
 
-Kimlik doğrulaması için çoklu oturum açma (SSO) kullanıyorsanız, alternatif olarak, lütfen [Bu makalede](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) bunun yerine bakın.
+Alternatif olarak, kimlik doğrulaması için Tek oturum açma (SSO) kullanıyorsanız, lütfen bunun yerine [bu makaleye](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) bakın.
 

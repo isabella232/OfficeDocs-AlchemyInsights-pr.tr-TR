@@ -1,6 +1,6 @@
 ---
-title: Erişim reddedildi iletisi ile ilgili sorunları giderme
-ms.author: kirks
+title: Erişim Reddedilen iletileri sorun giderme
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/29/2018
 ms.audience: ITPro
@@ -8,34 +8,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 942374d29ca334181e5a397c88d912828f01e349
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 915476f92f150288666268f1647f3cae7e9001a4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549131"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751800"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Erişim reddedildi iletisi ile ilgili sorunları giderme
+# <a name="troubleshoot-access-denied-messages"></a>Erişim Reddedilen iletileri sorun giderme
 
-Bkz: erişim engellendi iletisi çevrimiçi Sharepoint sitesine göz atmaya çalışırken zaman alıyorsanız, lütfen aşağıdaki makaleleri.
+Bir Sharepoint Online sitesine göz atmaya çalışırken erişim reddedilen bir ileti alıyorsanız, lütfen aşağıdaki makalelere bakın.
 
-**Ekleme ve kullanıcı lisansı**
+**Kullanıcıyı Ekleme ve Lisansla**
 
-Emin olun, sizin [iş için Office 365'te kullanıcılara lisans atayın](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+[İşletmeler için Office 365'teki kullanıcılara lisans atadığınızdan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)emin olun.
 
-**İzinleri atama**
+**İzinatama**
 
-Lütfen kullanıcı Sharepoint lisans atadığı ve erişim engellendi iletisi almaya devam, sahip oldukları [uygun bir izin düzeyine atanan](https://docs.microsoft.com/sharepoint/understanding-permission-levels)emin olun.
+Kullanıcıya Sharepoint lisansı atanmışsa ve hala erişim reddedilen bir ileti alıyorsa, lütfen [uygun izin düzeyine sahip](https://docs.microsoft.com/sharepoint/understanding-permission-levels)olduğundan emin olun.
 
 **Erişim isteği özelliğini kullanmayı düşünün**
 
-[Erişim isteği](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) özelliği şu anda görme izni olmayan içeriğe erişim isteği veriyor. 
+[Erişim isteği](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) özelliği, kullanıcıların şu anda görme izni olmayan içeriğe erişim isteğinde bulunmalarına olanak tanır. 
 
-**Özel komut dosyası erişim sorunları neden olabilir izin ver**
+**Özel komut dosyasına izin ver, erişim engellenen sorunlara neden olabilir**
 
-"İzin ver özel bir komut dosyası" özelliği erişim engellendi burada sunmak bazı senaryolar vardır. Etkilenen özellikler listesi, güvenlik konuları ve özelliğini devre dışı bırakabilir. Lütfen ziyaret edin, [izin ver veya özel komut dosyası engelleme](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+"Özel komut dosyasına izin ver" özelliğinin reddedilen bir erişim sunabileceği belirli senaryolar vardır. Etkilenen özelliklerin listesi, güvenlik hususları ve özelliği devre dışı bırakmak için yeteneği için. Lütfen ziyaret edin , [Özel komut dosyasına izin verin veya engelleyin](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Not: OneDrive veya SharePoint sitesi önceden erişimi olduğu birden çok kullanıcı için kullanılabilir durumda değilse, bir geçici olarak hizmet sorunu olabilir. [Hizmet durumu panoyu kontrol edin](https://portal.office.com/adminportal/home#/servicehealth).
+Not: OneDrive veya SharePoint sitesi daha önce erişimi olan birden çok kullanıcı tarafından kullanılamıyorsa, geçici bir hizmet sorunu olabilir. [Hizmet durumu panosunu kontrol edin.](https://portal.office.com/adminportal/home#/servicehealth)
 
 
   

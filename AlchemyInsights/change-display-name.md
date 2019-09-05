@@ -1,5 +1,5 @@
 ---
-title: 959 görüntü adını değiştir
+title: 959 Görüntü adını değiştir
 ms.author: pdigia
 author: pebaum
 ms.date: 7/17/2018
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519823"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736741"
 ---
-# <a name="change-your-display-name"></a>Görünen adınızı değiştirme
+# <a name="change-your-display-name"></a>Görüntü adınızı değiştirme
   
-Outlook içinde görünen adınızı değiştirmek için aşağıdaki adımları kullanın.
+Outlook'ta görüntü adınızı değiştirmek için aşağıdaki adımları kullanın.
   
-1. Outlook'ta, **Dosya** seçin \> **Hesap ayarları** \> **Hesap ayarları**.
+1. Outlook'ta **Dosya** \> **Hesabı Ayarları** \> **Hesap Ayarlarını**seçin.
 
-2. E-posta hesabını seçin ve **Değiştir**' i seçin.
+2. E-posta hesabını seçin ve ardından **Değiştir'i**seçin.
 
     > [!NOTE]
-    > Görünen adınızı değiştirme seçeneği görmüyorsanız, büyük olasılıkla bir Microsoft Exchange e-posta hesabı kullanıyorsunuz. Bu durumda, görüntü adınızı değiştirmek için yöneticinize başvurmanız gerekir. [Bir kullanıcı adı değiştirin ve e-posta adresi Office 365'te](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)bakın.
+    > Görüntü adınızı değiştirme seçeneğini görmüyorsanız, büyük olasılıkla bir Microsoft Exchange e-posta hesabı kullanıyorsunuz. Bu durumda, görüntü adınızı değiştirmek için yöneticinize başvurmanız gerekir. Bkz. [Office 365'te kullanıcı adını ve e-posta adresini değiştir.](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
-3. Görünen adınızı değiştirdikten sonra değişiklikleri kaydetmek için **Tamam** ' ı tıklatın. Bu, değişikliklerinizin kuruluşunuzda yansıtmak birkaç saat sürebilir.
+3. Görüntü adınızı değiştirdikten sonra değişikliklerinizi kaydetmek için **Tamam'ı** tıklatın. Değişikliklerinizin kuruluşunuz genelinde yansıtması birkaç saat sürebilir.
 
-Daha fazla bilgi için bkz: [e-posta alıcılarına görünen adı değiştirme](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Daha fazla bilgi için bkz: [E-posta alıcılarının gördüğü görüntü adını değiştir.](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx)
   
