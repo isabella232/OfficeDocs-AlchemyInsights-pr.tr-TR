@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 52429314d1529d0d2df7886feaebbcfd27666a06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 73583b3b27143c708a4cc993cdff94a33131ab52
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559717"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743113"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>SharePoint Online’daki “Explorer ile Aç” sorunlarını giderme
 
@@ -25,7 +25,7 @@ Gezgin ile Aç komutu, SharePoint sitesini barındıran sunucudaki klasör yapı
 
 Yeni OneDrive eşitleme istemcisi yerine Gezgin görünümünü kullanmayı seçtiyseniz şu makalelerde verilen adımları ve en iyi yöntemleri izlediğinizden emin olun:
 
-- [SharePoint Online’daki sorunları gidermek için ”Gezgin ile Aç” komutunu kullanma](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)
+- [SharePoint Online’daki sorunları gidermek için ”Gezgin ile Aç” komutunu kullanma](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
 
 - [Gezgin ile Aç’ı kullanarak kitaplık dosyalarını kopyalama veya taşıma](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 

@@ -1,5 +1,5 @@
 ---
-title: Yükleme askıda kalıyor veya takılırken
+title: Yükleme askıda kalır veya takılır
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 321f357f97f4cf1031e5485a6a3f91397b0fbcab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498651"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735445"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Office yükleme askıda kalıyor veya takılırken
+# <a name="office-installation-hangs-or-gets-stuck"></a>Office yüklemesi askıda kalır veya takılır
 
-Bu davranış nedeniyle ağ bağlantısı, virüsten koruma yazılımı veya Windows Update ayarlarını bilgisayarınızda görebilirsiniz. Sorunu çözmek için deneyebileceğiniz bazı şeyleri burada bulabilirsiniz.
+Bilgisayarınızdaki ağ bağlantısı, virüsten koruma yazılımı veya Windows Update ayarları nedeniyle bu davranışı görebilirsiniz. Sorunu gidermek için deneyebileceğiniz bazı şeyler şunlardır.
   
-- Bilgisayarınızı yeniden başlatın ve Office yüklü olmadığını denetleyin
+- Bilgisayarınızı yeniden başlatın ve Office'in Yüklü olup olmadığını kontrol edin
 
-- Kablolu bağlantı kullanın.
+- Kablolu bağlantı kullanma
 
-- Yavaş bir Internet bağlantı kullanıyorsanız, Office [Office çevrimdışı yükleyici kullanarak](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) yükleyin[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- Yavaş bir internet bağlantısın varsa, [Office çevrimdışı yükleyicisini kullanarak](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) Office'i yükleyin
 
-- Virüsten koruma yazılımını geçici olarak kapatma
+- Virüsten koruma yazılımLarını geçici olarak kapatın
 
-- Denetim Masası'ndan çevrimiçi Onar özelliğini çalıştırmak
+- Kontrol Paneli'nden çevrimiçi onarım çalıştırın
 
-- Office kaldırıp yeniden yükleme
+- Office'i kaldırma ve yeniden yükleme
 
-[Office yüklemek için uzun sürüyor](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Office'in yüklenmesi uzun sürüyor](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

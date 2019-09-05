@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: af7088a9c3110ea5b18912485f05cbfecc8068bf
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660704"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737857"
 ---
 # <a name="add-a-user-to-office-365"></a>Office 365'e kullanıcı ekleme
 
@@ -28,5 +28,5 @@ ms.locfileid: "36660704"
 
 3. Kullanıcı bilgilerini doldurun. Bitirdiğinizde **Eklemeyi sonlandır**’ı seçin.
 
-Eski yönetim merkezini mi kullanıyorsunuz? Eski adımlar için veya daha fazla bilgi için bkz. [Kullanıcıları Office 365’e tek tek veya toplu halde ekleme](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).
+Eski yönetim merkezini mi kullanıyorsunuz? Eski adımlar için veya daha fazla bilgi için bkz. [Kullanıcıları Office 365’e tek tek veya toplu halde ekleme](https://docs.microsoft.com/office365/admin/add-users/add-users).
   

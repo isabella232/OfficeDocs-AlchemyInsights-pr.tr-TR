@@ -1,5 +1,5 @@
 ---
-title: SharePoint kitaplığı için bir ağ sürücüsüne
+title: SharePoint kitaplığını ağ sürücüsüyle eşle
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 8226b88c0f472d0e35ff462dc5a5259487a8ef06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7b16cb448684d3f68be84fda4d9de201b953ffb
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497053"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734905"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>SharePoint kitaplığı için bir ağ sürücüsüne
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>SharePoint kitaplığını ağ sürücüsüyle eşle
 
-Kitaplık olarak bir ağ sürücüsünü eşleme geçici ve yalnızca Internet Explorer üzerinden desteklenen. Bazen, SharePoint sitesini Internet Explorer'da açın ve oturum zaman aşımına uğramasını önlemek için **içinde kalmak** seçmeniz gerekir. Bunun yerine, [Yeni OneDrive eşitleme istemcisi ile SharePoint dosyaları eşitleme](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> [Talep dosyaları](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)sağlar. Tüm dosyalarınızı OneDrive yerel depolama alanını kullanmadan erişir.
+Kitaplığı ağ sürücüsü olarak eşleme geçicidir ve yalnızca Internet Explorer aracılığıyla desteklenir. Oturumun süresinin dolmasını önlemek için zaman zaman Internet Explorer'da SharePoint sitesini açmanız ve oturumda oturumda oturumda **kal** seçeneğini seçmeniz gerekir. Bunun yerine, SharePoint dosyalarını [Isteğe Bağlı Dosyalar](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)sağlayan [yeni OneDrive eşitleme istemcisiyle](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> eşitleyin. Yerel depolama alanı kullanmadan OneDrive'daki tüm dosyalarınıza erişin.
 
-[Yeni OneDrive eşitleme istemcisini kullanmak](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)yerine sürücüsüne seçerseniz, aşağıdaki makalede yer alan adımları izleyin emin olun. 
-
-
-**Eşlenen ağ sürücülerine yazmalarını yapılandırma ve sorun giderme**
+[Yeni OneDrive eşitleme istemcisini kullanmak](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)yerine bir sürücüyü eşlemeyi seçerseniz, aşağıdaki makaledeki adımları izlediğinizi sağlayın. 
 
 
-[Yapılandırmak ve sorunlarını gidermek için eşlenen ağ sürücülerine](https://support.office.com/article/troubleshoot-mapped-network-drives-that-connect-to-sharepoint-online-ef399c67-4578-4c3a-adbe-0b489084eabe?ui=en-US&amp;rs=en-US&amp;ad=US)bakın.
+**Eşlenen ağ sürücülerini yapılandırma ve sorun giderme**
 
-Not: Internet Explorer 10 Windows 8 veya Windows 7 ile birlikte kullanın ve bir sürücü eşleme **yola erişilemiyor** veya **erişim engellendi** alıyorsunuz, bu sorunu gidermek için [Bu düzeltmeyi](https://support.microsoft.com/help/2846960) yükleyin. 
+
+[Bkz. SharePoint Onlines'a bağlanan eşlenmiş ağ sürücüleri.](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+
+NOT: Windows 8 veya Windows 7 ile Internet Explorer 10 kullanıyorsanız ve **Access reddedildi** alıyorsanız veya bir sürücü eşleme yaparken Yol **erişilebilir değil,** bu sorunu gidermek için [bu düzeltmeyi](https://support.microsoft.com/help/2846960) yükleyin. 

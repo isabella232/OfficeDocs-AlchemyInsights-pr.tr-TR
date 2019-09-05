@@ -1,5 +1,5 @@
 ---
-title: Yammer kullanıcıları yönetme
+title: Yammer Kullanıcılarını Yönetme
 ms.author: pebaum
 author: pebaum
 ms.date: 5/1/2018
@@ -11,29 +11,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5906a9e80ac16233835dd691eccbe310df1dd26c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497067"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734941"
 ---
-# <a name="managing-yammer-users"></a>Yammer kullanıcıları yönetme
+# <a name="managing-yammer-users"></a>Yammer kullanıcılarını yönetme
 
-1. Office 365 ' Yammer kullanıcıları yönetme hakkında daha fazla bilgi için lütfen [Office 365'dan kendi yaşam döngüsü boyunca Kullanıcıları Yönet Yammer](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039)bakın. Bu ayrıntıları içerir:
+1. Office 365'ten Yammer kullanıcılarını yönetme hakkında daha fazla bilgi için lütfen [Office 365'ten yaşam döngüleri boyunca Yammer kullanıcılarını yönet'e](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)bakın. Bu ayrıntılar içerir:
 
   - Kullanıcı oluşturma
 
   - Kullanıcıları silme
 
-  - Office 365 ' Yammer kullanıcıları yönetme
+  - Office 365'ten Yammer kullanıcılarını yönetme
 
-2. Lütfen [ekleyin, engelleme, veya Yammer kullanıcıları kaldırma](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) Yammer yönetim konsolundan kullanıcıları yönetme hakkında bilgi için bkz:. Bu içerir:
+2. Yammer yönetici konsolundan kullanıcıları yönetme hakkında bilgi almak için [Lütfen Yammer kullanıcılarını ekle, engelleme veya kaldırma](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) bilgisine bakın. Buna şunlar dahildir:
 
-  - Davet veya kullanıcıları kaldırma
+  - Kullanıcıları davet etme veya kaldırma
 
-  - Ziyaretçi kullanıcıları davet etme
+  - Konuk kullanıcıları davet etme
 
-  - Kullanıcı listesini verme
+  - Kullanıcı listesini dışa aktarma
 
-3. [Yammer ağınıza dış ileti Katılımcıları Ekle](https://support.office.com/article/423653bb-86b2-4eac-9d7e-dca121f7c16c)ekleme, kaldırma ve dış kullanıcıları yönetme hakkında daha fazla bilgi için bkz.
+3. Harici kullanıcı ekleme, kaldırma ve yönetme hakkında daha fazla bilgi için [bkz.](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)

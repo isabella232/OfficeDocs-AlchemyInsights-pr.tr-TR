@@ -1,5 +1,5 @@
 ---
-title: 614 nasıl oluşturulacağı ve oda posta kutularını yönetme
+title: 614 Oda posta kutuları nasıl oluşturulur ve yönetilir
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3500013"
 - "3800012"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: 6b5c7f7e349f7124002ad15d3986b12458153ff3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: aaa7203c4879b65ec551374a911878556e44ed9a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664194"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735625"
 ---
-# <a name="how-to-create-and-manage-room-mailboxes"></a>Nasıl oluşturulacağı ve oda posta kutularını yönetme
+# <a name="how-to-create-and-manage-room-mailboxes"></a>Oda posta kutuları oluşturma ve yönetme
 
-Oluşturma ve değiştirme odası posta kutuları için bkz: [oluşturma ve oda Posta kutularynyn yönetiminde](https://technet.microsoft.com/library/jj215781.aspx).
+Oda posta kutularını oluşturmak [](https://technet.microsoft.com/library/jj215781.aspx)ve değiştirmek için bkz.
 
-Oda ve ekipman posta kutuları (kaynak posta kutusu olarak da bilinir) hakkında daha fazla bilgi için bkz: [oda ve ekipman posta kutuları](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).
+Oda ve ekipman posta kutuları (kaynak posta kutuları olarak da bilinir) hakkında daha fazla bilgi edinmek için [Oda ve ekipman posta](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)kutularına bakın.
