@@ -1,5 +1,5 @@
 ---
-title: SharePoint çevrimiçi yaygın sorunlar ve çözümleri
+title: SharePoint Online yaygın sorunları ve çözümleri
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -10,27 +10,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0e4a26308a371ef66e8a655cce282210df6f0247
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 32657303d7f2176eb6840269daffe5825d24478c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666104"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744085"
 ---
-# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint çevrimiçi yaygın sorunlar ve çözümleri
+# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online yaygın sorunları ve çözümleri
 
-SharePoint çevrimiçi sorunları için sık sık istenen bazı konular şunlardır:
+SharePoint Online sorunları için sık sık istenen bazı konular şunlardır:
 
-- **İzinler**: [izinleri strateji oluşturmak](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) ve [İzin düzeylerini anlamak](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+- **İzinler**: [İzinler stratejisi oluşturun](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) ve [İzin Düzeylerini Anlayın.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
 
-- **Paylaşım**: kuruluşunuz veya [kuruluşunuzun dışındaki kişilerle](https://docs.microsoft.com/sharepoint/external-sharing-overview)içinde [başkaları ile paylaşma](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) .
+- **Paylaşım**: Kuruluşunuzdaki [diğer kişilerle](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) veya [kuruluşunuz dışındaki diğer kişilerle](https://docs.microsoft.com/sharepoint/external-sharing-overview)paylaşma.
 
-- **Belge dosyaları ile çalışma**: dosya [karşıya yükleme](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb), dosya [yüklemek](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05), dosya [düzenlemeleri](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)ve geçerli [Dosya sınırlamaları](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa?ui=en-US&amp;rs=en-US&amp;ad=US) hakkında daha fazla bilgi edinin
+- **Belge Dosyaları ile Çalışma**: Dosya [yükleme,](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)dosya [indirme,](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)dosya [yükleme](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)ve geçerli [dosya sınırlamaları](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) hakkında daha fazla bilgi edinin
 
-- **Depolama**: kullanıcılar OneDrive depolama yönetmeyi öğrenin</a>, [site depolama alanı yönetme](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) abonelik ve [tüm sınırlarını anlama](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)gibi.
+- **Depolama**: Aboneliğiniz için site</a> [depolamasını yönetme](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) ve tüm sınırları anlama gibi kullanıcılarınızın OneDrive depolama sını nasıl [yöneteceklerini](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)öğrenin.
 
-- **Kiracı yeniden adlandırma**: [SharePoint etki alanı adınızı değiştirin](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) daha fazla bilgi için bkz.
+- **Kiracı Yeniden Adlandırma**: Daha fazla bilgi için [SharePoint etki alanı adınızı değiştir'e](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) bakın.
 
-- **SharePoint Modernize**: [SharePoint Modern deneyimi için kılavuz](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) ve [Klasik SharePoint sitelerinizi Modernize](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) hareket başlatmak için gözden geçirin.
+- **SharePoint'i Modernize Et:** [SharePoint'teki Modern deneyim Kılavuzunu](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) gözden geçirin ve taşımaya başlamak için [klasik SharePoint sitelerinizi modernize](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) edin.
 
-- **Başlarken**: öğrenin nasıl site Yönetim stratejileri ile [Çevrimiçi SharePoint ile başlayın](https://docs.microsoft.com/sharepoint/introduction) .
+- **Başlarken**: Site yönetimi stratejileri yle [SharePoint Online'a nasıl başalacağınızı](https://docs.microsoft.com/sharepoint/introduction) öğrenin.
