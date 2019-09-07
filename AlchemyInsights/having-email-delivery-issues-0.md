@@ -13,12 +13,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: a18878032c2da76c930c6d4d3fa572f46350de39
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031b79da47892b4449bfd3d6f1157d1c41e60473
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523387"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739801"
 ---
 # <a name="having-email-delivery-issues"></a>E-posta tesliminde sorun mu yaşıyorsunuz?
 
@@ -26,9 +26,8 @@ Kullanıcılarınızın şu etki alanlarına gönderilen e-postaları alamadığ
   
 {HealthCheckString}
   
-Etki alanı (DNS) ayarlarının NS veya MX kayıtları, e-postanın Office 365 hizmetinize teslim edilmesi için doğru yapılandırılmamış. Ayrıntılı yönergeler için [Office 365'te DNS kayıtlarını güncelleştirme](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) konusuna bakabilirsiniz.
+Etki alanı (DNS) ayarlarının NS veya MX kayıtları, e-postanın Office 365 hizmetinize teslim edilmesi için doğru yapılandırılmamış. Ayrıntılı yönergeler için [Office 365 için herhangi bir DNS barındırma sağlayıcısında DNS kayıtları oluşturma](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) başlığına başvurabilirsiniz.
   
 Bunu düzeltmek için lütfen Microsoft 365 yönetim merkezinin [Etki Alanları](https://admin.microsoft.com/adminportal/home#/Domains) sayfasına gidin; size yardımcı olacağız.
   
-Diğer yaygın çözümler için [Etki Alanları SSS bölümünü gözden geçirin](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx).
   
