@@ -12,12 +12,12 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 05b961cec364bce694a8f39d9de245062bfdb859
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e977f1393bb47cd2a4cb27ddef18f48105214a9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666356"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744949"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Hesap çok fazla sayıda istenmeyen posta gönderdiği için engellendi
 
@@ -27,5 +27,5 @@ Bir Office 365 hesabı çok fazla sayıda istenmeyen posta gönderdiği için en
 
 2. Güvenlik &amp; Uyumluluk Merkezi’ndeki Kısıtlanmış Kullanıcılar’a giderek **[hesaptaki engellemeyi kaldırın](https://protection.office.com/?hash=/restrictedusers)**. Bunu yaptıktan sonra *1 saat içinde* ileti göndermeye devam edebilirsiniz.
 
-3. Gelecekte hesabınızın güvenliğinin aşılmasını önlemek için [Office 365 için en iyi güvenlik yöntemleri](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx) altındaki önerileri uygulayın.
+3. Gelecekte hesabınızın güvenliğinin aşılmasını önlemek için [Office 365 güvenlik yol haritası](https://docs.microsoft.com/office365/securitycompliance/security-roadmap) altındaki önerileri uygulayın.
   
