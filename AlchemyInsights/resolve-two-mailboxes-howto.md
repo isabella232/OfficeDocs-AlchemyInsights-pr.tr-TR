@@ -1,5 +1,5 @@
 ---
-title: 1374 iki posta kutuları nasıl çözmek
+title: 1374 İki posta kutusu çözümle
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,16 @@ ms.custom:
 - "1374"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 10fae9040b1d5d75a318721f0300ba722361e8c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1307e13bf76e0b2afc9038333533d708f5d12f7f
+ms.sourcegitcommit: 16f08d051afca3c6d0de32826324f91cf63ab5ba
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369865"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992089"
 ---
-# <a name="a-user-has-two-mailboxes"></a><span data-ttu-id="579b7-102">Bir kullanıcının iki posta kutusu vardır.</span><span class="sxs-lookup"><span data-stu-id="579b7-102">A user has two mailboxes</span></span>
+# <a name="a-user-has-two-mailboxes"></a><span data-ttu-id="fa6b8-102">Bir kullanıcının iki posta kutusu vardır</span><span class="sxs-lookup"><span data-stu-id="fa6b8-102">A user has two mailboxes</span></span>
 
-<span data-ttu-id="579b7-103">Azure Active Directory Bağlan (AAD Bağlan) veya DirSync kullanan karma ortamlarda iki posta kutuları olan bir kullanıcı yanlışlıkla neden olabilir: biri yerinde kuruluşunuz, diğeri bulut.</span><span class="sxs-lookup"><span data-stu-id="579b7-103">Hybrid environments that use Azure Active Directory Connect (AAD Connect) or DirSync might accidentally cause a user to have two mailboxes: one in the on-premises organization and one in the cloud.</span></span>
+<span data-ttu-id="fa6b8-103">Azure Active Directory Connect (AAD Connect) veya DirSync kullanan karma ortamlar, yanlışlıkla bir kullanıcının iki posta kutusuna sahip olmasını sağlayabilir: biri şirket içinde, diğeri bulutta.</span><span class="sxs-lookup"><span data-stu-id="fa6b8-103">Hybrid environments that use Azure Active Directory Connect (AAD Connect) or DirSync might accidentally cause a user to have two mailboxes: one on-premises, and one in the cloud.</span></span> <span data-ttu-id="fa6b8-104">Her iki yerde de yinelenen bir posta kutusu oluşturulabilir.</span><span class="sxs-lookup"><span data-stu-id="fa6b8-104">A duplicate mailbox could be created in either place.</span></span>
 
-<span data-ttu-id="579b7-104">Bu sorunu gidermek için [Kalıcı olarak sil önceki posta kutusu bilgisi](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/)bkz.</span><span class="sxs-lookup"><span data-stu-id="579b7-104">To resolve this issue, see [Permanently Clear Previous Mailbox Info](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).</span></span>
+<span data-ttu-id="fa6b8-105">Bu sorunu gidermek için, [hem Exchange Online'da hem de şirket içinde bir posta kutusu olduğunda nasıl kurtarılacağa](https://docs.microsoft.com/en-us/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises)bakın.</span><span class="sxs-lookup"><span data-stu-id="fa6b8-105">To resolve this issue, see [How to recover when a mailbox exists in both Exchange Online and on-premises](https://docs.microsoft.com/en-us/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span></span> <span data-ttu-id="fa6b8-106">Gelecekte bunun olmasını nasıl önleyebildiğiniz hakkında daha fazla bilgi edinmek istiyorsanız, lütfen [kullanıcımın hem şirket içinde hem de Exchange Online'da bir posta kutusu olduğunu görün. Yardım edin!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809)</span><span class="sxs-lookup"><span data-stu-id="fa6b8-106">If you want to learn more about how to avoid this from happening in the future, please see [My user has a mailbox both on-premises and in Exchange Online. Help!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).</span></span>
+
