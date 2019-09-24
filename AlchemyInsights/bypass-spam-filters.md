@@ -1,5 +1,5 @@
 ---
-title: 2637 atlama istenmeyen posta filtreleme belirli iletilere izin vermek için?
+title: 2637 Belirli iletilere izin vermek için spam filtrelemeby?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -8,15 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 2637
+ms.custom:
+- "2637"
+- "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 6a6a119f6ba32df474d44421f0571e882d1fe6ee
-ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
+ms.openlocfilehash: 8d8c9b56c61c17be1001bf9723bc4b5ecbfba031
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36406574"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122182"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a><span data-ttu-id="0c44a-102">İstenmeyen posta filtreleme belirli iletilere izin vermek için atlamak?</span><span class="sxs-lookup"><span data-stu-id="0c44a-102">Bypass spam filtering to allow specific messages?</span></span>
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a><span data-ttu-id="17577-102">Belirli iletilere izin vermek için spam filtrelemi atlamak mı?</span><span class="sxs-lookup"><span data-stu-id="17577-102">Bypass spam filtering to allow specific messages?</span></span>
 
-<span data-ttu-id="0c44a-103">İzin Verdiklerim oluştururken [dikkat](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) öneririz.</span><span class="sxs-lookup"><span data-stu-id="0c44a-103">We recommend [caution](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) when you create an allow list.</span></span> <span data-ttu-id="0c44a-104">Örneğin, kendi etki alanı için izin verirseniz, kötü amaçlı Gönderenler sızmasına ve etki alanınızı gönderebilirsiniz olacaktır.</span><span class="sxs-lookup"><span data-stu-id="0c44a-104">For example, if you allow your own domain, malicious senders will be able to spoof and send as your domain.</span></span>  <span data-ttu-id="0c44a-105">Bunun yerine, neden yasal bir ileti istenmeyen posta olarak işaretlendi ve güvenle iletinin teslim edilmesini sağlamak için neler yapabileceğinizi öğrenmek için yardımcı olacak bu [sorun giderme kılavuzu yanlış pozitif durumlar](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), öneririz.</span><span class="sxs-lookup"><span data-stu-id="0c44a-105">Instead, we recommend this [false positives troubleshooting guide](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), which will help you to determine why a legitimate message was marked as spam, and what you can do to safely allow delivery of the message.</span></span>
+<span data-ttu-id="17577-103">İzin listesi oluştururken [dikkatli](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) olmanızı öneririz.</span><span class="sxs-lookup"><span data-stu-id="17577-103">We recommend [caution](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) when you create an allow list.</span></span> <span data-ttu-id="17577-104">Örneğin, kendi etki alanınıza izin verirseniz, kötü niyetli gönderenler etki alanınız olarak sızdırıp gönderebilir.</span><span class="sxs-lookup"><span data-stu-id="17577-104">For example, if you allow your own domain, malicious senders will be able to spoof and send as your domain.</span></span>  <span data-ttu-id="17577-105">Bunun yerine, meşru bir iletinin neden spam olarak işaretlendiğini ve iletinin güvenli bir şekilde teslimine izin vermek için neler yapabileceğinizi belirlemenize yardımcı olacak bu [yanlış pozitif sorun giderme kılavuzunu](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam)öneririz.</span><span class="sxs-lookup"><span data-stu-id="17577-105">Instead, we recommend this [false positives troubleshooting guide](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), which will help you to determine why a legitimate message was marked as spam, and what you can do to safely allow delivery of the message.</span></span>
