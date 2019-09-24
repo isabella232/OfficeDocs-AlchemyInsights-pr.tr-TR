@@ -1,5 +1,5 @@
 ---
-title: 2637 atlama istenmeyen posta filtreleme belirli iletilere izin vermek için?
+title: 2637 Belirli iletilere izin vermek için spam filtrelemeby?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -8,15 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 2637
+ms.custom:
+- "2637"
+- "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 6a6a119f6ba32df474d44421f0571e882d1fe6ee
-ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
+ms.openlocfilehash: 8d8c9b56c61c17be1001bf9723bc4b5ecbfba031
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36406574"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122182"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>İstenmeyen posta filtreleme belirli iletilere izin vermek için atlamak?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Belirli iletilere izin vermek için spam filtrelemi atlamak mı?
 
-İzin Verdiklerim oluştururken [dikkat](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) öneririz. Örneğin, kendi etki alanı için izin verirseniz, kötü amaçlı Gönderenler sızmasına ve etki alanınızı gönderebilirsiniz olacaktır.  Bunun yerine, neden yasal bir ileti istenmeyen posta olarak işaretlendi ve güvenle iletinin teslim edilmesini sağlamak için neler yapabileceğinizi öğrenmek için yardımcı olacak bu [sorun giderme kılavuzu yanlış pozitif durumlar](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), öneririz.
+İzin listesi oluştururken [dikkatli](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) olmanızı öneririz. Örneğin, kendi etki alanınıza izin verirseniz, kötü niyetli gönderenler etki alanınız olarak sızdırıp gönderebilir.  Bunun yerine, meşru bir iletinin neden spam olarak işaretlendiğini ve iletinin güvenli bir şekilde teslimine izin vermek için neler yapabileceğinizi belirlemenize yardımcı olacak bu [yanlış pozitif sorun giderme kılavuzunu](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam)öneririz.

@@ -15,20 +15,16 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: da35b257bb6aad9e3994dba562f9b8e86d08a693
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: f8b2bcebf875df2ff64521b0a489aa1aff50e0be
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36741853"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122198"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Mobil cihazda paylaşılan posta kutusunu kullanma
 
-Mobil cihaza yüklenen Outlook uygulamasından paylaşılan bir posta kutusuna erişemezsiniz. Bu özelliği istiyor musunuz? Outlook Engineering ekibine bildirin. [Burada oy verin!](https://go.microsoft.com/fwlink/?linked=862116)
+Mobil cihazınızda paylaşılan bir posta kutusunu kullanmak için [Outlook mobile'ı indirmeniz](https://products.office.com/en-us/outlook-mobile-for-android-and-ios) ve ardından [Outlook mobile'a paylaşılan bir posta kutusu eklemeniz](https://support.office.com/en-us/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)gerekir.
   
-Paylaşılan posta kutusunu yalnızca tarayıcınızı açarak, Office 365'te oturum açarak ve web'de Outlook'a giderek mobil cihazda kullanabilirsiniz. Yönergeler için [bkz.](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
-  
-Mobil cihazdaki Outlook uygulamasını kullanarak paylaşılan posta kutularına erişmeniz gerekiyorsa, paylaşılan posta kutusu kullanmak yerine bir Office 365 Grubu oluşturmayı düşünün. Daha fazla bilgi için grupları [karşılaştır'a](https://docs.microsoft.com/office365/admin/create-groups/compare-groups)bakın.
-  
-Daha fazla bilgi: [iOS ve Android için Outlook için uygulama içi yardım alın](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Yardım almak [için: iOS ve Android için Outlook için uygulama içi yardım alın](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
