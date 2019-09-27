@@ -2,7 +2,6 @@
 title: Veri konumu
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514181"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207281"
 ---
 # <a name="data-location"></a>Veri konumu
 
-Fazlalık için veri merkezleri arasında birden çok kopyasını verilerinizi koruyun. [Verilerinizin bulunduğu bakın](https://office.com/datamaps). Biz yeni ülke veya bölge verilerinizi konumuna genişletirseniz, bir ay önceden bildirimde sunuyoruz.
-  
-Office 365 güvenlik, gizlilik ve Uyumluluk hakkında daha fazla bilgi için bkz: [Office 365 Güven Merkezi](https://products.office.com/business/office-365-trust-center-welcome).
-  
+Yönetici merkezinde veya PowerShell üzerinden Exchange Online'a bağlanarak Office 365 kiracınızın konumunu görüntüleyebilirsiniz.
+
+
+**Yönetici merkezi:**
+1. [Yönetici merkezine](https://admin.microsoft.com/Adminportal/Home)giriş yapın.
+2. **Ayarlar** > **Organizasyonu profilini**seçin.
+3. **Veri konumu**altında, **ayrıntıları görüntüle'yi**seçin.
+
+
+**Powershell:**
+1. Windows PowerShell'i kullanarak Exchange Online'a bağlanın.
+2. Kiracınızın özelliklerinin listesini görüntülemek için [Get-OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) cmdlet'i çalıştırın. 
+3. OrganizationId özelliğine bakın.
+
+EXO ve SPO için veri konumuna sahip olduğunuzda, [verilerinizin bulunduğu yerden](https://products.office.com/where-is-your-data-located)kullanabileceğiniz diğer hizmetlerin veri konumunu belirleyebilirsiniz.
