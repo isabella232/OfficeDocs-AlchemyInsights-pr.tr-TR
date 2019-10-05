@@ -1,5 +1,5 @@
 ---
-title: 976-How-to-Enable-litigation-Hold
+title: 976-nasıl etkinleştirilir-dava-tutma
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
+ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540777"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398647"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Bir posta kutusu yasal beklemeye alma
+# <a name="place-a-mailbox-on-legal-hold"></a>Bir posta kutusunu yasal beklemeye alma
 
-- Bir posta kutusu dava tutun veya yerinde tutun yerleştirmek için bir Plan 2 Exchange Online lisans [planladığınız Exchange Online 2 lisans](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) gereklidir. Bir posta kutusu planı 1 lisans atanırsa, ayrı bir Exchange Online Arşivleme Eklentisi lisans [ek lisans çevrimiçi Exchange arşivleme](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)atayabilirsiniz.
+- Bir posta kutusunu Dava Bekleme veya Yerinde tutma üzerine yerleştirmek için Exchange Online Plan 2 lisansı [Exchange Online Plan 2 lisansı](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) gereklidir. Bir posta kutusuna Plan 1 lisansı atanırsa, ayrı bir Exchange Online Arşivleme eklenti lisansı [Exchange Online Arşivleme eklenti lisansı](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)atayabilirsiniz.
 
-- Dava tutun tek bir kullanıcı için [aşağıdaki adımları izleyin](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)etkinleştirmek için. Dava tutun etkin olduğunda, posta kutunuzdaki tüm içeriği korunur.
+- Tek bir kullanıcı için Dava Bekletmesini etkinleştirmek için [aşağıdaki adımları izleyin.](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold) Dava Bekletme etkinleştirildiğinde, posta kutusundaki tüm içerik korunur.
 
-- Bir ayrı tutma, kuruluşunuzdaki tüm posta kutularını yerleştirmek için [aşağıdaki adımları](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold)izleyerek bir Office 365 bekletme ilkesini kullanabilirsiniz. Kuruluş çapında bekletme ilkeleri için yeni kullanıcılar otomatik olarak ilkeye atanacağını unutmayın.
+- Kuruluşunuzdaki tüm posta kutularındaki içeriği korumak için kuruluş çapında office [365 bekletme ilkesi](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)kullanabilirsiniz. Kuruluş genelinde bekletme ilkeleri için, yeni kullanıcıların otomatik olarak ilke atanacağını unutmayın.
