@@ -1,5 +1,5 @@
 ---
-title: Outlook web üzerindeki yazım denetimi
+title: Web'de Outlook'ta yazım denetimi
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,12 +13,12 @@ ms.custom:
 - "8000007"
 - "1992"
 ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510571"
 ---
-# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="996dd-102">Yazım denetimi için tarayıcınızı kullanın</span><span class="sxs-lookup"><span data-stu-id="996dd-102">Use your browser to check spelling</span></span>
+# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="aabdf-102">Yazım denetimi için tarayıcınızı kullanın</span><span class="sxs-lookup"><span data-stu-id="aabdf-102">Use your browser to check spelling</span></span>
 
-<span data-ttu-id="996dd-103">Web'de Outlook'taki yazım onay seçeneği yoktur.</span><span class="sxs-lookup"><span data-stu-id="996dd-103">There is no spell check option in Outlook on the web.</span></span> <span data-ttu-id="996dd-104">Yazımı denetlemek için web tarayıcınızı kullanmanız gerekecektir.</span><span class="sxs-lookup"><span data-stu-id="996dd-104">To check your spelling, you'll need to use your web browser.</span></span> <span data-ttu-id="996dd-105">Yazım denetimi, Microsoft Edge, Internet Explorer 10 ve sonraki sürümleri ve Firefox, Chrome ve Safari geçerli sürümleri kullanılabilir.</span><span class="sxs-lookup"><span data-stu-id="996dd-105">Spell checking is available in Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="996dd-106">Yazım denetleme hakkında daha fazla bilgi, web tarayıcınızın ayarlarını denetleyin.</span><span class="sxs-lookup"><span data-stu-id="996dd-106">Check the options for your web browser to learn more about how to check spelling.</span></span>
+<span data-ttu-id="aabdf-103">Web'de Outlook'ta yazım denetimi seçeneği yoktur.</span><span class="sxs-lookup"><span data-stu-id="aabdf-103">There is no spell check option in Outlook on the web.</span></span> <span data-ttu-id="aabdf-104">Yazım denetimi için web tarayıcınızı kullanmanız gerekir.</span><span class="sxs-lookup"><span data-stu-id="aabdf-104">To check your spelling, you'll need to use your web browser.</span></span> <span data-ttu-id="aabdf-105">Yazım denetimi Microsoft Edge, Internet Explorer 10 ve sonraki sürümlerinde ve Firefox, Chrome ve Safari'nin geçerli sürümlerinde kullanılabilir.</span><span class="sxs-lookup"><span data-stu-id="aabdf-105">Spell checking is available in Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="aabdf-106">Yazım denetimi hakkında daha fazla bilgi edinmek için web tarayıcınızın seçeneklerini kontrol edin.</span><span class="sxs-lookup"><span data-stu-id="aabdf-106">Check the options for your web browser to learn more about how to check spelling.</span></span>

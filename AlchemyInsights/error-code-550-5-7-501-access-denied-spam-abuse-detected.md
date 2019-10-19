@@ -12,16 +12,16 @@ ms.custom:
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
 ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36740161"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="547d0-102">550 5.7.501 Erişim reddedildi, spam kötüye kullanımı algılandı</span><span class="sxs-lookup"><span data-stu-id="547d0-102">550 5.7.501 Access denied, spam abuse detected</span></span>
+# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="7ec32-102">550 5.7.501 Erişim reddedildi, spam kötüye kullanımı algılandı</span><span class="sxs-lookup"><span data-stu-id="7ec32-102">550 5.7.501 Access denied, spam abuse detected</span></span>
 
-<span data-ttu-id="547d0-103">Genellikle, bu ileti, kullanıcılar Office 365'teki yeni kiracılara atanan ilk *.onmicrosoft.com* etki alanını kullanarak IP adreslerinden e-posta iletileri gönderdiğinde oluşur.</span><span class="sxs-lookup"><span data-stu-id="547d0-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="547d0-104">Bu sorunu çözmenin en kolay yolu:</span><span class="sxs-lookup"><span data-stu-id="547d0-104">The easiest way to resolve this problem is to:</span></span>
+<span data-ttu-id="7ec32-103">Genellikle, bu ileti, kullanıcılar Office 365'teki yeni kiracılara atanan ilk *.onmicrosoft.com* etki alanını kullanarak IP adreslerinden e-posta iletileri gönderdiğinde oluşur.</span><span class="sxs-lookup"><span data-stu-id="7ec32-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="7ec32-104">Bu sorunu çözmenin en kolay yolu:</span><span class="sxs-lookup"><span data-stu-id="7ec32-104">The easiest way to resolve this problem is to:</span></span>
 
-1. <span data-ttu-id="547d0-105">[Kiracınıza bir etki alanı ekleyin.](https://docs.microsoft.com//office365/admin/setup/add-domain)</span><span class="sxs-lookup"><span data-stu-id="547d0-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
+1. <span data-ttu-id="7ec32-105">[Kiracınıza bir etki alanı ekleyin.](https://docs.microsoft.com//office365/admin/setup/add-domain)</span><span class="sxs-lookup"><span data-stu-id="7ec32-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
 
-2. <span data-ttu-id="547d0-106">[Kullanıcılarınızın birincil e-posta adresini](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) yeni eklediğiniz yeni özel etki alanıyla değiştirin.</span><span class="sxs-lookup"><span data-stu-id="547d0-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>
+2. <span data-ttu-id="7ec32-106">[Kullanıcılarınızın birincil e-posta adresini](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) yeni eklediğiniz yeni özel etki alanıyla değiştirin.</span><span class="sxs-lookup"><span data-stu-id="7ec32-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>

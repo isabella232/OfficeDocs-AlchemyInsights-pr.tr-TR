@@ -1,5 +1,5 @@
 ---
-title: Dış kullanıcılarla paylaşma çalışmıyor
+title: Harici kullanıcılarla paylaşmak çalışmıyor
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
 ms.openlocfilehash: d4c8fc75ff8db2319b88a20bea9b3ee661f2e36e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36502251"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a><span data-ttu-id="2e0ea-102">SharePoint içerik dış kullanıcılarla paylaşma sorunlarını düzeltme</span><span class="sxs-lookup"><span data-stu-id="2e0ea-102">Fix problems sharing SharePoint content with external users</span></span>
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a><span data-ttu-id="f4150-102">SharePoint içeriğini dış kullanıcılarla paylaşan sorunları giderme</span><span class="sxs-lookup"><span data-stu-id="f4150-102">Fix problems sharing SharePoint content with external users</span></span>
 
-<span data-ttu-id="2e0ea-103">Dış paylaşımı, kuruluşunuz için açık olduğundan emin olun:</span><span class="sxs-lookup"><span data-stu-id="2e0ea-103">Make sure external sharing is turned on for your organization:</span></span>
+<span data-ttu-id="f4150-103">Kuruluşunuz için dış paylaşımın açık olduğundan emin olun:</span><span class="sxs-lookup"><span data-stu-id="f4150-103">Make sure external sharing is turned on for your organization:</span></span>
   
-1. <span data-ttu-id="2e0ea-104">Git [Hizmetleri &amp; eklentileri Microsoft 365 Yönetim Merkezi sayfasında](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)ve **Siteler**düğmesini tıklatın.</span><span class="sxs-lookup"><span data-stu-id="2e0ea-104">Go to the [Services &amp; add-ins page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), and click **Sites**.</span></span>
+1. <span data-ttu-id="f4150-104">[Microsoft 365 &amp; yönetici merkezindeki Hizmetler eklentileri sayfasına](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)gidin ve **Siteler'i**tıklatın.</span><span class="sxs-lookup"><span data-stu-id="f4150-104">Go to the [Services &amp; add-ins page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), and click **Sites**.</span></span>
     
-2. <span data-ttu-id="2e0ea-105">"Aç." ayarı açık olduğundan emin olun</span><span class="sxs-lookup"><span data-stu-id="2e0ea-105">Make sure the setting is turned to "On."</span></span> <span data-ttu-id="2e0ea-106">"Varolan yalnızca dış kullanıcılar" seçilirse, harici kullanıcı Microsoft 365 Yönetim Merkezi'nde listelenen olduğundan emin olun.</span><span class="sxs-lookup"><span data-stu-id="2e0ea-106">If "Only existing external users" is selected, make sure the external user is listed in the Microsoft 365 admin center.</span></span>
+2. <span data-ttu-id="f4150-105">Ayarın "Açık" olarak döndürüldiğinden emin olun.</span><span class="sxs-lookup"><span data-stu-id="f4150-105">Make sure the setting is turned to "On."</span></span> <span data-ttu-id="f4150-106">"Yalnızca varolan harici kullanıcılar" seçilirse, dış kullanıcının Microsoft 365 yönetici merkezinde listelenmiş olduğundan emin olun.</span><span class="sxs-lookup"><span data-stu-id="f4150-106">If "Only existing external users" is selected, make sure the external user is listed in the Microsoft 365 admin center.</span></span>
     
-<span data-ttu-id="2e0ea-107">Site için dış paylaşımı açık olduğundan emin olun.</span><span class="sxs-lookup"><span data-stu-id="2e0ea-107">Make sure external sharing it turned on for the site.</span></span> <span data-ttu-id="2e0ea-108">Klasik site koleksiyonu için:</span><span class="sxs-lookup"><span data-stu-id="2e0ea-108">For a classic site collection:</span></span>
+<span data-ttu-id="f4150-107">Site için dış paylaşımın açık olduğundan emin olun.</span><span class="sxs-lookup"><span data-stu-id="f4150-107">Make sure external sharing it turned on for the site.</span></span> <span data-ttu-id="f4150-108">Klasik bir site koleksiyonu için:</span><span class="sxs-lookup"><span data-stu-id="f4150-108">For a classic site collection:</span></span>
   
-1. <span data-ttu-id="2e0ea-109">Sol bölmede, yeni SharePoint Yönetim Merkezi **sitesi**' ı tıklatın.</span><span class="sxs-lookup"><span data-stu-id="2e0ea-109">In the new SharePoint admin center, in the left pane, click **sites**.</span></span>
+1. <span data-ttu-id="f4150-109">Yeni SharePoint yönetici merkezinde, sol **bölmede, siteleri**tıklatın.</span><span class="sxs-lookup"><span data-stu-id="f4150-109">In the new SharePoint admin center, in the left pane, click **sites**.</span></span>
     
-2. <span data-ttu-id="2e0ea-110">Siteyi veya siteleri seçin ve Şerit üzerinde **Paylaşım**' ı tıklatın.</span><span class="sxs-lookup"><span data-stu-id="2e0ea-110">Select the site or sites, and on the ribbon, click **Sharing**.</span></span>
+2. <span data-ttu-id="f4150-110">Siteyi veya siteleri seçin ve şeritte **Paylaşım'ı**tıklatın.</span><span class="sxs-lookup"><span data-stu-id="f4150-110">Select the site or sites, and on the ribbon, click **Sharing**.</span></span>
     
-<span data-ttu-id="2e0ea-111">Bir Office 365 grubuna ait bir ekip sitesi veya bir iletişim sitesi için:</span><span class="sxs-lookup"><span data-stu-id="2e0ea-111">For a team site that belongs to an Office 365 group, or a communication site:</span></span>
+<span data-ttu-id="f4150-111">Office 365 grubuna veya bir iletişim sitesine ait bir ekip sitesi için:</span><span class="sxs-lookup"><span data-stu-id="f4150-111">For a team site that belongs to an Office 365 group, or a communication site:</span></span>
   
-- <span data-ttu-id="2e0ea-112">Kuruluş çapında ayar oturum gerektirmeyen bağlantılar kullanarak dosya paylaşımı izin vermediği sürece bu yeni site türleri aynı paylaşım kuruluş çapında ayarınız olarak ayarına sahiptir.</span><span class="sxs-lookup"><span data-stu-id="2e0ea-112">These new site types have the same sharing setting as your organization-wide setting, unless the organization-wide setting allows sharing files using links that don't require sign-in.</span></span> <span data-ttu-id="2e0ea-113">Bu durumda, siteler oturum yeni ve varolan dış kullanıcılar ile paylaşılmasına izin verecek.</span><span class="sxs-lookup"><span data-stu-id="2e0ea-113">In this case, the sites allow sharing with new and existing external users who sign in.</span></span> <span data-ttu-id="2e0ea-114">Belirli sitelerin ayarını değiştirmek için yeni SharePoint Yönetim Merkezi veya PowerShell kullanın.</span><span class="sxs-lookup"><span data-stu-id="2e0ea-114">To change the setting for specific sites, use the new SharePoint admin center or PowerShell.</span></span> <span data-ttu-id="2e0ea-115">[Daha fazla bilgi edinin](https://go.microsoft.com/fwlink/?linkid=871863).</span><span class="sxs-lookup"><span data-stu-id="2e0ea-115">[Learn more](https://go.microsoft.com/fwlink/?linkid=871863).</span></span>
+- <span data-ttu-id="f4150-112">Kuruluş genelinde ayar oturum açma gerektirmeyen bağlantıları kullanarak dosyaların paylaşılmasına izin vermese, bu yeni site türleri kuruluş genelindeki ayarınızla aynı paylaşım ayarına sahiptir.</span><span class="sxs-lookup"><span data-stu-id="f4150-112">These new site types have the same sharing setting as your organization-wide setting, unless the organization-wide setting allows sharing files using links that don't require sign-in.</span></span> <span data-ttu-id="f4150-113">Bu durumda, siteler oturum kuran yeni ve varolan harici kullanıcılarla paylaşıma izin verir.</span><span class="sxs-lookup"><span data-stu-id="f4150-113">In this case, the sites allow sharing with new and existing external users who sign in.</span></span> <span data-ttu-id="f4150-114">Belirli sitelerin ayarını değiştirmek için yeni SharePoint yönetici merkezini veya PowerShell'i kullanın.</span><span class="sxs-lookup"><span data-stu-id="f4150-114">To change the setting for specific sites, use the new SharePoint admin center or PowerShell.</span></span> <span data-ttu-id="f4150-115">[Daha fazla bilgi edinin](https://go.microsoft.com/fwlink/?linkid=871863).</span><span class="sxs-lookup"><span data-stu-id="f4150-115">[Learn more](https://go.microsoft.com/fwlink/?linkid=871863).</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="2e0ea-116">Dış paylaşım ayarı herhangi bir site için kuruluş çapında ayarından daha fazla olmayacak izin veren ancak kuruluş çapında ayarınızı daha kısıtlayıcı olabilir.</span><span class="sxs-lookup"><span data-stu-id="2e0ea-116">The external sharing setting for any site can be more restrictive than your organization-wide setting, but not more permissive than the organization-wide setting.</span></span> 
+> <span data-ttu-id="f4150-116">Herhangi bir sitenin dış paylaşım ayarı kuruluş çapındaki ayarınızdan daha kısıtlayıcı olabilir, ancak kuruluş genelindeki ayarından daha izin verilebilir.</span><span class="sxs-lookup"><span data-stu-id="f4150-116">The external sharing setting for any site can be more restrictive than your organization-wide setting, but not more permissive than the organization-wide setting.</span></span> 
   
 
