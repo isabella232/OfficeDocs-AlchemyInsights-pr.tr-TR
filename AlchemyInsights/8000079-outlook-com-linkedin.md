@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
 ms.openlocfilehash: 136b349c374518e2b130184f2dc64d1bf9a7f7b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36494367"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="a916a-102">LinkedIn olduğu yolunda yalan beyanda Önemsiz e-posta ile ilgili sorunlar</span><span class="sxs-lookup"><span data-stu-id="a916a-102">Issues with Junk email claiming to be from LinkedIn</span></span>
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="63c24-102">LinkedIn'den olduğunu iddia eden Önemsiz e-posta ile ilgili sorunlar</span><span class="sxs-lookup"><span data-stu-id="63c24-102">Issues with Junk email claiming to be from LinkedIn</span></span>
 
-<span data-ttu-id="a916a-103">LinkedIn iddia, önemsiz e-posta teslim alma, bu e-postaları süzmek için bir kural oluşturabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="a916a-103">If you're receiving junk email which claims to be from LinkedIn, you can create a rule to filter those emails.</span></span>
-<span data-ttu-id="a916a-104">[Outlook.com gelen kutusu kuralları kullanmak](https://aka.ms/OutlookComInboxRules) daha fazla bilgi için bkz.</span><span class="sxs-lookup"><span data-stu-id="a916a-104">See [Use inbox rules in Outlook.com](https://aka.ms/OutlookComInboxRules) for more information.</span></span>
+<span data-ttu-id="63c24-103">LinkedIn'den olduğunu iddia eden önemsiz e-postalar alıyorsanız, bu e-postaları filtrelemek için bir kural oluşturabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="63c24-103">If you're receiving junk email which claims to be from LinkedIn, you can create a rule to filter those emails.</span></span>
+<span data-ttu-id="63c24-104">Bkz. Daha fazla bilgi için Outlook.com gelen [kutusu kurallarını kullan.](https://aka.ms/OutlookComInboxRules)</span><span class="sxs-lookup"><span data-stu-id="63c24-104">See [Use inbox rules in Outlook.com](https://aka.ms/OutlookComInboxRules) for more information.</span></span>
 
 
