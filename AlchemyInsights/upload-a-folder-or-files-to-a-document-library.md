@@ -1,5 +1,5 @@
 ---
-title: Bir klasör veya dosyaları belge kitaplığına karşıya yükle
+title: Belge kitaplığına klasör veya dosya yükleme
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 8f97f905f2db71cff299ee27d78138f254ed32f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36532639"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Bir klasör veya dosyaları bir SharePoint belge kitaplığına yüklemek
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>SharePoint belge kitaplığına klasör veya dosya yükleme
 
-Bir klasöre yüklemek için Microsoft Edge, Google Chrome veya Mozilla FireFox kullanmanız gerekir. Klasik Kütüphane deneyimi veya Internet Explorer 10 veya 11 kullanarak klasörleri karşıya yükleyemez.
+Bir klasör yüklemek için Microsoft Edge, Google Chrome veya Mozilla FireFox'u kullanmanız gerekir. Klasik kitaplık deneyiminde klasör yükleyemezsiniz veya Internet Explorer 10 veya 11'i kullanarak klasör yükleyemezsiniz.
   
-1. Bir klasör veya dosyaları karşıya yüklemek istediğiniz belge kitaplığını açın.
+1. Klasör veya dosya yüklemek istediğiniz belge kitaplığını açın.
     
-2. Bilgisayarınıza ve karşıya yüklemek istediğiniz dosya ya da klasöre Gözat dosya Explorer'ı açın.
+2. Bilgisayarınızda Dosya Gezgini'ni açın ve yüklemek istediğiniz klasöre veya dosyalara göz atın.
     
-3. Klasör veya dosyaları belge kitaplığına sürükleyin. Karşıya yüklediğiniz öğeleri görmüyorsanız, kitaplıkta görüntülenmiyorsa, sayfayı yenileyin. 
+3. Klasörü veya dosyaları belge kitaplığına sürükleyin. Yüklediğiniz öğelerin kitaplıkta göründüğünü görmüyorsanız, sayfayı yenileyin. 
     
-Pencereler arasında öğeleri sürükleyerek yüklemek istemiyorsanız, ayrıca **Karşıya Yükle** düğmesini belge kitaplığında klasör veya karşıya yüklemek istediğiniz dosyaları seçmek için kullanabilirsiniz. 
+Öğeleri pencereler arasında sürükleyerek yüklemek istemiyorsanız, yüklemek istediğiniz klasörü veya dosyaları seçmek için belge kitaplığındaki **Yükle** düğmesini de kullanabilirsiniz. 
   
 

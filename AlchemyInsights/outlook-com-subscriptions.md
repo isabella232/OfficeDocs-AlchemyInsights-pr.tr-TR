@@ -1,5 +1,5 @@
 ---
-title: 9000215 Outlook.com abonelikleri
+title: 9000215 Outlook.com Abonelikleri
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
 ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511831"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Abonelikleri ve aboneliği
+# <a name="subscriptions-and-unsubscribing"></a>Abonelikler ve aboneliğin kaldırılma
 
-Haber bültenleri veya promosyon almayı durdurmak istiyorsanız, Outlook.com Aboneliği Kaldır iki yolu vardır:
+Haber bültenleri veya promosyonlar almayı durdurmak istiyorsanız, Outlook.com aboneliğinizi iptal etmenin iki yolu vardır:
 
-1. Bülten veya promosyon e-posta Gelen Kutusu'nda seçin. Okuma bölmesinin en üstünde **Aboneliği Kaldır**' ı seçin.
-2. [Outlook.com abonelik ayarlarını](https://outlook.live.com/mail/options/mail/brandsSubscriptions) açın (**ayarları** > **tüm Outlook ayarları görüntülemek** > **e-posta** > **abonelikleri**) ve **Aboneliği Kaldır**' ı seçin.
+1. Gelen kutunuzda bir bülten veya promosyon e-postası seçin. Okuma bölmesinin üst kısmında **Aboneliği Kaldır'ı**seçin.
+2. Outlook.com [abonelik ayarlarınızı](https://outlook.live.com/mail/options/mail/brandsSubscriptions) açın (**Ayarlar** > **Tüm Outlook ayarlarını** > **görüntüleyin E-posta** > **Abonelikleri)** ve **Aboneliği Kaldır'ı**seçin.
 
 Notlar:
 
-- Tüm müşteriler, şu anda bu özelliğinden yararlanabilirsiniz.
-- Şirketten abone e-posta gönderme e-posta aldıysanız, bu özellik yalnızca göreceksiniz.
+- Şu anda tüm müşteriler bu özellikten yararlanamaz.
+- Bu özelliği yalnızca şirketten abone e-posta gönderen bir e-posta aldıysanız görürsünüz.

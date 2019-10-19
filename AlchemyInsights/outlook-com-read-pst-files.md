@@ -14,14 +14,14 @@ ms.custom:
 - "1771"
 - "9000199"
 ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36535627"
 ---
-# <a name="pst-data-files-in-outlookcom"></a>Outlook.com PST veri dosyalarında
+# <a name="pst-data-files-in-outlookcom"></a>Outlook.com'daki PST veri dosyaları
 
-Bir Outlook almak mümkün değildir. Outlook.com hesabınızı bir tarayıcı kullanarak veri dosyasına PST.
+Outlook'u almak mümkün değildir. PST veri dosyası tarayıcı kullanarak Outlook.com hesabınıza.
 
-Almak için bir. PST veri dosyası, Outlook masaüstü uygulaması kullanmanız gerekir. Daha fazlasını öğrenmek için [e-posta, kişiler ve Takvim bir Outlook .pst dosyasından alın.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+Bir . PST veri dosyası, Outlook masaüstü uygulamasını kullanmanız gerekir. Daha fazla bilgi edinmek için [Outlook .pst adresinden e-posta, kişi ve takvim alma'yı okuyun.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)

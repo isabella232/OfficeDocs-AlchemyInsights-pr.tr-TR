@@ -1,5 +1,5 @@
 ---
-title: Outlook web hesabı üzerinde korsan saldırısı
+title: Web hesabında Outlook kesmek
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 72dada23e9d69ae1ad55d427766e8cb51b700fa2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511219"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a>Outlook web hesabı üzerinde korsan saldırısı
+# <a name="outlook-on-the-web-account-hacked"></a>Web hesabında Outlook kesmek
 
-Hesabınızı korsan saldırısı, [güvenli ve şüpheli bir e-posta işlevi geri yüklemek nasıl tehlikeye Office 365 hesabı ve posta kutusu'ndaki](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox)yönergeleri izleyin.
+Hesabınız ele geçirildiyse, [e-posta işlevini niçin güvenli hale getirin ve geri yükleyin, şüpheli bir Office 365 hesabı ve posta kutusuna](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox)gönderin.
 
-Hesabınızı tehlikeye düşmesi önlemek için gerçekleştirebileceğiniz ek adımlar hakkında daha fazla bilgi için [Office 365'te tehlikeye bir e-posta hesabı yanıtlama](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)konusuna bakın.
+Hesabınızın gizliliğinin ihlal edilebilenolmasını önlemek için atabileceğiniz ek adımlar hakkında daha fazla bilgi edinmek [için](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)bkz.

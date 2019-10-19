@@ -1,5 +1,5 @@
 ---
-title: Koşullu erişim ile Intune
+title: Intune ile Koşullu Erişim
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505014"
 ---
-# <a name="conditional-access-with-intune"></a>Koşullu erişim ile Intune
+# <a name="conditional-access-with-intune"></a>Intune ile Koşullu Erişim
 
-**Koşullu erişim** kullanarak Intune ile 3 adımları gerektirir: 
+**Koşullu Erişimi** Intune ile kullanmak 3 adım gerektirir: 
   
-- Hangi kaynaklar korunur ve bu kaynaklara erişmek için karşılanması gereken koşulları gerekenleri tanımlayan bir **Koşullu erişim ilkesi** oluşturun. Örneğin, bir aygıtın şirket e-posta erişmeden önce uyumlu olmalıdır. 
+- Hangi kaynakların korunduğunu ve bu kaynaklara erişmek için hangi koşulların karşılanması gerektiğini tanımlayan **koşullu erişim ilkesi** oluşturun. Örneğin, bir aygıtın şirket e-postasına erişmeden önce uyumlu olması gerekir. 
     
-- Aygıt uyumlu olarak kabul edilmeden önce karşılanması gereken ayarları tanımlamak için bir **Uyumluluk İlkesi** oluşturun. Örneğin, bir aygıt uyumlu kabul edilmeden önce en az 6 basamaklı bir PIN olması gerekir. 
+- Aygıt uyumlu kabul edilmeden önce karşılanması gereken ayarları tanımlamak için bir **Uyumluluk İlkesi** oluşturun. Örneğin, bir aygıtın uyumlu kabul edilmeden önce en az 6 basamaklı bir iğneye sahip olması gerekir. 
     
-- **Uygunluk ilkeleri** hem de **Koşullu erişim ilkeleri** istenen kullanıcı grupları için hedeflenmiş sağlama. Bu, belirli kullanıcı gruplarına Azure Active Directory'de oluşturma gerektirebilir. 
+- Hem **Uyumluluk İlkeleri'nin** hem de **Koşullu Erişim İlkelerinin** istenilen kullanıcı gruplarına hedef olmasını sağlamak. Bu, Azure Etkin Dizini'nde belirli kullanıcı grupları oluşturulmasını gerektirebilir. 
     
-Daha fazla bilgi edinin:
+Devamını oku:
   
-- [Koşullu erişim en iyi yöntemler](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Koşullu Erişim en iyi uygulamalar](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Koşullu erişim ile Başlarken](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Koşullu Erişim ile başlarken](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

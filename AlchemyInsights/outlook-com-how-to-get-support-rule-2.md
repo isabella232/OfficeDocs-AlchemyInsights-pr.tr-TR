@@ -1,5 +1,5 @@
 ---
-title: Outlook.com destek almak nasıl
+title: Outlook.com Nasıl destek alabilirim
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ ms.custom:
 - "1326"
 - "8000080"
 ms.openlocfilehash: 9e77e1bb55477ec1279bd9e0cae5a2f4875afac7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36536503"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a>Outlook.com içinde destek almak nasıl
+# <a name="how-to-get-support-in-outlookcom"></a>Outlook.com nasıl destek alabilirsiniz?
 
-Üzgünüz, Outlook.com telefon desteği sağlamaz, ancak yardımcı olacak adanmış takımlar sahibiz.
-Sorunuzu girin veya **Yardım** yukarıdaki kutuda, sorunu tanımlamak ve **Yardım almak**seçin.
+Üzgünüz, Outlook.com telefon desteği sunmuyor, ancak size yardımcı olabilecek özel ekiplerimiz var.
+Sorunuza girin veya sorununuzu yukarıdaki **Yardım** kutusuna açın ve ardından **Yardım Al'ı**seçin.
 
-[Outlook.com ile ilgili Yardım alma](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Outlook.com ile ilgili yardım alın](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

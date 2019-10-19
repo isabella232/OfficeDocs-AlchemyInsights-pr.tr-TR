@@ -1,5 +1,5 @@
 ---
-title: 'Yammer - Office 365 gruplarını yönetme '
+title: 'Yammer - Office 365 Gruplarını Yönet '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.custom:
 - "995"
 - "6000003"
 ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530983"
 ---
-# <a name="manage-office-365-groups-in-yammer"></a>Yammer'da Office 365 gruplarını yönetme
+# <a name="manage-office-365-groups-in-yammer"></a>Yammer'daki Office 365 gruplarını yönetme
 
-Burada, Office 365 Grup Yammer'da en yaygın sorunları soruların yanıtları bulunmaktadır.
+Aşağıda, Yammer'daki Office 365 gruplarıyla ilgili en sık karşılaşılan sorunlara bazı yanıtlar verebisi verebvardır.
 
-* **Office 365 grupları** , Grup üyeleri burada işbirliği yapabilirsiniz e-posta, konuşmalar, dosyaları ve olaylar için paylaşılan çalışma alanı değildir. Yammer ile Office 365 grupları üzerine Yammer Grup bağlı olmayan birçok avantajı vardır. Örneğin, oluşturabileceğiniz ve ana Canlı olayları, silinen gruplarını geri yüklemek, dinamik grup üyeliği kullanın, Otomatik Arşiv ve Sharepoint, OneNote ve planlayıcısı gibi paylaşılan kaynaklara erişmek.
+* **Office 365 Grupları,** grup üyelerinin işbirliği yapabilecekleri e-postalar, konuşmalar, dosyalar ve etkinlikler için paylaşılan bir çalışma alanıdır. Yammer ile Office 365 gruplarının bağlı olmayan Yammer gruplarına göre birçok avantajı vardır. Örneğin, canlı etkinlikler oluşturabilir ve barındırabilir, silinen grupları geri yükleyebilir, dinamik grup üyeliği, otomatik arşiv ve Sharepoint, OneNote ve Planlayıcı gibi paylaşılan kaynaklara erişebilirsiniz.
 
-* **Office 365 kaynakları** bölümünde (Sharepoint, OneNote, Ajanda) sağdaki Gezinti Grup gördüğünüzde Yammer Grup Office 365 grupları ile bağlı olup olmadığını anlayabilirsiniz. Kaynaklar kullanılabilir değilse aşağıdakileri denetleyin.
+* Bir Yammer grubunun Office **365 gruplarıyla** bağlı olup olmadığını grubun doğru navigasyonunda Office 365 Kaynakları bölümünü (Sharepoint, OneNote, Planlayıcı) gördüğünüzde anlayabilirsiniz. Kaynaklar kullanılamıyorsa, aşağıdakileri denetleyin.
 
-  1. Yammer ağ 1 Kiracı: 1 ağ yapılandırmasında olmalıdır. 1:1 yapılandırmasında olduğunu doğrulamak için [geçiş ağ - Yammer birden çok ağ birleştirmek](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)içinde açıklandığı gibi **Ağ geçiş aracı** ' nı kullanın.
+  1. Yammer ağı 1 kiracı:1 ağ yapılandırmasında olmalıdır. 1:1 yapılandırmasında olduğunuzu doğrulamak için Ağ geçişinde açıklandığı gibi **Ağ Geçişi aracını** kullanın - Birden çok [Yammer ağını birleştirin.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
 
-  2. **Ağ Yöneticisi, güvenlik ayarı**için Gözat ve **Office 365 kimlik** Yammer kullanıcılar için zorlanır emin olun.
+  2. **Ağ Yöneticisi, Güvenlik Ayarı'na**göz atın ve **Office 365 Kimliğinin** Yammer kullanıcıları için uygulandığından emin olun.
 
-Lütfen Office 365 grupları ve Yammer hakkında daha fazla bilgi için bkz: [Yammer ve office 365 grupları](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). Bir grup yönetme hakkında daha fazla bilgi için bkz: [Grup Yammer'da yönetme](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+Office 365 grupları ve Yammer hakkında daha fazla bilgi için lütfen [Yammer ve Office 365 Grupları'na](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869)bakın. Bir grubu yönetme hakkında bilgi için [bkz.](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

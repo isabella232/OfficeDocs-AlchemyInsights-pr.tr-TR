@@ -12,19 +12,19 @@ ms.custom:
 - "1400"
 - "8000089"
 ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36535375"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Dur iletileri gelen önemsiz e-posta klasörünüze gitme
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>İletilerin Önemsiz E-posta klasörünüze girmesini engelleme
 
-Önemsiz e-posta klasörünüze Outlook.com sonlandırmak için belirli kişi veya etki alanından gelen iletileri zaman istemediğiniz zamanlar vardır. Adresler veya Güvenli Gönderenler Listesi'ndeki etki alanlarından gelen iletiler, önemsiz e-posta klasörünüze taşınır olmayacaktır.
+Belirli bir kişiden veya etki alanından gelen iletilerin Outlook.com'da Önemsiz E-posta klasörünüze ekolmasını istemediğiniz zamanlar vardır. Güvenli gönderenler listesindeki adreslerden veya etki alanlarından gelen iletiler Önemsiz E-posta klasörünüze taşınmaz.
 
-1. [Güvenli Gönderenler ayarlarını](https://go.microsoft.com/fwlink/?linkid=2035804)açın.
-2. **Güvenli Gönderenler ve etki alanları**altında e-posta adresi veya etki alanı eklemek istediğiniz girin ve **Ekle**' yi seçin.
-3. Bir posta listesine eklemek için Güvenli Gönderenler için **Güvenli posta listeleri** altındaki posta listesine girin ve **Ekle**' yi seçin.
+1. Güvenli [Gönderenler ayarlarınızı](https://go.microsoft.com/fwlink/?linkid=2035804)açın.
+2. **Güvenli gönderenler ve etki alanları**altında, eklemek istediğiniz e-posta adresini veya etki alanını girin ve **Ekle'yi**seçin.
+3. Güvenli gönderenlerinize bir posta listesi eklemek için, **Güvenli posta listelerinin** altındaki posta listesini girin ve **Ekle'yi**seçin.
 4. **Kaydet** 'i seçin.
 
-Ayrıntılı bilgi için [blok veya Outlook.com gönderenlerden engelini](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+[Outlook.com'daki Gönderenleri Engelle veya engelini kaldır' da](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)daha fazla bilgi edinin.

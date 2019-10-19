@@ -1,5 +1,5 @@
 ---
-title: Dağıtım grubu {AimKIObject} {AimKITimeElapsed} dakika sonra grupları listesinde gösteren değil
+title: Dağıtım Grubu '{AimKIObject}' ({AimKITimeElaps} dakikasonra Gruplar listesinde görünmüyor)
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
 ms.openlocfilehash: af6f3e2040ebf2966f7bf7c4ffe796fa31106ecf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530515"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Dağıtım grupları listesinde {AimKITimeElapsed} dakika sonra gösteren değil grubu "{AimKIObject}"
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Dağıtım Grubu "{AimKIObject}" Gruplar listesinde {AimKITimeElapsed} dakika sonra görünmüyor
 
-Grubunuzun "{AimKIObject}" {AimKITimeElapsed} dakika önce oluşturuldu. Normalde Admin ortasında görünür, yeni dağıtım grubu için 60 dakikadan fazla zaman almaz.
+Grubunuz "{AimKIObject}" birkaç dakika önce {AimKITimeElapsed} oluşturuldu. Normalde yeni dağıtım grubunuzun Yönetici merkezinde görünmesi 60 dakikadan uzun sürmez.
   
-Alıcılar > gruplar özelliği [Exchange Yönetim Merkezi](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) şimdi grubunuzu yönetmek için kullanabilirsiniz veya bir destek mühendisine konuşmak için "siz bizi arayın" seçeneğini kullanın. 
+[Exchange Yönetici Merkezi'ndeki](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) Alıcılar > Grupları özelliğini grubunuzu yönetmek için kullanabilir veya bir destek mühendisiyle konuşmak için "Sizi arayalım" seçeneğini kullanabilirsiniz. 
   
 

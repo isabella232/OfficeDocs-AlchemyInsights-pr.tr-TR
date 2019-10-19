@@ -1,5 +1,5 @@
 ---
-title: SharePoint sitesini Sil
+title: SharePoint sitesini silme
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36514090"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Bir Office 365 grubuna ait siteler silme
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Office 365 grubuna ait siteleri silme
 
-Kullanıcılar, SharePoint evden yeni bir ekip sitesi oluşturduğunuzda ya da yeni SharePoint Yönetim Merkezi'nden yeni bir ekip sitesi oluşturmak bir karşılık gelen Office 365 grubu otomatik olarak oluşturulur. Teams Microsoft Office 365 grup veya bir takım oluşturduğunuzda office 365 Grup bağlı ekip siteleri de oluşturulur. Bir Office 365 grubuna ait bir SharePoint sitesini silmek için Office 365 Grup silmeniz gerekir. 
+Kullanıcılar SharePoint Home'dan yeni bir ekip sitesi oluşturduğunda veya yeni SharePoint yönetici merkezinden yeni bir ekip sitesi oluşturduğunuzda, ilgili Office 365 grubu otomatik olarak oluşturulur. Office 365 grubuna bağlı ekip siteleri, Microsoft Teams'te bir Office 365 grubu veya bir ekip oluşturduğunuzda da oluşturulur. Office 365 grubuna ait bir SharePoint sitesini silmek için Office 365 grubunun kendisini silmeniz gerekir. 
   
-1. [Grupları Microsoft 365 Yönetim Merkezi sayfasının](https://portal.office.com/adminportal/home#/groups)gidin.
+1. [Microsoft 365 yönetici merkezinin Gruplar sayfasına](https://portal.office.com/adminportal/home#/groups)gidin.
     
 2. Grubun yanındaki onay kutusunu seçin.
     
-3. **Sil**' i seçin.
+3. **Sil'i**seçin.
     
-Not: bir grubu sildiğinizde, olabilir bir gecikme site SharePoint'ten kaldırılmadan önce.
+NOT: Bir grubu sildiğinizde, site SharePoint'ten kaldırılmadan önce bir gecikme olabilir.
   
-**Klasik veya iletişim siteleri silin:**
+**İletişim sitelerini veya klasik siteleri silin:**
 
-1. Sitesine gidin.
+1. Siteye git.
   
-2. Sağ üst **ayarları** simgesini tıklatın. 
+2. Sağ üstteki **Ayarlar** simgesine tıklayın. 
   
-3. **Site ayarları**' nı tıklatın. **Site bilgileri** veya **Site eylemleri**altında **Bu siteyi sil**' i tıklatın ve sonra **Sil**' i tıklatın.
+3. **Site ayarlarını**tıklatın. **Site Bilgileri** veya **Site Eylemleri**altında, bu **siteyi sil'i**tıklatın ve sonra **Sil'i**tıklatın.
   
-**SharePoint site koleksiyonunu silin:**
+**SharePoint site koleksiyonunu silme:**
 
 Bir siteyi silmek için:
   
-1. Yeni SharePoint Yönetim Merkezi, Siteler sayfasında, silmek istediğiniz sitenin yanındaki **onay kutusunu** tıklatın. 
+1. Yeni SharePoint yönetici merkezinde, Siteler sayfasında, silmek istediğiniz sitenin yanındaki **onay kutusunu** tıklatın. 
     
-2. Şerit araç çubuğunda tıklatın **silin.**
+2. Şerit araç çubuğunda **Sil'i tıklatın.**
     
-**Bir sitenin yanlışlıkla silinmiş?**
+**Bir siteyi kazara mı sildin?**
 
-[Silinmiş bir site koleksiyonunu geri](https://go.microsoft.com/fwlink/?linkid=867660)bakın.
+Bkz. [Silinen site koleksiyonunu geri yükle.](https://go.microsoft.com/fwlink/?linkid=867660)
   
 

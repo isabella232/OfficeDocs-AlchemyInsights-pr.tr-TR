@@ -1,5 +1,5 @@
 ---
-title: Outlook.com için Gmail hesabı ekleme
+title: Outlook.com Gmail hesabı ekleme
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,22 +12,22 @@ ms.custom:
 - "1820"
 - "9000236"
 ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538148"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>Outlook.com için Gmail hesabınıza ekleme
+# <a name="add-your-gmail-account-to-outlookcom"></a>Gmail hesabınızı Outlook.com ekleyin
 
-1. [Eşitleme e-posta ayarlarını](https://go.microsoft.com/fwlink/?linkid=875264)açın.
-2. **Bağlı hesaplar**altında **Gmail**seçin.
-3. (Sizden bir e-posta iletisi aldığınızda, adı alıcılar göreceksiniz) bir görünen ad girin.
-4. Outlook.com e-posta adresiniz Gmail ve alınan e-posta depolanacağı almalısınız yoksa seçin.
-5. Sign-in Google sayfasına gitmek için **Tamam** ' ı seçin.
+1. [Eşitle E-posta ayarlarınızı](https://go.microsoft.com/fwlink/?linkid=875264)açın.
+2. **Bağlı hesaplar**altında **Gmail'i**seçin.
+3. Bir görüntü adı girin (alıcılar sizden bir e-posta iletisi aldıklarında ad görürler).
+4. Outlook.com e-postanızı Gmail'den içeri mi alacaklarını ve içe aktarılan e-postaların nerede depolanacağını seçin.
+5. Google oturum açma sayfasına gitmek için **Tamam'ı** seçin.
 
-Bağlı bir hesaptan Outlook.com hesabınızı eşitleme yalnızca tek yönlüdür. Outlook.com kullanılarak Gmail hesabınıza gönderilen e-posta Gönderilmiş Öğeler'de Gmail görünmez.
+Bağlı bir hesaptan Outlook.com hesabınıza eşitleme yalnızca tek yönlüdür. gmail hesabınızdan Outlook.com kullanarak gönderilen e-postalar Gmail'deki Gönderilmiş Öğeler'de görünmez.
 
-Outlook.com içinde bağlı Gmail hesabınızdan e-posta gönderebilirsiniz. E-posta oluştururken **seçin** ve, Gmail adresi veya [Varsayılan adresinden güncelleştir](https://go.microsoft.com/fwlink/?linkid=875264)' i seçin.
+Bağlı Gmail hesabınızdan Outlook.com e-posta gönderebilirsiniz. Bir e-posta oluştururken, **Gmail adresinizi seçin** ve seçin veya varsayılan Adresten gelen adresi [güncelleyin.](https://go.microsoft.com/fwlink/?linkid=875264)
 
-Daha fazla bilgi için bkz: [Ekle diğer e-posta hesaplarınız için Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Daha fazla bilgi için bkz: [diğer e-posta hesaplarınızı Outlook.com ekle.](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)

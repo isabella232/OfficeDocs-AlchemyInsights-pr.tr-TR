@@ -1,5 +1,5 @@
 ---
-title: Eşzamanlı kullanıcı hesaplarını yönetme
+title: Senkronize kullanıcı hesaplarını yönetme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
 ms.openlocfilehash: 822c50fda3c9af83232d57f08e039681718f178f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497175"
 ---
-# <a name="manage-synchronized-user-accounts"></a>Eşzamanlı kullanıcı hesaplarını yönetme
+# <a name="manage-synchronized-user-accounts"></a>Senkronize kullanıcı hesaplarını yönetme
 
-Genellikle, Microsoft 365 Yönetim Merkezi ekleyebilir ve kullanıcı hesaplarını değiştirmek için kullanın. Ancak, dizin eşitleme veya SSO etkinse, onu kullanamazsınız. Bunun yerine, [Office 365 PowerShell ile kullanıcı hesabı özelliklerini yapılandırma](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell )bölümünde açıklanan kullanıcılarınızın Windows PowerShell ile yönetin. 
+Genellikle, kullanıcı hesapları eklemek ve değiştirmek için Microsoft 365 yönetici merkezini kullanırsınız. Ancak, dizin sychronization veya SSO etkinse kullanamazsınız. Bunun yerine, [Kullanıcılarınızı Office 365 PowerShell ile kullanıcı hesabı özelliklerini Yapılandır'da](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell )açıklandığı şekilde Windows PowerShell ile yönetin. 
   
 

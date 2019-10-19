@@ -1,5 +1,5 @@
 ---
-title: Klasik SharePoint ekip sitesi bir gruba bağlanmak
+title: Klasik bir SharePoint takım sitesini bir gruba bağlama
 ms.author: kaarins
 author: kaarins
 ms.date: 6/29/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
 ms.openlocfilehash: 389880415621b7623c9f7ea9f43417eab878806a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504803"
 ---
-# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>Klasik SharePoint ekip siteleri yeni Office 365 gruplarına bağlanma
+# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>Klasik SharePoint ekip sitelerini yeni Office 365 gruplarına bağlama
 
-SharePoint site koleksiyonlarınızın Office 365 gruplarına bağlanmaya hazır olup olmadığını değerlendirmek için [SharePoint modernization tarayıcı aracı](https://go.microsoft.com/fwlink/?linkid=873066)' nı kullanın. Bu araç yardımıyla site modernization stratejinizi planlayın ve dikkat edilmesi gereken alanlar da dahil olmak üzere ayrıntılı bir rapor oluşturur.
+SharePoint site koleksiyonlarınızın Office 365 gruplarına bağlanmaya hazır olup olmadığını değerlendirmek için [SharePoint modernizasyon tarayıcı aracını](https://go.microsoft.com/fwlink/?linkid=873066)kullanın. Bu araç, sitenizin modernizasyon stratejisini planlamanıza yardımcı olabilir ve dikkat gerektiren alanlar da dahil olmak üzere ayrıntılı bir rapor oluşturur.
   
-Site koleksiyonu yöneticileri Klasik ekip siteleri biz ekleyerek yeni bir menü komutundan yeni gruba bağlanmak izin vermek istiyorsanız, hiçbir şey yapmanız gerekmez. Bu seçeneği devre dışı bırakmak istiyorsanız, varsayılan ayarı değiştirmek gerekir. [Nasıl yapıldığını öğrenin](https://go.microsoft.com/fwlink/?linkid=2004316). Not Bu genel ve SharePoint Yöneticiler Office 365'te her zaman siteleri yeni gruplar için PowerShell cmdlet veya API kullanarak bağlanabiliyor olacaktır.
+Site koleksiyonu yöneticilerinin eklediğimiz yeni bir menü komutundan klasik takım sitelerini yeni gruplara bağlamasına izin vermek istiyorsanız, hiçbir şey yapmanız gerekmez. Ancak, bu seçeneği devre dışı kalmak istiyorsanız, varsayılan ayarı değiştirmeniz gerekir. [Nasıl yapıldığını öğrenin](https://go.microsoft.com/fwlink/?linkid=2004316). Office 365'teki global ve SharePoint yöneticilerinin PowerShell cmdlet veya API'yi kullanarak siteleri her zaman yeni gruplara bağlayabildiğini unutmayın.
   
 

@@ -1,5 +1,5 @@
 ---
-title: ConsistencyGuid / sourceAnchor davranışı
+title: TutarlılıkGuid / sourceAnchor davranışı
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
 ms.openlocfilehash: f0ff94a8e46f1fb4e0ac8653c51f8f651e29498b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36517015"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid / sourceAnchor davranışı
+# <a name="consistencyguid--sourceanchor-behavior"></a>TutarlılıkGuid / sourceAnchor davranışı
 
-Azure AD Bağlan (sürüm 1.1.524.0 ve sonra) şimdi sourceAnchor özniteliği olarak msDS-ConsistencyGuid kullanımını kolaylaştırır. Bu özellik kullanılırken, Azure AD Bağlan eşitleme kuralları otomatik olarak yapılandırır:
+Azure AD Connect (sürüm 1.1.524.0 ve sonrası) artık kaynakÇapa özniteliği olarak msDS-ConsistencyGuid kullanımını kolaylaştırır. Azure AD Connect bu özelliği kullanırken eşitleme kurallarını otomatik olarak şu şekilde yapılandırır:
   
-- MsDS-ConsistencyGuid sourceAnchor özniteliği kullanıcı nesneleri için kullanır. ObjectGUID, diğer nesne türleri için kullanılır.
+- MsDS-ConsistencyGuid kullanıcı nesneleri için kaynakÇapa özniteliği olarak kullanın. ObjectGUID diğer nesne türleri için kullanılır.
     
-- Verilen herhangi için şirket içi AD kullanıcı nesnesi, msDS-ConsistencyGuid özniteliğini objectGUID değerini başa msDS-ConsistencyGuid özniteliği Active Directory'de şirket içi doldurulmuş, Azure AD Bağlan yazma değil. MsDS-ConsistencyGuid özniteliğini yerleştirildikten sonra Azure AD Bağlan sonra Azure AD için nesne dışa aktarır.
+- msDS-ConsistencyGuid özniteliği doldurulmayan herhangi bir şirket içi AD Kullanıcı nesnesi için Azure AD Connect objectGUID değerini yerinde Active Directory'deki msDS-ConsistencyGuid özniteliğine geri yazar. msDS-ConsistencyGuid özniteliği doldurulduktan sonra, Azure AD Connect nesneyi Azure AD'ye dışa dışa dışa dışa aktarmaz.
     
- **Not:** Bir kez bir şirket içi Reklam nesne (yani AD bağlayıcı alanına alınan ve Metaverse öngörülen) Azure AD Bağlan içine alınır, sourceAnchor değeri artık değiştirilemez. SourceAnchor değerini belirlemek için bir yerinde verilen AD nesne, Azure AD Bağlan alınmadan önce msDS-ConsistencyGuid özniteliği yapılandırın. 
+ **Not:** Şirket içi bir AD nesnesi Azure AD Connect'e alındıktan sonra (diğer bir deyişle, AD Bağlayıcı Sıtkı Alanına aktarıldıktan ve Metaverse'e yansıtıldıktan sonra), kaynağıAnchor değerini artık değiştiremezsiniz. Belirli bir şirket içi AD nesnesinin kaynak Çapa değerini belirtmek için, Azure AD Connect'e aktarılmadan önce msDS-ConsistencyGuid özniteliğini yapılandırın. 
   
-Şu şekilde SourceAnchor ve ConsistencyGuid hakkında daha fazla bilgi için bakın: [Azure AD Bağlan: tasarım kavramları](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+SourceAnchor ve ConsistencyGuid hakkında daha fazla bilgi için aşağıdakilere bakın: [Azure AD Connect: Tasarım kavramları](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

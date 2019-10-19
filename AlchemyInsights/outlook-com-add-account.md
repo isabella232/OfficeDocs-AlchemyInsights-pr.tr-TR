@@ -1,5 +1,5 @@
 ---
-title: 9000236 Outlook.com hesabı ekleme
+title: 9000236 Outlook.com hesap ekle
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,26 +12,26 @@ ms.custom:
 - "1819"
 - "9000236"
 ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538220"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Diğer e-posta hesaplarınız için Outlook.com Ekle
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Diğer e-posta hesaplarınızı Outlook.com ekleyin
 
-Diğer e-posta hesapları için Outlook.com eklediğinizde, Outlook.com Outlook.com ayrılmadan bu hesaplarından e-posta iletileri okumak ve göndermek için kullanabilirsiniz. Her hesap için Outlook.com eklemek bağlantılı bir hesap adı verilir.
+Outlook.com'a başka e-posta hesapları eklediğinizde, Outlook.com bırakmadan bu hesaplardan gelen e-posta iletilerini göndermek ve okumak için Outlook.com kullanabilirsiniz. Outlook.com eklediğiniz her hesaba bağlı hesap denir.
 
-Not: bağlı hesabınızdan Outlook.com hesabınızı eşitleme yalnızca tek yönlüdür. Outlook.com kullanılarak bağlı hesabınıza gönderilen e-posta, bağlantılı hesap Gönderilmiş Öğeler'de görünmez.
+Not: Bağlı hesabınızdan Outlook.com hesabınıza eşitleme yalnızca tek yönlüdür. bağlı hesabınızdan Outlook.com kullanarak gönderilen e-postalar, bağlı hesabınıza Gönderilen Öğeler'de görünmez.
 
-Bağlantılı bir hesap eklemek için:
+Bağlı bir hesap eklemek için:
 
-1. [Eşitleme e-posta ayarlarını](https://go.microsoft.com/fwlink/?linkid=875264)açın.
-2. **Bağlı hesaplar**altında **Gmail** veya **diğer e-posta hesabını**seçin.
-3. Kurulunca hesap sayfanıza bir görünen ad (sizden bir e-posta iletisi aldığınızda, adı alıcılar göreceksiniz) ve tam e-posta adresini girin ve Outlook.com hesabınızı bağlamak istediğiniz e-posta hesabının parolası.
+1. [Eşitle E-posta ayarlarınızı](https://go.microsoft.com/fwlink/?linkid=875264)açın.
+2. **Bağlı hesaplar**altında **Gmail** veya **Diğer e-posta hesaplarını**seçin.
+3. Hesap sayfanıza bağlanın, bir ekran adı (alıcılar sizden bir e-posta iletisi aldıklarında görecekleri ad) ve Outlook.com hesabınıza bağlanmak istediğiniz e-posta hesabının tam e-posta adresini ve parolasını girin.
 
-Outlook.com hesabınızı bağlı hesaptan e-posta gönderebilirsiniz. E-posta oluştururken **seçin** ve hangi kullanmak istediğiniz e-posta adresi veya [Varsayılan adresinden güncelleştir](https://go.microsoft.com/fwlink/?linkid=875264)' i seçin.
+Outlook.com hesabınıza bağlı olduğunuz herhangi bir hesaptan e-posta gönderebilirsiniz. Bir e-posta oluştururken, **Gönderen'i** seçin ve kullanmak istediğiniz e-posta adresini seçin veya varsayılan Adresten gelen adresi [güncelleyin.](https://go.microsoft.com/fwlink/?linkid=875264)
 
-Daha fazla bilgi için [Ekle, diğer e-posta hesaplarına Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)okuyun.
+Daha fazla bilgi için diğer [e-posta hesaplarınızı Outlook.com ekle'yi](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)okuyun.
 
-Aynı Outlook.com hesabını kullanan yeni bir e-posta adresi oluşturmak isterseniz, [Ekle veya Kaldır bir e-posta diğer adı'nı](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)okuyun.
+Aynı Outlook.com hesabı kullanan yeni bir e-posta adresi oluşturmak istiyorsanız, [ekle veya e-posta takma adını kaldırın' ı](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)okuyun.

@@ -1,5 +1,5 @@
 ---
-title: SharePoint takviminize Outlook eşitleme
+title: SharePoint Takviminizi Outlook ile senkronize etme
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,24 +13,24 @@ ms.custom:
 - "9000677"
 - "2586"
 ms.openlocfilehash: 18606337eac550d6b68d442f109f599810bb391e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507363"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>Takviminizi aygıtlara eşitleme sorunları
+# <a name="issues-synchronizing-your-calendar-to-devices"></a>Takviminizi cihazlarla eşitleme sorunları
 
-SharePoint takvimleri Office 365 Grup takvimlerini ile bazen yanıltıcı olmaktadır, Klasik liste türleridir.
+SharePoint Takvimleri, bazen Office 365 Grup Takvimleri ile karıştırılan klasik liste türleridir.
 
-Bir SharePoint Takvimi Outlook'a eşitlemek için lütfen şu adımları izleyin:
+SharePoint Takvimini Outlook ile senkronize etmek için lütfen aşağıdaki adımları izleyin:
 
-1. **Ayarları** dişli simgesini tıklatın ve **Site içeriği**' ni tıklatın.
-2. (Bir olaylar listesi türü olan) eşitlemek için istediğiniz takvimi açın.
-3. Klasik Şerit menüsünde, **Takvim'i**tıklatın, sonra **Outlook'a Bağlan**' ı tıklatın.
-4. Eşitleme onaylamanızı isteyen açılır penceresinde, **İzin Ver'i**tıklatın.
+1. **Ayarlar** dişli simgesini tıklatın ve ardından **Site İçerikleri'ni**tıklatın.
+2. Eşitlemek istediğiniz takvimi açın (bu bir Olaylar listesi türüdür).
+3. Klasik şerit menüsünde **Takvim'i**tıklatın, ardından **Outlook'a Bağlan'ı**tıklatın.
+4. Eşitlemeyi onaylamanızı isteyen açılır pencerede **İzin Ver'i**tıklatın.
 
 >[!Note]
-> Eşitlenen Outlook takviminde bir değişiklik yaptığınızda, SharePoint takvimi ve bunun tersi de görünür.
+> Eşitlenmiş Outlook takviminde bir değişiklik yaptığınızda, bu değişiklik SharePoint takviminde görünür ve bunun tersi de olur.
 
-Bu [makalede](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)Office 365 grupları hakkında daha fazla bilgi için bkz.
+Office 365 Grupları hakkında daha fazla bilgi için bu [makaleye](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)bakın.
