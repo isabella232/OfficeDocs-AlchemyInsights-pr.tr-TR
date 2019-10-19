@@ -1,5 +1,5 @@
 ---
-title: OneDrive için dosya karşıya yükleme sorunları düzeltme
+title: OneDrive'a dosya yükleme sorunlarını giderme
 ms.author: matteva
 author: pebaum
 ms.date: 5/18/2018
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
 ms.openlocfilehash: d06445cf609b70e83701699082c43203270a0962
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525189"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a>OneDrive için dosya karşıya yükleme sorunları düzeltme
+# <a name="fix-problems-uploading-files-to-onedrive"></a>OneDrive'a dosya yükleme sorunlarını giderme
 
-Bir dosyayı karşıya yüklemeyi olmaz, bunu deneyin:
+Bir dosya yüklenmiyorsa bunu deneyin:
   
-- Dosyayı yeniden adlandırın ve yeniden deneyin. Bazı dosya adları ve Dosya adlarındaki karakterleri izin verilmez. 
+- Dosyayı yeniden adlandırın ve yeniden deneyin. Dosya adlarında bazı dosya adlarına ve karakterlere izin verilmez. 
     
-- Dosya eşitlemişsinizdir ise, OneDrive klasörüne taşımak dışında (örneğin, taşımak masaüstünüze), ve ne zaman, OneDrive eşitleme durumunu "Güncel," görünür geri taşımak. 
+- Dosyayı eşitlüyorsanız, dosyayı OneDrive klasörünüzden (örneğin, Masaüstünüze taşıyın) ve OneDrive eşitleme durumunuz "Güncel" olarak göründüğünde, dosyayı geri taşıyın. 
     
-[Daha fazla sorun giderme ipuçları](https://go.microsoft.com/fwlink/?linkid=873155)
+[Daha fazla sorun giderme ipucu](https://go.microsoft.com/fwlink/?linkid=873155)
   
 

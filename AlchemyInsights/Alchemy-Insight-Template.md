@@ -1,5 +1,5 @@
 ---
-title: Dosya adı ile aynı en iyisidir
+title: dosya adı ile aynı en iyisidir
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
 ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/19/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "35800065"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Gerekli Alchemy başlık H1, H2's çalışmaz.
-En iyi yöntemleri ve yönergeleri Alchemy yazmak için:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Gerekli Simya Başlık H1, H2's çalışmıyor.
+Simya yazarlık için en iyi uygulamalar ve yönergeler:
 
-1. **Klasörlerde Alchemy görüşleri geçirmeyin**- Bu url yapısı kesecektir. Biz bu düzeltme içine bakıyorsunuzdur.
-1. Küçük harfli dosya adlarını boşluk için tire ile dosyalar **AlchemyInsights** klasöründe olması gerekir. ***how-to-enable-dava-tutun***.
-    1. Kural kimliği veya demet kimliği [Alchemy ortak portalı](https://alchemyportal.azurewebsites.net) ms.custom alanına dahil edersiniz. ex. ***MS.Custom: 100021***
-1. Meta verileri geri kalanı bu dosyanın en üstünde, şablon olarak kullanın.
-1. [Alchemy ortak portalı](https://alchemyportal.azurewebsites.net)bölümüne gidin **Müşteri Insight Başlık:** ve H1 başlığınızın Insight için işaret eden bir başlangıç olarak kullanın. 
+1. **Alchemy Insights'ı klasörlere yerleştirmeyin**- bu url yapısını bozar. Bunu düzeltmeye çalışıyoruz.
+1. **AlchemyInsights** klasöründeki dosyalarda, boşluklar için tireli küçük dosya adları olmalıdır. ***nasıl etkinleştirmek-dava-tutun***.
+    1. Ms.custom alanına [Simya Ortağı portalından](https://alchemyportal.azurewebsites.net) Kural Kimliği veya kova kimliği ekleyin. Ex. ***ms.özel: 100021***
+1. Şablonolarak bu dosyanın üst kısmındaki meta verilerin geri kalanını kullanın.
+1. [Simya İş Ortağı portalında,](https://alchemyportal.azurewebsites.net)Müşteri Öngörü başlığı bölümüne **gidin:** ve bunu bilgi edinmek için H1 başlığınız için bir başlangıç noktası olarak kullanın. 
     > [!NOTE]
-    > Üstünde sahip tek bir H1 görüşleri Alchemy olmalıdır veya üretimde kesintiye uğrar. H2s, bunu kullanmak **Kalın** veya ayrı bölümler belirtmek için diğer kuralları işlemek yoktur.
-1. Ardından, gövde metni Alchemy kural sayfanın müşteri görüşleri bölümünde taslak malzeme kullanarak doldurun
-    1. Madde işaretli listeler ince
-    1. Çok numaralı listeler
-    1. **Kalın** ve *İtalik* a-ok
-    1. Bağlantıları her zaman olması gerekir ya da **"Bağlantılar Web" / dış** veya **UI öğelerine derin bağlantılar**, değil iç bağlantılar.
-    1. Resim şu anda resmi olarak desteklenmez, ancak bu yol haritası üzerinde.
+    > Simya Insights üst kısmında sadece tek bir H1 olmalı ya da üretim de kıracak. H2'ler, ayrı bölümleri belirtmek için **kalın** veya diğer kuralları kullanmaz.
+1. Ardından, Simya Kuralı sayfasının Müşteri Öngörüleri bölümündeki taslak materyali kullanarak gövde metnini doldurun
+    1. Madde işaretli listeler iyi
+    1. Numaralanmış listeler de
+    1. **Kalın** ve *italik* a-ok vardır
+    1. Bağlantılar her zaman ya **"web bağlantıları" / dış** VEYA **UI öğeleri ne**derin bağlantılar değil, iç bağlantılar olmalıdır.
+    1. Resimler şu anda resmi olarak desteklenmez, ancak yol haritasında yer almaktadır.
 
-Ve bu gerçekten zaten biraz fazla uzun. Yaklaşık 400 karakter en iyi uygulamadır---
+Ve bu gerçekten biraz fazla uzun. En iyi uygulama yaklaşık 400 karakter ---------------------------------
 
-İçeriğinizi hazır olduktan sonra canlı dala çeker. Daha sonra [Alchemy ortak portalı](https://alchemyportal.azurewebsites.net) gidin ve dosya adı url alanına girin. 
+İçeriğiniz hazır olduğunda, canlı şubeye çekin. Ardından [Simya Ortağı portalına](https://alchemyportal.azurewebsites.net) gidin ve dosya adını url alanına girin. 

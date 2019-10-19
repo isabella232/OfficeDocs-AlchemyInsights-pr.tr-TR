@@ -1,5 +1,5 @@
 ---
-title: Parola Eşitleme durumunu denetleme
+title: Parola Eşitleme Durumu Nasıl Kontrol Yapılır?
 ms.author: pebaum
 author: pebaum
 ms.date: 12/5/2017
@@ -15,24 +15,24 @@ search.appverid:
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
 ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36555397"
 ---
-# <a name="enable-password-sync"></a>Parola Eşitleme etkinleştir
+# <a name="enable-password-sync"></a>Parola Eşitlemesini Etkinleştir
 
-1.  **DirSync durum** Microsoft 365 Yönetim Merkezi giriş sayfasında seçin. 
+1.  Microsoft 365 yönetici merkezi ana sayfasında **DirSync Durumu'nu** seçin. 
     
-     *Alternatif olarak, **Kullanıcılar** için gidebilirsiniz \> **Etkin kullanıcılar**ve **daha fazla** Etkin Kullanıcılar sayfasında seçin \> **Directory Eşitlemesi.*** 
+     *Alternatif olarak, **Users** \> **Active kullanıcılarına**ve Etkin kullanıcılar sayfasında **Daha Fazla** \> **Dizin eşitlemesi'ni seçebilirsiniz.*** 
     
-2. Dizin eşitleme bölmesinde, **DirSync yönetimi için Git**' i seçin. 
+2. Dizin Eşitleme bölmesine, **DirSync yönetimine git'i**seçin. 
     
-3. Şimdi durumunuzu görmek ve değişiklikler yapmak:
+3. Şimdi durumunuzu göreceksiniz ve değişiklikler yapacaksınız:
     
-    **Etkin parola eşitleme:** (True veya False). Parola Eşitleme, Office 365 Kiracı şirket içi arasında etkin olup olmadığını belirtir. 
+    **Parola eşitleme etkin:** (Doğru veya Yanlış). Şirket içi ve Office 365 kiracınız arasında parola eşitleme etkin olup olmadığınızı belirtir. 
     
-    **Son parola eşitleme:** (Parola eşitleme çalıştı son kez). Son eşitleme üç günden önce ise, bu bir uyarı ve bir bağlantı için bir sorun giderme aracı görüntüler. 
+    **Son Parola Eşitleme:** (Son kez parola eşitleme çalıştırıla). Bu, son eşitleme üç günden uzun bir süre önceyse, bir uyarı ve sorun giderme aracına bağlantı görüntüler. 
     
 

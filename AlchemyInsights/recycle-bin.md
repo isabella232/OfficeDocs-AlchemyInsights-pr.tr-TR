@@ -1,5 +1,5 @@
 ---
-title: Geri Dönüşüm Kutusu
+title: Geri dönüşüm kutusu
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
 ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36553019"
 ---
-# <a name="restore-items-in-sharepoint-online"></a>SharePoint çevrimiçi öğeleri geri yükleme
+# <a name="restore-items-in-sharepoint-online"></a>SharePoint Online'daki öğeleri geri yükleme
 
-SharePoint çevrimiçi öğeleri sildiğinizde, bunlar 93 gün için toplam muhafaza. Boşaltın veya öğeleri silmek sürece tüm zaman, sitenin geri dönüşüm kutusunda kalır. Bu durumda, 93 gün geri kalanı için burada kalırlar site koleksiyonu geri dönüşüm kutusu öğeleri gidin. Süre sonunda, öğeler kalıcı olarak silinir. Geri yüklemek için siteden silinmiş öğeleri Geri Dönüşüm Kutusu:
+SharePoint Online'daki öğeleri sildiğinizde, toplam 93 gün boyunca saklanır. Siz boşaltmadığınız veya öğeleri silmediğiniz sürece, sitenin geri dönüşüm kutusunda kalırlar. Bu durumda, öğeler site koleksiyonu geri dönüşüm kutusuna gider ve burada 93 günün geri kalanı için kalır. Sürenin sonunda, öğeler kalıcı olarak silinir. Sitegeri dönüşüm kutusundan silinen öğeleri geri yüklemek için:
   
-1. Sitesine gidin ve **Geri Dönüşüm Kutusu'nın** sol bölmesinde tıklatın. 
+1. Siteye gidin ve sol bölmedeki **Geri Dönüşüm kutusu'nu** tıklatın. 
     
-    Sol bölmede **Geri Dönüşüm Kutusu** görmüyorsanız, sağ üst ayarları simgesini tıklatın ve **Site içeriği**' ni tıklatın. Geri Dönüşüm Kutusu komut çubuğunu üst sağ açıktır.
+    Sol bölmede **Geri Dönüşüm kutusunu** görmüyorsanız, sağ üstteki Ayarlar simgesini tıklatın ve ardından **Site içeriğini**tıklatın. Geri Dönüşüm Kutusu, en üstteki komut çubuğunun en sağındadır.
     
-2. **Geri Dönüşüm Kutusu** sayfasında, onlara gelip görüntülenen onay işareti simgesini tıklatarak geri yüklemek istediğiniz öğeleri seçin. 
+2. Geri **Dönüşüm Kutusu** sayfasında, geri yüklemek istediğiniz öğeleri işaret ederek ve görünen onay işareti simgesini tıklatarak seçin. 
     
 3. **Geri Yükle**'yi tıklatın.
     
-[Site koleksiyonu geri dönüşüm kutusundan silinmiş öğeleri geri yükleme](https://go.microsoft.com/fwlink/?linkid=866439)
+[Site koleksiyonu geri dönüşüm kutusundan silinen öğeleri geri yükleme](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

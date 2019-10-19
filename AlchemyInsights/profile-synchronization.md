@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.openlocfilehash: b9b90dad6c5fa41afcd4e4c9a929594735eca066
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554353"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Ne zaman benim profil değişiklikleri SharePoint kullanıcı profili uygulaması için eşitleme?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Profilim ne zaman SharePoint Kullanıcı Profili Uygulamasıile senkronize olur?
 
-SharePoint Çevrimiçi kullanıcılar ve gruplar kullanıcı profili uygulamasına içe aktarmak için Active Directory içe aktarma Zamanlayıcı işi (Reklam alma) kullanır. 
+SharePoint Online, kullanıcıları ve grupları Kullanıcı Profili Uygulamasına aktarmak için Active Directory Import timer işini (AD Alma) kullanır. 
   
-1. AD alma kullanıcı profili uygulaması için SharePoint çevrimiçi dizin deposu değişiklikleri eşitler. Bu değişikliklerin toplu olarak işlenir.
+1. AD Alma, SharePoint Online Directory Store'dan Kullanıcı Profili Uygulamasına değişiklikleri eşitler. Bu değişiklikler toplu olarak işlenir.
     
-2. Değişiklikler eşitlenene kadar zamanlayıcı işi çalıştırır.
+2. Zamanlayıcı işi, değişiklikler eşitlenene kadar çalışır.
     
 > [!NOTE]
-> İşi çalıştırmak için gereken süreyi işlemek için değişiklikleri sayısına bağlıdır. Çok sayıda değişiklik daha uzun sürer. Bir kullanıcı SharePoint çevrimiçi dizinde değişiklik 24 saat içinde kullanıcı profili uygulaması ' yansıtılır hizmet düzeyi sözleşmesi (SLA) belirtir. 
+> İşi çalıştırmak için aldığı süre, işlemdeki değişikliklerin sayısına bağlıdır. Çok sayıda değişiklik daha uzun sürer. Hizmet Düzeyi Sözleşmesi (SLA), SharePoint Online Dizininde bir kullanıcıdeğişikliğinin 24 saat içinde Kullanıcı Profili Uygulamasına yansıyacağını belirtir. 
   
-[SharePoint çevrimiçi kullanıcı profili eşitleme hakkında daha fazla bilgi](https://go.microsoft.com/fwlink/?linkid=875671)
+[SharePoint Online kullanıcı profili senkronizasyonu hakkında daha fazla bilgi](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

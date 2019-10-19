@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
 ms.openlocfilehash: 621504f5b7170ff36ad093330b8a662e7222d1e7
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754500"
 ---
 # <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Sharepoint veya OneDrive sitelerine gezinirken dahili sunucu hatası
@@ -22,7 +22,7 @@ Kullanıcılar SharePoint veya OneDrive sitelerine gezinmeye çalışırken 500 
 Lütfen siteye gitmeden önce tarayıcı önbelleğini temizlemeye çalış.
 
 
-1. Microsoft Edge tarayıcısında Daha Fazla...> Ayarları'na gidin
+1. Microsoft Edge tarayıcısında, Daha Fazla...> Ayarları'na gidin
 
 2. Gözatma verilerini temizle'nin altında, **neyi temizleyeceğini seç'i** seçin
 

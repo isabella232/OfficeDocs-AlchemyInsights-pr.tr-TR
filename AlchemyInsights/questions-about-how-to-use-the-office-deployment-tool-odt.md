@@ -1,5 +1,5 @@
 ---
-title: Office Dağıtım Aracı'nın (ODT) kullanma hakkında sorular
+title: Office Dağıtım Aracının (ODT) nasıl kullanılacağı yla ilgili sorular
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
 ms.openlocfilehash: 604fc200517316de6e0194bd64e6eb3039cfa61b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36553560"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Office Dağıtım Aracı'nın (ODT) kullanma hakkında sorular
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Office Dağıtım Aracının (ODT) nasıl kullanılacağı yla ilgili sorular
 
-Office dağıtım aracı [Microsoft Yükleme Merkezi'nden](http://go.microsoft.com/fwlink/p/?LinkID=626065)yükleyin.
+Office Dağıtım Aracını [Microsoft İndirme Merkezi'nden](http://go.microsoft.com/fwlink/p/?LinkID=626065)indirin.
   
-Dosyayı karşıdan yükledikten sonra Office dağıtım aracı yürütülebilir (setup.exe) içeren kendi kendine ayıklanan yürütülebilir dosya ve örnek bir yapılandırma dosyası (configuration.xml) çalıştırın.
+Dosyayı indirdikten sonra, Office Dağıtım Aracı yürütülebilir (setup.exe) ve örnek yapılandırma dosyasını (configuration.xml) içeren kendi kendini ayıklayan yürütülebilir dosyayı çalıştırın.
   
- **Dışarıda veya Office 365 ProPlus ürün istemci bilgisayarlardan kaldırmak için:**
+ **Office 365 ProPlus ürünlerini istemci bilgisayarlardan hariç tutmak veya kaldırmak için:**
   
-Office 365 ProPlus yüklerken, belirli ürünleri dışlayabilirsiniz. Bunu yapmak için ODT ile Office yüklemek için adımları izleyin, ancak ExcludeApp öğesi yapılandırma dosyanıza ekleyin. Örneğin, Publisher dışındaki tüm Office 365 ProPlus ürünleri bu yapılandırma dosyası yükler:
+Office 365 ProPlus'ı yüklerken, belirli ürünleri hariç tutabilirsiniz. Bunu yapmak için Office'i ODT ile yükleme adımlarını izleyin, ancak yapılandırma dosyanıza DışUygulama öğesini ekleyin. Örneğin, bu yapılandırma dosyası Publisher dışındaki tüm Office 365 ProPlus ürünlerini yükler:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -35,6 +35,6 @@ Office 365 ProPlus yüklerken, belirli ürünleri dışlayabilirsiniz. Bunu yapm
 </Add>
 ```
 
-[Office dağıtım aracı genel bakış](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
+[Office Dağıtım Aracına Genel Bakış](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
   
 

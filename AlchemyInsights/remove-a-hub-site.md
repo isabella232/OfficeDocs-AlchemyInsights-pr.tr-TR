@@ -1,5 +1,5 @@
 ---
-title: Hub site kaldırma
+title: Hub sitesini kaldırma
 ms.author: kaarins
 author: kaarins
 ms.date: 12/28/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: aacb11aa21adf704c89f7dd7a6a4006cfbf6e628
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ccd0bb32ea6b5a043412ba0040dfde78a672810a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552875"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745381"
 ---
-# <a name="remove-a-hub-site"></a>Hub site kaldırma
+# <a name="remove-a-hub-site"></a>Hub sitesini kaldırma
 
-Yeni SharePoint Yönetim Merkezi bir hub sitedeki kaydını sil
+Yeni SharePoint yönetici merkezinde bir hub sitesinin kaydını silme
   
-1. Yeni SharePoint Yönetim Merkezi'nde **siteleri** **Etkin siteler**' i tıklatın.
+1. Yeni SharePoint yönetici merkezinde, **Siteler** **altında, Etkin sitelere**tıklayın.
 
-2. Siteyi seçin, **Hub sitesi**tıklatın ve **hub sitesi olarak kayıt Sil**' i tıklatın.
+2. Siteyi seçin, **Hub sitesini**tıklatın ve ardından **hub sitesi olarak Kaydol'u**tıklatın.
 
 3. **Tamam**'a tıklayın.
 
-[Hub siteleri hakkında daha fazla bilgi edinin](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f?ui=en-US&amp;rs=en-US&amp;ad=US)
+[Hub siteleri hakkında daha fazla bilgi edinin](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)
   
