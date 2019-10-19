@@ -1,5 +1,5 @@
 ---
-title: 8000091 Outlook.com tepki açılır_pencere
+title: 8000091 Outlook.com React açılır
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "1413"
 - "8000091"
 ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545495"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com asal zaman için hazır
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com prime time için hazır
 
-Biz bazı müşteriler "Asal kez Outlook.com hazırdır" açılır pencere görebilirsiniz farkında olduğunuz her zaman, oturum açma ve biz bir düzeltme üzerinde çalışıyorsanız.
+Bazı müşterilerin her oturum açtıklarında "Outlook.com prime time için hazır" açılır penceresini görebileceğinin farkındayız ve bir düzeltme üzerinde çalışıyoruz.
 
-Üzgünüz, hakkında.
+Bunun için üzgünüm.
 
 [Yeni Outlook.com hakkında daha fazla bilgi edinin.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

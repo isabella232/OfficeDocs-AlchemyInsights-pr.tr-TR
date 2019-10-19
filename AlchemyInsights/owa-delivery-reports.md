@@ -1,5 +1,5 @@
 ---
-title: Teslim edilemeyen raporlarını Web'de Outlook'taki
+title: Web'de Outlook'ta teslim edilmeyen raporlar
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 1b39decd55f0bf63746a28866f880d42dd4d3001
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557125"
 ---
-# <a name="issues-with-email-delivery"></a>E-posta teslimi ile ilgili sorunlar
+# <a name="issues-with-email-delivery"></a>E-posta teslimiyle ilgili sorunlar
 
-Size gönderilen bir e-posta iletisi teslim bir sorun olduğunda, Office 365 size bildirmek için bir e-posta gönderir. Aldığınız e-posta bir DSN veya Sıçrama iletisi olarak da bilinen bir teslim durumu bildirimi ' dir. En yaygın türü ileti teslim edilmedi söyler bir teslim edilmedi raporu (NDR) adı verilir. Teslim edilemeyen bir e-posta adresinde yazım hatası olarak basit bir şey neden olabilir. NDR'ler, e-postanız teslim edilmedi neden gösteren bir hata kodu, e-posta teslim almanıza yardımcı olmak için çözümler, Yöneticiler için web ve teknik ayrıntıları hakkında daha fazla yardım için bir bağlantı içerir.
+Gönderdiğiniz bir e-posta iletisini iletirken bir sorun olduğunda, Office 365 size bildirmek için bir e-posta gönderir. Aldığınız e-posta, DSN veya geri dönen ileti olarak da bilinen bir teslim durumu bildirimidir. En yaygın tür, bir iletinin teslim olmadığını belirten teslim edilmeyen rapor (NDR) olarak adlandırılır. Teslim edilmemesi, e-posta adresindeki yazım hatası kadar basit bir şeyden kaynaklanabilir. NDR'ler, e-postanızın neden teslim edilemediğini belirten bir hata kodu, e-postanızı teslim almanıza yardımcı olacak çözümler, web'de daha fazla yardım için bir bağlantı ve yöneticiler için teknik ayrıntılar içerir.
 
-Neden iletiniz teslim edilmedi dışarı bulmak ve NDR'ler listesini görmek için bkz: [e-posta teslim edilemedi Exchange Online raporlarının](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+NR'lerin listesini görmek ve iletinizin neden teslim olmadığını öğrenmek için [Exchange Online'daki e-posta teslim edilmeyen raporlarına](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)bakın.

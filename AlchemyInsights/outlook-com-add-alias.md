@@ -1,5 +1,5 @@
 ---
-title: 9000238 Outlook.com diğer ad ekleme
+title: 9000238 Outlook.com takma ad eklemek
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542721"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>Outlook.com içinde bir e-posta diğer adı Ekle
+# <a name="add-an-email-alias-in-outlookcom"></a>Outlook.com'da e-posta takma adı ekleme
 
-Bir diğer birincil e-posta adresiniz aynı gelen kutusu, kişi listesi ve hesap ayarlarını kullanan bir ek e-posta adresidir. Posta göndermek için e-posta adresi ve Outlook.com hesabınızı herhangi diğer adları, oturum açabilirsiniz seçebileceğiniz — hepsi aynı parolayı kullanın.
+Takma ad, birincil e-posta adresinizle aynı gelen kutusunu, kişi listesini ve hesap ayarlarını kullanan ek bir e-posta adresidir. Posta göndermek için hangi e-posta adresini seçebilirsiniz ve takma adlarınızla Outlook.com hesabınızda oturum açabilirsiniz — hepsi aynı parolayı kullanır.
 
 E-posta adresi eklemek için:
 
-1. [Bir diğer ad Ekle](https://go.microsoft.com/fwlink/p/?linkid=864833)gidin. İstendiğinde Microsoft hesabınıza oturum açın.
-2. **Bir diğer ad Ekle**altında ya da:
-    1. Outlook.com yeni bir e-posta adresi oluşturmak ve bir diğer ad ekleyin.
-    2. Varolan bir e-posta adresi, bir diğer ad ekleyin.
-3. **Diğer ad Ekle'yi**seçin.
+1. Takma [ad ekle'ye](https://go.microsoft.com/fwlink/p/?linkid=864833)git. İstenirse Microsoft hesabınızda oturum açın.
+2. Takma **ad ekle**altında, aşağıdakileri de ekleyin:
+    1. Yeni bir Outlook.com e-posta adresi oluşturun ve takma ad olarak ekleyin.
+    2. Varolan bir e-posta adresini takma ad olarak ekleyin.
+3. **Diğer ad ekle'yi**seçin.
 
-[Eklemek](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)veya bir e-posta diğer adı Outlook.com kaldırma hakkında daha fazlasını okuyun.  
+[Outlook.com'da bir e-posta takma adını nasıl ekleyeceğiniz veya kaldırılabildiğiniz](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)hakkında daha fazla bilgi edinin.  
 
-[Başka bir e-posta hesabına bağlanmak üzere nasıl](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) Outlook.com hesabınızı okuyun.
+[Başka bir e-posta hesabını](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) Outlook.com hesabınıza nasıl bağlayabilirsiniz' okuyun.

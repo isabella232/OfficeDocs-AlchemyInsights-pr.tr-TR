@@ -1,5 +1,5 @@
 ---
-title: Microsoft ekipleri - Konuk erişimi
+title: Microsoft Teams - Konuk Erişim
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -7,25 +7,24 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "311"
+- "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 114b6402f7b2a6f33671cf90415ec142df096f67
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0f46024ed7460579da0095f437dfccc1ffa7cdda
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36667004"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37590406"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft ekipleri - Konuk erişimi
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams - Konuk Erişim
 
-Açma ve Microsoft Teams Konuk erişimi özelliği ayarlama Yardım gerekiyor mu?
+Microsoft Teams'te Konuk Erişimi özelliğini açmak ve kurmak için yardıma mı ihtiyacınız var?  
 
-İşte yapmanız gerekenler:
+İlk olarak, [Konuk Erişim Denetim Listesi'ndeki](https://docs.microsoft.com/en-us/microsoftteams/guest-access-checklist)tüm adımları izlediğinizi unutmayın. Tüm bu adımlar tamamlandıktan sonra, ayarların etkili olması [için 24 saate kadar beklemeniz](https://docs.microsoft.com/en-us/microsoftteams/manage-guests#guest-access-latencies) gerekir.
 
-1. Konuk erişimi yetkilendirin.
-1. Ekibiniz için Konuk kullanıcı ekleyin.
-1. Konuk kullanıcı izinlerini ayarlama.
+Denetim Listesi'ndeki tüm adımları tamamladığınızdan eminseniz ve 24 saatten fazla olduysa, devam edin ve [Takımınıza bir Konuk eklemeye](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)çalışın.
 
-Nasıl yapılır videolar da dahil olmak üzere daha fazla bilgi için bkz: [Microsoft ekipleri de Konuk erişimi](https://docs.microsoft.com/microsoftteams/guest-access).
+Nasıl iş taneleri olduğu da dahil olmak üzere daha fazla bilgi için [Microsoft Teams'da Konuk erişimine](https://docs.microsoft.com/microsoftteams/guest-access)bakın.

@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
 ms.openlocfilehash: 122da4ef674cdb2f5ae4b8f1eb3991bd2a7d2cfc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525799"
 ---
-# <a name="file-upload-limits-in-sharepoint-online"></a>SharePoint çevrimiçi dosya karşıya yükleme sınırları
+# <a name="file-upload-limits-in-sharepoint-online"></a>SharePoint Online'da dosya yükleme limitleri
 
-- Bir kitaplık 30 milyon dosyalar ve klasörler olabilir.
+- Bir kitaplığın en fazla 30 milyon dosya ve klasörü olabilir.
     
-- URL'nin dosya adı da dahil olmak üzere, toplam uzunluğu 400 karakterden uzun olamaz.
+- Dosya adı da dahil olmak üzere URL'nin toplam uzunluğu 400 karakteri geçemez.
     
-- Her dosya mush 15 GB'tan daha az olabilir. Liste öğelerine eklenen dosyaları 250 MB boyutunda olabilir.
+- Her dosya mush az 15 GB olabilir. Liste öğelerine iliştirilen dosyaların boyutu 250 MB'a kadar olabilir.
     
-- En iyi performansı yeni OneDrive eşitleme istemcisi ile eşitleme için 100. 000'den fazla dosya kitaplığa depolamanızı öneririz. 
+- Yeni OneDrive eşitleme istemcisiyle optimum performans eşitleme için, kitaplıkta en fazla 100.000 dosya depolamanızı öneririz. 
     
-[Dosya adlarında kullanılan karakterleri](https://go.microsoft.com/fwlink/?linkid=866430)
+[Dosya adlarında kullanılabilen karakterler](https://go.microsoft.com/fwlink/?linkid=866430)
   
-[Bir liste veya kitaplığa eklenemeyen dosya türleri](https://go.microsoft.com/fwlink/?linkid=273757)
+[Listeye veya kitaplıkta eklenmeyen dosya türleri](https://go.microsoft.com/fwlink/?linkid=273757)
   
-[SharePoint çevrimiçi sınırları hakkında daha fazla bilgi](https://go.microsoft.com/fwlink/?linkid=271273)
+[SharePoint Online limitleri hakkında daha fazla bilgi](https://go.microsoft.com/fwlink/?linkid=271273)
   
 

@@ -1,5 +1,5 @@
 ---
-title: 8000093 bağlı Outlook.com hesabı izinleri
+title: 8000093 bağlı hesap izinleri Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.custom:
 - "1431"
 - "8000093"
 ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546919"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>"İznine sahip olmasanız görünüyorsunuz" nasıl
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>"İzinimiz yok gibi görünüyor" nasıl düzeltilir?
 
-Hata iletisini görürseniz, "biz almak için e-posta... izniniz yok gibi görünüyor" Lütfen aşağıdakileri yapın:
+Eğer hata mesajı görürseniz "Biz için e-posta almak için izin yok gibi görünüyor ..." lütfen aşağıdakileri yapın:
 
-1. [Bağlı hesap ayarları](https://outlook.live.com/mail/options/mail/accounts) ' nı açın ve kaldırmak veya hata listelenen bağlı hesabı silin.
-2. Bağlı hesabın yeniden ekleyin.
-3. [Geri gelen kutunuza](https://outlook.live.com/mail/inbox)gidin.
+1. Bağlı [Hesap ayarlarınızı](https://outlook.live.com/mail/options/mail/accounts) açın ve hatada listelenen bağlı hesabı kaldırın veya silin.
+2. Bağlı hesabı yeniden ekleyin.
+3. [Posta kutuna geri](https://outlook.live.com/mail/inbox)dön.
 
-Ona bağlı hesabınızdan yeniden eşitlemek tüm e-postalar için biraz zaman alabilir.
+Tüm e-postaların bağlı hesabınızdan yeniden eşitleması biraz zaman alabilir.
 
-Bağlı hesaplar [ekleme](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) ve [kaldırma](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) hakkında daha fazla bilgi.
+Bağlı hesapları [kaldırma](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) ve [ekleme](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) hakkında daha fazla bilgi edinin.

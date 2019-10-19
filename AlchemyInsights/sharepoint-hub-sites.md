@@ -1,5 +1,5 @@
 ---
-title: SharePoint Merkez sitelere genel bakış
+title: SharePoint hub sitelerine genel bakış
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,27 +7,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: ee8c20bff9bf22f8b3eeacf085bce4a7f2d1b0e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "1591"
+- "5300012"
+ms.openlocfilehash: 189eef97019776b52c8f4f12aaaa303f79704a7a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503583"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36818914"
 ---
-# <a name="sharepoint-hub-sites-overview"></a>SharePoint Merkez sitelere genel bakış
+# <a name="sharepoint-hub-sites-overview"></a>SharePoint hub sitelerine genel bakış
 
-SharePoint siteleri Yardım hub bağlanma ve siteleri düzenlemek, kuruluşunuzun gereksinimlerini karşılayacak temel proje, bölüm, bölüm, bölge, vb. kolaylaştırır:
+SharePoint hub siteleri, siteleri proje, departman, bölüm, bölge vb. temel alarak bağlayarak ve düzenleyerek kuruluşunuzun gereksinimlerini karşılamanıza yardımcı olur ve şunları kolaylaştırır:
 
-- Haberler ve diğer site etkinlikler gibi ilgili içeriği keşfedin.
+- Haberler ve diğer site etkinlikleri gibi ilgili içeriği keşfedin.
 
-- Genel gezinti ve ilişkili siteler arasında marka uygulayın. 
+- İlişkili siteler arasında yaygın gezinme ve marka uygulama. 
 
-- İlişkili tüm sitelerde arama.
+- İlişkili tüm sitelerde arama yapın.
 
-Hub siteleri hakkında daha fazla bilgi için aşağıdakilere bakın:
-- [Hub sitedeki SharePoint çevrimiçi oluşturun](https://docs.microsoft.com/sharepoint/create-hub-site): Yeni Yönetim Merkezi veya PowerShell hub sitesi oluşturmayı öğrenin.
+Hub siteleri hakkında daha fazla bilgi için aşağıdakibilgilere bakın:
+- [SharePoint Online'da bir hub sitesi oluşturun](https://docs.microsoft.com/sharepoint/create-hub-site): Yeni Yönetici Merkezi veya PowerShell'den hub sitesi oluşturmayı öğrenin.
 
-- [Hub site bir SharePoint sitesiyle ilişkilendirmek](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): varolan sitelerin bir hub sitesine yeni Yönetim Merkezi veya PowerShell ilişkilendirme hakkında bilgi edinin.
+- [Bir SharePoint sitesini bir hub sitesiyle ilişkilendirin:](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05)Mevcut siteleri yeni Yönetici Merkezi veya PowerShell'den bir hub sitesine ilişkilendirme hakkında bilgi edinin.
 
-- [Hub site kaldırma](https://docs.microsoft.com/sharepoint/remove-hub-site): varolan bir hub sitesine yeni Yönetim Merkezi veya PowerShell kaldırmayı öğrenin.
+- [Hub sitesini kaldırma](https://docs.microsoft.com/sharepoint/remove-hub-site): Yeni Yönetici Merkezi'nde veya PowerShell'de varolan bir hub sitesini nasıl kaldırılanın öğrenin.
 

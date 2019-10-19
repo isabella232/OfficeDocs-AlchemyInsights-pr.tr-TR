@@ -1,5 +1,5 @@
 ---
-title: 9000203 Outlook.com filtreleri
+title: 9000203 Outlook.com Filtreler
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,16 +15,16 @@ ms.custom:
 - "9000203"
 - "9000215"
 ms.openlocfilehash: 4835b3996651ccdbd390a1ece2555ffe7f0fe430
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546704"
 ---
-# <a name="filtering-in-outlookcom"></a>Outlook.com içinde süzme
+# <a name="filtering-in-outlookcom"></a>Outlook.com'da filtreleme
 
-E-posta iletilerinizi Outlook.com yollarla çeşitli filtre uygulayabilirsiniz:
+E-posta iletilerinizi Outlook.com çeşitli şekillerde filtreleyebilirsiniz:
 
-1. [E-postanızı nasıl sıralanır değiştirme](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
-2. [Bir e-posta adresi veya etki alanı e-posta engelleme](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
-3. [Gelişmiş sorgu arama sonuçlarını iyileştirmesini sağlar kullan](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)
+1. [E-postanızın sıralanır şeklini değiştirme](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
+2. [E-posta adresini veya e-posta etki alanını engelleme](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
+3. [Sonuçları hassaslaştırmak için Gelişmiş Sorgu Arama'yı kullanma](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)

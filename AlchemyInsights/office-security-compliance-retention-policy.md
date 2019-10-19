@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753780"
 ---
 # <a name="more-info-about-retention-policies"></a>Bekletme ilkeleri hakkında daha fazla bilgi
@@ -26,13 +26,13 @@ ms.locfileid: "36753780"
 
 ## <a name="a-from-security-and-compliance-center"></a>A) Güvenlik ve Uyum Merkezinden
 
-- Güvenlik ve Uyumluluk > Veri yönetimi > Saklama'ya git
+- Güvenlik ve Uyumluluk > Veri yönetimi > Saklama'ya gidin
   - [BU](https://docs.microsoft.com/office365/securitycompliance/retention-policies) makaleye bakın
 
 - Güvenlik ve Uyumluluk > eDiscovery> Gelişmiş eDiscovery'ye gidin 
   - [BU](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) makaleye bakın
 
-- Güvenlik ve Uyumluluk > Sınıflandırmaları > Bekletme'ye git
+- Güvenlik ve Uyumluluk > Sınıflandırmalarına git > Saklama
   - Bu makalelere bakın
     - [Duyarlılık Etiketleri](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Etiketlere Genel Bakış](https://docs.microsoft.com/office365/securitycompliance/labels)
