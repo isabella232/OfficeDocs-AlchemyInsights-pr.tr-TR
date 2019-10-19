@@ -1,5 +1,5 @@
 ---
-title: 305 arşiv posta kutunuzun boyutunu artırın.
+title: 305 Arşiv posta kutusu boyutunu artırın
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
 ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661820"
 ---
-# <a name="increase-the-archive-mailbox-size"></a>Arşiv posta kutusu boyutunu büyütün
+# <a name="increase-the-archive-mailbox-size"></a>Arşiv posta kutusu boyutunu artırma
 
-Office 365 [sınırları](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) kullanıcı hesabına atanan lisans arşiv posta kutularını boyutu temel. Arşiv posta kutusu boyutunu izin verilen % 90'ını ulaştığında, kullanıcı bir e-posta bildirimi alır. Bir arşiv posta kutusu boyut sınırına ulaştığında, kullanıcının posta kutusuna arşiv daha fazla öğeler taşınamıyor. Office 365, boyut sınırına ulaşıldığında bir arşiv posta kutunuzun boyutunu artırmak olmayacaktır. Bunun yerine, kullanıcılar arşiv posta kutusunda alan boşaltmak için aşağıdaki eylemleri gerçekleştirebilirsiniz:
+Office 365, kullanıcı hesabına atanan lisansa göre arşiv posta kutularının boyutunu [sınırlar.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) Arşiv posta kutusu izin verilen boyutun %90'ına ulaştığında, kullanıcı bir e-posta bildirimi alır. Bir arşiv posta kutusu boyut sınırına ulaştığında, kullanıcı daha fazla öğeyi arşiv posta kutusuna taşıyamaz. Boyut sınırına ulaşıldıktan sonra Office 365 arşiv posta kutusunun boyutunu artırmaz. Bunun yerine, kullanıcılar arşiv posta kutusunda yer açmak için aşağıdaki eylemleri yapabilir:
 
-- Verme Outlook kullanarak bir .pst dosyasına öğeleri.
+- Öğeleri Outlook'u kullanarak bir .pst dosyasına dışa aktarın.
 
-- Öğeleri bir arşiv posta kutusundan silin.
+- Arşiv posta kutusundan öğeleri silin.
 
-Office 365 **sınırsız arşivleme** için Office 365 Kurumsal E3 ve E5 lisansları sağlar. Arşiv posta kutusuna en fazla boyutuna eriştiğinde önce bir yönetici bu özelliği etkinleştirmeniz gerekir. Sınırsız arşivleme etkinleştirildiğinde, bu arşiv posta kutusuna boş alan eklenmeden önce en fazla 30 gün sürebilir. Bu nedenle, yöneticiler bunu genişletilirken arşiv posta kullanmaya devam etmek kullanıcının posta kutusu arşiv boş alan miktarını doğrulamanız önerilir. Daha fazla bilgi için bkz: [Office 365'de sınırsız arşivleme genel bakış](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) ve [Office 365'de sınırsız arşivlemeyi etkinleştirmek](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
+Office 365, Office 365 Enterprise E3 ve E5 lisansları için **sınırsız arşivleme** sağlar. Yönetici, arşiv posta kutusu en büyük boyutuna ulaşmadan önce bu özelliği etkinleştirmelidir. Sınırsız arşivleme etkinleştirildiğinde, arşiv posta kutusuna boş alan eklenmesi 30 gün kadar sürebilir. Bu nedenle, yöneticilerin arşiv posta kutusundaki boş alanı doğrulamalarını öneririz, bu da kullanıcının genişletirken arşiv posta kutusunu kullanmaya devam etmesine olanak tanır. Daha fazla bilgi için Office [365'te sınırsız arşivleme](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) genel görünümü ve [Office 365'te sınırsız arşivleme yi etkinleştirme bölümüne](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving)bakın.
 
-[Öğeleri otomatik olarak genişletilen bir arşiv erişmek için Outlook gereksinimleri](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive)Outlook'tan arşiv posta kutusuna erişme hakkında daha fazla bilgi için bkz. Otomatik Arşiv posta kutusuna geçen öğeleri taşıyan bir bekletme ilkesi yapılandırmak için [Office 365 kuruluşunuzdaki posta kutularına bir arşiv ve silme ilkesi ayarlayın](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)bkz.
+Outlook'tan arşiv posta kutusuna erişim hakkında daha fazla bilgi için, [otomatik olarak genişletilmiş bir arşivdeki öğelere erişmek için Outlook gereksinimlerine](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive)bakın. Öğeleri arşiv posta kutusuna otomatik olarak taşıtabilen bir bekletme ilkesini yapılandırmak [için, Bkz. Office 365 kuruluşunuzdaki posta kutuları için arşiv ve silme ilkesi ayarlama.](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
 
-**Not**: otomatik genişletme arşivleri Exchange 2010 üzerinde birincil posta kutuları için desteklenmeyen.
+**Not**: Exchange 2010'daki birincil posta kutuları için otomatik genişletme arşivleri desteklenmez.

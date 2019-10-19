@@ -1,5 +1,5 @@
 ---
-title: App lisans miktarını değiştirme
+title: Uygulama lisans miktarını değiştirme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,30 +13,30 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519787"
 ---
-# <a name="change-app-license-quantity"></a>App lisans miktarını değiştirme
+# <a name="change-app-license-quantity"></a>Uygulama lisans miktarını değiştirme
 
-Görüntülemek veya varsa ve Microsoft 365 Yönetim Merkezi'ndeki Kullanıcılar atamak lisans sayısını değiştirin. 
+Sahip olduğunuz lisans sayısını görüntüleyebilir veya değiştirebilir ve bunları Microsoft 365 yönetici merkezindeki kullanıcılara atayabilirsiniz. 
 
 ## <a name="to-change-license-quantity"></a>Lisans miktarını değiştirmek için
 
-1. **Faturalama**Git > [ürünleri & services](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa, sonra **uygulamalar** sekmesini seçin.
+1. **Faturalama** > [Ürünleri & hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin ve ardından **Uygulamalar** sekmesini seçin.
 
-2. Bulmak ve yönetmek istediğiniz uygulamayı seçin.  
+2. Yönetmek istediğiniz uygulamayı bulun ve seçin.  
 
 3. **Lisans Ekle/Kaldır'ı**seçin.
 
-4. Yeni gereken lisans sayısını girin. Örneğin, şu anda 5 lisansları varsa ve yalnızca gereken 4, 4 **toplam lisans** kutusuna girin. Şu anda 5 lisansları varsa ve 10 toplam lisans gerekir, 10 **toplam lisans** kutusuna girin.
+4. Gereken yeni lisans sayısını girin. Örneğin, şu anda 5 lisansınvarsa ve yalnızca 4'e ihtiyacınız varsa, **Toplam lisanslar** kutusuna 4 girin. Şu anda 5 lisansınvarsa ve toplam 10 lisansa ihtiyacınız varsa, **Toplam lisanskutusuna** 10 girin.
 
-## <a name="to-assign-app-licenses"></a>App lisansları atamak için
+## <a name="to-assign-app-licenses"></a>Uygulama lisansları atamak için
 
-1. **Faturalama**Git > [ürünleri & services](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa, sonra **uygulamalar** sekmesini seçin.
+1. **Faturalama** > [Ürünleri & hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin ve ardından **Uygulamalar** sekmesini seçin.
 
-2. Bulmak ve yönetmek istediğiniz uygulamayı seçin.  
+2. Yönetmek istediğiniz uygulamayı bulun ve seçin.  
 
-3. **Ayarları & Eylemler**altında **publisher'ın Portal Yönet**bağlantısını seçin.
+3. **Ayarlar & eylemleri**altında, **yayıncının portalında Yönet**bağlantısını seçin.

@@ -1,5 +1,5 @@
 ---
-title: MDM yetkilisi değiştirme
+title: MDM yetkisini değiştirme
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519319"
 ---
-# <a name="change-intune-mdm-authority"></a>Intune MDM yetkilisi değiştirme
+# <a name="change-intune-mdm-authority"></a>Intune MDM yetkisini değiştirin
 
-Servis talebine açmadan MDM yetkilinize değiştirebilirsiniz. Yönergeler için aşağıdaki belgelere bakın:
+Destek kılıfı açmadan MDM yetkinizi değiştirebilirsiniz. Talimatlar için aşağıdaki belgelere bakın:
   
-- [MDM yetkilisi Yapılandırma Yöneticisi'nden Intune tek başına olarak değiştirin.](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [MDM yetkisini Configuration Manager'dan Intune bağımsız olarak değiştirme](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Değişiklik MDM yetkilisi Intune tek başına için Yapılandırma Yöneticisi](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [MDM yetkisini Intune tek başına yapılandırma yöneticisine değiştirme](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- **MDM yetkilisi birlikte bulunma**
+ **MDM Otoritesi Birlikte Yaşam**
   
-- Her iki etkin MDM yetkilileri aynı anda etkin Office 365 MDM zaten var, ancak Intune MDM. denemek istiyor olabilir
+- Office 365 MDM zaten etkinleştirilmişse ancak Intune MDM'yi denemek istiyorsanız, her iki MDM yetkilisini de aynı anda etkin duruma getirebilirsiniz.
     
-- O365 MDM etkin olan yöneticiler Azure portalından etkin olarak Intune MDM basitçe işaretleyebilirsiniz.
+- O365 MDM etkin olan yöneticiler, Azure portalından Intune MDM'yi etkin olarak işaretleyebilir.
     
-- Intune MDM vardır ancak Office 365 MDM kullanmak yapmak istiyor: Lütfen aşağıdaki bilet açın ve bir destek aracı etkinleştirmek için bu yardımcı olur.
+- Intune MDM'niz varsa ancak Office 365 MDM'den yararlanmak istiyorsanız: lütfen aşağıdaki bileti açın ve bir destek aracısı bunu sizin için etkinleştirmeye yardımcı olacaktır.
     
 

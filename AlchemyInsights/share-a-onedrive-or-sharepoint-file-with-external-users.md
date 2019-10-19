@@ -1,5 +1,5 @@
 ---
-title: OneDrive veya SharePoint dosya dış kullanıcılarla paylaşma
+title: OneDrive veya SharePoint dosyalarını harici kullanıcılarla paylaşma
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
 ms.openlocfilehash: 3db4ed57a1daf32cf8bcc95c716baf4a06380874
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549635"
 ---
-# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>OneDrive veya SharePoint dosya veya klasör dış kullanıcılarla paylaşma
+# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>OneDrive veya SharePoint dosya veya klasörünü harici kullanıcılarla paylaşma
 
-1. Bir tarayıcıda paylaşmak, seçin ve sonra **Paylaştır**' ı tıklatın istediğiniz dosya veya klasöre gidin.
+1. Tarayıcıda, paylaşmak istediğiniz dosyaya veya klasöre gidin, seçin ve sonra **Paylaş'ı**tıklatın.
     
-2. Gönderme bağlantı iletişim kutusunda, bağlantı türünü değiştirmek için aşağı oku tıklatın.
+2. Bağlantı gönder iletişim kutusunda, bağlantı türünü değiştirmek için aşağı ok'u tıklatın.
     
-3. **Kimin için çalışmak için bu bağlantıyı istiyorsunuz**altında istediğiniz alıcılar bağlantıyı paylaşamaz veya kişilere vermek için **belirli kişilere** erişim seçme **Herkes** belirtin. 
+3. **Bu bağlantının Kim**ler için çalışmasını istiyorsunuz , alıcıların bağlantıyı paylaşabilmesini istiyorsanız **Herkes'i** seçin veya yalnızca belirttiğiniz kişilere erişim sağlamak için **Belirli kişiler.** 
     
-    Bu seçenekler kullanılamıyorsa, site koleksiyonu ve kuruluşunuz için dizinleyiciler emin olmak gerekir. Bunu yapmak için bkz: [dış açmak veya kapatmak için SharePoint çevrimiçi paylaşımı kapatma](https://go.microsoft.com/fwlink/?linkid=866426).
+    Bu seçenekler kullanılamıyorsa, kuruluşunuz ve site koleksiyonu için bunlara izin verildiğinden emin olmanız gerekir. Bunu yapmak için [SharePoint Online için dış paylaşımı açma veya kapatma](https://go.microsoft.com/fwlink/?linkid=866426)konusuna bakın.
     
-4. **Uygula**' yı tıklatın.
+4. **Uygula'yı**tıklatın.
     
-5. Paylaşmak istediğiniz kişilerin adlarını girin ve sonra **Gönder**' i tıklatın.
+5. Paylaşmak istediğiniz kişilerin adlarını girin ve sonra **Gönder'i**tıklatın.
     
 

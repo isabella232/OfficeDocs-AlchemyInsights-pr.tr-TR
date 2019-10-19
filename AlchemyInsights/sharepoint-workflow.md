@@ -8,14 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "9000317"
+- "9000147"
+- "1940"
+- "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: a0e896567eda5845913e51d4e01d6959f8f5a98b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c79660c690120e5fe22e9e592a1ad9d8140da93a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36749460"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36830273"
 ---
 # <a name="workflows-in-sharepoint"></a>SharePoint'teki Iş Akışları
 
@@ -27,5 +31,5 @@ SharePoint iş akışları, çok çeşitli iş süreçlerini kolaylaştıran ve 
 
 **İş Akışı Sorun Giderme ve Hata Ayıklama:**
 
-Hata ayıklama iş akışları önceki sürümlere benzer. Daha fazla bilgi için Bkz. [Hata Ayıklama SharePoint iş](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)akışları. Sorun giderme hakkında daha fazla bilgi için, [Sorun Giderpaylaşım SharePoint Server iş akışı doğrulama](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)hatalarına bakın.
+Hata ayıklama iş akışları önceki sürümlere benzer. Daha fazla bilgi için Bkz. [Hata Ayıklama SharePoint iş akışları.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows) Sorun giderme hakkında daha fazla bilgi için, [Sorun Giderpaylaşım SharePoint Server iş akışı doğrulama hatalarına](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)bakın.
 

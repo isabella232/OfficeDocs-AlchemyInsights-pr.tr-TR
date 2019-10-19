@@ -1,5 +1,5 @@
 ---
-title: Outlook Masaüstü geri çağırma veya değiştirme bir e-posta iletisi
+title: Outlook Desktop bir e-posta iletisi geri çağırma veya değiştirme
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,31 +10,31 @@ ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36496131"
 ---
-# <a name="recall-or-replace-an-outlook-email-message"></a>Çağrılacağı ya da Outlook e-posta iletisi
+# <a name="recall-or-replace-an-outlook-email-message"></a>Outlook e-posta iletisi geri çağırma veya değiştirme
 
-- Yönetici, **PowerShell kullanan kullanıcılar adına ileti geri çekme**olabilir. Yönetim Merkezi iletilerden Çekemiyor.
-- **Yalnızca kuruluşunuzdaki kişilere gönderilen iletileri geri çağırma**kullanabilirsiniz. Örneğin, Gmail adresine ileti gönderilmişse, onu Çekemiyor.
-- **Yalnızca PC'de 2016 Outlook uygulamasından gönderilen iletileri geri çağırma**kullanabilirsiniz. Bir kullanıcı Mac için Outlook veya Outlook Web kullanarak bir ileti gönderirse, Çekemiyor.
+- Yönetici olarak **PowerShell kullanan kullanıcılar adına iletileri geri çağırabilirsiniz.** Yönetici merkezinden gelen iletileri geri çağıramazsınız.
+- Yalnızca **kuruluşunuzdaki kişilere gönderilen iletileri geri çağırabilirsiniz.** İleti bir Gmail adresine gönderildiyse, örneğin, iletiyi geri çağıramazsınız.
+- Yalnızca **Outlook 2016'dan gönderilen iletileri pc'de hatırlayabilirsiniz.** Bir kullanıcı web'de Mac için Outlook veya Outlook kullanarak bir ileti gönderirse, bunu geri çağıramazsınız.
 
-Çağrılacağı ya da bir e-posta iletisi için:
+Bir e-posta iletisini geri çağırmak veya değiştirmek için:
 
-1. Gönderilmiş Öğeler klasörü Outlook penceresinin soldaki klasör bölmesinde seçin.
-1. Açmak için geri çekmek istediğiniz iletiyi çift tıklatın.
-1. **İleti** sekmesini seçin ve sonra **Eylemler**seçin > **Bu iletiyi Geri Çağır**.
-1. **Bu iletinin okunmamış kopyalarını sil** veya **Okunmamış kopyaları sil ve yerine yeni iletiler koy**seçin ve **Tamam**' ı seçin.
-1. Yeni ileti gönderiyorsanız, iletinizi oluşturun ve **Gönder**' i seçin.
-1. Başarı veya başarısızlık ileti geri çağırma alıcının Outlook ayarlarına bağlıdır. Geri çekme üzerinde denetlemek adımlar için [Bu makaleye](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)bakın.
+1. Outlook penceresinin solundaki klasör bölmesinde Gönderilmiş Öğeler klasörünü seçin.
+1. Açmak için hatırlamak istediğiniz iletiyi çift tıklatın.
+1. **İleti** sekmesini seçin ve ardından **Eylemler** > **Bu İletiyi Geri Çağır'ı**seçin.
+1. **Bu iletinin okunmamış kopyalarını sil'i** seçin veya **okunmamış kopyaları silin ve yeni bir iletiyle değiştirin**ve ardından **Tamam'ı**seçin.
+1. Yeni bir ileti gönderiyorsanız, iletiyi oluşturun ve sonra **Gönder'i**seçin.
+1. İleti geri çağırmanın başarısı veya başarısızlığı, alıcının Outlook'taki ayarlarına bağlıdır. Geri çağırmayı denetlemek için adımlar için [bu makaleye](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)bakın.
 
-Arama ve kuruluşunuzdaki e-posta iletilerini silme
+Kuruluşunuzdaki e-posta iletilerini arama ve silme
 
-- Genel Yönetici değilseniz, eBulma Yöneticisi rolü veya uyumluluk arama yönetimi rolü için iletileri aramak için hesabınıza eklenmesi gerekir. İletileri silmek için Kuruluş Yönetimi rol grubunun ya da arama ve temizleme yönetim rolü katılmak gerekir. Bu roller için izinleri [Güvenlik ve Uyumluluk Merkezi](https://go.microsoft.com/fwlink/?linkid=2083731)atanır.
-- İletiyi silmek için bulmak için [arama içerik oluşturma](https://docs.microsoft.com/office365/securitycompliance/content-search) .
-- [Güvenlik ve Uyumluluk Merkezi PowerShell bağlanın](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
+- Genel bir yönetici değilseniz, iletileri aramak için hesabınızın eDiscovery Manager rolüne veya Uyumluluk Arama yönetimi rolüne eklenmesi gerekir. İletileri silmek için, Organizasyon Yönetimi rol grubuna veya Arama ve Temizleme yönetimi rolüne katılmanız gerekir. Bu rolleriçin izinler [Güvenlik ve uyumluluk merkezinde](https://go.microsoft.com/fwlink/?linkid=2083731)atanır.
+- Silmek için ileti bulmak için [bir içerik araması oluşturun.](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [Güvenlik ve Uyumluluk Merkezi PowerShell'e bağlanın.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)
 
-Çok faktörlü kimlik doğrulaması kullanıyorsanız, [çok faktörlü kimlik doğrulama kullanarak bağlan Office 365 güvenlik ve Uyumluluk Merkezi PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)bakın.
+Çok faktörlü kimlik doğrulama kullanıyorsanız, [çok faktörlü kimlik doğrulaması kullanarak Office 365 Güvenlik ve Uyumluluk Merkezi PowerShell'e bağlan'a](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)bakın.

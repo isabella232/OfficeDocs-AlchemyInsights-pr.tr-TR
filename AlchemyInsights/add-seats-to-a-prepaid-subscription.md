@@ -1,5 +1,5 @@
 ---
-title: Boş koltuk için bir ön ödemeli abonelik Ekle
+title: Ön ödemeli aboneye koltuk ekleme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,27 +14,27 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661028"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Boş koltuk için bir ön ödemeli abonelik Ekle
+# <a name="add-seats-to-a-prepaid-subscription"></a>Ön ödemeli aboneye koltuk ekleme
 
-Ön ödemeli Office 365 lisanslar için 25 karakterlik alfasayısal bir kod verilir. Gereksinim duyduğunuz lisans satın aldıktan sonra aboneliğiniz ekleyebilirsiniz. 
+Ön ödemeli Office 365 lisansları size 25 karakterlik alfasayısal kod olarak verilir. İhtiyacınız olan lisansları satın aldıktan sonra aboneliğinize ekleyebilirsiniz. 
 
-1. **Faturalama**için Yönetim Merkezi'nde Git > [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
+1. Yönetici merkezinde, **Faturalama** > [Ürünleri & hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
 
-2. Lisans eklemek istediğiniz abonelik bulun. **Lisans** bölümünde **daha fazla lisans Ekle**' yi seçin.
+2. Lisans eklemek istediğiniz aboneliği bulun. **Lisanslar** bölümünde, **daha fazla lisans ekle'yi**seçin.
 
-3. **Daha çok lisans eklemek** bölmesinde, **Yeni ve kullanılmamış ürün anahtarı kullan**' ı seçin, sonra **İleri**' yi seçin.
+3. Daha **fazla lisans ekle** bölmesinde, **yeni ve kullanılmayan ürün anahtarını kullan'ı**seçin ve ardından **İleri'yi**seçin.
 
-4. Ürün anahtarını girin ve sonra **İleri**' yi seçin.
+4. Ürün anahtarını girin ve **Sonra İleri'yi**seçin.
 
     > [!NOTE]
-    > Birden fazla ürün anahtarı varsa, bunları girmek için **başka bir ürün anahtarı eklemek** seçebilirsiniz.
+    > Birden fazla ürün anahtarınız varsa, girmek için **başka bir ürün anahtarı ekle'yi** seçebilirsiniz.
 
-5. Sipariş ayrıntılarınızı gözden geçirin ve sonra **Redeem**seçin.
+5. Sipariş bilgilerinizi gözden geçirin ve ardından **Kurtar'ı**seçin.
 
-Daha fazla bilgi için bkz: [Lisans eklemek veya bir ürün anahtarı kullanarak için ödenen bir abonelik uzatma](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Daha fazla bilgi için [bkz.](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)

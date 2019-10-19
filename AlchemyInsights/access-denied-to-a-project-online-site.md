@@ -1,5 +1,5 @@
 ---
-title: Bir Project Web App sitesine erişim
+title: Proje Web App sitesine erişim engellendi
 ms.author: efrene
 author: efrene
 manager: pamg
@@ -12,20 +12,20 @@ ms.custom:
 - "2700001"
 - "1381"
 ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661244"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Proje çevrimiçi kullanıcıların izinlerini verin
+# <a name="give-users-permissions-in-project-online"></a>Project Online'da kullanıcılara izin verme
 
-Kullanıcılar SharePoint izin modunu kullanarak bir Project Web App sitesine erişim verin:
+Kullanıcılara SharePoint İzin Modu'nu kullanarak Proje Web Uygulaması sitesine erişim hakkı verin:
 
-1. Project çevrimiçi bir yönetici olarak oturum açın
-2. Project Web App ana sayfasında, sağ üst köşedeki **paylaşımını** seçin.
-3. **Project Web App paylaşım** iletişim kutusunda, **Davet ettiğiniz kişilerin** kutusunda erişim vermek istediğiniz kişinin kullanıcı adını yazın.
-4. **Seçenekleri Göster'i**seçin ve **Proje yöneticileri, Project Web App için** **bir izin düzeyi seçin** menüsünde seçin.
-5. **Paylaşım**' ı seçin.
+1. Project Online'da yönetici olarak oturum açın.
+2. Project Web App giriş sayfasında sağ üst köşede **Paylaş'ı** seçin.
+3. Proje **Web Uygulaması'nı Paylaş** iletişim kutusuna, erişim vermek istediğiniz kişinin kullanıcı adını **Kişileri Davet** kutusuna yazın.
+4. **Seçenekleri Göster'i**seçin ve **izin düzeyi** seç menüsünde Proje Web Uygulaması için **Proje Yöneticileri'ni**seçin.
+5. **Paylaş'ı**seçin.
 
-Proje izinleri modu kullan veya daha fazla bilgi için lütfen [Project Online Ekle kişilere](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)bakın.
+Proje İzinleri modunu kullanıyorsanız veya daha fazla bilgi için lütfen [Project Online'a kişi ekle'ye](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)bakın.

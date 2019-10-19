@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 - yanlış Pano Dynamics 365 birleştirilmiş arabiriminde gösterilir.
+title: Dynamics 365 - Dynamics 365 Birleşik Arabiriminde Yanlış Pano Gösterir
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,34 +10,34 @@ ms.custom:
 - "1484"
 - "6200024"
 ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528571"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Yanlış Pano Dynamics 365 birleştirilmiş arabiriminde gösterilir.
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Dynamics 365 birleşik arabiriminde yanlış pano gösterir
 
-Neden beklediğiniz olandan farklı bir Pano görebilirsiniz çeşitli nedenleri vardır:
+Beklediğiniz panodan farklı bir pano görmenizin birkaç nedeni vardır:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Kullanıcı bir kullanıcı varsayılan pano ayarladı. 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Kullanıcı varsayılan pano belirledi 
 
-Bir kullanıcıyı tanımlamak genellikle varsayılan pano ayarlanmışsa Pano komut çubuğunda **Varsayılan olarak belirle** düğmesini göstermez. Kullanıcının varsayılan pano içinde geçerli app olmasa bile, kullanıcı varsayılan pano diğer varsayılan panolar geçersiz kılar.
+Genellikle varsayılan **olarak ayarlı** bir kullanıcı varsayılan panosu nu tanımlayabilirsiniz, pano komut çubuğunda varsayılan olarak ayarlanmaz. Kullanıcı varsayılan panosu, kullanıcının varsayılan panosu geçerli uygulamada olmasa bile diğer tüm varsayılan panoları geçersiz kılar.
 
-Kendi varsayılan Pano için unset aşağıdaki geçici çözümü kullanın.
+Varsayılan panolarını ayarlamak için aşağıdaki geçici çözüme göre kullanın.
 
 1. Yeni bir kişisel pano oluşturun.
 
-2. Yeni bir pano, kullanıcı varsayılan olarak ayarlayın.
+2. Yeni panoyu kullanıcı varsayılanı olarak ayarlayın.
 
-3. Bu panoyu silme.
+3. Şu panoyonu sil.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Pano Site Haritası ayarlanır
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Pano site haritasında ayarlanır
 
-Bir Pano seçerek ve 'Varsayılan olarak belirle' altında 'Sistem Özelleştirme' seçme, bir kuruluşun varsayılan pano ayarlamış olabilirsiniz. Ancak, kullanıcı erişimi varsa, site haritası Tasarımcısı'nda tanımlanan Pano bu pano üzerinde öncelik kazanır.
+Bir pano seçip 'Sistemi Özelleştir' altında 'Varsayılan Olarak Ayarla' seçeneğini seçerek bir kuruluş varsayılan panosu ayarlamış olabilirsiniz. Ancak, site haritası tasarımcısında tanımlanan pano, kullanıcının bu panoya erişimi varsa, bu panodan önce gelir.
 
-Kullanıcıların kuruluş varsayılan olarak ayarladığınız Pano görmek için aşağıdakileri yapabilirsiniz:
+Kullanıcıların ayarladığınız panoyu kuruluş varsayılanı olarak görmesini sağlamak için şunları yapabilirsiniz:
 
-* Bu Pano Site Haritası içinde ayarlama
+* Site haritasındaki panoyu ayarlama
 
-* Sitemap tanımlı Pano kullanıcılar için erişimi kaldırmak
+* Bu kullanıcılar için site haritası tanımlı panoya erişimi kaldırma

@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0bd18328-35e4-4e4a-94c3-48430e8e2e77
 ms.openlocfilehash: 9abc97379dc153956e8cf3ce59ddb046623b85d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36496436"
 ---
 # <a name="change-your-password-in-outlook"></a>Outlook'ta parolanızı değiştirme
 
-Parolanızı unuttunuz, [Microsoft hesabı parola sıfırlama sayfasına](https://go.microsoft.com/fwlink/p/?linkid=841909)gidin. Aksi durumda, aşağıdaki yönergeleri izleyin.
+Parolanızı unuttuysanız, Microsoft [hesabı parola sıfırlama sayfasına](https://go.microsoft.com/fwlink/p/?linkid=841909)gidin. Aksi takdirde, aşağıdaki talimatları izleyin.
   
-1. Sağ üst köşede adı veya profil resminizi seçin ve **Görünüm hesabı**seçin.
-2. Merhaba altında! Başlık, select **Parolayı Değiştir**.
-3. Yeni bir parola seçin ve **Kaydet**' i seçin.
+1. Sağ üst köşede adınızı veya profil resminizi seçin ve **Hesabı Görüntüle'yi**seçin.
+2. Merhaba'nın altında! banner, **parolayı değiştir'i**seçin.
+3. Yeni bir parola seçin ve **Kaydet'i**seçin.
 
-Daha fazla bilgi için bkz: [Outlook.com dosyasında parolamı Değiştir](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).
+Daha fazla bilgi için bkz: [Outlook.com'da şifremi değiştir.](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx)

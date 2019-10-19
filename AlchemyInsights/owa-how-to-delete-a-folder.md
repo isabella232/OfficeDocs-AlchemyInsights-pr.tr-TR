@@ -1,5 +1,5 @@
 ---
-title: '8000016: nasıl bir klasörü silmek'
+title: '8000016: Bir klasör nasıl silinir?'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "2004"
 ms.assetid: ''
 ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36556549"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Nasıl Outlook web üzerindeki bir klasörü silmek için
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Web'de Outlook'taki bir klasör nasıl silinir?
 
-1. Klasör bölmesinde, klasör veya silmek istediğiniz alt klasörü sağ tıklatın.
-2. **Klasörü Sil**' i seçin.
-3. Onaylamak için **Tamam** ' ı seçin.
+1. Klasör bölmesinde, silmek istediğiniz klasöre veya alt klasöre sağ tıklayın.
+2. **Klasörü Sil'i**seçin.
+3. Onaylamak için **Tamam'ı** seçin.
 
-Daha fazla bilgi için bkz: [Web'de Outlook'taki ileti klasörleri ile çalışma](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Daha fazla bilgi edinmek için [bkz.](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)
 

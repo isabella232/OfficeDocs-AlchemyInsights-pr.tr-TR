@@ -1,5 +1,5 @@
 ---
-title: Temsilci 606 bilgi
+title: 606 Heyet Hakkında Bilgi
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,23 +13,23 @@ ms.custom:
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
 ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661748"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Outlook ve Outlook web üzerinde temsilci sorunlarını giderme
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Web'de Outlook ve Outlook'ta sorun giderme delegasyonu
 
-**Sibel aracı ile sorun giderme:**
+**SaRA aracıyla sorun giderme:**
 
-1. Sibel aracı karşıdan yükleyip [burada](https://aka.ms/SaRA-SkypeForBusinessSignIn).
-1. **Outlook**, ardından **Takvimimi sorunlarıyla ilgili sorunum**seçin.
-1. Etkilenen makineler için **Evet** deyin.
+1. SaRA aracını [buradan](https://aka.ms/SaRA-SkypeForBusinessSignIn)indirin ve kurun.
+1. **Outlook'u**seçin, ardından **takvimimle ilgili sorunlar yaşıyorum.**
+1. Etkilenen makine için **Evet** deyin.
 1. Etkilenen kullanıcının e-posta adresini ekleyin.
-1. **Temsilci izinleri ile ilgili sorunlarım**seçin.
-1. Sonraki komut isteminde, izinleri vermeyi kişiyseniz, temsilciniz e-posta adresini girin. İzinler alındı ve temsilciyseniz, izin verdiği kişinin e-posta adresini girin.
-1. Sonraki menüde, senaryonuza en uygun seçeneği seçin.
-1. Sonraki menü de izin düzeyini seçin.
-1. Bu aşamada, SaRA araç otomatik denetimleri gerçekleştirir ve olası çözüm ile sağlayacak veya alternatif olarak daha ayrıntılı sorun giderme için kullanılan bir tanı günlüğünü sağlayacaktır.
-1. Günlükleri, C:\Users\Username\AppData\Local\SaraResults bulunan SaRA sonuçları klasöründe bulabilirsiniz.
+1. **Temsilci izinleriyle ilgili sorunlar yaşıyorum**seçin.
+1. Bir sonraki istekte, izin veren kişi sizseniz, temsilcinizin e-posta adresini girin. İzin aldıysanız ve temsilciyseniz, size izin veren kişinin e-posta adresini girin.
+1. Bir sonraki menüde, senaryonuza uyan seçeneği seçin.
+1. Sonraki menüde izin düzeyini seçin.
+1. Bu aşamada, SaRA aracı otomatik denetimler gerçekleştirecek ve olası çözünürlük sağlayacak veya alternatif olarak daha fazla sorun giderme için kullanılabilecek bir tanılama günlüğü sağlayacaktır.
+1. C:\Users\Username\AppData\Local\SaraResults adresinde bulunan SaRA Sonuçları klasöründe günlükleri bulabilirsiniz.
