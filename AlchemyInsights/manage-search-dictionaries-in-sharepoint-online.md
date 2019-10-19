@@ -12,15 +12,15 @@ ms.custom:
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
 ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754428"
 ---
-# <a name="manage-search-dictionaries"></a><span data-ttu-id="643f0-102">Arama sözlüklerini yönetme</span><span class="sxs-lookup"><span data-stu-id="643f0-102">Manage search dictionaries</span></span>
+# <a name="manage-search-dictionaries"></a><span data-ttu-id="bd68f-102">Arama sözlüklerini yönetme</span><span class="sxs-lookup"><span data-stu-id="bd68f-102">Manage search dictionaries</span></span>
 
-<span data-ttu-id="643f0-103">SharePoint çevrimiçi arama sözlükleri, yeni SharePoint yönetici merkezinde bulunan SharePoint Online Term Store'da yönetilir.</span><span class="sxs-lookup"><span data-stu-id="643f0-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="643f0-104">Arama sözlüklerinin nasıl eklenveya edinilir hakkında daha fazla bilgi için [bkz.](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="643f0-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
+<span data-ttu-id="bd68f-103">SharePoint çevrimiçi arama sözlükleri, yeni SharePoint yönetici merkezinde bulunan SharePoint Online Term Store'da yönetilir.</span><span class="sxs-lookup"><span data-stu-id="bd68f-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="bd68f-104">Arama sözlüklerinin nasıl eklenveya edinilir hakkında daha fazla bilgi için [bkz.](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="bd68f-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="643f0-105">Terim deposunda bir arama sözlüğü terimi kümesi görmüyorsanız, lütfen 24 saat bekleyin.</span><span class="sxs-lookup"><span data-stu-id="643f0-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="643f0-106">Sözlük 24 saat sonra hala görünmüyorsa, lütfen bir destek bileti günlüğe kaydedin.</span><span class="sxs-lookup"><span data-stu-id="643f0-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
+<span data-ttu-id="bd68f-105">Terim deposunda bir arama sözlüğü terimi kümesi görmüyorsanız, lütfen 24 saat bekleyin.</span><span class="sxs-lookup"><span data-stu-id="bd68f-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="bd68f-106">Sözlük 24 saat sonra hala görünmüyorsa, lütfen bir destek bileti günlüğe kaydedin.</span><span class="sxs-lookup"><span data-stu-id="bd68f-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
   

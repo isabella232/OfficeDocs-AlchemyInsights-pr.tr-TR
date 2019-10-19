@@ -14,12 +14,12 @@ ms.custom:
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
 ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36738361"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="23d77-102">Dağıtım grubunu Office 365 Grubuna dönüştürme</span><span class="sxs-lookup"><span data-stu-id="23d77-102">Convert a distribution group to an Office 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="afde1-102">Dağıtım grubunu Office 365 Grubuna dönüştürme</span><span class="sxs-lookup"><span data-stu-id="afde1-102">Convert a distribution group to an Office 365 Group</span></span>
 
-<span data-ttu-id="23d77-103">Dağıtım gruplarını, belirli ölçütleri karşıladıklarında Office 365 Gruplarına dönüştürebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="23d77-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="23d77-104">Bir grubu dönüştürmek veya dönüşüm sorunlarını gidermek için [bkz.](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists)</span><span class="sxs-lookup"><span data-stu-id="23d77-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>
+<span data-ttu-id="afde1-103">Dağıtım gruplarını, belirli ölçütleri karşıladıklarında Office 365 Gruplarına dönüştürebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="afde1-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="afde1-104">Bir grubu dönüştürmek veya dönüşüm sorunlarını gidermek için [bkz.](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists)</span><span class="sxs-lookup"><span data-stu-id="afde1-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>

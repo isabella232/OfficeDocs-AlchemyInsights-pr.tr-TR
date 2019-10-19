@@ -1,5 +1,5 @@
 ---
-title: Hub site kaldırma
+title: Hub sitesini kaldırma
 ms.author: kaarins
 author: kaarins
 ms.date: 12/28/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: aacb11aa21adf704c89f7dd7a6a4006cfbf6e628
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ccd0bb32ea6b5a043412ba0040dfde78a672810a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552875"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745381"
 ---
-# <a name="remove-a-hub-site"></a><span data-ttu-id="157f2-102">Hub site kaldırma</span><span class="sxs-lookup"><span data-stu-id="157f2-102">Remove a hub site</span></span>
+# <a name="remove-a-hub-site"></a><span data-ttu-id="f8e37-102">Hub sitesini kaldırma</span><span class="sxs-lookup"><span data-stu-id="f8e37-102">Remove a hub site</span></span>
 
-<span data-ttu-id="157f2-103">Yeni SharePoint Yönetim Merkezi bir hub sitedeki kaydını sil</span><span class="sxs-lookup"><span data-stu-id="157f2-103">Unregister a hub site in the new SharePoint admin center</span></span>
+<span data-ttu-id="f8e37-103">Yeni SharePoint yönetici merkezinde bir hub sitesinin kaydını silme</span><span class="sxs-lookup"><span data-stu-id="f8e37-103">Unregister a hub site in the new SharePoint admin center</span></span>
   
-1. <span data-ttu-id="157f2-104">Yeni SharePoint Yönetim Merkezi'nde **siteleri** **Etkin siteler**' i tıklatın.</span><span class="sxs-lookup"><span data-stu-id="157f2-104">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
+1. <span data-ttu-id="f8e37-104">Yeni SharePoint yönetici merkezinde, **Siteler** **altında, Etkin sitelere**tıklayın.</span><span class="sxs-lookup"><span data-stu-id="f8e37-104">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
 
-2. <span data-ttu-id="157f2-105">Siteyi seçin, **Hub sitesi**tıklatın ve **hub sitesi olarak kayıt Sil**' i tıklatın.</span><span class="sxs-lookup"><span data-stu-id="157f2-105">Select the site, click **Hub site**, and then click **Unregister as hub site**.</span></span>
+2. <span data-ttu-id="f8e37-105">Siteyi seçin, **Hub sitesini**tıklatın ve ardından **hub sitesi olarak Kaydol'u**tıklatın.</span><span class="sxs-lookup"><span data-stu-id="f8e37-105">Select the site, click **Hub site**, and then click **Unregister as hub site**.</span></span>
 
-3. <span data-ttu-id="157f2-106">**Tamam**'a tıklayın.</span><span class="sxs-lookup"><span data-stu-id="157f2-106">Click **OK**.</span></span>
+3. <span data-ttu-id="f8e37-106">**Tamam**'a tıklayın.</span><span class="sxs-lookup"><span data-stu-id="f8e37-106">Click **OK**.</span></span>
 
-[<span data-ttu-id="157f2-107">Hub siteleri hakkında daha fazla bilgi edinin</span><span class="sxs-lookup"><span data-stu-id="157f2-107">Learn more about hub sites</span></span>](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f?ui=en-US&amp;rs=en-US&amp;ad=US)
+[<span data-ttu-id="f8e37-107">Hub siteleri hakkında daha fazla bilgi edinin</span><span class="sxs-lookup"><span data-stu-id="f8e37-107">Learn more about hub sites</span></span>](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)
   
