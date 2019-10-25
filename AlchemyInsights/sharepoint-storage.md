@@ -3,7 +3,6 @@ title: SharePoint depolama
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502752"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658277"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>SharePoint çevrimiçi depolama yönetme
+# <a name="manage-your-sharepoint-online-storage"></a>SharePoint Online depolama alanınızı yönetme
 
-Böylece site koleksiyonunun başına sınırlarını ayarlamak gerekmez birçok kuruluş için SharePoint depolama alanını otomatik olarak yönetilir. Elinizde ne kadar SharePoint depolama alanı denetlemek için:
-  
-- Yeni SharePoint Yönetim Merkezi sağ üst tarafındaki Siteler sayfasında kullanılabilir ve toplam depolama için bakın.
+Kiracı [depolama alanının](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) planınıza göre nasıl hesaplandığı hakkında bilgi edinin.
 
-[SharePoint çevrimiçi sınırları](https://go.microsoft.com/fwlink/p/?LinkID=856113)sınırınızı nasıl hesaplandığını hakkında daha fazla bilgi için bkz. Ek depolama alanı satın almak için bkz: [aboneliğiniz için depolama alanını değiştir](https://go.microsoft.com/fwlink/?linkid=866428).
-  
-Tek tek sitelerin depolama izleme hakkında bilgi için PowerShell kullanma ve site koleksiyonu depolama alanı el ile yönetme Bkz: [site koleksiyonu depolama sınırları Yönet](https://go.microsoft.com/fwlink/?linkid=867833)
+Çoğu kuruluş için SharePoint depolama alanı otomatik olarak yönetilir, bu nedenle site koleksiyonu başına sınırlar belirlemeniz gerekmez.
+
+[Kuruluşunuz için toplam ve kullanılabilir depolama alanını](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)nasıl görüntüleyebilirsiniz öğrenin.
+
+[Tek tek site koleksiyonu depolama sınırlarını](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)nasıl yöneteceklerini öğrenin.
+
+Siteniz inboşluk dışındaysa veya alanı hangi kitaplık veya listeyi kullandığını öğrenmek istiyorsanız, **Site Ayarları** > **Depolama Ölçümleri'ne** gidin (Site Koleksiyonu yöneticisiizinizingereklidir).
+
+[PowerShell'i kullanarak site depolama sınırlarını](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)nasıl izleyeceğizi öğrenin.
+
+[İlave depolama alanı satın](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space)almayı öğrenin. 
   

@@ -1,5 +1,5 @@
 ---
-title: OneDrive depolama
+title: OneDrive depolama alanı
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661064"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658313"
 ---
-# <a name="manage-your-onedrive-storage"></a>OneDrive depolama yönetme
+# <a name="manage-your-onedrive-storage"></a>OneDrive depolama alanınızı yönetme
 
-Yeni ve varolan OneDrive kullanıcılar için varsayılan depolama değiştirmek için:
-  
-- [Depolama OneDrive Yönetim Merkezi sayfasına](https://admin.onedrive.com/?v=StorageSettings)gidin ve GB yeni bir tutar girin.
+OneDrive Depolama alanı genel Kiracı Kotası olarak sayılmaz. 
 
-Bu depolama alanı ayarı özel depolama sınırları ayarlamadıysanız, tüm kullanıcılara uygulanır. Belirli kullanıcılar için depolama alanını değiştirmek için Microsoft PowerShell kullanmanız gerekir. Bunun nasıl yapılacağı hakkında daha fazla bilgi için bkz: [PowerShell kullanarak, kullanıcılarınızın OneDrive depolama alanını değiştirin](https://go.microsoft.com/fwlink/?linkid=866402). Ne kadar depolama alanı denetlemek için kendi OneDrive içinde kullanıyorsanız, [sizin OneDrive işletme depolaması için](https://go.microsoft.com/fwlink/?linkid=866429)bkz. Her planı ile birlikte gelen depolama birimi hakkında daha fazla bilgi için bkz: [iş hizmet açıklaması için OneDrive](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+[OneDrive depolama alanının kullanıcı/plan başına nasıl tahsis edildiğini](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user)öğrenin.
+
+[OneDrive'ınızda ne kadar depolama alanı kullandığınızı](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)öğrenin.
+
+[PowerShell'i kullanarak OneDrive Depolama Kotasını nasıl elde edebilirsiniz](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614)öğrenin.
+
+Microsoft başlangıçta kullanıcı başına 1 TB sağlar ve bu tb yöneticileri kullanıcı başına en fazla 5 TB'ye kadar artırabilir. OneDrive kullanıcıları için varsayılan depolama alanını nasıl [ayarlayabilirsiniz](https://docs.microsoft.com/onedrive/set-default-storage-space)öğrenin.
+
+[Belirli bir kullanıcının OneDrive depolama alanını nasıl değiştireceğinizi](https://docs.microsoft.com/onedrive/change-user-storage)öğrenin.
+
+[Global Yöneticilerin PowerShell kullanan tüm kullanıcılar için OneDrive Depolama Kotasını nasıl ayarlayabildiğini](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b)öğrenin.
   
