@@ -13,29 +13,29 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501276"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36576896"
 ---
 # <a name="subscription-information"></a>Abonelik bilgileri
 
-**Faturalama** için gidin, kendi, Yönetim Merkezi'nde, Office 365 abonelikleri hakkında daha fazla bilgi için \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
+Sahip olduğunuz abonelikler hakkında daha fazla bilgi için **Faturalama** \> [Ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
   
-Her abonelik hakkında önemli bilgiler:
+Her abonelik le ilgili önemli bilgiler:
   
-- Her durum
+- Her birinin durumu
 
-- Satın alınan lisans
+- Satın alınan lisanslar
 
-- Atanan lisansları
+- Atanan lisanslar
 
 - Yinelenen fatura durumu
 
-- Bakiye
+- Bayram
 
 - Ödeme yöntemi
 
-- Sonraki fatura veya son kullanma tarihi
+- Sonraki faturalandırma veya son kullanma tarihi
