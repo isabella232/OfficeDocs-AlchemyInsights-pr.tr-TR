@@ -1,9 +1,8 @@
 ---
-title: Lisansları hakkında soru
+title: Lisanslar hakkında soru
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f4a3aa0f932f9f87175b1b67e16c8186e90d1c7b
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666680"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768640"
 ---
-# <a name="questions-about-your-office-365-license"></a>Office 365 lisansınız hakkında sorular
+# <a name="questions-about-your-office-365-license"></a>Office 365 lisansınız la ilgili sorular
 
-Satın aldığınız lisans veya lisans sayısını bir abonelikten atanan bilmek istiyorsanız:
+Kaç lisans satın aldığınızı veya bir abonelikten kaç lisans atanır bilmek istiyorsanız:
   
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
+1. Yönetim merkezinde **Faturalama** \> [Ürünler ve hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
 
-2. Hakkında daha fazla bilgi edinmek istediğiniz aboneliğin bulun. Lisansları için ödeme yapıyorsanız ve ne kadar atanmak üzere kullanılabilir sayısını görebilirsiniz.
+2. Hakkında daha fazla bilgi edinmek istediğiniz aboneliği bulun. Ödeme yaptığınız lisans sayısını ve atanacak lisans sayısını görebilirsiniz.
 
-Daha çok lisans eklemek isterseniz veya çok varsa, çoğu, **Ekle/Kaldır lisansları** satın miktarını ayarlamak için seçin.
+Daha fazla lisans eklemek istiyorsanız veya çok fazla lisansınvarsa, satın alınan miktarı ayarlamak için **Lisans Ekle/Kaldır'ı** seçin.

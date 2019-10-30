@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: d43ada137a906f0a4dade37bf6b30b597fd64576
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 16f99b3bfce3513ada0e0c14ee8e3106cb7565d7
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36736921"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768388"
 ---
 # <a name="become-an-admin"></a>Yönetici Ol
 
-Bu kuruluşun yönetici rolünü üstlenmek için kiracıyı devralmanız gerekir.
+Kuruluşunuzun yönetici rolünü üstlenmek için Office 365'teki kiracıyı devralmanız gerekir.
   
 Bu kılavuzdaki yönergeleri izleyin: [Office 365'te yönetici devralma yapın](https://docs.microsoft.com/office365/admin/misc/become-the-admin)

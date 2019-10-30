@@ -3,7 +3,6 @@ title: Harici kullanıcı ekleme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +12,18 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: bf16fa05a2c878e11d28582258c3615923393cdc
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ee5aa6792e9399bc6c16ff2cfd26abf6a843693a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36737425"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766695"
 ---
 # <a name="adding-external-users"></a>Harici kullanıcı ekleme
 
-Harici / konuk kullanıcı ekleme adımları, erişebilmeleri için neye ihtiyacınız olduğu yla ilgili olarak farklı olabilir. Lütfen aşağıdakilerden birini seçin:
+Harici/konuk kullanıcı ekleme adımları, erişebilmeleri için neye ihtiyacınız olduğu yla ilgili olarak farklı olabilir. Lütfen aşağıdakilerden birini seçin:
   
-- [Dış paylaşıma genel bakış](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+- [SharePoint Online dış paylaşıma genel bakış](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
 - [Office 365 Gruplarında konuk erişimi](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 

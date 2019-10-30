@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: fb29d30eb676de8d367002010d3eabebd73bc54b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c452169a260dd8b6f2aea32729c4228e54c18e77
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756156"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769035"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>Eksik veya silinen site koleksiyonlarını kurtarma
 
-Eksik veya silinen site koleksiyonlarını kurtarma.
+SharePoint'te eksik veya silinen site koleksiyonlarını nasıl kurtarılacaklarına ilişkin bilgi için aşağıdaki makalelere bakın.
 
 [Silinen siteleri geri yükleme](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
@@ -27,6 +27,6 @@ Eksik veya silinen site koleksiyonlarını kurtarma.
 
 Siteyi bulamıyorsanız, [Office 365 &amp; Güvenlik Uyumluluk Merkezi'ndeki denetim günlüğünde arama](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)yapmak isteyebilirsiniz.
 
-**Not**: "Modern" takım siteleri **Classic** SharePoint yönetici UI'da görünmez. [New Sharepoint yönetici](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)merkezinden "modern" sitelerin listesine erişebilirsiniz.
+**Not:** "Modern" takım siteleri **Classic** SharePoint yönetici UI'da görünmez. [New Sharepoint yönetici merkezinden](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)"modern" sitelerin listesine erişebilirsiniz.
 
 

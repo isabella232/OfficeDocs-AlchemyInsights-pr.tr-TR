@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: 6fc5645028c9fb9df2606c0d03b67e87ae15087c
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: c6d5c0233acb8fb71127dcb54c719b71aa1a5bcb
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344257"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769827"
 ---
 # <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Ekipleri yeni veya varolan Office yüklemelerinden kaldırma veya hariç tutma
 
-Microsoft Teams artık Office 365 ProPlus, Office 365 Business ve Office for Mac'in bir parçası olarak eklenmiştir.
+Microsoft Teams, Office 365 ProPlus, Office 365 Business ve Office for Mac'in bir parçası olarak dahildir.
 
 - Ekipleri yeni Office yüklemelerinden hariç tutmak için [Office Dağıtım Aracı'nı](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) kullanın.
 - Windows çalıştıran bir aygıttan Takımlar *kaldırmak* için Microsoft [Ekiplerini](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81)Kaldır'ı'na bakın. Microsoft Ekiplerini birden çok hedef makineden veya kullanıcıdan temizlemek için Microsoft [Teams dağıtımının temizlenmesine](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)bakın.

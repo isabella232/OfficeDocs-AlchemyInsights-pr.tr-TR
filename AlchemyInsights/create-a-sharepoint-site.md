@@ -2,7 +2,6 @@
 title: SharePoint sitesi oluşturma
 ms.author: efrene
 author: efrene
-ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,12 +13,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: ac894195d847dfc009bc0b57647e1a474361f1c1
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36738217"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769611"
 ---
 # <a name="create-a-sharepoint-site"></a>SharePoint sitesi oluşturma
 
@@ -31,10 +30,10 @@ SharePoint site oluşturma hakkında bilgi için aşağıdakileri görebilirsini
 
 
   
-> [! İpuçları]
-> - Varolan bir sitenin aynı URL'sini içeren bir site oluşturamazsınız. Bir siteyi sildiyseniz ve URL'yi yeniden kullanmak istiyorsanız, silinen site **silinmiş sitelerin**altında hala var olabilir. Silinen siteleri yönetmek için [bkz.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) Powershell içeren bir siteyi tamamen kaldırmak [için, Kaldır-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet örneğine bakın.
-> - Bazı kullanıcılar bir site oluşturamayabilir. Bkz. [SharePoint Online'da site oluşturmayı yönet.](https://docs.microsoft.com/sharepoint/manage-site-creation)
-> - Sitenin beklenenden daha uzun süredir **Oluşturma'da** sıkışmış görünmesi mümkündür. Bu sorunu ilk gördüğünüzden bu yana 24 saatten fazla zaman geçtiyse, lütfen bir destek bileti ni kaydedin. Çoğu durumda, zaten bir çözüm üzerinde çalışıyoruz. Lütfen bir çözümü tamamlamamız için bize en az 24 saat verin.
-> - Office 365 grubu içermeyen yeni bir ekip sitesi oluşturmanız gerekiyorsa, 
+**Ipuç -ları:**
+- Varolan bir sitenin aynı URL'sini içeren bir site oluşturamazsınız. Bir siteyi sildiyseniz ve URL'yi yeniden kullanmak istiyorsanız, silinen site **silinmiş sitelerin**altında hala var olabilir. Silinen siteleri yönetmek için [bkz.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) Powershell içeren bir siteyi tamamen kaldırmak [için, Kaldır-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet örneğine bakın.
+- Bazı kullanıcılar bir site oluşturamayabilir. Bkz. [SharePoint Online'da site oluşturmayı yönet.](https://docs.microsoft.com/sharepoint/manage-site-creation)
+- Sitenin beklenenden daha uzun süredir **Oluşturma'da** sıkışmış görünmesi mümkündür. Bu sorunu ilk gördüğünüzden bu yana 24 saatten fazla zaman geçtiyse, lütfen bir destek bileti ni kaydedin. Çoğu durumda, zaten bir çözüm üzerinde çalışıyoruz. Lütfen bir çözümü tamamlamamız için bize en az 24 saat verin.
+- Office 365 grubu içermeyen yeni bir ekip sitesi oluşturmanız gerekiyorsa, 
 
 

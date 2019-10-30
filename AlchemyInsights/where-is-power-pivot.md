@@ -1,9 +1,8 @@
 ---
-title: Güç Özet nerede?
+title: Power Pivot nerede?
 ms.author: chrsm
 author: chrsm
 manager: jecon
-ms.date: 2/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,31 +14,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 5767fead9f67ad1070b3dbe65415d4c728cfd92f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530978"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769863"
 ---
-# <a name="where-is-power-pivot"></a>Güç Özet nerede?
+# <a name="where-is-power-pivot"></a>Power Pivot nerede?
 
-Güç Özet neden görmüyorum üç nedeni vardır:
+Power Pivot'u görememenizin üç nedeni vardır:
   
-**Excel sürümünüze dahil değildir**
+**Excel sürümünüz bunu içermez**
   
-Güç Pivot Excel tüm sürümlerini içerir. Güç Özet içeren Office sürümüne yükseltmeniz gerekir. [Desteklenen sürümlerin listesi denetleyin.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Excel'in tüm sürümleri Power Pivot içermez. Office'in Power Pivot içeren bir sürümüne yükseltmeniz gerekir. [Desteklenen sürümlerin listesini kontrol edin.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**Güç Özet etkin değil**
+**Power Pivot'u etkinleştirmedin**
   
-Destekleyen Güç Pivot Excel sürümünde çalışıyorsanız, eklentinin etkinleştirilip etkinleştirilmediğini denetleyin:
+Excel'in Power Pivot'u destekleyen bir sürümünde çalışıyorsanız, Eklenti'nin etkin olup olmadığını denetleyin:
   
-1. **Dosya** \> **seçenekleri** \> **Add-Ins**.
+1. **Dosya** \> **Seçenekleri** \> **Eklentileri'ni**seçin.
 
-2. **Yönet** açılan kutuda, **COM eklentileri** seçin ve **Git**düğmesini tıklatın.
+2. Açılan kutuyu **Yönet** **kutusunda, COM Eklentileri'ni** seçin ve **Git'i**tıklatın.
 
-3. **Com eklentileri** iletişim kutusunda, **Microsoft Excel için güç Özet**yanındaki onay kutusunu seçin ve **Tamam**' ı tıklatın.
+3. Com **Eklentileri** iletişim kutusunda, **Excel için Microsoft Power Pivot'un**yanındaki onay kutusunu seçin ve ardından **Tamam'ı**tıklatın.
 
-**Birden fazla abonelik veya hesapları var**
+**Birden fazla aboneliğiniz veya hesabınız var**
   
-Farklı Office 365 abonelikleri farklı kullanıcı hesaplarına atanmış olabilir. Destekleyen Güç Pivot Excel sürümü ile bir hesaba oturum açtıysanız emin olun. [Desteklenen sürümleri](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)listesini denetleyin ve [Farklı Office hesaplar arasında geçiş yapmak](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)için yönergeleri izleyin.
+Farklı kullanıcı hesaplarına atanmış farklı Office 365 abonelikleri olabilir. Power Pivot'u destekleyen Excel sürümüne sahip bir hesapta oturum açmış olduğunuzdan emin olun. [Desteklenen sürümlerin](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)listesini kontrol edin ve [farklı Office hesapları arasında geçiş](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)yapmak için yönergeleri izleyin.

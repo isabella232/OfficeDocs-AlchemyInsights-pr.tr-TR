@@ -8,22 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754212"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768821"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Sorun giderme sorunu - Kullanıcı dizinde bulunamadı
 
-Kullanıcılar dizinde "kullanıcı bulunamıyor" hata iletisi alıyorsanız. Lütfen Sorun Türü Kullanıcı dizininde olmadığı yerde yeniden deneyin.
+Kullanıcılar dizinde "kullanıcı bulunamıyor" hata iletisi alıyorsa, lütfen Sorun Türü Kullanıcı'nın dizinde olmadığı yerlerde yeniden deneyin.
 
 Sorunu gidermek için aşağıdaki adımlar tamamlanabilir.
 
 - E-posta davetini kabul eden hesabın daha sonra oturum açmada kullanılan hesapla aynı olduğundan emin olun. Daveti kabul etmek ve sitede oturum açmak için kullanıcının aynı hesabı kullandığından emin olun. 
 
-Daha fazla bilgi için, [Office 365</a> oturumunu yönetmek için Microsoft hesabınıza takma](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases)adlar nasıl yönetilir' e bakın. 
+Daha fazla bilgi için, [Office 365</a> oturumunu yönetmek için Microsoft hesabınıza takma adlar nasıl yönetilir'](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases)e bakın. 
 
 - Kullanıcının hata aldığı her siteye göz atın. 
 

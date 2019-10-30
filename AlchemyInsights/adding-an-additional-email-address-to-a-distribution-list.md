@@ -1,9 +1,8 @@
 ---
-title: 713 ek e-posta adresi bir dağıtım listesine ekleme
+title: 713 Dağıtım listesine ek bir e-posta adresi ekleme
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 5bf91d9ff6824fd5ee10510c4a5f0c85edf4be7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c51ed54fcbdf131605995b95bd0619d877e96b29
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494799"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766227"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a>Bir dağıtım grubuna bir e-posta adresi ekleme
+# <a name="add-an-email-address-for-a-distribution-group"></a>Dağıtım grubu için e-posta adresi ekleme
 
-Varolan bir dağıtım grubu için e-posta adresleri eklemek için şu adımları izleyin:
+Varolan bir dağıtım grubu için e-posta adresleri eklemek için aşağıdaki adımları izleyin:
 
-1. **Alıcıları** [Exchange Yönetim Merkezi](https://outlook.office365.com/ecp/), Git \> **grupları**.
+1. Exchange [yönetici merkezinde,](https://outlook.office365.com/ecp/) **Alıcı** \> **Grupları'na**gidin.
 
-2. Değiştirmek istediğiniz dağıtım grubunu seçin ve **Düzenle**' yi tıklatın.
+2. Değiştirmek istediğiniz dağıtım grubunu seçin ve sonra **Edit'i**tıklatın.
 
-3. Grup özelliklerinde, e-posta adresleri eklemek için **e-posta seçenekleri** sekmesine gidin. 
+3. Grubun özelliklerinde, e-posta adresleri eklemek için **E-posta seçenekleri** sekmesine gidin. 
 
-Daha fazla bilgi için bkz: [e-posta seçenekleri](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).
+Daha fazla bilgi için [Bkz. E-posta seçenekleri.](https://technet.microsoft.com/library/bb124513.aspx#emailoptions)

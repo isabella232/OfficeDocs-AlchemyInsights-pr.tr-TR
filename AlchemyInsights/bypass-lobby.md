@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37654276"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768460"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Lobi ayarlarını ve katılım düzeyini kontrol edin
 
-Çevirmeli, harici ve anonim kullanıcılar da dahil olmak üzere herkesin lobiyi atlamasına izin vermek istiyorsanız, bunu yapmak için PowerShell'i kullanabilirsiniz. Kuruluşunuz için genel toplantı ilkesini değiştirmenize bir örnek aşağıda verilmiştir:
+Arayarak, harici ve anonim kullanıcılar da dahil olmak üzere herkesin Microsoft Teams'teki lobiyi atlamasına izin vermek isterseniz, bunu yapmak için PowerShell'i kullanabilirsiniz. Kuruluşunuz için genel toplantı ilkesini değiştirmenize bir örnek aşağıda verilmiştir:
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 

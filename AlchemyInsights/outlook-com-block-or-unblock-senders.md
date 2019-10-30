@@ -1,5 +1,5 @@
 ---
-title: Engellemek veya izin vermek, Outlook.com Gönderenler
+title: Outlook.com'daki gönderenleri engelleme veya engellemeyi kaldırma
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,29 +15,29 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643714"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768748"
 ---
-# <a name="block-or-unblock-senders"></a>Engellemek veya izin vermek Gönderenler
+# <a name="block-or-unblock-senders"></a>Gönderenleri engelleme veya engellemeyi kaldırma
 
-E-posta adreslerinden veya etki alanlarından, Engellenen gönderenlerden gelen iletiler, doğrudan Önemsiz e-posta klasörünüze gidin. E-posta Önemsiz e-posta klasöründen 30 gün sonra otomatik olarak silinir ve kurtarılamaz. SE; ect bir öğenin ne zaman kaldırılacak görmek için.
+Engellenen gönderenlerinizdeki e-posta adreslerinden veya etki alanlarından gelen iletiler doğrudan Outlook Önemsiz E-posta klasörünüze gider. E-posta 30 gün sonra Önemsiz E-posta klasöründen otomatik olarak kaldırılır ve kurtarılamaz. Ne zaman kaldırılacağını görmek için bir öğe seçin.
 
-**Gelen Kutusu'ndan:**
+**Gelen kutunuzdan:**
 
-- İleti listesinde iletiyi seçin ve ardından **Önemsiz**seçin > **bloğu**.
-- **Not:** Önceden, önemsiz e-posta klasöründeki bir öğeyi engelleme silmez.
+- İleti listesinde, iletiyi seçin ve sonra **Önemsiz** > **Blok'u**seçin.
+- **Not:** Önemsiz E-posta klasörünüzde zaten bulunan bir öğeyi engellemek, öğeyi silmez.
 
-**Ayarları:**
+**Ayarlar gönderen:**
 
-1. [Önemsiz e-posta](https://outlook.live.com/mail/options/mail/junkEmail) Ayarları'nı açın.
-2. **Engellenen Gönderenler ve etki alanı**altında **Ekle**' yi seçin.
-3. Engelleme ve Enter tuşuna basın istediğiniz etki alanı e-posta adresini yazın.
+1. [Önemsiz e-posta](https://outlook.live.com/mail/options/mail/junkEmail) ayarlarını açın.
+2. **Engellenen gönderenler ve etki alanları**altında **Ekle'yi**seçin.
+3. Engellemek istediğiniz etki alanının e-posta adresini yazın ve Enter tuşuna basın.
 4. **Kaydet** 'i seçin.
 
-Bir göndereni engelini kaldırmak için e-posta adresi veya engellemesini kaldırmak istediğiniz etki alanının yanındaki Çöp Kutusu simgesini seçin.
+Gönderenin engelini kaldırmak için, engelini kaldırmak istediğiniz e-posta adresinin veya etki alanının yanındaki çöp kutusu simgesini seçin.
 
-Daha fazla bilgi için bkz: [e-posta önemsiz veya blok gönderenlerden Outlook.com olarak işaretle](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Daha fazla bilgi edinmek [için, e-postayı önemsiz olarak işaretleyin veya Outlook.com'da gönderenleri engelleyin.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
