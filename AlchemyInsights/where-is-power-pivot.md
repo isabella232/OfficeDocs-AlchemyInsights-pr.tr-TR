@@ -1,9 +1,8 @@
 ---
-title: Güç Özet nerede?
+title: Power Pivot nerede?
 ms.author: chrsm
 author: chrsm
 manager: jecon
-ms.date: 2/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,31 +14,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 5767fead9f67ad1070b3dbe65415d4c728cfd92f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530978"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769863"
 ---
-# <a name="where-is-power-pivot"></a><span data-ttu-id="8602a-102">Güç Özet nerede?</span><span class="sxs-lookup"><span data-stu-id="8602a-102">Where is Power Pivot?</span></span>
+# <a name="where-is-power-pivot"></a><span data-ttu-id="81316-102">Power Pivot nerede?</span><span class="sxs-lookup"><span data-stu-id="81316-102">Where is Power Pivot?</span></span>
 
-<span data-ttu-id="8602a-103">Güç Özet neden görmüyorum üç nedeni vardır:</span><span class="sxs-lookup"><span data-stu-id="8602a-103">There are three reasons why you don't see Power Pivot:</span></span>
+<span data-ttu-id="81316-103">Power Pivot'u görememenizin üç nedeni vardır:</span><span class="sxs-lookup"><span data-stu-id="81316-103">There are three reasons why you might not see Power Pivot:</span></span>
   
-<span data-ttu-id="8602a-104">**Excel sürümünüze dahil değildir**</span><span class="sxs-lookup"><span data-stu-id="8602a-104">**Your version of Excel doesn't include it**</span></span>
+<span data-ttu-id="81316-104">**Excel sürümünüz bunu içermez**</span><span class="sxs-lookup"><span data-stu-id="81316-104">**Your version of Excel doesn't include it**</span></span>
   
-<span data-ttu-id="8602a-105">Güç Pivot Excel tüm sürümlerini içerir.</span><span class="sxs-lookup"><span data-stu-id="8602a-105">Not all versions of Excel include Power Pivot.</span></span> <span data-ttu-id="8602a-106">Güç Özet içeren Office sürümüne yükseltmeniz gerekir.</span><span class="sxs-lookup"><span data-stu-id="8602a-106">You will need to upgrade to a version of Office that includes Power Pivot.</span></span> [<span data-ttu-id="8602a-107">Desteklenen sürümlerin listesi denetleyin.</span><span class="sxs-lookup"><span data-stu-id="8602a-107">Check the list of supported versions.</span></span>](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+<span data-ttu-id="81316-105">Excel'in tüm sürümleri Power Pivot içermez.</span><span class="sxs-lookup"><span data-stu-id="81316-105">Not all versions of Excel include Power Pivot.</span></span> <span data-ttu-id="81316-106">Office'in Power Pivot içeren bir sürümüne yükseltmeniz gerekir.</span><span class="sxs-lookup"><span data-stu-id="81316-106">You will need to upgrade to a version of Office that includes Power Pivot.</span></span> [<span data-ttu-id="81316-107">Desteklenen sürümlerin listesini kontrol edin.</span><span class="sxs-lookup"><span data-stu-id="81316-107">Check the list of supported versions.</span></span>](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-<span data-ttu-id="8602a-108">**Güç Özet etkin değil**</span><span class="sxs-lookup"><span data-stu-id="8602a-108">**You haven't enabled Power Pivot**</span></span>
+<span data-ttu-id="81316-108">**Power Pivot'u etkinleştirmedin**</span><span class="sxs-lookup"><span data-stu-id="81316-108">**You haven't enabled Power Pivot**</span></span>
   
-<span data-ttu-id="8602a-109">Destekleyen Güç Pivot Excel sürümünde çalışıyorsanız, eklentinin etkinleştirilip etkinleştirilmediğini denetleyin:</span><span class="sxs-lookup"><span data-stu-id="8602a-109">If you are working in a version of Excel that supports Power Pivot, check to see that the Add-in is enabled:</span></span>
+<span data-ttu-id="81316-109">Excel'in Power Pivot'u destekleyen bir sürümünde çalışıyorsanız, Eklenti'nin etkin olup olmadığını denetleyin:</span><span class="sxs-lookup"><span data-stu-id="81316-109">If you are working in a version of Excel that supports Power Pivot, check to see that the Add-in is enabled:</span></span>
   
-1. <span data-ttu-id="8602a-110">**Dosya** \> **seçenekleri** \> **Add-Ins**.</span><span class="sxs-lookup"><span data-stu-id="8602a-110">Choose **File** \> **Options** \> **Add-Ins**.</span></span>
+1. <span data-ttu-id="81316-110">**Dosya** \> **Seçenekleri** \> **Eklentileri'ni**seçin.</span><span class="sxs-lookup"><span data-stu-id="81316-110">Choose **File** \> **Options** \> **Add-Ins**.</span></span>
 
-2. <span data-ttu-id="8602a-111">**Yönet** açılan kutuda, **COM eklentileri** seçin ve **Git**düğmesini tıklatın.</span><span class="sxs-lookup"><span data-stu-id="8602a-111">In the **Manage** drop down box, choose **COM Add-ins** and click **Go**.</span></span>
+2. <span data-ttu-id="81316-111">Açılan kutuyu **Yönet** **kutusunda, COM Eklentileri'ni** seçin ve **Git'i**tıklatın.</span><span class="sxs-lookup"><span data-stu-id="81316-111">In the **Manage** drop down box, choose **COM Add-ins** and click **Go**.</span></span>
 
-3. <span data-ttu-id="8602a-112">**Com eklentileri** iletişim kutusunda, **Microsoft Excel için güç Özet**yanındaki onay kutusunu seçin ve **Tamam**' ı tıklatın.</span><span class="sxs-lookup"><span data-stu-id="8602a-112">In the **Com Add-ins** dialog box, select the checkbox next to **Microsoft Power Pivot for Excel**, and then click **OK**.</span></span>
+3. <span data-ttu-id="81316-112">Com **Eklentileri** iletişim kutusunda, **Excel için Microsoft Power Pivot'un**yanındaki onay kutusunu seçin ve ardından **Tamam'ı**tıklatın.</span><span class="sxs-lookup"><span data-stu-id="81316-112">In the **Com Add-ins** dialog box, select the checkbox next to **Microsoft Power Pivot for Excel**, and then click **OK**.</span></span>
 
-<span data-ttu-id="8602a-113">**Birden fazla abonelik veya hesapları var**</span><span class="sxs-lookup"><span data-stu-id="8602a-113">**You have multiple subscriptions or accounts**</span></span>
+<span data-ttu-id="81316-113">**Birden fazla aboneliğiniz veya hesabınız var**</span><span class="sxs-lookup"><span data-stu-id="81316-113">**You have multiple subscriptions or accounts**</span></span>
   
-<span data-ttu-id="8602a-114">Farklı Office 365 abonelikleri farklı kullanıcı hesaplarına atanmış olabilir.</span><span class="sxs-lookup"><span data-stu-id="8602a-114">You might have different Office 365 subscriptions assigned to different user accounts.</span></span> <span data-ttu-id="8602a-115">Destekleyen Güç Pivot Excel sürümü ile bir hesaba oturum açtıysanız emin olun.</span><span class="sxs-lookup"><span data-stu-id="8602a-115">Make sure you're signed in to an account with a version of Excel that supports Power Pivot.</span></span> <span data-ttu-id="8602a-116">[Desteklenen sürümleri](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)listesini denetleyin ve [Farklı Office hesaplar arasında geçiş yapmak](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)için yönergeleri izleyin.</span><span class="sxs-lookup"><span data-stu-id="8602a-116">Check the list of [supported versions](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), and follow the instructions to [switch between different Office accounts](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).</span></span>
+<span data-ttu-id="81316-114">Farklı kullanıcı hesaplarına atanmış farklı Office 365 abonelikleri olabilir.</span><span class="sxs-lookup"><span data-stu-id="81316-114">You might have different Office 365 subscriptions assigned to different user accounts.</span></span> <span data-ttu-id="81316-115">Power Pivot'u destekleyen Excel sürümüne sahip bir hesapta oturum açmış olduğunuzdan emin olun.</span><span class="sxs-lookup"><span data-stu-id="81316-115">Make sure you're signed in to an account with a version of Excel that supports Power Pivot.</span></span> <span data-ttu-id="81316-116">[Desteklenen sürümlerin](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)listesini kontrol edin ve [farklı Office hesapları arasında geçiş](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)yapmak için yönergeleri izleyin.</span><span class="sxs-lookup"><span data-stu-id="81316-116">Check the list of [supported versions](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), and follow the instructions to [switch between different Office accounts](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).</span></span>

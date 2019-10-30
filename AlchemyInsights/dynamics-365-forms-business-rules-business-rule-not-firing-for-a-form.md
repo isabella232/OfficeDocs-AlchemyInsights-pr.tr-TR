@@ -9,13 +9,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 95c51f61f9f5ac61d77bf3286f4e4602d47e4801
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 66911e4f87d54f635b397d02fefdcaadb68d0ecc
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36528970"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769395"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a><span data-ttu-id="745ce-102">İş kuralı bir form için ateş değil</span><span class="sxs-lookup"><span data-stu-id="745ce-102">Business rule not firing for a form</span></span>
+# <a name="business-rule-not-firing-for-a-form"></a><span data-ttu-id="31bae-102">İş kuralı bir form için ateş değil</span><span class="sxs-lookup"><span data-stu-id="31bae-102">Business rule not firing for a form</span></span>
 
-* [<span data-ttu-id="745ce-103">İş kuralınız bir form için ateş etmiyor mu?</span><span class="sxs-lookup"><span data-stu-id="745ce-103">Is your business rule not firing for a form?</span></span>](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)
+<span data-ttu-id="31bae-103">İş kuralında başvurulan alan forma dahil olmadığından, bir iş kuralı yürütülmeyebilir.</span><span class="sxs-lookup"><span data-stu-id="31bae-103">A business rule may not execute because the field referenced in the business rule isn’t included with the form.</span></span> <span data-ttu-id="31bae-104">Daha fazla bilgi için [bkz.](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)</span><span class="sxs-lookup"><span data-stu-id="31bae-104">For more information, see [Is your business rule not firing for a form?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).</span></span>

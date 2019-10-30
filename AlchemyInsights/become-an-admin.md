@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: d43ada137a906f0a4dade37bf6b30b597fd64576
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 16f99b3bfce3513ada0e0c14ee8e3106cb7565d7
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36736921"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768388"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="44d0a-102">Yönetici Ol</span><span class="sxs-lookup"><span data-stu-id="44d0a-102">Become an Admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="07533-102">Yönetici Ol</span><span class="sxs-lookup"><span data-stu-id="07533-102">Become an Admin</span></span>
 
-<span data-ttu-id="44d0a-103">Bu kuruluşun yönetici rolünü üstlenmek için kiracıyı devralmanız gerekir.</span><span class="sxs-lookup"><span data-stu-id="44d0a-103">To assume the admin role for this organization, you need to take over the tenant.</span></span>
+<span data-ttu-id="07533-103">Kuruluşunuzun yönetici rolünü üstlenmek için Office 365'teki kiracıyı devralmanız gerekir.</span><span class="sxs-lookup"><span data-stu-id="07533-103">To assume the admin role for your organization, you need to take over the tenant in Office 365.</span></span>
   
-<span data-ttu-id="44d0a-104">Bu kılavuzdaki yönergeleri izleyin: [Office 365'te yönetici devralma yapın](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span><span class="sxs-lookup"><span data-stu-id="44d0a-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span></span>
+<span data-ttu-id="07533-104">Bu kılavuzdaki yönergeleri izleyin: [Office 365'te yönetici devralma yapın](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span><span class="sxs-lookup"><span data-stu-id="07533-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span></span>
