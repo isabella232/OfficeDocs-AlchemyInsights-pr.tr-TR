@@ -1,5 +1,5 @@
 ---
-title: 665 sizin kimlik avı çok fazla alma veya istenmeyen posta kutunuzda?
+title: 665 Posta kutunuzda çok fazla kimlik avı veya spam alıyor musunuz?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,15 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 4ed84484431d430840c5c31c4275e366758f508f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 91c2c347e09706c1e3730eecba053035876d6931
+ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665924"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911651"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Çok fazla kimlik avı alma olan veya istenmeyen posta kutunuzda?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Posta kutunuzda çok fazla kimlik avı veya spam alıyor musunuz?
 
-Microsoft 365 Yönetici, Microsoft'a [Göndermeleri](https://protection.office.com/reportsubmission)Explorer'da örnek göndermek için neden bir kimlik avı veya istenmeyen ileti teslim edilmediğini belirlemek için en iyi yolu değil. İleti Filtreleme için ilgili anında geri bildirim alacaksınız ve bu yüzden sorunlar.
+Bir Microsoft 365 yöneticisi olarak, kimlik avı veya spam iletisinin neden teslim edildiğini belirlemenin en iyi yolu, örneği [Submissions Explorer'da](https://protection.office.com/reportsubmission)Microsoft'a göndermektir. İleti filtreleme ve neden sorunlar olduğu yla ilgili anında geri bildirim alırsınız.
 
-Easer yapmak için kullanıcılarınızın doğrudan [rapor iletisi eklentisi](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)yoluyla Microsoft'a bildirmek izin verebilirsiniz.
+Daha kolay hale getirmek için, kullanıcılarınızın [Rapor İletisi eklentisi](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)aracılığıyla doğrudan Microsoft'a rapor sunmasını sağlayabilirsiniz.
+
+**Biliyor muydunuz?**: Artık doğrudan [İleti izleme](https://protection.office.com/messagetrace) sinden örnekler gönderebilirsiniz ve E5/ATP Planı 2 müşterileri [Threat Explorer'dan](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)örnekler gönderebilirsiniz.
