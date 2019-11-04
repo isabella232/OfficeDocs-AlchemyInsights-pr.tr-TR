@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660956"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921834"
 ---
 # <a name="update-payment-details"></a>Ödeme ayrıntılarını güncelleştirme
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660956"
 4. Güncelleştirmeleri yapın ve sonra **Kaydet**’i seçin.
 
 5. Bu ödeme yöntemi kaldırmak için **Sil**’i seçin.
+
+**Sorun giderme**
+
+Sayfa yükleme konusunda sorun yaşıyorsanız, web sayfasını başka bir tarayıcıda açmayı ya da Microsoft Edge'in InPrivate penceresi veya Google Chrome'un gizli penceresi gibi özel bir tarayıcı penceresinde açmayı deneyin. 
 
 Daha fazla bilgi için bkz. [İş için Office 365’te kredi kartı veya banka hesabını ekleme, güncelleştirme ya da kaldırma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ve [Kredi kartı ve banka hesabı sorunlarını giderme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
