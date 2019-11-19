@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: 16f99b3bfce3513ada0e0c14ee8e3106cb7565d7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4bcf4a433fe5d49a61125dff60586ac717024da1
+ms.sourcegitcommit: 4ecd61b709d3ccb730dc120df9445754d5ae4f77
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768388"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704373"
 ---
 # <a name="become-an-admin"></a>Yönetici Ol
 
 Kuruluşunuzun yönetici rolünü üstlenmek için Office 365'teki kiracıyı devralmanız gerekir.
   
-Bu kılavuzdaki yönergeleri izleyin: [Office 365'te yönetici devralma yapın](https://docs.microsoft.com/office365/admin/misc/become-the-admin)
+Bu kılavuzdaki talimatları izleyin: [Yönetici Devralma](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#azure-ad-powershell-cmdlets-for-the-forcetakeover-option)
