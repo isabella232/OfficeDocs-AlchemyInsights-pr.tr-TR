@@ -1,5 +1,5 @@
 ---
-title: SharePoint belge kitaplığındaki öğeleri taşıma veya kopyalama
+title: SharePoint belge kitaplığında öğeleri kopyalama veya taşıma
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,31 +13,37 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: 0db9b6b20cb77c709c24273e089c2e511535e7ab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e14260d3670eb15f73e92dc5b0c86e0e842974a
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516259"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711776"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>SharePoint belge kitaplığındaki öğeleri taşıma veya kopyalama
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>SharePoint belge kitaplığında öğeleri kopyalama veya taşıma
 
-Kopyalama ve dosyaları, klasörleri ve bağlantılar bir belge kitaplığında farklı konumlara taşıyın. Siteler arasında öğeleri de kopyalayabilirsiniz. [Hedeflenen yayın seçeneği](https://go.microsoft.com/fwlink/?linkid=622980)kurduysanız, öğeleri çok siteler arasında taşıyabilirsiniz.
+Dosyaları, klasörleri ve bağlantıları belge kitaplığı içinde farklı konumlara kopyalayabilir ve taşıyabilirsiniz. Öğeleri siteler arasında da kopyalayabilirsiniz. 
   
-1. Tarayıcıda, dosyaları, klasörleri veya taşımak ve **kopyalamak** veya **taşımak için**tıklatıp istediğiniz bağlantıları bulun.
+1. Tarayıcıda, taşımak istediğiniz dosyalara, klasörlere veya bağlantılara göz atın ve ardından **Kopyala'yı** veya **'ye Taşı'yı**tıklatın.
 
     > [!NOTE]
-    > SharePoint Online Klasik deneyimi kullanıyorsanız, **kopyalamak** ve **taşımak için** kullanılamaz.
+    > SharePoint Online'ın klasik deneyimini kullanıyorsanız **kopyalayın** ve **taşı** kullanılamıyor.
   
-2. **Hedef Seç**altında kopyalamak veya öğeleri taşımak ya da sitelerin tam listesini görmek için **Siteler Gözat** ' ı tıklatarak istediğiniz konumu seçin.
+2. Bir **hedef seçin,** öğeleri kopyalamak veya taşımak istediğiniz konumu seçin veya sitelerin tam listesini görmek için **Sitelere Gözat'ı** tıklatın.
 
     > [!NOTE]
-    > Öğeleri kopyalarken, listelenen diğer sitelere görmüyorsanız, siteler arasında kopyalama yapılandırılmamış olması. Etkinleştirmek için SharePoint Yönetim Merkezi Ayarları sayfasına gidin ve **Tamam**' ı tıklatın.
+    > Öğeleri kopyalarken listelenen diğer siteleri görmüyorsanız, siteler arasında kopyalama yapılandırılmamıştır. Etkinleştirmek için SharePoint yönetici merkezinin ayarlar sayfasına gidin ve **Tamam'ı**tıklatın.
   
-    Yeni bir klasör oluşturmak için klasör hiyerarşisinde bir konum seçin, **Yeni klasör**' ü tıklatın, klasör için bir ad girin ve adı kaydetmek için onay işaretini tıklatın.
+    Yeni bir klasör oluşturmak için klasör hiyerarşisinde bir konum seçin, **Yeni klasörü**tıklatın, klasör için bir ad girin ve adı kaydetmek için onay işaretini tıklatın.
 
-3. **Buraya Kopyala** veya **Buraya Taşı**' yı tıklatın.
+3. **Burada Kopyala'yı** tıklatın veya **buraya taşı**.
 
-> [!NOTE]
-> Bir kerede en çok 500 MB'lik dosya ve klasörleri kopyalayabilirsiniz. Sürüm geçmişi, yalnızca en son sürümünü içeren belgelerin kopyaladığınızda, > kopyalanır. Belgeleri taşıdığınızda, kendi geçmişini de taşınır.
+    > [!NOTE]
+    > Aynı anda en fazla 500 MB dosya ve klasör kopyalayabilirsiniz. > Sürüm geçmişi olan belgeleri kopyaladiğinizde, yalnızca en son sürüm kopyalanır. Belgeleri taşıdığınızda, geçmişleri de taşınır.
   
+ Bir dosya taşınırken, dosya hedefe tam olarak taşınana kadar kaynak dizinde görünmeye devam edecek ve sonra silinir. Dosya, taşıma tamamlandıktan sonra kaynak sitelergeri dönüşüm kutusunda kalır ve kullanıcı geri dönüşüm kutusundan kurtarılmadığı sürece normal geri dönüşüm zamanlamasına tabi olur.
+
+Daha fazla bilgi için bkz.
+
+ - [SharePoint'te dosyaları taşıma veya kopyalama](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office destek makalesi)
+ - [Office 365'teki herhangi bir klasördeki dosyaları taşıma](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community blog makalesi)  
