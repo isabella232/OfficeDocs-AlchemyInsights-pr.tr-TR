@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 94fd306d7eb0de5f7a9eb90b92ae49bd80c50d38
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: 6c807dc8b05788baa71b302275523b64a311157a
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37027207"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39628190"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Sözcük çöküyor veya yanıt vermiyor
 
@@ -31,7 +31,7 @@ Word başlamazsa, aşağıdakileri deneyin:
 1.   Windows masaüstünde Outlook'u kapatın ve Görev Yöneticisi'ni açmak için CTRL+ALT+DEL tuşuna basın. 
 2. **İşlemler** sekmesinde, Word işlemleri çalışıyorsa, bunları seçin ve **Görev Sonu'nu**seçin. Ayrıca bellekten her şeyi temizlemek için yeniden başlatmanızı öneririz.
 
-    Word başlatma sırasında çökmeye veya askıda olmaya devam ederse, Güvenli modda başlatmak için [Windows PC'de Güvenli Mod'da Open Office uygulamalarını](https://support.office.com/en-us/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) görün.
+    Word başlatma sırasında çökmeye veya askıda olmaya devam ederse, Güvenli modda başlatmak için [Windows PC'de Güvenli Mod'da Open Office uygulamalarını](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) görün.
 
 Hala sorun yaşıyorsanız, aşağıdaki makalelere bakın: 
 - [Bilgisayarımda Office uygulamalarını başlattığımda "çalışmayı durdurdum" hatası alıyorum](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
