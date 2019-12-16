@@ -1,37 +1,37 @@
 ---
-title: Çevrimiçi arama SharePoint içinde
-ms.author: efrene
-author: efrene
+title: SharePoint Online'da Ara
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4ff98f0cf928834c803542340b32da15a40d583
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507651"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044063"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>İçeriği gezinme ve SharePoint Çevrimiçi dizinleme
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>SharePoint Online'da içerik tarama ve dizine eklenme
 
-İçeriği gezinme ve kullanıcıların ne onlar için SharePoint çevrimiçi aradığınız bulmak arama dizini eklenir. İçeriği otomatik olarak tabanlı (gezinme zamanlaması değiştirilemez) önceden tanımlanmış gezinme zamanlaması üzerinde gezildiğinde. Gezgin en son gezinmeden sonra değişti ve dizini güncelleştirir içeriğini seçer. İçerik gezilen ve dizinin güncelleştirildiğinden emin olmak için aşağıdakilere dikkat edin:
+Kullanıcıların SharePoint Online'da aradıklarını bulmaları için içerik taranmalı ve arama dizinine eklenmelidir. İçerik önceden tanımlanmış bir tarama zamanlamasına göre otomatik olarak türünilir (tarama zamanlaması değiştirilemez). Tarayıcı, son gezinmeden bu yana değişen içeriği alır ve dizini güncelleştirir. İçeriğin tarandığından ve dizinin güncelleştirdiğinden emin olmak için aşağıdakileri unutmayın:
 
-- [Site içeriğini aranabilir hale](https://docs.microsoft.com/sharepoint/make-site-content-searchable)getirerek içerik bulunabilir olduğundan emin olun.
+- [Site içeriğini aranabilir hale getirerek](https://docs.microsoft.com/sharepoint/make-site-content-searchable)içeriğin bulunabilmesini unutmayın.
 
-- Arama dizinine yaptığınız değişiklikler yansıtılır önce yönetilen bir özellik değiştiğinde ya da gezinme ve yönetilen Eşleme değişti site özelliklerini yeniden gezilen olmalıdır. 
+- Yönetilen bir özelliği değiştirdiğinizde veya taranmış ve yönetilen özelliklerin eşlemeyi değiştirdiğinizde, değişikliklerinizin arama dizinine yansıtılmadan önce sitenin yeniden taranması gerekir. 
 
-    Site arama şemada yapılan değişiklikleri ve otomatik olarak değil gerçek sitesi Gezgin olur çünkü yeniden dizin oluşturur. 
+    Değişiklikleriniz gerçek sitede değil, arama şemasında yapıldığından, tarayıcı siteyi otomatik olarak yeniden dizine yapmaz. 
 
-    Daha fazla bilgi için bkz: [el ile istek gezinme ve bir kitaplık veya listenin bir site dizini yeniden oluşturuluyor](https://docs.microsoft.com/sharepoint/crawl-site-conten).
+    Daha fazla bilgi için [bkz.](https://docs.microsoft.com/sharepoint/crawl-site-conten)
 
-- El ile bir gezinme ve hala bir sorunla karşılaştığınız varsa görmek için tam yeniden dizin isteyen sonra en az 24 saat bekleyin. 
+- Bir sorun yaşamaya devam edip olmadığınızı görmek için el ile tarama ve tam yeniden dizini istedikten sonra en az 24 saat bekleyin. 
 
-    Gezinme ve tam dizin yeniden başlattığından beri 24 saatten fazla geçmişse, Lütfen destek durumu günlüğe yazılır. Çoğu durumda, biz zaten bir çözüm üzerinde çalışıyorsunuz. Lütfen bize bir çözüm tamamlamak için en az 24 saat verin.
+    Tarama ve tam yeniden dizini başlatmanız üzerinden 24 saatten fazla zaman geçtiyse, lütfen bir destek örneğini günlüğe kaydedin. Çoğu durumda, zaten bir çözüm üzerinde çalışıyoruz. Lütfen bir çözümü tamamlamamız için bize en az 24 saat verin.
 
 > [!IMPORTANT]
-> Bir site, belge (kitaplık) veya bir liste silindi ve görüntülenmeye devam eder arama sonuçlarında kullanıcıların bir **Hata 404 Dosya bulunamadı** erişmek çalışırken almalısınız. Bu sorun bir destek çalışması için daha fazla araştırma olarak oturum açmış olmanız. 
+> Bir site, belge (kitaplık) veya bir liste silinmişse ve arama sonuçlarında hala gösteriliyorsa, kullanıcılar siteye erişmeye çalışırken Bulunamadı bir **Hata 404 Dosyası** almalıdır. Bu sorun, daha fazla araştırma için bir destek durumu olarak günlüğe kaydedilmelidir. 
 
 
 

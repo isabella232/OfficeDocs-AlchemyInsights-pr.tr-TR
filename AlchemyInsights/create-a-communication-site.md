@@ -1,19 +1,19 @@
 ---
 title: İletişim sitesi oluşturma
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: ffc67fd4aae62862167784c676d6d80390f5617e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: cb5207ef7348f0c7728d2752d1a7196dc712b566
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755436"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049933"
 ---
 # <a name="create-a-communication-site"></a>İletişim sitesi oluşturma
 
@@ -21,7 +21,7 @@ SharePoint Online'da bir iletişim sitesi oluşturmak için aşağıdaki adımla
   
 1. Sayfanın sol üst köşesinde, uygulama başlatıcısını tıklatın ve SharePoint döşemesini seçin. SharePoint döşemesini görmüyorsanız, SharePoint görünmüyorsa **Siteler'i** veya **Tüm uygulamaları** tıklatın. 
     
-2. SharePoint sayfasının üst kısmında **Site** Oluştur'u tıklatın ve **İletişim**Sitesi'ni seçin. Site oluşturma sihirbazındaki adımları izleyin. 
+2. SharePoint sayfasının üst kısmında **Site Oluştur'u** tıklatın ve **İletişim Sitesi'ni**seçin. Site oluşturma sihirbazındaki adımları izleyin. 
     
  **Not**: **Site Oluştur**seçeneğini görmüyorsanız, Office 365'te self servis site oluşturma devre dışı bırakılmış olabilir. Bir ekip sitesi oluşturmak için kuruluşunuzdaki Office 365'i yöneten kişiyle iletişim kurun. Kiracı yöneticiyseniz, [kuruluşunuz için self servis site oluşturmayı etkinleştirmek için SharePoint Online'da site oluşturmayı yönet'e bakın.](https://go.microsoft.com/fwlink/?linkid=2018780)
   

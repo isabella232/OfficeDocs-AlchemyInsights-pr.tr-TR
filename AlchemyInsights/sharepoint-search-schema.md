@@ -1,36 +1,36 @@
 ---
-title: SharePoint çevrimiçi arama şemayı yönetmek
-ms.author: efrene
-author: efrene
+title: SharePoint Online'da arama şemalarını yönetme
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 704fb3b682d23220d61192e383d7d80f59f27933
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9836cf139e97fc556995a8f0ad38c51c5c2392ac
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502827"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40042983"
 ---
-# <a name="manage-search-schema-in-sharepoint-online"></a>SharePoint çevrimiçi arama şemayı yönetmek
+# <a name="manage-search-schema-in-sharepoint-online"></a>SharePoint Online'da arama şemalarını yönetme
 
-Hangi kullanıcıların arama yapabilmesi için kullanıcılar bunu nasıl arayabilir ve sonuçları, arama sitelerinde ne sunabilir arama şeması denetler. 
+Arama şeması, kullanıcıların neleri arayabildiğini, kullanıcıların nasıl arama yapabileceğini ve sonuçları arama web sitelerinizde nasıl sunabileceğinizi denetler. 
 
-[Yönetme SharePoint çevrimiçi arama şemada](https://docs.microsoft.com/sharepoint/manage-search-schema) öğrenmek için bkz: nasıl yapılır: 
-- Arama şema değiştirin.
-- Yönetilen özellikler oluşturmak.
-- Gezilen özellikler için yönetilen özellikler gezinilen eşlemi.
+Bkz. [SharePoint Online'da Arama Şemasını yöneterek](https://docs.microsoft.com/sharepoint/manage-search-schema) nasıl yapılacağını öğrenin: 
+- Arama şemasını değiştirin.
+- Yönetilen özellikler oluşturun.
+- Harita taranmış harita yönetilen özellikleri sürünerek özellikleri.
 
-Gelince, arama şemasını yönetmek için aşağıdakileri göz önünde bulundurun:
+Arama Şemanızın yönetimi yle ilgili olarak aşağıdakileri unutmayın:
 
-- **Uygulama duraklatılmış** bir şema değişikliği yaparken bildiren bir uyarı alırsanız, servis bakım olduğundan bu yalnızca geçici gerçekleşen. 
+- Şema değişikliği yapılırken **uygulamanın duraklatılmış olduğunu** belirten bir uyarı alırsanız, bu yalnızca hizmet bakımı gerçekleştiği nden geçicidir. 
 
-    24 saatten fazla geçmiştir ve uyarı yaşamaya devam ederseniz Lütfen destek durumu günlüğe yazılır.
-- Yönetilen özelliklerini değiştirmek veya yenilerini eklemek, yalnızca içeriği yeniden gezilen kaldıktan sonra değişiklikler etkili olur. Çevrimiçi SharePoint içinde gezinme göre otomatik olarak tanımlanmış gezinme zamanlamaya göre gerçekleşir.
-- Değişikliklerinizi gezilir emin olmak için özellikle [bir liste veya kitaplığı yeniden dizin oluşturma isteği](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) olabilir. 
+    24 saatten fazla zaman geçtiyse ve uyarıyı yaşamaya devam ediyorsanız, lütfen bir destek örneğini kaydedin.
+- Yönetilen özellikleri değiştirdiğinizde veya yenilerini eklediğinizde, değişiklikler yalnızca içerik yeniden tarandıktan sonra etkili olur. SharePoint Online'da tarama, tanımlanan tarama zamanlamasına bağlı olarak otomatik olarak gerçekleşir.
+- Değişikliklerinizin tarandığından emin olmak için, [özellikle listenin veya kitaplığın yeniden dizine ekininin istenmesini isteyebilirsiniz](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
 
-Arama şeması tam bir genel bakış için bkz: [Arama şeması Tanıtımı](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
+Arama Şeması'na tam bir genel bakış için [bkz.](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
 
 

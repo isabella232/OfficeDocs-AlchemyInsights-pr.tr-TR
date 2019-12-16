@@ -1,7 +1,7 @@
 ---
-title: Silinen bir OneDrive geri yükleme
-ms.author: kaarins
-author: kaarins
+title: Silinen OneDrive'ı geri yükleme
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 5/15/2018
 ms.audience: Admin
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: 80582bdcc38a92f85282826aa63822ddf0cb1994
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a6db2e22c001cb809465c63da494121c06178b64
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509345"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054217"
 ---
-# <a name="restore-a-deleted-onedrive"></a>Silinen bir OneDrive geri yükleme
+# <a name="restore-a-deleted-onedrive"></a>Silinen OneDrive'ı geri yükleme
 
-Bir kullanıcı sildikten sonra kullanıcının OneDrive 30 gün süreyle Microsoft 365 Yönetim Merkezi erişebilirsiniz. Diğer kullanıcıların paylaşılan içeriği OneDrive Yönetim Merkezi'nde ayarladığınız süre için OneDrive erişmeye devam edebilirsiniz. (Bu ayarlama konusunda bilgi edinmek için [Silinen OneDrive kullanıcılar için varsayılan dosya tutma](https://go.microsoft.com/fwlink/?linkid=874267)bkz.) Bu süre sonunda OneDrive 93 gün için Geri Dönüşüm Kutusu'na taşınır ve sonra silinir.
+Bir kullanıcıyı sildikten sonra, Microsoft 365 yönetici merkezi aracılığıyla kullanıcının OneDrive'ına 30 gün boyunca erişebilirsiniz. Diğer kullanıcılar OneDrive yönetici merkezinde belirlediğiniz süre boyunca OneDrive'daki paylaşılan içeriğe erişmeye devam edebilir. (Bunu nasıl ayarlayacağız öğrenmek [için](https://go.microsoft.com/fwlink/?linkid=874267)bkz. Bu tarihten sonra OneDrive 93 gün boyunca geri dönüşüm kutusuna taşınır ve silinir.
   
-İlk 30 silinen kullanıcı artık Microsoft 365 Yönetim Merkezi'nde göründüğünde, gün sonra kullanıcının OneDrive PowerShell erişebilirsiniz. [Silinen bir OneDrive geri yükleme](https://go.microsoft.com/fwlink/?linkid=874269)bilgisi için bkz.
+İlk 30 günden sonra, silinen kullanıcı artık Microsoft 365 yönetici merkezinde görünmediğinde, PowerShell üzerinden kullanıcının OneDrive'ına erişebilirsiniz. Daha fazla bilgi için [silinmiş Bir OneDrive'ı Geri Yükle'ye](https://go.microsoft.com/fwlink/?linkid=874269)bakın.
   
 

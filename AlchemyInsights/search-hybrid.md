@@ -1,7 +1,7 @@
 ---
-title: Arama ve karma
-ms.author: efrene
-author: efrene
+title: Arama ve hibrit
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: adc5dace5da9e9b1c52697211e5b770d5483994b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79b1c47b33e2e5c8b46a93ef2edbb1e9e0c8ff1d
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504843"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048708"
 ---
-# <a name="search-and-hybrid"></a>Arama ve karma
+# <a name="search-and-hybrid"></a>Arama ve hibrit
 
-- Karma ve SharePoint çevrimiçi Federasyon arama hakkında daha fazla bilgi mi istiyorsunuz? Öyleyse, [Bu makaleye](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)bakın.
+- SharePoint Online'da hibrit ve federe arama hakkında bilgiye mi ihtiyacınız var? Öyleyse, [bu makaleye](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)bakın.
 
-- Karma Federasyon arama planlama hakkında bilgi gerekiyor mu?  Öyleyse, [Bu makaleye](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)bakın.
+- Hibrit federe arama planlama hakkında bilgiye mi ihtiyacınız var?  Öyleyse, [bu makaleye](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)bakın.
 
 
 

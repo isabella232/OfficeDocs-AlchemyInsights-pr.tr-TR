@@ -1,7 +1,7 @@
 ---
-title: Duyarlılık etiketleri otomatik olarak uygulama
-ms.author: stephow
-author: stephow-MSFT
+title: Duyarlılık etiketlerini otomatik olarak uygulayın
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517411"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050329"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Duyarlılık etiketleri otomatik olarak uygulama
+# <a name="auto-apply-sensitivity-labels"></a>Duyarlılık etiketlerini otomatik olarak uygulayın
 
-Duyarlılık etiketleri elle içeriği kullanıcılar tarafından uygulanabilir veya içeriği otomatik olarak uygulanması için yapılandırabilirsiniz.
+Duyarlılık etiketleri kullanıcılar tarafından içeriğe el ile uygulanabilir veya bunları içeriğe otomatik olarak uygulanacak şekilde yapılandırabilirsiniz.
 
-Duyarlılık etiketleri otomatik olarak uygulama içeriğini sınıflandırmak konusunda kullanıcıları eğit gerek ve ilke yapılandırmalarından birini bildirmek zorunda kaldırır.
+Duyarlılık etiketlerinin otomatik olarak uygulanması, kullanıcıları içeriği sınıflandırma ve ilke yapılandırmalarını bildirme gereksinimini ortadan kaldırır.
 
 Etiketleri otomatik olarak uygulamak için aşağıdakiler gereklidir:
 
-- Azure bilgi koruma P2 abonelik
-- [Azure bilgi koruma birleştirilmiş etiketleme istemci karşıdan yükleyip](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Azure Bilgi Koruması P2 aboneliği
+- [Azure Bilgi Koruması birleşik etiketleme istemcisini indirin ve yükleyin](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Biz gelecekte Azure bilgi koruma birleştirilmiş etiketleme istemci istemeyecektir yerel destek üzerinde çalışıyorsunuz.
+Gelecekte Azure Bilgi Koruması birleşik etiketleme istemcisi gerektirmeyen yerel destek üzerinde çalışıyoruz.
 
-Şu anda yalnızca Windows unified etiketleme istemci destekler.  Bu özellik, Mac, IOS ve Android henüz desteklenmiyor.
+Şu anda, yalnızca Windows birleştirilmiş etiketleme istemcisini destekler.  Özellik henüz Mac, iOS ve Android'de desteklenmedi.
 
-Duyarlılık etiketleri ve bunları otomatik olarak içeriğe uygulama hakkında daha fazla bilgi için bkz:
+Duyarlılık etiketleri hakkında daha fazla bilgi ve bunları otomatik olarak içeriğe uygulamak için bkz:
 
-- [Duyarlılık etiketleri genel bakış](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Duyarlılık etiket içeriği otomatik olarak uygulama](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Duyarlılık etiketlerinin genel görünümü](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [İçeriğe otomatik olarak duyarlılık etiketi uygulama](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

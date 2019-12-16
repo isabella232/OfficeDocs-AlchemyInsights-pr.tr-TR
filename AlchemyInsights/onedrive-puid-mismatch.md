@@ -1,7 +1,7 @@
 ---
 title: OneDrive PUID uyuşmazlığı
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,21 +12,21 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cbf508a1a031b7dbe60d9b060df2f08211a3dc17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 58fe40f0fe29b75ea3e736d447d626d2fdf5391a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521371"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049105"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive PUID uyuşmazlığı
-Bu iş için OneDrive bir [PUID uyuşmazlığı](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) yaşadığınız görünür. Böylece mümkün olan en kısa sürede size yardımcı olabilir, lütfen aşağıdaki adımları izleyin:
+OneDrive for Business'ta bir [PUID uyumsuzluğu](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) yaşıyormuşsunuz gibi görünüyor. Size en kısa sürede yardımcı olabilmemiz için lütfen aşağıdaki adımları izleyin:
 
-1. **Destek hizmetlerine**tıklatın ve ardından **Yeni bir hizmet isteğinde**.
-2. Başlık ve açıklama **PUID uyuşmazlığı OneDrive sitesinde**olarak bırakın.
-3. Bilet gönderildikten sonra lütfen aşağıdaki bilgilerle güncelleştirin:
-    - Etkilenen OneDrive sitesi URL'si.
-    - Kullanıcı etkilenen kullanıcı asıl adı (UPN).
+1. **Destekle İlgili İletişim'i**ve ardından **Yeni Hizmet İsteği'ni**tıklatın.
+2. **OneDrive Sitesinde PUID Uyumsuzluğu**olarak başlığı ve açıklamayı bırakın.
+3. Bilet gönderildikten sonra, lütfen aşağıdaki bilgilerle güncelleyin:
+    - Etkilenen OneDrive site URL'si.
+    - Etkilenen kullanıcının kullanıcı ana adı (UPN).
 
 
 

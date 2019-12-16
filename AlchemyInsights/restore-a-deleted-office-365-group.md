@@ -1,7 +1,7 @@
 ---
-title: Silinen bir Office 365 grup geri yükleme
-ms.author: kaarins
-author: kaarins
+title: Silinen Office 365 grubunu geri yükleme
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 3/23/2018
 ms.audience: Admin
@@ -13,20 +13,20 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: e1f0ecaeca3154096c952c0a5018805ac46d8d3f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2e89b479f8cfc0ee0e590b64d09abae8a678e1cc
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509273"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048852"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Silinen bir Office 365 grup geri yükleme
+# <a name="restore-a-deleted-office-365-group"></a>Silinen Office 365 grubunu geri yükleme
 
-Silinen grupları 30 gün boyunca tutulur. Silinen bir gruba geri yüklemek için:
+Silinen gruplar 30 gün boyunca saklanır. Silinmiş bir grubu geri yüklemek için:
   
-1. [Exchange Yönetim Merkezi](https://outlook.office365.com/ecp/), sol bölmede **alıcıları** seçin ve **Gruplar**' ı seçin. 30 günden az önce bir grup silinirse, listede görünür ve durum sütunu silinme tarihi listeler.
+1. Exchange [yönetici merkezinde,](https://outlook.office365.com/ecp/)sol bölmedeki **alıcıları** seçin ve ardından **grupları**seçin. Bir grup 30 günden kısa bir süre önce silinmişse, listede görünür ve STATUS sütunu silinen tarihi listeler.
 
-2. Grubu seçin ve komut çubuğunda **Geri Yükle** ' yi tıklatın veya ayrıntılar bölmesinde "geri yüklemek için burayı tıklatın" bağlantısını tıklatın.
+2. Grubu seçin ve ardından komut çubuğunda **Geri Yükle'yi** tıklatın veya ayrıntılar bölmesinde "Geri yüklemek için buraya tıklayın" bağlantısını tıklatın.
 
-[Silinen bir Office 365 Grup Geri](https://go.microsoft.com/fwlink/?linkid=867802)daha fazla bilgi için veya PowerShell kullanarak grupları geri yükleme hakkında bilgi edinmek için bkz.
+Daha fazla bilgi edinmek veya PowerShell'i kullanarak grupları nasıl geri yükleyeceklerini öğrenmek için [silinmiş bir Office 365 grubunu geri yükleme'ye](https://go.microsoft.com/fwlink/?linkid=867802)bakın.
   

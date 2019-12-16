@@ -1,7 +1,7 @@
 ---
-title: İş akışı sorunlarını giderme
-ms.author: efrene
-author: efrene
+title: İş akışı sorun giderme
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bda58c3e7f186fec2057258ed17747690c7a3248
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558097"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049321"
 ---
-# <a name="workflow-troubleshooting"></a>İş akışı sorunlarını giderme
+# <a name="workflow-troubleshooting"></a>İş akışı sorun giderme
 
-SharePoint iş akışı hata ayıklama hakkında daha fazla bilgi için aşağıdakileri gözden geçirin:
-- İş akışı hata ayıklama, önceki sürümlere benzer.  Daha fazla bilgi için bkz: [hata ayıklama SharePoint iş akışları](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-- Sorun giderme hakkında daha fazla bilgi için bkz: [sorun giderme SharePoint Server iş akışı doğrulama hataları](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+SharePoint iş akışlarının hata ayıklanması hakkında bilgi için aşağıdakileri gözden geçirin:
+- Hata ayıklama iş akışları önceki sürümlere benzer.  Daha fazla bilgi için Bkz. [Hata Ayıklama SharePoint iş akışları.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+- Sorun giderme hakkında daha fazla bilgi için, [Hata Gider SharePoint Server iş akışı doğrulama hatalarına](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)bakın.
  
 
 ## <a name="related-topics"></a>İlgili konular
-SharePoint çevrimiçi Microsoft Flow denemek istiyor?
-- [Akış oluşturma](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint ve akış](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+SharePoint Online'da Microsoft Flow'u denemek ister misiniz?
+- [Akış Oluştur](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint ve Akış](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
 

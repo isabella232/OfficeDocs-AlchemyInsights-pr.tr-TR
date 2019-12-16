@@ -1,18 +1,18 @@
 ---
 title: Siteyi veya listeyi şablon olarak kaydetme
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 627f49991aaef984f731412045351d7a1862b376
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752052"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048744"
 ---
 # <a name="save-site-or-list-as-a-template"></a>Siteyi veya listeyi şablon olarak kaydetme
 
@@ -42,5 +42,5 @@ SharePoint Online'da bir Siteyi veya Listeyi şablon olarak kaydetmeyle ilgili b
 - Arama sütunu kullanan bir listeden veri görüntülemede sorunlar vardır. Daha fazla bilgi için bkz: [Şablon tarafından oluşturulan liste SharePoint Online'da doğru arama listesinden veri görüntülemiyor.](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data)
 
 
-Sık karşılaşılan sorunlar ve çözümler hakkında daha ayrıntılı bilgi için lütfen başvuru, [Site şablonları oluşturun ve](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)kullanın.
+Sık karşılaşılan sorunlar ve çözümler hakkında daha ayrıntılı bilgi için lütfen başvuru, [Site şablonları oluşturun ve kullanın.](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)
 

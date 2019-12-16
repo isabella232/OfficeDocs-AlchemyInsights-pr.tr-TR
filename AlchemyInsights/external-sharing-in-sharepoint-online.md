@@ -1,7 +1,7 @@
 ---
 title: SharePoint Online'da dış paylaşım
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+- "2389"
+ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735985"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049789"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>SharePoint Online'da dış paylaşım
 
-Kuruluşunuz belge paylaşımı veya doğrudan satıcılar, müşteriler veya müşterilerle işbirliği yapmayı içeren işler yapıyorsa, [sharepoint online'ın dış paylaşım özelliklerini](https://docs.microsoft.com/sharepoint/external-sharing-overview) kullanarak içeriği dışarıdaki kişilerle paylaşabilirsiniz Organizasyon.
+Kuruluşunuz belge paylaşımı veya satıcılar, müşteriler veya müşterilerle doğrudan işbirliği yapmayı içeren işler gerçekleştiriyorsa, içeriğini kuruluşunuz dışındaki kişilerle paylaşmak için [SharePoint Online'ın dış paylaşım özelliklerini](https://docs.microsoft.com/sharepoint/external-sharing-overview) kullanabilirsiniz.
 
 Dış paylaşım hakkında daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin:
 
