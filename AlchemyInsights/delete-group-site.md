@@ -1,7 +1,7 @@
 ---
-title: Site Grubu Sil
-ms.author: kaarins
-author: kaarins
+title: Grup Sitesini Sil
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 1/24/2019
 ms.audience: Admin
@@ -14,21 +14,21 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d1677fe1734386e38992811ec994c62286510eaa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513739"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053065"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Bir Office 365 grubuna ait bir SharePoint sitesini Sil
+# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Office 365 grubuna ait bir SharePoint sitesini silme
 
-Genel yöneticileri ve SharePoint yöneticileri bir Office 365 grubuna ait siteler artık silebilirsiniz. Bu siteleri silme, Grup ve Outlook posta ve Takvim ve tüm takımlar kanalları da dahil olmak üzere tüm kaynaklarını, silecek.
+Global yöneticiler ve SharePoint yöneticileri artık bir Office 365 grubuna ait siteleri silebilir. Bu sitelerin silinmesi grubu ve Outlook posta kutusu ve takvimi de dahil olmak üzere tüm kaynaklarını ve tüm Takımlar kanallarını siler.
   
 Önemli:
 
-- 93 gün siteleri silinmiş kurtarabilirsiniz. Daha fazla bilgi için bkz: görüntüleme ve Silinen siteler geri yükleyin. Not Silinmiş Grup 30 gün içinde geri yüklenmesi gerekir.
-- Site bekletme ilkesinin bir parçası ise, size site kaldırılır kadar silmek mümkün olmayabilir [Güvenlik &amp; uygunluk Yönetim Merkezi](https://protection.office.com/?rfr=AdminCenter#/retention). [Bekletme İlkeleri'ne genel bakış](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) , daha fazla bilgi için bkz.
+- Silinen siteleri 93 gün boyunca kurtarabilirsiniz. Daha fazla bilgi için bkz. Silinen grupların 30 gün içinde geri yüklenmeleri gerektiğini unutmayın.
+- Site bir bekletme ilkesinin parçasıysa, site [Güvenlik &amp; Uyumluluğu Yönetici Merkezi'nden](https://protection.office.com/?rfr=AdminCenter#/retention)kaldırılana kadar siteyi silemeyebilirsiniz. Daha fazla bilgi için [Bekletme İlkelerine Genel Bakış'a](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) bakın.
   
-[Yeni SharePoint Yönetim Merkezi'ndeki Site Silinen görünümü ve geri yükleme](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)için **siteleri silinmiş**seçin. Silinmiş olan bir site seçin ve geri veya Delete (hangi sitenin kalıcı olarak siler) seçin. Etkin siteyi silmek için **Etkin** siteler'i seçin, siteyi seçin ve **Sil**' i seçin. Daha fazla bilgi için bkz: [Yeni SharePoint Yönetim Merkezi'ndeki siteleri yönetme](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+[Yeni SharePoint yönetici merkezinde silinen siteleri görüntülemek ve geri yüklemek](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)için **Silinen siteleri**seçin. Silinen siteyi seçin ve Geri Yükle veya Sil 'i seçin (siteyi kalıcı olarak silecek). Etkin bir siteyi silmek için **Etkin** siteleri seçin, siteyi seçin ve **Sil'i**seçin. Daha fazla bilgi için, [yeni SharePoint yönetici merkezindeki siteleri yönet'e](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)bakın.
   

@@ -1,7 +1,7 @@
 ---
-title: Bul, değil Excel 2016 Değiştir CTRL + H gösterir
-ms.author: dludwig
-author: dludwig
+title: CTRL+H, Excel 2016'da Değiştir değil Bul'u gösterir
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -13,14 +13,14 @@ ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 0d2260163a837d5d2c2f0ad54e74a73ca204c635
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 32ff3ad922af38adab8e6b60dfa139b3794668df
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514531"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053173"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H Bul, Excel'de değiştirmez gösterir.
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL+H, Excel'de Değiştir'i değil Bul'u gösterir
 
-Excel 2016, CTRL + H tuşlarına basarak Bul ve Değiştir iletişim kutusunu açar ve Bul sekmesini gösterir, Değiştir sekmesini yerine Giriş sekmesinde Değiştir'i tıklatarak aynı şeyi yapar. 1708 (8431.2094) sürümünde bu sorun giderilmiştir. Bu sorunu gidermek için Office'in en son sürüme güncelleştirin. **Dosyayı** seçin \> **Hesap** \> **güncelleştirme seçenekleri** \> **Şimdi Güncelleştir**.
+Excel 2016'da CTRL+H tuşuna basmak Bul ve Değiştir iletişim kutusunu açar ve Değiştir sekmesi yerine Bul sekmesini gösterir. Bu sorun sürüm 1708 (8431.2094) olarak giderilmiştir. Bunu düzeltmek için Office'in en son sürümüne güncelleştirin. **Dosya** \> **Hesabı** \> Güncelleme Seçenekleri Güncelleştirme **şimdi** \> **** seçin.
   

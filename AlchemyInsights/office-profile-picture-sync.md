@@ -1,18 +1,18 @@
 ---
 title: Kullanıcının profil resmini eşitleme
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 6d2a3d08a6ee20cd4f62457b5365449fc5781606
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 216e3606c57af9a7855b154d58d03b4aacc331fc
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36753883"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053461"
 ---
 # <a name="sync-a-users-profile-picture"></a>Kullanıcının profil resmini eşitleme
 
@@ -30,4 +30,4 @@ Office 365'teki profil fotoğrafınızı [Office.com'dan](http://www.office.com)
 
 Not: Daha önce bir resim yüklediyseniz, resmi yeniden senkronize etmek için SharePoint veya OneDrive döşemesini tıklatmayı deneyebilirsiniz.
 
-Daha fazla bilgi için lütfen [Office 365'teki profil resmi senkronizasyonu hakkındaki bilgileri](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)ziyaret edin.
+Daha fazla bilgi için lütfen [Office 365'teki profil resmi senkronizasyonu hakkındaki bilgileri ziyaret edin.](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)

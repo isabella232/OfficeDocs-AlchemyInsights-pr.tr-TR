@@ -1,7 +1,7 @@
 ---
-title: Sorunları verileri taşırken SharePoint Online
-ms.author: efrene
-author: efrene
+title: Verileri SharePoint Online'a aktarırken sorunlar
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: d8bdf0ac6c3a65b72e8c92a3f5960cb72b6cfd99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504375"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051769"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Sorunları verileri taşırken SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Verileri SharePoint Online'a aktarırken sorunlar
 
-Tekrar 100 TB veri SharePoint çevrimiçi olarak geçirdiğiniz görünür. Böylece mümkün olan en kısa sürede size yardımcı olabilir, lütfen aşağıdaki adımları izleyin. 
+SharePoint Online'a 100 TB'den fazla veri aktarıyor gibi görünüyorsunuz. Lütfen aşağıdaki adımları uygulayın, böylece size en kısa sürede yardımcı olabiliriz. 
 
-1. **Yeni bir hizmet isteğinde**seçin ve sonra **Yeni bir hizmet isteğinde**. 
-2. Başlık ve açıklama **SharePoint geçiş üzerinde 100 TB**olarak bırakın.
-3. Bilet gönderildikten sonra lütfen aşağıdaki bilgilerle güncelleştirin: 
+1. **Yeni Hizmet İsteği'ni**ve ardından **Yeni Hizmet İsteği'ni**seçin. 
+2. **100 TB üzerinde SharePoint geçiş**olarak başlık ve açıklama bırakın.
+3. Bilet gönderildikten sonra, lütfen aşağıdaki bilgilerle güncelleyin: 
 
-    - Geçiş tahmini boyutu.
-    - Ne zaman başlayıp, geçiş işlemini tamamlamak ister misiniz bir tahmin.
-    - Burada içeriğinizi geçirdiğiniz, SharePoint Server, kutusu, GDrive, dosya paylaşımları gibi açıklamak vb...
+    - Geçişinizin tahmini boyutu.
+    - Geçişinizi ne zaman başlatmak ve tamamlamak istediğinizin tahmini.
+    - SharePoint Server, Box, GDrive, File shares, vb. gibi içeriğinizi nereden geçirdiğinizi açıklayın.
 
 
   

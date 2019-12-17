@@ -1,34 +1,34 @@
 ---
-title: Erişim reddedildi iletisi ile ilgili sorunları giderme
-ms.author: kaarins
-author: kaarins
+title: Erişim Reddedilen iletileri sorun giderme
+ms.author: pebaum
+author: pebaum
 ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: e4fea7188bd77ba876e2a245414372c3ff836059
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 05d12aee49b449e8a29e84021b41298fb9983859
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500444"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050725"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Erişim reddedildi iletisi ile ilgili sorunları giderme
+# <a name="troubleshoot-access-denied-messages"></a>Erişim Reddedilen iletileri sorun giderme
 
-Paylaşılan bir klasör içindeki SharePoint için birisi bir "Erişim reddedildi" iletisi geldiyseniz, site koleksiyonu yöneticisi "sınırlı erişimli kullanıcı izni kilitleme modu" etkin Bunu kapatmak için: 
+Birisi SharePoint'te paylaşılan bir klasöre "Erişim Reddedildi" iletisi aldıysa, site koleksiyonu yöneticisi "Sınırlı erişimli kullanıcı izni kilitleme modunu" etkinleştirmiş olabilir. Bunu kapatmak için: 
   
-1. Siteye göz atın, Ayarlar simgesini tıklatın ve ardından **Site Ayarları**' nı tıklatın.
+1. Siteye göz atın, Ayarlar simgesine tıklayın ve ardından **Site Ayarları'nı**tıklatın.
     
-2. **Site Koleksiyonu Yönetimi**altında **Site koleksiyonu özellikleri**' ni tıklatın.
+2. **Site Toplama İdaresi**altında, Site koleksiyonu **özelliklerini**tıklatın.
     
-3. **Sınırlı erişimli kullanıcı izni kilitleme modu**yanındaki **devre dışı bırak**' ı tıklatın.
+3. Sınırlı **erişimli kullanıcı izni kilitleme modunun**yanında **Devre Dışı bırak'ı**tıklatın.
     
-Bir yayımlama sitesinin site ise, paylaşılan klasörler için erişim reddedildi iletisi da ortaya çıkabilir. Bilgi için bkz: [Paylaşılan klasöre erişirken erişim engellendi](https://go.microsoft.com/fwlink/?linkid=2004317).
+Site bir yayımlama sitesiyse, paylaşılan klasörler için erişim engellendi iletisi de oluşabilir. Daha fazla bilgi için, [paylaşılan bir klasöre erişirken Erişim Reddedildi'ye](https://go.microsoft.com/fwlink/?linkid=2004317)bakın.
   
-Birisi bir erişim isteklerini görüntülemeye çalışırken bir "Erişim engellendi" iletisi alındı, kullanıcının site koleksiyonu yöneticisi veya site sahipleri grubunun üyesi olarak eklenmesi gerekir. Daha fazla bilgi için bkz: [Erişim isteklerini listesine erişim engellendi](https://go.microsoft.com/fwlink/?linkid=2004220).
+Bir kişi erişim isteklerini görüntülemeye çalışırken "Erişim Reddedildi" iletisi aldıysa, kullanıcının site koleksiyonu yöneticisi veya sitenin Sahipleri grubunun bir üyesi olarak eklenmesi gerekir. Daha fazla bilgi için erişim [isteklerine erişim engellendi listesine](https://go.microsoft.com/fwlink/?linkid=2004220)bakın.
   
-Yerinde Active Directory kaldırıldı ve başa eklenen sonra kullanıcı bir "Erişim engellendi" iletisi alındı, [Bir kullanıcı hesabı için Office 365 eşitlendiğinde, erişim engellendi](https://go.microsoft.com/fwlink/?linkid=2004318)bakın.
+Bir kullanıcı, Şirket içinde Active Directory'den kaldırıldıktan ve sonra geri eklendikten sonra bir "Erişim Reddedildi" iletisi aldıysa, [kullanıcı hesabı Office 365 ile senkronize edildiğinde Erişim Reddedildi'ye](https://go.microsoft.com/fwlink/?linkid=2004318)bakın.
   
 

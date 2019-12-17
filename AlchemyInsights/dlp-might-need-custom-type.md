@@ -1,7 +1,7 @@
 ---
-title: Özel bir tür DLP gerekebilir
-ms.author: stephow
-author: stephow-MSFT
+title: DLP özel bir tür gerekebilir
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: ITPro
@@ -13,27 +13,27 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530371"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052921"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>Özel bir tür DLP gerekebilir
+# <a name="dlp-might-need-a-custom-type"></a>DLP özel bir tür gerekebilir
 
-Veri kaybını önleme (DLP) ilkesi ile tanımlamak ve kuruluşunuzdaki önemli verileri koru. Bazı senaryolarda, kuruluunuzun verilerini korumak için kendi **Özel** önemli bilgiler türünüzü oluşturmanız gerekebilir.
+Veri kaybıönleme (DLP) ilkesiyle, kuruluşunuzdaki hassas verileri tanımlayabilir ve koruyabilirsiniz. Bazı senaryolarda, kuruluşunuzun verilerini korumak için kendi **özel** duyarlı bilgi türünü oluşturmanız gerekebilir.
 
-Örneğin, kuruluşunuzun tanımlamak ve çalışan kimliklerini veya diğer bazı biçiminde, Krlş. için belirli veri koruma gerekebilir Öyleyse, daha fazla bilgi için aşağıdaki makalelere bakın.
+Örneğin, kuruluşunuzun çalışan kimliklerini veya orgunuza özgü bir biçimdeki diğer verileri tanımlaması ve koruması gerekebilir. Bu nedenle, daha fazla bilgi için aşağıdaki makalelere bakın.
   
- **Yerleşik hassas bilgilerin türünü özelleştirin**
+ **Yerleşik duyarlı bilgi türünü özelleştirme**
   
-Yerleşik hassas bilgilerin türü birkaç tweaks ile gereksinimlerinizi karşılamıyorsa, bu [bir yerleşik hassas bilgi türünü](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type)özelleştirebilirsiniz. Örneğin, veya anahtar sözcükler, kaldırmak veya eklemek ekleyip bir tarih veya adres gibi destekleyici kanıt.
+Yerleşik bir hassas bilgi türü yalnızca birkaç değişiklikle ihtiyaçlarınızı karşılayacaksa, [yerleşik hassas bilgi türünü özelleştirebilirsiniz.](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type) Örneğin, anahtar kelimeler ekleyebilir veya kaldırabilir veya tarih veya adres gibi destekleyici kanıt ekleyebilir veya kaldırabilirsiniz.
   
- **Özel hassas bilgi türü oluştur**
+ **Özel duyarlı bilgi türü oluşturma**
   
-Ancak tanımlamak ve hassas bilgiler farklı türde tamamen korumak gerekiyorsa, kullanıcı arabiriminde Uyumluluk Merkezi güvenlik &, [özel önemli bilgiler türü oluşturmak](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) olabilir.
+Ancak, farklı bir hassas bilgi türünü tamamen tanımlamanız ve korumanız gerekiyorsa, Güvenlik & Uyumluluk Merkezi'nin kullanıcı bilgi sinde [özel bir bilgi türü oluşturabilirsiniz.](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
   
-**Güvenlik & Uyumluluk Merkezi PowerShell özel önemli bilgiler türü oluştur**
+**Güvenlik & Uyumluluk Merkezi PowerShell'de özel duyarlı bilgi türü oluşturma**
 
-Gereksinim duyduğunuz tüm seçenekleri UI vermiyorsa, son olarak, [Güvenlik & Uyumluluk Merkezi PowerShell özel önemli bilgiler yazıyla](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell)oluşturabilirsiniz. Bir XML dosyası ile başlayarak kullanılabilir her seçeneği kullanabilirsiniz.
+Son olarak, Kullanıcı Bira gereksinimi duyduğunuz tüm seçenekleri sağlamazsa, [Güvenlik & Uyumluluk Merkezi PowerShell'de özel bir bilgi türü oluşturabilirsiniz.](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell) Bir XML dosyasıyla başlayarak, kullanılabilir her seçeneği kullanabilirsiniz.
