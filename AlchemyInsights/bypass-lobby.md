@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626368"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889102"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>Lobi ayarlarını ve katılım düzeyini kontrol edin
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Kontrol lobisi ayarları ve Takımlara katılım düzeyi
 
-Arayarak, harici ve anonim kullanıcılar da dahil olmak üzere herkesin Microsoft Teams'teki lobiyi atlamasına izin vermek isterseniz, bunu yapmak için PowerShell'i kullanabilirsiniz. Kuruluşunuz için genel toplantı ilkesini değiştirmenize bir örnek aşağıda verilmiştir:
+Çevirmeli, harici ve anonim kullanıcılar da dahil olmak üzere herkesin **lobiyi atlamasına**izin vermek istiyorsanız, bu görevi gerçekleştirmek için PowerShell'i kullanın. Aşağıda, kuruluşunuz için genel toplantı ilkesini değiştirmenin bir örneği verilmiştir.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Bu cmdlet şu anda Skype for Business PowerShell modülü kullanımını gerektirir. Bu cmdlet'i kullanmak için kurulum almak için [PowerShell üzerinden politikaları yönetme'ye](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)göz atın.
+Bu cmdlet şu anda Skype for Business PowerShell modülü kullanımını gerektirir. Bu cmdlet'i kullanmak için kurulum yapmak için [PowerShell üzerinden yönetme politikalarına](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)göz atın.
 
-Daha sonra kullanıcılara uygulamanız gereken yeni bir ilke ayarlayabilirsiniz. Genel politikayı değiştirirseniz, kullanıcılar için otomatik olarak geçerli olur. Herhangi bir ilke değişikliği için, ilkelerin etkili olması için en az 4 saat ve 24 saat ekadar beklemeniz gerekir.
+Bir ilke ayarladıktan sonra, bu politikayı kullanıcılara uygulamanız gerekir; veya Genel politikayı değiştirdiyseniz, bu politika kullanıcılar için otomatik olarak geçerli olacaktır. Herhangi bir ilke değişikliği için, ilkelerin etkili olması için en az **4 saat ila 24 saat** beklemeniz gerekir. 
 
 Bunun tam olarak nelere izin verdiğini anlamak için bu değişiklikleri yapmadan önce aşağıdaki belgeleri gözden geçirdiğinizden emin olun.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Lobi politikası denetimlerini karşılayan Ekipleri Anlama
+
+Bu ayarlar, toplantı katılımcılarının toplantıya kabul edilmeden önce lobide hangi toplantıyı beklediklerini ve toplantıya katılmalarına izin verilen katılım düzeyini kontrol altına almaktadır. PowerShell'i, Takımlar yönetici merkezinde henüz uygulanmamış ("yakında" olarak etiketlenmiş) toplantı ilkesi ayarlarını güncelleştirmek için kullanabilirsiniz. Tüm kullanıcıların lobiyi atlamasına izin veren bir örnek PowerShell cmdlet için aşağıya bakın.
 
 - [İnsanların](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) doğrudan bir toplantıya katılıp katılmadıklarını veya kimlik doğrulaması yapılan bir kullanıcı tarafından kabul edilene kadar lobide bekleyip beklemediklerini kontrol eden bir düzenleyici başına ilke olduğunu otomatik olarak kabul edin.
 
