@@ -11,24 +11,22 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: cc19fcb6603160032dac52b1ec9e194a90b7891f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
+ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049537"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "41571291"
 ---
 # <a name="unable-to-delete-items"></a>Öğeleri sileme
 
-SharePoint öğelerini silme sorunları mı yaşıyormusunuz?
+Bekletme ilkeleri buna neden olabilir, bu soruna neden olan ilgili tutmayı devre dışı bırakmak veya hariç tutmanız gerekir. Bekletme ilkesi veya tutma kaldırıldıktan sonra, değişikliğin etkili olması 24 saat kadar sürebilir. Öğeüzerinde [bekletme ilkesi](https://docs.microsoft.com/office365/securitycompliance/retention-policies) kurulumu olmadığından emin olun.
 
-- Öğeyi silmek için her zaman [uygun izinlere](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) sahip olduğundan emin olun veya site [koleksiyonu yöneticisinin](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) öğeyi kaldırmagirişiminde bulunmasını istediğinizden emin olun.
+Site depolama sınırını aşmış, [site kotasını](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) artırmış ve öğeyi silmiş olabilir.
 
-- Öğeüzerinde [bekletme ilkesi](https://docs.microsoft.com/office365/securitycompliance/retention-policies) kurulumu olmadığından emin olun.
+Öğenin başka bir kullanıcıya [kullanıma alınmadığından](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) emin olun.
 
-- Öğenin başka bir kullanıcıya [kullanıma alınmadığından](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) emin olun.
-
-- Son olarak, yöneticiler, inatçı öğeleri zorla silme gibi karmaşık yönetim eylemleri gerçekleştirmenize olanak tanıyan PowerShell komutlarının kitaplığını içeren [SharePoint Desenleri ve Uygulamaları](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) 'nı (PnP) kullanabilir.
+Son olarak, yöneticiler, inatçı öğeleri zorla silme gibi karmaşık yönetim eylemleri gerçekleştirmenize olanak tanıyan PowerShell komutlarının kitaplığını içeren [SharePoint Desenleri ve Uygulamaları](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) 'nı (PnP) kullanabilir.
 - [PNP dosyayı kaldırma](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
 - [PNP Klasörünü Kaldırma](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
 - [PNP Liste Öğeyi Kaldırma](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
