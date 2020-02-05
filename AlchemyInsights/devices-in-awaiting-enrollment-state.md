@@ -1,5 +1,5 @@
 ---
-title: Bekleyen kayıt durumundaki aygıtları
+title: Aygıtlar Kayıt Durumunu Bekliyor
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 46bb390bd89d82bab8099f15f086746800cb4261
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 52592a8f4ebac0a9b6c8105721e121a7e560853b
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800669"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770335"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>"Kayıt bekleyen" aygıtların durumundaki
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Cihazlar "Kayıt Bekliyor" durumunda
 
-Masaüstü analizi, bu aygıt için tanı veri yoktur. 
+Desktop Analytics'in bu aygıt için tanılama verileri yoktur. 
 
-Bu sorun en son aygıt hedef koleksiyonuna eklenen ve henüz veri gönderilen taşınmadığından nedeniyle oluşabilir. Bu aygıt düzgün hizmetiyle iletişim kurulurken değildir ve son tanılama veri 28 günden daha eski olan anlamına da gelebilir.
+Aygıtı yakın zamanda hedef koleksiyona eklediğiniz ve henüz veri göndermediğinden bu sorun oluşabilir. Ayrıca, aygıtın hizmetle düzgün bir şekilde iletişim kurmadığı ve en son tanılama verilerinin 28 günden eski olduğu anlamına da gelebilir.
 
-Aygıt hizmeti ile iletişim kurabildiğinizden emin olun.  [Bitiş noktaları](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints)daha fazla bilgi için bkz.
+Aygıtın hizmetle iletişim kurabileceğinden emin olun. Daha fazla bilgi için Uç [Noktaları'na](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)bakın.
 
-[Monitör bağlantı durumu](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#awaiting-enrollment)awainting kayıt durumu hakkında daha fazla bilgi için bkz.
+Bekleyen kayıt durumu hakkında daha fazla bilgi için [Bkz.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)

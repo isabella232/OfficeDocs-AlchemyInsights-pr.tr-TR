@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050941"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770479"
 ---
 # <a name="workflows-in-sharepoint"></a>SharePoint'teki Iş Akışları
 
-SharePoint iş akışları, çok çeşitli iş süreçlerini kolaylaştıran ve otomatikleştiren önceden programlanmış mini uygulamalardır. İş akışları, bir plan veya belge için imza, geri bildirim veya onay toplamaktan rutin bir yordamın geçerli durumunu izlemeye kadar değişebilir.
+SharePoint iş akışları, çok çeşitli iş süreçlerini kolaylaştıran önceden programlanmış uygulamalardır. Daha fazla bilgi için aşağıdaki bağlantılara bakın.
 
-**Başlarken:** SharePoint iş akışlarıyla yeni başlıyorsanız, [daha fazla bilgi için SharePoint iş akışlarına giriş](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)konusuna bakın.
+## <a name="getting-started"></a>Başlarken
 
-**Microsoft Flow**: Klasik SharePoint iş akışı çözümleri yerine Microsoft Flow'u kullanmayı düşünün. Daha fazla bilgi için bkz: [SharePoint Online veya OneDrive'da liste veya kitaplık için akış oluştur](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+SharePoint iş akışlarıyla yeni başlıyorsanız, [Intro to SharePoint iş akışlarına](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)bakın.
 
-**İş Akışı Sorun Giderme ve Hata Ayıklama:**
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>Bir SharePoint İş Akışı Sorun Giderme ve Hata Ayıklama
 
-Hata ayıklama iş akışları önceki sürümlere benzer. Daha fazla bilgi için Bkz. [Hata Ayıklama SharePoint iş akışları.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows) Sorun giderme hakkında daha fazla bilgi için, [Sorun Giderpaylaşım SharePoint Server iş akışı doğrulama hatalarına](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)bakın.
+[Bkz. Troubleshoot SharePoint iş akışı doğrulama hataları](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) ve Hata [Ayıklama SharePoint iş akışları.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
 
+## <a name="power-automate"></a>Güç Otomatikleştir
+
+Klasik SharePoint iş akışı çözümleri yerine [Power Automate'i](https://docs.microsoft.com/power-automate/modern-approvals) kullanmayı düşünün.

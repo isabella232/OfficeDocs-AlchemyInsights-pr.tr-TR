@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049429"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771163"
 ---
 # <a name="why-cant-i-edit-files"></a>Dosyaları neden bulamıyorum?
 
-Bir belge, çalışma sayfası veya sunu düzenleme için kilitlenmişse ve Windows masaüstü uygulamalarında açılamazsa, dosya zaten başka biri tarafından düzenleniyor olabilir veya dosya yı kapatılmalı olabilir. [Dosyayı yeniden de](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)
+[Dosyayı yeniden düzenleneneme nedenlerinin bazılarına](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)hızlıca bir göz atın.
 
 **Ödeme, Gerekli** veya **Doğrulama** sütunları veya meta verileri olan kitaplıklarınız varsa veya **Taslak Madde Güvenliği** yalnızca yalnızca kitaplığın Sürüm Ayarları'ndaki öğeleri **onaylayabilen** **kullanıcılar** ayarı olarak ayarlanırsa:
 

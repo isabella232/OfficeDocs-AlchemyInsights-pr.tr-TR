@@ -10,30 +10,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 14ad9dd094902c85eaf0398c76003cea20ad4c0a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e7bfabe1555bb94e915f8544d460deecce6171be
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051121"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770371"
 ---
-# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>SharePoint Online'da bağlı siteler oluştururken veya gruplandırmada sorunlar
+# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>SharePoint'te grup bağlantılı bir site oluştururken sorunlar
 
-Grup bağlantılı bir site oluştururken veya yeniden oluştururken karşılaşılan birkaç yaygın sorun vardır.
+1. Grup bağlantılı bir site oluştururken veya yeniden oluştururken karşılaşılan bazı yaygın sorunlar.
+Bir grubu ve bağlı sitesini sildiyseniz ve aynı URL'ye sahip başka bir site oluşturmak istiyorsanız, önceki siteyi kalıcı olarak kaldırmanız gerekir.
 
- Bir grubu ve bağlı sitesini sildiyseniz ve aynı URL'ye sahip başka bir site oluşturmak istiyorsanız, önceki siteyi kalıcı olarak kaldırmanız gerekir.
+   - Karşıdan yükleme [SPO Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+   - Powershell ile başlamak hakkında daha fazla bilgi için [SharePoint Online Management Shell ile başlarken](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite)bakın.
+   - [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell cmdlet kullanarak Siteyi Silinmiş Sitelerden kaldırın. Powershell'in grup sitelerini kalıcı olarak silmesi gerekir.
 
-Karşıdan yükleme [SPO Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+1. Grup bağlantılı bir site oluşturuyorsanız ve bir uyarı alıyorsanız: **Aynı takma ada sahip başka bir grup zaten var,** [Yönetici Merkezi'nden Office 365'teki](https://admin.microsoft.com/AdminPortal/Home#/groups)varolan grupları denetleyin. Sorunu gidermek için, artık gerekli değilse varolan grubu silin veya farklı bir takma ad atanmış siteyi oluşturun.
 
- Powershell ile başlamak hakkında daha fazla bilgi için [SharePoint Online Management Shell ile başlarken](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
+1. SharePoint ile modern gruplar oluşturmanın ve kullanmanın farklı yolları vardır.
 
-[Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) powershell cmdlet kullanarak Siteyi Silinmiş Sitelerden kaldırın.
-
-Grup bağlantılı bir site oluşturuyorsanız ve bir uyarı alıyorsanız, aynı takma ada sahip başka bir grup zaten var, [Yönetici Merkezi'nden Office 365'teki](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups)varolan grupları denetleyin. Sorunu gidermek için, artık gerekli değilse varolan grubu silin veya farklı bir takma ad atanmış siteyi oluşturun.
-
-SharePoint ile modern gruplar oluşturmanın ve kullanmanın farklı yolları vardır.
-
-Varolan siteleri bir Office 365 grubuna bağlayabilirsiniz. Daha fazla bilgi için [bkz.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)
-
-Office 365 grubuna bağlı bir site oluşturmak için bir Ekip Sitesi oluşturmanız gerekir. Daha fazla bilgi için bkz: [SharePoint'te bir ekip sitesi oluştur.](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)
-
+   - Varolan siteleri bir Office 365 grubuna bağlayabilirsiniz. Daha fazla bilgi için bkz: [SharePoint kullanıcı arabirimini kullanarak bir Office 365 grubunu bağlayın.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)
+   - Office 365 grubuna bağlı bir site oluşturmak için bir [Ekip Sitesi](https://admin.microsoft.com/sharepoint)oluşturmanız gerekir.

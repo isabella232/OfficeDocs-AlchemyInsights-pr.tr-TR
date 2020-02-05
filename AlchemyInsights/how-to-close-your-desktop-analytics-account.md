@@ -1,5 +1,5 @@
 ---
-title: Nasıl Masaüstü Analytics hesabınızı kapatma
+title: Masaüstü Analytics hesabınızı kapatma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 8ca9b323800a43d968192cef39b2b84d4c38e762
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db22c9f8fd073825eb4d6901d9110e778e469936
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541749"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771055"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Nasıl Masaüstü Analytics hesabınızı kapatma
+# <a name="how-to-close-your-desktop-analytics-account"></a>Masaüstü Analytics hesabınızı kapatma
 
-İşlem analizi Masaüstü ortamınızda ayarlanmış ve kaldırmak gereken karar verirseniz, aşağıdaki bağlantıyı kullanın:
+Ortamınızda Desktop Analytics'i ayarladıysanız ve kaldırmanız gerektiğine karar verirseniz, aşağıdaki bağlantıdaki işlemi kullanın:
 
-[Hesabınızı kapatmak nasıl](https://docs.microsoft.com/sccm/desktop-analytics/account-close)
+[Hesabınızı kapatma](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-İlk adım, Microsoft Support temasa geçmektir. Masaüstü Analytics hesabınızı kapatmak için bir destek servis talebini açın. Microsoft hesabınız kapatıldı onay almak kadar ek adımlarla devam yoktur.
+İlk adım Microsoft Destek'e başvurmaktır. Masaüstü Analytics hesabınızı kapatmak için bir destek örneği açın. Microsoft'un hesabınızı kapattığına dair onay alana kadar ek adımlarla devam etmeyin.

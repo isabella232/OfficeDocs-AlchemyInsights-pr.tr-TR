@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051553"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771199"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online yaygın sorunları ve çözümleri
 
 SharePoint Online sorunları için sık sık istenen bazı konular şunlardır:
+
+- **Başlarken**: İşyerini birbirine bağlayan güzel ve güçlü bir intranet oluşturmak için [SharePoint Look Book'u](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) kullanın. [Örneklere](https://lookbook.microsoft.com/) bakın ve [tasarım kılavuzualın.](https://spdesign.azurewebsites.net/) SharePoint [Online'a](https://docs.microsoft.com/sharepoint/introduction) genel bir giriş için SharePoint Online'a Giriş'e bakın.
 
 - **İzinler**: [İzinler stratejisi oluşturun](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) ve [İzin Düzeylerini Anlayın.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
 
@@ -33,4 +35,4 @@ SharePoint Online sorunları için sık sık istenen bazı konular şunlardır:
 
 - **SharePoint'i Modernize Et:** [SharePoint'teki Modern deneyim Kılavuzunu](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) gözden geçirin ve taşımaya başlamak için [klasik SharePoint sitelerinizi modernize](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) edin.
 
-- **Başlarken**: Site yönetimi stratejileri yle [SharePoint Online'a nasıl başalacağınızı](https://docs.microsoft.com/sharepoint/introduction) öğrenin.
+**Not:** SharePoint sorunu yla ilgili daha ayrıntılı bir yanıt için sorunuzla ilgili kısa bir süre yeniden ifade edin ve gördüğünüz hataları veya kullandığınız özellikleri ekleyin.
