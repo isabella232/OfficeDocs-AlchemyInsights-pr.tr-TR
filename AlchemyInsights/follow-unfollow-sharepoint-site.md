@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611717"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855571"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>SharePoint sitesini takip et veya geri
 
-SharePoint'te ilginizi çeken siteleri, haberleri ve içeriği bulmanın ve izlemenin birden çok yolu vardır. Bu, listenizdeki bilgileri kolayca bulmanızı ve SharePoint'teki etkinliği görmenizi sağlar.
+Kullanıcılar SharePoint kaynaklarını takip eden veya izleyen sorunlaryaşıyorsa, aşağıdaki adımları tamamlayın:
 
-Siteleri ve [haberleri bulmak ve takip](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c)etmek için videoyu izleyin.
-
-Bir siteyi, haberi veya içeriği takip edemiyor veya takip edemiyorsanız ve sonuçların beklenen gibi olmadığını düşünüyorsanız, sorunun tek bir kullanıcıyla mı yoksa kuruluşunuzdaki tüm kullanıcılarla mı ilgili olduğuna bakın. Sorun tüm kullanıcılar tarafından karşılanırsa, geçici bir hizmet sorunu olabilir.
-
-Kuruluşunuzun etkilenip etkilenmeip etkilenmeyin iã§in [Hizmet SaÄ lÄ±k Panosu'](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) nu denetleyin.
+* Kullanıcıdan SharePoint'te oturum açmasını ve yeniden oturum açmasını isteyin ve SharePoint kaynağını takip etmek/takip etmek için aynı adımları deneyin.
+* Sorunun belirli bir sitede mi yoksa tüm sitelerde mi olduğunu belirleyin. Sorun belirli sitelerde oluşuyorsa, **Site Ayarları'na**giderek site ayarlarına giderek "Aşağıdaki İçerik" özelliğinin site için etkin olduğundan emin olun > Site Özelliklerini > İçeriği Takip Eden İçeriği Yönetin. Özellik Etkin olarak ayarlanmışsa, site için özelliği yeniden devre dışı ve etkinleştirme yi deneyin.
+* Sorunun kullanıcının tarayıcısına özgü olup olmadığını görmek için kullanıcıdan farklı bir Internet tarayıcısı denemesini isteyin.
+* Tüm kullanıcılar ve tüm siteler aynı sorunla karşınızdaysa, kuruluşunuzun etkilenip etkilenmeip etkilenmeip etkilenmediği konusunda [Hizmet Durumu Panosu'nu](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) denetleyin.
