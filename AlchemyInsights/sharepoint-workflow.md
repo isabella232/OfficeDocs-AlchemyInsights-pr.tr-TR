@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online ile başlayın
+title: SharePoint'teki İş Akışlarını Giderme
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,25 +14,19 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 7f8879360d90c30d5986831f6a537b1471eb8b6a
+ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770479"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42056154"
 ---
-# <a name="workflows-in-sharepoint"></a>SharePoint'teki Iş Akışları
+# <a name="troubleshoot-workflows-in-sharepoint"></a>SharePoint'teki İş Akışlarını Giderme
 
-SharePoint iş akışları, çok çeşitli iş süreçlerini kolaylaştıran önceden programlanmış uygulamalardır. Daha fazla bilgi için aşağıdaki bağlantılara bakın.
-
-## <a name="getting-started"></a>Başlarken
-
-SharePoint iş akışlarıyla yeni başlıyorsanız, [Intro to SharePoint iş akışlarına](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)bakın.
-
-## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>Bir SharePoint İş Akışı Sorun Giderme ve Hata Ayıklama
+## <a name="troubleshoot-and-debug-workflows-in-sharepoint"></a>SharePoint'teki Sorun Giderme ve Hata Ayıklama İş Akışları
 
 [Bkz. Troubleshoot SharePoint iş akışı doğrulama hataları](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) ve Hata [Ayıklama SharePoint iş akışları.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
 
 ## <a name="power-automate"></a>Güç Otomatikleştir
 
-Klasik SharePoint iş akışı çözümleri yerine [Power Automate'i](https://docs.microsoft.com/power-automate/modern-approvals) kullanmayı düşünün.
+İş akışlarına yeni başlıyorsanız, klasik SharePoint iş akışı çözümleri yerine [Power Automate'i](https://docs.microsoft.com/power-automate/modern-approvals) kullanmayı düşünün.
