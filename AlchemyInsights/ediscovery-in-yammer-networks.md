@@ -11,21 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 9ae5014aef14dc6478282348cf89f75062129ab7
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
+ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42033939"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42162932"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>Yammer Ağlarında EDiscovery
 
 Artık Office 365'te Yammer içeriği için eDiscovery aramaları gerçekleştirebilirsiniz.  EDiscovery aramalarını gerçekleştirmek veya Yammer içeriğinde dışa aktarmak için aşağıdakiler şunları gerektirir:
 
-1. Yammer iletilerinizi ve dosyalarınızı keşfedilebilir hale getirmek için önce Yammer Enterprise Ağınızı Yerel Moda'ya geçirmeniz gerekir.
-
-   > [!NOTE] 
-   >9 Ocak 2020 itibariyle bir Office 365 yeni müşterisiyseniz ve Yammer ağınız zaten Yerel Moddaysa, verileriniz artık eDiscovery ile keşfedilebilir.
+1. Yammer iletilerinizi ve dosyalarınızı keşfedilebilir hale getirmek için önce Yammer Enterprise Ağınızı Yerel Moda'ya geçirmeniz gerekir. **Not: 9 Ocak 2020 itibariyle yeni bir Office 365 müşterisiyseniz ve Yammer ağınız zaten Yerel Moddaysa, verileriniz artık eDiscovery ile keşfedilebilir.**
 
 2. Çıkış lı müşteriler için, Yerel Mod Hizalama aracı serbest bırakıldıktan ve Yerel Mod geçişi kiracıdaki Yammer için tamamlanınnca, Yammer için eDiscovery kullanılabilir olacaktır.
 
