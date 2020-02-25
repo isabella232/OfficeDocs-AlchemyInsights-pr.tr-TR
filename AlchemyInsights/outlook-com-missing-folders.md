@@ -1,5 +1,5 @@
 ---
-title: Outlook.com eksik klasörleri
+title: Outlook.com Eksik klasörler
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536203"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260262"
 ---
-# <a name="find-missing-folders"></a><span data-ttu-id="54647-102">Eksik klasörleri Bul</span><span class="sxs-lookup"><span data-stu-id="54647-102">Find missing folders</span></span>
+# <a name="find-missing-folders"></a><span data-ttu-id="5e12a-102">Eksik klasörleri bulma</span><span class="sxs-lookup"><span data-stu-id="5e12a-102">Find missing folders</span></span>
 
-<span data-ttu-id="54647-103">Klasörlerinizi göremiyorsanız, klasörlerinizi daraltılmış olmayan denetleyin.</span><span class="sxs-lookup"><span data-stu-id="54647-103">If you can't see your folders, check that your folders aren't collapsed.</span></span> <span data-ttu-id="54647-104">Sol bölmedeki **klasörlerin** yanındaki oku seçin.</span><span class="sxs-lookup"><span data-stu-id="54647-104">Select the arrow next to **Folders** in the left pane.</span></span>
-  
-<span data-ttu-id="54647-105">Bir klasörü yanlışlıkla silerseniz, yine Silinmiş Öğeler klasöründe ise kurtarabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="54647-105">If you accidentally delete a folder, you can recover it if it's still in your Deleted Items folder.</span></span> <span data-ttu-id="54647-106">Daha fazla bilgi için [geri yükleme silinmiş e-posta iletilerinde Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)okuyun.</span><span class="sxs-lookup"><span data-stu-id="54647-106">To learn more, read [Restoring deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
-  
-<span data-ttu-id="54647-107">Klasörler eksik olduğu bilinen bir sorun yoktur.</span><span class="sxs-lookup"><span data-stu-id="54647-107">There is a known issue where folders are missing.</span></span> <span data-ttu-id="54647-108">Bu sorunu gidermek için çalışıyorsunuz demektir.</span><span class="sxs-lookup"><span data-stu-id="54647-108">We're working to fix this.</span></span> <span data-ttu-id="54647-109">Yine de eksik klasörler içinde **Arama** kullanarak kaydedilen öğeleri bulabilirsiniz</span><span class="sxs-lookup"><span data-stu-id="54647-109">You can still find items saved within the missing folders using **Search**</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' /><span data-ttu-id="54647-110">, ve Oturumu Kapat ve sonra tekrar oturum yardımcı olabilir.</span><span class="sxs-lookup"><span data-stu-id="54647-110">, and it may help if you sign out and then sign in again.</span></span> [<span data-ttu-id="54647-111">Oturumu kapatmak için burayı tıklatın.</span><span class="sxs-lookup"><span data-stu-id="54647-111">Click here to sign out.</span></span>](https://login.live.com/logout.srf)
+<span data-ttu-id="5e12a-103">Bazı kullanıcılar küçük bir ekranda görüntülerken sol klasör bölmesini göremeyebilir.</span><span class="sxs-lookup"><span data-stu-id="5e12a-103">Some users may not be able to see the left folder pane when viewing on a small screen.</span></span>
+
+- <span data-ttu-id="5e12a-104">Klasör bölmesini yalnızca ihtiyacınız olduğunda genişletin.</span><span class="sxs-lookup"><span data-stu-id="5e12a-104">Expand the folder pane only when you need it.</span></span> <span data-ttu-id="5e12a-105">Klasörleri göstermek veya gizlemek için sol yan çubuktaki üç satır simgesini seçin.</span><span class="sxs-lookup"><span data-stu-id="5e12a-105">Select the three line icon in the left side bar to show or hide folders.</span></span>
+- <span data-ttu-id="5e12a-106">[Düzen ayarlarını](https://outlook.live.com/mail/options/mail/layout) açın ve **okuma bölmelerini gizle'yi** seçin ve sonra **kaydet'i**seçin.</span><span class="sxs-lookup"><span data-stu-id="5e12a-106">Open [layout settings](https://outlook.live.com/mail/options/mail/layout) and select **Hide reading pane** and then **Save**.</span></span> <span data-ttu-id="5e12a-107">Bu, ekrana klasörleri göstermek için daha fazla alan sağlar.</span><span class="sxs-lookup"><span data-stu-id="5e12a-107">This will give the screen more space to show folders.</span></span>
+
+<span data-ttu-id="5e12a-108">Yanlışlıkla bir klasörü silerseniz, silinmiş Öğeler klasörünüzde yse klasörü kurtarabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="5e12a-108">If you accidentally delete a folder, you can recover it if it's still in your Deleted Items folder.</span></span> <span data-ttu-id="5e12a-109">Daha fazla bilgi edinmek için [silinen e-posta iletilerini Outlook.com'da geri Outlook.com.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)</span><span class="sxs-lookup"><span data-stu-id="5e12a-109">To learn more, read [Restoring deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span></span>
