@@ -1,5 +1,5 @@
 ---
-title: Outlook.com eksik klasörleri
+title: Outlook.com Eksik klasörler
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536203"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260262"
 ---
-# <a name="find-missing-folders"></a>Eksik klasörleri Bul
+# <a name="find-missing-folders"></a>Eksik klasörleri bulma
 
-Klasörlerinizi göremiyorsanız, klasörlerinizi daraltılmış olmayan denetleyin. Sol bölmedeki **klasörlerin** yanındaki oku seçin.
-  
-Bir klasörü yanlışlıkla silerseniz, yine Silinmiş Öğeler klasöründe ise kurtarabilirsiniz. Daha fazla bilgi için [geri yükleme silinmiş e-posta iletilerinde Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)okuyun.
-  
-Klasörler eksik olduğu bilinen bir sorun yoktur. Bu sorunu gidermek için çalışıyorsunuz demektir. Yine de eksik klasörler içinde **Arama** kullanarak kaydedilen öğeleri bulabilirsiniz <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />, ve Oturumu Kapat ve sonra tekrar oturum yardımcı olabilir. [Oturumu kapatmak için burayı tıklatın.](https://login.live.com/logout.srf)
+Bazı kullanıcılar küçük bir ekranda görüntülerken sol klasör bölmesini göremeyebilir.
+
+- Klasör bölmesini yalnızca ihtiyacınız olduğunda genişletin. Klasörleri göstermek veya gizlemek için sol yan çubuktaki üç satır simgesini seçin.
+- [Düzen ayarlarını](https://outlook.live.com/mail/options/mail/layout) açın ve **okuma bölmelerini gizle'yi** seçin ve sonra **kaydet'i**seçin. Bu, ekrana klasörleri göstermek için daha fazla alan sağlar.
+
+Yanlışlıkla bir klasörü silerseniz, silinmiş Öğeler klasörünüzde yse klasörü kurtarabilirsiniz. Daha fazla bilgi edinmek için [silinen e-posta iletilerini Outlook.com'da geri Outlook.com.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)

@@ -12,19 +12,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: e8eefb9c0f01ad42f725f178fa23b15850364a44
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305176"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265108"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Skype for Business ile dış iletişime izin verin 
 
-Skype kurumsal kullanıcılarınızın kuruluşunuz dışındaki kullanıcılarla iletişim kurmasını sağlamak istiyor musunuz? 
-
-[Kullanıcıların kuruluş dışındaki Skype Kurumsal kullanıcılarıyla bağlantı kurmasına izin verme](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
+Skype kurumsal kullanıcılarınızın kuruluşunuz dışındaki kullanıcılarla iletişim kurmasını sağlamak istiyor musunuz? Bkz. [Kullanıcıların Kurumsal kullanıcılar için harici Skype ile iletişim kurmasını bekleyin.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
 DNS kayıtlarınız, dış iletişimin düzgün çalışması için doğru şekilde ayarlanmalıdır. Sağlayıcınızla DNS kayıtlarını nasıl ayarlayabildiğimize ilişkin özel yönergelerimiz olup olmadığını görmek için [burayı](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) kontrol edin. 
+
+Skype kurumsal kullanıcılarınızın Skype tüketici kullanıcılarıyla iletişim kurmasını yalnızca etkinleştirmek mi istiyorsunuz? Bakınız:
+
+- [Skype for Business kullanıcılarının Skype kişileri eklemesine izin verin.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
+
+- [Skype for Business'ta bir kişi ekleyin.](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1)
+
 
 Ekipler kullanıcılarınızın kuruluşunuz dışındaki kullanıcılarla iletişim kurmasını istiyorsanız (Skype for Business kullanıcıları dahil), [Microsoft Teams'te dış erişimi yönet'i gözden geçirin.](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people) 
