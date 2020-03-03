@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 3858a2cd2955f279aff77440abbd5e4642871bb8
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
+ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279049"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42365188"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Görüntüleri yakalamak, işaretlemek ve paylaşmak için Snip & Sketch'i kullanma
 
@@ -27,9 +27,12 @@ Ekran çizimi artık **Snip & Sketch**olarak adlandırılır. **Hızlı bir şek
 2. Kopyalamak istediğiniz alanın kenarında bir nokta seçin ve imleci sol tıklatın. 
 
 3. Yakalamak istediğiniz alanı vurgulamak için imlecinizi taşıyın. Yakaladığınız alan ekranınızda görünür.
+:::image type="content" source="media/snipone.png" alt-text="vurgulanan seçim görüntüsü":::
 
 Kesip aldığınız resim panonuza kaydedilir ve bir e-posta ya da belgeye yapıştırılamaya hazır dır. 
 
 **Görüntüyü görüntülemek veya görüntülemek istiyorsanız:** 
 
 - Görev çubuğunun sağ tarafındaki bildirimler simgesine tıklayın; sonra sadece yakalanan resmi tıklatın. Snip & Sketch uygulamasında snip açılır.
+
+:::image type="content" source="media/sniptwo.png" alt-text="snipping uygulamasında görüntülenen resim":::
