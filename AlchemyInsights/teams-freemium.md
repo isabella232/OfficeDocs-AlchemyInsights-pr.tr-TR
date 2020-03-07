@@ -11,17 +11,19 @@ ms.custom:
 - "997"
 - "6500005"
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
-ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bac77a9b65dbcd57ee14a533e63ef95719356291
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354025"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556692"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Takımlar için ücretsiz kaydolun istersiniz, ancak bağlanamıyorum.
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Takımlara ücretsiz kaydolmak istiyorum
 
-- Bu ücretsiz tekliften Office 365 çalışma kullanıyorsanız ya da hesap Okul kullanılamaz. Kuruluşunuz, yine de zaten takımları kullanıyor olabilir. Değilse, ücretsiz bir deneme sürümü için uygun olup olmadığını görmek için [Microsoft ekipleri](https://products.office.com/microsoft-teams/group-chat-software) gidin.
+Takımlar birkaç farklı program aracılığıyla ücretsiz olarak kullanılabilir. Bu istekle destekle iletişim kurduğunuziçin, zaten varolan bir Microsoft 365 kiracınız vardır, bu da zaten Microsoft Teams'e sahip olduğunuz anlamına gelir.
 
-- Akademik kuruluşlara bu ücretsiz teklif için uygun değildir. Ancak, Öğretmenler ve öğrenciler, Microsoft Teams tam sürümünü içeren Office 365 ücretsiz sürümünü alabilirsiniz. [Office 365 Microsoft ekipleri lisans](https://docs.microsoft.com/microsoftteams/office-365-licensing)konusuna bakın.
+Çoğu durumda, Takımlar varsayılan olarak tüm kullanıcılarınız için açıktır. Bir kez açılabilir, kullanıcılarınız takinleri, [masaüstü](https://office.visualstudio.com/MAX/_workitems/edit/desktop) ve [mobil](https://office.visualstudio.com/MAX/_workitems/edit/desktop) istemcileri yükleyerek veya 'deki https://teams.microsoft.com [tarayıcıdan](https://docs.microsoft.com/en-us/MicrosoftTeams/get-clients#mobile-clients) çalıştırabilirsiniz.
 
-- ABD devlet kurumları bu ücretsiz teklif için uygun değildir. Office 365 planları için hükümet kurumları (ücretsiz deneme sürümü dahil) hakkında bilgi edinmek için [Office 365 Microsoft ekipleri Lisansı'nı](https://docs.microsoft.com/microsoftteams/office-365-licensing)okuyun.
+Bunun istisnası Microsoft Eğitim Ekipleri 'dir (EDU). EDU lisansınvarsa, Microsoft Teams'i el ile etkinleştirmeniz gerekir. Bunu yapmak için, Microsoft> Hizmetleri **ve eklentileri > Microsoft 365**yönetici merkezine gidin. Yeni Takımlar yönetici merkezini kullanıyorsanız, **Hizmetleri ve eklentileri**bulmak için **yeni yönetici merkezini** denemeniz gerekir. ÖNEMLİ: Değişikliklerinizin etkili olması için 24 saate kadar beklemeniz gerekebilir.
+
+ [Ekipler ile uzak işçileri desteklemek](https://docs.microsoft.com/en-us/MicrosoftTeams/support-remote-work-with-teams)için tüm rehberlik kaçırmayın.
