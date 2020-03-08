@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: bd36391f0536b2fe951926eceab02e6411b54f3d
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
+ms.openlocfilehash: 14de391dd1f020e29beb4b432e288b46bee3dd9a
+ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371710"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42558853"
 ---
 # <a name="microsoft-365-service-health"></a>Microsoft 365 Hizmet Sağlığı
 
 
-Hizmet Durumu Panosundan herhangi bir hizmetin hizmet durumunu kontrol edin. Sağ üst köşedeki **yeni yönetici merkezini** seçerek yeni Hizmet Durumu seçeneklerini görürsünüz.
+[Hizmet Durumu Panosundan](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)herhangi bir hizmetin hizmet durumunu kontrol edin. Sağ üst köşedeki **yeni yönetici merkezini** seçerek yeni Hizmet Durumu seçeneklerini görürsünüz.
 
 - Hizmet durumu **e-posta bildirimlerini**almak için **Tercihler'i** seçin.
 
