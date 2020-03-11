@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962317"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573152"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="36be1-102">Kaçırıyorsun!</span><span class="sxs-lookup"><span data-stu-id="36be1-102">You're missing out!</span></span> <span data-ttu-id="36be1-103">Yöneticinizden Microsoft Ekiplerini etkinleştirmesini isteyin</span><span class="sxs-lookup"><span data-stu-id="36be1-103">Ask your admin to enable Microsoft Teams</span></span>
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="1b37a-102">Kaçırıyorsun!</span><span class="sxs-lookup"><span data-stu-id="1b37a-102">You're missing out!</span></span> <span data-ttu-id="1b37a-103">Yöneticinizden Microsoft Ekiplerini etkinleştirmesini isteyin</span><span class="sxs-lookup"><span data-stu-id="1b37a-103">Ask your admin to enable Microsoft Teams</span></span>
 
-<span data-ttu-id="36be1-104">Fakülte ve personel Takımlara erişebiliyor mu, ancak öğrenciler erişemiyor mu, yoksa F1 lisanslı kullanıcılarınız Takımlara erişemiyor mu?</span><span class="sxs-lookup"><span data-stu-id="36be1-104">Are faculty and staff able to access Teams but students cannot, or are your F1 licensed users unable to access Teams?</span></span>
+<span data-ttu-id="1b37a-104">EDU kiracınız varsa, Microsoft Teams'i el ile etkinleştirmeniz gerekir.</span><span class="sxs-lookup"><span data-stu-id="1b37a-104">If you have an EDU tenant, you need to enable Microsoft Teams manually.</span></span> <span data-ttu-id="1b37a-105">Bunu yapmak için,  **Microsoft >Hizmetleri ve eklentileri > Microsoft**365 yönetici merkezine gidin.</span><span class="sxs-lookup"><span data-stu-id="1b37a-105">To do this, go to the Microsoft 365 admin center > **Services and add-ins > Microsoft Teams**.</span></span> <span data-ttu-id="1b37a-106">Yeni Takımlar yönetici merkezini kullanıyorsanız, **Hizmetleri ve eklentileri**bulmak için **yeni yönetici merkezini** denemeniz gerekir.</span><span class="sxs-lookup"><span data-stu-id="1b37a-106">If you're using the new Teams admin center, you'll have to turn off **Try the new admin center** to find **Services and add-ins**.</span></span> 
 
-<span data-ttu-id="36be1-105">Takımlar öğrenciler ve F1 lisansları için açıkça etkinleştirilmelidir.</span><span class="sxs-lookup"><span data-stu-id="36be1-105">Teams must be explicitly enabled for students and F1 licenses.</span></span> <span data-ttu-id="36be1-106">Eğitim Için [Yapılandırılmış Ekipler'de](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education)okulunuzun ekiplerini etkinleştirme hakkında daha ayrıntılı talimatlar bulabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="36be1-106">You can find more detailed instructions about how to enable Teams for your school in [Configure Teams for Education](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education).</span></span> 
+<span data-ttu-id="1b37a-107">**ÖNEMLİ**: Değişikliklerinizin etkili olması için 24 saate kadar beklemeniz gerekebilir.</span><span class="sxs-lookup"><span data-stu-id="1b37a-107">**IMPORTANT**: You may have to wait up to 24 hours for your changes to take effect.</span></span>
