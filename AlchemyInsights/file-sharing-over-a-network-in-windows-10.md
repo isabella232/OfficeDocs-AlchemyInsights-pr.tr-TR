@@ -11,29 +11,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: ac62bf8dbd9f55baf3cc0c77501cad2d6ac32b06
-ms.sourcegitcommit: 9a35768444824cde9e192f1d9daafc9157437244
+ms.openlocfilehash: 5f0cd0d2b7271a60aa390c8ee2d6ffbcefe78d94
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42268690"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584440"
 ---
 # <a name="file-sharing-over-a-network-in-windows-10"></a>Windows 10'da ağ üzerinden dosya paylaşımı
 
 **Not**: Daha önce dosya paylaşımı için HomeGroup'u kullandıysanız, HomeGroup'un Windows 10'dan kaldırıldığını lütfen unutmayın (Sürüm 1803). Artık Windows 10'da yerleşik özellikleri kullanarak yazıcıları ve dosyaları paylaşabilirsiniz.
 
-**Ağ üzerinden dosya veya klasör paylaşmak için:**
+**Ağ üzerinden dosya veya klasör paylaşmak için**
 
 - **Dosya Gezgini'nde,** bir dosya seçin > üstteki **Paylaş** sekmesini tıklatın > **Bölümü'nde** Paylaş sekmesini tıklatın, **Belirli kişiler'i**tıklatın.
+
+    ![Bir dosyayı belirli kişilerle paylaşın.](media/share-with-specific-people.png)
           
 - Aynı anda birden çok dosya seçerseniz, hepsini aynı şekilde paylaşabilirsiniz. Klasörler için de çalışır.
 
-**Ağda dosya paylaşan aygıtları görmek için:**
+**Ağda dosya paylaşan aygıtları görmek için**
 
 - **Dosya Gezgini'nde,** **Ağ'a**gidin. Ağ keşfi etkin değilse, "Ağ bulma kapatılır" bir hata iletisi görürsünüz.
 
-- Ağ keşfini tıklatın banner **kapatılır,** ardından **ağ bulma ve dosya paylaşımını aç'ı**tıklatın. 
-          
+- Ağ keşfini tıklatın banner **kapatılır,** ardından **ağ bulma ve dosya paylaşımını aç'ı**tıklatın.
+
+    ![Ağ bulma ve dosya paylaşımını açın.](media/turn-on-network-discovery.png)
 
 [Ağ üzerinden dosya paylaşımı hakkında daha fazla bilgi edinin](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
 

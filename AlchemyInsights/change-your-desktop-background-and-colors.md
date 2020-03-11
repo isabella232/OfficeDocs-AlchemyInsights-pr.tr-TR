@@ -11,15 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: d6baf8606dfca20c0fba1817b9531db915bdf7a8
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: 67a2b591c8556af1d5292d6480ed1ca27e384a6a
+ms.sourcegitcommit: 85c41ce0e11956e1865f8baec231cffa79d87ef4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42063774"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42581441"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Masaüstü arka planınızı ve renklerinizi değiştirme
 
-Renk ayarınızı değiştirmek için Ayarlar**** > **Kişiselleştirme** >  **Renkleri'ni Başlat'ı** > seçin ve ardından kendi renginizi seçin veya Windows'un arka planınızdan vurgu rengi çekmesine izin verin.****
+Renk ayarınızı değiştirmek **için,** > **Ayarlar** > **Kişiselleştirme** > **Renkleri**Başlat'a gidin ve ardından kendi renginizi seçin veya Windows'un arka planınızdan bir vurgu rengi çekmesine izin verin.
 
-Masaüstü arka planınızı değiştirmek için Ayarlar**** > **Kişiselleştirme** > **Arka Planını** **Başlat'ı** > seçin ve ardından bir resim, düz renk veya resim slayt gösterisi oluşturun. Daha fazla masaüstü arka plan ve renk mi istiyorsunuz? Düzinelerce ücretsiz tema arasından seçim yapmak için [Microsoft Mağazası'nı](https://www.microsoft.com/en-us/store/collections/windowsthemes) ziyaret edin.
+![Windows'da renklerinizi kişiselleştirin.](media/windows-personalization-colors.png)
+
+Masaüstü arka planınızı değiştirmek **için, Başlangıç** > **Ayarları** > **Kişiselleştirme** > Arka**Planı'na**gidin ve ardından bir resim, düz renk veya resim slayt gösterisi oluşturun. 
+
+![Windows masaüstü arka planınızı değiştirin.](media/windows-desktop-background.png)
+
+Daha fazla masaüstü arka plan ve renk mi istiyorsunuz? Düzinelerce ücretsiz tema arasından seçim yapmak için [Microsoft Mağazası'nı](https://www.microsoft.com/store/collections/windowsthemes) ziyaret edin.
