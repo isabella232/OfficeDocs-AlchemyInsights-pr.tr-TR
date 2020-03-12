@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42031634"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600152"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Word dosyalarını açma veya kaydetme hatalarını çözme
 
@@ -25,7 +25,7 @@ Word belgelerini açarken veya kaydederken sorun yaşıyorsanız aşağıdakiler
 - [Office güncelleştirmelerini yükleyin.](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5) En son Office güncelleştirmeleri listesi için [bkz.](https://docs.microsoft.com/officeupdates/office-updates-msi)
 - [Word'deki hasarlı belgeleri giderme.](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)
 - [Office uygulamasını onar.](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
-- Belge izlenen değişiklikleri içeriyorsa, Sorunu gidermek için aşırı izlenen değişiklikler veya yorumlar varsa Word'deki önerileri [yavaşlatın veya yanıt vermeyi durdurun.](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding)
+- Belge izlenen değişiklikleri içeriyorsa, Sorunu gidermek için aşırı izlenen değişiklikler veya yorumlar varsa Word'deki önerileri [yavaşlatın veya yanıt vermeyi durdurun.](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding)
 
 Aşağıdakilerden biri gibi bir hata aldıysanız, [bir dosya kayıt defteri ilkesi ayarları tarafından engellendiğinde Office'teki Hata iletisindeki](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)önerileri kullanın:
 

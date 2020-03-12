@@ -13,12 +13,12 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: d523ab51852cf771fb260d0050fbe92d4578ff76
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908764"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599504"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Office güncelleştirmeleriyle yüklü Microsoft Ekipleri
 
@@ -32,6 +32,6 @@ Kuruluşunuz Takımlar dağıtmaya hazır değilse, ***Ekipleri*** [yeni](https:
 
 Windows çalıştıran bir aygıttan ***Takımlar kaldırmak*** için Microsoft [Ekiplerini](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81)Kaldır'ı'na bakın. Microsoft Ekiplerini birden çok hedef makineden veya kullanıcıdan temizlemek için [Microsoft Teams dağıtım temizleme'ye](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)bakın.
 
-Paylaşılan bilgisayarları, Uzak Masaüstü Hizmetlerini (RDS) veya Sanal Masaüstü Altyapısı (VDI) kullanıyorsanız, [Microsoft Teams ile paylaşılan bilgisayar ve VDI ortamlarına](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)bakın. Mac için Office kullanıyorsanız, [Mac'teki Microsoft Teams yüklemelerine](https://docs.microsoft.com/en-us/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)bakın.
+Paylaşılan bilgisayarları, Uzak Masaüstü Hizmetlerini (RDS) veya Sanal Masaüstü Altyapısı (VDI) kullanıyorsanız, [Microsoft Teams ile paylaşılan bilgisayar ve VDI ortamlarına](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)bakın. Mac için Office kullanıyorsanız, [Mac'teki Microsoft Teams yüklemelerine](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)bakın.
 
 **Not:** Takımlar yüklendikten sonra, yeni özellikler ve kalite güncelleştirmeleriyle yaklaşık iki haftada bir [otomatik olarak güncellenir.](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) 
