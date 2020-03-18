@@ -1,30 +1,30 @@
 ---
-title: Microsoft 365 ile Hak Yönetimi Koruması kullanın
+title: Microsoft 365 ile Hak Yönetimi Koruması
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001670"
 - "3737"
-ms.openlocfilehash: 9b0764e6315dba48ad7634a0668468fcff8408f4
-ms.sourcegitcommit: 2561248cfa1a562504183d84e2252deb60e6588a
-ms.translationtype: MT
+- "3820"
+ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42632687"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707392"
 ---
-# <a name="use-rights-management-protection-with-microsoft-365"></a>Microsoft 365 ile Hak Yönetimi Koruması kullanın
+# <a name="use-rights-management-protection-with-microsoft-365"></a>Microsoft 365 ile Hak Yönetimi Koruması
 
-Office 365 uygulamaları nın ve hizmetlerinin Bilgi Hakları Yönetimi (IRM) özelliklerini kullanamadan önce [Hak Yönetimi hizmetini (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) etkinleştirmeniz gerekir.
+Office 365 uygulamaları ve hizmetlerinin Bilgi Hakları Yönetimi (IRM) özelliklerini kullanabilmek için, önce [Hak Yönetimi hizmetini (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) etkinleştirmeniz gerekir.
 
-1. **Microsoft 365 yönetici merkezinden**lisans gereksinimleri ve etkinleştirme için Microsoft [365 Yönetici Merkezi'nden Hak Yönetimi Koruması'nı nasıl etkinleştirin.](https://docs.microsoft.com/azure/information-protection/activate-office365) **Not**: Global Administration Hesabı gerektirir.
+1. Lisans gereksinimleri ve **Microsoft 365 yönetim merkezinden** etkinleştirme için bkz. [Microsoft 365 Yönetim Merkezi’nden Hak Yönetimi Korumasını etkinleştirme](https://docs.microsoft.com/azure/information-protection/activate-office365). **Not**: Genel Yönetici Hesabı gerekir.
 
-2. **Azure Portalı'ndan**lisans gereksinimleri ve etkinleştirme için Azure [portalından Hak Yönetimi koruma hizmetini nasıl etkinleştirin.](https://docs.microsoft.com/azure/information-protection/activate-azure) **Not**: Global Administrator Hesabı gerektirmez.
- 
+2. Lisans gereksinimleri ve **Azure Portalından** etkinleştirme için bkz. [Azure portalından Hak Yönetimi korumasını etkinleştirme](https://docs.microsoft.com/azure/information-protection/activate-azure). **Not**: Genel Yönetici Hesabı gerekmez.
 
-Daha fazla bilgi [için, yönetici merkezinde Hak Yönetimi hakkında bilgi için Pointers'a](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365)bakın.
+Daha fazla bilgi için bkz. [Yönetim merkezinde Hak Yönetimi hakkındaki bilgilerin işaretçileri](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).
