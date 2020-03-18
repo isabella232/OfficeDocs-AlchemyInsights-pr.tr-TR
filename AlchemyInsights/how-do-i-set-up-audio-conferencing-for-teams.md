@@ -1,24 +1,42 @@
 ---
-title: Takımlar için sesli konferans nasıl ayarlırım?
+title: Teams için sesli konferansı nasıl ayarlarım?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: eb875a0659327e0669c449a4b16037f2c7fc0eb2
-ms.sourcegitcommit: 60166417054fddd68750f1ce5898af79d9de1dfa
-ms.translationtype: MT
+ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
+ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37383974"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42692415"
 ---
-# <a name="phone-systems-and-audio-conferencing-for-teams"></a>Ekipler için Telefon Sistemleri ve Ses Konferansı
+# <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Sesli Konferans
 
-Microsoft Teams'deki toplantılar ve konferanslar hakkında daha fazla bilgi için, [Microsoft Teams'deki Toplantılar ve konferanslar'a](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)bakın.
+Microsoft Teams’te Sesli Konferansı açmak veya ayarlamak için yardıma ihtiyacınız mı var? Bu kullanıcı yeni mi oluşturuldu?  Öyleyse, ayarların geçerlilik kazanması için 2-24 saat beklemeniz gerekir.    
+
+Kullanıcının Sesli Konferans için lisanslandırıldığını ve Varsayılan Ücretli Numara sahibi olduğunu doğrulamak için:
+
+1. [Etkin kullanıcılar](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)’a gidip söz konusu kullanıcıyı seçin.
+
+2. Yönetim merkezi sürümüne bağlı olarak, **Lisanslar ve Uygulamalar**’ı seçin veya **Ürün lisansları**’nda **Düzenle**’ye tıklayın.
+
+3. Kullanıcının **Sesli Konferans, Microsoft Teams** ve **Skype Kurumsal Çevrimiçi (Plan 2)** için seçili lisanslarının olduğunu doğrulayın.
+
+4. **Yönetim merkezleri**’nin altında **Tümünü göster**’e tıklayın, ardından **Teams**’e tıklayın.
+
+5. **Microsoft Teams yönetim merkezi**’nde **Eski portal**’a tıklayın.
+
+6. **Skype Kurumsal yönetim merkezi**’nde **sesli konferans**’a tıklayın, ardından **kullanıcılar**’a tıklayın.
+
+7. Söz konusu kullanıcıyı seçin, kullanıcının **Varsayılan Ücretli Numarasının** olduğunu doğrulayın.
+
+Daha fazla bilgi için [Office 365 Arama Planları](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)’na başvurun veya lisans ile ilgili sorular hakkında yardım almak için Microsoft Commerce Faturalama ekibini arayın.
