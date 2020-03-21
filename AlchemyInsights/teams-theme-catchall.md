@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42745024"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856487"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Teams’in yaygın sorunlar ve çözümleri
 
@@ -36,11 +36,11 @@ Tüm Teams müşterileri için:
 
     Kullanıcının Sesli Konferans lisansı ve Varsayılan Ücretli Numarası olduğunu doğrulamak için:
     1.    Etkin Kullanıcılar’a gidip söz konusu kullanıcıyı seçin.
-    2.    Yönetim merkezi sürümüne bağlı olarak, Lisanslar ve Uygulamalar’ı seçin veya Ürün lisansları’nda Düzenle’ye tıklayın.
+    2.    Yönetim merkezi sürümüne bağlı olarak, **Lisanslar ve Uygulamalar**’ı seçin veya **Ürün lisansları**’nda **Düzenle**’ye tıklayın.
     3.    Kullanıcının Sesli Konferans, Microsoft Teams ve Skype Kurumsal Çevrimiçi (Plan 2) için seçili lisanslarının olduğunu doğrulayın.
-    4.    Kullanıcı Yönetim merkezlerinde Tümünü göster’e tıklayın, ardından Teams’e tıklayın.
-    5.    Microsoft Teams yönetim merkezi’nde Eski portal’a tıklayın.
-    6.    Skype Kurumsal yönetim merkezinde sesli konferansa tıklayın, ardından kullanıcılara tıklayın.
+    4.    Kullanıcı Yönetim merkezlerinde **Tümünü göster**’e ve ardından **Teams**’e tıklayın.
+    5.    Microsoft Teams yönetim merkezinde **Eski portal**’a tıklayın.
+    6.    Skype Kurumsal yönetim merkezinde **sesli konferans**’a ve ardından **kullanıcılar**’a tıklayın.
     7.    Söz konusu kullanıcıyı seçin, kullanıcının Varsayılan Ücretli Numarasının olduğunu doğrulayın.
     
     Daha fazla bilgi için [Office 365 Arama Planları](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) konusuna bakın veya lisansla ilgili sorular hakkında yardım almak için Microsoft Commerce Faturalama ekibini arayın.
