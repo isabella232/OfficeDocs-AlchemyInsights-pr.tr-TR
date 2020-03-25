@@ -1,5 +1,5 @@
 ---
-title: DLP ilkesi çalışmıyor ipuçları
+title: DLP İlke İpuçları çalışmıyor
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -12,24 +12,30 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1619d50b98419f59a1f863983c4ec5bff01679b4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 51b4472fa721443192eb542cac45965df67634df
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530335"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932606"
 ---
-# <a name="dlp-policy-tip-issues"></a>DLP İlkesi ipucu sorunları
+# <a name="dlp-policy-tip-issues"></a>DLP İlke İpucu sorunları
 
-**DLP ilkeleri**kullanılırken, kullanıcıların **ilke ipuçları**ile bir ilke ihlalinin bildirilmesini seçebilirsiniz. Admins DLP ilkelerini sınama sırasında veya ilke tam zorlama modunda olduğunda göstermek için ipuçlarını ilkesi yapılandırabilirsiniz.
+**Önemli**: Birçok SharePoint Online ve OneDrive müşterisi, arka planda çalışan hizmete karşı iş açısından kritik uygulamalar çalıştırıyor. Bunlar arasında içerik geçişi, Veri Kaybıönleme (DLP) ve yedekleme çözümleri yer alır. Bu eşi görülmemiş zamanlarda, SharePoint Online ve OneDrive hizmetlerinin uzak çalışma senaryolarında hizmete her zamankinden daha fazla bağımlı olan kullanıcılarınız için son derece kullanılabilir ve güvenilir kalmasını sağlamak için adımlar atıyoruz.
+
+Bu hedefi desteklemek için, hafta içi gündüz saatlerinde arka plan uygulamalarına (geçiş, DLP ve yedekleme çözümleri) daha sıkı azaltma limitleri uyguladık. Bu uygulamaların bu zamanlarda çok sınırlı bir iş artışı elde edeceğini bekleyebilirsiniz. Ancak, bölge için akşam ve hafta sonu saatlerinde, hizmet arka plan uygulamalarından gelen isteklerin önemli ölçüde daha yüksek hacimli işlemek için hazır olacaktır.
+
+**DLP ilke ipuçları**
+
+**DLP ilkeleri**kullanırken, kullanıcılar **ilke ipuçları**ile bir ilke ihlali haberdar edilebilir. Yöneticiler, DLP ilkelerini sınarken veya ilke tam uygulama modundayken görüntülenecek ilke ipuçlarını yapılandırabilir.
   
-Tam zorlama modunda güvenlik ve uyumluluk Merkezi'nde DLP ilkeniz ipuçları İlkesi yapılandırmak için aşağıdakileri yapın:
+Güvenlik ve Uyumluluk merkezindeki DLP ilkeniz hakkındaki ilke ipuçlarını tam uygulama modunda yapılandırmak için aşağıdakileri yapın:
   
-- Emin adımlarla DLP kuralın **Etkin** ilke ipuçları edilmiştir [burada](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- [Buradaki](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)adımları kullanarak DLP kuralında ilke ipuçlarının **etkinleştirildiğinden** emin olun.
 
-- Bu makalede özetlenen kural tetiklemek için **gerekli** olan, **içeriği eşleştirir** olmak [burada](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- İçeriğinizin bu [makalede](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)özetlenen kuralı tetiklemek için **gerekenle** **eşleştiğinden** emin olun.
 
-- İlke ipuçlarını OWA ve Outlook'ta görüntüle. Ancak, **Outlook 2013 veya sonraki sürümleri**kullanırken, ilke ipuçları yalnızca belirli koşullar altında görüntülenir. Bu koşullar aşağıdadır: [desteklenen koşullar Outlook 2013 veya daha sonra ilke ipuçlarını görüntülemek için](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- İlke ipuçları hem OWA hem de Outlook'ta görüntülenir. Ancak, **Outlook 2013 veya daha sonra**kullanırken, ilke ipuçları yalnızca belirli koşullar altında görüntülenir. Bu koşullar burada listelenmiştir: [İlke İpuçlarını görüntülemek için Outlook 2013 veya sonraki](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions) koşullar
 
-DLP İlkesi ipuçları hakkında ek bilgi için bkz: [DLP ilkeleri için ilke ipuçlarını göster](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+DLP ilke ipuçları hakkında daha fazla bilgi için bkz: [DLP İlkeleri için ilke ipuçlarını göster](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
   
