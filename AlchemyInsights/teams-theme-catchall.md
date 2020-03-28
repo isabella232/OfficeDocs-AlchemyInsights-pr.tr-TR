@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856487"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030420"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Teams’in yaygın sorunlar ve çözümleri
+
+**Önemli**: Son zamanlarda Teams kullanımında artış olduğundan, bir kullanıcıya Teams lisansı atadığınızda kullanıcının tamamen hazır olması 24 saat kadar sürebilir. O zamana kadar bu kullanıcılara Teams ilkeleri atanamaz, kullanıcılar arama ve sesli konferans gibi bazı Teams özelliklerine erişemez.
+
+**Yaygın sorunlar ve çözümleri**
 
 Daha net bir yanıt için, karşılaştığınız hataları veya kullandığınız Teams özelliklerini de içerecek şekilde sorunuzu başka sözcüklerle ifade etmeyi deneyin.
 

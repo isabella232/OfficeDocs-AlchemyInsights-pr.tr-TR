@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 10a0069c41d2e5128b2592425d815364a83b730f
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932498"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958558"
 ---
 # <a name="general-migration-performance-guidance"></a>Genel geçiş performansı kılavuzu
 
-**Önemli**: Birçok SharePoint Online ve OneDrive müşterisi, arka planda çalışan hizmete karşı iş açısından kritik uygulamaları çalıştırır.  Bunlar içerik geçişi, Veri Kaybı Önleme (DLP) ve yedekleme çözümlerini içerir. Benzeri görünmemiş bu zamanlarda, uzaktan çalışma senaryolarında her zamankinden daha fazla hizmete bağımlı olan kullanıcılarınız için SharePoint Online ve OneDrive hizmetlerinin yüksek düzeyde kullanılabilir ve güvenilir olmaya devam etmesini sağlamaya yönelik bazı adımlar atıyoruz.
-
-Bu amacı desteklemek için hafta içi gündüz saatleri boyunca arka plan uygulamalarında (geçiş, DLP ve yedekleme çözümleri) daha sıkı azaltma sınırları uyguladık. Bu anlarda bu uygulamaların çok sınırlı işlem yapmasını beklemelisiniz. Öte yandan, hizmet, bölgenin akşam ve hafta sonu saatleri boyunca arka plan uygulamalarından çok daha yüksek hacimde isteği işlemeye hazır olur.
+**Önemli**: Bu benzeri görünmemiş zamanlarda, SharePoint Online ve OneDrive hizmetlerinin kullanılabilirlik düzeyinin her zaman yüksek olmasını sağlamaya yönelik adımlar atıyoruz. Daha fazla bilgi için lütfen [SharePoint Online Geçici Özellik Değişiklikleri](https://aka.ms/ODSPAdjustments) sayfasını ziyaret edin.
 
 **Geçiş performansı kılavuzu**
 
