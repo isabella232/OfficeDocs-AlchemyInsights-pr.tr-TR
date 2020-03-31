@@ -1,5 +1,5 @@
 ---
-title: Nasıl eklemek veya bir VatID düzenlemek için
+title: VatID ekleme veya bunları nasıl edinilir?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,31 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664340"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059756"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a><span data-ttu-id="f1694-102">Nasıl eklemek veya bir VatID düzenlemek için</span><span class="sxs-lookup"><span data-stu-id="f1694-102">How to add or edit a VatID</span></span>
+# <a name="how-to-add-or-edit-a-vatid"></a><span data-ttu-id="86372-102">VatID ekleme veya bunları nasıl edinilir?</span><span class="sxs-lookup"><span data-stu-id="86372-102">How to add or edit a VatID</span></span>
 
-1. <span data-ttu-id="f1694-103">**Faturalama** için Microsoft 365 Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.</span><span class="sxs-lookup"><span data-stu-id="f1694-103">In the Microsoft 365 admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+<span data-ttu-id="86372-103">**Not**: Birleşik Krallık gibi katma değer vergisi (KDV) kullanan bir ülkedeyseniz, Microsoft Faturalama sizin için KDV'yi hesaplar ve tutarı faturalarınıza uygular.</span><span class="sxs-lookup"><span data-stu-id="86372-103">**Note**: If you are in a country that uses valued added tax (VAT), such as the United Kingdom, Microsoft Invoicing calculates the VAT for you, and applies the amount to your invoices.</span></span> <span data-ttu-id="86372-104">Daha fazla bilgi için Avrupa Komisyonu tarafından yayınlanan [VIES feragatnameye](https://go.microsoft.com/fwlink/?LinkID=841741) bakın.</span><span class="sxs-lookup"><span data-stu-id="86372-104">For more info, see [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) published by the European commission.</span></span>
 
-2. <span data-ttu-id="f1694-104">Güncelleştirmek istediğiniz abonelik için abonelik kartı bulun.</span><span class="sxs-lookup"><span data-stu-id="f1694-104">Find the subscription card for the subscription you want to update.</span></span>
+<span data-ttu-id="86372-105">**VatID ekleme veya düzenleme**</span><span class="sxs-lookup"><span data-stu-id="86372-105">**Adding or editing a VatID**</span></span>
 
-3. <span data-ttu-id="f1694-105">**Ayarları & Eylemler** bölümünde **hizmet kullanımı adresi Düzenle**' yi seçin.</span><span class="sxs-lookup"><span data-stu-id="f1694-105">In the **Settings & Actions** section, select **Edit service usage address**.</span></span>
+1. <span data-ttu-id="86372-106">Microsoft 365 yönetici merkezinde, **Faturalama** \> [Ürünleri & hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.</span><span class="sxs-lookup"><span data-stu-id="86372-106">In the Microsoft 365 admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-4. <span data-ttu-id="f1694-106">**Hizmet kullanım adresinizi Düzenle** sayfasında, KDV Kimliğinizi **KDV numarası** kutusuna girin ve **Kaydet**' i seçin.</span><span class="sxs-lookup"><span data-stu-id="f1694-106">On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then select **Save**.</span></span>
+2. <span data-ttu-id="86372-107">Güncellemek istediğiniz abonelik için abonelik kartını bulun.</span><span class="sxs-lookup"><span data-stu-id="86372-107">Find the subscription card for the subscription you want to update.</span></span>
 
-    <span data-ttu-id="f1694-107">Tamamlandığında, sonraki faturanızda KDV ücretlendirilmez.</span><span class="sxs-lookup"><span data-stu-id="f1694-107">When complete, VAT will not be charged on your next bill.</span></span>
+3. <span data-ttu-id="86372-108">**Eylemler& Ayarlar** **bölümünde, hizmet kullanım adresini edit'i**seçin.</span><span class="sxs-lookup"><span data-stu-id="86372-108">In the **Settings & Actions** section, select **Edit service usage address**.</span></span>
 
-<span data-ttu-id="f1694-108">Daha fazla bilgi için bkz: [hangi vergi benim için Office 365 tahsil edilir?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span><span class="sxs-lookup"><span data-stu-id="f1694-108">To learn more,see [What tax will I be charged for Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span></span>
+4. <span data-ttu-id="86372-109">Hizmet **kullanım adresinizi edin** sayfasında KDV **numaranızı** girin ve ardından **Kaydet'i**seçin.</span><span class="sxs-lookup"><span data-stu-id="86372-109">On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then select **Save**.</span></span>
 
-<span data-ttu-id="f1694-109">**Ek kaynaklar**</span><span class="sxs-lookup"><span data-stu-id="f1694-109">**Additional resources**</span></span>
+    <span data-ttu-id="86372-110">Tamamlandığında, bir sonraki faturanızda KDV alınmaz.</span><span class="sxs-lookup"><span data-stu-id="86372-110">When complete, VAT will not be charged on your next bill.</span></span>
 
-<span data-ttu-id="f1694-110">[KDV Kimliğinizi ekleyin](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span><span class="sxs-lookup"><span data-stu-id="f1694-110">[Add your VAT ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span></span>
+<span data-ttu-id="86372-111">Daha fazla bilgi edinmek [için bkz. Office 365 için hangi vergiden tahsil edilirim?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span><span class="sxs-lookup"><span data-stu-id="86372-111">To learn more,see [What tax will I be charged for Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span></span>
+
+<span data-ttu-id="86372-112">**Ek kaynaklar**</span><span class="sxs-lookup"><span data-stu-id="86372-112">**Additional resources**</span></span>
+
+<span data-ttu-id="86372-113">[KDV kimliğinizi ekleyin.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only)</span><span class="sxs-lookup"><span data-stu-id="86372-113">[Add your VAT ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span></span>
