@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 66c9cb9f95ff83df9e50189971411d82484b7707
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034399"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43143015"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Teams canlı etkinliklerini kullanmaya başlama
 
@@ -24,7 +24,7 @@ Microsoft Teams canlı etkinlikleri, kalabalık çevrimiçi kitlelere akış yap
 
 Canlı etkinlik oluşturmak için şunlara ihtiyaç duyarsınız:
 
-- [Office 365 Kurumsal E1, E3 veya E5 lisansı ya da bir Office 365 A3 veya A5 lisansı](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses).
+- [Office 365 Kurumsal E1, E3 veya E5 lisansı ya da bir Office 365 A3 veya A5 lisansı](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Not**: Son zamanlarda Teams kullanımında görülen artış nedeniyle, bir kullanıcıya Teams lisansı atadığınızda kullanıcının çalışmaya tamamen hazır olması yaklaşık 24 saat sürebilir. O zamana kadar bu kullanıcılara Teams ilkeleri atanamaz, kullanıcılar arama ve sesli konferans gibi bazı Teams özelliklerine erişemez.
 
 - [Microsoft Teams yönetim merkezinde canlı etkinlik oluşturma](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy) izni.
 
