@@ -23,7 +23,7 @@ ms.locfileid: "43160872"
 ---
 # <a name="reactivate-your-subscription"></a>Aboneliğinizi yeniden etkinleştirme
 
-Aboneliğinizin süresi dolduysa, Microsoft tarafından devre dışı bırakıldıysa veya abonelik döneminiz sona ermeden siz iptal ettiyseniz yönetim merkezi üzerinden aboneliğinizi yeniden etkinleştirebilirsiniz. 
+Aboneliğinizin süresi dolduysa, Microsoft tarafından devre dışı bırakıldıysa veya abonelik döneminiz sona ermeden siz iptal ettiyseniz yönetim merkezinde aboneliğinizi yeniden etkinleştirebilirsiniz. 
 
 1. Yönetim merkezinde **Faturalama > [Ürünler ve hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
 
@@ -35,16 +35,16 @@ Daha fazla bilgi edinmek için bkz. [Aboneliğinizi yeniden etkinleştirme](http
 
 **Abonelik yenilemeyi yönetme**
 
-Aylık veya yıllık faturalamayı yönetmek için Yinelenen faturayı açabilir veya kapatabilirsiniz.
+Aylık veya yıllık faturalamayı yönetmek için Yinelenen faturalamayı açabilir veya kapatabilirsiniz.
 
 1. Yönetim merkezinde **Faturalama > [Ürünler ve Hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
 
-2. Yinelenen faturasını yönetmek istediğiniz aboneliği seçin. 
+2. Yinelenen faturalamayı yönetmek istediğiniz aboneliği seçin. 
 
 3. Faturalama altındaki Yinelenme tarihi veya Sona erme tarihi’nin yanında **düzenle**’ye tıklayın.
 
-4. Yinelenen fatura ayarları bölmesinde **Kapat**’ı seçerek bu özelliği kapatın. Yinelenen fatura önceden kapatıldıysa, açmak için **Aylık** veya **Bir kez**’e tıklayın. 
+4. Yinelenen faturalama ayarları bölmesinde **Kapat**’ı seçerek bu özelliği kapatın. Yinelenen faturalama önceden kapatıldıysa, açmak için **Aylık** veya **Bir kez**’e tıklayın. 
 
-5. **Değişiklik gönder**’e tıklayın.
+5. **Değişikliği gönder**’e tıklayın.
 
-Daha fazla bilgi için bkz. [Yinelenen faturayı kapatma veya açma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Daha fazla bilgi için bkz. [Yinelenen faturalamayı kapatma veya açma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

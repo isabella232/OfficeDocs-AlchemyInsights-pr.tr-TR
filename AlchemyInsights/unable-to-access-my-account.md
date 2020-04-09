@@ -20,16 +20,16 @@ ms.locfileid: "43154426"
 ---
 # <a name="unable-to-access-my-account"></a>Hesabıma erişemiyorum
 
-Aboneliğinizin süresi dolduysa, Microsoft tarafından devre dışı bırakıldıysa veya abonelik döneminiz sona ermeden siz iptal ettiyseniz yönetim merkezi üzerinden aboneliğinizi yeniden etkinleştirebilirsiniz.
+Aboneliğinizin süresi dolduysa, Microsoft tarafından devre dışı bırakıldıysa veya abonelik döneminiz sona ermeden siz iptal ettiyseniz yönetim merkezinde aboneliğinizi yeniden etkinleştirebilirsiniz.
 
 **Aboneliği yeniden etkinleştirme**
 
 1. Yönetim merkezinde **Faturalama > [Ürünler ve Hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
 
-2. Ürünler ve hizmetler sayfasında, yeniden etkinleştirmek istediğiniz aboneliği bulun.
+2. Ürünler ve hizmetler sayfasında yeniden etkinleştirmek istediğiniz aboneliği bulun.
 
-3. Faturalama bölümünde **Şimdi yeniden etkinleştir**’e tıklayın.  Kartlar görünümündeyseniz, Ad ile Kullanılabilir miktar arasındaki üç noktaya tıklayın ve menüden Yeniden Etkinleştir’i seçin. **Not**: Aradığınız aboneliği görmüyorsanız sayfanın üst kısmındaki Abonelik durumu filtresini **Tümü** olarak değiştirmeniz gerekebilir.
+3. Faturalama bölümünde **Şimdi yeniden etkinleştir**’e tıklayın.  Kartlar görünümündeyseniz, Ad ile Kullanılabilir miktar arasındaki üç noktaya tıklayın ve menüden Yeniden etkinleştir’i seçin. **Not**: Aradığınız aboneliği görmüyorsanız sayfanın üst kısmındaki Abonelik durumu filtresini **Tümü** olarak değiştirmeniz gerekebilir.
 
-4. Mevut ödeme bilgilerinizi güncelleştirmek için ödeme ayrıntılarınızı onaylayın. Ödeme yönteminizi girmeyi tamamladığınızda **Yeniden Etkinleştir**’e tıklayın.
+4. Mevut ödeme bilgilerinizi güncelleştirmek için ödeme ayrıntılarınızı onaylayın. Ödeme yönteminizi girmeyi tamamladığınızda **Yeniden etkinleştir**’e tıklayın.
 
 Daha fazla bilgi için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
