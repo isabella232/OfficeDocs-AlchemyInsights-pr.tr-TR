@@ -1,5 +1,5 @@
 ---
-title: Office 365 deneme iş için genişletir
+title: İşletmeler için Office 365 için Deneme Sürenizi Genişletin
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665024"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207357"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>İşletmeler için Office 365 deneme süresini uzatma
 
-Deneme sürümü aboneliğinizin süresi doluyorsa, 15 gün içinde ve deneme önce genişletilmiş taşınmadığından, başka bir 30 günlük süre için denemenizin genişletebilirsiniz. Bu işlem yalnızca bir kez yapılabilir.
+Deneme sürenizi 30 günlük bir süre daha uzatabilirsiniz. Bu işlem yalnızca bir kez yapılabilir.
   
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
+1. Yönetici merkezinde, Fatura **Ürünleri** \> [& hizmetlerine](https://portal.office.com/adminportal/home#/subscriptions)gidin.
 
-2. Genişletmek istediğiniz deneme aboneliği seçin.
+2. Uzatmak istediğiniz deneme aboneliğini seçin.
 
-3. **Bölüm & Eylemler** bölümünde **deneme Genişlet** ' i seçin ve kalan adımları tamamlayın.
+3. **Deneme sürümünü genişlet'i** tıklatın ve sihirbazdaki adımları tamamlayın.
 
-4. Deneme genişletmek için kredi kartı bilgilerini sağlamanız gerekir. Biz deneme uzantısı için kredi kartınızı ücretinin değil.
+4. Deneme sürenizi uzatmak için kredi kartı bilgilerinizi sağlamanız gerekir. Deneme süresi nin uzatılması için kredi kartınızdan ücret almayacağız.
 
-Daha fazla bilgi için [Genişlet deneme Office 365 işletmeler için](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial)bkz.
+Deneme sürenizi genişletme veya adım adım talimatlar hakkında daha fazla bilgi edinmek için iş [için Office 365 için deneme sürümünü genişlet'e](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)bakın.
