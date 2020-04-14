@@ -1,5 +1,5 @@
 ---
-title: Office 365 eğitim planları satın almak nasıl
+title: Office 365 Eğitim planları satın alma
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,19 +14,25 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 366299790a5cae04c2b5eabd9d7f48a65210a50e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 0c949a6e611fadc19340711d7fa9aa19dd602c6f
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390928"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286283"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Office 365 eğitim planları satın almak nasıl
+# <a name="how-to-purchase-office-365-education-plans"></a>Office 365 Eğitim planları satın alma
 
-Office 365 eğitim için onaylanmış olan. Satın almak için:
-  
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [Satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfa.
+Office 365 Eğitim planı için onay aldınız.  Satın almak için:
 
-2. **Eğitim planları**altındaki listeden seçin.
+1. **[Faturalandırma > Hizmet Satın Al](https://portal.office.com/AdminPortal/Home#/catalog)**’a gidin.
 
-3. Satın almak istediğiniz abonelik üzerinde gezdirin ve **Şimdi satın al'ı**seçin.
+2. **Eğitim Planları** bölümündeki listeden seçiminizi yapın.
+
+3. Satın almak istediğiniz aboneliğin üzerine gelin ve **Şimdi Satın Al**’a tıklayın.
+
+**Uzaktan öğretim ve öğrenim**
+
+- Okulunuzu, ders planlamasını, sanal toplantıları ve öğrencilerle içerik paylaşımını ayarlama hakkında en güncel yönergeleri öğrenmek için [Office 365 Eğitim’de uzaktan öğretim ve öğrenim](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) makalesine bakın.
+
+- [Uzaktan öğrenim için Microsoft Teams’i kullanmaya başlama](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) ve [Uzaktan öğrenime geçiş yapma](https://www.microsoft.com/education/remote-learning) makalelerinde ek BT yönergeleri sağlanır.

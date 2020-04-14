@@ -13,28 +13,28 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 35fe9ae76ca77faa43796b288af09be8525cb6df
-ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
+ms.openlocfilehash: 4f69de167dc51961fa7cf71b4d73ca7ee3ed4d55
+ms.sourcegitcommit: 57fb994ddd3854d06faa67680c971b003b06bf83
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/12/2020
-ms.locfileid: "43232650"
+ms.lasthandoff: 04/13/2020
+ms.locfileid: "43241272"
 ---
 # <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Giden Kutusu'nda sıkışmış iletileri düzeltme
 
-Etkilenen makinedeki [Microsoft Destek ve Kurtarma Yardımcısı](https://diagnostics.office.com/#/) aracından ["E-posta iletileri göndermekte, almakta veya bulmakta sorun yaşıyorum"](https://aka.ms/SaRA-OutlookSendReceive) senaryosunu çalıştırarak başlamanızı öneririz.
+[Microsoft Destek ve Kurtarma Yardımcısı](https://diagnostics.office.com/#/) aracından ["E-posta iletileri göndermekte, almakta veya bulmakta sorun yaşıyorum"](https://aka.ms/SaRA-OutlookSendReceive) senaryosunu çalıştırarak başlamanızı öneririz.
 
 Giden Kutunuzda bir ileti sıkışıp kaldığında, bunun en olası nedeni büyük bir ek veya "Bağlandığında hemen gönder" seçeneği etkin değildir.
 
 **Büyük eki kaldırma**
 
-1. **İşi Çevrimdışı** **Gönder / Al'ı** > tıklatın. 
-2. Gezinti **bölmesinde, Giden Kutusu'nu**tıklatın. Buradan şunları yapabilirsiniz: 
-    - İletiyi silin. Sadece seçin ve **Sil'e**tıklayın.
-    - İletiyi **taslaklar klasörünüze**sürükleyin, iletiyi açmak için çift tıklatın ve eki silin (tıklatın ve **Sil'i**tıklatın).
-3. Bir hata size Outlook'un iletiyi iletmeye çalıştığını söylüyorsa, Outlook'u kapatın. Çıkmak birkaç dakika sürebilir. Outlook kapanmazsa **Ctrl+Alt+Sil** tuşuna basın ve **Görev Yöneticisini Başlat'ı**tıklatın. Görev Yöneticisi'nde, **İşlemler** sekmesini seçin, outlook.exe'ye gidin ve **Son İşlem'i**tıklatın.
-4. Outlook kapandıktan sonra Outlook'u yeniden başlatın ve 2-3 adımlarını yineleyin. 
-5. Eki kaldırdıktan sonra, düğmeyi seçmek ve çevrimiçi çalışmaya devam etmek için **Çevrimdışı Gönder /Al'ı** > **Work Offline** tıklatın. 
+1. Outlook'ta,**İşi Çevrimdışı** **Gönder / Al'ı** > seçin. 
+2. Gezinti bölmesinde Giden **Kutusu'nu**seçin. Buradan şunları yapabilirsiniz: 
+    - İletiyi silin (seçin ve sonra **Sil'i**seçin).
+    - İletiyi Taslaklar klasörünüze sürükleyin, açmak için çift tıklatın ve eki kaldırın seçin ve sonra **Sil'i**seçin).
+3. Outlook'un iletiyi iletmeye çalıştığını belirten bir hata alırsanız, Outlook'u kapatın. Çıkmak birkaç dakika sürebilir. Outlook kapanmazsa Ctrl+Alt+Sil tuşuna basın ve **Görev Yöneticisini Başlat'ı**seçin. Görev Yöneticisi'nde, **İşlemler** sekmesini seçin, outlook.exe'ye gidin ve **Son İşlem'i**seçin.
+4. Outlook kapandıktan sonra yeniden başlatın ve 2 ve 3 adımlarını yineleyin. 
+5. Eki kaldırdıktan sonra, çevrimiçi çalışmaya devam etmek için**İşI Çevrimdışı** **Gönder /Al'ı** > tıklatın. 
 
 İletiler, **Gönder'i**tıklattığınızda giden kutuya da takılıp kalır, ancak bağlı değildir. **Gönder / Al'ı** tıklatın ve **Çevrimdışı İş** düğmesine bakın. Eğer maviyse, bağlantın kesilir. Bağlanmak için tıklatın (düğme beyaza döner) ve **Tümünü Gönder'e**tıklayın.
  
