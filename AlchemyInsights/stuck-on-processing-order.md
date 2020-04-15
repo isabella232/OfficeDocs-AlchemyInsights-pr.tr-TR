@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002358"
 - "4584"
-ms.openlocfilehash: 676deacd28a1c544e605120a5dccd331531c5684
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
+ms.openlocfilehash: 60abad9281ab440cd19b7cd7c9caa51151170bfa
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158762"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286370"
 ---
 # <a name="stuck-on-processing-order"></a>Sipariş işlemede takıldı
 
-Microsoft 365 aboneliğinizi yükseltmeyi seçtiyseniz ancak sipariş "Siparişiniz işleniyor" aşamasında takıldıysa lütfen [Hizmet Durumu Panosu](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/servicehealth), **SP207374** numaralı gönderiye başvurun. Kiracınızı yükseltme işleminde sağlama gereklidir ve bu da gecikebilir. İşlemin 24 saat içinde tamamlanmasını bekleriz; ancak bu istaklerin 48 saate kadar uzadığı ender örneklere de rastladık. Sipariş işleme 48 saatten uzun sürüyorsa lütfen bir hizmet isteği açın.
+Microsoft 365 aboneliğinizi yükseltmeyi seçtiyseniz ancak sipariş bir süre "Siparişiniz işleniyor" aşamasında takılırsa lütfen sabırlı olun. Kiracınızı yükseltme işleminde sağlama gereklidir ve bu da gecikebilir. Bu süre boyunca Yönetim Merkezi’ne erişemezsiniz ama Microsoft 365’in diğer tüm alanları erişilebilir. İşlemin **24 saat içinde tamamlanmasını** bekleriz; öte yandan bu istaklerin **48 saate kadar uzadığı** ender örneklere de rastladık. Sipariş işleme **48 saatten uzun** sürüyorsa lütfen bir hizmet isteği açın.
