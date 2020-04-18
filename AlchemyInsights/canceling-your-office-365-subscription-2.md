@@ -1,5 +1,5 @@
 ---
-title: Office 365 aboneliğinizi iptal ediliyor?
+title: Office 365 aboneliğinizi iptal mi edin?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,23 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665492"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552617"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Office 365 aboneliğinizi iptal ediliyor?
+# <a name="canceling-your-office-365-subscription"></a>Office 365 aboneliğinizi iptal mi edin?
 
-Siz gidin görmek özür dileriz!
+Gitmene üzüldük!
   
-Kuruluş verilerinizi alarak, 25'ten fazla atanan lisansları geçerli tüm abonelikleri sahip inanıyoruz. 25'den az olması, sonra **Faturalama** için gitmek kadar kullanıcıların çıkarabileceğini \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası. **Ayarları & Eylemler** bölümünde, **aboneliği iptal**' i seçin.
+Kuruluş verilerinize dayanarak, tüm mevcut aboneliklerinizin 25'ten fazla atanmış lisansı olduğuna inanıyoruz. 25'ten az olana kadar kullanıcıları kaldırabilir ve ardından **Faturalama** \> [Ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidebilirsiniz. Ayarlar **& Eylemler** bölümünde **aboneliği Iptal et'i**seçin.
   
-Alternatif olarak, bir destek mühendisine konuşmak için **yardıma gerek** seçin.
+Alternatif olarak, bir destek mühendisiyle konuşmak için **yardıma ihtiyacım** ı seçin.
   
-Daha fazla bilgi için bkz: [aboneliğinizi iptal](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Geri Ödeme: Herhangi bir eşit kredi bir sonraki faturalandırma döngüsü içinde size iade edilecektir.** 
+
+**Not**: İptal etme seçeneğini görmüyorsanız, ayrıntıları görüntülemek için aboneliği tıklatın ve Ayarlar **& Eylemleri'nde** **abonelik seçeneğini** görmeniz gerekir. 
+
+Daha fazla bilgi için [bkz.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

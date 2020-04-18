@@ -1,5 +1,5 @@
 ---
-title: Office 365 aboneliğinizi iptal ediliyor?
+title: Office 365 aboneliğinizi iptal mi edin?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,21 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 83a0cdcfbdad6a3cb6b6b647613534845c55e75b
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665564"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552689"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Office 365 aboneliğinizi iptal ediliyor?
+# <a name="canceling-your-office-365-subscription"></a>Office 365 aboneliğinizi iptal mi edin?
 
-Siz gidin görmek özür dileriz!
+Gitmene üzüldük!
   
-Kuruluş verilerinizi alarak, 25'ten az boş koltuk geçerli tüm abonelikleri sahip inanıyoruz. **Faturalama** için çevrimiçi aboneliğinizi iptal etmek için Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası. **Ayarları & Eylemler** bölümünde, **aboneliği iptal**' i seçin.
+Kuruluş verilerinize dayanarak, tüm mevcut aboneliklerinizin 25'ten az sandalyeye sahip olduğunu düşünüyoruz. Aboneliğinizi çevrimiçi olarak iptal etmek için **Faturalama** \> [Ürünleri & hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin. Ayarlar **& Eylemler** bölümünde **aboneliği Iptal et'i**seçin.
   
-Daha fazla bilgi için bkz: [aboneliğinizi iptal](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Geri Ödeme: Herhangi bir eşit kredi bir sonraki faturalandırma döngüsü içinde size iade edilecektir.** 
+
+**Not**: İptal etme seçeneğini görmüyorsanız, ayrıntıları görüntülemek için aboneliği tıklatın ve Ayarlar **& Eylemleri'nde** **abonelik seçeneğini** görmeniz gerekir. 
+
+Daha fazla bilgi için [bkz.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription) 

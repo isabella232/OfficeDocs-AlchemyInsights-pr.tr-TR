@@ -13,16 +13,14 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 6432d32a4424c13f38077b37aa5f689a573a876e
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: c634596b42e672f635bb50d080429c94fe2da258
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541901"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552905"
 ---
 # <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Hata Giderme SharePoint Geçiş Aracı sorunları ve hataları
-
-**Önemli**: Bu benzeri görünmemiş zamanlarda, SharePoint Online ve OneDrive hizmetlerinin kullanılabilirlik düzeyinin her zaman yüksek olmasını sağlamaya yönelik adımlar atıyoruz. Daha fazla bilgi için lütfen [SharePoint Online Geçici Özellik Değişiklikleri](https://aka.ms/ODSPAdjustments) sayfasını ziyaret edin.
 
 SharePoint Geçiş Aracı'nı (SPMT) kullanırken bazı sık karşılaşılan sorunlar ve hatalarla karşılaşabilirsiniz. Daha fazla bilgi için lütfen aşağıdaki bağlantılara başvurun.
 
