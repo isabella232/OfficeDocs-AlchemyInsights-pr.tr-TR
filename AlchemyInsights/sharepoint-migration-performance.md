@@ -1,5 +1,5 @@
 ---
-title: SharePoint geçiş performansı
+title: SharePoint geçiş performansı kılavuzu
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+- "3179"
+ms.openlocfilehash: 500406e0f19610fe884df1faf3537aa7cb947e47
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958774"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552824"
 ---
-# <a name="sharepoint-migration-performance"></a>SharePoint geçiş performansı
-
-**Önemli**: Bu benzeri görünmemiş zamanlarda, SharePoint Online ve OneDrive hizmetlerinin kullanılabilirlik düzeyinin her zaman yüksek olmasını sağlamaya yönelik adımlar atıyoruz. Daha fazla bilgi için lütfen [SharePoint Online Geçici Özellik Değişiklikleri](https://aka.ms/ODSPAdjustments) sayfasını ziyaret edin.
-
-**Geçiş performansı**
+# <a name="sharepoint-migration-performance-guidance"></a>SharePoint geçiş performansı kılavuzu
 
 Ağ altyapısı, dosya boyutu, geçiş saati ve azaltma geçiş performansını etkileyebilir. Bunları anlamak, geçişinizi planlamanıza ve en üst düzeyde verimlilik elde etmenize yardımcı olur.
 
-Daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
+Daha fazla bilgi için şu sayfayı ziyaret edin:
 
-- [SharePoint Online ve ODB Geçiş Hızı](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Genel geçiş performansı kılavuzu](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [SharePoint Online’da kısıtlanmayı veya engellenmeyi önleme](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
