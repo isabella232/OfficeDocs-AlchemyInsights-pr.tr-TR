@@ -17,7 +17,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591598"
+ms.locfileid: "43599408"
 ---
 # <a name="restrict-default-video-upload-permissions"></a><span data-ttu-id="d4f0a-102">Varsayılan video yükleme izinlerini kısıtlama</span><span class="sxs-lookup"><span data-stu-id="d4f0a-102">Restrict default video upload permissions</span></span>
 
