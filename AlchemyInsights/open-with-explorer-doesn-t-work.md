@@ -1,9 +1,9 @@
 ---
-title: Explorer ile Aç'ı çalışmıyor
+title: Explorer ile açık çalışmıyor
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/10/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: 7680766b53bd5e85789375d3f9e9ab635780ec6c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc939a3451ff4fe95e4aa5a999839a2c532b398c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538509"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713054"
 ---
-# <a name="open-with-explorer-isnt-working"></a>Explorer ile Aç'ı çalışmıyor
+# <a name="open-with-explorer-isnt-working"></a>Explorer ile Açık çalışmıyor
 
-**Explorer ile Aç** ' ı veya **Dosya Gezgini görünümünde** işe yaramazsa WebClient hizmetini **çalıştıran** aşağıdaki adımları izleyerek ayarlandığından emin olun. Örneğin, bu hizmeti çalışmadığı zamanlarda bir OneDrive ya da SharePoint kitaplığı açmak için uzun zaman alabilir. 
+**Explorer'da Aç** veya **Dosya Gezgini'nde Görünüm** çalışmıyorsa, WebClient hizmetinin aşağıdaki adımları izleyerek **Çalıştırma** olarak ayarlandığından emin olun. Örneğin, hizmet çalışmadığında SharePoint veya OneDrive kitaplığını açmak uzun sürebilir. 
   
-1. Windows Arama kutusuna türü çalıştırmak, çalışma Masaüstü uygulama, services.msc yazın ve sonra **Enter**' ı seçin.
+1. Windows arama kutusunda çalıştır yazın, Çalıştır masaüstü uygulamasını seçin, services.msc yazın ve sonra **Enter'u**seçin.
     
-2. WebClient hizmetini aşağı doğru kaydırma yapın ve **Durum** sütununu denetleyin. WebClient hizmeti durum **çalışan**değilse, hizmeti çift tıklatın, **Başlat**' ı tıklatın ve sonra **Tamam**' ı tıklatın. Gerekirse, **el ile** veya **Otomatik** **Başlangıç türü** kutusunda seçerek hizmeti etkinleştirin. 
+2. WebClient hizmetine gidin ve **Durum** sütununa bakın. WebClient hizmet durumu **Çalışmıyorsa,** hizmeti çift tıklatın, **Başlat'ı**tıklatın ve ardından **Tamam'ı**tıklatın. **Başlangıç türü** kutusunda **Manuel** veya **Otomatik'i** seçerek gerekirse hizmeti etkinleştirin. 
     
 > [!NOTE]
-> Dosya Gezgini'nde açma sorunlarını gidermek için [Explorer'da açık](https://go.microsoft.com/fwlink/?linkid=871665)bakın. Daha iyi bir alternatif olarak eşitleme keşfedin: [Yeni OneDrive eşitleme istemcisi ile eşitleme SharePoint dosyaları](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Dosya Gezgini'nde açılan sorunları gidermek için [Explorer'da Aç'a](https://go.microsoft.com/fwlink/?linkid=871665)bakın. Daha iyi bir alternatif olarak eşitlemeyi keşfedin: [SharePoint dosyalarını yeni OneDrive eşitleme istemcisiyle eşitleyin.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 

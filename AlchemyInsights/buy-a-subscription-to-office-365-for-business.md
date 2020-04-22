@@ -1,5 +1,5 @@
 ---
-title: İşletmeler için Office 365 aboneliği satın alın
+title: Ücretsiz deneme sürümünden işletme için Microsoft 365 aboneliği satın alın
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218315"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712227"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>İşletmeler için Office 365 aboneliği satın alın
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Ücretsiz deneme sürümünden Microsoft 365 aboneliği satın alın
 
-Office 365'i denediniz ve artık satın almak için hazırsınız. Deneme sürümünüzden Office 365 satın alırken iki seçeneğiniz var:
+Microsoft 365'i denediniz ve şimdi satın almaya hazırsınız. Deneme sürümünüzden Microsoft 365 satın alırken iki seçeneğiniz var:
   
  **Deneme planınızla aynı planı satın alın**
   
@@ -35,7 +35,7 @@ Office 365'i denediniz ve artık satın almak için hazırsınız. Deneme sürü
 
 3. Satın almak istediğiniz aboneliği bulun, **Satın Al'ı**seçin ve kullanıma alma adımlarını izleyin.
 
-Daha fazla bilgi için ücretsiz [deneme sürümünden iş için Office 365 aboneliği satın](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)alın' a bakın.
+Daha fazla bilgi için, [ücretsiz deneme sürümünden işletme için Microsoft 365 aboneliği satın](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)alın' a bakın.
 
 **Sorun giderme**
 

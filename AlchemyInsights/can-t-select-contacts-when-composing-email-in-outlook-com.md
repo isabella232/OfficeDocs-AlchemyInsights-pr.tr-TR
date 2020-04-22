@@ -1,9 +1,9 @@
 ---
-title: Kişiler, e-postayla Outlook.com oluştururken seçemezsiniz.
+title: Outlook.com e-posta oluştururken kişileri seçemezsiniz
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,13 +14,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: b74cabb36a6214c81ba90004225e1c08eeb1b262
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d674538e9d84f47ab7ee51975e752ac24f6e1ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518635"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711687"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a>Kişiler, e-posta oluştururken seçemezsiniz.
+# <a name="cant-select-contacts-when-composing-email"></a>E-posta oluştururken kişileri seçemiyorum
 
-Bunlar **Kime** veya **bilgi** düğmelerini tıklattığınızda yeni bir e-posta oluştururken, bazı müşteriler kendi kişi listesi görmüyorum. Bir kişiyi seçmek için **Kime** veya **bilgi** alanları yazmaya başlayın ve ilgili kişiler görüntülenir.
+Yeni bir e-posta oluştururken, bazı müşteriler **To** veya **Cc** düğmelerini tıklattıklarında kişi listelerini görmezler. Bir kişi seçmek için, **To** veya **Cc** alanlarına yazmaya başlayın ve ilgili kişileriniz görüntülenir.

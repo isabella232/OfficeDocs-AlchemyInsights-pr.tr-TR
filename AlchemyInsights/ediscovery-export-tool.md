@@ -14,16 +14,16 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769323"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714790"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>eDiscovery Dışa Aktarma Aracı'nı yükleyemez veya çalıştıramıyor musunuz?
 
-Arama sonuçlarını indirmek için Office 365 eDiscovery Dışa Aktarma Aracı'nı yükleyemez veya çalıştıramıyorsanız, aşağıdaki leri denetleyin:
+Arama sonuçlarını indirmek için eDiscovery Dışa Aktarma Aracı'nı yükleyemez veya çalıştıramıyorsanız, aşağıdaki leri denetleyin:
   
 - Kullandığınız bilgisayar şu ön koşulları karşılar:
 
@@ -43,7 +43,7 @@ Arama sonuçlarını indirmek için Office 365 eDiscovery Dışa Aktarma Aracı'
 
 - Kuruluşunuz Azure'daki ** \*** bitiş noktasına (blob.core.windows.net olan (joker karakter, dışa aktarma işiniz için benzersiz bir tanımlayıcıyı temsil eder) bağlanabilir.
 
-- Office 365 Güvenlik &amp; Uyumluluk Merkezi'nde Dışa Aktarma rolü atanırsınız. Varsayılan olarak, bu rol yalnızca eDiscovery Manager rol grubuna atanır. Bkz. [EDiscovery izinlerini atay.](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- Microsoft 365 Güvenlik &amp; Uyumluluk Merkezi'nde Dışa Aktarma rolü atanırsınız. Varsayılan olarak, bu rol yalnızca eDiscovery Manager rol grubuna atanır. Bkz. [EDiscovery izinlerini atay.](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
 Daha fazla bilgi için [İçerik Aramayı Dışa Aktar](https://docs.microsoft.com/office365/securitycompliance/export-search-results)ın sonuçlarına bakın.
   

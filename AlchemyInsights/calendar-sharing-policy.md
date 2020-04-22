@@ -1,9 +1,9 @@
 ---
-title: 618 Takvim paylaşım İlkesi
+title: 618 Takvim Paylaşım Politikası
 ms.author: chrisda
 author: chrisda
 manager: scotv
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,13 +14,13 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: d09c975ed514d117de376944038ab69a9aa9f584
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 68a0a0de5e90a60bf95cce73cfa0b2881169ee52
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518311"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711975"
 ---
-# <a name="policy-error-when-sharing-a-calendar"></a>Bir takvim paylaştırırken İlkesi hatası
+# <a name="policy-error-when-sharing-a-calendar"></a>Takvim paylaşırken ilke hatası
 
-Takviminizi paylaşmak çalıştığınız ve hata alıyorsanız "ilkesi bir veya daha fazla alıcıya bu düzeyde izin verilmesine izin vermez", [Bu konuya](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor)bakın.
+Takviminizi paylaşmaya çalışıyorsanız ve hata alıyorsanız, "İlke, alıcının(lar)'ın bir veya daha fazlasına bu düzeyde izin verilmesine izin vermez" [bölümüne](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor)bakın.

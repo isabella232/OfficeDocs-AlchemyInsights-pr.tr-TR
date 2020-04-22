@@ -1,5 +1,5 @@
 ---
-title: Office 365 için e-posta taşıma
+title: E-postayı Microsoft 365'e taşıma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: bd0453307e39f4eeddf666e9a1b7f56adec89bec
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b8117d10f4e2062a3313488d626be9cb92654bd6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666896"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713630"
 ---
-# <a name="move-email-to-office-365"></a>Office 365 için e-posta taşıma
+# <a name="move-email-to-microsoft-365"></a>E-postayı Microsoft 365'e taşıma
 
-Geçirmek için birkaç seçeneğiniz vardır Office 365 e-posta. [Office 365 posta Yükseltme Danışmanı](https://aka.ms/alchemyinsight-mailmigrationadvisor) ' nı ortamınız için en iyisi seçmenize yardımcı olur ve ayrıca, posta geçişi size yol gösterir.
+E-postaları Microsoft 365'e geçirmek için çeşitli seçenekleriniz var. [Microsoft 365 posta geçiş danışmanı,](https://aka.ms/alchemyinsight-mailmigrationadvisor) ortamınız için en iyi olanı seçmenize yardımcı olur ve posta geçişinde size yol da sağlar.
   
-Geçiş işlemini başlatmadan seçeneklerinizle ilgili bilgi için lütfen [bir geçiş yolu üzerinde karar](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path)bakın.
+Geçişe başlamadan seçenekleriniz hakkında bilgi almak için lütfen [bir geçiş yoluna karar](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path)verin' e bakın.
 
-Ayrıca [benimsemesinde Office 365 FastTrack ile](https://www.microsoft.com/fasttrack/microsoft-365/office-365) sayfa geçiş, Yardımlı Yardım için uygun olmadığını gözden geçirin.
+Uygunsa, geçişle ilgili yardım için lütfen FastTrack sayfasını [benimseyin Microsoft 365'i](https://www.microsoft.com/fasttrack/microsoft-365/office-365) de kontrol edin.
   

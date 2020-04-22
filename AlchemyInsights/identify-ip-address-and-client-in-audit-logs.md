@@ -1,9 +1,9 @@
 ---
-title: IP adresi ve denetim günlüklerini istemcisinde belirle
+title: Denetim günlüklerinde IP adresini ve istemciyi belirleme
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539049"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716408"
 ---
-# <a name="identify-ip-address-and-client-in-audit-logs"></a>IP adresi ve denetim günlüklerini istemcisinde belirle
+# <a name="identify-ip-address-and-client-in-audit-logs"></a>Denetim günlüklerinde IP adresini ve istemciyi belirleme
 
-Bir aktiviteyi bir Office 365 kullanıcı veya yönetici tarafından karşılık gelen IP adresini denetim günlüklerinde gösterilir. İstemci bilgileri de kaydedilir. Bu tür bilgileri tanımlamak üzere adımlar şunlardır
+Bir Microsoft 365 kullanıcısı veya yöneticisinin bir etkinliğine karşılık gelen IP adresi Denetim Günlükleri'nde gösterilir. İstemci bilgileri de günlüğe kaydedilir. Bu tür bilgileri tanımlamaya ilişkin adımlar şunlardır:
 
-1. [Office 365 güvenlik & Uyumluluk Merkezi](https://protection.office.com/)oturum açın.
+1. [Microsoft 365 Güvenlik & Uyumluluk Merkezi'nde](https://protection.office.com/)oturum açın.
 
-2. **Arama**gidin > **Denetim günlüğü arama** sayfası.
+2. **Arama** > **Denetimi günlüğü arama** sayfasına gidin.
 
-   Belirli bir etkinlik ilgileniyorsanız, **etkinlikler** listesinden seçin. Aksi halde, tüm etkinlikleri seçilen kullanıcı için (varsayılan ayar) döndürülür.
+   Belirli bir etkinlikle ilgileniyorsanız, **Etkinlikler** listesinden seçin. Değilse, tüm etkinlikler seçili kullanıcı (varsayılan ayar) için döndürülür.
 
-   **Not**: Bazı aktiviteler **Aktiviteler** menüde; kullanılamayabilir Ancak, bu öğeleri denetleme **Sonuçları göster tüm etkinlikler için** seçili olarak (varsayılan ayar) ise döndürülür.
+   **Not**: **Etkinlikler** menüsünde belirli etkinlikler bulunamayabilir; ancak, **tüm etkinliklerin Sonuçlarını Gösterir** seçilirse (varsayılan ayar) bu denetim öğeleri döndürülür.
 
-3. Kullanıcıadı **Kullanıcılar** alanında belirtin, etkinlik için uygun tarih aralığını seçin ve sonra **Ara**' yı tıklatın.
+3. **Kullanıcılar** alanında kullanıcı adını belirtin, etkinlik için uygun tarih aralığını seçin ve ardından **Ara'yı**tıklatın.
 
-Sonuçları, sonuçlar bölmesinde bu etkinlik için IP adresini görebilirsiniz. **Ayrıntılar** çıkma (örneğin, istemci, gerçekleştirilen eylem vb. kullanıcı) ayrıntılı bilgileri görmek için denetim kaydı seçin.
+Sonuçlarda, bu etkinliğin IP adresini sonuç bölmesinde görebilirsiniz. **Ayrıntılar** uçuşundaki ayrıntılı bilgileri görmek için denetim kaydını seçin (örneğin, Müşteri, eylem gerçekleştiren Kullanıcı vb.).
 
-Daha fazla bilgi için bkz: [tehlikeye atılan hesabın erişmek için kullanılan bilgisayarın IP adresini bulma](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Daha fazla bilgi için bkz: [Gizliliği ihlal edilen bir hesaba erişmek için kullanılan bilgisayarın IP adresini bulma.](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account)

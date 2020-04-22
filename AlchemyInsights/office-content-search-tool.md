@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053497"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713306"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>İlgili bilgileri bulmak için İçerik Arama aracı
 
@@ -26,6 +26,6 @@ Güvenlik & Uyumluluk [Merkezi'nden](https://sip.protection.office.com/homepage)
 
 [Gereksinimleri ve sınırları](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search)gözden geçirerek, kısmen [dizine eklenmiş öğeleri](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ve dikkat edilmesi gereken diğer sonuçları inceleyerek İçerik Arama sı hakkında daha fazla bilgi edin.
 
-İçerik Arama'nın yapılandırma ayarlarını ve kısıtlamalarını inceledikten sonra, [Office 365 kuruluşunuzdaki e-posta, belge ve anlık ileti konuşmaları gibi yerinde öğeleri aramak için İçerik Aramasını</a> Kullanma](https://docs.microsoft.com/office365/securitycompliance/content-search)bölümüne bakın.
+İçerik Arama'nın yapılandırma ayarlarını ve kısıtlamalarını inceledikten sonra, [kuruluşunuzdaki e-posta, belge ve anlık ileti konuşmaları gibi yerinde öğeleri aramak için İçerik</a> Aramasını Kullanma bölümüne](https://docs.microsoft.com/office365/securitycompliance/content-search)bakın.
 
 İçerik Arama'nın adım adım tamamı için daha fazla bilgi [için Office 365'te içerik ara](https://docs.microsoft.com/office365/securitycompliance/search-for-content) bölümüne bakın.

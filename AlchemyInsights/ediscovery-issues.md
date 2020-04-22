@@ -1,9 +1,9 @@
 ---
-title: 1829 eBulma sorunları
+title: 1829-ediscovery-sorunları
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 96a473093c3de1a75f29f633890e08043f2b29b6
-ms.sourcegitcommit: a340858cfbe1c34b147cffd1b0d4573160200f1d
+ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33544589"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714498"
 ---
-# <a name="ediscovery-issues"></a>eBulma sorunları
+# <a name="ediscovery-issues"></a>eDiscovery sorunları
 
-EBulma seçenekleri için mi arıyorsunuz? Güvenlik & Uyumluluk Merkezi yeniden tasarlanmış Gezinti ile eBulma seçeneklerinizi zaten taşınmış olabilir.  EBulma Seçenekler Uyumluluk Merkezi ne yapmaya tabanlı güvenlik & aşağıdaki konumlarda bulabilirsiniz:
+eDiscovery seçeneklerini mi arıyorsunuz? Güvenlik & Uyumluluk Merkezi'nde yeniden tasarlanan gezintiyle, eDiscovery seçenekleriniz çoktan taşınmış olabilir.  eDiscovery seçeneklerini, yapmaya çalıştığınız şeye bağlı olarak Güvenlik & Uyumluluk Merkezi'nde aşağıdaki konumlarda bulabilirsiniz:
 
-- **Arama > içerik arama** gidin iş görüşmeleri ve sonra verme veri - e-posta, belgeler, Skype, kuruluşunuz için içerik arama kullanın içerik arama
+- E-posta, belge, Skype for Business konuşmalarındaki içeriği bulmak ve ardından verileri dışa aktarmak için İçeriği Arama'yı kullanın - **Arama > İçerik araması**
 
-- Beklemede - içerik ve yer içerik konumları aramak için bir eBulma çalışması oluşturmak için **eBulma > eBulma** Git
+- İçerik aramak ve içerik konumlarını beklemeye almak için bir eDiscovery servis talebi oluşturun - **eDiscovery > eDiscovery'ye** gidin
 
-- Yeni gelişmiş uçtan uca eBulma çözüm tanımlamak ve custodians ile iletişim kurmak, ilgili servis talebi, toplama veri Emanetçisi verilerinizi korumak ve bir gözden geçirme kümesine eklemek için kullanın ve gereksiz verileri cull için analytics uygulayarak veri hacmini azaltmak ve ne üzerinde odaklanmak - çalışması için en uygun **eBulma > Gelişmiş eBulma** için Git
+- Vasileri tanımlamak ve onlarla iletişim kurmak, servis talebiyle ilgili vasi verilerini korumak, veri toplamak ve bir inceleme kümesine eklemek için yeni uçtan uca Gelişmiş eDiscovery çözümünün kullanımı ve gereksiz verileri toplayıp servis talebiyle en alakalı şeylere odaklanmak için veri hacmini azaltın - **eDiscovery > Advanced eDiscovery**
 
-Daha fazla bilgi için bkz.
+Daha fazla bilgi için bkz.:
 
-- [Office 365 içerik arama](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [İçerik Arama](https://docs.microsoft.com/office365/securitycompliance/content-search)
 
-- [eBulma durumlarda Uyumluluk Merkezi güvenlik &](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+- [Güvenlik & Uyumluluk Merkezi'ndeki eDiscovery durumları](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-- [Gelişmiş eBulma çözümde Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)
+- [Microsoft 365'te gelişmiş eDiscovery çözümü](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)

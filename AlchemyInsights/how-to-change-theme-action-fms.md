@@ -1,9 +1,9 @@
 ---
-title: 8000059 tema eylem (FMS) değiştirmek nasıl
+title: 8000059 Tema eylemi (FMS) nasıl değiştirilir?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/13/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "992"
 - "8000059"
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
-ms.openlocfilehash: cc1ada02113dce097d203bd8144e075ec5d9f80f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fe581021d53afdf61bd5a5cdfae471ede596f4c6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541641"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711255"
 ---
-# <a name="how-to-change-your-theme"></a>Tema değiştirme
+# <a name="how-to-change-your-theme"></a>Temanızı değiştirme
 
-Outlook.com veya Outlook Web tema değiştirmek için **ayarları** ' na gidin ve **Tema**altında bir tema seçin. Kullanılabilir temaları görmek için **görünümü tüm** **Tema**altında seçin.
+Web'deki Outlook.com veya Outlook'taki temanızı değiştirmek için **Ayarlar'a** gidin ve **Tema**altında bir tema seçin. Kullanılabilir tüm temaları görmek için **Tema**altında **Tümünü Görüntüle'yi** seçin.
   

@@ -1,9 +1,9 @@
 ---
-title: Office 365 aboneliğinizi iptal ediliyor?
+title: Microsoft 365 aboneliğinizi iptal mi edin?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 58c4de02cf6833b05cc0579e1e9df11226acb298
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2525550ada33d33dddc391cb87080ba9af4a37b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520327"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711507"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Office 365 aboneliğinizi iptal ediliyor?
+# <a name="canceling-your-microsoft-365-subscription"></a>Microsoft 365 aboneliğinizi iptal mi edin?
 
-Siz gidin görmek özür dileriz, ancak aboneliğinizi iptal etmek için seçenekleriniz şunlardır:
+Gittiğiniz için üzgünüz, ancak aboneliğinizi iptal etmek için seçenekleriniz şunlardır:
   
-- **Kuruluş verilerinizde bağlı olarak, geçerli tüm abonelikleri deneme aboneliği olan inanıyoruz. Deneme abonelik hiç ödeme gerektirdiğinden açıkça bir deneme aboneliğini iptal etmek için gerek yoktur ve deneme bittikten sonra zorunluluğumuz yoktur.**
+- **Kuruluş verilerinize dayanarak, tüm mevcut aboneliklerinizin Deneme abonelikleri olduğuna inanıyoruz. Deneme abonelikleri ödeme gerektirmediği ve deneme süresi sona erdikten sonra zorunluluk bulunmadığından, Deneme aboneliğini açıkça iptal etmeye gerek yoktur.**
 
-- Bu makale için adım adım yönergeler veya aboneliği iptal etme hakkında daha fazla bilgi için bkz: [aboneliğinizi iptal](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- Aboneliği iptal etme veya adım adım talimatlar hakkında daha fazla bilgi edinmek için şu makaleye bakın: [Aboneliğinizi iptal edin](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

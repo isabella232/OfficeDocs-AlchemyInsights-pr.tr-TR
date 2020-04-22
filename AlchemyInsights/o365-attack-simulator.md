@@ -1,9 +1,9 @@
 ---
-title: Office 365 yılında 2681 Saldırı Simülatörü
+title: Microsoft 365 2681 Saldırı Simülatörü
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 07d7622c00074f7bd0d567185824db448f1eeef3
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305351"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713486"
 ---
-# <a name="attack-simulator-in-office-365"></a>Office 365'te Saldırı Simülatörü
+# <a name="attack-simulator-in-microsoft-365"></a>Microsoft 365'te Saldırı Simülatörü
 
-- Saldırı Simülatörü'nü kaçırıyor musunuz? Saldırı Simülatörü **Office 365 Gelişmiş Tehdit Koruma Planı 2 (ATP Planı 2)** veya **Office 365 Enterprise E5**gerektirir. Saldırı Simülasyon Aracı, Office 365 Gelişmiş Tehdit Koruma Planı 1 (ATP Plan 1), Office 365 Enterprise E3 veya herhangi bir Office 365 İş aboneliğine dahil **değildir.**
+- Saldırı Simülatörü'nü kaçırıyor musunuz? Saldırı Simülatörü **Office 365 Gelişmiş Tehdit Koruma Planı 2 (ATP Planı 2)** veya **Office 365 Enterprise E5**gerektirir. Saldırı Simülasyon Aracı, Office 365 Gelişmiş Tehdit Koruma Planı 1 (ATP Plan 1), Office 365 Enterprise E3 veya iş abonelikleri için herhangi bir Microsoft 365 Sürümüne dahil **değildir.**
 
 - Benzetimli saldırılar başlatmak için kullandığınız hesap, genel yönetici veya güvenlik yöneticisi izinleri ve çok faktörlü kimlik doğrulama (MFA) gerektirir. Saldırı Simülatörü gereksinimleri hakkında daha fazla bilgi için [bu konuya](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin)bakın.
 
@@ -38,4 +38,4 @@ ms.locfileid: "37305351"
 
 - Raporlar: Benzetimli saldırı tamamlandıktan sonra, raporu görmek için **Saldırı Ayrıntıları'nı** tıklatabilirsiniz.
 
-- Saldırı Simülatörü'ndeki ayrıntılı talimatlar ve yeni özellikler için [Office 365'teki Saldırı Simülatörü'ne](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)bakın.
+- Attack Simulator'daki ayrıntılı talimatlar ve yeni özellikler için [Microsoft 365'teki Saldırı Simülatörü'ne](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)bakın.

@@ -1,40 +1,40 @@
 ---
-title: Koşullu erişim izleme
+title: Koşullu Erişimin İzlenmesi
 ms.author: pebaum
 author: pebaum
-ms.date: 8/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 374814f4eabd61433a15876ebf7f351819933c21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538798"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713738"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>Koşullu erişim için Exchange izleme
+# <a name="monitoring-conditional-access-for-exchange"></a>Değişim için Koşullu Erişimin İzlenmesi
 
-Kuruluşunuzun erişim gereksinimlerini karşılamıyorsa koşullu erişim ile hedeflenen kullanıcılara bildirim e-posta alacaksınız. Çözmek için aşağıdakilerden birini veya daha fazlasını aşağıdaki çözümleri öneririz:
+Koşullu erişim le hedeflenen kullanıcılar, kuruluşunuzun erişim gereksinimlerini karşılamadıkları takdirde bir bildirim e-postası alır. Çözmek için, aşağıdaki çözümlerden birini veya birkaçını öneririz:
   
-- Aygıt için kaydı kabul edilir, kullanıcı şirket Portal app için gidin ve şirket portalda göründüğünden emin olun önerin. Seçili değilse, kullanıcı aygıtı kaydetmeniz gerekir.
+- Cihazın kayıtlı olduğu varsayılsa, kullanıcıya Şirket Portalı uygulamasına gitmesini ve Şirket Portalı'nda göründüğünü doğrulamasını tavsiye edin. Değilse, kullanıcı aygıtı kaydetmelidir.
     
-- Azure portalda gitmek için **Intune \> aygıt uyumluluğu**. **Aygıt uyumluluğu**altında **İzleyicisi'ni** tıklatın. Kullanıcının aygıt uyumlu olarak işaretlendiğini doğrulamak için aygıt uyumluluğu raporu görüntüleyin. 
+- Azure portalında **Intune \> Aygıt uyumluluğu'na**gidin. **Monitör** altında **Aygıt uyumluluğu'na**tıklayın. Kullanıcının aygıtının uyumlu olarak işaretlendiğini doğrulamak için cihazınızın uyumluluk raporunu görüntüleyin. 
     
-- Azure portalda gitmek için **Intune \> aygıt uyumluluğu**. **Yönet**altında **ilkeleri**' ni tıklatın. Uyumluluk ilkeler listesinde bir profil, kullanıcının aygıta atanmış olduğunu doğrulayın. Profil atanırsa, Intune aygıtın uyum durumu onaylamak mümkün olmayacak. 
+- Azure portalında **Intune \> Aygıt uyumluluğu'na**gidin. **Yönet**altında, **İlkeler'i**tıklatın. Uyumluluk ilkeleri listesinde, kullanıcınızın cihazına bir profil atandığını doğrulayın. Profil atanmamışsa, Intune aygıtın uyumluluk durumunu onaylayamayacaktır. 
     
-- Kullanıcının koşullu erişim atama düzenleyin.
+- Kullanıcının koşullu erişim atamasını edin.
     
-1. Azure portalda gitmek için **Intune \> koşullu erişim \> ilkeler**
+1. Azure portalında **Intune \> Koşullu \> erişim İlkeleri'ne** gidin
     
-2. Bir ilkeyi listeden seçin.
+2. Listeden bir ilke seçin
     
-3. **Kullanıcılar ve gruplar'ı** tıklatın.
+3. **Kullanıcılar ve gruplar'ı** tıklatın
     
-4. Belirli bir ilke birisi olarak hedeflemek için **ekleme** listesine ekleyin. Bir kişinin ilkesinden atlanır sağlamak için **dışlama** listesine ekleyin. 
+4. Belirli bir ilkeyi birine hedeflemek için, bu politikayı **Ekle** listesine ekleyin. Bir kişinin ilkeden çıkarıldığından emin olmak için, bunları **Dışlayın** listesine ekleyin. 
     
-Daha fazla bilgi: [Monitör koşullu erişim aygıtları nasıl](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Daha fazla bilgi: [Koşullu Erişim aygıtları nasıl izlenir?](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

@@ -1,9 +1,9 @@
 ---
-title: Dış e-posta İletim Denetim günlüklerini de posta kutuları belirle
+title: Denetim günlüklerinde posta kutularında harici e-posta yönlendirmeyi tanımlama
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,31 +12,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539121"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716480"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Dış e-posta iletme posta kutuları üzerinde yapılandırıldığında belirle
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Posta kutularında harici e-posta yönlendirmenin ne zaman yapılandırılma da olduğunu belirleme
 
-Office 365 kullanıcı posta kutusu bulunan dış e-posta iletme yapılandırır, etkinlik **Kümesi-posta kutusu** cmdlet'i bir parçası olarak denetlenir. Güvenlik & Uyumluluk Merkezi Denetim günlüğü aramayı kullanarak etkinliğini görebilirsiniz.
+Bir Microsoft 365 kullanıcısı bir posta kutusunda harici e-posta yönlendirmeyi yapılandırırsa, etkinlik **Set-Posta Kutusu** cmdlet'in bir parçası olarak denetlenir. Etkinliği Güvenlik & Uyumluluk Merkezi'nde denetim günlüğü aramasını kullanarak görebilirsiniz.
 
-1. [Office 365 güvenlik & Uyumluluk Merkezi](https://protection.office.com/)oturum açın.
+1. [Microsoft 365 Güvenlik & Uyumluluk Merkezi'nde](https://protection.office.com/)oturum açın.
 
-2. **Arama**gidin > **Denetim günlüğü arama** sayfası.
+2. **Arama** > **Denetimi günlüğü arama** sayfasına gidin.
 
-3. **Başlangıç tarihi** ve **Bitiş tarihi** alanlarında tarih aralığını seçin. Bir kullanıcı adı belirtmeniz gerekmez. **Tüm etkinlikler için sonuçları göstermek**için **etkinlikler** alanı olarak doğrulayın.
+3. **Başlangıç tarihi** ve Bitiş **tarihi** alanlarındaki tarih aralığını seçin. Bir kullanıcı adı belirtmeniz gerekmez. **Etkinlikler** alanının tüm **etkinliklerin sonuçlarını gösterecek**şekilde ayarlı olduğunu doğrulayın.
 
-4. **Ara**' yı tıklatın.
+4. **Arama'yı**tıklatın.
 
-Sonuçları **Filtre sonuçları** ' nı tıklatın ve **Set-posta kutusu** etkinlik filtre kutusunda yazın. Sonuçları bir denetim kaydı seçin. **Daha fazla bilgi** **Ayrıntılar** çıkma içinde tıklatın. Etkinlik iletme ilişkili olup olmadığını belirlemek için her bir denetim kaydı ayrıntılara bakmak zorunda.
+Sonuçlarda, **Sonuçları Filtrele'yi** ve etkinlik filtresi kutusunda **Set-Posta Kutusu** yazın'ı tıklatın. Sonuçlarda bir denetim kaydı seçin. **Ayrıntılar** flyout, **daha fazla bilgi**tıklatın. Etkinliğin e-posta yönlendirmeyle ilgili olup olmadığını belirlemek için her denetim kaydının ayrıntılarına bakmanız gerekir.
 
-- **NesneKimliği**: diğer ad değeri değiştirilmiş olan posta kutusu.
+- **ObjectId**: Değiştirilen posta kutusunun diğer adı değeri.
 
 - **Parametreler**: _ForwardingSmtpAddress_ hedef e-posta adresini gösterir.
 
-- **Kullanıcı kimliği**: **NesneKimliği** alanında posta kutusu e-posta iletme yapılandırılmış kullanıcı.
+- **UserId**: **ObjectId** alanında posta kutusunda e-posta yönlendirmeyi yapılandıran kullanıcı.
 
-Daha fazla bilgi için bkz: [belirleme kimin e-posta iletmek için bir posta kutusu ayarlayın](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Daha fazla bilgi için [bkz.](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox)

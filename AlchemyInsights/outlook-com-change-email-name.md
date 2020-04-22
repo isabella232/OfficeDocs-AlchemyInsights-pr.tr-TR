@@ -1,9 +1,9 @@
 ---
-title: Outlook.com e-posta adınızı değiştirme
+title: e-posta adınızı Outlook.com olarak değiştirin
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4e1e6f476833bbb9f6830217c661176c15d440a4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537477"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712910"
 ---
 # <a name="change-your-email-name"></a>E-posta adınızı değiştirme
 
-E-posta adresi ve değiştirmek istediğiniz bir Outlook.com varsa adı alıcıların iletilerinizi görürsünüz:
+Bir Outlook.com e-posta adresiniz varsa ve alıcıların iletilerinizde göreceği adı değiştirmek istiyorsanız:
   
 1. Sayfanın sağ üst köşesindeki hesap resminizi seçin.
 2. **Profilimi**seçin.
-3. **Kaydet**' i seçin ve değişiklik yapmak için **Düzen adı** seçin.
+3. Değişiklik yapmak için **adı Edit'i** seçin ve **Kaydet'i**seçin.
 
-Lütfen değişiklikler yürürlüğe gitmek için profil adı için 24 saat bekleyin.
+Profil adınızdaki değişikliklerin yürürlüğe girmesi için lütfen 24 saate kadar bekleyin.
   
-Birden fazla e-posta diğer adı veya adresi Outlook.com hesabınızı bağlı varsa, e-posta adreslerinizi birini göndermeyi seçebilirsiniz.
+Outlook.com hesabınıza bağlı birden fazla e-posta takma adınız veya adresiniz varsa, adreslerinizden herhangi birinden e-posta göndermeyi seçebilirsiniz.
   
-1. Bir ileti oluştururken seçin "..." düzenleme penceresinin en altında.
-1. Kimden satırı görmek için **Gösterilecek başlangıç** seçin.
-1. Kime satırına yukarıda **seçin** ve kullanmak istediğiniz hangi e-posta adresi seçin.
+1. İleti oluştururken "..." seçeneğini belirleyin oluşturma penceresinin alt kısmında.
+1. From hattını görmek için **Göndereni Göster'i** seçin.
+1. To satırının üzerinde, **From'u** seçin ve kullanmak istediğiniz e-posta adresini seçin.
 
-Daha fazla bilgi için bkz: [Outlook.com farklı bir adresten e-posta gönderme](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Daha fazla bilgi için [Outlook.com'daki farklı bir adresten e-posta gönder'e](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)bakın.

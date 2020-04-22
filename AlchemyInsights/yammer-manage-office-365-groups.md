@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0257be866d6f6c654a28a4109ca7c9e6c34fc376
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530983"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715868"
 ---
 # <a name="manage-office-365-groups-in-yammer"></a>Yammer'daki Office 365 gruplarını yönetme
 
@@ -30,4 +30,4 @@ Aşağıda, Yammer'daki Office 365 gruplarıyla ilgili en sık karşılaşılan 
 
   2. **Ağ Yöneticisi, Güvenlik Ayarı'na**göz atın ve **Office 365 Kimliğinin** Yammer kullanıcıları için uygulandığından emin olun.
 
-Office 365 grupları ve Yammer hakkında daha fazla bilgi için lütfen [Yammer ve Office 365 Grupları'na](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869)bakın. Bir grubu yönetme hakkında bilgi için [bkz.](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+Office 365 grupları ve Yammer hakkında daha fazla bilgi için lütfen [Yammer ve Office 365 Grupları'na](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)bakın. Bir grubu yönetme hakkında bilgi için [bkz.](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

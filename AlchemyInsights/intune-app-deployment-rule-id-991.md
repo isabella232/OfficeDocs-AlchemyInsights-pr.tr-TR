@@ -1,8 +1,8 @@
 ---
-title: Intune App dağıtım kural kimliği 991 arası
+title: Intune Uygulama Dağıtım Kural Id 991
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498291"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714026"
 ---
-# <a name="intune-app-deployment"></a>Intune uygulama dağıtımı
+# <a name="intune-app-deployment"></a>Intune Uygulama Dağıtımı
 
-Intune uygulamalarını dağıtma üç adım bir işlemdir:
+Uygulamaları Intune ile dağıtmak üç adımda bir işlemdir:
   
-1. **Uygulamayı ekleme** - App Store app ekleyebilir veya bir iş kolu uygulaması yükleyin.
+1. **Uygulama ekleme** - Bir App Store uygulaması ekleyebilir veya Bir Business Hattı uygulaması yükleyebilirsiniz.
 
-2. **Bir uygulama atama** - uygulamanın dağıtım kapsamını belirler.
+2. **Uygulama atama** - Uygulamanın dağıtım kapsamını belirleyin.
 
-3. **Apps izleme** - apps yükleme durumunu görüntülemek, keşfedilen apps listelemek ve apps app Mağazalardan satın yönetmek.
+3. **Uygulamaları izleme** - Uygulamaların yükleme durumunu görüntüleyin, keşfedilen uygulamaları listeleyin ve uygulama mağazalarından satın alınan uygulamaları yönetin.
 
-İzlenecek yollar ve yapılandırma ve koruma uygulamaları hakkında bilgi için [Intune uygulama yönetimi nedir](https://docs.microsoft.com/intune/app-management) okuyun.
+Uygulamaları yapılandırma ve koruma hakkında gözden geçirme ler ve bilgiler için [Intune Uygulama Yönetimi](https://docs.microsoft.com/intune/app-management) nedir'yi okuyun.
   
