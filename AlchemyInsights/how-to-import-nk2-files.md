@@ -1,9 +1,9 @@
 ---
-title: How-to-Al-nk2 yazın-dosyalar
+title: nasıl içe aktarıla-nk2-dosyalar
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,28 +13,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 83d30b2d62908db791f21ec5ed7fd5537e7a0944
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770266"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759352"
 ---
-# <a name="how-to-import-nk2-files"></a>.Nk2 dosyalarını almak nasıl 
+# <a name="how-to-import-nk2-files"></a>.nk2 dosyaları nasıl alınır? 
 
-Microsoft Outlook 2013, 2016 Outlook, Outlook 2019 veya Office 365 için Outlook'u ilk kez başlattığınızda, varsayılan ileti deponuzun gizli bir iletide, takma ad önbelleği ( *ProfilAdı*.nk2 dosyasında depolanan) alınır.
+Microsoft Outlook 2013, Outlook 2016, Outlook 2019 veya Microsoft 365 için Outlook'u ilk kez başlattığınızda, takma ad önbelleğiniz *(profil adı*.nk2 dosyasında depolanır) varsayılan ileti mağazanızda gizli bir iletiye aktarılır.
 
-Outlook 2013, Outlook 2016, 2019 Outlook veya Outlook için Office 365 .nk2 dosyaları aktarmak için .nk2 dosyasını aşağıdaki klasörde olduğundan emin olun: %appdata%\Microsoft\Outlook
+.nk2 dosyalarını Outlook 2013, Outlook 2016, Outlook 2019 veya Microsoft 365 için Outlook'a almak için .nk2 dosyasının aşağıdaki klasörde olduğundan emin olun: %appdata%\Microsoft\Outlook
 
-**Not**: .nk2 dosyasını geçerli Outlook 2013 veya 2016 Outlook profili adıyla aynı olması gerekir. Varsayılan olarak, profil adı "Outlook" olur. Profil adı denetlemek için şu adımları izleyin: 
-1. **Başlat**' ı tıklatın ve sonra **Denetim Masası**' nı tıklatın.
-2. **Posta**öğesini çift tıklatın.
+**Not**: .nk2 dosyası, geçerli Outlook 2013 veya Outlook 2016 profilinizle aynı ada sahip olmalıdır. Varsayılan olarak, profil adı "Outlook" olur. Profil adını denetlemek için aşağıdaki adımları izleyin: 
+1. **Başlat'ı**tıklatın ve ardından **Denetim Masası'nı**tıklatın.
+2. Çift tıklatma **Posta**.
 3. Posta Kurulumu iletişim kutusunda **Profilleri Göster'i**seçin.
-4. **Başlat**' ı seçin > **çalıştırın**.
-5. **Aç** kutusuna *outlook.exe /importnk2*yazın ve **Tamam**' ı seçin. 
+4. **Çalıştır'ı** > **Başlat'ı**seçin.
+5. **Açık** kutusunda *outlook.exe /importnk2*yazın ve ardından **Tamam'ı**seçin. 
 
-.nk2 dosyasını aldıktan sonra dosyanın içeriğini, posta kutunuzdaki depolanan varolan takma ad önbelleği birleştirilir.
+.nk2 dosyasını aldıktan sonra, dosyanın içeriği posta kutunuzda depolanan varolan takma ad önbelleğinde birleştirilir.
 
-**Not**: .nk2 dosyasını, Outlook 2013, 2016 Outlook, Outlook 2019 veya Office 365 için Outlook'u bir sonraki başlatışınızda .old dosya adı uzantısıyla yeniden adlandırılır. Varsa istediğiniz .nk2 dosyasını yeniden almak için önce .old dosya adı uzantısını kaldırın.
+**Not**: .nk2 dosyası, Outlook 2013, Outlook 2016, Outlook 2019 veya Microsoft 365 için Outlook'u bir sonraki başladığınızda .eski dosya adı uzantısı ile yeniden adlandırılır. .nk2 dosyasını yeniden almak istiyorsanız, önce .eski dosya adı uzantısını kaldırın.
 
-Daha fazla bilgi için bkz: [alma veya otomatik tamamlama listesi başka bir bilgisayara kopyalayın](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).
+Daha fazla bilgi için, [Otomatik Tam Listeyi Içe Aktar veya başka bir bilgisayara kopyalayın'a](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%)bakın.

@@ -1,8 +1,8 @@
 ---
-title: İletim için birden çok e-posta adresi ayarlama
+title: Birden çok e-posta adresine yönlendirme ayarlama
 ms.author: pebaum
 author: pebaum
-ms.date: 5/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "837"
 - "1200004"
 ms.assetid: 81205bed-e32a-468d-9d4c-9e881622908b
-ms.openlocfilehash: c97bbeff15cf615d25c43be49f72f90809a4178b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 76fb9018c1711e44926d52407d42ab8c654cfc45
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549815"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758558"
 ---
-# <a name="setting-up-forwarding-to-multiple-email-addresses"></a>İletim için birden çok e-posta adresi ayarlama
+# <a name="setting-up-forwarding-to-multiple-email-addresses"></a>Birden çok e-posta adresine yönlendirme ayarlama
 
-E-posta kurma gerekiyorsa, bir kullanıcı grubuna iletmesini dağıtım listesi oluşturma, birden çok kullanıcı eklemek ve ardından bu listeye iletimini yapılandırmak. İlk olarak, **Gruplar**Yönetim Merkezi'nde gezinmek > [grupları](https://portal.office.com/adminportal/home#/groups).
+Bir kullanıcı grubuna e-posta yönlendirme ayarlamanız gerekiyorsa, bir dağıtım listesi oluşturun, birden çok kullanıcı ekleyin ve sonra bu listeye yönlendirmeyi yapılandırır. İlk olarak, yönetici merkezinde **Groups** > Gruplar[Grupları'na](https://portal.office.com/adminportal/home#/groups)gidin.
   
 1. Bir grup oluşturun.
 
 2. Birden çok kullanıcı ekleyin.
 
-3. Bu gruba posta iletme yapılandırın.
+3. Bu gruba iletigönderen posta kutusunu yapılandırın.

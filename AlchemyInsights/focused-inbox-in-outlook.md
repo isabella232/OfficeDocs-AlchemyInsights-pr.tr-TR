@@ -1,9 +1,9 @@
 ---
-title: Outlook'ta gelen kutusu 1800019 odaklı
+title: Outlook'ta 1800019 Odaklanmış Gelen Kutusu
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/11/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: 9f647338efd63d78bafca3424fcf735cf4c4dbd1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8eb4f8c9eca75b68fdc5c32235f31b5c2c8bf2ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524575"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719941"
 ---
-# <a name="focused-inbox-in-outlook"></a>Outlook Gelen Kutusu'nda odaklı
+# <a name="focused-inbox-in-outlook"></a>Outlook'ta Odaklanmış Gelen Kutusu
 
-Focused gelen kutunuza iki sekme halinde ayıran — Focused ve diğer. Geri kalan kolayca erişilebilir kalırken, Focused sekmesinde en önemli iletilerdir — ancak yolunuzun — diğer sekmesinde.
+Odaklanmış Gelen Kutusu gelen kutunuzu iki sekmeye ayırır:Odaklanmış ve Diğer. En önemli iletileriniz Odaklanmış sekmesinde yken geri kalanı nahoş erişilebilir durumda dır, ancak diğer sekmede yoldan çıkar.
   
-[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [Outlook Web](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Mac için Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [Windows 10 posta](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
+[Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | için Mac | Mail[için Outlook 2016'Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409)[Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [web'de](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | Outlook[2016](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
   
 Daha fazla bilgi edinin:
   
-- [Gelen kutusu odaklı çalışırken görmek](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
+- [Bkz. Odaklanmış Gelen Kutusu iş başında](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
 
-- [PowerShell ile kuruluşunuzdaki herkesin odaklanmış gelen yapılandırma](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
+- [PowerShell ile kuruluşunuzdaki herkes için Odaklanmış Gelen Kutusu'nu yapılandırın](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)

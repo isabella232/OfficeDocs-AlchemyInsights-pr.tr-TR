@@ -1,9 +1,9 @@
 ---
-title: Deneme sürümünü bulmak çalışıyorsunuz?
+title: Bir duruşma bulmaya mı çalışıyorsun?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 5cdea787d28a0649ba20a9196742e5103e502e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a5aabaa508e9765b38590f0e65cd5076183967ba
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533107"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732350"
 ---
-# <a name="trying-to-find-a-trial"></a>Deneme sürümünü bulmak çalışıyorsunuz?
+# <a name="trying-to-find-a-trial"></a>Bir duruşma bulmaya mı çalışıyorsun?
 
-Yeni bir hizmet deneyin isterseniz Microsoft 365 Yönetim Merkezi'nde deneme sürümü için kullanılabilir yayımlarının bir listesini bulabilirsiniz.
+Yeni bir hizmet denemek isterseniz, Microsoft 365 yönetici merkezinde deneme için kullanılabilen aboneliklerin listesini bulabilirsiniz.
   
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfa.
+1. Yönetici merkezinde, **Fatura Satın** \> [Alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfasına gidin.
 
-2. İhtiyaçlarınızı karşılayan bir abonelik seçin ve **ücretsiz deneme Al**' ı seçin.
+2. İhtiyaçlarınızı karşılayan aboneliği seçin ve ardından **ücretsiz deneme sürümü alın'ı**seçin.
 
     > [!NOTE]
-    > Tüm abonelikleri bir deneme kullanılabilir. Abonelik üzerinde fare, **ücretsiz deneme Al** düğmesini görmüyorsanız, deneme sürümü değildir anlamına gelir.
+    > Tüm abonelikler deneme sürümü olarak kullanılamaz. Bir aboneliği **niçin** fare yle geçtiyseniz Ücretsiz deneme sürümü al düğmesini görmüyorsanız, deneme sürümü kullanılamadığı anlamına gelir.
   
-3. Kredi kartı veya başka bir ödeme yöntemi, bir güvenlik önlemi olarak ek doğrulama sağlamak için girmeniz istenebilir. Bu ücretsiz deneme sürümü için ücret olmayacaktır. Biz Ödeme bilgilerinizi dosyada saklar ve onayınız olmadan herhangi bir satın alma için kullanmaz.
+3. Güvenlik önlemi olarak ek doğrulama sağlamak için kredi kartı veya başka bir ödeme yöntemi girmeniz istenebilir. Bu ücretsiz deneme için ücret alınmaz. Ödeme bilgilerinizi dosyada saklarız ve onayınız olmadan herhangi bir satın alma işlemi için kullanmayız.
 
-4. **Şimdi deneyin**seçin.
+4. **Şimdi Deneyin'i**seçin.

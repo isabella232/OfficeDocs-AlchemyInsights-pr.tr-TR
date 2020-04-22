@@ -3,7 +3,7 @@ title: Outlook.com e-posta abonelikleri
 ms.author: lpyfer
 author: lpyfer
 manager: joallard
-ms.date: 11/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: 9b1a3f14e6301f06daebdc4036063269055610f8
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: becf4fcf93871b78ae136efeaa004f999bf0532c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38645707"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723686"
 ---
 # <a name="email-subscriptions"></a>E-posta abonelikleri
 
@@ -30,5 +30,5 @@ Haber bültenleri veya promosyonlar almayı durdurmak istiyorsanız, Outlook.com
 2. Outlook.com [Abonelikleri](https://go.microsoft.com/fwlink/?linkid=2110887) ayarlarınızı açın ve **Aboneliği Kaldır'ı**seçin.
 
 Notlar: Bu özelliği yalnızca şirketten abone e-postalar gönderen bir e-posta aldıysanız görürsünüz.
-Sorgunuz Office 365 ücretli aboneliklerle ilgiliyse, [Office 365 hakkında daha fazla bilgi](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade)[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) edinin veya öğrenin.
+Sorgunuz Microsoft 365 ücretli aboneliklerle ilgiliyse, [Microsoft 365 hakkında daha fazla bilgi](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade)[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) edinin veya öğrenin.
   

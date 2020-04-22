@@ -1,9 +1,9 @@
 ---
-title: Bul ve eksik veya silinmiş e-posta, takvim olayları veya kişileri Kurtar
+title: Eksik veya silinen e-postaları, takvim olaylarını veya kişileri bulma ve kurtarma
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -20,19 +20,19 @@ ms.custom:
 - "803"
 - "8000003"
 ms.assetid: 8e24b096-fcbf-4d7e-a412-f6db2afad623
-ms.openlocfilehash: 7dbd19cb54828343655d019d1251d9ab88113a02
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c8e3d07410a2ceb3f66e60b2b3df4aad05977544
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535267"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743905"
 ---
-# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Bul ve eksik veya silinmiş e-posta, takvim olayları veya kişiler Outlook.com kurtarmak
+# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Eksik veya silinen e-postaları, takvim olaylarını veya kişileri Outlook.com bulma ve kurtarma
 
-- Posta ile kullanma <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- [İletileri veya ilgili kişileri aramak](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)için sayfanın üstündeki **Arama** çubuğu.
+- Posta'da, <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ [İletileri veya kişileri aramak için](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)sayfanın üst kısmındaki çubuğu **arayın.**
   
-- Takvim içinde kullanma <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- [Olayları arama kullanarak bir sözcük, ad veya tümcecik](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a?wt.mc_id=Office_Outlook_com_Alchemy)için sayfanın üstündeki **Arama** çubuğu. Açık birden fazla takvimi varsa, arama şu anda seçili olan takvim üzerinde odaklanır.
+- Takvim'de, <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ Bir [sözcük, ad veya tümcecik kullanarak olayları aramak için](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a?wt.mc_id=Office_Outlook_com_Alchemy)sayfanın üst kısmındaki çubuğu **arayın.** Açık birden fazla takviminiz varsa, arama şu anda seçilen takvime odaklanır.
   
-- Bir ileti, takvim olayı veya kişi yanlışlıkla silerseniz, [Bu öğeler, silinmiş öğeler veya önemsiz e-posta klasöründe yine iseniz kurtarmak](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)olabilir.
+- Bir iletiyi, takvim olayını veya ilgili kişiyle yanlışlıkla silinirseniz, [bu öğeleri Silinmiş Öğeler veya Önemsiz E-posta klasörünüzde yse kurtarabilirsiniz.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)

@@ -1,9 +1,9 @@
 ---
-title: Kayıt Seçenekleri Microsoft Intune ile ilgili sorunları giderme
+title: Microsoft Intune kayıt seçenekleriyle ilgili sorun giderme sorunları
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 9249fc562ef73078d508d7548275f336cc13caa1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3790d7407c0aeb5a9659226f0ed4a33090d519a5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506751"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43735212"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Kayıt Seçenekleri Microsoft Intune ile ilgili sorunları giderme
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Microsoft Intune kayıt seçenekleriyle ilgili sorun giderme sorunları
 
-Şimdi, sorunu gidermek için aşağıda listelenen kaynakları inceleyin.
+Sorununuzu şimdi çözmek için aşağıda listelenen kaynakları gözden geçirin.
   
-- [Yanıtlar ve genel sorunlar için çözümler bulmak için gözden geçirme Intune TechNet](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Sık karşılaşılan sorunlara yanıt ve çözümler bulmak için Intune TechNet'i inceleyin.](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)
 
-- [Intune sorun giderme Portal](https://aka.ms/intunetroubleshooting) tanılamak ve ortak kayıt hatalarını gidermek için kullanın. Daha fazla ayrıntı için [Bu belgeyi](https://docs.microsoft.com/intune/help-desk-operators) gözden geçirin.
+- Sık karşılaşılan kayıt hatalarını tanılamak ve gidermek için [Intune Sorun Giderme Portalı'nı](https://aka.ms/intunetroubleshooting) kullanın. Daha fazla ayrıntı için [bu belgeyi](https://docs.microsoft.com/intune/help-desk-operators) gözden geçirin.
 
-- [Bu belge](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) için kayıt ve çözümler için her önlemek sık karşılaşılan hataların listesini gözden geçirin.
+- Her biri için kayıt ve çözümleri engelleyen yaygın hataların bir listesi için [bu belgeyi](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) gözden geçirin.
 
-- [Microsoft Intune kayıt seçenekleri hakkında bilgi edinin](https://docs.microsoft.com/intune/enrollment-options).
+- [Microsoft Intune'daki kayıt seçenekleri hakkında bilgi edinin.](https://docs.microsoft.com/intune/enrollment-options)

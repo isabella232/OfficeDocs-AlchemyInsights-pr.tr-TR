@@ -1,9 +1,9 @@
 ---
-title: Microsoft Intune macOS aygıtları kaydolma sorunları giderme
+title: MacOS aygıtlarını Microsoft Intune'a kaydetme yle ilgili sorun giderme sorunları
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 6c2293852554ce9be066975c4b8937444e544779
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5322a6054294ff475323ade91a052e2dd678a37
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500019"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43736142"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Microsoft Intune macOS aygıtları kaydolma sorunları giderme
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>MacOS aygıtlarını Microsoft Intune'a kaydetme yle ilgili sorun giderme sorunları
 
-Şimdi, sorunu gidermek için aşağıda listelenen kaynakları inceleyin.
+Sorununuzu şimdi çözmek için aşağıda listelenen kaynakları gözden geçirin.
   
-1. [Intune sorun giderme Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) tanılamak ve ortak kayıt hatalarını gidermek için kullanın. Daha fazla ayrıntı için [Bu belgeyi](https://docs.microsoft.com/intune/help-desk-operators) gözden geçirin.
+1. Sık karşılaşılan kayıt hatalarını tanılamak ve gidermek için [Intune Sorun Giderme Portalı'nı](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) kullanın. Daha fazla ayrıntı için [bu belgeyi](https://docs.microsoft.com/intune/help-desk-operators) gözden geçirin.
 
-2. [Bu belge](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) için kayıt ve çözümler için her önlemek sık karşılaşılan hataların listesini gözden geçirin.
+2. Her biri için kayıt ve çözümleri engelleyen yaygın hataların bir listesi için [bu belgeyi](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) gözden geçirin.
 
-3. [Microsoft Intune macOS aygıtları kaydetmek öğrenin](https://docs.microsoft.com/intune/macos-enroll).
+3. [macOS aygıtlarını Microsoft Intune'a nasıl kaydedebilirsiniz öğrenin.](https://docs.microsoft.com/intune/macos-enroll)
 
-[Microsoft Intune macOS aygıtı kaydolması için son kullanıcı kılavuzu kullanıma](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[macOS aygıtını Microsoft Intune'a kaydetmek için son kullanım kılavuzuna göz atın](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   

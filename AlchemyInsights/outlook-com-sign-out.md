@@ -1,9 +1,9 @@
 ---
-title: Outlook.com dışında oturum
+title: Outlook.com'den çıkış
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 02e4c5478f5ca880ece6cd70b3385ca78c724f28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 82e1926e267bd821b3374765878e6c7ce1e36d69
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557809"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743545"
 ---
-# <a name="how-to-sign-out-of-outlookcom"></a>Outlook.com dışında üye olma
+# <a name="how-to-sign-out-of-outlookcom"></a>Outlook.com nasıl çıkış olur?
 
-1. Adı veya üst sağ köşesinde resim seçin.
+1. Sağ üst köşede adınızı veya resminizi seçin.
 
-    Resminizi ekranın üst görmüyorsanız, reklam engelleme açık olup olmadığını denetleyin. Bazen bu resim gösterme gelen engeller.
+    Resminizi ekranın üst kısmında görmüyorsanız, reklam engellemenin açık olup olmadığını kontrol edin. Bazen bu, resmin gösterilmesini engeller.
 
-2. **Oturumu Kapat'ı**seçin.
+2. **Oturum Aç'ı**seçin.
 
-    Otomatik olarak açmasını durdurmak için kutuyu **Bana imzalı tutmak** için parolanızı girin nerede sayfada temizleyin.
+    Otomatik olarak oturum açmayı durdurmak için, parolanızı girdiğiniz sayfada **oturum açmama** yönelik kutuyu kaldırın.
 
-Daha fazla bilgi için [nasıl oturum için veya Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)bakın.
+Daha fazla bilgi edinmek için Outlook.com nasıl oturum Outlook.com oturum [açılanın.](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)
   

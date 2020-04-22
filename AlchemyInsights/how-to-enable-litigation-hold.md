@@ -3,7 +3,7 @@ title: 976-nasıl etkinleştirilir-dava-tutma
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398647"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720752"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Bir posta kutusunu yasal beklemeye alma
 
@@ -26,4 +26,4 @@ ms.locfileid: "37398647"
 
 - Tek bir kullanıcı için Dava Bekletmesini etkinleştirmek için [aşağıdaki adımları izleyin.](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold) Dava Bekletme etkinleştirildiğinde, posta kutusundaki tüm içerik korunur.
 
-- Kuruluşunuzdaki tüm posta kutularındaki içeriği korumak için kuruluş çapında office [365 bekletme ilkesi](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)kullanabilirsiniz. Kuruluş genelinde bekletme ilkeleri için, yeni kullanıcıların otomatik olarak ilke atanacağını unutmayın.
+- Kuruluşunuzdaki tüm posta kutularındaki içeriği korumak için [kuruluş çapında bekletme ilkesi](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)kullanabilirsiniz. Kuruluş genelinde bekletme ilkeleri için, yeni kullanıcıların otomatik olarak ilke atanacağını unutmayın.

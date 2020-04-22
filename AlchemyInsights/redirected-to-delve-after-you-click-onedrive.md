@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 74151ed149c57ceebc841902796189f6638795a9
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: cbf3db148e16ba6631e9077f893a18d3e1b977af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571257"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722830"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>OneDrive'ı tıklattıktan sonra Delve'e yönlendirildi
 
 Ayrıntılı [Sorun Giderme Kılavuzumuza](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)bakın.
 
-Bu sorunu çözmek için Office 365 yöneticisinin kullanıcılara Sitelerim sitesini oluşturma hakkı vermesi gerekir. Bunun nedeni, OneDrive for Business sayfasının Sitelerim'de oluşturulmasıdır.
+Bu sorunu çözmek için yöneticinin kullanıcılara Sitelerim sitesini oluşturma hakkı vermesi gerekir. Bunun nedeni, OneDrive for Business sayfasının Sitelerim'de oluşturulmasıdır.
 
 Bu hakkı vermek için aşağıdaki adımları izleyin:
 

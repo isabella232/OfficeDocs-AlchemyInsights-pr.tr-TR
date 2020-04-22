@@ -1,9 +1,9 @@
 ---
-title: Silinen bir alt siteyi geri yükle
+title: Silinen bir alt siteyi geri yükleme
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 82ea3285b7ded867a179d81bb79ef204270eb038
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7da70d293730dcb5df1f13c42252bab58f41711
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552328"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758702"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>Silinen bir SharePoint alt geri yükleme
+# <a name="restore-a-deleted-sharepoint-subsite"></a>Silinen SharePoint alt sitesini geri yükleme
 
-Silinen alt siteler site koleksiyonu nerede bunlar 93 gün süreyle tutulacağını Dönüşüm, gönderilir. Silinen alt geri yüklemek için:
+Silinen alt siteler, 93 gün boyunca tutuldukları site koleksiyonu Geri Dönüşüm Kutusu'na gönderilir. Silinen bir alt siteyi geri yüklemek için:
   
-1. Yeni SharePoint Yönetim Merkezi alt silinmiş sitesini bulun ve site koleksiyonu yöneticisi olduğunuzdan emin olun 
+1. Yeni SharePoint yönetici merkezinde, alt sitenin silindiği siteyi bulun ve bir site toplama yöneticisi olduğunuzdan emin olun. 
     
-2. Sitesine gidin. **Geri Dönüşüm Kutusu'nın** sol bölmesinde tıklatın. (Geri dönüşüm kutusunu görmüyorsanız, ayarları simgesini tıklatın ve **Site içeriği**' ni tıklatın. Dönüşüm komut çubuğunu üst sağ açıktır.)
+2. Siteye git. Sol bölmedeki **Geri Dönüşüm kutusu'nu** tıklatın. (Geri Dönüşüm kutusunu görmüyorsanız, Ayarlar simgesini tıklatın ve ardından **Site içeriğini**tıklatın. Geri Dönüşüm Kutusu, en üstteki komut çubuğunun en sağındadır.)
     
-3. Sayfanın alt kısmında, **İkinci aşama Geri Dönüşüm Kutusu'ı**tıklatın.
+3. Sayfanın alt kısmında, **İkinci aşama geri dönüşüm kutusu'nu**tıklatın.
     
-4. Alt solunu tıklatın ve **Geri Yükle**' yi tıklatın.
+4. Alt sitenin soluna tıklayın ve sonra **Geri Yükle'yi**tıklatın.
     
 

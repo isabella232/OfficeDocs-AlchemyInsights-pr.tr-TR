@@ -1,38 +1,38 @@
 ---
-title: "'Override' kimlik avı teslim Kiracı veya kullanıcı ilkesi 2491 uyarı e-posta iletileri"
+title: 2491 'Kiracı veya kullanıcı geçersiz kılma nedeniyle teslim edilen Kimlik Avı' ilkesinden uyarı e-posta iletileri
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 456b186ecea59422c791c79d4df056ad8446bc70
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 2e4efd504304da757687e697ff23374aeea31851
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391596"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758954"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>'Override' kimlik avı teslim Kiracı veya kullanıcı ilkesi gelen uyarı e-posta iletileri
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>'Kiracı veya kullanıcı geçersiz kılma nedeniyle teslim edilen Kimlik Avı' ilkesinden gelen e-posta iletilerini uyar
 
-"Kiracı veya kullanıcı geçersiz kılma nedeniyle kimlik avı teslim edildi" adlı varsayılan bir uyarı ilke Office 365 KM P1 ve P2 lisansların kiracılar için alındı. Bu uyarı aldıysanız, araştırmak için adımlar şunlardır:
+Office 365 ATP P1 ve P2 lisanslarına sahip kiracılara "Kiracı veya kullanıcı geçersiz kılma nedeniyle Kimlik Avı Teslim" adlı varsayılan uyarı ilkesi kullanıma sunuldu. Bu uyarıyı aldıysanız, araştırılabilmek için adımlar şunlardır:
 
-1. Uyarı iletisinden Uyumluluk Merkezi güvenlik & **Uyarıları** sayfasına gitmek için **Uyarı görüntüle** ' yi tıklatın.
+1. Uyarı iletisinden, Güvenlik & Uyumluluk Merkezi'ndeki **Uyarılar** sayfasına gitmek için **Uyarıyı** Görüntüle'yi tıklatın.
 
-2. Uyarı **ileti listesini görüntüle** veya **Explorer iletileri görüntüleme**seçeneği görmek için seçin. Bu seçeneklerin her ikisi için ileti kimliği içeren ileti ayrıntılarını ele Tehdit Explorer bağlantıyı otomatik olarak uyarı ölçütüne uyan iletileri süzer unutmayın. Tarih Filtresi alanında tehdit Explorer ayarlamanız gerekebilir.
+2. **İleti listesini** görüntüleme veya **Explorer'da iletileri görüntüleme**seçeneğini görmek için uyarıyı seçin. Bu seçeneklerin her ikisi de sizi İleti Kimliği'ni içeren iletinin ayrıntılarına götürür. Tehdit Gezgini bağlantısının uyarı ölçütlerine uyan iletilere otomatik olarak filtre uygulayacağını unutmayın. Tehdit Gezgini'ndeki tarih filtresini ayarlamanız gerekebilir.
 
-Kimlik avı iletisi nedeniyle el ile yapılandırılmış bir geçersiz kılma teslim edildi:
+Kimlik avı iletisi, el ile yapılandırılan geçersiz kılma nedeniyle teslim edildi:
 
-- İzin verilen gönderen veya etki alanı kullanıcı tarafından ayarlanan.
+- Kullanıcı tarafından ayarlanan izin verilen bir gönderen veya etki alanı.
 
-- İzin verilen gönderenin veya istenmeyen posta önleme İlkesi'nde yönetici tarafından ayarlanan etki alanı.
+- İstenmeyen bir politikada yönetici tarafından ayarlanan izin verilen bir gönderen veya etki alanı.
 
-- Bağlantı filtresi ilkesine izin verilen IP adresi.
+- Bağlantı filtresi ilkesinde izin verilen bir IP adresi.
 
-- İletilere izin vermek için yapılandırılmış bir posta akışı kuralı (aktarım kuralı olarak da bilinir).
+- İletilerin girmesine izin verecek şekilde yapılandırılan bir posta akışı kuralı (aktarım kuralı olarak da bilinir).
 
-İleti yanlış kimlik avı işaretlendi düşünüyorsanız, Outlook [raporu iletisi eklentisi](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) ileti örnekleri Microsoft'a göndermek için kullanın.
+İletinin kimlik avı olarak yanlış olarak işaretlendiğini düşünüyorsanız, Microsoft'a ileti örnekleri göndermek için Outlook [Rapor İletisi eklentisini](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) kullanın.

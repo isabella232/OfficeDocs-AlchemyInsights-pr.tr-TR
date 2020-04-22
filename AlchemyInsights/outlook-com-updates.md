@@ -3,7 +3,7 @@ title: Outlook.com güncelleştirmeleri
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 7b36780553b14043e2fb2e0ac5e8a9d65b9dc47f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1c60c12be4a9c63c9a077498ef68672d5466dd36
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511327"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719360"
 ---
 # <a name="outlookcom-updates"></a>Outlook.com güncelleştirmeleri
 
-**En son güncelleştirmeleri**
+**En son güncellemeler**
 
-- E-postanız ile yeni Outlook.com dışında daha çok yararlanın. Biz bugüne kadar ne aradığınız bulmak için daha kolay yapmak için arama verimli. Resimler ve dosyalar bkz: gelen kutusu ayrılmadan fotoğrafları ve eki önizlemeleri gibi yeni özellikler sağlar. Ve şimdi emojis ve GIF'ler iletilerinize ekleyebilirsiniz.  [Yeni Outlook.com hakkında daha fazla bilgi edinin.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Yeni Outlook.com ile e-postanızdan daha fazla para alın. Aradığınızı bulmayı her zamankinden daha kolay hale getirmek için aramayı kolaylaştırdık. Fotoğraflar ve ek önizlemeleri gibi yeni özellikler, gelen kutunuzdan çıkmadan resimlerinizi ve dosyalarınızı görmenizi sağlar. Artık iletilerinize emojiler ve GIF'ler ekleyebilirsiniz.  [Yeni Outlook.com hakkında daha fazla bilgi edinin.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
-**E-posta güncelleştirmeler**
+**E-posta güncellemeleri**
 
-- Outlook.com posta kutunuzun güncelleştirilmiyor, [e-posta eşitleme sorunları düzeltmek Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)bakın.
+- Outlook.com posta kutunuz günceldeğilse [Outlook.com, bkz.](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)

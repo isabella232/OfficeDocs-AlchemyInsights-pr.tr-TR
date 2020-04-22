@@ -1,9 +1,9 @@
 ---
-title: Otomatik yenileme yönetme
+title: Otomatik yenilemeyi yönetme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 015a3e81b4f96d71f34439c2b8977fdbcb1ec567
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0e1fc4fc2c0905b957de6d6db9b4a19bda4965a7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661460"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762625"
 ---
-# <a name="manage-recurring-billing"></a>Yinelenen faturalandırma yönetme
+# <a name="manage-recurring-billing"></a>Yinelenen faturalandırmayı yönetme
 
-Kapatıp Microsoft 365 Yönetim Merkezi'nde fatura yinelenen kapatabilirsiniz.
+Yinelenen faturalandırmayı Microsoft 365 yönetici merkezinde açabilir veya kapatabilirsiniz.
   
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
+1. Yönetim merkezinde **Faturalama** \> [Ürünler ve hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
 
-2. **Faturalama**, **üzerinde renew** veya **üzerinde şu kadar**yanındaki altında **Düzenle**' yi seçin.
+2. **Faturalama**altında , **Üzerinde Yeniler** veya **Sona Erenin**yanında, **Edit'i**seçin.
 
-3. **Yinelenen fatura ayarlar** bölmesinde, devre dışı bırakmak için **Devre dışı bırak** seçeneğini seçin. Yinelenen faturalandırma zaten devre dışı bırakılırsa, **aylık** veya **bir kez** etkinleştirmek için seçin.
+3. Yinelenen **fatura ayarları** bölmesinde, kapatmak için **KAPALI'yi** seçin. Yinelenen faturalandırma zaten kapalıysa, açmak için **Aylık** veya **Bir Kez'i** seçin.
 
-4. **Gönder Değiştir**' i seçin.
+4. **Değiştir'i Gönder'i**seçin.
 
-Daha fazla bilgi için bkz: [Turn kapatma veya fatura yinelenen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+Daha fazla bilgi edinmek için bkz. [Yinelenen fatura özelliğini kapatma veya açma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
