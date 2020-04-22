@@ -1,24 +1,24 @@
 ---
-title: '2571 yeni özellik: istenmeyen posta kararlar hakkında geribildirim alın'
+title: '2571 Yeni özellik: Spam kararları hakkında geri bildirim alın'
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2571
 ms.assetid: ''
-ms.openlocfilehash: a3ba1f5157242120c8690775125b5fbe04f7565f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 4eda7f42c01ddb8d40ab535c3db80b15ab17b632
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391589"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765036"
 ---
-# <a name="new-feature-get-feedback-about-spam-judgments"></a>Yeni özellik: istenmeyen posta kararlar hakkında geribildirim alın
+# <a name="get-feedback-about-spam-judgments"></a>Spam kararları hakkında geri bildirim alın
 
-Bir yönetici olarak, şimdi kolayca Şüpheli e-posta iletileri, URL'ler ve içerik [Gönderimleri](https://protection.office.com/reportsubmission)Explorer'da Microsoft'a bildirebilirsiniz. Neden yasal bir ileti yanlış bayrak anlamanıza yardımcı olmak için bile kullanabilirsiniz. Daha fazla bilgi için bu [duyuruya](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)bakın.
+Yönetici olarak, Şüpheli e-posta iletilerini, URL'leri ve içeriği [Submissions Explorer'da](https://protection.office.com/reportsubmission)Microsoft'a kolayca bildirebilirsiniz. Meşru bir iletinin neden yanlış işaretlendiğini anlamanıza yardımcı olmak için bile kullanabilirsiniz. Daha fazla bilgi için bu [duyuruya](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)bakın.
 
-Easer yapmak için kullanıcılarınızın doğrudan [rapor iletisi eklentisi](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)yoluyla Microsoft'a bildirmek izin verebilirsiniz.
+Daha kolay hale getirmek için, kullanıcılarınızın [Rapor İletisi eklentisi](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)aracılığıyla doğrudan Microsoft'a rapor sunmasını sağlayabilirsiniz.

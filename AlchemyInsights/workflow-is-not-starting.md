@@ -3,7 +3,7 @@ title: İş akışı başlatmıyor
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 8/2/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: cf7bd95e9a8f1d0842f0abcf82c758d649e80c0f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 941e6349c98278a1a8cdac77457ec1cc72cdef8b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049357"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766117"
 ---
 # <a name="workflow-is-not-starting"></a>İş akışı başlatmıyor
 
 - SharePoint 2010 ve SharePoint 2013 iş akışları başlatılmıyor.
 
-    - İş akışınız başlatılamazsa, kullanıcıların iş akışı ilerlemesinde aralıklı gecikmelerle karşılaşabilecekleri geçici bir hizmet sorunu olabilir. Kuruluşunuzun etkilenip etkilenmeip etkilenmeyin iã§in [Hizmet SaÄ lÄ±k Panosu'](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) nu denetleyin.
+    - İş akışınız başlatılamazsa, kullanıcıların iş akışı ilerlemesinde aralıklı gecikmelerle karşılaşabilecekleri geçici bir hizmet sorunu olabilir. Kuruluşunuzun etkilenip etkilenmeip etkilenmeyin için [Hizmet Sağlık Panosu'](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) nu denetleyin.
 
     - Bu sorunu ilk gördüğünüzden bu yana 24 saatten fazla zaman geçtiyse, lütfen bir destek bileti ni kaydedin. Çoğu durumda, zaten bir çözüm üzerinde çalışıyoruz. Lütfen bir çözümü tamamlamamız için bize en az 24 saat verin.
 

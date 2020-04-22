@@ -1,9 +1,9 @@
 ---
-title: Hata 30016 4 çözümleri
+title: Hata çözümleri 30016-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/11/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: d6190c1686389f8c77ad5fea587212cc2700e9d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa9dfb5916768863004b5533fd8148e0ec478e24
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501963"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757041"
 ---
-# <a name="solutions-for-error-30016-4"></a>Hata 30016 4 çözümleri
+# <a name="solutions-for-error-30016-4"></a>Hata çözümleri 30016-4
 
-Office 365 ProPlus bir bilgisayardan kaldırmak deneyin ve hata iletisi, **bir şeyler yanlış 30016 4 gittiğini**alın **% temp %** sürücü **% ProgramFiles %** başka bir sürücüyü eşleştirilir anlamına gelir.
+Microsoft 365 Apps kurumsal bir bilgisayardan kaldırmak için çalıştığınızda ve hata iletisi almak, **Bir şey yanlış gitti 30016-4**, **bu% temp%** sürücü **% ProgramFiles%** dışında bir sürücüeşlenir anlamına gelir.
   
-Düzeltmek için karşıdan yükleyip [Destek ve kurtarma Yardımcısı](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+[Destek ve Kurtarma Yardımcısı'nı](https://aka.ms/SARA-OfficeUninstall-Alchemy) düzeltmek, indirmek ve yüklemek için
   
-1. Açıldığında, **Office'i Kaldır ürünleri** kaldırmak için **İleri**' yi seçin ve istediğiniz sürümü seçin.
+1. Açıldığında, Office **ürünlerini kaldır'dan** kaldırmak istediğiniz sürümü seçin ve **İleri'yi**seçin.
 
-2. Ekranlar giderek devam edin ve istendiğinde bilgisayarınızı yeniden başlatın.
+2. Ekranlarda ilerlemeye devam edin ve istendiğinde bilgisayarınızı yeniden başlatın.
 
-    Yeniden başlattıktan sonra destek ve kurtarma Yardımcısı otomatik olarak yeniden açılır kaldırma işlemini tamamlamak için.
+    Yeniden başladıktan sonra, Kaldırma işlemini tamamlamak için Destek ve Kurtarma Yardımcısı otomatik olarak yeniden açılır.
 
-3. Kalan istemleri ve [Office'i yeniden](https://portal.office.com/OLS/MySoftware.aspx) uygulayın veya Yardımcısı'nı kapatın.
+3. Kalan istemleri izleyin ve [Office'i yeniden yükleyin](https://portal.office.com/OLS/MySoftware.aspx) veya yardımcıyı kapatın.

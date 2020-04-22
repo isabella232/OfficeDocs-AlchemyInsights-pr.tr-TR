@@ -1,24 +1,24 @@
 ---
-title: Outlook.com için veya oturum açmak nasıl
+title: Outlook.com'da oturum açma veya çıkış
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: d933335b986d1a991dcd20a557b467a82722ebea
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ce8425a22b5a20a0854c75c07ab4d394d4c81cb3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540129"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763309"
 ---
-# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Outlook.com için veya oturum açmak nasıl
+# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Outlook.com'da oturum açma veya çıkış
 
-İçin Outlook.com açamıyorsanız, Hotmail, Live veya MSN hesabı e-posta veya oturum açmak veya [bazı çözümler aşağıdadır](https://go.microsoft.com/fwlink/p/?linkid=2005840), imzalamak nasıl emin değilseniz.
+Outlook.com, Hotmail, Live veya MSN e-posta hesabınızda oturum açamıyorsanız veya nasıl oturum açabileceğinizden veya oturum unuzu nasıl gerçekleştirebileceğinizden emin değilseniz, [işte bazı çözümler.](https://go.microsoft.com/fwlink/p/?linkid=2005840)
   
-Oturum açma sorunları yaşamaya devam ediyorsanız, [Microsoft hesabınıza oturum açtığınızda](https://go.microsoft.com/fwlink/p/?linkid=837479)bakın.
+Oturum açma yla ilgili sorun yaşıyorsanız, [bkz.](https://go.microsoft.com/fwlink/p/?linkid=837479)

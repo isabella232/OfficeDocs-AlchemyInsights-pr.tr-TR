@@ -1,9 +1,9 @@
 ---
-title: 30174-4 hata çözümleri
+title: Hata çözümleri 30174-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,22 +14,22 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: f1edd7ebd61b46c601a53f7362d9e65acbc81701
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57701b1a9a8575fe9307912f1e64b07ab2e6a282
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501639"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757153"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a>30174-4 Office'i yüklerken hata kodu
+# <a name="error-code-30174-4-when-installing-office"></a>Office'i yüklerken 30174-4 hata kodu
 
-Virüsten koruma yazılımı, güvenlik duvarı, proxy ayarları veya bağlantısı, Office yüklemenizi engelliyorsa, bu hatayı görebilirsiniz. Sorunu çözmek için deneyebileceğiniz bazı şeyleri burada bulabilirsiniz.
+Virüsten koruma yazılımınız, güvenlik duvarınız, proxy ayarlarınız veya bağlantınız Office'i yüklemenizi engelliyorsa bu hatayı görebilirsiniz. Sorunu gidermek için deneyebileceğiniz bazı şeyler şunlardır.
   
-- Kablolu bağlantı kullanın.
+- Kablolu bağlantı kullanma
 
-- Proxy ayarlarını geçici olarak kapatma
+- Proxy ayarlarını geçici olarak kapatın
 
-- Virüsten koruma yazılımını geçici olarak kapatma
+- Virüsten koruma yazılımLarını geçici olarak kapatın
 
-[30174-4 Office'i yüklerken hata kodu](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[Office'i yüklerken 30174-4 hata kodu](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   

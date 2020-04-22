@@ -1,9 +1,9 @@
 ---
-title: Minecraft Edition Office 365 ile eğitim için serbest
+title: Ücretsiz Office 365 Eğitim ile Minecraft Edition
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 11/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: e4e88f315b94e4b1318fada8abde8413233c41a6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: aa65e494dce09d4cb54fea29b5b37d6f54c4a089
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389668"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762085"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition Office 365 ile eğitim için serbest
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Ücretsiz Office 365 Eğitim ile Minecraft Edition
 
-[Minecraft Edition Office 365 ile eğitim için serbest](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Ücretsiz Office 365 Eğitim ile Minecraft Edition](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: eğitim Edition** Windows 10 gerektirir
+- **Minecraft: Eğitim Sürümü** Windows 10 gerektirir
 
-- Denemeler veya abonelikler, **Minecraft: eğitim Edition** Azure Active Directory (AD Azure) tarafından yönetilen eğitim kiracılar için sunulan
+- **Minecraft: Education Edition'ın** denemeleri veya abonelikleri, Azure Active Directory (Azure AD) tarafından yönetilen eğitim kiracılarına sunulur
 
-  - Bir AD Azure Kiracı [BT yöneticisi bir ayarlayabilirsiniz](https://docs.microsoft.com/education/windows/school-get-minecraft) alma işleminin bir parçası olarak, okul yoksa **Minecraft: eğitim Edition**.
+  - Okulunuzun Azure AD kiracısı yoksa, BT yöneticisi **Minecraft: Education Edition**alma sürecinin bir parçası olarak [bir tane ayarlayabilir.](https://docs.microsoft.com/education/windows/school-get-minecraft)
 
-  - Office uygulamaları artı 1 TB çevrimiçi depolama çevrimiçi sürümlerini içeren office 365 eğitim, Öğretmenler ve öğrenciler için ücretsizdir. [Okulunuz Office 365 eğitim için yukarı imzalamak](https://products.office.com/academic/office-365-education-plan).
+  - Office uygulamalarının çevrimiçi sürümlerini ve 1 TB çevrimiçi depolama yı içeren Office 365 Eğitim, öğretmenler ve öğrenciler için ücretsizdir. [Office 365 Education için okulunuzun kaydolun.](https://products.office.com/academic/office-365-education-plan)
 
-  - Okulunuzun Office 365 eğitim abonelik varsa, ücretsiz bir içerir Azure Reklam abonelik. [Kayıt Azure İlanınızı ücretsiz abonelik](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
+  - Okulunuzun Office 365 Eğitim aboneliği varsa, ücretsiz azure REKLAM aboneliği içerir. [Ücretsiz Azure REKLAM aboneliğinizi kaydedin.](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)
 
-[Nasıl Öğretmen alın ve Minecraft dağıtmak öğrenin: eğitim Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
+[Öğretmenlerin Minecraft: Education Edition'ı nasıl alıp dağıtabileceğini öğrenin.](https://docs.microsoft.com/education/windows/teacher-get-minecraft)
   
-[Nasıl BT yöneticilerinin almak ve dağıtmak Minecraft öğrenin: eğitim Edition](https://docs.microsoft.com/education/windows/school-get-minecraft), Minecraft izinlerini yönetmek nasıl.
+[BT yöneticilerinin Minecraft: Education Edition'ı nasıl alıp dağıtabileceğini](https://docs.microsoft.com/education/windows/school-get-minecraft)ve Minecraft izinlerinin nasıl yönetilebildiğini öğrenin.

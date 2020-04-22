@@ -2,7 +2,7 @@
 title: Ağ Geçişi
 ms.author: pebaum
 author: pebaum
-ms.date: 7/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: aada8e90d168a4c621dd81ee8d306b934c20d119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734725"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761834"
 ---
 # <a name="network-migration"></a>Ağ Geçişi
 
-O365 kiracınız muhtemelen 1 kiracıda birden fazla Yammer ağıyla ilişkilidir : Birçok ağ yapılandırması. 16 Ekim 2018'den itibaren Yammer, tek bir Office 365 kiracısıyla ilişkili birden fazla Yammer ağlarını desteklemez. Tercih edilen 1:1 yapılandırmasına ulaşmak için Ağ Geçişi gerçekleştirebilirsiniz.
+O365 kiracınız muhtemelen 1 kiracıda birden fazla Yammer ağıyla ilişkilidir : Birçok ağ yapılandırması. 16 Ekim 2018'den itibaren Yammer, artık bir kiracıyla ilişkili birden fazla Yammer ağlarını desteklemeyecemeyecektir. Tercih edilen 1:1 yapılandırmasına ulaşmak için Ağ Geçişi gerçekleştirebilirsiniz.
   
-- Kiracınızla ilişkili ağların listesini görüntülemek için, Office 365 Global Administrator olarak Yammer'da oturum açın ve **Ağ Yöneticisi'ne**, ardından **Ağ Geçişi'ne**göz atın. **İleri**'yi seçin.
+- Kiracınızla ilişkili ağların listesini görüntülemek için, Yammer'da Global Yönetici olarak oturum açın ve **Ağ Yöneticisi'ne**, ardından **Ağ Geçişi'ne**göz atın. **İleri**'yi seçin.
 
 - 3'ün 2'si adım2'de birden çok anın listelenmiş olduğunu görürseniz, O365 kiracınızla ilişkili birden çok Yammer ağınız olur.
 
