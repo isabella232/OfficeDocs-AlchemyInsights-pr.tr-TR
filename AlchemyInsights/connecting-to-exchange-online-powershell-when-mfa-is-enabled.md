@@ -1,9 +1,9 @@
 ---
-title: Exchange Online MFA etkinleştirildiğinde PowerShell 761 bağlanma
+title: MFA etkinleştirildiğinde Exchange Online PowerShell'e Bağlanma
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: efcc1138a6ae71e7093f665722c8bafe730d70d6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517087"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705825"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a><span data-ttu-id="53517-102">MFA etkin olduğunda çevrimiçi Exchange PowerShell için bağlanma</span><span class="sxs-lookup"><span data-stu-id="53517-102">Connect to Exchange Online PowerShell when MFA is enabled</span></span>
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a><span data-ttu-id="d8445-102">MFA etkinleştirildiğinde Exchange Online PowerShell'e bağlanın</span><span class="sxs-lookup"><span data-stu-id="d8445-102">Connect to Exchange Online PowerShell when MFA is enabled</span></span>
 
-<span data-ttu-id="53517-103">Hesabınız etkin çok faktörlü kimlik doğrulama (MFA) varsa, çevrimiçi Exchange PowerShell için bağlanmak için aşağıdaki yönergeleri izleyin gerekir: [çok faktörlü kimlik doğrulama kullanarak çevrimiçi Exchange PowerShell için Bağlan](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="53517-103">If your account has multi-factor authentication (MFA) enabled, you need to follow these instructions to connect to Exchange Online PowerShell: [Connect to Exchange Online PowerShell using multi-factor authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).</span></span>
+<span data-ttu-id="d8445-103">Hesabınızda çok faktörlü kimlik doğrulama (MFA) etkinse, Exchange Online PowerShell'e bağlanmak için bu yönergeleri izlemeniz gerekir: [Çok faktörlü kimlik doğrulaması kullanarak Exchange Online PowerShell'e bağlanın.](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)</span><span class="sxs-lookup"><span data-stu-id="d8445-103">If your account has multi-factor authentication (MFA) enabled, you need to follow these instructions to connect to Exchange Online PowerShell: [Connect to Exchange Online PowerShell using multi-factor authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).</span></span>
 
-<span data-ttu-id="53517-104">**Not**: geçmişte çevrimiçi Exchange PowerShell için bağlı olsa bile [normal bağlantı yönergeleri](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)kullanarak, hesabınız için MFA etkinleştirildikten sonra MFA bağlantı yönergeleri kullanmanız gerekir.</span><span class="sxs-lookup"><span data-stu-id="53517-104">**Note**: Even if you've connected to Exchange Online PowerShell in the past using [the regular connection instructions](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), you need to use the MFA connection instructions after MFA has been enabled for your account.</span></span>
+<span data-ttu-id="d8445-104">**Not**: Geçmişte Exchange Online PowerShell'e düzenli [bağlantı yönergelerini](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)kullanarak bağlanmış olsanız bile, Hesabınız için MFA etkinleştirildikten sonra MFA bağlantı yönergelerini kullanmanız gerekir.</span><span class="sxs-lookup"><span data-stu-id="d8445-104">**Note**: Even if you've connected to Exchange Online PowerShell in the past using [the regular connection instructions](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), you need to use the MFA connection instructions after MFA has been enabled for your account.</span></span>

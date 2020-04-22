@@ -1,9 +1,9 @@
 ---
-title: 500 app parolalar
+title: 500 Uygulama parolası
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,25 +14,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 735e8f1db5107b502c5624689cb38abfbec04502
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517807"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707859"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="f4f79-102">App parolalar</span><span class="sxs-lookup"><span data-stu-id="f4f79-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="26072-102">Uygulama şifreleri</span><span class="sxs-lookup"><span data-stu-id="26072-102">App passwords</span></span>
 
-<span data-ttu-id="f4f79-103">App parola hesap okul veya Office 365 çalışmanızı erişmek için bir uygulama veya aygıt izni veren bir koddur.</span><span class="sxs-lookup"><span data-stu-id="f4f79-103">An app password is a code that gives an app or device permission to access your Office 365 work or school account.</span></span> <span data-ttu-id="f4f79-104">Hesabınız çok faktörlü kimlik doğrulama (MFA) gerektirir ve app hesabınıza bağlanır, app için Office 365 bağlanabilmesi için bir app parola oluşturmak gerekir.</span><span class="sxs-lookup"><span data-stu-id="f4f79-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365.</span></span> <span data-ttu-id="f4f79-105">Örneğin, Outlook 2016 ve önceki sürümleri, Outlook app parola gerektirir.</span><span class="sxs-lookup"><span data-stu-id="f4f79-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
+<span data-ttu-id="26072-103">Uygulama parolası, bir uygulamaya veya cihaza Microsoft çalışmanıza veya okul hesabınıza erişme izni veren bir koddur.</span><span class="sxs-lookup"><span data-stu-id="26072-103">An app password is a code that gives an app or device permission to access your Microsoft work or school account.</span></span> <span data-ttu-id="26072-104">Hesabınız çok faktörlü kimlik doğrulaması (MFA) gerektiriyorsa ve uygulama hesabınıza bağlanıyorsa, uygulamanın Microsoft'a bağlanabilmesi için bir uygulama parolası oluşturmanız gerekir.</span><span class="sxs-lookup"><span data-stu-id="26072-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Microsoft.</span></span> <span data-ttu-id="26072-105">Örneğin, Outlook 2016 ve önceki sürümler Outlook bir uygulama parolası gerektirir.</span><span class="sxs-lookup"><span data-stu-id="26072-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
 
- <span data-ttu-id="f4f79-106">**Not**: aşağıdaki adımları denemeden önce Office 365 Yönetici ile MFA hesabınız için gerekli olduğundan emin olun.</span><span class="sxs-lookup"><span data-stu-id="f4f79-106">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="f4f79-107">Değilse, adımlarda açıklanan seçenekler sizin için kullanılabilir durumda olmaz.</span><span class="sxs-lookup"><span data-stu-id="f4f79-107">If it isn't, the options described in the steps won't be available to you.</span></span>
+ <span data-ttu-id="26072-106">**Not**: Aşağıdaki adımları denemeden önce, Microsoft 365 yöneticinizle hesabınız için MFA'nın gerekli olduğunu doğrulayın.</span><span class="sxs-lookup"><span data-stu-id="26072-106">**Note**: Before you try the following steps, verify with your Microsoft 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="26072-107">Değilse, adımlarda açıklanan seçenekler sizin için kullanılamaz.</span><span class="sxs-lookup"><span data-stu-id="26072-107">If it isn't, the options described in the steps won't be available to you.</span></span>
 
-1. <span data-ttu-id="f4f79-108">Office 365 için çalışmanızı Okul hesabı ve parola ile oturum açın.</span><span class="sxs-lookup"><span data-stu-id="f4f79-108">Sign in to Office 365 with your work or school account and your password.</span></span>
+1. <span data-ttu-id="26072-108">İş veya okul hesabınızve şifrenizle oturum açın.</span><span class="sxs-lookup"><span data-stu-id="26072-108">Sign in with your work or school account and your password.</span></span>
 
-2. <span data-ttu-id="f4f79-109">**Şimdi ayarlamak**seçin.</span><span class="sxs-lookup"><span data-stu-id="f4f79-109">Choose **Set it up now**.</span></span>
+2. <span data-ttu-id="26072-109">**Şimdi Ayarla'yı**seçin.</span><span class="sxs-lookup"><span data-stu-id="26072-109">Choose **Set it up now**.</span></span>
 
-3. <span data-ttu-id="f4f79-110">Kimlik doğrulama yöntemi seçin ve yönergeleri izleyin.</span><span class="sxs-lookup"><span data-stu-id="f4f79-110">Select your authentication method and follow the prompts.</span></span>
+3. <span data-ttu-id="26072-110">Kimlik doğrulama yönteminizi seçin ve istemleri izleyin.</span><span class="sxs-lookup"><span data-stu-id="26072-110">Select your authentication method and follow the prompts.</span></span>
 
-4. <span data-ttu-id="f4f79-111">Diğer kişi yönteminizi doğruladıktan sonra **İleri**' yi seçin.</span><span class="sxs-lookup"><span data-stu-id="f4f79-111">After you verify your alternate contact method, choose **Next**.</span></span>
+4. <span data-ttu-id="26072-111">Alternatif kişi yönteminizi doğruladıktan sonra **İleri'yi**seçin.</span><span class="sxs-lookup"><span data-stu-id="26072-111">After you verify your alternate contact method, choose **Next**.</span></span>
 
-5. <span data-ttu-id="f4f79-112">Outlook, Apple Mail ve gerektiren diğer uygulamaları ile kullanabileceğiniz bir app parola elde edersiniz.</span><span class="sxs-lookup"><span data-stu-id="f4f79-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="f4f79-113">Parola onu başka bir yere (onu ezberleseniz gerek yoktur) yapıştırmak üzere kopyalamak için **Kopyala** ' yı seçin.</span><span class="sxs-lookup"><span data-stu-id="f4f79-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span>
+5. <span data-ttu-id="26072-112">Outlook, Apple Mail ve bunu gerektiren diğer uygulamalarla kullanabileceğiniz bir uygulama parolası alırsınız.</span><span class="sxs-lookup"><span data-stu-id="26072-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="26072-113">Parolayı başka **bir** yere yapıştırabilmek için kopyala'yı seçin (ezberlemeniz gerekmez).</span><span class="sxs-lookup"><span data-stu-id="26072-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span>

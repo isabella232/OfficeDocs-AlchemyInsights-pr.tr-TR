@@ -1,9 +1,9 @@
 ---
-title: 127 e-posta erişirken bir TenantAccessBlockedException hatası alınıyor?
+title: 127 E-posta erişirken bir TenantAccessBlockedException hatası başlarken?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523999"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708923"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="53963-102">E-posta erişirken bir TenantAccessBlockedException hatası alıyorsunuz?</span><span class="sxs-lookup"><span data-stu-id="53963-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="5204f-102">E-postaya erişirken TenantAccessBlockedException hatası mı alıyoruz?</span><span class="sxs-lookup"><span data-stu-id="5204f-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="53963-103">Bu hata iletisini neden birkaç farklı nedenleri vardır.</span><span class="sxs-lookup"><span data-stu-id="53963-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="53963-104">Örneğin:</span><span class="sxs-lookup"><span data-stu-id="53963-104">For example:</span></span>
+<span data-ttu-id="5204f-103">Bu hatayı almanızın birkaç farklı nedeni vardır.</span><span class="sxs-lookup"><span data-stu-id="5204f-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="5204f-104">Örneğin:</span><span class="sxs-lookup"><span data-stu-id="5204f-104">For example:</span></span>
 
-- <span data-ttu-id="53963-105">Aboneliğiniz geçerli **Fatura** üzerinde olduğundan emin olun \> [ürünleri & services](https://portal.office.com/adminportal/home#/subscriptions) sayfasında Microsoft 365 Yönetim Merkezi.</span><span class="sxs-lookup"><span data-stu-id="53963-105">Verify that your subscription is valid on the **Billing** \> [Products & services](https://portal.office.com/adminportal/home#/subscriptions) page in the Microsoft 365 admin center.</span></span>
+- <span data-ttu-id="5204f-105">Aboneliğinizin Microsoft 365 yönetici merkezindeki **Faturaürünleri** \> [& hizmetler](https://portal.office.com/adminportal/home#/subscriptions) sayfasında geçerli olduğunu doğrulayın.</span><span class="sxs-lookup"><span data-stu-id="5204f-105">Verify that your subscription is valid on the **Billing** \> [Products & services](https://portal.office.com/adminportal/home#/subscriptions) page in the Microsoft 365 admin center.</span></span>
 
-- <span data-ttu-id="53963-106">Vadesi geçmiş herhangi bir onay bildirimleri **Fatura** üzerinde \> [& ödemeler kambiyo senetleri](https://portal.office.com/adminportal/home#/billoverview) Microsoft 365 Yönetim Merkezi sayfasında.</span><span class="sxs-lookup"><span data-stu-id="53963-106">Check for any past due notifications on the **Billing** \> [Bills & payments](https://portal.office.com/adminportal/home#/billoverview) page in the Microsoft 365 admin center.</span></span>
+- <span data-ttu-id="5204f-106">Microsoft 365 yönetici merkezindeki **Fatura** \> [faturaları & ödemeler](https://portal.office.com/adminportal/home#/billoverview) sayfasında geçmiş bildirimleri denetleyin.</span><span class="sxs-lookup"><span data-stu-id="5204f-106">Check for any past due notifications on the **Billing** \> [Bills & payments](https://portal.office.com/adminportal/home#/billoverview) page in the Microsoft 365 admin center.</span></span>
 
-- <span data-ttu-id="53963-107">Faturalama ve abonelik hesabınız için yeni yükseltildiyse, değişikliklerin yaymak zaman alabilir.</span><span class="sxs-lookup"><span data-stu-id="53963-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="53963-108">Sorun devam ederse, bize ulaşın ve birkaç dakika içinde yeniden deneyin.</span><span class="sxs-lookup"><span data-stu-id="53963-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
+- <span data-ttu-id="5204f-107">Hesabınızın faturalandırması ve abonelikleri yakın zamanda güncelleştirildiyse, değişikliklerin yayılması zaman alabilir.</span><span class="sxs-lookup"><span data-stu-id="5204f-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="5204f-108">Birkaç dakika içinde tekrar deneyin ve sorun devam ederse, bize ulaşın.</span><span class="sxs-lookup"><span data-stu-id="5204f-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
