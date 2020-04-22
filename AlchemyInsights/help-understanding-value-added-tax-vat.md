@@ -1,9 +1,9 @@
 ---
-title: Yardım anlama değer vergisi (KDV) eklenir.
+title: Katma değer vergisinin (KDV) anlaşılmasına yardımcı olun
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: a8512f753e4d74a274f30bf5191495ffcaf3a23b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: cfe38fa8406980c45bcf3604acd0b666dfe1ee7c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390532"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710139"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Yardım anlama değer vergisi (KDV) eklenir.
+# <a name="help-understanding-value-added-tax-vat"></a>Katma değer vergisinin (KDV) anlaşılmasına yardımcı olun
 
-Kullanan değerli eklenen vergisi (KDV), İngiltere gibi bir ülkede iseniz, Microsoft Invoicing KDV sizin için hesaplar ve tutarı faturalarınızı için geçerlidir.
+Birleşik Krallık gibi katma değer vergisi (KDV) kullanan bir ülkedeyseniz, Microsoft Faturalama sizin için KDV'yi hesaplar ve tutarı faturalarınıza uygular.
   
-Vergi nedeniyle, faturalama ayarlarında, KDV kayıt numarasını belirtmelisiniz.
+Vergi nedenlerinden dolayı, Faturalama ayarlarında KDV kayıt numaranızı da belirtmeniz gerekir.
   
-Ekleme veya kaldırma KDV oranları, ancak varsayılan KDV oranı ayarları değiştirebilirsiniz. Varsayılan olarak, faturalama, KDV kayıt numaraları doğrulamak için bir hizmet kullanır, ancak Avrupa Komisyonu tarafından yayınlanan [VIES vazgeçme](https://go.microsoft.com/fwlink/?LinkID=841741) okumanızı öneririz. Hizmet devre dışı bırakmak seçerseniz, tüm KDV kayıt numaraları doğrulamanız gerekir.
+KDV oranlarını ekleyip kaldıramam, ancak Ayarlar'da varsayılan KDV oranını değiştirebilirsiniz. Varsayılan olarak, Faturalama KDV kayıt numaralarını doğrulamak için bir hizmet kullanır, ancak Avrupa komisyonu tarafından yayınlanan [VIES feragatnamesini](https://go.microsoft.com/fwlink/?LinkID=841741) okumanızı öneririz. Hizmeti devre dışı bırakmayı seçerseniz, tüm KDV kayıt numaralarını doğrulamanız gerekir.

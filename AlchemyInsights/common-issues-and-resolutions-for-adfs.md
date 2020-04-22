@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286919"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706221"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>ADFS için yaygın sorunlar ve çözümleri
 
@@ -28,4 +28,4 @@ Federasyon etki alanının yapılandırması, aşağıdaki Microsoft Bilgi Banka
 
 - [2647020](https://support.microsoft.com/help/2647020) Federasyon kullanıcısı Office 365, Azure veya Intune’da oturum açmaya çalışıtığında "Ne yazık ki oturumunuzu açarken sorunlarla karşılaşıyoruz" ve "80041317" veya "80043431" hatası oluşuyor.
 
-Daha fazla bilgi için bkz. [Office 365, Azure veya Intune’da federasyon etki alanının ayarlarını güncelleştirme veya onarma](https://docs.microsoft.com/tr-TR/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+Daha fazla bilgi için bkz. [Office 365, Azure veya Intune’da federasyon etki alanının ayarlarını güncelleştirme veya onarma](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

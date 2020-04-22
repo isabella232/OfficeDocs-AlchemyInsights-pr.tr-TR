@@ -1,9 +1,9 @@
 ---
-title: Faturanızı anlama Yardım
+title: Faturanızı anlamanıza yardımcı olun
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523099"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710103"
 ---
-# <a name="help-understanding-your-bill"></a>Faturanızı anlama Yardım
+# <a name="help-understanding-your-bill"></a>Faturanızı anlamanıza yardımcı olun
 
-Satın alınan lisans ve gerekli vergileri/ücretler sayısı ile çarpımına lisans fiyatı, Office 365 iş abonelik için fatura tutarı yansıtır.
+Aboneliğiniz için faturalanan tutar, satın alınan lisans sayısı ve gerekli vergi/ücretlerle çarpılan lisans fiyatını yansıtır.
   
-Sonra Beklenen fatura tutarı farklı ise, bu durum birkaç nedeni vardır:
+Faturalanan tutar beklenenden farklıysa, bunun birkaç nedeni olabilir:
   
-- Lisansları eklenmiş veya aboneliğinizden kaldırıldı. Lisansları değişen Orta terim olduğunda, bu aşağıdaki faturaya yansıtılır. Kredi ve yeniden faturalamak için bu değişiklik dikkate almak önceki dönemin hizmet görebilirsiniz.
+- Lisanslar aboneliğinizden eklendi veya kaldırıldı. Lisanslar dönem ortası değiştirildiğinde, bu durum aşağıdaki faturaya yansıtılır. Bu değişikliğin açıklaması olarak önceki hizmet dönemine yönelik bir iade veya yeniden faturalama görebilirsiniz.
 
-- Abonelik iptal edildi. Tüm bekleyen bakiyenin eksi tüm jenerik ile iptal işleminden sonra bir fatura alırsınız.
+- Abonelik iptal edildi. İptal işleminden sonra alacaklar hariç kalan bakiyeyi içeren bir fatura alırsınız.
 
-- Aboneliğinizin yenilenmesi için yeni bir terim ve lisans fiyatı değişir.
+- Aboneliğiniz yeni dönem için yenilendi ve lisans ücreti değişti.
 
-Faturanızı hakkında daha fazla bilgi için bkz: [anlayın, fatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)
+Faturanız hakkında daha fazla bilgi için bkz: [Faturanızı anlama](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

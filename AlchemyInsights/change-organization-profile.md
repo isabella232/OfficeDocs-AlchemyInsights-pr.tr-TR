@@ -1,9 +1,9 @@
 ---
-title: Kuruluş profilini değiştirme
+title: Organizasyon profilini değiştir
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: 00faf0bae2f1f3a5b032cdd796867da8e7351c48
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f59aad4f971de7de55cc4a160c18b552527cd393
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519355"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706703"
 ---
-# <a name="change-organization-profile"></a>Kuruluş profilini değiştirme
+# <a name="change-organization-profile"></a>Organizasyon profilini değiştir
 
-Şirketinizin adını, adresi, teknik iletişim bilgilerini ve daha fazla Yönetim Merkezi **ayarlarını**değiştirme > [Kuruluş profil](https://go.microsoft.com/fwlink/p/?linkid=2067339) sayfası.
+Şirket adınızı, adresinizi, teknik iletişim bilgilerinizi ve daha fazlasını **Ayarlar** > [Organizasyonu profil](https://go.microsoft.com/fwlink/p/?linkid=2067339) sayfasındaki yönetici merkezinde değiştirin.
 
-İle işaretli tüm gerekli alanları doldurmak mutlaka bir * değişikliklerinizi kaydetmeyi etkinleştirmek için.
+Değişikliklerinizi kaydetmeyi etkinleştirmek için * ile işaretlenmiş gerekli tüm alanları doldurduğunuzdan emin olun.
 
-[Adresi veya bir faturalama adresi değişiklikleri hakkında daha fazla bilgi](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).
+[Adres veya fatura adresi değişiklikleri hakkında daha fazla bilgi görün.](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more)

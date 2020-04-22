@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600404"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43650588"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Legacy eDiscovery Araçları emeklilik
 
@@ -37,7 +37,7 @@ Microsoft 365 Uyumluluk merkezindeki yeni ve geliştirilmiş eDiscovery işlevin
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 Gelişmiş eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Gelişmiş eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Emeklilik için zaman çizelgesi:**
 - 1 Nisan 2020: Yeni aramalar ve tutarlar oluşturamazsınız, ancak varolan aramaları kendi riskiniz altında çalıştırabilir, düzenleyebilir ve silebilirsiniz. Microsoft Desteği artık EAC'de bulunan & Yerinde eDiscovery'yi desteklemez.

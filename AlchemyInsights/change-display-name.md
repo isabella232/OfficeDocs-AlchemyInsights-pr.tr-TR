@@ -2,7 +2,7 @@
 title: 959 Görüntü adını değiştir
 ms.author: pdigia
 author: pebaum
-ms.date: 7/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 182211bfa48a4015a3a9847b66674838338d9fa6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36736741"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706991"
 ---
 # <a name="change-your-display-name"></a>Görüntü adınızı değiştirme
   
@@ -27,7 +27,7 @@ Outlook'ta görüntü adınızı değiştirmek için aşağıdaki adımları kul
 2. E-posta hesabını seçin ve ardından **Değiştir'i**seçin.
 
     > [!NOTE]
-    > Görüntü adınızı değiştirme seçeneğini görmüyorsanız, büyük olasılıkla bir Microsoft Exchange e-posta hesabı kullanıyorsunuz. Bu durumda, görüntü adınızı değiştirmek için yöneticinize başvurmanız gerekir. Bkz. [Office 365'te kullanıcı adını ve e-posta adresini değiştir.](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+    > Görüntü adınızı değiştirme seçeneğini görmüyorsanız, büyük olasılıkla bir Microsoft Exchange e-posta hesabı kullanıyorsunuz. Bu durumda, görüntü adınızı değiştirmek için yöneticinize başvurmanız gerekir. Bkz. [Kullanıcı adını ve e-posta adresini değiştir.](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
 3. Görüntü adınızı değiştirdikten sonra değişikliklerinizi kaydetmek için **Tamam'ı** tıklatın. Değişikliklerinizin kuruluşunuz genelinde yansıtması birkaç saat sürebilir.
 

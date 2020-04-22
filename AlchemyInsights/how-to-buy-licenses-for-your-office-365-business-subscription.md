@@ -1,9 +1,9 @@
 ---
-title: Office 365 iş aboneliğiniz için lisans satın alma
+title: Microsoft 365 Apps işletme aboneliğiniz için lisans satın alma
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 5e0c500d9c537efd91cdbed1dfe914ec91821b82
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d202ab1ad27c886473793dd1bde77409bff6939a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664232"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709535"
 ---
-# <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Office 365 iş aboneliğiniz için lisans satın alma
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Microsoft 365 Apps işletme aboneliğiniz için lisans satın alma
 
-Kullanıcılarınıza Office 365 lisansları atarken, ek lisans satın almaya gerek duyan bulabilirsiniz. Bunu yapmak için:
+Kullanıcılarınıza lisans atarken, ek lisans satın alma gereksiniminiz olduğunu görebilirsiniz. Bunu yapmak için:
   
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası.
+1. Yönetim merkezinde **Faturalama** \> [Ürünler ve hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
 
-2. Lisans eklemek istediğiniz aboneliğin bulun ve sonra **Lisans Ekle/Kaldır'ı**seçin.
+2. Lisans eklemek istediğiniz aboneliği bulun ve ardından **Lisans Ekle/Kaldır'ı**seçin.
 
-3. Bu abonelik için gerekir ve ardından **Gönder'i Değiştir**' i seçin lisans sayısı **toplam lisans** kutusuna girin. Örneğin, 100 lisansınız varsa ve 5 lisans daha eklemeniz gerekiyorsa 105 yazın.
+3. Toplam **lisanslar** kutusuna, bu abonelik için ihtiyacınız olan toplam lisans sayısını girin ve ardından **değiştir'i gönder'i**seçin. Örneğin, 100 lisansınız varsa ve 5 lisans daha eklemeniz gerekiyorsa 105 yazın.
 
-Daha fazla bilgi için [Office 365 iş abonelik lisanslarını satın](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)bakın.
+Daha fazla bilgi için, [microsoft 365 Apps iş aboneliği için lisans satın](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)alın'a bakın.

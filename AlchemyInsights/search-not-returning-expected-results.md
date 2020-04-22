@@ -1,9 +1,9 @@
 ---
-title: 1491-Search-Not-returning-Expected-Results
+title: 1491-search-not-return-beklenen-sonuçlar
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1491"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 094da9d75013aae56ca219b7ae03e85736ce5ee0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d0707af19b0299f7257a10a20ab38f47860308fb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551435"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709247"
 ---
-# <a name="content-search-not-returning-expected-results"></a>Beklenen sonuçları döndürülüyor değil içerik arama
+# <a name="content-search-not-returning-expected-results"></a>İçerik Arama beklenen sonuçları döndürmez
 
-Office 365 güvenlik & Uyumluluk Merkezi içerik arama çalıştırıldığında, arama beklenmeyen sonuçlar alabilirsiniz. Arama sonuçlarınızı etkileyebilir şunları göz önünde bulundurun:
+Microsoft 365 güvenlik & Uyumluluk Merkezi'nden İçerik Aramaları çalıştırırken beklenmeyen arama sonuçları alabilirsiniz. Arama sonuçlarınızı etkileyebilecek aşağıdaki şeyleri göz önünde bulundurun:
 
-- **İçerik konumları ve arama koşulları**: uygun içerik konumları seçtiyseniz ve arama koşulları emin olun. (Birçok konumlar ile) büyük bir Arama çalıştırılmışsa, birden çok arama bölmeyi düşünün.
+- **İçerik konumları ve arama koşulları**: Uygun içerik konumlarını ve arama koşullarını seçtiğinizden emin olun. Büyük bir arama (birçok konumla) çalıştırdıysanız, birden çok aramaya bölmeyi düşünün.
 
-- **Kısmen dizinli öğe**: tahmini arama sonuçlarında posta kutularına gelen [kısmen öğeleri dizine](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) dahil edilir. Ancak, SharePoint ve OneDrive sitelerinden kısmen dizinli öğe arama tahmine dahil edilmez.
+- **Kısmen dizine eklenmiş öğeler**: Posta kutularından [kısmen dizine eklenmiş öğeler,](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) tahmini arama sonuçlarına dahil edilir. Ancak, SharePoint ve OneDrive'daki sitelerden kısmen dizine eklenmiş öğeler arama tahminine dahil değildir.
 
-- **Arama hataları**: çok sayıda posta kutuları (100.000 posta kutuları) ararken, arama hataları, hata kodları CS008-009 ve CS012-002 gibi alabilirsiniz). Bu durumda, yalnızca başarısız içerik konumları için aramayı yeniden deneyin. [Bu makalede](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) daha fazla bilgi için bkz.
+- **Arama hataları**: Çok sayıda posta kutusu (100.000'den fazla posta kutusu) arama yaparken, CS008-009 ve CS012-002 gibi hata kodlarıyla arama hataları alabilirsiniz. Bu durumda, aramayı yalnızca başarısız içerik konumları için yeniden deneyin. Daha fazla bilgi için [bu makaleye](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) bakın.

@@ -1,5 +1,5 @@
 ---
-title: Nasıl bir lisans bir kullanıcıya atamak için
+title: Bir kullanıcıya lisans atama
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,27 +10,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "325"
-- "150008"
+- "651"
+- "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 418d7f7d0c3ea8a64e9a635872b954f51808b6f5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 122103d86dd96696bc524c5791d739af016e8371
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664268"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709571"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a>Nasıl bir lisans bir kullanıcıya atamak için
+# <a name="how-to-assign-a-license-to-a-user"></a>Bir kullanıcıya lisans atama
 
-Bir kullanıcı bir Office 365 lisans hizmetlerine erişim sağlamak için gerekir. Ekleme, değiştirme veya bir lisans bir kullanıcıyı kaldırmak için adımları şunlardır.
+Bir kullanıcının hizmetlere erişimi olması için lisansa ihtiyacı vardır. Aşağıda, bir kullanıcıdan lisans ekleme, değiştirme veya kaldırma adımları vereyim.
   
-1. **Kullanıcıların** Yönetim Merkezi'nde Git \> [Etkin kullanıcılar](https://go.microsoft.com/fwlink/p/?linkid=834822) sayfa.
+1. Yönetici merkezinde, **Kullanıcılar** \> [Etkin kullanıcılar](https://go.microsoft.com/fwlink/p/?linkid=834822) sayfasına gidin.
 
-2. Atama, değiştirme veya bir lisans kaldırmak istediğiniz kullanıcının adını seçin.
+2. Bir lisansı atamak, değiştirmek veya kaldırmak istediğiniz kullanıcının adını seçin.
 
-3. Bu kullanıcıya atamak istediğiniz lisans **Lisans ve uygulamalar** sekmesinde seçin.
+3. **Lisanslar ve Uygulamalar** sekmesinde, bu kullanıcıya atamak istediğiniz lisansı seçin.
 
-    Varsayılan olarak, söz konusu lisansla ilişkili tüm hizmetler kullanıcıya otomatik olarak atanır. Kullanıcıya hangi hizmetlerin kullanılabileceğini sınırlamak için o kullanıcının sahip olmasını istemediğiniz Hizmetleri onay kutusunu temizleyin.
+    Varsayılan olarak, söz konusu lisansla ilişkili tüm hizmetler kullanıcıya otomatik olarak atanır. Kullanıcı için hangi hizmetlerin kullanılabildiğini sınırlamak için, kullanıcının sahip olmasını istemediğiniz hizmetlerin onay kutusunu temizleyin.
 
-4. Bölmenin alt kısmında, **Değişiklikleri Kaydet**' i seçin.
+4. Bölmenin alt kısmında değişiklikleri **kaydet'i**seçin.
 
-Daha fazla bilgi için bkz: [lisanslar kullanıcılara atayın](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ve [kullanıcıların lisanslarını kaldırmak](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Daha fazla bilgi için [kullanıcılara lisans atama](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ve [kullanıcılardan lisansları kaldırma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)'ya bakın.

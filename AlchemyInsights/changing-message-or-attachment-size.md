@@ -10,16 +10,16 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769683"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706437"
 ---
 # <a name="changing-message-or-attachment-size"></a>İleti veya ek boyutunu değiştirme
 
-Office 365 yöneticisi olarak, kullanıcılarınızın gönderdiği iletilerin (ekler dahil) maksimum/minimum boyutunu değiştirebilirsiniz. Bunu tek tek kullanıcılar veya tüm kullanıcılar (kuruluş varsayılanı) için yapabilirsiniz. Bu ayarı değiştirdikten sonra, yürürlüğe girmesi yaklaşık 30 dakika sürer.
+Microsoft 365 yöneticisi olarak, kullanıcılarınızın gönderdiği iletilerin (ekler dahil) maksimum/minimum boyutunu değiştirebilirsiniz. Bunu tek tek kullanıcılar veya tüm kullanıcılar (kuruluş varsayılanı) için yapabilirsiniz. Bu ayarı değiştirdikten sonra, yürürlüğe girmesi yaklaşık 30 dakika sürer.
   
 - Belirli bir kullanıcının ileti boyutunu değiştirmek **için, Yönetici merkezleri** \> **Exchange** \> **alıcıları** \> posta **kutularına**gidin. Bir kullanıcının posta kutusunu seçin. Edit simgesini seçin, **posta kutusu özelliklerini**seçin ve ardından İleti Boyutu **Kısıtlamaları**altında **Ayrıntıları Görüntüle'yi** seçin ve yeni maksimum ileti boyutu belirtin.
 

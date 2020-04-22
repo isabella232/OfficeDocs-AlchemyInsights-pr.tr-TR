@@ -3,7 +3,7 @@ title: Outlook.com e-posta alamıyor
 ms.author: lpyfer
 author: lpyfer
 manager: joallard
-ms.date: 10/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "9000252"
 - "1842"
-ms.openlocfilehash: c63d93347db194cbe10d4bc6d806b7af6a6e0681
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 5271860c99cd4911cf3cce4a3dca6ec725dde86d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37698192"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710859"
 ---
 # <a name="unable-to-receive-email"></a>E-posta alınamıyor
 
 Outlook.com ile ilgili sorun yaşıyorsanız, önce [hizmet durumunu](https://go.microsoft.com/fwlink/p/?linkid=837482)kontrol edin.
 
-1. **Diğer** Gelen Kutunuzu kontrol edin. Odaklanmış Gelen Kutusu'nu nasıl kapatılatıröğreneceksiniz, bkz. [](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2) 
+1. **Diğer** Gelen Kutunuzu kontrol edin. Odaklanmış Gelen Kutusu'nu nasıl kapatılatıröğreneceksiniz, bkz. [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2) 
 2. [ **Önemsiz E-posta** klasörünüze](https://outlook.live.com/mail/junkemail)bakın. Gelen kutunuz doluysa, yeni iletiler almazsınız. Gelen kutunuzda yer açmak için **Önemsiz E-posta** > **Sil'e**sağ tıklayarak önemsiz klasörünüzü boşaltmayı deneyin.
 3. Gelen **Kutusu Filtrelerinizi**kontrol edin. 
     1. Filtreleme için ileti listenizin en üstüne gidin ve**Tümü** **Filtrele'yi** > seçin.

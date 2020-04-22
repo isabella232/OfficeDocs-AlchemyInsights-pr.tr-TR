@@ -10,18 +10,18 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: 7eb6e1463b95e01554722dd4790ab334371c86d9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a1bb502f7afdbd700a6c247046dc2033a9ab065b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050257"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706919"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>SharePoint Online'da alan adını değiştirme
 
-Ne yazık ki, Office 365'teki kuruluşunuz için SharePoint Online etki alanı adını değiştirmek mümkün değildir. Örneğin, kuruluşunuzun adı "Contoso"dan "Dördüncü Kahve"ye değişirse, contoso.sharepoint.com fourthcoffee.sharepoint.com değiştiremezsiniz.
+Ne yazık ki, kuruluşunuz için SharePoint Online etki alanı adını değiştirmek mümkün değildir. Örneğin, kuruluşunuzun adı "Contoso"dan "Dördüncü Kahve"ye değişirse, contoso.sharepoint.com fourthcoffee.sharepoint.com değiştiremezsiniz.
   
-Alan adı fourthcoffee.sharepoint.com kullanmak için yeni bir Office 365 aboneliği satın almanız ve tüm e-postaları, dosyaları ve yeni aboneliğe saklamak istediğiniz diğer verileri taşımanız gerekir.
+Alan adı fourthcoffee.sharepoint.com kullanmak için yeni bir abonelik satın almanız ve tüm e-postaları, dosyaları ve yeni aboneliğe saklamak istediğiniz diğer verileri taşımanız gerekir.
   
  **Not**: Örneğin, bir sitenin https://contoso.sharepoint.com/sites/sample1 adını https://contoso.sharepoint.com/sites/sample2değiştirmek için , [bu makaledeki](https://docs.microsoft.com/sharepoint/change-site-address)yönergeleri izleyin. 
   

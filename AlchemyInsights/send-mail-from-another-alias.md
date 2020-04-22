@@ -1,9 +1,9 @@
 ---
-title: Başka bir diğer adı kullanılarak posta Gönder
+title: Başka bir diğer addan posta gönderme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: c84e56a7b8077698f20ca269218f684fba23f191
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d10446576aa9fd79175671db8bdd560041480b6d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551543"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709211"
 ---
-# <a name="send-email-from-an-alias-or-secondary-address"></a>Bir diğer ad veya ikincil adres e-posta Gönder
+# <a name="send-email-from-an-alias-or-secondary-address"></a>Takma adveya ikincil adresten e-posta gönderme
 
-Office 365 gönderen e-posta diğer adı ya da ikincil e-posta adresi şu anda desteklemiyor. E-posta diğer adları, yalnızca e-postaları almak için kullanılabilir. Başka bir e-posta adresinden e-posta göndermek istiyorsanız, paylaşılan bir posta oluşturmanız gerekir. Paylaşılan posta başka bir e-posta adresi başka bir lisans gerektirmeden verecektir.
+Microsoft 365 şu anda bir takma addan veya ikincil e-posta adresinden e-posta göndermeyi desteklememektedir. E-posta takma adları yalnızca e-posta almak için kullanılabilir. Başka bir e-posta adresinden e-posta göndermek istiyorsanız, paylaşılan bir posta kutusu oluşturmanız gerekir. Paylaşılan posta kutusu, başka bir lisans gerektirmeden size başka bir e-posta adresi verecektir.
   
-- [Paylaşılan bir posta kutusu oluşturmak için buraya gidin.](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [Paylaşılan bir posta kutusu oluşturmak için buraya gidin](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Bunları nasıl kullanacağınızı da dahil olmak üzere paylaşılan posta kutuları hakkında bilmeniz gereken her şeyi söyleyecektir [paylaşılan bir posta kutusu oluşturma](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) makalesine bakın.
+Paylaşılan posta kutuları hakkında bilmeniz gereken her şeyi (bunları nasıl kullanacağınız da dahil) anlatan [paylaşılan posta kutusu](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) oluştur makalesini de okuyabilirsiniz.

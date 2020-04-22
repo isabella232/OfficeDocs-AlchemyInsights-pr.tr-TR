@@ -1,9 +1,9 @@
 ---
-title: Outlook.com 8000006 değişiklik profil adı
+title: 8000006 Outlook.com profil adını değiştir
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000006
 ms.assetid: 0e32c516-a5ff-4deb-9bf8-485febd3def8
-ms.openlocfilehash: 597d8ca1a468b2620f97d3c4a0a2a3ebf5e8df00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 71ccabc7b4e75d462d59dcfd4907aedafeacad4b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518815"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706617"
 ---
 # <a name="change-your-profile-name"></a>Profil adınızı değiştirme
 
-1. [Bilgisayarınızı Microsoft hesap bilgisi](https://go.microsoft.com/fwlink/p/?linkid=860841)gidin.
+1. Microsoft [hesap bilgilerinize](https://go.microsoft.com/fwlink/p/?linkid=860841)gidin.
     
-2. **Adı Düzenle**' yi seçin. 
+2. **Adı Edit'i**seçin. 
     
-3. Ad ve soyad girin ve **Kaydet**' i seçin. 
+3. Ad ve soyad girin ve **Kaydet'i**seçin. 
     
-Lütfen değişikliklerin etkili olması için profil adı için 24 saat bekleyin.
+Profil adınızdaki değişikliklerin etkili olması için lütfen 24 saate kadar bekleyin.
   
-Daha fazla bilgi için bkz: [Profil fotoğrafınızı veya Outlook.com adını değiştirme](https://go.microsoft.com/fwlink/?linkid=873110).
+Daha fazla bilgi için bkz: [Outlook.com'daki profil fotoğrafınızı veya adınızı değiştirin.](https://go.microsoft.com/fwlink/?linkid=873110)
   
 

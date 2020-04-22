@@ -1,9 +1,9 @@
 ---
-title: Outlook.com dosyalarından fotoğrafları veya dosyaları silinemiyor
+title: Outlook.com'daki Dosyalar'dan fotoğraf veya dosyaları silemez
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +14,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 15ef1ea577b95bdb965d66c6d0cfa81afd6be252
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5ef46e7287e0915fc70857904a44dd802cba6271
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548087"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710787"
 ---
-# <a name="cant-delete-files-or-photos-from-files"></a>Dosyaları veya fotoğrafları dosyaları silinemiyor
+# <a name="cant-delete-files-or-photos-from-files"></a>Dosyalar'daki dosyaları veya fotoğrafları silemiyor
 
-Outlook.com dosyalarınızı ve fotoğraflarınızı, posta kutunuzdaki iletilere iliştirilen **dosyaları** gösterir. Fotoğrafları ve dosyaları kaldırmak için bağlı e-posta mesajları silmeniz gerekir. İletileri sildikten sonra Ayrıca bunları silinmiş öğeler klasörünüzden silmeniz gerekir.
+Outlook.com, **Dosyalar** posta kutunuzda iletilere iliştirilen dosyaları ve fotoğrafları gösterir. Dosyaları ve fotoğrafları Dosyalar'dan kaldırmak için, bağlı oldukları e-posta iletilerini silmeniz gerekir. İletileri sildikten sonra, silinmiş Öğeler klasörünüzden silmeniz gerekir.
 
-Daha fazla bilgi için [dosyaları veya fotoğrafları Outlook.com nasıl silineceği](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy)okuyun.
+Daha fazla bilgi edinmek [için, Outlook.com'daki dosyaları veya fotoğrafları nasıl silersin'](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy)i okuyun.

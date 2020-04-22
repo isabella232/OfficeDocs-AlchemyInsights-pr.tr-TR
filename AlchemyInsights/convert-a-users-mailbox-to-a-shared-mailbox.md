@@ -1,5 +1,5 @@
 ---
-title: Bir kullanıcının posta kutusuna paylaşılan bir posta kutusuna Dönüştür
+title: Kullanıcı posta kutusunu paylaşılan posta kutusuna dönüştürme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 0a8ba0d7d74cacd34cbcea8dcab454d55c283280
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b1c44e0990d07686ef083d2045a164afc5f11033
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665312"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705573"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Bir kullanıcının posta kutusuna paylaşılan bir posta kutusuna Dönüştür
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Kullanıcı posta kutusunu paylaşılan posta kutusuna dönüştürme
 
-Paylaşılan bir posta kutusu için bağımsız bir kullanıcının Office 365 posta kutusu dönüştürdüğünüzde, tüm varolan e-posta ve takvim öğeleri birden fazla kişi erişebileceğiniz paylaşılan bir posta kutusuna korunur. Paylaşılan bir posta kutusuna (geri bir kullanıcı özel) posta kutusu için de dönüştürebilirsiniz.
+Tek bir kullanıcının posta kutusunu paylaşılan bir posta kutusuna dönüştürdüğünüzde, varolan tüm e-posta ve takvim öğeleri birden çok kişinin erişebileceği paylaşılan bir posta kutusunda tutulur. Paylaşılan posta kutusunu kullanıcı (özel) posta kutusuna geri dönüştürebilirsiniz.
   
-Daha fazla bilgi için bkz: [paylaşılan bir posta kutusuna bir kullanıcı posta kutusu dönüştürme](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).
+Daha fazla bilgi için [bkz.](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox)
   

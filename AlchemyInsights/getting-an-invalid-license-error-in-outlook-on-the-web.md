@@ -1,9 +1,9 @@
 ---
-title: Geçersiz Lisans hata Web'de Outlook'taki Alma 125?
+title: 125 Web'de Outlook'ta geçersiz bir lisans hatası mı alalıyorum?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: d0f3fa354eb63c5a5f92d017694623c36fc6df30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9324726709423aeb290fcc1866ade5517f71c1ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523819"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708851"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Outlook web üzerinde geçersiz lisans hatayla karşılaşıyor musunuz?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Web'de Outlook'ta geçersiz bir lisans hatası mı alaçıkıyormusunuz?
 
-Web'de Outlook kullanıyorsanız ve **bir şeylerin yanlış gittiğini** bir hata almak içeren **X OWA hata: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, Exchange Online Lisansınızı doğru olarak atanmamış veya son var. süresi dolmuş. Yöneticinizden aşağıdaki adımları izleyerek bir lisans için atayabilirsiniz:
+Web'de Outlook kullanıyorsanız ve X-OWA Hatası içeren bir **yanlış** hata alırsanız: **Microsoft.Exchange.Data.Storage.InvalidLicenseException**, Exchange Online lisansınız doğru şekilde atanmamış veya yakın zamanda süresi dolmuş. Yöneticiniz aşağıdaki adımları izleyerek size bir lisans atayabilir:
   
-1. [Microsoft 365 Yönetim Merkezi'ni](https://portal.office.com/adminportal/home#/homepage) açın ve **Etkin kullanıcılar** **Kullanıcı Düzenle**seçin.
+1. Microsoft [365 yönetici merkezini](https://portal.office.com/adminportal/home#/homepage) açın ve **Etkin kullanıcılar** **altında, bir kullanıcıyı edit'i**seçin.
 
-2. Açan **bir kullanıcı Düzenle** sayfasında, kullanıcıyı seçin. Açan kullanıcı Özellikler sayfasında, **Ürün lisansları**için **Düzenle** ' yi tıklatın.
+2. Açılan **bir kullanıcı** sayfasını edit'te, kullanıcıyı seçin. Açılan kullanıcı özellikleri sayfasında Ürün **lisansları**için **Edit'i** tıklatın.
 
-3. **Ürün lisansları** sayfasında uygun **Konum** değeri seçin ve Exchange Online içeren bir lisans atayın (ayrıntılarını görmek için lisans'ı genişletin). Bitirdiğinizde, **Kaydet**'i tıklatın.
+3. Açılan **Ürün lisansları** sayfasında, uygun **Konum** değerini seçin ve Exchange Online içeren bir lisans atayın (ayrıntılarını görmek için lisansı genişletin). Bitirdiğinizde, **Kaydet**'i tıklatın.

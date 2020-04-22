@@ -1,9 +1,9 @@
 ---
-title: 127 e-posta erişirken bir TenantAccessBlockedException hatası alınıyor?
+title: 127 E-posta erişirken bir TenantAccessBlockedException hatası başlarken?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523999"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708923"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>E-posta erişirken bir TenantAccessBlockedException hatası alıyorsunuz?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>E-postaya erişirken TenantAccessBlockedException hatası mı alıyoruz?
 
-Bu hata iletisini neden birkaç farklı nedenleri vardır. Örneğin:
+Bu hatayı almanızın birkaç farklı nedeni vardır. Örneğin:
 
-- Aboneliğiniz geçerli **Fatura** üzerinde olduğundan emin olun \> [ürünleri & services](https://portal.office.com/adminportal/home#/subscriptions) sayfasında Microsoft 365 Yönetim Merkezi.
+- Aboneliğinizin Microsoft 365 yönetici merkezindeki **Faturaürünleri** \> [& hizmetler](https://portal.office.com/adminportal/home#/subscriptions) sayfasında geçerli olduğunu doğrulayın.
 
-- Vadesi geçmiş herhangi bir onay bildirimleri **Fatura** üzerinde \> [& ödemeler kambiyo senetleri](https://portal.office.com/adminportal/home#/billoverview) Microsoft 365 Yönetim Merkezi sayfasında.
+- Microsoft 365 yönetici merkezindeki **Fatura** \> [faturaları & ödemeler](https://portal.office.com/adminportal/home#/billoverview) sayfasında geçmiş bildirimleri denetleyin.
 
-- Faturalama ve abonelik hesabınız için yeni yükseltildiyse, değişikliklerin yaymak zaman alabilir. Sorun devam ederse, bize ulaşın ve birkaç dakika içinde yeniden deneyin.
+- Hesabınızın faturalandırması ve abonelikleri yakın zamanda güncelleştirildiyse, değişikliklerin yayılması zaman alabilir. Birkaç dakika içinde tekrar deneyin ve sorun devam ederse, bize ulaşın.

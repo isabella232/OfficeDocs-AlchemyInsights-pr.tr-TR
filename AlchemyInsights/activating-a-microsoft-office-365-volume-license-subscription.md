@@ -1,9 +1,9 @@
 ---
-title: Microsoft Office 365 birim lisans abonelik etkinleştirme
+title: Microsoft Toplu Lisans Aboneliğini Etkinleştirme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661208"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708779"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Microsoft Office 365 birim lisans abonelik etkinleştirme
+# <a name="activating-a-microsoft-volume-license-subscription"></a>Microsoft Toplu Lisans Aboneliğini Etkinleştirme
 
-1. İçin [Birim Lisans Hizmet Merkezi (VLSC) portal](http://go.microsoft.com/fwlink/p/?LinkId=329762)oturum açın.
+1. Toplu Lisans [Lama Hizmet Merkezi (VLSC) portalınızda](https://go.microsoft.com/fwlink/p/?LinkId=329762)oturum açın.
 
-2. Office 365 aboneliğinizi gidin ve **Etkinleştir**' i seçin.
+2. Aboneliğinize gidin ve **Etkinleştir'i**seçin.
 
-3. Çevrimiçi Hizmetler (OLS) kişiye bir e-posta gönderilir.
+3. Çevrimiçi Hizmetler (OLS) İletişim'inize bir e-posta gönderilecektir.
 
-4. Etkinleştirme e-posta size iki seçenek sağlar: **kaydolun**veya **oturum açın**. Bir deneme daha önce oluşturduysanız, **Oturum Aç'ı**seçin. Office 365 Kiracı henüz yoksa, **kayıt**' ı seçin.
+4. Etkinleştirme e-postası size iki seçenek sunacak: **Kaydolun**veya **oturum açın.** Daha önce bir deneme sürümü oluşturduysanız, **Oturum Aç'ı**seçin. Henüz bir Microsoft 365 kiracınız yoksa **Kaydol'u**seçin.
 
-5. Oturum Microsoft 365 Yönetim merkezine ([https://admin.microsoft.com](https://admin.microsoft.com)), varolan Office 365 Yönetici kimlik bilgilerini kullanarak. Başarıyla oturum açtıktan sonra satın aldığınız onaylayan başka bir e-posta alırsınız.
+5. Varolan yönetici kimlik bilgilerinizi kullanarak[https://admin.microsoft.com](https://admin.microsoft.com)Microsoft 365 yönetici merkezinde oturum açın. Başarılı bir şekilde oturum imzaladıktan sonra, satın alma işlemini onaylayan başka bir e-posta alırsınız.
 
-6. Oturumu açmadıysanız sonra **Faturalama** için gidebilirsiniz \> [ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfası içinde Kiracı, satın alınan Office 365 abonelikleri etkinleştirilir doğrulamak için. (Ayrıca **Abonelik** sekmesi aboneliğinizi yatırılan doğrulama ayrıntıları görüntülemek için VLSC seçebilirsiniz.)
+6. Oturum açmanız sonrasında, satın aldığınız aboneliklerin kiracınızda etkinleştirildiğini doğrulamak için **Faturalama** \> [Ürünleri & hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidebilirsiniz. (Aboneliğinizin yatırıldığını doğrulayan ayrıntıları görüntülemek için VLSC'deki **Abonelik** sekmesini de seçebilirsiniz.)
