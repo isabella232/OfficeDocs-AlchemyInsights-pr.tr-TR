@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132631"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703699"
 ---
 # <a name="enable-an-archive-mailbox"></a>Arşiv posta kutusunu etkinleştirme
 
@@ -25,7 +25,7 @@ Arşiv posta kutusu şu şekilde oluşturulur:
   
 1. [https://protection.office.com](https://protection.office.com) adresine gidin.
 
-2. Yönetici hesabınızı kullanarak Office 365'te oturum açın.
+2. Yönetici hesabınızı kullanarak Microsoft 365'te oturum açın.
 
 3. Güvenlik &amp; Uyumluluk Merkezi'nin sol bölmesinde **Bilgi yönetimi** \> **Arşivi'ni**seçin.
 
@@ -51,6 +51,6 @@ Paylaşılan bir posta kutusu için arşivi etkinleştirmek için:
 
 Daha fazla bilgi için bkz.:
   
-- [Office 365'te arşiv posta kutularını etkinleştirme](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Arşiv posta kutularını etkinleştirme](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Office 365'te arşiv ve silme ilkesi ayarlama](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Arşiv ve silme ilkesi ayarlama](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

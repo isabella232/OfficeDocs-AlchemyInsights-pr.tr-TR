@@ -1,9 +1,9 @@
 ---
-title: Fiyat doğru görünmüyor?
+title: Fiyat doğru görünmüyor mu?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: d48e28a3166b3b7f55abdd1e25b830c6dbe0ee56
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 7bba6524807f17ddc786319f469bf22b50f4a845
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388512"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666725"
 ---
-# <a name="price-doesnt-look-correct"></a>Fiyat doğru görünmüyor?
+# <a name="price-doesnt-look-correct"></a>Fiyat doğru görünmüyor mu?
 
-Faturanızı fiyatını doğru görünmüyorsa, bu yenileme sırasında fiyat değişikliği nedeniyle olabilir. Bu sorunu açıklıyor yoksa düşünüyorsanız, bir destek mühendisine konuşmak için "siz bizi arayın" seçeneğini kullanın.
+Faturanızdaki fiyat doğru görünmüyorsa, bunun nedeni yenilemedeki bir fiyat değişikliği olabilir. Bunun sorunu açıkladığına inanmıyorsanız, lütfen bir destek mühendisiyle konuşmak için "Sizi arayalım" seçeneğini kullanın.

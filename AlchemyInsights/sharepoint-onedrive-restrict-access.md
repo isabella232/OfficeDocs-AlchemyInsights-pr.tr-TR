@@ -2,18 +2,18 @@
 title: SharePoint veya OneDrive'da erişimi kısıtlama
 ms.author: pebaum
 author: pebaum
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 242388af3ae8887616fc123f24502a8e5ac8dfbe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 39aa8cd6e649eca4a1e196eeb589a825364d0977
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053785"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692785"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>SharePoint veya OneDrive'da erişimi kısıtlama
 
@@ -31,7 +31,7 @@ SharePoint Online ve OneDrive for Business'ta, siteler, dosyalar ve klasörler g
 
 - [Yönetilmeyen cihazlardan erişimi denetleme](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-Office 365'te SharePoint veya global yönetici olarak, yönetilmeyen aygıtlardan SharePoint ve OneDrive içeriğine erişimi engelleyebilir veya sınırlandırabilirsiniz (Karma AD'nin Intune'da katıldığı veya uyumlu olmayanlar).
+SharePoint veya global yönetici olarak, yönetilmeyen aygıtlardan SharePoint ve OneDrive içeriğine erişimi engelleyebilir veya sınırlandırabilirsiniz (Intune'da hibrit AD'ye katılmayanveya uyumlu olmayanlar).
 
 **Ağ Konumu Kısıtlaması**
 
@@ -43,5 +43,5 @@ SharePoint Online'da bir site koleksiyonunu kilitleme olanağınız vardır, bö
 
 **Kullanıcıların site veya alt site oluşturmalarını kısıtlama**
 
-SharePoint yöneticisi veya Office 365 global yöneticisi olarak, kullanıcılarınızın kendi SharePoint sitelerini oluşturmasına ve yönetmesine, ne tür siteler oluşturabileceklerini belirlemesine ve sitelerin konumunu belirtebildiği ne kadar sınamasına izin verebilirsiniz. Daha fazla bilgi için lütfen [SharePoint Online'da site oluşturmayı yönet'e](https://docs.microsoft.com/sharepoint/manage-site-creation) bakın
+SharePoint yöneticisi veya Global yönetici olarak, kullanıcılarınızın kendi SharePoint sitelerini oluşturmasına ve yönetmesine, ne tür siteler oluşturabileceklerini belirlemesine ve sitelerin konumunu belirtebildiği ne kadar sınamasına izin verebilirsiniz. Daha fazla bilgi için lütfen [SharePoint Online'da site oluşturmayı yönet'e](https://docs.microsoft.com/sharepoint/manage-site-creation) bakın
 

@@ -1,29 +1,29 @@
 ---
-title: SharePoint, OneDrive ve takımlar Microsoft Office 365 KM etkinleştir
+title: SharePoint, OneDrive ve Microsoft Ekipleri için Office 365 ATP'yi etkinleştirme
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: ae2f574663ae3233a056589c2d5a578171f3b2f4
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fdfdc97a198898051a3388672d01994d96dd5e97
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403053"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703446"
 ---
-# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Çevrimiçi SharePoint, OneDrive ve takımlar Microsoft Office 365 Gelişmiş tehdit korumayı etkinleştir
+# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>SharePoint Online, OneDrive ve Microsoft Ekipleri için Office 365 Gelişmiş Tehdit Koruması'nı etkinleştirme
 
-1. Git https://protection.office.com ve oturum açın.
-2. **Tehdit Yönetimi**seçin > **ilke** > **Güvenli ekler**.
-3. **SharePoint, OneDrive, ve Microsoft ekipleri KM Aç**' ı seçin ve **Kaydet**' i tıklatın.
-4. (Önerilen) Genel yönetici veya çevrimiçi SharePoint Yöneticisi **DisallowInfectedFileDownload** parametresi *doğru*ayarlanmış [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet'ini çalıştırın.
-5. (Önerilen) [Uyarıları ayarlamak](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) için algılanan dosyaları.
+1. Git https://protection.office.com ve oturum aç.
+2. **Tehdit yönetimi** > **Ilkesi** > **Güvenli Ekleri**seçin.
+3. **SharePoint, OneDrive ve Microsoft Teams için ATP'yi aç'ı**seçin ve ardından **Kaydet'i**tıklatın.
+4. (Tavsiye edilir) Global bir yönetici veya SharePoint Online yöneticisi olarak, **DisallowInfectedFileDownload** parametresini *doğru*olarak ayarlı setile [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet'i çalıştırın.
+5. (Tavsiye edilir) Algılanan dosyalar için [uyarılar ayarlayın.](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files)
 
 > [!NOTE]
-> ATP nBaşka tarama her tek dosyada SharePoint çevrimiçi, OneDrive veya Microsoft Teams olur. Dosyaları paylaşma ve Konuk etkinlik olaylarını, akıllı buluşsallık ve kötü amaçlı dosyaları tanımlamak için tehlike sinyalleri ile birlikte kullanan bir işlem üzerinden zaman uyumsuz olarak taranır. Bkz: [https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+> ATP, SharePoint Online, OneDrive veya Microsoft Teams'deki her bir dosyayı taramaz. Dosyalar, kötü amaçlı dosyaları tanımlamak için akıllı sezgisel ve tehdit sinyallerinin yanı sıra paylaşım ve konuk etkinlik etkinliklerini kullanan bir işlem aracılığıyla eş senkronize olarak taranır. Bkz. [https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).

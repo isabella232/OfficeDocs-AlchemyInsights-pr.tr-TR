@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e652fc1ae0a7212f4c7f092fc3b184ef1bc13d0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053929"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692893"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Uyarı iletisi: Kuruluşunuzun ilkeleri bu kullanıcılarla paylaşmanıza izin vermiyor
 
-Kullanıcılar, kuruluşunuzun dış kullanıcılarıyla paylaşmaya çalışırken bir uyarı iletisi yaşayabilir. İleti, **kuruluşunuzun ilkelerinin bu kullanıcılarla paylaşmanıza izin vermeyebilmesidir. Etkinleştirmek için Office 365 yönetici merkezinde Dış Paylaşım'a gidin.** Bu genellikle ilk kez dış kullanıcılarla paylaşmaya çalışırken veya yeni dış kullanıcılarla paylaşırken gerçekleşir.
+Kullanıcılar, kuruluşunuzun dış kullanıcılarıyla paylaşmaya çalışırken bir uyarı iletisi yaşayabilir. İleti, **kuruluşunuzun ilkelerinin bu kullanıcılarla paylaşmanıza izin vermeyebilmesidir. Etkinleştirmek için Microsoft 365 yönetici merkezinde Dış Paylaşım'a gidin.** Bu genellikle ilk kez dış kullanıcılarla paylaşmaya çalışırken veya yeni dış kullanıcılarla paylaşırken gerçekleşir.
 
 Kuruluşunuz için **SharePoint ve OneDrive Dış Paylaşım ayarlarını** kontrol edin.
 

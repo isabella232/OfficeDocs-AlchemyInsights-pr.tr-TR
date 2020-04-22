@@ -1,9 +1,9 @@
 ---
-title: Outlook.com recover silinmiş e-posta
+title: Silinen e-postayı Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: a5ef44f8024e5718f26df9fd4f7f2ef4a6390544
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc2b78e4cef7c7dac208ce893c1700b680b58217
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545417"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666977"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Recover silinmiş e-posta Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>Silinen e-posta Outlook.com kurtarma
 
-1. Sol bölmede, **Silinmiş öğeler**' i seçin.
-2. Kurtarma ve **Geri Yükleme'yi**seçmek için istediğiniz öğeyi seçin.
-3. İleti Silinmiş Öğeler'de değilse, pencerenin üstündeki **Bu klasörden silinen öğeleri kurtarma** seçin.
+1. Sol bölmede **Silinmiş Öğeler'i**seçin.
+2. Kurtarmak istediğiniz öğeyi seçin ve **Geri Yükle'yi**seçin.
+3. İleti Silinmiş Öğeler'de değilse, pencerenin üst kısmında **bu klasörden silinen öğeleri kurtar'ı** seçin.
 
- **Silinmiş öğeleri hakkında önemli bilgiler:**
+ **Silinen öğeler hakkında önemli bilgiler:**
   
-- Silinmiş Öğeler klasöründen kaldırılan öğeler 30 gün süreyle kurtarılabilir.
-- 365 gün için hesabınıza henüz kaydolduysanız, e-posta adresiniz silinir ve kurtarılamaz.
-- Silinen alt hesaplarından e-posta kurtarmak mümkün değildir.
+- Silinmiş Öğeler klasörünüzden kaldırılan öğeler 30 gün boyunca kurtarılabilir.
+- Hesabınızda 365 gündür oturum açmadıysanız, e-postanız silinir ve kurtarılamaz.
+- Alt hesaplardan silinen e-postaları kurtarmak mümkün değildir.
 
-Daha fazla bilgi için bkz: [geri yükleme silinmiş e-posta iletilerinde Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+Daha fazla bilgi için [Outlook.com'da silinen e-posta iletilerini geri yükleme'ye](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)bakın.

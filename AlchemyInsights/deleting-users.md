@@ -12,16 +12,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: efc3680dccdf71b28049d31d86a6d5417437b769
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7867d31cd3d99d038775150eb69e8d92b77daa32
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740521"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655158"
 ---
 # <a name="deleting-users"></a>Kullanıcıları silme
 
-Kullanıcı erişimini hemen engellemek ve bilgilerini saklamanız gerekiyorsa, lütfen [eski bir çalışanın Office 365 verilerine erişimini engelle'e](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data)bakın.
+Kullanıcı erişimini hemen engellemek ve bilgilerini saklamanız gerekiyorsa, lütfen [eski bir çalışanın Microsoft 365 verilerine erişimini engelle'e](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data)bakın.
   
 Yalnızca kullanıcıyı silmek istiyorsanız ve verilerinden herhangi biriyle ilgilenmiyorsanız, lütfen [bir kullanıcıyı kuruluşunuzdan sil'e](https://docs.microsoft.com/office365/admin/add-users/delete-a-user)bakın. Bu, lisanslarını hemen serbest kalacaktır.
   

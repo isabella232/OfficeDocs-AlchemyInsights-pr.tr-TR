@@ -3,7 +3,7 @@ title: Yalnızca okundu'u aç
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822254"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702794"
 ---
 # <a name="file-open-read-only"></a>Yalnızca okundu'u aç
 
@@ -37,7 +37,7 @@ Internet'ten ve diğer güvenli olmayan konumlardan gelen dosyalar, bilgisayarı
   
  **OneDrive dolu mu?**
   
-Dosya OneDrive'da depolanırsa ve OneDrive depolama alanınız doluysa, ayrılan alanın altına gelene kadar belgeyi kaydedemezsiniz. Bildirim merkezindeki OneDrive simgesine tıklayıp depolamayı yönet'i seçerek OneDrive'daki boş alanınızı kontrol edebilir veya [http://onedrive.live.com](http://onedrive.live.com)ekranın sol alt tarafındaki oturum açma ve kullanılan alan miktarına dikkat edebilirsiniz.
+Dosya OneDrive'da depolanırsa ve OneDrive depolama alanınız doluysa, ayrılan alanın altına gelene kadar belgeyi kaydedemezsiniz. Bildirim merkezindeki OneDrive simgesine tıklayıp depolamayı yönet'i seçerek OneDrive'daki boş alanınızı kontrol edebilir veya [https://onedrive.live.com](https://onedrive.live.com)ekranın sol alt tarafındaki oturum açma ve kullanılan alan miktarına dikkat edebilirsiniz.
   
  **Office etkinleştirildi mi?**
   

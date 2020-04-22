@@ -12,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661316"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687638"
 ---
-# <a name="office-365-alert-policies"></a>Office 365 Uyarı ilkeleri
+# <a name="alert-policies"></a>Uyarı ilkeleri
 
-Office 365 Güvenlik & Uyumluluk Merkezi, Office 365 Enterprise veya Office 365 ABD Devlet E1/G1, E3/G3 veya E5/G5 aboneliği olan kuruluşlar için uyarıları tetikleyen [varsayılan uyarı ilkeleri](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) sunar. Bu nedenle, yöneticiler Office365Alerts@microsoft.com tarafından gönderilen "Düşük önem eyanır: *uyarı ilkesinin adı*" gibi bir konu satırı içeren bir uyarı e-posta bildirimi alabilir. Uyarılar, kullanıcılar gibi yaygın etkinlikler için uyarılar tetiklendiğinde uyarı bildirimleri gönderilir:
+Microsoft 365 güvenlik & Uyumluluk Merkezi, Office 365 Enterprise veya Office 365 ABD Devlet E1/G1, E3/G3 veya E5/G5 aboneliği olan kuruluşlar için uyarıları tetikleyen [varsayılan uyarı ilkeleri](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) sunar. Bu nedenle, yöneticiler Office365Alerts@microsoft.com tarafından gönderilen "Düşük önem eyanır: *uyarı ilkesinin adı*" gibi bir konu satırı içeren bir uyarı e-posta bildirimi alabilir. Uyarılar, kullanıcılar gibi yaygın etkinlikler için uyarılar tetiklendiğinde uyarı bildirimleri gönderilir:
 
 - E-posta ilegönderilen gelen kutusu kurallarını oluşturun.
 - İzinleri posta kutularını atayın.

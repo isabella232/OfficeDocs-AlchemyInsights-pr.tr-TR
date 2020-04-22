@@ -10,16 +10,16 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: cb8123583b68e945ef878fdbaf211fd1d8205bb3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 977bd5887ef58b328463a9befcd6b47ac55f5a85
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050509"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687278"
 ---
 # <a name="access-services-retirement"></a>Erişim hizmetleri emeklilik
 
-İlk olarak MC97576'da, Mart 2017'de duyurduğumuz ve geçtiğimiz yıl içinde iletişim kurmaya devam ettiğimiz gibi Access Services, Office 365'ten emekliye ayrıldı. Bu işlemin bir sonraki aşaması, SharePoint listelerini temel veri depolama alanı olarak kullanan Access Web Veritabanlarının kaldırılması olacaktır.
+İlk olarak MC97576'da, Mart 2017'de duyurduğumuz ve geçtiğimiz yıl içinde iletişim kurmaya devam ettiğimiz gibi Erişim Hizmetleri emekliye uymaktadır. Bu işlemin bir sonraki aşaması, SharePoint listelerini temel veri depolama alanı olarak kullanan Access Web Veritabanlarının kaldırılması olacaktır.
 
 **Bu beni nasıl etkiliyor?**
 

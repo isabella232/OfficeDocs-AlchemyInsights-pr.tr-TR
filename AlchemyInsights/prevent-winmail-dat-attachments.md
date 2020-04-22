@@ -1,32 +1,32 @@
 ---
-title: 2589, kuruluşunuzdan e-posta iletilerine Winmail.dat ekleri engellemek
+title: 2589 Kuruluşunuzdan gelen e-posta iletilerinde Winmail.dat eklerini önlemeye yardımcı olun
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2589
 ms.assetid: ''
-ms.openlocfilehash: 41ab3f22499994cda5883834ff54e5767c69265b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5336d4087e0a7579b68d6d97073726d020c89b47
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391595"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666761"
 ---
-# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>E-posta iletilerine Winmail.dat ekleri, kuruluşunuzdan engellemek
+# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Kuruluşunuzdan gelen e-posta iletilerinde Winmail.dat eklerini önlemeye yardımcı olun
 
-Bir yönetici olarak aşağıdaki adımları deneyin:
+Yönetici olarak şu adımları deneyin:
 
-1. [Exchange Yönetim Merkezi'ni](https://outlook.office365.com/ecp/)açın.
+1. Exchange [yönetici merkezini](https://outlook.office365.com/ecp/)açın.
 
-2. **Posta akışı**Git > **Uzak etki alanları**.
+2. Posta **akışı** > **Uzak etki alanları**gidin.
 
-3. **Varsayılan**adlı varsayılan uzak etki alanını seçin ve sonra **Düzenle**' yi tıklatın.
+3. **Varsayılan**varsayılan uzak etki alanını seçin ve sonra **Edit'i**tıklatın.
 
-4. **Kullanım zengin metin biçimli** bölümünde, **hiçbir zaman**seçeneğini seçin.
+4. Zengin **metin biçimini kullan** bölümünde **Asla'yı**seçin.
 
-Daha fazla bilgi için bkz: [Uzak etki alanlarına ileti biçimini belirtin](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).
+Daha fazla bilgi için bkz. [Uzak etki alanları için ileti biçimini belirtin.](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format)

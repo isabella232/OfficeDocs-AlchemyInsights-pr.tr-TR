@@ -1,9 +1,9 @@
 ---
-title: Outlook.com Outlook.com için oturum açamazsınız
+title: Outlook.com Outlook.com oturum açamıyorum
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "541"
 - "8000024"
 ms.assetid: 46b0a31f-c4fc-4ecb-a18d-26a13a6b0aa4
-ms.openlocfilehash: de71c0980b775060131b0c8d15bfc62750393d25
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88526fdee1cf22380efd863bc808af613962e49a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537391"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698438"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a>Outlook.com için oturum açamıyorsunuz.
+# <a name="cant-sign-in-to-outlookcom"></a>Outlook.com oturum açamıyorum
 
-Hesabınıza oturum sorunları yaşıyorsanız, hesabınız 365 günden fazla etkin olmamıştır emin olun. 365 gün kaldıktan sonra e-posta silinir ve kurtarılamaz.
+Hesabınızda oturum açmakta sorun yaşıyorsanız, hesabınızın 365 günden uzun süredir etkin olmadığından emin olun. 365 günlük hareketsizlikten sonra e-postanız silinir ve kurtarılamaz.
   
-Biz bazı olağandışı işareti etkinlik fark çünkü hesabınız geçici olarak engellenmiş olabilir. Hesabınız engellenmişse, okuma [Engellemeyi Kaldır Outlook.com Hesabımı](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy)nasıl.
+Olağandışı oturum açma etkinliği fark ettiğimiz için hesabınız geçici olarak engellenmiş olabilir. Hesabınız engellendiyse, [Outlook.com hesabımın engelini](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy)nasıl kaldırabilirsiniz' i okuyun.
   
-Outlook.com hesabınızı ele şüpheleniyorsanız, [My Outlook.com hesap korsan saldırısı](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)bakın.
+Outlook.com hesabınızın ele geçirildiğini sanıyorsanız, [Outlook.com hesabımın ele geçirildiğini](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)görün.
   
-Unutulan veya parolanızı kayıp, [parolanızı sıfırlamak](https://go.microsoft.com/fwlink/p/?LinkID=242804)için.
+Parolanızı unuttuysanız veya kaybettiyseniz, [parolanızı sıfırlayabilirsiniz.](https://go.microsoft.com/fwlink/p/?LinkID=242804)
   
-[Microsoft hesabınıza oturum açtığınızda](https://go.microsoft.com/fwlink/p/?linkid=837479)hakkında daha fazlasını okuyun.
+[Microsoft hesabınızda oturum açamadığınız zaman](https://go.microsoft.com/fwlink/p/?linkid=837479)hakkında daha fazla bilgi edinin.
   

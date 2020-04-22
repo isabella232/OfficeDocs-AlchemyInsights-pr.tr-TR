@@ -1,5 +1,5 @@
 ---
-title: Denetim günlüğünü etkinleştirmek ve arama
+title: Denetim günlüğünü etkinleştirme ve arama
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,38 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665096"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703663"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Etkinleştirme ve denetim günlüğü arama
+# <a name="enable-and-search-the-audit-log"></a>Denetim günlüğünü etkinleştirme ve arama
 
-**Office 365**
+**Microsoft 365**
 
-Office 365 denetim günlüğü aramak için [aşağıdaki adımları](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)izleyin.
+Microsoft 365 denetim günlüğünde arama yapmak için [aşağıdaki adımları](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)izleyin.
 
 **Exchange**
 
-- Exchange Yönetim etkinlikleri, varsayılan olarak denetlenir.
+- Exchange yöneticisi etkinlikleri varsayılan olarak denetlenir.
 
-- Posta kutusu denetimi Office 365'te varsayılan olarak etkindir. [Bu makalede](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)daha fazla bilgi için bkz.
+- Posta kutusu denetimi Varsayılan olarak Microsoft 365'te etkinleştirilir. Daha fazla bilgi için [bu makaleye](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)bakın.
 
-- Denetim günlüğü, Office 365 Grup posta kutularının ve ortak klasör posta kutularına Exchange Online desteklemez.
+- Exchange Online'daki Office 365 Grup posta kutuları ve ortak klasör posta kutuları denetim günlüğe kaydetmeyi desteklemez.
 
 **SharePoint ve OneDrive**
 
-- SharePoint ve OneDrive için denetimi etkinleştirmek için gereken ek bir yapılandırma yok.
+- SharePoint ve OneDrive için denetimi etkinleştirmek için ek yapılandırma gerekmez.
 
-- SharePoint ve OneDrive denetim faaliyetleri aşağıdaki türlerini destekler:
+- SharePoint ve OneDrive aşağıdaki türetkinlikleri denetlemeyi destekler:
 
     - Dosya, klasör ve sayfa etkinlikleri
-    - Paylaşım ve erişim isteği faaliyetleri
-    - Site Yönetimi etkinlikleri
-    - Dosya eşitleme etkinliklerini
+    - İstek etkinliklerini paylaşma ve erişim
+    - Site yönetimi faaliyetleri
+    - Dosya eşitleme etkinlikleri
 
-- Diğer Office 365 hizmetlerinde denetlenen faaliyetler hakkında daha fazla bilgi için [Bu makaledeki tablosuna](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities)bakın.
+- Diğer hizmetlerde denetlenen faaliyetler hakkında bilgi için [bu makaledeki tabloya](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities)bakın.
 
-- Denetim günlüğü arama hakkında sık sorulan sorular [Sık sorulan sorular](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) listesini burada.
+- Burada denetim günlüğü arama hakkında [sık sorulan soruların](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) bir listesi.

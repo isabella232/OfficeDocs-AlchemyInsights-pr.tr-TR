@@ -10,18 +10,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 18a313ef54d94374b475ebc7f98c8ad62c5b0ee7
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3e703bfb7ac8a1932231e9a6f7bcd942c13cc2e0
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054506"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642020"
 ---
 # <a name="organization-policy-settings-for-external-users"></a>Dış kullanıcılar için Kuruluş İlkesi ayarları
 
 Kullanıcılar kuruluşunuzun dış kullanıcılarıyla paylaşmaya çalıştıklarında aşağıdaki uyarı iletisini görebilirler: 
 
-   **Kuruluşunuzun ilkeleri bu kullanıcılarla paylaşmanıza izin vermez. Etkinleştirmek için Office 365 yönetici merkezinde Dış Paylaşım'a gidin.** 
+   **Kuruluşunuzun ilkeleri bu kullanıcılarla paylaşmanıza izin vermez. Etkinleştirmek için Microsoft 365 yönetici merkezindeki Dış Paylaşım'a gidin.** 
 
 Bu genellikle ilk kez dış kullanıcılarla paylaşmaya çalışırken veya yeni dış kullanıcılarla paylaşırken gerçekleşir. Daha fazla bilgi için lütfen aşağıdaki makaleye bakın:
 

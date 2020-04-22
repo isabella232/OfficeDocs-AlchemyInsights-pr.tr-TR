@@ -1,9 +1,9 @@
 ---
-title: 1800001 Sil profili
+title: 1800001 Profili sil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 8/29/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,30 +13,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: da0897bf834c7b96eb5e6035457ef664c486c7ae
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b3822a7b90048cb8f0447eeb80ca1c457a17918e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513235"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704853"
 ---
 # <a name="delete-a-profile"></a>Profili silme
 
 Bir profili silmek için aşağıdaki adımları kullanın.
   
-1. Outlook'ta, **Dosya** seçin \> **Hesap ayarları** \> **Profillerini yönetme**.
+1. Outlook'ta **Dosya** \> **Hesabı Ayarlarını** \> **Yönet Profillerini**seçin.
 
-2. **Profilleri Göster**' i seçin.
+2. **Profilleri Göster'i**seçin.
 
-3. **Posta** iletişim kutusunda, silmek istediğiniz profili seçin ve sonra **Kaldır**' ı tıklatın.
+3. **Posta** iletişim kutusunda, silmek istediğiniz profili seçin ve ardından **Kaldır'ı**tıklatın.
 
     > [!NOTE]
-    > Outlook profilinizin silinmesi çevrimdışı verileri kaldırır uyarmak. Outlook veri dosyaları (.pst) içinde saklanan bilgileri kaybetmez ya da herhangi bir bilgi çevrimiçi hesaplarınıza içinde örneğin Outlook.com, Exchange veya Office 365 hesapları depolanabilir.
+    > Outlook, profilinizi silmenin çevrimdışı verileri kaldıracağı konusunda sizi uyarabilir. Outlook Veri Dosyalarınızda (.pst) depolanan hiçbir bilgiyi veya çevrimiçi hesaplarınızda depolanan Outlook.com, Exchange veya Microsoft 365 hesapları gibi bilgileri kaybetmezsiniz.
   
-**Mac için Outlook** profili Yönetimi [profillerini yönet veya Outlook for Mac kimlikleri](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) bakın veya aşağıdaki adımları kullanın.
+Mac profil yönetimi **için Outlook** için [bkz.](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx)
   
-1. Finder'dan, **uygulamalar** klasörünü açın.
+1. Finder'dan **Uygulamalar** klasörünü açın.
 
-2. Ctrl + tıklatın veya **Microsoft Outlook**sağ tıklatın ve seçin **Paket içeriğini göster**.
+2. Ctrl+click veya sağ tıklatıldığında **Microsoft Outlook'u**tıklatın ve ardından **Paket İçeriklerini Göster'i**seçin.
 
-3. **İçeriklerini** seçmek için \> **Destek paylaşılan**ve sonra **Outlook Profil Yöneticisi'ni**başlatma.
+3. **Paylaşılan İçerikleri** \> Seçin **ve**ardından Outlook **Profil Yöneticisi'ni**başlatın.

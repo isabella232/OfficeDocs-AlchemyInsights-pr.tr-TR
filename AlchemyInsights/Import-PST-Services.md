@@ -1,9 +1,9 @@
 ---
-title: 1245-Al-PST-hizmetler
+title: 1245-İthalat-PST-Hizmetleri
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496383"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687782"
 ---
-# <a name="office-365-import-service"></a>Office 365 alma hizmeti
+# <a name="microsoft-365-import-service"></a>Microsoft 365 Alma hizmeti
 
-Office 365 alma hizmeti birden fazla PST dosyaları çevrimiçi Exchange posta kutularına toplu alma işlemi için izin verir.
+Microsoft 365 Alma hizmeti, birden çok PST dosyasını Exchange Online posta kutularına toplu olarak almanızı sağlar.
 
 Alma hizmetine erişmek ve alma işlemini başlatmak için:
 
-1. [Güvenlik & Uyumluluk Merkezi](https://protection.office.com) için gidin ve Office 365 kuruluşunuzdaki bir yönetici hesabının kimlik bilgilerini kullanarak oturum açın.
+1. [Güvenlik & Uyumluluk Merkezi'ne](https://protection.office.com) gidin ve kuruluşunuzdaki bir yönetici hesabının kimlik bilgilerini kullanarak oturum açın.
 
-2. **Güvenlik & Uyumluluk Merkezi**sol bölmede, **veri yönetim > Al'ı**tıklatın.
+2. **Güvenlik & Uyumluluk Merkezi'nin**sol bölmesinde **Veri yönetişim>i**tıklatın.
 
-3. **Al** sayfasında, **Yeni iş Al**' ı tıklatın.
+3. **Alma** sayfasında, **Yeni alma işini**tıklatın.
 
-4. Lütfen Sihirbazı'ndaki adımları tamamlamak için bu [adım adım yönergeleri](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)izleyin.
+4. Sihirbazdaki adımları tamamlamak için lütfen bu [adım adım yönergeleri](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)izleyin.
 
-**Önemli**: **Al** sayfasında güvenlik & Uyumluluk Merkezi erişmek için olması atamış [uygun izinleri](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**Önemli**: Güvenlik & Uyumluluk Merkezi'ndeki **Alma** sayfasına erişmek için [size uygun izinler](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin)atanmıştır.
 
-Posta kutunuza bir PST almak istiyorsanız, [Bu makaleye](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)bakın.
+Posta kutunuza bir PST almak istiyorsanız, [bu makaleye](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)bakın.

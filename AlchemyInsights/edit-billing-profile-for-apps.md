@@ -1,9 +1,9 @@
 ---
-title: Uygulamalar için faturalama profilini düzenle
+title: Uygulamalar için faturalandırma profilini edin
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 6edfe19d9b4f75f93e80fac3f36d6b94b40f661a
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606993"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703915"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Uygulamalar için faturalama profilini düzenle
+# <a name="edit-billing-profile-for-apps"></a>Uygulamalar için faturalandırma profilini edin
 
-## <a name="to-change-the-billing-profile-on-apps"></a>Apps faturalama profilini değiştirmek için
+## <a name="to-change-the-billing-profile-on-apps"></a>Uygulamalardaki faturalandırma profilini değiştirmek için
 
-1. **Faturalama**Git > [ürünleri & services](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfa, sonra **uygulamalar** sekmesini seçin.
+1. **Faturalama** > [Ürünleri & hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin ve ardından **Uygulamalar** sekmesini seçin.
 
-2. Bulmak ve yönetmek istediğiniz uygulamayı seçin.  
+2. Yönetmek istediğiniz uygulamayı bulun ve seçin.  
 
-3. **Profil faturalama**yanındaki **Düzenle** ' yi seçin ve uygulama ile ilişkilendirmek istediğiniz faturalama profili seçin.
+3. **Faturalama profilinin** **yanında, Edit'i** seçin ve uygulamayla ilişkilendirmek istediğiniz faturalandırma profilini seçin.
 
-## <a name="edit-billing-profiles"></a>Faturalama profilini düzenleme
+## <a name="edit-billing-profiles"></a>Fatura profillerini edin
 
-1. **Faturalama**Git > [& ödemeler kambiyo senetleri](https://go.microsoft.com/fwlink/p/?linkid=848039) sayfa sonra **Faturalama profilleri**seçin.
+1. **Fatura** > [faturaları & ödemeler](https://go.microsoft.com/fwlink/p/?linkid=848039) sayfasına gidin, ardından **Faturalandırma profillerini**seçin.
 
-2. Faturalama profili düzenlemek için listeden seçin.
+2. Listedeki fatura profilini seçin.

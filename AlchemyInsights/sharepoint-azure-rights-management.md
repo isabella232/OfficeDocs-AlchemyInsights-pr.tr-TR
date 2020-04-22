@@ -7,19 +7,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 4a04134c1e2e6569302756f3b6be213283638a0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8b5f22269cab0ed0984bcb33703b49e943ef2446
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40046763"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642272"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>SharePoint dosyalarına IRM Koruması
 
 
-SharePoint Online'da, liste ve kitaplık düzeyindeki dosyalara IRM koruması uygulanır. Kuruluşunuz IRM korumasını kullanabiliyor, önce Hak Yönetimi'ni ayarlamanız gerekir. IRM, kullanım kısıtlamalarını şifrelemek ve atamak için Azure Bilgi Koruması'ndan Azure Hakları Yönetimi hizmetine güvenir. Bazı Office 365 planları Azure Hakları Yönetimini içerir, ancak tümü ne değildir. 
+SharePoint Online'da, liste ve kitaplık düzeyindeki dosyalara IRM koruması uygulanır. Kuruluşunuz IRM korumasını kullanabiliyor, önce Hak Yönetimi'ni ayarlamanız gerekir. IRM, kullanım kısıtlamalarını şifrelemek ve atamak için Azure Bilgi Koruması'ndan Azure Hakları Yönetimi hizmetine güvenir. Bazı Microsoft 365 abonelikleri Azure Hakları Yönetimi'ni içerir, ancak tümü dahil değildir. 
 
-Daha fazla bilgi için bkz.
+Daha fazla bilgi için şu makalelere bakın:
 
 - [Office uygulamaları ve hizmetleri Azure Hakları Yönetimini nasıl destekler?](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)
 

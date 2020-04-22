@@ -1,8 +1,8 @@
 ---
-title: Çok faktörlü kimlik doğrulamasını etkinleştir
+title: Çok Faktörlü Kimlik Doğrulamayı Etkinleştirme
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527491"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703482"
 ---
-# <a name="enable-multi-factor-authentication"></a>Çok faktörlü kimlik doğrulamasını etkinleştir
+# <a name="enable-multi-factor-authentication"></a>Çok faktörlü kimlik doğrulamayı etkinleştirme
 
-Microsoft 365 Yönetim Merkezi'ndeki çok faktörlü kimlik doğrulamasını etkinleştirmek için:
+Microsoft 365 yönetici merkezinde çok faktörlü kimlik doğrulamasını etkinleştirmek için:
 
-1. **Kullanıcılar** Git \> **Etkin kullanıcılar** sayfa.
+1. **Kullanıcılar** \> **Etkin kullanıcılar** sayfasına gidin.
     
-2. Sayfanın başında, **çok faktörlü kimlik doğrulama**seçin. 
+2. Sayfanın üst kısmında **Çok faktörlü kimlik doğrulaması'nı**seçin. 
     
-3. Kullanıcı veya kullanıcılar için çok faktörlü kimlik doğrulamasını etkinleştirmek istediğiniz bulabilirsiniz. Tüm kullanıcıları görmek için üst **çok faktörlü kimlik doğrulama durumu** filtresi değiştirmeniz gerekebilir.
+3. Çok faktörlü kimlik doğrulamayı etkinleştirmek istediğiniz kullanıcıyı veya kullanıcıları bulun. Tüm kullanıcıları görmek için en üstteki **Çok Faktörlü Auth durum** filtresini değiştirmeniz gerekebilir.
     
-4. Etkinleştirmek istediğiniz kullanıcının yanındaki onay kutusunu seçin.
+4. Etkinleştirmek istediğiniz kullanıcıların yanındaki onay kutusunu seçin.
     
-5.  Doğru kullanıcı bilgi bölmesinde **hızlı adımlar**altında **Etkinleştir**' i seçin. 
+5.  Doğru kullanıcı bilgileri bölmesinde, **hızlı adımlar**altında **Etkinleştir'i**seçin. 
     
-6. Açılan iletişim kutusunda, **çok faktörlü kimlik doğrulama etkinleştir**' i seçin. 
+6. Açılan iletişim kutusunda, çok **faktörlü auth'u etkinleştir'i**seçin. 
     
 

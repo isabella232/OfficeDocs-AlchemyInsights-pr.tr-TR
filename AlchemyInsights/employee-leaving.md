@@ -1,9 +1,9 @@
 ---
-title: Çalışan bırakarak
+title: Çalışan ın ayrılması
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54b7dc2cceb75b71ad70bcc4e681cff2e68f61be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527851"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703735"
 ---
-# <a name="block-access-to-a-former-employee"></a>Eski bir çalışanın erişimi engelleme
+# <a name="block-access-to-a-former-employee"></a>Eski bir çalışana erişimi engelleme
 
-Bırakarak bir çalışan varsa ve Office 365 veri ve e-posta erişimi engellemek gerekir? Aşağıdakileri yapın.
+Bir çalışanın ayrılması ve verilere ve e-postalara erişimi engellemesi mi gerekiyor? Aşağıdakileri yapın.
   
-1. **Kullanıcıların** Yönetim Merkezi'nde Git \> [Etkin kullanıcılar](https://go.microsoft.com/fwlink/p/?linkid=834822) sayfa.
+1. Yönetici merkezinde, **Kullanıcılar** \> [Etkin Kullanıcılar](https://go.microsoft.com/fwlink/p/?linkid=834822) sayfasına gidin.
 
-2. Engellemek istediğiniz kullanıcı adını seçin.
+2. Engellemek istediğiniz kullanıcının adını seçin.
 
-3. Kullanıcı adı altında **Bu kullanıcı**seçer.
+3. Kullanıcının adı **altında, bu kullanıcıyı engelle'yi**seçin.
 
-4. **Kullanıcının oturum açmayı engelleme** seçin \> **değişiklikleri kaydedin**.
+4. \> **Değişiklikleri Kaydet'te** **kullanıcının imzalamasını engelleyin'i** seçin.
 
-**Not**: bazı uygulamalar hemen olmayabilir için oturum kapatma. Bu makalede daha fazla eylem izleyin: [Office 365'den eski bir çalışanın Kaldır](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
+**Not**: Bazı uygulamaların oturumunu hemen tamamlayamayabilir. Bu makalede daha fazla eylemle izleyin: [Eski bir çalışanı kaldırın](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
