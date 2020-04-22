@@ -1,31 +1,31 @@
 ---
-title: EBulma ayarları
+title: Ediscovery ayarları
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.assetid: ''
-ms.openlocfilehash: 756473fc94a4c68d5cb1f4c390ecb810c3a8cf89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528247"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714422"
 ---
-# <a name="ediscovery-settings"></a><span data-ttu-id="21701-102">EBulma ayarları</span><span class="sxs-lookup"><span data-stu-id="21701-102">Ediscovery settings</span></span>
+# <a name="ediscovery-settings"></a><span data-ttu-id="abe4d-102">Ediscovery ayarları</span><span class="sxs-lookup"><span data-stu-id="abe4d-102">Ediscovery settings</span></span>
 
-<span data-ttu-id="21701-103">Office 365'te eBulma/içerik arama tutun ve içeriği çevrimiçi Exchange posta kutuları, SharePoint çevrimiçi ve Skype iş görüşmeleri, Microsoft Teams ve Office 365 Grup OneDrive iş siteleri için dışa aktarma aramak izin verir.</span><span class="sxs-lookup"><span data-stu-id="21701-103">eDiscovery/Content searches in Office 365 allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Office 365 groups.</span></span>
+<span data-ttu-id="abe4d-103">eDiscovery/İçerik aramaları, Exchange Online posta kutularından, SharePoint Online ve OneDrive for Business sitelerinden, Skype for Business konuşmaları, Microsoft Teams ve Office 365 gruplarından içerik aramanıza, tutmanıza ve dışa aktarmanıza olanak sağlar.</span><span class="sxs-lookup"><span data-stu-id="abe4d-103">eDiscovery/Content searches allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Office 365 groups.</span></span>
 
-- <span data-ttu-id="21701-104">[EBulma](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)eBulma veya içerik arama menüsü seçenekleri için arıyorsanız, bkz.</span><span class="sxs-lookup"><span data-stu-id="21701-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
-- <span data-ttu-id="21701-105">[EBulma aramalar için gereken izinler](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)eBulma aramaları gerçekleştirmek için gerekli izinler hakkında bilgi edinin.</span><span class="sxs-lookup"><span data-stu-id="21701-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
-- <span data-ttu-id="21701-106">Aramanızı beklenen sonuçları döndüren değil, [döndürmez arama sonuçları beklenen](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)konusuna bakın.</span><span class="sxs-lookup"><span data-stu-id="21701-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
+- <span data-ttu-id="abe4d-104">eDiscovery veya Content Search menü seçeneklerini arıyorsanız, [eDiscovery Sorunları'na](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)bakın.</span><span class="sxs-lookup"><span data-stu-id="abe4d-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
+- <span data-ttu-id="abe4d-105">eDiscovery aramaları için [gerekli Izinlerden](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)eDiscovery aramaları gerçekleştirmek için gereken izinler hakkında bilgi edinin.</span><span class="sxs-lookup"><span data-stu-id="abe4d-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
+- <span data-ttu-id="abe4d-106">Aramanız beklenen sonuçları döndürmüyorsa, [bkz.](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)</span><span class="sxs-lookup"><span data-stu-id="abe4d-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
 
-<span data-ttu-id="21701-107">[Office 365'te eBulma](https://docs.microsoft.com/office365/securitycompliance/ediscovery)eBulma Office 365'te hakkında daha fazla bilgi için bkz.</span><span class="sxs-lookup"><span data-stu-id="21701-107">For more information on ediscovery in Office 365, see [Ediscovery in Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>
+<span data-ttu-id="abe4d-107">Ediscovery hakkında daha fazla bilgi için [bkz.](https://docs.microsoft.com/office365/securitycompliance/ediscovery)</span><span class="sxs-lookup"><span data-stu-id="abe4d-107">For more information on ediscovery, see [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>

@@ -3,7 +3,7 @@ title: Excel AutoFilter sorunu
 ms.author: chrsm
 author: chrsm
 manager: jecon
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: 31a4294f7035f2ff69bb30b65261f5210fc1a3d0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 10566c6ddd69d1e1002193b09a070dcc1103d26f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36527195"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714206"
 ---
-# <a name="excel-autofilter-issue"></a><span data-ttu-id="fe54f-102">Excel AutoFilter sorunu</span><span class="sxs-lookup"><span data-stu-id="fe54f-102">Excel AutoFilter issue</span></span>
+# <a name="excel-autofilter-issue"></a><span data-ttu-id="7cb9c-102">Excel AutoFilter sorunu</span><span class="sxs-lookup"><span data-stu-id="7cb9c-102">Excel AutoFilter issue</span></span>
 
-<span data-ttu-id="fe54f-103">Excel 2016'yı kullanırken, Otomatik Filtre açılır dosyanızda kullanılabilir tüm onay kutuları görünmüyorsa veya onay kutuları tıklanabilir değilse, bunun nedeni Excel'in önceki yapılarında bilinen bir sorun olabilir.</span><span class="sxs-lookup"><span data-stu-id="fe54f-103">When using Excel 2016, if your AutoFilter drop-down doesn't show all the available check boxes, or the check boxes are not clickable, it may be due to a known issue in earlier builds of Excel.</span></span> 
+<span data-ttu-id="7cb9c-103">Excel 2016'yı kullanırken, Otomatik Filtre açılır dosyanızda kullanılabilir tüm onay kutuları görünmüyorsa veya onay kutuları tıklanabilir değilse, bunun nedeni Excel'in önceki yapılarında bilinen bir sorun olabilir.</span><span class="sxs-lookup"><span data-stu-id="7cb9c-103">When using Excel 2016, if your AutoFilter drop-down doesn't show all the available check boxes, or the check boxes are not clickable, it may be due to a known issue in earlier builds of Excel.</span></span> 
   
-<span data-ttu-id="fe54f-104">Bu sorun artık **Sürüm 1707 (8326.2073)** veya daha sonra düzeltilmiştir.</span><span class="sxs-lookup"><span data-stu-id="fe54f-104">This issue is now fixed in **Version 1707 (8326.2073)** or later.</span></span> <span data-ttu-id="fe54f-105">Güncelleştirmeyi hemen almak için Excel'i açın ve **Dosya** \> **Hesabı** \> **Güncelleştirme Seçenekleri Güncelleştirmeyi** \> **Şimdi**seçin.</span><span class="sxs-lookup"><span data-stu-id="fe54f-105">To get the update immediately, open Excel and choose **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="7cb9c-104">Bu sorun artık **Sürüm 1707 (8326.2073)** veya daha sonra düzeltilmiştir.</span><span class="sxs-lookup"><span data-stu-id="7cb9c-104">This issue is now fixed in **Version 1707 (8326.2073)** or later.</span></span> <span data-ttu-id="7cb9c-105">Güncelleştirmeyi hemen almak için Excel'i açın ve **Dosya** \> **Hesabı** \> **Güncelleştirme Seçenekleri Güncelleştirmeyi** \> **Şimdi**seçin.</span><span class="sxs-lookup"><span data-stu-id="7cb9c-105">To get the update immediately, open Excel and choose **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 
