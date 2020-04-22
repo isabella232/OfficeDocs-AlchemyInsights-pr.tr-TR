@@ -3,7 +3,7 @@ title: Outlook.com BitLocker kurtarma
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: 0f9c7669a91c3bf197cd19d566296dd0dedf62cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 39aa462e69d2636ee560504070d95e989c3cb0fb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542775"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681916"
 ---
-# <a name="bitlocker-recovery"></a><span data-ttu-id="a9e04-102">BitLocker kurtarma</span><span class="sxs-lookup"><span data-stu-id="a9e04-102">BitLocker recovery</span></span>
+# <a name="bitlocker-recovery"></a><span data-ttu-id="1db02-102">BitLocker kurtarma</span><span class="sxs-lookup"><span data-stu-id="1db02-102">BitLocker recovery</span></span>
 
-<span data-ttu-id="a9e04-103">BitLocker, kurtarma anahtarlarını görüntülemek için [aygıtlar](https://account.microsoft.com/devices/recoverykey) için gidin.</span><span class="sxs-lookup"><span data-stu-id="a9e04-103">Go to [Devices](https://account.microsoft.com/devices/recoverykey) to view your BitLocker recovery keys.</span></span>
+<span data-ttu-id="1db02-103">BitLocker kurtarma anahtarlarınızı görüntülemek için [Cihazlar'a](https://account.microsoft.com/devices/recoverykey) gidin.</span><span class="sxs-lookup"><span data-stu-id="1db02-103">Go to [Devices](https://account.microsoft.com/devices/recoverykey) to view your BitLocker recovery keys.</span></span>
 
-<span data-ttu-id="a9e04-104">[Benim BitLocker kurtarma anahtarı bulma](https://support.microsoft.com/help/4026181)bkz: daha fazla bilgi için.</span><span class="sxs-lookup"><span data-stu-id="a9e04-104">See [Find my BitLocker recovery key](https://support.microsoft.com/help/4026181) for more information.</span></span>
+<span data-ttu-id="1db02-104">Daha fazla bilgi için [BitLocker kurtarma anahtarımı](https://support.microsoft.com/help/4026181) bul.</span><span class="sxs-lookup"><span data-stu-id="1db02-104">See [Find my BitLocker recovery key](https://support.microsoft.com/help/4026181) for more information.</span></span>

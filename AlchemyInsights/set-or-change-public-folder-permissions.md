@@ -3,7 +3,7 @@ title: Ortak klasör izinlerini ayarlama veya değiştirme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 8/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: 1015c2203406e15d6b418c387b6632a182d6d2ff
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: cf891a4db05b8a2bdb223cc86693f5072faca494
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36734689"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681124"
 ---
-# <a name="permissions-and-public-folders"></a><span data-ttu-id="ab4a3-102">İzinler ve Ortak Klasörler</span><span class="sxs-lookup"><span data-stu-id="ab4a3-102">Permissions and Public Folders</span></span>
+# <a name="permissions-and-public-folders"></a><span data-ttu-id="f86a4-102">İzinler ve Ortak Klasörler</span><span class="sxs-lookup"><span data-stu-id="f86a4-102">Permissions and Public Folders</span></span>
 
-<span data-ttu-id="ab4a3-103">Outlook, Exchange yönetici merkezi (EAC) veya PowerShell'i kullanarak Ortak Klasörlerinizdeki izinleri değiştirebilirsiniz:</span><span class="sxs-lookup"><span data-stu-id="ab4a3-103">You can change the permissions on your Public Folders using Outlook, the Exchange admin center (EAC), or PowerShell:</span></span>
+<span data-ttu-id="f86a4-103">Outlook, Exchange yönetici merkezi (EAC) veya PowerShell'i kullanarak Ortak Klasörlerinizdeki izinleri değiştirebilirsiniz:</span><span class="sxs-lookup"><span data-stu-id="f86a4-103">You can change the permissions on your Public Folders using Outlook, the Exchange admin center (EAC), or PowerShell:</span></span>
   
-- <span data-ttu-id="ab4a3-104">Outlook yönergeleri için [burayı tıklatın.](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx)</span><span class="sxs-lookup"><span data-stu-id="ab4a3-104">For Outlook instructions, [click here](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).</span></span>
+- <span data-ttu-id="f86a4-104">Outlook yönergeleri için [burayı tıklatın.](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx)</span><span class="sxs-lookup"><span data-stu-id="f86a4-104">For Outlook instructions, [click here](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).</span></span>
     
-- <span data-ttu-id="ab4a3-105">EAC için, talimatlar için [bu makaleye](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) bakın.</span><span class="sxs-lookup"><span data-stu-id="ab4a3-105">For EAC, refer to [this article](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) for instructions.</span></span> 
+- <span data-ttu-id="f86a4-105">EAC için, talimatlar için [bu makaleye](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) bakın.</span><span class="sxs-lookup"><span data-stu-id="f86a4-105">For EAC, refer to [this article](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) for instructions.</span></span> 
     
-- <span data-ttu-id="ab4a3-106">Powershell için, Ekle-PublicFolderClientPermission komut unu kullanma yönergeleri için [bu makaleye](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) bakın.</span><span class="sxs-lookup"><span data-stu-id="ab4a3-106">For Powershell, refer to [this article](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) for instructions on using the Add-PublicFolderClientPermission commandlet.</span></span> <span data-ttu-id="ab4a3-107">Exchange Powershell'e bağlanmak için talimatlara ihtiyacınız varsa, [buraya](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx)tıklayın.</span><span class="sxs-lookup"><span data-stu-id="ab4a3-107">If you need instructions to connect to Exchange Powershell, click [here](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).</span></span>
+- <span data-ttu-id="f86a4-106">Powershell için, Ekle-PublicFolderClientPermission komut unu kullanma yönergeleri için [bu makaleye](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) bakın.</span><span class="sxs-lookup"><span data-stu-id="f86a4-106">For Powershell, refer to [this article](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) for instructions on using the Add-PublicFolderClientPermission commandlet.</span></span> <span data-ttu-id="f86a4-107">Exchange Powershell'e bağlanmak için talimatlara ihtiyacınız varsa, [buraya](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx)tıklayın.</span><span class="sxs-lookup"><span data-stu-id="f86a4-107">If you need instructions to connect to Exchange Powershell, click [here](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).</span></span>
     
-<span data-ttu-id="ab4a3-108">**Harici kullanıcılar posta yla etkinleştirilmiş genel klasöre e-posta gönderemiyorsa,** bunun nedeni ortak klasörün harici e-posta teslimi için gereken izinleri eksik olması olabilir.</span><span class="sxs-lookup"><span data-stu-id="ab4a3-108">If **external users can't send emails to a mail-enabled Public Folder**, the reason might be that the public folder is missing permissions required for external email delivery.</span></span> <span data-ttu-id="ab4a3-109">Bunu [outlook](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)yönergelerini kullanarak veya [powershell yönergelerini buradan](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx)düzeltebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="ab4a3-109">You can fix this using the Outlook instructions [here](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1), or the PowerShell instructions [here](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).</span></span>
+<span data-ttu-id="f86a4-108">**Harici kullanıcılar posta yla etkinleştirilmiş genel klasöre e-posta gönderemiyorsa,** bunun nedeni ortak klasörün harici e-posta teslimi için gereken izinleri eksik olması olabilir.</span><span class="sxs-lookup"><span data-stu-id="f86a4-108">If **external users can't send emails to a mail-enabled Public Folder**, the reason might be that the public folder is missing permissions required for external email delivery.</span></span> <span data-ttu-id="f86a4-109">Bunu [outlook](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)yönergelerini kullanarak veya [powershell yönergelerini buradan](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx)düzeltebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="f86a4-109">You can fix this using the Outlook instructions [here](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1), or the PowerShell instructions [here](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).</span></span>
   
 
