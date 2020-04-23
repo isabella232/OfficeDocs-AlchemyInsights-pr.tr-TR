@@ -3,7 +3,7 @@ title: SharePoint büyük listeleri
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 2/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "407"
 - "530001"
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: 222ad554de0d94dcfd4e34e9a2c6aa8ab4e6f81f
-ms.sourcegitcommit: d7e1b097d3866782f508527c797426dc56c6ba17
+ms.openlocfilehash: e85686788c60d365a00970e9ffe58e97512894a3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/14/2019
-ms.locfileid: "37488537"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767305"
 ---
 # <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>SharePoint'te büyük listeler ve kitaplıklarla çalışma
 
-SharePoint listeleri ve kitaplıkları en fazla 30 milyon öğe içerebilir, ancak 5.000'den fazla öğesi olduğunda, bunlarla çalışmaya çalıştığınızda bir Liste Görünümü Eşik hatası görebilirsiniz. Bu eşik, hizmetin performansını korumak için yerindedir. Değiştirilemez. Bu eşiğe çarpmamak için:
+SharePoint listeleri ve kitaplıkları en fazla 30 milyon öğe içerebilir, ancak 5.000'den fazla öğesi olduğunda, bunlarla çalışmaya çalıştığınızda bir Liste Görünümü Eşik hatası görebilirsiniz. Bu eşik hizmetin performansını korumak için belirlenmiştir. Değiştirilemez. Bu eşiğe çarpmamak için:
 
 **Modern kullanın**
 

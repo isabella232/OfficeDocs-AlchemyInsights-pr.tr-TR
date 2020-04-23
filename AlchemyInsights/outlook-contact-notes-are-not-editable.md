@@ -1,23 +1,23 @@
 ---
 ms.author: peddy
-title: Outlook kişi notları düzenlenebilir değildir.
+title: Outlook kişi notları edilemedi
 author: peddy
 manager: joallard
-ms.date: 4/25/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000185
 ms.assetid: ''
-ms.openlocfilehash: dcd52172ade1c6f73a556ba0c4574594988b49a7
-ms.sourcegitcommit: 60bc3cccd1aa81340143cd27c597bb97351ecadb
+ms.openlocfilehash: 9f67a53adfce49c2823767a9c1dca273d9bc1a56
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/26/2019
-ms.locfileid: "33346125"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743365"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Outlook'ta bir kişi için Notlar alanını düzenleyemezsiniz
-Bu bilinen bir sorundur. Sorunu gidermek için çalışıyorsanız ve [bir kişinin Notlar alanını düzenleyemezsiniz](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)durumu güncelleştirilir.
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Outlook'ta bir kişi için notlar alanını düzenleme
+Bu bilinen bir konudur. Bunu düzeltmek için çalışıyoruz ve durum güncellenecektir bir [kişi için notlar alanını güncelleştiremiyorum](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
 
-**Geçici çözüm**: Office 365 veya Outlook.com hesabı kullanıyorsanız, web kullanarak kişilerinizi düzenleyebilirsiniz. Geçici çözüm, bir POP ya da IMAP hesabı kullanıyorsanız, şu anda kullanılabilir.
+**Geçici Çözüm**: Microsoft 365 veya Outlook.com hesabı kullanıyorsanız, kişilerinizi web'i kullanarak edinebilirsiniz. Bir IMAP veya POP hesabı kullanıyorsanız, şu anda kullanılabilir geçici çözüm bulunmamaktadır.

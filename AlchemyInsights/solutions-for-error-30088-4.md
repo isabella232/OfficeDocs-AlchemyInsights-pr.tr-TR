@@ -1,9 +1,9 @@
 ---
-title: Hata 30088 4 çözümleri
+title: Hata çözümleri 30088-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/10/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,25 +13,25 @@ ms.assetid: 2c03462c-8a6a-4042-a6fd-cd9e009b8a3f
 ms.custom:
 - "829"
 - "2000020"
-ms.openlocfilehash: 9d323856b1f3ad7cfea6903dcf3c9745a9853d8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fc25a9ba8af90b7acba3ab3c978e03a3bcfd2d7d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501675"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43756903"
 ---
-# <a name="solutions-for-error-30088-4"></a>Hata 30088 4 çözümleri
+# <a name="solutions-for-error-30088-4"></a>Hata çözümleri 30088-4
 
-[30088 4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)hata düzeltmek için aşağıdaki çözümleri deneyin:
+Hata [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)düzeltmek için bu çözümleri deneyin:
   
-- Bilgisayarınızı yeniden başlatın ve [Office yüklemeyi](https://portal.office.com/OLS/MySoftware.aspx)deneyin.
+- Bilgisayarınızı yeniden başlatın ve [Office'i yüklemeyi](https://portal.office.com/OLS/MySoftware.aspx)deneyin.
 
-- Karşıdan yükleme ve [Destek ve kurtarma Yardımcısı](https://aka.ms/SARA-OfficeUninstall-Alchemy)yükleyin.
+- [Destek ve Kurtarma Yardımcısı](https://aka.ms/SARA-OfficeUninstall-Alchemy)’nı indirip yükleyin.
 
-1. Açıldığında, **Office'i Kaldır ürünleri** kaldırmak için **İleri**' yi seçin ve istediğiniz sürümü seçin.
+1. Açıldığında, Office **ürünlerini kaldır'dan** kaldırmak istediğiniz sürümü seçin ve **İleri'yi**seçin.
 
-2. Ekranlar giderek devam edin ve istendiğinde bilgisayarınızı yeniden başlatın.
+2. Ekranlarda ilerlemeye devam edin ve istendiğinde bilgisayarınızı yeniden başlatın.
 
-    Yeniden başlattıktan sonra destek ve kurtarma Yardımcısı otomatik olarak yeniden açılır kaldırma işlemini tamamlamak için.
+    Yeniden başladıktan sonra, Kaldırma işlemini tamamlamak için Destek ve Kurtarma Yardımcısı otomatik olarak yeniden açılır.
 
-3. Kalan istemleri ve [Office'i yeniden](https://portal.office.com/OLS/MySoftware.aspx) uygulayın veya Yardımcısı'nı kapatın.
+3. Kalan istemleri izleyin ve [Office'i yeniden yükleyin](https://portal.office.com/OLS/MySoftware.aspx) veya yardımcıyı kapatın.

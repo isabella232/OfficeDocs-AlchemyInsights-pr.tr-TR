@@ -12,18 +12,18 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "485"
 - "1500018"
-ms.openlocfilehash: 4e902ea2e91e6ee44bce9f1a2a94410aab9c05d9
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 5031c6218f8eee9e06e08fc902270ce299f12ed6
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195346"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783847"
 ---
 # <a name="invoice-and-payment-information"></a>Fatura ve ödeme bilgileri
 
 **Ödeme**
 
-İşletme aboneliği için doğrudan Microsoft'tan office 365 satın aldığınızda, kredi kartı veya banka kartıyla ödeme yapabilirsiniz.  Bazı ülkelerde/bölgelerde, banka hesabıyla da ödeme yapabilirsiniz.  İş için [Office 365 için bir kredi kartı veya diğer ödeme seçeneğini Ekle, güncelle veya kaldırabilirsiniz.](https://go.microsoft.com/fwlink/?linkid=2118133)  Buna, kredi kartınızın reddedilmesi ve ödeme bilgilerinin güncellenmesi yle ilgili sorunların çözülmesi de dahildir.
+İşletme aboneliği için doğrudan Microsoft'tan microsoft 365 satın aldığınızda, kredi kartı veya banka kartıyla ödeme yapabilirsiniz.  Bazı ülkelerde/bölgelerde, banka hesabıyla da ödeme yapabilirsiniz.  Microsoft [365 for Business için bir kredi kartı veya diğer ödeme seçeneğini Ekle, güncelle veya kaldırabilirsiniz.](https://go.microsoft.com/fwlink/?linkid=2118133)  Buna, kredi kartınızın reddedilmesi ve ödeme bilgilerinin güncellenmesi yle ilgili sorunların çözülmesi de dahildir.
 
 **Fatura/Fatura**
 
@@ -33,4 +33,4 @@ Faturalarınızı **Fatura> [faturalarınızı ödeme & ödeme](https://go.micro
 
 Faturalar, satınalma sırasında seçilen ödeme sıklığına bağlı olarak aylık veya yıllık olarak oluşturulur.  Yıllık ödeme yapıyorsanız, bir abonelik lisanslarını eklerken veya kaldırırken bir fatura yıkabilirsiniz.
  
-- Daha fazla bilgi için bkz: [İşletmeler için Office 365 faturanızı anlayın.](https://go.microsoft.com/fwlink/?linkid=2119101)
+- Daha fazla bilgi için bkz: [İşletmeler için Microsoft 365 faturanızı anlayın.](https://go.microsoft.com/fwlink/?linkid=2119101)

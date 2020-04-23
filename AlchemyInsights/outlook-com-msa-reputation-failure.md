@@ -1,9 +1,9 @@
 ---
-title: Outlook.com Hesap kilitli
+title: Outlook.com hesabı kilitlendi
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/30/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: 9a96bb18d06814164cd54e8183f67f2d2db55eac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e3ddebc8b73688d65c32e15383c7d654a3f1fff1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546107"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745775"
 ---
-# <a name="account-locked"></a>Hesap kilitli
+# <a name="account-locked"></a>Hesap kilitlendi
 
-Outlook.com için oturum açmayı denerken "hesabınız kilitlenmiş" iletisini görürseniz, biz bazı olağandışı etkinlikleri hesabınızda fark ettim çünkü. Olası dolandırıcılık ve kötüye korumaya yardımcı olmak için biz hesabınız geçici olarak Kilitlediğiniz. Bu can sıkıcı olur, ancak yalnızca birkaç adım ile hesabınıza geri alma yardımcı olabiliriz biliyoruz.
+Outlook.com oturum açmaya çalışırken "Hesabınız kilitlendi" iletisini görürseniz, bunun nedeni hesabınızda olağandışı bir etkinlik fark etmiş olmamızdır. Olası dolandırıcılık veya kötüye kullanımdan korunmanıza yardımcı olmak için hesabınızı geçici olarak kilitledik. Bunun sinir bozucu olduğunu biliyoruz, ancak birkaç adımla hesabınıza geri dönmenize yardımcı olabiliriz.
 
-1.  [Account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) için gidin ve kilitli hesabınıza oturum açın.Hesabınızın kilidini açmak için metin iletisinde Microsoft tarafından sağlanan güvenlik kodunu girmeniz gerekir. Metin iletisi almak için metin iletileri destekleyen bir telefon olması gerekir. Telefonunuzun Mesajlaşma metin desteklemiyorsa, bir arkadaş veya Aile üyesi kendi telefon kullanmak için sorabilirsiniz. Bu metin mesajı almak için kullandığınız telefon numarasını hesabınızla ilişkili olması gerekmez, böylece Microsoft bu telefon numarası kaydetmez.
-2. "Kullanım sınırı aşıldı" iletisi görürseniz, gitmek için [Hesap Reinstatement](https://go.microsoft.com/fwlink/?linkid=2090483) ve bizim aracıları birini hesabınızı gözden.
+1.  [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) gidin ve kilitli hesabınızda oturum açın.Hesabınızın kilidini açmak için Microsoft'tan gelen kısa iletide sağlanan güvenlik kodunu girmeniz gerekir. Kısa mesajı almak için kısa mesajı destekleyen bir telefonunuz olması gerekir. Telefonunuz kısa mesajlaşmayı desteklemiyorsa, bir arkadaşınızdan veya aile üyelerinden telefonlarını kullanmasını isteyebilirsiniz. Microsoft bu telefon numarasını kaydetmez, bu nedenle bu kısa mesajı almak için kullandığınız telefon numarasının hesabınızla ilişkilendirilmesi gerekmez.
+2. "Kullanım sınırı aşıldı" iletisini görürseniz, [Hesap Iadesi'ne](https://go.microsoft.com/fwlink/?linkid=2090483) gidin ve aracılarımızdan biri hesabınızı inceleyecektir.
 
-Daha fazla bilgi için [Engellemeyi Kaldır Outlook.com Hesabımı](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) okuyun. 
+Daha fazla bilgi için [Outlook.com hesabımın engelini kaldır'ı](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) okuyun 

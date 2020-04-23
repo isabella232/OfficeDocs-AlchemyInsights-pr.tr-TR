@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: ed6981629941e2f2ecc348effe98eaa6388a14d8
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279077"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758810"
 ---
 # <a name="products--services"></a>Ürünler & hizmetler
 
@@ -24,7 +24,7 @@ Kuruluşunuzun sahip olduğu abonelikleri **Faturalama** > [**Ürünleri & hizme
 
 1. Her abonelik için satın alınan lisans sayısını ve kaç tanesinin kullanıldığını yönetin.  **Not**: Kullanımda olmayan (kullanıcıya atanmamış) lisanslar yine de ücretlendirilir.  Kullanılmayan lisanslar için ücretlendirilmemek için, satın alınan lisans sayısını azaltın. Abonelikten lisans ekleme veya kaldırma hakkında bilgi için lisans [ekleme veya azaltma hakkında](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)bilgi sahibi olayın.
 
-2. Aboneliğin yenileme veya son kullanma tarihini görüntüleyin.  **Yenileme/bitiş** tarihindeki en yanındaki **düzenleme** bağlantısını tıklayarak yenilemeyi yönetebilirsiniz.  Yinelenen faturalandırmayı yönetme hakkında daha fazla bilgi için [iş için Office 365'i](https://go.microsoft.com/fwlink/?linkid=2119216) Yenile'ye bakın.
+2. Aboneliğin yenileme veya son kullanma tarihini görüntüleyin.  **Yenileme/bitiş** tarihindeki en yanındaki **düzenleme** bağlantısını tıklayarak yenilemeyi yönetebilirsiniz.  Yinelenen faturalandırmayı yönetme hakkında daha fazla bilgi için [iş için Microsoft 365'i yenileyin'](https://go.microsoft.com/fwlink/?linkid=2119216) e bakın.
 
 3. [Süresi dolmuş veya devre dışı bırakılmış aboneliği yeniden etkinleştirin.](https://go.microsoft.com/fwlink/?linkid=2117519)
 

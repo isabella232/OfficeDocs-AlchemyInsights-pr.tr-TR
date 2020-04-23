@@ -10,19 +10,19 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: d998dec19433279e602c02bdaacc74371a4d0262
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 4ca60a0e433439f4eded0876a2e13c01a9c3a726
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771302"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767737"
 ---
 # <a name="modernize-your-classic-sharepoint-experience"></a>Klasik SharePoint deneyiminizi modernize edin
 
 Modern kullanıcı arabirimine geçiş yapmak için aşağıdaki kaynakları gözden geçirin:
 
 - [ **Modern siteler** oluşturun](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (Takım sitesi veya İletişim sitesi). İşyerini birbirine bağlayan güzel ve güçlü bir intranet oluşturmak için [SharePoint Look Book'u](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) kullanın. [Örneklere](https://lookbook.microsoft.com/) bakın ve [tasarım kılavuzualın.](https://spdesign.azurewebsites.net/)
-- Office 365 genelinde işbirliğini artırmak için [sitenizi bir **Office 365 grubuna** bağlayın.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
+- Microsoft 365 genelinde işbirliğini artırmak için [sitenizi bir **Office 365 grubuna** bağlayın.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
 - [Listelerin ve kitaplıkların modern kullanıcı arabiriminde gösterilmesini sağlayarak](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) **modern listeye ve kitaplık** deneyimine dönüştürün.
 - **Site sayfalarını** klasik **wiki,** **web bölümü**ve **ana** sayfalardan modern istemci [tarafındaki sayfalara](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)dönüştürün. [SharePoint modernizasyon tarayıcısı,](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) sayfa dönüşümüne öncelik vermenize yardımcı olmak için geçerli wiki ve web bölümü sayfaları hakkında sayfa kullanım bilgileri sağlar.
 

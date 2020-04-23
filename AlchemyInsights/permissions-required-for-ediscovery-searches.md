@@ -1,9 +1,9 @@
 ---
-title: 1489-Permissions-required-for-ediscovery-Searches
+title: 1489-permissions-gerekli-ediscovery-aramalar için
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4e937861381ba5ba00c7ffb544dc4f6cb3502bc7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372148"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758945"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>EBulma aramaları için gerekli izinler
+# <a name="permissions-required-for-ediscovery-searches"></a>eDiscovery aramaları için gerekli izinler
 
-Güvenlik & Uyumluluk Merkezi içerik arama yapmak için bir kullanıcının en az aramaları gerçekleştirmenize olanak veren eBulma Yöneticisi Rol grubunun bir üyesi olması ve posta kutuları, SharePoint siteleri ve OneDrive konumları yer tutan olması gerekir. Üyeleri de oluşturabilir ve eBulma durumları yönetmek, eklemek ve durumuna üyeleri Kaldır, oluşturmak ve düzenlemek içerik arama ve Gelişmiş eBulma büyük/küçük harf verilerine erişmek.
+Güvenlik & Uyumluluk Merkezi'nde İçerik Aramaları gerçekleştirmek için, bir kullanıcının en azından eDiscovery Manager rol grubunun bir üyesi olması gerekir, bu da arama yapmalarına ve posta kutularına, SharePoint sitelerine ve OneDrive konumlarına tutunmasını sağlar. Üyeler ayrıca eDiscovery servis taleplerini oluşturabilir ve yönetebilir, bir servis talebine üye ekleyebilir ve kaldırabilir, İçerik Aramaları oluşturabilir ve edinebilir ve Advanced eDiscovery'deki servis talebi verilerine erişebilir.
 
-Exchange Yönetim Merkezi (TZT) yerinde eBulma arama yapmak için kullanıcı Exchange Online keşif Yönetimi rol grubunun bir üyesi olmalıdır.
+Exchange yönetici merkezinde (EAC) Yerinde eDiscovery aramaları gerçekleştirmek için, kullanıcı Exchange Online'daki Discovery Management rol grubunun bir üyesi olmalıdır.
 
-EBulma izinleri hakkında daha fazla bilgi için bkz: 
+eDiscovery izinleri hakkında daha fazla bilgi için bkz: 
 
-- [Güvenlik & Uyumluluk Merkezi eBulma izinler atama](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [Güvenlik & Uyumluluk Merkezi'nde eDiscovery izinleri atama](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-- [Exchange eBulma izinleri atama](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [Değişime eDiscovery izinleri atama](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Not**: eBulma izinleri atamadan sonra izinlerin yayılmasına izin için birkaç dakika beklemeniz gerekebilir.
+**Not**: eDiscovery izinleri atadıktan sonra, izinlerin yayılması için birkaç dakika beklemeniz gerekebilir.
