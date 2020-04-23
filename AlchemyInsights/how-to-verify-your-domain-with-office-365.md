@@ -1,5 +1,5 @@
 ---
-title: Office 365 ile etki alanınızı doğrulama
+title: 'Etki alanınızı doğrulama '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: ade67097172464fdf213b8af7af6639a25d48315
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: c0f0fbc2528e62f01cebe515fbeb192315c4d3c9
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529624"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788037"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="9781d-102">Office 365 ile etki alanınızı doğrulama</span><span class="sxs-lookup"><span data-stu-id="9781d-102">How to verify your domain with Office 365</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="71a7e-102">Etki alanınızı doğrulama</span><span class="sxs-lookup"><span data-stu-id="71a7e-102">How to verify your domain</span></span>
 
-<span data-ttu-id="9781d-103">Etki alanınızı doğrulamak için, etki alanınıza sahip olduğunuzu doğrulamak için etki alanı kayıt şirketinize bir TXT kaydı eklemeniz gerekir.</span><span class="sxs-lookup"><span data-stu-id="9781d-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="9781d-104">İlk olarak, **Kurulum** \> **Etki Alanları'nı**tıklatarak Etki [Alanı Ekle sihirbazını](https://portal.office.com/adminportal/home#/Domains/Wizard) izleyin ve ardından etki alanı **ekleyin.**</span><span class="sxs-lookup"><span data-stu-id="9781d-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="71a7e-103">Etki alanınızı doğrulamak için, etki alanınıza sahip olduğunuzu doğrulamak için etki alanı kayıt şirketinize bir TXT kaydı eklemeniz gerekir.</span><span class="sxs-lookup"><span data-stu-id="71a7e-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="71a7e-104">İlk olarak, **Kurulum** \> **Etki Alanları'nı**tıklatarak Etki [Alanı Ekle sihirbazını](https://portal.office.com/adminportal/home#/Domains/Wizard) izleyin ve ardından etki alanı **ekleyin.**</span><span class="sxs-lookup"><span data-stu-id="71a7e-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="9781d-105">Etki alanınızı doğrulamak için bir TXT kaydı eklemek [için Office 365'in herhangi bir DNS barındırma sağlayıcısında DNS kayıtları oluşturma](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) yönergelerini izleyin.</span><span class="sxs-lookup"><span data-stu-id="9781d-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="71a7e-105">Etki alanınızı doğrulamak için bir TXT kaydı eklemek için [herhangi bir DNS barındırma sağlayıcısında DNS kayıtları oluşturma](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) yönergeleriizleyin.</span><span class="sxs-lookup"><span data-stu-id="71a7e-105">Follow the instructions in [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
 
-<span data-ttu-id="9781d-106">Diğer etki alanları sorunları için [Etki Alanları SSS](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)deneyin.</span><span class="sxs-lookup"><span data-stu-id="9781d-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="71a7e-106">Diğer etki alanları sorunları için [Etki Alanları SSS](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)deneyin.</span><span class="sxs-lookup"><span data-stu-id="71a7e-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>

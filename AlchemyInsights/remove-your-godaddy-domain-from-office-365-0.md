@@ -1,5 +1,5 @@
 ---
-title: GoDaddy etki alanınızı Office 365'ten kaldırma
+title: GoDaddy etki alanınızı Microsoft 365'ten kaldırma
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -11,14 +11,14 @@ ms.assetid: 1b858223-22ec-4c9d-9cda-5f4418060c5e
 ms.custom:
 - "27"
 - "11"
-ms.openlocfilehash: 949e60cc3d6a50c7fa9a38f510b7e1cd9887be34
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 13b3bfaf1af9fb26c721e6d9c637b85d7da2332d
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719108"
+ms.locfileid: "43789106"
 ---
-# <a name="remove-your-godaddy-domain-from-microsoft-365"></a><span data-ttu-id="b47fc-102">GoDaddy etki alanınızı Microsoft 365'ten kaldırma</span><span class="sxs-lookup"><span data-stu-id="b47fc-102">Remove your GoDaddy domain from Microsoft 365</span></span>
+# <a name="remove-your-godaddy-domain-from-microsoft-365"></a><span data-ttu-id="0448a-102">GoDaddy etki alanınızı Microsoft 365'ten kaldırma</span><span class="sxs-lookup"><span data-stu-id="0448a-102">Remove your GoDaddy domain from Microsoft 365</span></span>
 
-<span data-ttu-id="b47fc-103">GoDaddy etki alanınızı sizin için Microsoft 365'ten kaldıramayız.</span><span class="sxs-lookup"><span data-stu-id="b47fc-103">We can't remove your GoDaddy domain from Microsoft 365 for you.</span></span> <span data-ttu-id="b47fc-104">Yardım için [GoDaddy müşteri hizmetlerini](https://aka.ms/contact-godaddy) arayın.</span><span class="sxs-lookup"><span data-stu-id="b47fc-104">Call [GoDaddy customer service](https://aka.ms/contact-godaddy) for help.</span></span>
+<span data-ttu-id="0448a-103">GoDaddy etki alanınızı sizin için Microsoft 365'ten kaldıramayız.</span><span class="sxs-lookup"><span data-stu-id="0448a-103">We can't remove your GoDaddy domain from Microsoft 365 for you.</span></span> <span data-ttu-id="0448a-104">Yardım için [GoDaddy müşteri hizmetlerini](https://aka.ms/contact-godaddy) arayın.</span><span class="sxs-lookup"><span data-stu-id="0448a-104">Call [GoDaddy customer service](https://aka.ms/contact-godaddy) for help.</span></span>
   
