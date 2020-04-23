@@ -1,9 +1,9 @@
 ---
-title: İPad üzerinde Office nasıl yüklenir
+title: Office iPad'e yükleme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,15 +13,15 @@ ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
 ms.custom:
 - "649"
 - "2000016"
-ms.openlocfilehash: c6fc0c5f6c05767df6a4b2a5686b4383f4309047
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e0c20fb30555f25155902cf9516f7c99b9f98e4b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540381"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759244"
 ---
-# <a name="how-to-install-office-on-an-ipad"></a><span data-ttu-id="8913a-102">İPad üzerinde Office nasıl yüklenir</span><span class="sxs-lookup"><span data-stu-id="8913a-102">How to install Office on an iPad</span></span>
+# <a name="how-to-install-office-on-an-ipad"></a><span data-ttu-id="5487e-102">Office iPad'e yükleme</span><span class="sxs-lookup"><span data-stu-id="5487e-102">How to install Office on an iPad</span></span>
 
-- <span data-ttu-id="8913a-103">Word, Excel, PowerPoint ve OneNote kullanıcı [karşıdan yükleme bağlantısını dokunun](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) kendi mobil aygıttan vardır.</span><span class="sxs-lookup"><span data-stu-id="8913a-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
+- <span data-ttu-id="5487e-103">Word, Excel, PowerPoint ve OneNote için kullanıcının mobil cihazından [indirme bağlantısına dokunmasını](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) sağlayın.</span><span class="sxs-lookup"><span data-stu-id="5487e-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
 
-- <span data-ttu-id="8913a-104">Kullanıcı uygulamayı başlatın, **Oturum Aç'a** dokunun ve işlerini girin veya kimlik bilgileri Okul vardır.</span><span class="sxs-lookup"><span data-stu-id="8913a-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
+- <span data-ttu-id="5487e-104">Kullanıcının uygulamayı başlatmasını, **Oturum Aç'a** dokunmasını ve iş veya okul kimlik bilgilerini girmesini sağlar.</span><span class="sxs-lookup"><span data-stu-id="5487e-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
