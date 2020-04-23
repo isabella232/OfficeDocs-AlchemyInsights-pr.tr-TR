@@ -1,9 +1,9 @@
 ---
-title: Microsoft Intune içinde Apple MDM itme sertifika ile ilgili sorunları giderme
+title: Microsoft Intune'daki Apple MDM Push Sertifikası ile ilgili sorun giderme sorunları
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
 ms.custom:
 - "782"
 - "6200002"
-ms.openlocfilehash: 3fec83f4dd0533bdcfa778c52b9951f3e06f4dda
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4f96a0bf1d599dcd48c23d707d50e58e63933b6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500127"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759676"
 ---
-# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a><span data-ttu-id="1dc6c-102">Microsoft Intune içinde Apple MDM itme sertifika ile ilgili sorunları giderme</span><span class="sxs-lookup"><span data-stu-id="1dc6c-102">Troubleshoot issues with Apple MDM Push Certificate in Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a><span data-ttu-id="869c9-102">Microsoft Intune'daki Apple MDM Push Sertifikası ile ilgili sorun giderme sorunları</span><span class="sxs-lookup"><span data-stu-id="869c9-102">Troubleshoot issues with Apple MDM Push Certificate in Microsoft Intune</span></span>
 
-<span data-ttu-id="1dc6c-103">Şimdi, sorunu gidermek için aşağıda listelenen kaynakları inceleyin.</span><span class="sxs-lookup"><span data-stu-id="1dc6c-103">Review the resources listed below to resolve your issue now.</span></span>
+<span data-ttu-id="869c9-103">Sorununuzu şimdi çözmek için aşağıda listelenen kaynakları gözden geçirin.</span><span class="sxs-lookup"><span data-stu-id="869c9-103">Review the resources listed below to resolve your issue now.</span></span>
   
-1. <span data-ttu-id="1dc6c-104">Apple MDM itme sertifikayı yenilemek veya yapılandırmak için [Bu belgeyi](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) gözden geçirin.</span><span class="sxs-lookup"><span data-stu-id="1dc6c-104">Review [this document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) to configure or renew Apple MDM push certificate.</span></span>
+1. <span data-ttu-id="869c9-104">Apple MDM push sertifikasını yapılandırmak veya yenilemek için [bu belgeyi](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) gözden geçirin.</span><span class="sxs-lookup"><span data-stu-id="869c9-104">Review [this document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) to configure or renew Apple MDM push certificate.</span></span>
 
-2. <span data-ttu-id="1dc6c-105">[Intune sorun giderme Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) tanılamak ve ortak kayıt hatalarını gidermek için kullanın.</span><span class="sxs-lookup"><span data-stu-id="1dc6c-105">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="1dc6c-106">Daha fazla ayrıntı için [Bu belgeyi](https://docs.microsoft.com/intune/help-desk-operators) gözden geçirin.</span><span class="sxs-lookup"><span data-stu-id="1dc6c-106">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
+2. <span data-ttu-id="869c9-105">Sık karşılaşılan kayıt hatalarını tanılamak ve gidermek için [Intune Sorun Giderme Portalı'nı](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) kullanın.</span><span class="sxs-lookup"><span data-stu-id="869c9-105">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="869c9-106">Daha fazla ayrıntı için [bu belgeyi](https://docs.microsoft.com/intune/help-desk-operators) gözden geçirin.</span><span class="sxs-lookup"><span data-stu-id="869c9-106">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
 
-3. <span data-ttu-id="1dc6c-107">Bu belgeler için kayıt ve çözümler için her önlemek sık karşılaşılan hataların listesini gözden geçirin: [sorun giderme kılavuzu](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) ve [sorun giderme doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).</span><span class="sxs-lookup"><span data-stu-id="1dc6c-107">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).</span></span>
+3. <span data-ttu-id="869c9-107">Bu belgeleri, her birine kaydolmasını ve çözümlerini engelleyen yaygın hataların bir listesi için gözden geçirin: [Sorun Giderme kılavuzu](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) ve [Sorun Giderme dokümanı.](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)</span><span class="sxs-lookup"><span data-stu-id="869c9-107">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).</span></span>

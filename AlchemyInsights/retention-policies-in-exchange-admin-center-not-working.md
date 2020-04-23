@@ -1,9 +1,9 @@
 ---
-title: Bekletme ilkeleri Exchange Yönetim Merkezi çalışmıyor
+title: Exchange Yönetici Merkezi'nde Bekletme İlkeleri çalışmıyor
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,53 +12,53 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 5d7b62546397c13b37540e8797b31123b2880280
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2fb22f872be0eefc3b4b78b18cd09baffa66cda
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551363"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742453"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a><span data-ttu-id="e6281-102">Exchange Yönetim Merkezi'nde bekletme ilkeleri</span><span class="sxs-lookup"><span data-stu-id="e6281-102">Retention Policies in Exchange Admin Center</span></span>
+# <a name="retention-policies-in-exchange-admin-center"></a><span data-ttu-id="8a4cb-102">Exchange Yönetici Merkezinde Bekletme İlkeleri</span><span class="sxs-lookup"><span data-stu-id="8a4cb-102">Retention Policies in Exchange Admin Center</span></span>
 
- <span data-ttu-id="e6281-103">**Sorun:** Yeni oluşturulan veya posta kutularına Exchange Yönetim Merkezi'ndeki güncelleştirilmiş bekletme ilkeleri yapmamayı veya öğeleri değil arşiv posta kutusuna taşınmış veya silinmiş.</span><span class="sxs-lookup"><span data-stu-id="e6281-103">**Issue:** Newly created or updated retention policies in the Exchange Admin Center are not applying to mailboxes or items are not moved to the archive mailbox or deleted.</span></span> 
+ <span data-ttu-id="8a4cb-103">**Sorun:** Exchange Yönetici Merkezi'nde yeni oluşturulan veya güncelleştirilen bekletme ilkeleri posta kutularına uygulanmaz veya öğeler arşiv posta kutusuna taşınmaz veya silinmez.</span><span class="sxs-lookup"><span data-stu-id="8a4cb-103">**Issue:** Newly created or updated retention policies in the Exchange Admin Center are not applying to mailboxes or items are not moved to the archive mailbox or deleted.</span></span> 
   
- <span data-ttu-id="e6281-104">**Ana nedenler:**</span><span class="sxs-lookup"><span data-stu-id="e6281-104">**Root Causes:**</span></span>
+ <span data-ttu-id="8a4cb-104">**Kök Nedenleri:**</span><span class="sxs-lookup"><span data-stu-id="8a4cb-104">**Root Causes:**</span></span>
   
-- <span data-ttu-id="e6281-105">**Klasör Yardımcısı yönetilen** kullanıcının posta işlenmemiş olan nedeni bu olabilir.</span><span class="sxs-lookup"><span data-stu-id="e6281-105">This may be because the **Managed Folder Assistant** has not processed the user's mailbox.</span></span> <span data-ttu-id="e6281-106">Her posta kutusu bulut tabanlı, kuruluşunuzdaki her yedi günde işlemek Yönetilen Klasör Yardımcısı çalışır.</span><span class="sxs-lookup"><span data-stu-id="e6281-106">The Managed Folder Assistant tries to process every mailbox in your cloud-based organization once every seven days.</span></span> <span data-ttu-id="e6281-107">Bekletme etiketi değiştirmek ya da bir posta kutusu için farklı bir bekletme ilkesi uygulayın, posta kutusunu işleyen Yönetilen Klasör Yardımcısı veya yönetilen klasör belirli bir işlem için Yardımcısı'nı başlatmak için Başlat-ManagedFolderAssistant cmdlet'i çalıştırabilirsiniz kadar bekleyebilirsiniz posta kutusu.</span><span class="sxs-lookup"><span data-stu-id="e6281-107">If you change a retention tag or apply a different retention policy to a mailbox, you can wait until the Managed Folder Assist processes the mailbox, or you can run the Start-ManagedFolderAssistant cmdlet to start the Managed Folder Assistant to process a specific mailbox.</span></span> <span data-ttu-id="e6281-108">Bu cmdlet'i çalıştırmak sınama veya bir bekletme ilkesi veya bekletme etiket ayarları sorun giderme için yararlı olacaktır.</span><span class="sxs-lookup"><span data-stu-id="e6281-108">Running this cmdlet is useful for testing or troubleshooting a retention policy or retention tag settings.</span></span> <span data-ttu-id="e6281-109">Daha fazla bilgi için ziyaret edin [Yönetilen Klasör Yardımcısı'nı çalıştırın](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).</span><span class="sxs-lookup"><span data-stu-id="e6281-109">For more information, visit [Run the Managed Folder Assistant](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).</span></span>
+- <span data-ttu-id="8a4cb-105">Bunun **nedeni, Yönetilen Klasör Yardımcısı'nın** kullanıcının posta kutusunu işlememiş olması olabilir.</span><span class="sxs-lookup"><span data-stu-id="8a4cb-105">This may be because the **Managed Folder Assistant** has not processed the user's mailbox.</span></span> <span data-ttu-id="8a4cb-106">Yönetilen Klasör Yardımcısı, bulut tabanlı kuruluşunuzdaki her posta kutusunu yedi günde bir işlemeye çalışır.</span><span class="sxs-lookup"><span data-stu-id="8a4cb-106">The Managed Folder Assistant tries to process every mailbox in your cloud-based organization once every seven days.</span></span> <span data-ttu-id="8a4cb-107">Bekletme etiketini değiştirir veya bir posta kutusuna farklı bir bekletme ilkesi uygularsanız, Yönetilen Klasör Yardımcısı'nın posta kutusunu işlemesini bekleyebilir veya belirli bir posta kutusunu işlemek için Yönetilen Klasör Yardımcısı'nı başlatmak için Başlat Yönetilen Klasör Yardımcısı cmdlet'ini çalıştırabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="8a4cb-107">If you change a retention tag or apply a different retention policy to a mailbox, you can wait until the Managed Folder Assist processes the mailbox, or you can run the Start-ManagedFolderAssistant cmdlet to start the Managed Folder Assistant to process a specific mailbox.</span></span> <span data-ttu-id="8a4cb-108">Bu cmdlet'i çalıştırmak, bekletme ilkesi veya bekletme etiketi ayarlarını sınamak veya sorun gidermek için yararlıdır.</span><span class="sxs-lookup"><span data-stu-id="8a4cb-108">Running this cmdlet is useful for testing or troubleshooting a retention policy or retention tag settings.</span></span> <span data-ttu-id="8a4cb-109">Daha fazla bilgi için Yönetilen Klasör Yardımcısını Çalıştır'ı ziyaret [edin.](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist)</span><span class="sxs-lookup"><span data-stu-id="8a4cb-109">For more information, visit [Run the Managed Folder Assistant](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).</span></span>
     
-  - <span data-ttu-id="e6281-110">**Çözüm:** Yönetilen Klasör Yardımcısı belirli bir posta kutusu için başlatmak için aşağıdaki komutu çalıştırın:</span><span class="sxs-lookup"><span data-stu-id="e6281-110">**Solution:** Run the following command to start the Managed Folder Assistant for a specific mailbox:</span></span>
+  - <span data-ttu-id="8a4cb-110">**Çözüm:** Belirli bir posta kutusu için Yönetilen Klasör Yardımcısı'nı başlatmak için aşağıdaki komutu çalıştırın:</span><span class="sxs-lookup"><span data-stu-id="8a4cb-110">**Solution:** Run the following command to start the Managed Folder Assistant for a specific mailbox:</span></span>
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- <span data-ttu-id="e6281-111">Bu da olması oluşabilir **RetentionHold** posta kutusu **Etkin** hale getirildi.</span><span class="sxs-lookup"><span data-stu-id="e6281-111">This may also be occur if **RetentionHold** has been **enabled** on the mailbox.</span></span> <span data-ttu-id="e6281-112">Posta kutusu bir RetentionHold konduysa, posta kutusunun üzerinde bekletme ilkesini bu süre içinde işlenmez.</span><span class="sxs-lookup"><span data-stu-id="e6281-112">If the mailbox has been placed on a RetentionHold, the retention policy on the mailbox will not be processed during that time.</span></span> <span data-ttu-id="e6281-113">RetentionHold ayar bkz: hakkında daha fazla bilgilerini için: [Posta kutusu saklama tutun](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).</span><span class="sxs-lookup"><span data-stu-id="e6281-113">For more informaton on the RetentionHold setting see: [Mailbox Retention Hold](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).</span></span>
+- <span data-ttu-id="8a4cb-111">**Bu,** posta kutusunda Beklet **etkinleştirilmişse** de oluşabilir.</span><span class="sxs-lookup"><span data-stu-id="8a4cb-111">This may also be occur if **RetentionHold** has been **enabled** on the mailbox.</span></span> <span data-ttu-id="8a4cb-112">Posta kutusu Bekletme Ambarı'na yerleştirilmişse, posta kutusundaki bekletme ilkesi bu süre içinde işleme alınmaz.</span><span class="sxs-lookup"><span data-stu-id="8a4cb-112">If the mailbox has been placed on a RetentionHold, the retention policy on the mailbox will not be processed during that time.</span></span> <span data-ttu-id="8a4cb-113">Bekletme ayarında daha fazla bilgilendirme için bkz: [Posta Kutusu Bekletme .](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)</span><span class="sxs-lookup"><span data-stu-id="8a4cb-113">For more informaton on the RetentionHold setting see: [Mailbox Retention Hold](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).</span></span>
     
-    <span data-ttu-id="e6281-114">**Çözüm:**</span><span class="sxs-lookup"><span data-stu-id="e6281-114">**Solution:**</span></span>
+    <span data-ttu-id="8a4cb-114">**Çözüm:**</span><span class="sxs-lookup"><span data-stu-id="8a4cb-114">**Solution:**</span></span>
     
-  - <span data-ttu-id="e6281-115">RetentionHold ayarı belirli bir posta kutusu [EXO](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)PowerShell'de durumunu denetleyin:</span><span class="sxs-lookup"><span data-stu-id="e6281-115">Check the status of the RetentionHold setting on the specific mailbox in [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):</span></span>
+  - <span data-ttu-id="8a4cb-115">[EXO powershell'deki](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)belirli posta kutusundaki Bekletme Ayarı'nın durumunu denetleyin:</span><span class="sxs-lookup"><span data-stu-id="8a4cb-115">Check the status of the RetentionHold setting on the specific mailbox in [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):</span></span>
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - <span data-ttu-id="e6281-116">Belirli bir posta kutusuna RetentionHold **devre dışı bırakmak** için aşağıdaki komutu çalıştırın:</span><span class="sxs-lookup"><span data-stu-id="e6281-116">Run the following command to **disable** RetentionHold on a specific mailbox:</span></span>
+  - <span data-ttu-id="8a4cb-116">Belirli bir posta kutusunda Beklet'i **devre dışı kıtırmak** için aşağıdaki komutu çalıştırın:</span><span class="sxs-lookup"><span data-stu-id="8a4cb-116">Run the following command to **disable** RetentionHold on a specific mailbox:</span></span>
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - <span data-ttu-id="e6281-117">Şimdi, yönetilen Klasör Yardımcısı'nı yeniden çalıştırın:</span><span class="sxs-lookup"><span data-stu-id="e6281-117">Now, re-run the Managed folder Assistant:</span></span>
+  - <span data-ttu-id="8a4cb-117">Şimdi, Yönetilen klasör Yardımcısı yeniden çalıştırın:</span><span class="sxs-lookup"><span data-stu-id="8a4cb-117">Now, re-run the Managed folder Assistant:</span></span>
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- <span data-ttu-id="e6281-118">**Not:** Posta kutusu 10 MB'den küçükse, yönetilen Klasör Yardımcısı otomatik olarak posta kutusu işlemez.</span><span class="sxs-lookup"><span data-stu-id="e6281-118">**Note:** If a mailbox is smaller than 10 MB, the Managed Folder Assistant will not automatically process the mailbox.</span></span>
+ <span data-ttu-id="8a4cb-118">**Not:** Bir posta kutusu 10 MB'dan küçükse, Yönetilen Klasör Yardımcısı posta kutusunu otomatik olarak işlemez.</span><span class="sxs-lookup"><span data-stu-id="8a4cb-118">**Note:** If a mailbox is smaller than 10 MB, the Managed Folder Assistant will not automatically process the mailbox.</span></span>
  
-<span data-ttu-id="e6281-119">Exchange Yönetim Merkezi'ndeki bekletme ilkeleri hakkında daha fazla bilgi için bkz:</span><span class="sxs-lookup"><span data-stu-id="e6281-119">For more info on retention policies in the Exchange Admin Center, see:</span></span>
-- [<span data-ttu-id="e6281-120">Bekletme etiketler ve bekletme ilkeleri</span><span class="sxs-lookup"><span data-stu-id="e6281-120">Retention tags and retention policies</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [<span data-ttu-id="e6281-121">Posta kutularına bir bekletme ilkesi uygulayın</span><span class="sxs-lookup"><span data-stu-id="e6281-121">Apply a retention policy to mailboxes</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [<span data-ttu-id="e6281-122">Bekletme Etiketler Ekle Kaldır</span><span class="sxs-lookup"><span data-stu-id="e6281-122">Add or remove retention tags</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [<span data-ttu-id="e6281-123">Ayrı tutma türünü tanımlamak nasıl bir posta kutusuna yerleştirilen</span><span class="sxs-lookup"><span data-stu-id="e6281-123">How to identify the type of hold placed on a mailbox</span></span>](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+<span data-ttu-id="8a4cb-119">Exchange Yönetici Merkezi'ndeki bekletme ilkeleri hakkında daha fazla bilgi için bkz:</span><span class="sxs-lookup"><span data-stu-id="8a4cb-119">For more info on retention policies in the Exchange Admin Center, see:</span></span>
+- [<span data-ttu-id="8a4cb-120">Bekletme etiketleri ve bekletme ilkeleri</span><span class="sxs-lookup"><span data-stu-id="8a4cb-120">Retention tags and retention policies</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [<span data-ttu-id="8a4cb-121">Posta kutularına bekletme ilkesi uygulama</span><span class="sxs-lookup"><span data-stu-id="8a4cb-121">Apply a retention policy to mailboxes</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [<span data-ttu-id="8a4cb-122">Bekletme etiketleri ekleme veya kaldırma</span><span class="sxs-lookup"><span data-stu-id="8a4cb-122">Add or remove retention tags</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [<span data-ttu-id="8a4cb-123">Posta kutusuna yerleştirilen bekleme türünü belirleme</span><span class="sxs-lookup"><span data-stu-id="8a4cb-123">How to identify the type of hold placed on a mailbox</span></span>](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)

@@ -1,9 +1,9 @@
 ---
-title: 9000234 Outlook.com iç sunucu hatası
+title: 9000234 Outlook.com dahili sunucu hatası
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 5ba6eaacdc2f763948e7c34d50231fafe4138d5c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3f21b33866d0fe420c42b0c54350a43c99777f6f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536563"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760108"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a><span data-ttu-id="4cd74-102">Outlook.com iç sunucu hataları</span><span class="sxs-lookup"><span data-stu-id="4cd74-102">Internal server errors in Outlook.com</span></span>
+# <a name="internal-server-errors-in-outlookcom"></a><span data-ttu-id="86b4f-102">Outlook.com iç sunucu hataları</span><span class="sxs-lookup"><span data-stu-id="86b4f-102">Internal server errors in Outlook.com</span></span>
 
-<span data-ttu-id="4cd74-103">OH yok!</span><span class="sxs-lookup"><span data-stu-id="4cd74-103">Oh no!</span></span> <span data-ttu-id="4cd74-104">"500 hatası" veya "İç sunucu hatası" iletisi görürseniz, bunu bize değil, - ise, hakkında Üzgünüm.</span><span class="sxs-lookup"><span data-stu-id="4cd74-104">If you see "Error 500" or an "Internal Server Error" message, it's us and not you - sorry about that.</span></span>
+<span data-ttu-id="86b4f-103">Hayır, hayır!</span><span class="sxs-lookup"><span data-stu-id="86b4f-103">Oh no!</span></span> <span data-ttu-id="86b4f-104">"Hata 500" veya "Dahili Sunucu Hatası" iletisi görürseniz, bu bizim değil, sizsiniz - bunun için üzgünüm.</span><span class="sxs-lookup"><span data-stu-id="86b4f-104">If you see "Error 500" or an "Internal Server Error" message, it's us and not you - sorry about that.</span></span>
 
-<span data-ttu-id="4cd74-105">Geçmeden başka bir şey yok, ancak birkaç dakika mola almak için en iyi çözüm olduğunu emin olmak için [Office Hizmet durumu sayfasını](https://portal.office.com/servicestatus) denetleyin ve sonra **CTRL** ve **F5**tuşuna basarak tarayıcınızı yenileyin.</span><span class="sxs-lookup"><span data-stu-id="4cd74-105">Check out the [Office Service Status page](https://portal.office.com/servicestatus) to make sure there's nothing else going on, but the best solution is to take a break for a few minutes, then refresh your browser by pressing **CTRL** and **F5**.</span></span>
+<span data-ttu-id="86b4f-105">Başka bir şey olup olmadığından emin olmak için [Office Hizmet Durumu sayfasına](https://portal.office.com/servicestatus) göz atın, ancak en iyi çözüm birkaç dakika mola vermek, ardından **CTRL** ve **F5**tuşuna basarak tarayıcınızı yenilemektir.</span><span class="sxs-lookup"><span data-stu-id="86b4f-105">Check out the [Office Service Status page](https://portal.office.com/servicestatus) to make sure there's nothing else going on, but the best solution is to take a break for a few minutes, then refresh your browser by pressing **CTRL** and **F5**.</span></span>
