@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958558"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537761"
 ---
 # <a name="general-migration-performance-guidance"></a>Genel geçiş performansı kılavuzu
 
+
 **Önemli**: Bu benzeri görünmemiş zamanlarda, SharePoint Online ve OneDrive hizmetlerinin kullanılabilirlik düzeyinin her zaman yüksek olmasını sağlamaya yönelik adımlar atıyoruz. Daha fazla bilgi için lütfen [SharePoint Online Geçici Özellik Değişiklikleri](https://aka.ms/ODSPAdjustments) sayfasını ziyaret edin.
 
-**Geçiş performansı kılavuzu**
+**Geçiş seçenekleri**
 
-Ağ altyapısı, dosya boyutu, geçiş saati ve azaltma geçiş performansını etkileyebilir. Bunları anlamak, geçişinizi planlamanıza ve en üst düzeyde verimlilik elde etmenize yardımcı olur.
+Taşımanız gereken dosyaların boyutuna ve sayısına bağlı olarak, içerikleri SharePoint Online’a geçirmek için kullanabileceğiniz farklı seçenekler vardır; lütfen [burada bulunan](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online) seçenekler listesine bakın.
 
-- [Genel geçiş performansı kılavuzu](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+İçerik geçişi hakkında daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
+
+- [SharePoint Geçiş Aracı](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Geçiş Yöneticisiyle çalışmaya başlama](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Taşıyıcı](https://mover.io/)
