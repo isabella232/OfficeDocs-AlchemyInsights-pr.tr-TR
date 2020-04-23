@@ -3,26 +3,26 @@ title: DKIM kurulum sorunlarını düzeltme
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: 4d6dadbcbf71fe6e9ea56d6a82a7d8ababdd38ef
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: d725eb0d46dcbf1b5b6d77ca9f59fcafa5298bf1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765505"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717582"
 ---
 # <a name="fix-dkim-setup-issues"></a>DKIM kurulum sorunlarını düzeltme
 
-DKIM özel etki alanınız için etkinleştirme sorunlarla karşılaşırsanız, aşağıdaki adımları kullanın:
+Özel etki alanınız için DKIM'i etkinleştiren sorunlarla karşılaşırsanız, aşağıdaki adımları kullanın:
 
-- Çoğu DKIM kurulum sorunlarını hatalı DNS kayıtlarıyla ilgili. (**Değil** bir TXT kaydı) DKIM CNAME kaydını doğru şekilde biçimlendirilmiş olduğunu doğrulayın. Bu [konuda](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)daha fazla bilgi için bkz.
+- Çoğu DKIM kurulum sorunları yanlış DNS kayıtlarıyla ilişkilidir. DKIM CNAME kaydının (TXT kaydı**değil)** doğru biçimlendirilmiş olduğunu doğrulayın. Daha fazla bilgi için bu [konuya](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)bakın.
 
-- Sonra oluşturduğunuz veya DKIM DNS kayıtlarınızı etki alanınızın (tipik olarak, etki alanı Kaydedicisi) hizmetini barındıran DNS güncelleştirme, DNS kayıtlarını yaymak bekleyin.
+- Etki alanınız için DNS barındırma hizmetinde DKIM DNS kayıtlarınızı oluşturduktan veya güncelledikten sonra (genellikle etki alanı kayıt şirketiniz), DNS kayıtlarının yayılmasını bekleyin.
 
-- DKIM DNS kayıtları Yönetim Merkezi'nde oluşturamazsanız, değiştirebileceğiniz \<CustomDomain\> özel etki alanı (örneğin, contoso.com) ve [Çevrimiçi Exchange PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)içinde bu komutu çalıştırın: `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true`.
+- Yönetici \<merkezinde DKIM DNS kayıtlarını oluşturamıyorsanız, CustomDomain'i\> özel etki alanınızın (örneğin, contoso.com) değiştirebilir ve bu komutu Exchange Online [PowerShell'de](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)çalıştırabilirsiniz: `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true`.
