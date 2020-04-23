@@ -13,18 +13,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 40bbb44876600dcc6d0269363a36eacecc337870
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599504"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737672"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Office güncelleştirmeleriyle yüklü Microsoft Ekipleri
 
-Microsoft Teams, Office 365 ProPlus, Office 365 Business ve Office for Mac'in ***yeni yüklemelerinin*** bir parçası olarak dahildir. Daha fazla bilgi için bkz: [Microsoft Ekipleri Yeni Office yüklemelerine ne zaman eklenmeye başlar?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams, Microsoft 365 Apps kurumsal, Microsoft 365 Apps kurumsal ve Mac için ***Office'in yeni yüklemelerinin*** bir parçası olarak dahildir. Daha fazla bilgi için bkz: [Microsoft Ekipleri Yeni Office yüklemelerine ne zaman eklenmeye başlar?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Ayrıca, Aylık Kanal'da Sürüm 1906'dan başlayarak, Mevcut yüklemenizi en son sürüme güncellediğinizde Windows çalıştıran aygıtlarda Office 365 ProPlus'ın (ve Office 365 İş) ***mevcut yüklemelerine*** takımlar kademeli olarak eklenir. Daha fazla bilgi için [bkz.](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Ayrıca, Aylık Kanal'da Sürüm 1906'dan başlayarak, Mevcut yüklemenizi en son sürüme güncellediğinizde Windows çalıştıran cihazlarda Microsoft 365 Apps kurumsal (ve iş için Microsoft 365 Apps) ***mevcut yüklemelerine*** kademeli olarak eklenir. Daha fazla bilgi için [bkz.](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 **Not:** Bu dağıtım zamanlamasını beklemek istemiyorsanız, [bu yönergeleri izleyerek](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)ekipleri kullanıcılarınız için tek başına dağıtabilir veya kullanıcılarınızın Takımlar'ı https://teams.microsoft.com/downloadskendileri için
 

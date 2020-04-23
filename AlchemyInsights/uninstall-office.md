@@ -1,8 +1,8 @@
 ---
-title: Office yüklemesini kaldırın
+title: Office'i Kaldır
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,25 +12,25 @@ ms.custom:
 - "937"
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
-description: Nasıl Office bir PC'den kaldırmak aşağıdaki adımları açıklayın.
-ms.openlocfilehash: a9d7b9b4239eeff76cb6934184224a2bcb5b98d3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+description: Aşağıdaki adımlar, Office'i bilgisayardan nasıl kaldırılabildiğini açıklar.
+ms.openlocfilehash: 1b7475b5a1f6f926bd854e41a5d14cfc22b752c9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558457"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731348"
 ---
-# <a name="uninstall-office"></a>Office yüklemesini kaldırın
+# <a name="uninstall-office"></a>Office'i Kaldır
 
-Karşıdan yükleme ve [Destek ve kurtarma Yardımcısı](https://aka.ms/SARA-OfficeUninstall-Alchemy)yükleyin.
+[Destek ve Kurtarma Yardımcısı](https://aka.ms/SARA-OfficeUninstall-Alchemy)’nı indirip yükleyin.
   
-1. Açıldığında, **Office'i Kaldır ürünleri** kaldırmak için **İleri**' yi seçin ve istediğiniz sürümü seçin.
+1. Açıldığında, Office **ürünlerini kaldır'dan** kaldırmak istediğiniz sürümü seçin ve **İleri'yi**seçin.
 
-2. Ekranlar giderek devam edin ve istendiğinde bilgisayarınızı yeniden başlatın.
+2. Ekranlarda ilerlemeye devam edin ve istendiğinde bilgisayarınızı yeniden başlatın.
 
-    Yeniden başlattıktan sonra destek ve kurtarma Yardımcısı otomatik olarak yeniden açılır kaldırma işlemini tamamlamak için.
+    Yeniden başladıktan sonra, Kaldırma işlemini tamamlamak için Destek ve Kurtarma Yardımcısı otomatik olarak yeniden açılır.
 
-3. Kalan istemleri ve [Office'i yeniden](https://portal.office.com/OLS/MySoftware.aspx) uygulayın veya Yardımcısı'nı kapatın.
+3. Kalan istemleri izleyin ve [Office'i yeniden yükleyin](https://portal.office.com/OLS/MySoftware.aspx) veya yardımcıyı kapatın.
 
-Diğer kaldırma seçenekleri listesi için [Bir PC'den Office'i Kaldır'ı](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA)seçin.
+Diğer kaldırma seçeneklerinin listesi [için, bilgisayardan Office'i Kaldır'ı](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA)seçin.
   

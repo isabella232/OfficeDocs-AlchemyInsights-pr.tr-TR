@@ -1,9 +1,9 @@
 ---
-title: Eski yeni Outlook.com görünümlü yapma
+title: Yeni Outlook.com eskisine benzemesi nasıl yapılır?
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: 34ff4a6a78b6b362c7929e77e8369d2d6e05c868
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc254df10c21521e65c53e478288938e0bb1c3f3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497535"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721825"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Eski sürüm yeni Outlook.com görünümlü yapma
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Yeni Outlook.com eski sürüm gibi görünmesi nasıl yapılır?
 
-Eski sürüm yeni Outlook.com görünümlü olmak için değiştirebileceğiniz bazı ayarlar şunlardır:
+Yeni Outlook.com eski sürüme benzemesi için değiştirebileceğiniz bazı ayarlar şunlardır:
 
-1. [Düzen ayarları](https://outlook.live.com/mail/options/mail/layout)' na gidin.
-1. **İletilerim sıralanmıyor** **Focused gelen**seçin.
-1. **Kuruluş ileti** **Üstte yeni iletileri**seçin.
-1. **Gönderen resimleri gösterme** **gönderen resmi**seçin.
-1. **Okuma Bölmesi** **Okuma Bölmesi Gizle'yi**seçin.
-1. **İleti önizleme metni** **Göster Önizleme metni**seçin.
-1. **Ekleri ileti listesinde gösterme** **satır içi önizlemeleri**seçin.
+1. Düzen [ayarlarına](https://outlook.live.com/mail/options/mail/layout)gidin.
+1. **Odaklanmış gelen kutusunun**altında, **iletilerimi sıralamayın'ı**seçin.
+1. **İleti organizasyonu**altında, **en üstteki En Yeni iletileri**seçin.
+1. **Gönderen resminin**altında, **gönderenin resimlerini gösterme'yi**seçin.
+1. **Okuma bölmesi**altında, **okuma bölmelerini gizle'yi**seçin.
+1. **İleti önizleme metninin**altında, **önizleme metnini göster'i**seçin.
+1. **Satır Altı önizlemeleri**altında, **ileti listesindeki ekleri gösterme'yi**seçin.
 
-Gelen kutusu görünür ve istediğiniz şekilde davranır şekilde posta ayarlarınızı değiştirmek için [posta kutunuzdaki Outlook.com ve web üzerinde yeni Outlook görünümünü değiştirme](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)bkz.
+Gelen kutunuzun istediğiniz gibi görünmesi ve rol görmesi için Posta ayarlarınızı değiştirmek için bkz. [Outlook.com'daki posta kutunuzun görünümünü ve web'deki yeni Outlook'u değiştirin.](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)

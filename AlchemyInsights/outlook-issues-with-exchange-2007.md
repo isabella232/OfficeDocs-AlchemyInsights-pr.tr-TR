@@ -1,24 +1,24 @@
 ---
 ms.author: pebaum
-title: Outlook ile Exchange 2007 sorunları
+title: Exchange 2007 ile Outlook sorunları
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: 1ebcbc27f1a508f56c82c7706be9209c22baa1c6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5fea63cad08955d340a0382145c433bbc48b40ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372832"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743329"
 ---
-# <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>Çözüm için hata ", geçerli bir posta kutusundan posta almak mümkün değildir"
-Bir Exchange 2007 sunucusu ile Outlook 365/2016 kullanmayı denerseniz, aşağıdaki hata iletileri alırsınız:
+# <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>Hata çözümü "Geçerli bir posta kutusundan posta alamazsınız"
+Outlook 365/2016'yı Exchange 2007 sunucusuyla kullanmaya çalışırsanız aşağıdaki hataları alırsınız:
 
-*Dur, 2016 Office yüklemek için beklemeniz gerekir. Geçerli bir posta kutusundan posta almak mümkün olmayacaktır. Outlook 2016 Exchange 2007 ile uyumlu değil. Posta sağlayıcınıza veya sistem yöneticiniz bu konuda bağlantı kurabilirsiniz. Kullanmaya çalıştığınız kaynak desteklenmeyen bir Microsoft Exchange sürümünde bulunur. Yardım için e-posta yöneticinize başvurun.*
+*Durdurun, Office 2016'yı yüklemek için beklemeniz gerekir. Geçerli bir posta kutusundan posta alamazsınız. Outlook 2016 Exchange 2007 ile uyumlu değildir. Bu sorunla ilgili olarak posta kutusu sağlayıcınıza veya sistem yöneticinize başvurmak isteyebilirsiniz. Kullanmaya çalıştığınız kaynak, Microsoft Exchange'in desteklenmeyen bir sürümünde bulunur. Yardım için e-posta yöneticinize başvurun.*
 
-Exchange 2007 ile Outlook kullanmak için Outlook'un önceki bir sürümünden yükseltme yaptıysanız, Outlook 2013 yükleyebilirsiniz. Daha fazla bilgi için bkz: [nasıl ı yeniden Office 2013 Office 2016 yükseltme sonrasında?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)
+Outlook'u Exchange 2007 ile kullanmak için, Outlook'un önceki bir sürümünden yükselttiyseniz Outlook 2013'ü yükleyebilirsiniz. Daha fazla bilgi için [bkz.](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)

@@ -1,9 +1,9 @@
 ---
-title: Faturalama deyiminiz bir kopyasını e-postayla alırsınız.
+title: Fatura ekstrenizin kopyasını e-posta yla alma
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,23 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2af1c5374c0cb08891f42f83e2a5e54ef17e914a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510103"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724970"
 ---
-# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Office 365 faturalama deyiminiz bir kopyasını e-postayla alırsınız.
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Fatura ekstrenizin kopyasını e-posta yla alma
 
 Dilerseniz fatura ekstrenizin kopyasını e-posta eki olarak da alabilirsiniz. Bu işlem hakkında bilmeniz gerekenler:
   
 - Bildirim alıcısı olarak listenen herkesin hem birincil hem de alternatif e-posta adresine ileti gönderilir.
 
-- İki ayrı e-postalar alırsınız: faturanızı görüntülemek için yönetim merkezine oturum açmak için yönergeleri ile hazır ve ikinci bir eposta bilmenize olanak veren bir ödeme bildirimi ek olarak içerir.
+- İki ayrı e-posta alacaksınız: biri faturanızın hazır olduğunu bilmenizi sağlar, görüntülemek için Yönetici merkezine oturum açma yönergeleri ve fatura ekini içeren ikinci bir e-posta.
 
-E-postayla, ödeme bildirimi almak için:
+Fatura ekstrenizi e-posta ile almak için:
   
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [Ödeme bildirimleri](https://go.microsoft.com/fwlink/p/?linkid=853212) sayfa.
+1. Yönetici merkezinde, **Faturalandırma** \> [bildirimleri](https://go.microsoft.com/fwlink/p/?linkid=853212) sayfasına gidin.
 
-2. Altında **Ödeme bildirimi e-posta eki olarak aldığınız?**, **üzerinde**geçiş geçiş yapın. Fatura ekstrelerini e-posta olarak almayı durdurmak isterseniz, iki durumlu düğmeyi **Kapalı** duruma getirebilirsiniz.
+2. Fatura **ekini e-posta eki olarak alır sınız?** **On** Fatura ekstrelerini e-posta olarak almayı durdurmak isterseniz, iki durumlu düğmeyi **Kapalı** duruma getirebilirsiniz.

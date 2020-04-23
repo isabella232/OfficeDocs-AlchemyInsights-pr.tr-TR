@@ -1,9 +1,9 @@
 ---
-title: import-export-in-Outlook-for-Mac
+title: mac için içe aktarma-dışa aktarma
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 5a03c5871187b07201e548295facf17df3209f74
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 524053a53a8390253259c3edae71a7a60995c8ce
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33629965"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724750"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Mac için Outlook'taki Alma/verme 
+# <a name="importexport-in-outlook-for-mac"></a>Mac için Outlook'ta Alma/Dışa Aktarma 
 
-Dışa aktarma:
-1. **Araçlar** sekmesinde, **Dışa Aktar**' ı seçin.
-2. **Farklı Kaydet** kutusunda, **Sık Kullanılanlar**altında **Downloads** klasörü seçin ve **Kaydet**' i seçin.
-3. Verme işlemi tamamlandığında bildirim gördüğünüzde, **Son**' u seçin.
+Ihracat:
+1. **Araçlar** sekmesinde **Dışa Aktar'ı**seçin.
+2. **Sık Kullanılanlar'ın**altında **Kaydet** **kutusunda, İndirilenler** klasörünü seçin ve **Kaydet'i**seçin.
+3. Dışa aktarmanın tamamolduğuna dair bildirimi **gördüğünüzde, Finish'i**seçin.
 
-İçe aktarma:
-1. **Araçlar** sekmesinde **Al**' ı seçin.
-2. **Windows için Outlook arşiv dosyasına (.pst)** seçin > **devam et**.
-3. Mac üzerinde .pst dosyasını bulun ve sonra **Al**' ı seçin.
-4. Alma işlemi tamamlandığında, **Son**seçin.
-5. Alınan öğeler **Üzerinde Bilgisayarım**altındaki Gezinti Bölmesi'nde görünür.
+Ithalat:
+1. **Araçlar** sekmesinde, **İçe Aktar'ı**seçin.
+2. **Windows arşiv dosyası için Outlook'u seçin (.pst)** > Devam**et.**
+3. Mac'inizde .pst dosyasını bulun ve sonra **Içe Aktar'ı**seçin.
+4. Alma işlemi **tamamlandığında, Finish'i**seçin.
+5. İçe aktarılan öğeler **Bilgisayarım'ın**altındaki gezinti bölmesinde görünür.
 
-Alma ve verme tam kümesini [alma ve verme Outlook e-posta, kişiler ve Takvim](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)Outlook for Mac yönergelere bakın. 
+Mac için Outlook için İçe Aktarma ve Dışa Aktarma yönergelerinin tam kümesi için [Bkz. Outlook e-postası, kişileri ve takvimi.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac) 
 
-Mac sorunlar için Outlook içinde app için destek almak için Outlook'u açın ve **Yardım**' ı seçin > **Destek hizmetlerine başvurabilirsiniz**. Sorunuzu yazın ve Outlook için Mac destek ekibi üyesi iletişim alırsınız. [Outlook for Mac destek hizmetlerine başvurma](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Mac sorunları için Outlook için uygulama içi destek almak için Outlook'u açın ve **Yardım** > **Kişi Desteği'ni**seçin. Sorunuz yazın ve Mac için Outlook destek ekibinin bir üyesi sizinle iletişime geçsin. [Mac için Outlook'ta desteğe başvurun](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)

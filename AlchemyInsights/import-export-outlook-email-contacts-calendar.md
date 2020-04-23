@@ -1,9 +1,9 @@
 ---
-title: 1221-import-export-Outlook-email-Contacts-Calendar
+title: 1221-içe aktarma-dışa aktarma-outlook-e-posta-kişiler-takvim
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545204"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724684"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Alma ve verme Outlook e-posta, kişiler ve takvim öğeleri
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Outlook e-postası, kişileri ve takvim öğelerini içeri ve dışarı aktarma
 
-1. Outlook'ta, **Dosya**' ı tıklatın.
+1. Outlook'ta **Dosya**'ya tıklayın.
 
-2. **Açık & dışa aktar'ı**tıklatın ve **İçe Aktar/Dışa Aktar**' ı tıklatın.
+2. **Aç ve Dışarı Aktar**’a, sonra da **İçeri/Dışarı Aktar**’a tıklayın.
 
-    Bu alma ve Verme Sihirbazı'nı başlatır.
+    İçeri ve Dışarı Aktarma sihirbazı başlatılır.
 
-Tam bir set alma ve verme yönergeleri için Outlook, [Bu makaleye](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)bakın.
+Outlook için tam bir içe alma ve dışa aktarma yönergeleri kümesi için [bu makaleye](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)bakın.
 
-Bir yönetici iseniz ve toplu alma birden fazla PST dosyaları Office 365 posta kutularına istediğiniz [Bu makaleye](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)bakın.
+Yöneticiyseniz ve birden çok PST dosyasını Microsoft 365 posta kutularına toplu olarak almak istiyorsanız, [bu makaleye](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)bakın.
