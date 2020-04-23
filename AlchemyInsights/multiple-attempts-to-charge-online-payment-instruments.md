@@ -1,9 +1,9 @@
 ---
-title: Birden çok Çevrimiçi ödeme araçlarını şarj girişimleri
+title: Çevrimiçi ödeme araçlarını şarj etmek için birden fazla girişim
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 5bcba5903f9ca00b3c6235f9d07e165f35b2a66e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548699"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762014"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a><span data-ttu-id="9e040-102">Birden çok Çevrimiçi ödeme araçlarını şarj girişimleri</span><span class="sxs-lookup"><span data-stu-id="9e040-102">Multiple attempts to charge online payment instruments</span></span>
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a><span data-ttu-id="55882-102">Çevrimiçi ödeme araçlarını şarj etmek için birden fazla girişim</span><span class="sxs-lookup"><span data-stu-id="55882-102">Multiple attempts to charge online payment instruments</span></span>
 
-<span data-ttu-id="9e040-103">Birden çok Çevrimiçi ödeme araçlarını hizmette herhangi bir eylem gerçekleştirmeden önce şarj girişimleri vermiyoruz.</span><span class="sxs-lookup"><span data-stu-id="9e040-103">We make multiple attempts to charge online payment instruments before taking any action on the service.</span></span> <span data-ttu-id="9e040-104">Sonra bir ödeme yöntemi, vadesi geçmiş tüm seçili ise seçili ödeme yöntemiyle tutarları ödenen.</span><span class="sxs-lookup"><span data-stu-id="9e040-104">After a payment method is selected, all past due amounts must be paid with the selected payment method.</span></span> <span data-ttu-id="9e040-105">Aboneliğiniz için geçerli ödeme bilgileri güncelleştirmek için [ekleme, güncelleştirme, veya kredi kartı numaranızı veya banka hesabı iş için Office 365'te kaldırma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)adımlarını izleyin.</span><span class="sxs-lookup"><span data-stu-id="9e040-105">To update the current payment information for your subscription, follow the steps in [Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="55882-103">Hizmet hakkında herhangi bir işlem yapmadan önce çevrimiçi ödeme araçlarını şarj etmek için birden fazla girişimde bulunuyoruz.</span><span class="sxs-lookup"><span data-stu-id="55882-103">We make multiple attempts to charge online payment instruments before taking any action on the service.</span></span> <span data-ttu-id="55882-104">Bir ödeme yöntemi seçildikten sonra, vadesi geçmiş tüm tutarların seçili ödeme yöntemiyle ödenmesi gerekir.</span><span class="sxs-lookup"><span data-stu-id="55882-104">After a payment method is selected, all past due amounts must be paid with the selected payment method.</span></span> <span data-ttu-id="55882-105">Aboneliğiniz için geçerli ödeme bilgilerini güncelleştirmek [için, iş için Microsoft 365'teki bir kredi kartı veya banka hesabını ekle, güncelleştir veya kaldır](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)adımlarını izleyin.</span><span class="sxs-lookup"><span data-stu-id="55882-105">To update the current payment information for your subscription, follow the steps in [Add, update, or remove a credit card or bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
