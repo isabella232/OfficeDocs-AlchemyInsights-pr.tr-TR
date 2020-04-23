@@ -1,9 +1,9 @@
 ---
-title: 1554 Winsock hata 10061
+title: 1554 Winsock hatası 10061
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: f54c7fc81c274871fbc22908ce0fb21500975d9e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e8f62d97efc937518ef766b45e1747e83b7f99c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530832"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766189"
 ---
-# <a name="winsock-error-10061"></a>WINSOCK Hatası: 10061
+# <a name="winsock-error-10061"></a>Winsock hatası 10061
 
-Bu hata kodunu Office 365 (bağlantı) ile hedef ana bilgisayarı bir TCP Yuvasını kurmak uygulanamadı anlamına gelir. Bu hatanın en olası nedeni, güvenlik duvarı yapılandırması ile ilgili bir sorun var. Sorunu gidermek için bu ayarları denetleyin:
+Bu hata kodu, Microsoft'un hedef ana bilgisayarla bir TCP soketi (bağlantı) kuramadığı anlamına gelir. Bu hatanın en olası nedeni güvenlik duvarı yapılandırmanızla ilgili bir sorundur. Sorunu gidermek için şu ayarları denetleyin:
 
-- Bilgileri [Office 365 URL'leri ve IP adres aralıkları](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) ile güvenlik duvarı yapılandırmanızı doğrulayın
+- Güvenlik duvarı yapılandırmanızı Microsoft [365 URL'leri ve IP adres aralıklarında](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) bulunan bilgilerle doğrulayın
 
-- Hata Exchange çevrimiçi koruma (EOP) belirli ise, daha önce bir değişiklik [Exchange çevrimiçi koruma IP adresleri](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)için bildirildi.
+- Hata Exchange Online Protection 'a (EOP) özgüyse, daha önce Exchange [Online Protection IP adreslerinde](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)bir değişiklik için bilgilendirilmeniz gerekirdi.
 
-- Internet servis sağlayıcınıza (ISS) bağlantı noktası engellemediğinden emin olun.
+- Internet Servis Sağlayıcınızın (ISS) bağlantı noktasını engellemediğini doğrulayın.
 
-- Bağlayıcılar, akıllı ana bilgisayar ve hedef sunucu ayarlarını doğrulayın.
+- Bağlayıcılarınızdaki akıllı ana bilgisayar ve hedef sunucu ayarlarını doğrulayın.
 
-Not Bu yolla *gelen* bağlantıları Office 365 engellemez.
+Microsoft 365'in *gelen* bağlantıları bu şekilde engellemediğini unutmayın.

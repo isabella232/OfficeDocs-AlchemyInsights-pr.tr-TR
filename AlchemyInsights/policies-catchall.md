@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2bb5db2c22560021fc82e9778d237d6b70884bcf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599972"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765577"
 ---
 # <a name="teams-policies"></a>Takım ilkeleri
 
@@ -30,5 +30,5 @@ Takım ilkeleri aşağıdaki alanlara ayrılır:
 - [Toplantı ilkeleri,](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) lobiyi denetlemek de dahil olmak üzere kullanıcıların Takımlar toplantılarında neler yapabileceğini denetler. Ekiplerin herkesi kabul etmesi için yapılandırma gibi lobi sorunlarıyla ilgili yardım için Kontrol [lobisi ayarlarına ve katılım düzeylerine](https://docs.microsoft.com/alchemyinsights/bypass-lobby)bakın.
 - [Mesajlaşma ilkeleri,](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) sohbeti açma veya kapatma, sohbetleri silme, okundu bilgisi isteme, giphys ve çıkartmalar kullanma ve daha fazlası dahil olmak üzere kullanıcıların sohbet ve mesajlarla neler yapabileceğini denetler.
 - [Uygulama kurulum ilkeleri,](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) özel ve üçüncü taraf uygulamalar da dahil olmak üzere hangi uygulamaların kullanıcılar tarafından kullanılabilen ve göründükleri sırayı denetler.  
-- Ekipler için veri [saklama ilkeleri](https://docs.microsoft.com/microsoftteams/retention-policies) Office 365 Güvenlik ve Uyumluluk Merkezi'nde bulunur.
+- Ekipler için veri [saklama ilkeleri](https://docs.microsoft.com/microsoftteams/retention-policies) Microsoft 365 güvenlik ve Uyumluluk Merkezi'nde bulunur.
 - Takımlar adres kitap ilkeleri [kapsamlı dizin araması](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)ile ayarlanır.

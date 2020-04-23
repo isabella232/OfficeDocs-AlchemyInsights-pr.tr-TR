@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 80fe96b72c9e7fdb610bf4618535bbecb9465c9d
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286275"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767089"
 ---
 # <a name="sync-my-outlook-contacts-to-my-address-book"></a>Outlook kişilerimi adres defterimle senkronize etme
 
@@ -30,7 +30,7 @@ Outlook, kişilerinizi Android'deki varsayılan Kişiler uygulamasına dışa ak
 
 3. Kişileri **Eşitle** kaydırıcısını Aç'a değiştirin.
  
-Office 365, Outlook.com ve şirket içi posta kutuları için karma modern kimlik doğrulaması için iki yönlü kişi dışa aktarma desteklenir. Çift yönlü destek, eklediğiniz yeni kişilerin veya düzenlemeniz gereken varolan kişilerin aygıtınızla Outlook hesaplarınız arasında eşitlenmelerini sağlar.
+İki yönlü kişi dışa aktarma, Microsoft 365, Outlook.com ve şirket içi posta kutuları için karma modern kimlik doğrulaması için desteklenir. Çift yönlü destek, eklediğiniz yeni kişilerin veya düzenlemeniz gereken varolan kişilerin aygıtınızla Outlook hesaplarınız arasında eşitlenmelerini sağlar.
  
 Eski Exchange hesapları için, kişilerinizi aygıta kaydedilecek şekilde dışa aktarabilirsiniz. **Kişileri Eşitle** etkinleştirildiğinde, Outlook'ta kişilerinize yeni eklenen kişiler ve yapılan düzenlemeler cihazınızdaki Kişiler uygulamasına kaydedilir. Ancak, doğrudan cihazınızın Kişiler uygulamasında yapılan düzenlemeler Outlook'a kaydedilmez. Şirket içi değişim hesapları için Android için Outlook'tan kişi eklemeyi/düzenlemeyi desteklemediğimizi, bu nedenle kişilerinizi farklı bir Outlook istemcisinden yönetmeniz gerekeceğini unutmayın.
  

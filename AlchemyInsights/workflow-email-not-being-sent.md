@@ -3,7 +3,7 @@ title: İş akışı e-postası gönderiliyor
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 76b64323c9d34d49e9c6bd77c2cc7eff6d7c5402
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 391d3a2dcc2676a405065115f375c802d2492119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049393"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766153"
 ---
 # <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>İş akışı e-postası SharePoint listesi veya kitaplık için göndermiyor
 
@@ -30,7 +30,7 @@ ms.locfileid: "40049393"
     - Kullanıcı izinler grubunda varsa, e-posta adresinin doğru olduğundan emin olun.
     - Kullanıcıların e-posta adresi burada ayarlanmıyorsa, o kullanıcı için sharepoint kullanıcı profillerinden bu site koleksiyonuna kullanıcı hesabının eşitlanmasını zorlayan bir örnek uyarı oluşturun.
  
-2. İş akışlarından gelen e-postalar site koleksiyonu yöneticilerine gönderilir, ancak diğer kullanıcılara gönderilmez ve **http forbidden to https hatasını görürsünüz: //URL/_vti_bin/client.xvc.sp.utility.utility.SendEmail <span></span>**.
+2. İş akışlarından gelen e-postalar site koleksiyonu yöneticilerine gönderilir, ancak diğer kullanıcılara gönderilmez ve **http forbidden to https hatasını görürsünüz: //URL/_vti_bin/client.xvc.sp.utility.utility.SendEmail <span>https:</span>**.
  
 
     Bir [SharePoint grubuna e-posta gönderdiğinde Erişim Reddedildi'yi](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups)görün.

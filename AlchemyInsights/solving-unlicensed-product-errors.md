@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 178811c81775b22676a0106283be4e516d40a95b
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 87a0a2be6b222d35acbc862eed4f14fb3e3e36ac
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628046"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764173"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>"Lisanssız Ürün" hatalarını çözmek için öneriler
 
 "Lisanssız Ürün" ile ilgili hataları çözmek için aşağıdakileri deneyin:
 
 - Abonelik durumunuzda bakmayı denetleyin.
-- Office 365 Business veya Business Premium gibi istemci lisanslarına izin veren bir aboneliğiniz olduğundan emin olun ve [kullanıcının atanmış bir lisansı olduğundan emin olun.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) 
+- Microsoft 365 Apps for business veya Business Premium gibi istemci lisanslarına izin veren bir aboneliğiniz olduğundan emin olun ve [kullanıcının atanmış bir lisansa sahip olduğundan emin olun.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) 
 - Kullanıcının Office'te lisans atanan aynı hesapla oturum açmıştından emin olun.
-- Hizmetle ilgili bilinen sorunlar olup olmadığını görmek için [Office 365 Hizmet durumu sayfasını](https://docs.microsoft.com/office365/enterprise/view-service-health) kontrol edin.
-- Office uygulamalarının Internet erişimini engellemediğini doğrulamak için güvenlik duvarınızı, virüsten koruma yazılımınızı ve proxy ayarlarınızı kontrol edin. Bkz. [Office 365 URL'leri ve IP adresi aralıkları.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+- [Hizmetle](https://docs.microsoft.com/office365/enterprise/view-service-health) ilgili bilinen bir sorun olup olmadığını görmek için Hizmet sistem durumu sayfasını kontrol edin.
+- Office uygulamalarının Internet erişimini engellemediğini doğrulamak için güvenlik duvarınızı, virüsten koruma yazılımınızı ve proxy ayarlarınızı kontrol edin. [URL'lere ve IP adres aralıklarına](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)bakın.
 
 Aşağıdaki sorun giderme eylemlerini de deneyebilirsiniz: 
 
@@ -37,5 +37,5 @@ Aşağıdaki sorun giderme eylemlerini de deneyebilirsiniz:
 
 Ek sorun giderme çözümleri için bkz: 
 
-- [Office'te Lisanssız Ürün ve etkinleştirme hataları](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
-- ["Üzgünüz, hesabınıza bağlanamıyorduk. Office'i etkinleştirdiğinizde lütfen daha sonra tekrar deneyin" hatası](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
+- [Office’te Lisanssız Ürün ve etkinleştirme hataları](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+- [Office’i etkinleştirdiğinizde görünen “Üzgünüz, hesabınıza bağlanılamıyor. Lütfen daha sonra yeniden deneyin” hatası](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

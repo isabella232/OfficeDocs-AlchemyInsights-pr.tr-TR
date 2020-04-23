@@ -1,9 +1,9 @@
 ---
-title: 8000059 istenmeyen posta Filtresi çalışmıyor
+title: 8000059 Spam filtresi çalışmıyor
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: 53dcda5ca13c033e74d6d25ccf1e610752e0ca79
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 38469649ddd661a90144ac8b63d7b12f6acd1549
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501351"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764101"
 ---
-# <a name="spam-filter-not-working"></a>İstenmeyen posta Filtresi çalışmıyor
+# <a name="spam-filter-not-working"></a>Spam filtresi çalışmıyor
 
-Outlook.com içinde alınan bir ileti, bir kimlik avı ya da Sızdırma dolandırıcılığı amaçlı olduğunu düşünüyorsanız, iletiyi seçin ve **Önemsiz** seçin \> bir kimlik avı dolandırıcılığı işaretlemek için **kimlik avı** . Kötüye kullanma, kimlik avı ve Sızdırma, [Bu okuma](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy)hakkında daha fazla bilgi edinmek için. E-posta adreslerini engelleme, adresleri veya etki alanı Güvenli Gönderenler listenize ekleyin veya diğer Önemsiz e-posta seçeneklerini uygulamak için **Önemsiz e-posta seçenekleri**' ni seçin.
+Outlook.com aldığınız bir iletinin kimlik avı veya sahtecilik dolandırıcılığı olduğunu düşünüyorsanız, iletiyi seçin ve kimlik avı dolandırıcılığı olarak işaretlemek için **Önemsiz** \> **Kimlik Avı'nı** seçin. Kötüye kullanım, kimlik avı ve sızdırma hakkında daha fazla bilgi edinmek için [bunu okuyun.](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) E-posta adreslerini engellemek, Güvenli Gönderenler listenize adres ler veya etki alanları eklemek veya diğer önemsiz e-posta seçeneklerini uygulamak için **Önemsiz e-posta seçeneklerini**seçin.
   

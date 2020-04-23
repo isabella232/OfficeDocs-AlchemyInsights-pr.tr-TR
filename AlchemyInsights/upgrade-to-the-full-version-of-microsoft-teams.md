@@ -1,8 +1,8 @@
 ---
-title: Microsoft Teams tam sürümüne yükseltme
+title: Microsoft Teams'in tam sürümüne yükseltme
 ms.author: pebaum
 author: pebaum
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 4fa566acd7fab0b43e4614c8a7c7ae76bcabaa5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74f242f4023e34d30787b91cb710bd658f1282ca
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506237"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766549"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Microsoft Teams tam sürümüne yükseltme
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Microsoft Teams'in tam sürümüne yükseltme
 
-Ücretsiz Microsoft Teams tam sürümüne yükseltmek gerekir? [Microsoft ekipleri Office 365 abonelik sürümüne ücretsiz yükseltme](https://docs.microsoft.com/microsoftteams/upgrade-freemium) bkz:
+Ücretsizden Microsoft Teams'in tam sürümüne yükseltme yapmanız mı gerekiyor? [Microsoft Ekiplerini Microsoft 365 abonelik sürümüne ücretsiz yükseltme ye](https://docs.microsoft.com/microsoftteams/upgrade-freemium) bakın
 
-Bu gereksinimleri karşılaması gerekir:
+Bu gereksinimleri karşılamanız gerekir:
 
-- Geçerli ücretsiz sürümü takımlar için kaydolan kişi olduğunuz.
-- Zaten kendi etki alanınız varsa, onu Azure Active Directory ile ilişkili olamaz.
-- Yükseltme sırasında veri aktarmak için yükseltme işlemi sırasında abone olmalısınız. Office 365 yükseltme işleminin dışında satın aldıysanız, veri aktarılamıyor.
+- Takımlar'ın geçerli ücretsiz sürümüne kaydolan kişi sizsiniz.
+- Kendi etki alanınız varsa, azure etkin diziniyle zaten ilişkilendirilemez.
+- Yükseltme yaparken veri aktarmak için yükseltme işlemi sırasında abone olmalısınız. Yükseltme işlemi dışında bir abonelik satın aldıysanız, veri aktaramazsınız.

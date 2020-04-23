@@ -1,9 +1,9 @@
 ---
-title: 1488-Perform-eDiscovery-and-Content-Searches
+title: 1488-perform-eDiscovery-ve-içerik-aramalar
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555253"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764748"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>İçerik arama ve eBulma aramalar gerçekleştirme
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>İçerik Aramaları ve eDiscovery aramaları nasıl gerçekleştirilir?
 
-Exchange posta kutuları, SharePoint siteleri ve OneDrive hesap ve anlık ileti iş için Skype konuşmalardaki belgeleri e-posta hızlı bir şekilde bulmak için Uyumluluk Merkezi güvenlik & içinde içerik arama aracını kullanın. E-posta, belgeler ve anlık ileti konuşmalarında Microsoft Teams ve Office 365 gruplar gibi Office 365 işbirliği araçları aramak için içerik arama aracını da kullanabilirsiniz.
+Exchange posta kutularında, SharePoint sitelerindeki ve OneDrive hesabındaki belgeleri ve Skype for Business'taki anlık ileti görüşmelerini hızlı bir şekilde bulmak için Güvenlik & Uyumluluk Merkezi'ndeki İçerik Arama aracını kullanın. Microsoft Teams ve Office 365 Grupları gibi Microsoft 365 işbirliği araçlarında e-posta, belge ve anlık ileti konuşmalarını aramak için İçerik Arama Aracı'nı da kullanabilirsiniz.
 
-**İçerik arama yapmak için**
+**İçerik araması yapmak için**
 
-1. [Güvenlik & Uyumluluk Merkezi](https://protection.office.com) için gidin ve oturum açın.
-2. **Arama > içerik Ara**' yı tıklatın.
-3. Yeni bir arama oluşturmak için **Yeni arama** ' yı tıklatın.
-4. Anahtar sözcükler ve içerik konumları dahil olmak üzere gerekli arama koşulu girin.  
-5. Arama adı, yeniden başlatın ve sonra sonuçların önizlemesini görmek için **& çalışma Kaydet** ' i tıklatın.
+1. [Güvenlik & Uyumluluk Merkezi'ne](https://protection.office.com) gidin ve oturum açın.
+2. **İçerik arama> ara'yı**tıklatın.
+3. Yeni bir arama oluşturmak için **Yeni arama'yı** tıklatın.
+4. Anahtar kelimeler ve içerik konumları da dahil olmak üzere gerekli arama koşullarını girin.  
+5. Aramayı adlandırmak, başlatmak ve ardından sonuçları önizlemek için **Kaydet & çalıştır'ı** tıklatın.
 
-İçerik arama hakkında ayrıntılı yönergeler için [İçerik arama](https://docs.microsoft.com/office365/securitycompliance/content-search) ve [eBulma çalışmalarının](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)sonuçları verme ve veri tutmak için eBulma durumları oluşturma bakın.
+İçerik aramaları, sonuç verme ve veri tutmak için eDiscovery durumları oluşturma hakkında ayrıntılı talimatlar için [Bkz. İçerik Arama](https://docs.microsoft.com/office365/securitycompliance/content-search) ve [eDiscovery örnekleri.](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-Dikkat edilmesi gereken [gereksinimleri ve sınırları](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) ve [kısmen dizinli öğe araştırma](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) inceleme tarafından içerik arama hakkında daha fazla bilgi ve diğer sonuçları anlamak.
+[Gereksinimleri ve sınırları](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) gözden geçirerek ve [kısmen dizine eklenmiş öğeleri](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ve dikkat edilmesi gereken diğer sonuçları araştırarak İçerik Arama sı hakkında daha fazla bilgi edin.

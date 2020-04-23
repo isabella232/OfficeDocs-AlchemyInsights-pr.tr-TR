@@ -1,9 +1,9 @@
 ---
-title: Office 365 eğitim planları satın almak nasıl
+title: Office 365 Eğitim planları satın alma
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: c48290d634ad3b931c9c2654dfec9d77bb27be62
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: de5cf1992b413080436d8555c9f3b71ef5787bc6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390172"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763705"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Office 365 eğitim planları satın almak nasıl
+# <a name="how-to-purchase-office-365-education-plans"></a>Office 365 Eğitim planları satın alma
 
-Biz isteğinizi gözden geçirilmiş ve belirlenen bu kuruluş, Microsoft bir nitelikli akademik kurum uygun değil. Geçerli akademik deneme Teklifleriniz deneme süresi sonunda sona erecek.
+Talebinizi gözden geçirdik ve bu kuruluşun Microsoft Nitelikli Akademik Kurum olarak uygun olmadığını belirledik. Geçerli akademik deneme teklifleriniz deneme süresinin sonunda sona erecektir.
   
-Office 365 ticari olarak satın almak için [kullanılabilir teklifleri](https://go.microsoft.com/fwlink/p/?linkid=868433)konusuna bakın.  
+Office 365'i ticari olarak satın almak için lütfen [mevcut tekliflere](https://go.microsoft.com/fwlink/p/?linkid=868433)bakın.  
