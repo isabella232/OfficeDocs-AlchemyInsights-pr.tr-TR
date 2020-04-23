@@ -1,9 +1,9 @@
 ---
-title: Office 365 olmayan karlar için satın almak nasıl
+title: Kar amacı gütmeyen kazançlar için Office 365 nasıl satın alın
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 930c64aab2278471776f2530bf93892b4afb1f67
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 83eb3cb797ebb7c0e2c3ce0e9449390e71d05341
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390892"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763597"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Office 365 olmayan karlar için satın almak nasıl
+# <a name="how-to-purchase-office-365-for-non-profits"></a>Kar amacı gütmeyen kazançlar için Office 365 nasıl satın alın
 
-Bir Microsoft yetkili kar amacı gütmeyen organizasyon olarak durumunuzu onaylanmıştır. Satın almak için:
+Microsoft Nitelikli Kar Amacı Gütmeyen Kuruluş olarak durumunuz onaylandı. Satın almak için:
   
-1. **Faturalama** için Yönetim Merkezi'nde Git \> [Satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfa.
+1. Yönetici merkezinde, **Fatura Satın** \> [Alma Hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfasına gidin.
 
-2. **Planları olmayan karlar**altındaki listeden seçin.
+2. **Kar Amacı Gütmeyen Planlar**kapsamındaki listeden seçim yapın.
 
-3. Satın almak istediğiniz abonelik üzerinde gezdirin ve **Şimdi satın al'ı**seçin.
+3. Satın almak istediğiniz aboneliğin üzerine dalın ve **Şimdi Satın Al'ı**seçin.

@@ -1,9 +1,9 @@
 ---
-title: 1490 sorun giderme eBulma hataları
+title: 1490-sorun giderme-eDiscovery-failures
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559393"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759604"
 ---
-# <a name="troubleshoot-content-search-errors"></a>İçerik arama hatalarında sorun giderme
+# <a name="troubleshoot-content-search-errors"></a>Sorun Giderme İçerik Arama hataları
 
-Arama sonuçlarını dışa aktardığınızda, yaşıyor içerik arama Office 365 veya alma hataları sorunları misiniz?
+İçerik Arama ile ilgili sorunlar yaşıyor musunuz veya arama sonuçlarını dışa aktarırken hata mı yaşıyorsunuz?
 
-Örneğin, aşağıdaki arama çalıştırıldığında alıyorlar mı?
+Örneğin, aramaları çalıştırırken aşağıdakileri alıyor musunuz?
 
-- CS008 veya CS012 hata
+- CS008 veya CS012 hataları
 
-- Sunucu meşgul aşımı hataları
+- Sunucu meşgul/zaman adatan hatalar
 
 - Uygulama hatası oluştu
 
-Ya da arama veya çok sayıda posta kutuları (100.000 posta kutuları) sonuçları dışarı aktarma, dışa aktarma hataları alınıyor?
+Veya çok sayıda posta kutusundan (100.000'den fazla posta kutusu) sonuç ararken veya dışa aktarırken, dışa aktarma hataları mı alasınız?
 
-Bu tür hatalar için başarısız olan içerik konumları için aramayı yeniden deneyin. [Bu makalede](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) daha fazla bilgi için bkz.
+Bu tür hatalar için, başarısız olan içerik konumlarını aramayı yeniden deneyin. Daha fazla bilgi için [bu makaleye](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) bakın.

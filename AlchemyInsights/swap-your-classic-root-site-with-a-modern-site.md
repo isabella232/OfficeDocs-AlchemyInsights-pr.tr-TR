@@ -2,7 +2,7 @@
 title: Klasik kök sitenizi Modern bir siteyle değiştirin
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: fe1f0f662c49de2bd0b5b997697c98309cb7983f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f4831c6a232a4dee0f8f5ac0c83e4307221cfe2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40042947"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741564"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Klasik kök sitenizi Modern bir siteyle değiştirin
 
@@ -28,7 +28,7 @@ Ortamınız Nisan 2019'dan önce ayarlanmışsa, Microsoft PowerShell'i kullanar
 
 - Sitedeki içeriği kullanmaya devam etmenizi, ancak varolan siteyi bir iletişim sitesine dönüştürmenizi sağlayacak ek özellikler yakında sunulacaktır. 
 >[!Important]
->Bu yetenekler kademeli olarak kullanıma sunulacaktır. Güncelleştirmeler için Office 365 İleti Merkezi'ni denetlemeye devam edin. 
+>Bu yetenekler kademeli olarak kullanıma sunulacaktır. Güncelleştirmeler için İleti Merkezi'ni denetlemeye devam edin. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Siteleri değiştirme yle ilgili bilinen sorunlar
 
@@ -37,8 +37,3 @@ Ortamınız Nisan 2019'dan önce ayarlanmışsa, Microsoft PowerShell'i kullanar
 - "Statik" bağlantılara (Dosya Eşitlemi ve OneNote dosyaları gibi) bağlı olan her şeyin el ile düzeltilmesi gerekir.
 - Kaynak site bir kuruluş haber sitesiyse, URL'yi güncelleştirin.Tüm organizasyonel haber sitelerinin listesini alın.
 - Project Server sitelerinin hala doğru ilişkili olduğundan emin olmak için doğrulanması gerekebilir.
-
-
-
-
-

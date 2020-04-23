@@ -1,9 +1,9 @@
 ---
-title: Çağrılacağı ya da bir e-posta iletisi
+title: E-posta iletisi geri çağırma veya değiştirme
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,33 +13,33 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553452"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742775"
 ---
-# <a name="recall-or-replace-an-email-message-in-office-365"></a>Çağrılacağı ya da Office 365'te bir e-posta iletisi
+# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Microsoft 365'te bir e-posta iletisi geri çağırma veya değiştirme
 
-- **Yalnızca kuruluşunuzdaki kişilere gönderilen iletileri geri çağırma**kullanabilirsiniz. Örneğin, Gmail adresine ileti gönderilmişse, onu Çekemiyor.
-- **Yalnızca PC için 2016 Outlook uygulamasından gönderilen iletileri geri çağırma**kullanabilirsiniz. Bir kullanıcı Mac için Outlook veya Outlook Web kullanarak bir ileti gönderirse, Çekemiyor.
-- Bir yönetici iseniz, **PowerShell kullanarak kullanıcılar adına ileti geri çekme**olabilir. Yönetim Merkezi iletilerden Çekemiyor. "Ara ve kuruluşunuzdaki e-posta iletileri silme" daha fazla bilgi için gidin.
+- Yalnızca **kuruluşunuzdaki kişilere gönderilen iletileri geri çağırabilirsiniz.** İleti bir Gmail adresine gönderildiyse, örneğin, iletiyi geri çağıramazsınız.
+- Yalnızca **PC için Outlook 2016'dan gönderilen iletileri geri çağırabilirsiniz.** Bir kullanıcı web'de Mac için Outlook veya Outlook kullanarak bir ileti gönderirse, bunu geri çağıramazsınız.
+- Yöneticiyseniz, **PowerShell'i kullanarak kullanıcılar adına iletileri geri çağırabilirsiniz.** Yönetici merkezinden gelen iletileri geri çağıramazsınız. Daha fazla bilgi için "Kuruluşunuzdaki e-posta iletilerini arayın ve silin" olarak aşağı kaydırın.
 
-**Çağrılacağı ya da size gönderilen bir e-posta iletisi**
+**Gönderdiğiniz bir e-posta iletisi geri çağırma veya değiştirme**
 
-1. Gönderilmiş Öğeler klasörü Outlook penceresinin soldaki klasör bölmesinde seçin.
-2. Geri çekmek istediğiniz iletiyi açın. İletiyi açmak için çift tıklatmanız gerekir. Okuma Bölmesi'nde görüntülenir, böylece iletiyi seçerek iletiyi geri çekmek izin vermiyor.
-3. İleti sekmesinde, **Eylemler**seçin > **Bu iletiyi Geri Çağır**.
-4. **Bu iletinin okunmamış kopyalarını sil** veya **Okunmamış kopyaları sil ve yerine yeni iletiler koy**seçin, sonra **Tamam**' ı seçin.
-5. Değiştirme ileti gönderiyorsanız, iletinizi oluşturun ve **Gönder**' i seçin.
-6. Başarı veya başarısızlık ileti geri çağırma Outlook alıcıları ayarlarına bağlıdır.
+1. Outlook penceresinin solundaki klasör bölmesinde Gönderilmiş Öğeler klasörünü seçin.
+2. Hatırlamak istediğiniz iletiyi açın. İletiyi açmak için çift tıklatmanız gerekir. İletinin okuma bölmesinde görünmesi için seçilmesi, iletiyi geri çağırmanıza izin vermez.
+3. İleti sekmesinden, **Eylemler** > **Bu İletiyi Geri Çağır'ı**seçin.
+4. **Bu iletinin okunmamış kopyalarını sil'i** seçin veya **okunmamış kopyaları silin ve yeni bir iletiyle değiştirin,** ardından **Tamam'ı**seçin.
+5. Yeni bir ileti gönderiyorsanız, iletiyi oluşturun ve **gönder'i**seçin.
+6. İleti geri çağırmanın başarısı veya başarısızlığı, Alıcıların Outlook'taki ayarlarına bağlıdır.
 
-Geri çekme üzerinde nasıl kontrol edileceğini de dahil olmak üzere daha fazla bilgi için bkz: [geri çağırma veya değiştirme size gönderilen bir e-posta iletisi](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+Geri çağırmayı nasıl denetleyeceksiniz gibi daha fazla bilgi [için, gönderdiğiniz bir e-posta iletisini geri çağır'a bakın veya değiştirin.](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)
 
-***Arama ve kuruluşunuzdaki e-posta iletileri silme*** Genel yönetici iseniz aramak ve kuruluşunuzdaki e-posta iletilerini silmek için en kolay yöntemdir Genel Yönetici değilseniz, hesabınızı uyumluluğu arama yönetim rolü veya eBulma Yöneticisi Rol grubuna eklenmesi gerekir. İletileri silmek için Kuruluş Yönetimi rol grubunun ya da arama ve temizleme yönetim rolü katılmak gerekir. [Güvenlik & Uyumluluk Merkezi](https://protection.office.com/)bu rollere izinler atanır.
+***Kuruluşunuzdaki e-posta iletilerini arama ve silme*** Kuruluşunuzdaki e-posta iletilerini aramak ve silmek için, genel bir yöneticiyseniz en kolayı buolur. Genel bir yönetici değilseniz, hesabınızın eDiscovery Manager rol grubuna veya Uyumluluk Arama yönetimi rolüne eklenmesi gerekir. İletileri silmek için, Organizasyon Yönetimi rol grubuna veya Arama ve Temizleme yönetimi rolüne katılmanız gerekir. Bu rollere ait izinler [Güvenlik & uyumluluk merkezinde](https://protection.office.com/)atanır.
 
-1. İletiyi silmek için bulmak için [arama içerik oluşturma](https://docs.microsoft.com/office365/securitycompliance/content-search) .
-2. [Güvenlik & Uyumluluk Merkezi PowerShell için bağlayın](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. Silmek için ileti bulmak için [bir içerik araması oluşturun.](https://docs.microsoft.com/office365/securitycompliance/content-search)
+2. [Güvenlik & Uyumluluk Merkezi PowerShell'e bağlanın.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps) 
 
-MFA kullanıyorsanız, [çok faktörlü kimlik doğrulama kullanarak bağlan Office 365 güvenlik & Uyumluluk Merkezi PowerShell için](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)bkz. 
+MFA kullanıyorsanız, çok [faktörlü kimlik doğrulaması kullanarak Microsoft 365 güvenlik & Uyumluluk Merkezi PowerShell'e bağlan'a](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)bakın. 

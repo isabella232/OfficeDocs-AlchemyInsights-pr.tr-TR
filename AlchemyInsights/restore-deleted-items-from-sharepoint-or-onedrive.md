@@ -1,9 +1,9 @@
 ---
-title: SharePoint veya OneDrive silinmiş öğeleri geri yükleme
+title: SharePoint veya OneDrive'dan silinen öğeleri geri yükleme
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 588c774d56ab092e7d50321ca6be9e2dd4f03f16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551903"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742535"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>SharePoint veya OneDrive silinmiş öğeleri geri yükleme
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>SharePoint veya OneDrive'dan silinen öğeleri geri yükleme
 
-1. OneDrive veya SharePoint sitesine gidin.
+1. OneDrive'ınıza veya SharePoint sitenize gidin.
     
-2. Sol bölmede **Geri Dönüşüm Kutusu'nu** tıklatın. 
+2. Sol bölmedeki **Geri Dönüşüm Kutusu'nu** tıklatın. 
     
-3. Öğeleri veya dosyaları geri yüklemek istediğiniz solunu tıklatın.
+3. Geri yüklemek istediğiniz öğelerin veya dosyaların soluna tıklayın.
     
 4. **Geri Yükle**'yi tıklatın. 
     
-Dosyaları, klasörleri, kitaplıkları, listeleri ve liste öğelerini bir SharePoint sitesinden sildiğinizde, Geri Dönüşüm Kutusu'na birisi bu Geri Dönüşüm Kutusu'ndan siler sürece nerede bunlar 93 gün süreyle tutulacağını, gidin. Bu geri dönüşüm (sitenin Geri Dönüşüm Kutusu'na denir) depo gözünden silmiş, bunlar site koleksiyonu geri dönüşüm kutusu için kalan süreyi gidin ve sonra kalıcı olarak silinir. Silinen siteleri ve site koleksiyonları oluşturmalarını doğrudan 93 gün için site koleksiyonu Geri Dönüşüm Kutusu'na gidin.
+Dosyalar, klasörler, kitaplıklar, listeler ve liste öğeleri Bir SharePoint sitesinden silindiğinde, birisi bu Geri Dönüşüm Kutusu'ndan silmedikçe 93 gün boyunca tutuldukları Geri Dönüşüm Kutusu'na gider. Bu Geri Dönüşüm Kutusu'ndan silinirlerse (site Geri Dönüşüm Kutusu olarak adlandırılır), kalan süre için site koleksiyonu Geri Dönüşüm Kutusu'na gider ve sonra kalıcı olarak silinir. Silinen siteler ve site koleksiyonları 93 gün boyunca doğrudan site koleksiyonu Geri Dönüşüm Kutusu'na gider.
   
-[Site koleksiyonu geri dönüşüm kutusu öğeleri geri yükleme](https://go.microsoft.com/fwlink/?linkid=867800) (site koleksiyonu yöneticileri) 
+[Site koleksiyonundaki öğeleri geri yükleme Geri Dönüşüm Kutusu](https://go.microsoft.com/fwlink/?linkid=867800) (site toplama yöneticileri) 
   
-[Site koleksiyonu geri yükleme silindi](https://go.microsoft.com/fwlink/?linkid=867660) (genel veya SharePoint Yöneticiler Office 365'te) 
+[Silinen site koleksiyonlarını geri yükleme](https://go.microsoft.com/fwlink/?linkid=867660) (Microsoft 365'teki genel veya SharePoint yöneticileri) 
   
-Bir Office 365 grubuna ait siteler için Grup siteyi geri yüklemek için geri yüklemeniz gerekir. [Silinen bir Office 365 Grup Geri](https://go.microsoft.com/fwlink/?linkid=867802) (Genel Yönetim) konusuna bakın. 
+Office 365 grubuna ait siteler için, siteyi geri yüklemek için grubu geri yüklemeniz gerekir. Bkz. [Silinen Office 365 grubunu geri yükleme](https://go.microsoft.com/fwlink/?linkid=867802) (genel yönetici) 
   
 

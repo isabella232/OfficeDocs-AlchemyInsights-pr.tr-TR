@@ -3,7 +3,7 @@ title: SharePoint uyarı bildirimleri teslim edilmedi
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 978ca8df40736228932ae6f6a7c33ad0b159d4e5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40047087"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742067"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint uyarı bildirimleri teslim edilmedi
 
@@ -26,7 +26,7 @@ Bazen uyarılar oraya gidebileceğinden, lütfen e-postanızdaki JUNK klasörün
 
 Tüm **uyarıların teslim edilip edilmemediğini** veya belirli bir dosya veya kitaplıktan **tek bir uyarı** nın teslim edilip edilmeymediğini belirleyin.
 
-- **Tek tek uyarılar teslim edilmez**: Belirli bir dosyadan veya kitaplıktan tek tek bir uyarı teslim edilmezse, bu uyarıyı silmeyi ve yeniden oluşturmayı deneyebilirsiniz. Uyarıyı yeniden oluşturmak için [SharePoint uyarılarını yönet, görüntüleyin veya silin.](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online)
+- **Tek tek uyarılar teslim edilmez**: Belirli bir dosyadan veya kitaplıktan tek tek bir uyarı teslim edilmezse, bu uyarıyı silmeyi ve yeniden oluşturmayı deneyebilirsiniz. Uyarıyı yeniden oluşturmak için [SharePoint uyarılarını yönet, görüntüleyin veya silin.](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2)
 - **Tüm uyarılar teslim edilmez**: Birden çok dosya veya kitaplıktan gelen tüm uyarılar teslim edilmezse, SharePoint veya Exchange ile oluşabilecek danışma/olayları kontrol etmek için [Hizmet Durumu panosunu](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ziyaret edin. Sorun SharePoint uyarı yeteneği veya Exchange üzerinden e-postalarda gecikmeler olabilir. Ayrıca, diğer e-postaların teslim edilip edilmediğine dikkat etmek de önemlidir ve teslim değilse, sorun Exchange gecikmeleri ile büyük olasılıkla.
 
 Uyarılarda SSS:
