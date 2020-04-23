@@ -12,21 +12,19 @@ ms.custom:
 - "5300030"
 - "2700"
 - "3179"
-ms.openlocfilehash: 500406e0f19610fe884df1faf3537aa7cb947e47
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552824"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789322"
 ---
 # <a name="sharepoint-migration-performance-guidance"></a>SharePoint geçiş performansı kılavuzu
 
-Ağ altyapısı, dosya boyutu, geçiş saati ve azaltma geçiş performansını etkileyebilir. Bunları anlamak, geçişinizi planlamanıza ve en üst düzeyde verimlilik elde etmenize yardımcı olur.
+Ağ altyapısı, dosya boyutu, geçiş saati ve azaltma geçiş performansını etkileyebilir.
 
 Daha fazla bilgi için şu sayfayı ziyaret edin:
 
 - [Genel geçiş performansı kılavuzu](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [SharePoint Online’da kısıtlanmayı veya engellenmeyi önleme](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [SharePoint Geçiş Aracı’nı İndirme ve Yükleme](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)

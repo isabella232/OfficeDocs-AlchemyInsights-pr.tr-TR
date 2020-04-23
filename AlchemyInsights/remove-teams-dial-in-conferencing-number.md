@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028144"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784819"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Teams arayarak bağlanılan konferans numarasını kaldırma
 
@@ -24,7 +24,7 @@ Konferans köprünüzdeki bir arayarak bağlanılan konferans numarasını kald�
 
 Konferans köprüsünün varsayılan telefon numarası, toplantıdaki bir katılımcı veya toplantıyı düzenleyen kişi bir giden arama yaptığında kullanılan arayan kimliğini tanımlar.
 
-1. İş hesabınızla Office 365’te oturum açın.
+1. İş hesabınızla oturum açın.
 
 2. **Microsoft 365 yönetim merkezine** gidin.
 
