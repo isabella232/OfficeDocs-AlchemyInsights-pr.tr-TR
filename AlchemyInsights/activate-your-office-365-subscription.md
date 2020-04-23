@@ -1,5 +1,5 @@
 ---
-title: Office 365 aboneliğinizi etkinleştirme
+title: Microsoft 365 aboneliğinizi etkinleştirme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191085"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784027"
 ---
-# <a name="activate-your-office-365-subscription"></a>Office 365 aboneliğinizi etkinleştirme
+# <a name="activate-your-subscription"></a>Aboneliğinizi etkinleştirme
 
 **Aboneliği etkinleştirme**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191085"
 
 **Aboneliği yeniden etkinleştirme**
 
-Aboneliğinizin süresi dolduysa, Microsoft tarafından devre dışı bırakıldıysa veya abonelik döneminiz sona ermeden siz iptal ettiyseniz, Office 365 yönetim merkezi üzerinden aboneliğinizi yeniden etkinleştirebilirsiniz.
+Aboneliğinizin süresi dolduysa, Microsoft tarafından devre dışı bırakıldıysa veya abonelik döneminiz sona ermeden aboneliğinizi iptal ettiyseniz, Microsoft 365 yönetim merkezinde aboneliğinizi yeniden etkinleştirebilirsiniz.
 
-- Office 365 Yönetim Merkezi’nde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasında gidin (veya **Faturalama > Abonelikler**'e tıklayın).
+- Microsoft 365 Yönetim Merkezi’nde [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasında gidin (veya **Faturalama > Abonelikler**'e tıklayın).
 
 - Yeniden etkinleştirmek istediğiniz aboneliği seçin ve **Yeniden Etkinleştir**'e tıklaynı. Kullanılabilir eylemler arasında **Yeniden Etkinleştir**’i görmüyorsanız, aboneliğinizi yeniden etkinleştirmek için [Desteği arayın](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
 
@@ -42,6 +42,6 @@ Daha fazla bilgi için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs
 
 **Ürün anahtarıyla yeni bir aboneliği etkinleştirme**
 
-- Ürün anahtarınızla yeni Office 365 aboneliğinizi etkinleştirmek için [buradaı](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db) başlayın.
+- Ürün anahtarınızla yeni Microsoft 365 aboneliğinizi etkinleştirmeye [buradan](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db) başlayın.
 
-- Office 365 ürün anahtarınızı girin ve yönergeleri izleyerek aboneliğinizi etkinleştirin. Etkinleştirme sırasında sorunla karşılaşırsanız, bu [sık karşılaşılan ürün anahtarı hataları ve çözümleri](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions) listesini gözden geçirin.
+- Microsoft 365 ürün anahtarınızı girip komut istemlerini izleyerek aboneliğinizi etkinleştirin. Etkinleştirme sırasında sorunla karşılaşırsanız, bu [sık karşılaşılan ürün anahtarı hataları ve çözümleri](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions) listesini gözden geçirin.
