@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745453"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719324"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Hesap ele geçirildiyse izlenmesi önerilen adımlar
 
-[VİDEO: Ele geçirilen Office 365 hesabını düzeltme](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VİDEO: Ele geçirilen hesabı düzeltme](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. Hemen [kullanıcının parolasını sıfırlayın](https://docs.microsoft.com/office365/admin/add-users/reset-passwords). Yeni parolayı son kullanıcıya e-postayla iletmeyin.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745453"
 
 5. Kullanıcı hesabının artık ele geçirilmiş durumda olmadığından emin olana kadar hesabı tüm [yönetici rolü gruplarından](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles) kaldırın.
 
-Gelecekte veri ihlali veya hesabın ele geçirilmesi olasılığını en aza indirmek için [Office 365 güvenlik yol haritası](https://docs.microsoft.com//office365/securitycompliance/security-roadmap) makalemizi okumanızı öneririz.
+Gelecekte veri ihlali veya hesabın ele geçirilmesi olasılığını en aza indirmek için [Microsoft 365 güvenlik yol haritası](https://docs.microsoft.com//office365/securitycompliance/security-roadmap) makalemizi okumanızı öneririz.
   

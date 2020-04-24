@@ -12,16 +12,16 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: 149d349deed9dd698f94adb64fcc429f8e8d2afc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707392"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710715"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Microsoft 365 ile Hak Yönetimi Koruması
 
-Office 365 uygulamaları ve hizmetlerinin Bilgi Hakları Yönetimi (IRM) özelliklerini kullanabilmek için, önce [Hak Yönetimi hizmetini (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) etkinleştirmeniz gerekir.
+Microsoft uygulamaları ve hizmetlerinin Bilgi Hakları Yönetimi (IRM) özelliklerini kullanabilmek için, önce [Hak Yönetimi hizmetini (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) etkinleştirmeniz gerekir.
 
 1. Lisans gereksinimleri ve **Microsoft 365 yönetim merkezinden** etkinleştirme için bkz. [Microsoft 365 Yönetim Merkezi’nden Hak Yönetimi Korumasını etkinleştirme](https://docs.microsoft.com/azure/information-protection/activate-office365). **Not**: Genel Yönetici Hesabı gerekir.
 

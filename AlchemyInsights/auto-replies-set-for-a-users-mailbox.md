@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509537"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788902"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Kullanıcının posta kutusu için otomatik yanıtları ayarlama
 
 **1. Yöntem**
 
-1. Office 365 portalında oturum açın.
+1. Microsoft 365 portalında oturum açın.
 
 2. **Kullanıcılar > Etkin kullanıcılar**’a (veya paylaşılan posta kutusunda ayarlıyorsanız **Gruplar > Paylaşılan posta kutuları**’na) gidin.
 
@@ -32,7 +32,7 @@ ms.locfileid: "43509537"
 
 **2. Yöntem**
 
-1. Yönetici kimlik bilgilerini kullanarak Office 365 yönetim portalında oturum açın.
+1. Yönetici kimlik bilgilerini kullanarak Microsoft 365 yönetim portalında oturum açın.
 
 2. **Yönetim Merkezleri**’ni genişletin ve sonra **Exchange**’e tıklayın.
 

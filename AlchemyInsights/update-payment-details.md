@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059900"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720085"
 ---
 # <a name="update-credit-card-information"></a>Kredi kartı bilgilerini güncelleştirin
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059900"
 
 Sayfa yükleme konusunda sorun yaşıyorsanız, web sayfasını başka bir tarayıcıda açmayı ya da Microsoft Edge'in InPrivate penceresi veya Google Chrome'un gizli penceresi gibi özel bir tarayıcı penceresinde açmayı deneyin. 
 
-Daha fazla bilgi için bkz. [İş için Office 365’te kredi kartı veya banka hesabını ekleme, güncelleştirme ya da kaldırma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ve [Kredi kartı ve banka hesabı sorunlarını giderme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Daha fazla bilgi için bkz. [İş için Microsoft 365’te kredi kartı veya banka hesabını ekleme, güncelleştirme ya da kaldırma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ve [Kredi kartı ve banka hesabı sorunlarını giderme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

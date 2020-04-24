@@ -12,20 +12,20 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692415"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709959"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Sesli Konferans
 
-Microsoft Teams’te Sesli Konferansı açmak veya ayarlamak için yardıma ihtiyacınız mı var? Bu kullanıcı yeni mi oluşturuldu?  Öyleyse, ayarların geçerlilik kazanması için 2-24 saat beklemeniz gerekir.    
+Microsoft Teams’te Sesli Konferansı açmak veya ayarlamak için yardıma ihtiyacınız mı var? Bu kullanıcı yeni mi oluşturuldu?  Öyleyse, ayarların geçerlilik kazanması için 2-24 saat beklemeniz gerekir.
 
 Kullanıcının Sesli Konferans için lisanslandırıldığını ve Varsayılan Ücretli Numara sahibi olduğunu doğrulamak için:
 
-1. [Etkin kullanıcılar](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)’a gidip söz konusu kullanıcıyı seçin.
+1. [Etkin Kullanıcılar](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)’a gidip söz konusu kullanıcıyı seçin.
 
 2. Yönetim merkezi sürümüne bağlı olarak, **Lisanslar ve Uygulamalar**’ı seçin veya **Ürün lisansları**’nda **Düzenle**’ye tıklayın.
 
@@ -35,8 +35,8 @@ Kullanıcının Sesli Konferans için lisanslandırıldığını ve Varsayılan 
 
 5. **Microsoft Teams yönetim merkezi**’nde **Eski portal**’a tıklayın.
 
-6. **Skype Kurumsal yönetim merkezi**’nde **sesli konferans**’a tıklayın, ardından **kullanıcılar**’a tıklayın.
+6. **Skype Kurumsal yönetim merkezinde** **sesli konferans**’a tıklayın, ardından **kullanıcılar**’a tıklayın.
 
 7. Söz konusu kullanıcıyı seçin, kullanıcının **Varsayılan Ücretli Numarasının** olduğunu doğrulayın.
 
-Daha fazla bilgi için [Office 365 Arama Planları](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)’na başvurun veya lisans ile ilgili sorular hakkında yardım almak için Microsoft Commerce Faturalama ekibini arayın.
+Daha fazla bilgi için [Arama Planları](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)’na bakın veya lisans ile ilgili sorular hakkında yardım almak için Microsoft Commerce Faturalama ekibini arayın.
