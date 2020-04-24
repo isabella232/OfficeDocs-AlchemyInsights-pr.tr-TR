@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762014"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799143"
 ---
 # <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Çevrimiçi ödeme araçlarını şarj etmek için birden fazla girişim
 
-Hizmet hakkında herhangi bir işlem yapmadan önce çevrimiçi ödeme araçlarını şarj etmek için birden fazla girişimde bulunuyoruz. Bir ödeme yöntemi seçildikten sonra, vadesi geçmiş tüm tutarların seçili ödeme yöntemiyle ödenmesi gerekir. Aboneliğiniz için geçerli ödeme bilgilerini güncelleştirmek [için, iş için Microsoft 365'teki bir kredi kartı veya banka hesabını ekle, güncelleştir veya kaldır](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)adımlarını izleyin.
+Ücret başarısız olursa, sistem önümüzdeki birkaç hafta içinde dengeyi kurmaya çalışmaya devam edecektir. Bir sonraki ücretlendirme girişiminin başarılı olmasını sağlamak için ödeme bilgilerinizde istediğiniz zaman güncellemeler yapabilirsiniz. Daha fazla bilgi için microsoft [365'teki bir kredi kartı veya banka hesabı ekle, güncelleştir veya kaldır" (iş için)](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)bakın.
