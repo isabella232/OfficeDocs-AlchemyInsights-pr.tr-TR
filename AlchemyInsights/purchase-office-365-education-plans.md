@@ -1,5 +1,5 @@
 ---
-title: Office 365 Eğitim planlarını satın alma
+title: Microsoft 365 Eğitim planlarını satın alma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 7773c955d8f6887f87a3c3741fa29a08e41541e0
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195340"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789394"
 ---
-# <a name="purchase-office-365-education-plans"></a>Office 365 Eğitim planlarını satın alma
+# <a name="purchase-microsoft-365-education-plans"></a>Microsoft 365 Eğitim planlarını satın alma
 
-Office 365 Eğitim planı için onay aldınız.  Satın almak için:
+Microsoft 365 Eğitim planı için onay aldınız.  Satın almak için:
 
 1. **[Faturalandırma > Hizmet Satın Al](https://portal.office.com/AdminPortal/Home#/catalog)**’a gidin.
 
@@ -35,6 +35,6 @@ Office 365 Eğitim planı için onay aldınız.  Satın almak için:
 
 **Uzaktan öğretim ve öğrenim**
 
-- Okulunuzu, ders planlamasını, sanal toplantıları ve öğrencilerle içerik paylaşımını ayarlama hakkında en güncel yönergeleri öğrenmek için [Office 365 Eğitim’de uzaktan öğretim ve öğrenim](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) makalesine bakın.
+- Okulunuzu, ders planlamasını, sanal toplantıları ve öğrencilerle içerik paylaşımını ayarlama hakkında en güncel yönergeleri öğrenmek için lütfen [Microsoft 365 Eğitim’de uzaktan öğretim ve öğrenim](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) makalesine bakın.
 
 - [Uzaktan öğrenim için Microsoft Teams’i kullanmaya başlama](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) ve [Uzaktan öğrenime geçiş yapma](https://www.microsoft.com/education/remote-learning) makalelerinde ek BT yönergeleri sağlanır.
