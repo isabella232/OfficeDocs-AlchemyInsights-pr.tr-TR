@@ -11,16 +11,16 @@ ms.custom:
 - "1266"
 - "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: 319a5b089da94c8a2dcf7aef7d9e1bf791490d08
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4d4206036e293419e4bc2400296ed4b0bd67e0f7
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666941"
+ms.locfileid: "43785287"
 ---
 # <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a>Microsoft 365’te TLS 1.2 kullanımına hazırlanma
 
-31 Ekim 2018’den itibaren Microsoft 365 TLS 1.2’ye geçiş yapacaktır. Bu, Microsoft’un Office 365’e bağlanmak için TLS 1.0 ve 1.1 kullanan istemciler, cihazlar veya hizmetlerde bulunan yeni sorunları düzeltmeyeceği anlamına gelir. **Bu, Microsoft 365’in TLS 1.0 ve 1.1 bağlantılarını engelleyeceği anlamına gelmez.** Kullanımdan kaldırma tarihi, müşteri kullanımına ve eski TLS güvenliğinin geçerli durumuna göre belirlenecektir. Karar verildikten sonra, bir güvenlik riski olduğunu belirlemediğimiz sürece, kullanımdan kaldırma işleminin altı ay öncesinde bir duyuru yapılacaktır. Güvenlik riski olduğunu belirlememiz durumunda ise hizmetleri kullanan müşterilerimizi korumak amacıyla altı aydan daha kısa bir süre içinde işlemi gerçekleştirmemiz gerekebilir.
+31 Ekim 2018’den itibaren Microsoft 365’in TLS 1.2’ye geçişi devam edecektir. Bu, Microsoft’un Microsoft 365’e bağlanmak için TLS 1.0 ve 1.1 kullanan istemcilerde, cihazlarda veya hizmetlerde bulunan yeni sorunları düzeltmeyeceği anlamına gelir. **Bu, Microsoft 365’in TLS 1.0 ve 1.1 bağlantılarını engelleyeceği anlamına gelmez.** Kullanımdan kaldırma tarihi, müşteri kullanımına ve eski TLS güvenliğinin geçerli durumuna göre belirlenecektir. Karar verildikten sonra, bir güvenlik riski olduğunu belirlemediğimiz sürece, kullanımdan kaldırma işleminin altı ay öncesinde bir duyuru yapılacaktır. Güvenlik riski olduğunu belirlememiz durumunda ise hizmetleri kullanan müşterilerimizi korumak amacıyla altı aydan daha kısa bir süre içinde işlemi gerçekleştirmemiz gerekebilir.
   
 Microsoft 365’e bağlanan sunucu ve istemcilerin TLS 1.2’yi mümkün olan en kısa zamanda etkinleştirmeleri kesinlikle önerilir.
   
