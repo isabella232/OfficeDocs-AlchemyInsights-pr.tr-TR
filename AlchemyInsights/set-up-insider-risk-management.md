@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43060065"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784567"
 ---
 # <a name="set-up-insider-risk-management"></a>İçeriden risk yönetimi ayarlama
 
@@ -26,13 +26,13 @@ Kuruluşunuzdaki risk uyarıları ile ilgili hareket geçmek üzere riskli etkin
 
 - Microsoft E5 uyumluluk etkinlentisi içeren**Microsoft 365 E3** aboneliği.
 
-**Microsoft 365 E5** planınız yoksa ve içeriden risk yönetimini denemek istiyorsanız, var olan Office 365 aboneliğinize Microsoft 365’i ekleyebilir ya da Microsoft 365 Kurumsal E5’in ücretsiz deneme sürümüne kaydolabilirsiniz.
+Mevcut bir **Microsoft 365 E5** planınız yoksa ve şirket içi risk yönetimini denemek istiyorsanız, mevcut aboneliğinize Microsoft 365’i ekleyebilir ya da Microsoft 365 Kurumsal E5’in deneme sürümüne Kaydolabilirsiniz.
 
 İçeriden Risk Yönetimi’ni kullanmanın temel adımları şunları içerir:
 
 1. İçeriden risk yönetimi için izinleri etkinleştirin.
 
-2. Office 365 denetim günlüğünü etkinleştirin.
+2. Denetim günlüğünü etkinleştirin.
 
 3. Şablon için ön koşulları yapılandırın (isteğe bağlı).
 
