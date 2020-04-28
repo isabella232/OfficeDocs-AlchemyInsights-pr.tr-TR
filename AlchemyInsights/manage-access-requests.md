@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721855"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912423"
 ---
 # <a name="manage-access-requests"></a>Erişim isteklerini yönetme
 
@@ -26,7 +26,7 @@ Bir kullanıcı SharePoint'teki bir öğeye erişmeye çalıştığında ve izni
     
 2. **Kullanıcılar ve İzinler** **altında, Access isteklerini ve davetlerini**tıklatın. (Bu görüntülenmezse, erişim isteği yapılmamıştır.)
     
-3. Kullanıcıya ayrı ayrı izin vermek için Onayla veya **Reddet'i** tıklatın. **Decline** Belirli bir izin düzeyini seçmek için, önce kişinin adının yanındaki elipsleri (...) tıklatın. Alternatif olarak, kullanıcıyı siteye izin alan bir gruba ekleyin. İletişim siteleri ve klasik ekip siteleri için bunu Site Ayarları sayfasından yapabilirsiniz. Office 365 grubuna ait siteler için, kullanıcıyı gruba ekleyebilirsiniz.
+3. Kullanıcıya ayrı ayrı izin vermek için Onayla veya **Reddet'i** tıklatın. **Decline** Belirli bir izin düzeyini seçmek için, önce kişinin adının yanındaki elipsleri (...) tıklatın. Alternatif olarak, kullanıcıyı siteye izin alan bir gruba ekleyin. İletişim siteleri ve klasik ekip siteleri için bunu Site Ayarları sayfasından yapabilirsiniz. Microsoft 365 grubuna ait siteler için, kullanıcıyı gruba ekleyebilirsiniz.
     
     [Erişim isteklerini yönetme](https://go.microsoft.com/fwlink/?linkid=2008747)
     

@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764748"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911851"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>İçerik Aramaları ve eDiscovery aramaları nasıl gerçekleştirilir?
 
-Exchange posta kutularında, SharePoint sitelerindeki ve OneDrive hesabındaki belgeleri ve Skype for Business'taki anlık ileti görüşmelerini hızlı bir şekilde bulmak için Güvenlik & Uyumluluk Merkezi'ndeki İçerik Arama aracını kullanın. Microsoft Teams ve Office 365 Grupları gibi Microsoft 365 işbirliği araçlarında e-posta, belge ve anlık ileti konuşmalarını aramak için İçerik Arama Aracı'nı da kullanabilirsiniz.
+Exchange posta kutularında, SharePoint sitelerindeki ve OneDrive hesabındaki belgeleri ve Skype for Business'taki anlık ileti görüşmelerini hızlı bir şekilde bulmak için Güvenlik & Uyumluluk Merkezi'ndeki İçerik Arama aracını kullanın. Microsoft Teams ve Microsoft 365 Grupları gibi Microsoft 365 işbirliği araçlarında e-posta, belge ve anlık ileti konuşmalarını aramak için İçerik Arama Aracı'nı da kullanabilirsiniz.
 
 **İçerik araması yapmak için**
 

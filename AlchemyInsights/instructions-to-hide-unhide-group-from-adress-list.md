@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: d0e0285701f1a5f308bdc682abaddf5cc2d34120
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.openlocfilehash: 61ba34e6d554831da712a92401f26fabb02c26b7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37768960"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908364"
 ---
-# <a name="hide-office-365-group-from-address-list-gal"></a>Adres listesinden Office 365 grubunu gizle (GAL)
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Microsoft 365 grubunu adres listesinden gizleme (GAL)
 
-Bir Office 365 grubunu Exchange istemcilerinin adres listelerinden (GAL) gizlemek için EXO kabuğunda aşağıdaki komutu kullanın:
+Microsoft 365 grubunu Exchange istemcilerinin adres listelerinden (GAL) gizlemek için EXO kabuğunda aşağıdaki komutu kullanın:
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-Office 365 grubunu Exchange istemcilerine görünür olmasını gizlemek için EXO kabuğunda aşağıdaki komutu kullanın:
+Microsoft 365 grubunu Exchange istemcilerine görünür olmasını gizlemek için EXO kabuğunda aşağıdaki komutu kullanın:
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`

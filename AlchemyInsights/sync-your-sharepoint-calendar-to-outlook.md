@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: f997fa106f00d3c5598e955aea9c8e4e79a54f6e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766981"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912878"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Takviminizi cihazlarla eşitleme sorunları
 
-SharePoint Takvimleri, bazen Office 365 Grup Takvimleri ile karıştırılan klasik liste türleridir.
+SharePoint Takvimleri, microsoft 365 Grup Takvimleri ile bazen karıştırılan klasik liste türleridir.
 
 SharePoint Takvimini Outlook ile senkronize etmek için lütfen aşağıdaki adımları izleyin:
 
@@ -33,4 +33,4 @@ SharePoint Takvimini Outlook ile senkronize etmek için lütfen aşağıdaki ad�
 >[!Note]
 > Eşitlenmiş Outlook takviminde bir değişiklik yaptığınızda, bu değişiklik SharePoint takviminde görünür ve bunun tersi de olur.
 
-Office 365 Grupları hakkında daha fazla bilgi için bu [makaleye](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)bakın.
+Microsoft 365 Grupları hakkında daha fazla bilgi için bu [makaleye](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)bakın.

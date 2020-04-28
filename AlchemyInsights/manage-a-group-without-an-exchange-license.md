@@ -11,18 +11,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: 7170f98a1f874f5f44badc82247e1e933f9972d8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: fa4a5a26b12348a7f62f06e0860b8bf34f689651
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671189"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912459"
 ---
 # <a name="manage-a-group-without-an-exchange-license"></a>Değişim Lisansı Olmayan Bir Grubu Yönetme
 
-Yönetici hesabınızda posta kutusu yoksa, Office 365 Grubu'nda bir ürün güncelleştirmeye çalıştığınızda eksik ürün lisansı yla ilgili bir hata alabilirsiniz.
+Yönetici hesabınızda posta kutusu yoksa, bir Microsoft 365 Grubu'yu yeniden kurmaya çalıştığınızda eksik ürün lisansı yla ilgili bir hata alabilirsiniz.
   
-Kiracı yönetici olduğunuz için, Exchange lisansıniz olmasa bile grubu değiştirmeniz mümkündür. Office 365 Grubu'nu yönetmek için [Exchange Yönetici Merkezi](https://outlook.office365.com/ecp.aspx) \> **Grupları'na** gitmemem gerekiyor.
+Kiracı yönetici olduğunuz için, Exchange lisansıniz olmasa bile grubu değiştirmeniz mümkündür. Microsoft 365 Grubu'nu yönetmek için [Exchange Admin Center](https://outlook.office365.com/ecp.aspx) \> **Groups'a** gitmeme kadar.
   
 Yönetici merkezindeki Grupları değiştirmek istiyorsanız, yönetici hesabınıza bir Exchange lisansı ekleyin. Bir grubu yeniden oluşturabilmeniz için posta kutusunun tam olarak oluşturulmasını beklemeniz gerekir.
   

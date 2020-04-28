@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3fd8cea060a754b557c64ecd314487e359b56452
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671369"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911024"
 ---
 # <a name="add-a-sharepoint-calendar"></a>SharePoint Takvimi Ekleme
 
-SharePoint Takvimleri, bazen Office 365 Grup Takvimleri ile karıştırılan klasik liste türleridir.
+SharePoint Takvimleri, microsoft 365 Grup Takvimleri ile bazen karıştırılan klasik liste türleridir.
  
 SharePoint Takvimi oluşturmak için aşağıdaki adımları izleyin:
  
@@ -29,5 +29,5 @@ SharePoint Takvimi oluşturmak için aşağıdaki adımları izleyin:
 2.  Uygulama arama kutusunu **bul'da** **Takvim** yazın ve enter tuşuna basın.
 3.  **Takvim**başlıklı uygulamayı seçin ve ardından takviminiz için bir ad girin.
 
-Office 365 Grupları hakkında daha fazla bilgi için [bkz.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
+Microsoft 365 Grupları [hakkında](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)daha fazla bilgi için bkz.
 

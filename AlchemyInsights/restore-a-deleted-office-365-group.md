@@ -1,5 +1,5 @@
 ---
-title: Silinen Office 365 grubunu geri yükleme
+title: Silinen microsoft 365 grubunu geri yükleme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: c7b8bc9effa77a5fee8c6ae61e85baf03dc48a4b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0443d51690399ea5c82ab9c2d6fc803a946161dd
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758774"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912731"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Silinen Office 365 grubunu geri yükleme
+# <a name="restore-a-deleted-microsoft-365-group"></a>Silinen microsoft 365 grubunu geri yükleme
 
 Silinen gruplar 30 gün boyunca saklanır. Silinmiş bir grubu geri yüklemek için:
   
@@ -28,5 +28,5 @@ Silinen gruplar 30 gün boyunca saklanır. Silinmiş bir grubu geri yüklemek i�
 
 2. Grubu seçin ve ardından komut çubuğunda **Geri Yükle'yi** tıklatın veya ayrıntılar bölmesinde "Geri yüklemek için buraya tıklayın" bağlantısını tıklatın.
 
-Daha fazla bilgi edinmek veya PowerShell'i kullanarak grupları nasıl geri yükleyeceklerini öğrenmek için [silinmiş bir Office 365 grubunu geri yükleme'ye](https://go.microsoft.com/fwlink/?linkid=867802)bakın.
+Daha fazla bilgi edinmek veya PowerShell'i kullanarak grupları nasıl geri yükleyeceklerini öğrenmek için [silinmiş bir Microsoft 365 grubunu geri yükleme'ye](https://go.microsoft.com/fwlink/?linkid=867802)bakın.
   

@@ -9,12 +9,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 2ab08cfa4d0cc7d39962f91dd60fd96d046b2ded
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9a6e59f5798130856ba3d82e8d233c2c79e462a7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704997"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911564"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Yeni SharePoint yönetici merkezinden bir siteyi silme
 
@@ -23,7 +23,7 @@ Yeni SharePoint yönetici merkezini kullanarak hem klasik hem de modern siteleri
 **Önemli:** Site bir bekletme ilkesinin parçasıysa, site [Güvenlik &amp; Uyumluluk Yöneticisi Merkezi ilkesinden](https://protection.office.com/?rfr=AdminCenter#/homepage)kaldırılana kadar siteyi silemeyebilirsiniz. Daha fazla bilgi için [Bekletme İlkelerine Genel Bakış'a](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) bakın. 
 
 Ipuç -ları:
-- SharePoint yöneticileri artık **Office 365 Gruplarına**ait siteleri silebilir. Bu, grubu ve Outlook posta kutusu ve takvimi de dahil olmak üzere tüm kaynaklarını ve tüm Takımlar kanallarını siler. Daha fazla bilgi için [bkz.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- SharePoint yöneticileri artık **Microsoft 365 Grupları'na**ait siteleri silebilir. Bu, grubu ve Outlook posta kutusu ve takvimi de dahil olmak üzere tüm kaynaklarını ve tüm Takımlar kanallarını siler. Daha fazla bilgi için [bkz.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
 - Silinen siteleri 93 gün boyunca kurtarabilirsiniz. Silinen grupların 30 gün içinde geri yüklenmeleri gerektiğini unutmayın. Daha fazla bilgi için [bkz.](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)
 - Bir siteyi kalıcı olarak kaldırmak için [bkz.](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site) URL'yi yeniden kullanmayı planlıyorsanız, bu adım gereklidir. 
 - Bir alt siteyi kaldırmak için [bkz.](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)

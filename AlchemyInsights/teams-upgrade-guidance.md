@@ -11,14 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626332"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908826"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams yükseltme
+
+**Önemli**: Bir destek tanılama kullanarak sizin için bu düzeltmeye yardımcı olabilir, ancak Yeni Yönetici Merkezi kullanmıyor gibi görünüyor. Yeni Yönetici Merkezi'ni kullanmak için sağ üstteki yeni **yönetici merkezi** yazan geçişi kaydırın. Yeni Yönetici Merkezi'ni kullanarak **YardımA İhtiyacını tıklatın?**
 
 İster Takımlar'a yeni başlıyor olun, ister Skype for Business'ın yanında Ekipler'i kullanıyor olun, ister yükseltmeye hazır olun, Takımlar'a başarılı bir yolculuk yapmak için ihtiyacınız olan her şeye sahip olduğunuzdan emin olmak istiyoruz. Daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
 

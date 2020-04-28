@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: 7778ce6afd7dd92d62bda85a978637608b187107
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c3165ccf5aee9edbb147a5e34f2680a4f0ed04b1
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715544"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911672"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a>Office 365 grubuna bağlı ekip sitesi oluşturma
+# <a name="create-an-microsoft-365-group-connected-team-site"></a>Microsoft 365 grubuna bağlı bir ekip sitesi oluşturma
 
 1. Sol üst köşedeki uygulama başlatıcısını tıklatın ve **SharePoint'i**seçin. SharePoint döşemesini görmüyorsanız, **Tüm uygulamalar'ı**tıklatın.
     
@@ -24,7 +24,7 @@ ms.locfileid: "43715544"
     > [!NOTE]
     > Site Oluştur komutunu görmüyorsanız, kuruluşunuzda site oluşturma etkinleştirilmeyebilir. Etkinleştirmek için [site oluşturmayı yönet'e](https://go.microsoft.com/fwlink/?linkid=2009644)bakın. 
   
-3. Siteyi adlandırmak ve Office 365 grubu için bir e-posta adresi oluşturmak için ekrandaki adımları izleyin ve ardından **İleri'yi**tıklatın. Diğer grup sahiplerini ve üyelerini de ekleyebilirsiniz. **Son**'a tıklayın.
+3. Siteyi adlandırmak ve Microsoft 365 grubu için bir e-posta adresi oluşturmak için ekrandaki adımları izleyin ve ardından **İleri'yi**tıklatın. Diğer grup sahiplerini ve üyelerini de ekleyebilirsiniz. **Son**'a tıklayın.
   
  **Not:** Grup bağlantısı olmayan bir Takım Sitesi oluşturmak için, adım 2'de Takım Sitesi'ni seçmek yerine yukarıdaki adımları izleyin. Diğer seçenekleri seçin. Bu, grupsuz bir Ekip Sitesi oluşturmada size yol gösterecektir. 
     

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053137"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908724"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Günlük e-posta Sınırı Aşıldı. İş akışı askıya alındı.
 
@@ -27,7 +27,7 @@ Bu hata aşağıdaki senaryolarda alınabilir:
 - İş akışını çalıştırdığınızda, e-posta iletisi gönderilmez ve aşağıdaki davranışı fark e-postayla fark e-posta yla karşılarınız:
     - SharePoint 2013 platform türünü kullanan bir iş akışı için **İş Akışı Durumu** sayfasına göz atarsınız. İş Akışı Durumu sayfasında, **İç Durum** **Başlatıldı**olarak ayarlanır ve bilgi balonu **alıcıya gönderilemeyince**görüntülenir.
 
-Bu sorunu çözmek için iş akışınızı Exchange Online gönderen [sınırlarını](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)aşmadan e-posta iletileri gönderecek şekilde yapılandırın. Örneğin, iş akışında bir duraklama kullanın, e-postayı bir Office 365 grubuna, dağıtım grubuna veya posta etkin güvenlik grubuna gönderin veya iletiyi aynı anda 200'den az alıcıya gönderin.
+Bu sorunu çözmek için iş akışınızı Exchange Online gönderen [sınırlarını](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)aşmadan e-posta iletileri gönderecek şekilde yapılandırın. Örneğin, iş akışında bir duraklama kullanın, e-postayı bir Microsoft 365 grubuna, bir dağıtım grubuna veya posta etkin güvenlik grubuna gönderin veya iletiyi aynı anda 200'den az alıcıya gönderin.
 
 
 Daha fazla bilgi için aşağıdaki [makaleye](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)bakın.

@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 6ac4728c02471dd2640e0c516fee7cf5ebb12f54
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4fb17573bae0cb91dc458433eedfd7398802743
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676409"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911096"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>SharePoint sitesine grup ekleme
 
-Bazı SharePoint takım siteleri (Microsoft Teams'te oluşturulanlar dahil) Office 365 grup sahipleri tarafından yönetilir. SharePoint siteleri ve içeriği Office 365 gruplarıyla ve SharePoint gruplarıyla da paylaşılabilir. SharePoint grubu, tümü sitelere ve içeriğe aynı izin kümesine sahip kullanıcılar topluluğudur. Klasik siteler için, aynı izin düzeyini aynı anda bir kişiye aynı anda atamak için grupları kullanmanızı öneririz.
+Bazı SharePoint takım siteleri (Microsoft Teams'te oluşturulanlar dahil) Microsoft 365 grup sahipleri tarafından yönetilir. SharePoint siteleri ve içeriği Microsoft 365 gruplarıyla ve SharePoint gruplarıyla da paylaşılabilir. SharePoint grubu, tümü sitelere ve içeriğe aynı izin kümesine sahip kullanıcılar topluluğudur. Klasik siteler için, aynı izin düzeyini aynı anda bir kişiye aynı anda atamak için grupları kullanmanızı öneririz.
   
-Office 365 grup üyelerini yönet:
+Microsoft 365 grup üyelerini yönetin:
   
 1. [Microsoft 365 yönetici merkezindeki Gruplar sayfasına](https://portal.office.com/adminportal/home#/groups)gidin.
     
 2. Sahiplerini ve üyelerini görmek için bir grup seçin. Kişi eklemek veya kaldırmak **için, Sahipler** veya **Üyeler** satırındaki **Edit** bağlantısını tıklatın. 
     
-Bir iletişim sitesini Bir Office 365 grubuyla paylaşın:
+Bir iletişim sitesini bir Microsoft 365 grubuyla paylaşın:
   
 1. Siteye tarayıcıda gidin ve sağ üstteki **Siteyi Paylaş'ı** tıklatın. 
     
@@ -42,7 +42,7 @@ Klasik bir siteyle kullanmak üzere bir SharePoint grubu oluşturun:
     
 3. İzinler sekmesinde **Grup Oluştur'u**tıklatın.
     
-[Klasik bir ekip sitesini yeni bir Office 365 grubuna bağlama](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Klasik bir ekip sitesini yeni bir Microsoft 365 grubuna bağlama](https://go.microsoft.com/fwlink/?linkid=2008654)
   
 [SharePoint gruplarıyla çalışma hakkında daha fazla bilgi edinin](https://go.microsoft.com/fwlink/?linkid=874658)
   

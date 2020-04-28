@@ -1,5 +1,5 @@
 ---
-title: Office 365 Grubu için etki alanını değiştirme
+title: Microsoft 365 Grubu için etki alanını değiştirme
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 4257191c183e4a20943c56c382b5fc78176330b8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7aab6fd8bef120a6d589fc3c2d852fd4cb499aca
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706509"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911312"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Office 365 Grubu için etki alanını değiştirme
+# <a name="change-the-domain-for-microsoft-365-group"></a>Microsoft 365 Grubu için etki alanını değiştirme
 
-Oluşturma sırasında bir Office 365 Grubu için etki alanını değiştirmek istiyorsanız, [Office 365 Grupları oluştururken kullanılacak etki alanını seç'teki](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups)adımları izleyin.
+Oluşturma sırasında bir Microsoft 365 Grubu için etki alanını değiştirmek istiyorsanız, [Microsoft 365 Grupları oluştururken kullanılacak etki alanını seçin'deki](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups)adımları izleyin.
 
-Office 365 Grubu zaten oluşturulduktan sonra, şu anda etki alanını değiştirmenin bir yolu yoktur. Tek yol yeni bir Office 365 Grubu oluşturmak ve gerekirse eskisini silmektir [(Exchange Yönetici Merkezi](https://outlook.office365.com/ecp)aracılığıyla ek e-posta adresleri eklenebilir.
+Microsoft 365 Grubu zaten oluşturulduktan sonra, şu anda etki alanını değiştirmenin bir yolu yoktur. Tek yolu yeni bir Microsoft 365 Grubu oluşturmak ve gerekirse eskisini silmektir (Exchange [Yönetici Merkezi](https://outlook.office365.com/ecp)aracılığıyla ek e-posta adresleri eklenebilir.

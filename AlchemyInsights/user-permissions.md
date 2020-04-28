@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710535"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912914"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePoint ve OneDrive'da kullanıcı izinleri
 
@@ -27,7 +27,7 @@ Kuruluşunuzdaki bir kullanıcı SharePoint veya OneDrive'a erişemiyorsa, Share
   
 1. Siteyi bir web tarayıcısında açın.
     
-2. Site bir Office 365 grubuna aitse, sağ üstteki Ayarlar simgesini tıklatın ve ardından **Site izinlerini**tıklatın. **Kişileri Davet et'i**tıklatın ve ardından Office 365 grubuna üye eklemeyi veya yalnızca siteyi paylaşmayı seçin. 
+2. Site bir Microsoft 365 grubuna aitse, sağ üstteki Ayarlar simgesini tıklatın ve ardından **Site izinlerini**tıklatın. **Kişileri Davet et'i**tıklatın ve ardından Microsoft 365 grubuna üye eklemeyi veya yalnızca siteyi paylaşmayı seçin. 
     
     Bir iletişim sitesi için sağ üstteki **Siteyi Paylaş'ı** tıklatın, kişinin adını girin ve ardından izin düzeyini (Oku, Edit veya Tam Denetim) seçin. 
     

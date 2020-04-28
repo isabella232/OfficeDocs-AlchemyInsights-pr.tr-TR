@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: 4bcf450b43ec2c27d7c47ee211c32d614bfedae3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: fb035b28fa3c1a61c27138d1b5d819acae264141
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37590442"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911958"
 ---
 # <a name="microsoft-teams-permissions"></a>Microsoft Teams izinleri
 
-Microsoft Teams iki kullanıcı rolü içerir: sahibi ve üyesi. Varsayılan olarak, yeni bir takım oluşturan bir kullanıcıya sahip durumu verilir. Buna ek olarak, sahipleri ve üyeleri bir kanal için moderatör yetenekleri ne olabilir (ılımlılık ayarlanmışsa). Varolan bir Office 365 Grubundan bir takım oluşturulursa, izinler devralınır. Daha fazla bilgi için bkz.
+Microsoft Teams iki kullanıcı rolü içerir: sahibi ve üyesi. Varsayılan olarak, yeni ekip oluşturan kullanıcıya sahip statüsü verilir. Buna ek olarak, sahipleri ve üyeleri bir kanal için moderatör yetenekleri ne olabilir (ılımlılık ayarlanmışsa). Varolan bir Microsoft 365 Grubundan bir takım oluşturulursa, izinler devralınır. Daha fazla bilgi için bkz.:
 
 - [Microsoft Teams'te ekip sahiplerini ve üyelerini atama](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
 - [Microsoft Teams uygulama izinleri ve dikkat edilmesi gerekenler](https://docs.microsoft.com/microsoftteams/app-permissions)

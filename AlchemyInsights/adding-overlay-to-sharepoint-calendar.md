@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709427"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908868"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>SharePoint takvimine Bindirme ekleme
 
-SharePoint Takvimleri, bazen Office 365 Grup Takvimleri ile karıştırılan klasik liste türleridir.
+SharePoint Takvimleri, microsoft 365 Grup Takvimleri ile bazen karıştırılan klasik liste türleridir.
  
 Sitenizde bir SharePoint takvimi kullanıyorsanız, birleşik bir takvim görünümü oluşturmak için kendi Exchange takviminizi üzerine bindirmeyapabilirsiniz. Alternatif olarak, her iki SharePoint takvimi de aynı site koleksiyonunda olduğu sürece başka bir SharePoint takvimini yerle bir edebilirsiniz.
  
