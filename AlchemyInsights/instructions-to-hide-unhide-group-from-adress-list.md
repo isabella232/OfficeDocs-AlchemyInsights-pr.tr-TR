@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: d0e0285701f1a5f308bdc682abaddf5cc2d34120
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.openlocfilehash: 61ba34e6d554831da712a92401f26fabb02c26b7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37768960"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908364"
 ---
-# <a name="hide-office-365-group-from-address-list-gal"></a><span data-ttu-id="19ad5-102">Adres listesinden Office 365 grubunu gizle (GAL)</span><span class="sxs-lookup"><span data-stu-id="19ad5-102">Hide Office 365 group from address list (GAL)</span></span>
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a><span data-ttu-id="ee4cb-102">Microsoft 365 grubunu adres listesinden gizleme (GAL)</span><span class="sxs-lookup"><span data-stu-id="ee4cb-102">Hide Microsoft 365 group from address list (GAL)</span></span>
 
-<span data-ttu-id="19ad5-103">Bir Office 365 grubunu Exchange istemcilerinin adres listelerinden (GAL) gizlemek için EXO kabuğunda aşağıdaki komutu kullanın:</span><span class="sxs-lookup"><span data-stu-id="19ad5-103">To hide an Office 365 group from address lists (GAL) of Exchange clients (such as Outlook or OWA), use the following command in EXO shell:</span></span>
+<span data-ttu-id="ee4cb-103">Microsoft 365 grubunu Exchange istemcilerinin adres listelerinden (GAL) gizlemek için EXO kabuğunda aşağıdaki komutu kullanın:</span><span class="sxs-lookup"><span data-stu-id="ee4cb-103">To hide an Microsoft 365 group from address lists (GAL) of Exchange clients (such as Outlook or OWA), use the following command in EXO shell:</span></span>
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-<span data-ttu-id="19ad5-104">Office 365 grubunu Exchange istemcilerine görünür olmasını gizlemek için EXO kabuğunda aşağıdaki komutu kullanın:</span><span class="sxs-lookup"><span data-stu-id="19ad5-104">To hide the Office 365 group from being visible to Exchange clients, use the following command in EXO shell:</span></span>
+<span data-ttu-id="ee4cb-104">Microsoft 365 grubunu Exchange istemcilerine görünür olmasını gizlemek için EXO kabuğunda aşağıdaki komutu kullanın:</span><span class="sxs-lookup"><span data-stu-id="ee4cb-104">To hide the Microsoft 365 group from being visible to Exchange clients, use the following command in EXO shell:</span></span>
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`
