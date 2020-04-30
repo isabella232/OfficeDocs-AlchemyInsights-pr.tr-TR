@@ -1,5 +1,5 @@
 ---
-title: Faturam görüntülemek
+title: Faturamı görüntüleme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665708"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947728"
 ---
-# <a name="view-my-bill"></a><span data-ttu-id="e8e23-102">Faturam görüntülemek</span><span class="sxs-lookup"><span data-stu-id="e8e23-102">View my bill</span></span>
+# <a name="view-my-bill"></a><span data-ttu-id="5463e-102">Faturamı görüntüleme</span><span class="sxs-lookup"><span data-stu-id="5463e-102">View my bill</span></span>
 
-1. <span data-ttu-id="e8e23-103">**Faturalama** için Microsoft 365 Yönetim Merkezi'nde Git \> [& ödemeler kambiyo senetleri](https://go.microsoft.com/fwlink/p/?linkid=848039) sayfa.</span><span class="sxs-lookup"><span data-stu-id="e8e23-103">In the Microsoft 365 admin center, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
+1. <span data-ttu-id="5463e-103">Microsoft 365 yönetici merkezinde, **Fatura** \> [faturaları & ödemeler](https://go.microsoft.com/fwlink/p/?linkid=848039) sayfasına gidin.</span><span class="sxs-lookup"><span data-stu-id="5463e-103">In the Microsoft 365 admin center, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
 
-2. <span data-ttu-id="e8e23-104">Aşağı açılan listeden bir tarih aralığı seçin ve sonra görüntülemek istediğiniz siparişi seçin.</span><span class="sxs-lookup"><span data-stu-id="e8e23-104">Select a date range from the drop-down list, and then choose the order you want to view.</span></span>
+2. <span data-ttu-id="5463e-104">Açılan listeden bir tarih aralığı seçin ve sonra görmek istediğiniz siparişi seçin.</span><span class="sxs-lookup"><span data-stu-id="5463e-104">Select a date range from the drop-down list, and then choose the order you want to view.</span></span>
 
-<span data-ttu-id="e8e23-105">Daha fazla bilgi için bkz: [Fatura veya fatura görüntüleme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span><span class="sxs-lookup"><span data-stu-id="e8e23-105">For more information see [View your bill or invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>
+3. <span data-ttu-id="5463e-105">Faturayı yazdırmak için faturayı PDF dosyası olarak indirin ve **Yazdır'ı**tıklatın.</span><span class="sxs-lookup"><span data-stu-id="5463e-105">To print the bill, download the bill as a PDF file and click **Print**.</span></span>
+
+<span data-ttu-id="5463e-106">Daha fazla bilgi için [Fatura ekstrenizi veya faturanızı görüntüleme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice) bölümüne bakın.</span><span class="sxs-lookup"><span data-stu-id="5463e-106">For more information see [View your bill or invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>
