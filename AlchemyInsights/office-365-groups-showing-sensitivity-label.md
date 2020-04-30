@@ -1,5 +1,5 @@
 ---
-title: Duyarlılık etiketi gösteren Office 365 Grupları
+title: Duyarlılık etiketi gösteren Microsoft 365 Grupları
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: f0c8a8f07eda120b67a0adb34516d4f0203d6f7b
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 9aea00b8239ed126cd56385cc6265fc15466db30
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218320"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911887"
 ---
-# <a name="office-365-groups-showing-sensitivity-label"></a>Duyarlılık etiketi gösteren Office 365 Grupları
+# <a name="microsoft-365-groups-showing-sensitivity-label"></a>Duyarlılık etiketi gösteren Microsoft 365 Grupları
 
-Office 365 Grubunda aşağıdaki sorunu görüyor olabilirsiniz:
+Microsoft 365 Grubunda aşağıdaki sorunu görüyor olabilirsiniz:
 
-- "Sınıflandırma alanı boş olamaz" hatası nedeniyle OWA’dan Office 365 Grubu oluşturulamıyor.
+- "Sınıflandırma alanı boş olamaz" hatası nedeniyle OWA’dan Microsoft 365 Grubu oluşturulamıyor.
 
-- Özelliği etkinleştirmediğiniz halde Office 365 grupları için duyarlılık etiketi görüyorsunuz.
+- Özelliği etkinleştirmediğiniz halde Microsoft 365 Grupları için duyarlılık etiketi görüyorsunuz.
 
-Bu sorun belirlenmiş ve düzeltilmiştir. Düzeltme dağıtımı devam ediyor ve birkaç saat içinde tamamlanmış olacaktır. Bu sırada, Office 365 Grupları oluşturmak için lütfen Office yönetici portalını veya Azure Yönetici Portalını kullanın.  
+Bu sorun belirlenmiş ve düzeltilmiştir. Düzeltme dağıtımı devam ediyor ve birkaç saat içinde tamamlanmış olacaktır. Bu sırada, Microsoft 365 Grupları oluşturmak için lütfen Office yönetici portalını veya Azure Yönetici Portalını kullanın.  
