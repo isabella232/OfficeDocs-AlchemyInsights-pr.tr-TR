@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: 7755f288fcc718571367cf1960962b19a82bac4f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706847"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43939675"
 ---
 # <a name="change-how-often-you-pay"></a>Ne sıklıkta ödeme yaptığınızı değiştirme
 
- **Ödeme sıklığınızı değiştirmek mi istiyorsunuz?** Microsoft 365'inizin işletme aboneliği için ne sıklıkta ödeme yaptığınızı, yıllıktan aylıkveya aylıka, yıllık olarak ne sıklıkta ödediğinizi değiştirmek isterseniz, bu size yardımcı olabiliriz. Yeni ödeme sıklığıyla aynı aboneliği satın almanız ve eski aboneliği iptal etmeniz gerekir. Destek mühendisiyle konuşmak için lütfen "Sizi arayalım" seçeneğini kullanın.
+Ne sıklıkta faturalandırıldığınızda ve bir abonelik için ödeme yaptığınızı değiştirmek için Microsoft 365 yönetici merkezinde aşağıdaki adımları tamamlayın. 
+1. **Faturalama > [Ürünler ve hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** bölümüne gidin.
+2. Değiştirmek istediğiniz aboneliği bulun. **Faturalandırma** bölümünde, Aylık **Faturalı** veya **Yıllık Faturalandırılan**Faturanın **yanında, Edit'i**tıklatın. 
+3. Faturalandırılmak istediğiniz sıklıkta seçeneğini seçin ve ardından **Değiştir'i**tıklatın.
+
+**Not**: Aylık veya Yıllık faturalandırma tek seçenektir.
+
+Daha fazla bilgi için bkz: [Ödeme sıklığınızı değiştirin.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide)

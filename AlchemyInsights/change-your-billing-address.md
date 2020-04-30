@@ -13,25 +13,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b528a698f57f0ec1cbc08718b83b07bbe050637c
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198980"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943968"
 ---
 # <a name="change-your-billing-address"></a>Fatura adresinizi değiştirme
 
-Faturanız veya faturanız üç adres içerir. 
+Faturanız veya faturanız üç adres içerir.
 
-**Fatura-İş adresinizi değiştirme**
+**Ödeme yönteminin fatura adresini değiştirme**
 
-1. Yönetici merkezinde, **Faturalandırma > [Ödeme yöntemleri](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** sayfasına gidin. 
+1. Yönetici merkezinde, Fatura **> [Ödeme yöntemlerine](https://go.microsoft.com/fwlink/p/?linkid=2018806)** gidin.
+2. Değiştirmek istediğiniz kredi kartını veya banka hesabını seçin.
+3. Ödeme **yöntemi ayrıntıları** **sayfasında, Edit'i**tıklatın.
+4. Fatura adresinizi güncelleştirin, ardından **> Kaydet'i**tıklatın.
 
-2. Değiştirmek istediğiniz kredi kartını veya banka hesabını seçin. 
+Adres ve bildirim değişiklikleri hakkında daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)
 
-3. Ödeme **yöntemi ayrıntıları** **sayfasında, Edit'i**tıklatın. 
+**Fatura hesabı bilgilerini değiştirme**
 
-4. Fatura adresinizi güncelleştirin, ardından **> Kaydet'i**tıklatın. 
+1. Yönetici merkezinde, **Faturalandırma > [Faturalandırma hesaplarına](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)** gidin.
+2. **Fatura hesabı bilgilerini edit'i**seçin.
+3. Fatura hesabı bilgilerini güncelleştirin, ardından **Kaydet >'yi**tıklatın.
 
-Adres ve bildirim değişiklikleri hakkında daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide) 
+**Not**: Ülke/Bölge'yi değiştiremezsiniz. Bu alanın değiştirilmesi gerekiyorsa, yeni bir kiracı satın almanız gerekir.

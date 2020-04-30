@@ -1,5 +1,5 @@
 ---
-title: Faturam görüntülemek
+title: Faturamı görüntüleme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665708"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947728"
 ---
-# <a name="view-my-bill"></a>Faturam görüntülemek
+# <a name="view-my-bill"></a>Faturamı görüntüleme
 
-1. **Faturalama** için Microsoft 365 Yönetim Merkezi'nde Git \> [& ödemeler kambiyo senetleri](https://go.microsoft.com/fwlink/p/?linkid=848039) sayfa.
+1. Microsoft 365 yönetici merkezinde, **Fatura** \> [faturaları & ödemeler](https://go.microsoft.com/fwlink/p/?linkid=848039) sayfasına gidin.
 
-2. Aşağı açılan listeden bir tarih aralığı seçin ve sonra görüntülemek istediğiniz siparişi seçin.
+2. Açılan listeden bir tarih aralığı seçin ve sonra görmek istediğiniz siparişi seçin.
 
-Daha fazla bilgi için bkz: [Fatura veya fatura görüntüleme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+3. Faturayı yazdırmak için faturayı PDF dosyası olarak indirin ve **Yazdır'ı**tıklatın.
+
+Daha fazla bilgi için [Fatura ekstrenizi veya faturanızı görüntüleme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice) bölümüne bakın.
