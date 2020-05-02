@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724576"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005278"
 ---
-# <a name="inbox-rules"></a>Gelen Kutusu kuralları
+# <a name="inbox-rules-in-outlook-desktop"></a>Outlook Desktop'da gelen kutusu kuralları
 
-Kendi posta kutunuzda Gelen Kutusu kurallarını kullanma hakkında daha fazla bilgi için bkz:
+1. **Kuralları ve Uyarıları** iletişim kutusunu açmak için Kuralları > Yönetme & **Uyarıları'na** gidin.
+2. **E-posta Kuralları** **sekmesinde, Yeni Kural'ı**tıklatın.
+3. **Adım 1'deki**şablonlardan birini seçin. Boş bir kuraldan başlamak için, **aldığım iletilere uygula kuralını seçin veya gönderdiğim iletilere kural uygulayın'** ı seçin.
+4. Adım **2: Kural açıklama kutusunu edin,** bunları ayarlamak için altı çizili seçeneklere tıklayın. Örneğin, Adım 1'de **takip için birinden gelen İletileri Işaretle'yi** seçtiyseniz, hangi gönderenlerin iletilerini işaretlemek istediğinizi seçmek için kişileri veya ortak **grubu** tıklatın; ardından bir bayrak ve takip tarihi seçmek için **şu anda takip** et'i tıklatın.
+5. **İleri**'yi tıklatın.
 
-- [PC için Outlook'ta kuralları kullanarak e-posta iletilerini yönetme](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Web'de Outlook'ta gelen kutusu kurallarını kullanarak iletilerinizi yönetme](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Exchange Online PowerShell'de Gelen Kutusu kurallarını da yönetebilirsiniz. Daha fazla bilgi için bkz: [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (görünüm), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (oluştur), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (silme), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (varolan ı değiştirin), [Devre Dışı Bırak-Gelen Kutusu Kuralı](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (varolanı devre dışı bırak) ve [Etkinleştir-Gelen Kutusu Kuralı](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (varlığı etkinleştirin).
+Gelen kutusu kurallarıyla nasıl çalışılabilenler hakkında daha fazla bilgi için lütfen [kuralları kullanarak e-posta iletilerini yönet'e](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59)bakın.
