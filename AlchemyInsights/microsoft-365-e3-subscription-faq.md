@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912064"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943999"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Microsoft 365 E3 aboneliği ve lisans yönetimiyle ilgili SSS
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912064"
 - E3 lisanslarını **iptal etmek** için **Faturalama > [Ürünler ve hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** bölümüne gidin, **Ayarlar ve Eylemler**’e tıklayın ve **Aboneliği iptal et**’e tıklayın. Daha fazla bilgi için bkz. [Aboneliğinizi iptal etme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
 - E3 aboneliğini **etkinleştirmek** için bkz. [Aboneliğinizi etkinleştirme](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - E3 aboneliğini **yeniden etkinleştirmek** için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- E3 denemesinin süresini uzatmak için bkz. [Denemenizin süresini uzatma](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- E3 deneme süresini **uzatmak** için bkz. [Denemenizin süresini uzatma](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
 
 Daha fazla bilgi için bkz. [Abonelik lisanslarını yönetme](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
