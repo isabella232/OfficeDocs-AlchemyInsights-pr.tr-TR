@@ -11,12 +11,12 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726268"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010893"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>Office Dağıtım Aracını Kullanma (ODT)
 
@@ -42,4 +42,4 @@ Office'in Office 365 sürümlerini dağıtmak için Office Dağıtım Aracı'nı
 
     **Not:** Bu adımı Office'i yüklemek istediğiniz istemci bilgisayardan çalıştırmanız ve bu bilgisayarda yerel yönetici izinlerine sahip olmalısınız.
 
-Kurumsal dağıtım senaryoları için Microsoft 365 Uygulamalarınız için Office Dağıtım [Aracı'nı](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)kullanma hakkında daha fazla bilgi edinmek için Bkz. Office Özelleştirme Aracı'nın nasıl kullanılacağı hakkında daha fazla bilgi için Bkz. [Office Özelleştirme Aracı'na Genel Bakış.](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)
+Kurumsal dağıtım senaryoları için Microsoft 365 Uygulamalarınız için Office Dağıtım [Aracı'nı](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)kullanma hakkında daha fazla bilgi edinmek için Bkz. Office Özelleştirme Aracı'nın nasıl kullanılacağı hakkında daha fazla bilgi için Bkz. [Office Özelleştirme Aracı'na Genel Bakış.](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: ddd44d40e9430ee31b8b734450dde0defef229d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704725"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010274"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>RDS, Terminal Server veya VDI'de paylaşılan kullanım için kurumsal olarak Microsoft 365 Uygulamalarını dağıtma
 
@@ -25,15 +25,15 @@ Eskiden Terminal Hizmetleri olarak adlandırılan Uzak Masaüstü Hizmetlerini (
 - Office 365 Enterprise E3 veya Enterprise E5 gibi kurumsal Microsoft 365 Uygulamaları içeren bir Microsoft 365 İş Için planı nız veya Office 365 planınız olmalıdır.
    > [!NOTE] 
    > Microsoft 365 İş Uygulamaları ve Microsoft 365 Business Premium Standart planları, kurumsal için Microsoft 365 Apps'ı içermez.
-- [Paylaşılan bilgisayar etkinleştirmesini](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)etkinleştirmelisiniz.
+- [Paylaşılan bilgisayar etkinleştirmesini](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)etkinleştirmelisiniz.
 
 > [!NOTE]
 > Microsoft 365 Apps for enterprise'ı paylaşılan bilgisayar etkinleştirme modunda yüklemek için [Microsoft Destek ve Kurtarma Yardımcısı'nı](https://aka.ms/SaRA_OfficeSCA_M365Portal) da indirip çalıştırabilirsiniz.
 
-Office Dağıtım Aracı'nı kullanarak ön koşullar, kurulum yönergeleri ve özelleştirilmiş yüklemeler hakkında daha fazla bilgi için, [Uzak Masaüstü Hizmetlerini kullanarak Microsoft 365 Uygulamalarını kurumsal olarak dağıt'a](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)bakın.
+Office Dağıtım Aracı'nı kullanarak ön koşullar, kurulum yönergeleri ve özelleştirilmiş yüklemeler hakkında daha fazla bilgi için, [Uzak Masaüstü Hizmetlerini kullanarak Microsoft 365 Uygulamalarını kurumsal olarak dağıt'a](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)bakın.
 
 Paylaşılan bilgisayar etkinleştirmeyle ilgili hataları düzeltmek için:
-- [Microsoft 365 Kurumsal Uygulamalar için paylaşılan bilgisayar etkinleştirme ile Sorun Giderme sorunlarına](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)bakın.
+- [Microsoft 365 Kurumsal Uygulamalar için paylaşılan bilgisayar etkinleştirme ile Sorun Giderme sorunlarına](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)bakın.
 - Bkz. [Kuruluşlar için Microsoft 365 Uygulamaları etkinleştirme durumunu sıfırlama](https://go.microsoft.com/fwlink/?linkid=2109218).
 
 ***Varsayılan yükleme ayarlarını kullanan***Microsoft 365 yönetici merkezinden RDS'de kurumsal olarak Microsoft 365 Uygulamaları yüklemek istiyorsanız, aşağıdaki adımları kullanın:
@@ -47,5 +47,5 @@ Paylaşılan bilgisayar etkinleştirmeyle ilgili hataları düzeltmek için:
    1. Ekranınızın sol alt köşesindeki Windows düğmesine sağ tıklayın ve **Çalıştır'ı**seçin. Açık kutusunda **regedit**yazın ve ardından **Tamam'ı**seçin.
    2. Kayıt Defteri Düzenleyicisi'nin cihazınızda değişiklik yapmasına izin vermek istendiğinde **Evet'i** seçin.
    3. Kayıt Defteri Düzenleyicisi'nde, HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration altında 1 ayarı olan **Paylaşılan Bilgisayar Lisanslama** dize değeri ekleyin.
-   4. RDS sunucusunda, ***son kullanıcı olarak oturum açın*** ve microsoft [365 Kurumsal Uygulamalar için paylaşılan bilgisayar etkinleştirme etkinleştirme etkin olduğunu doğrulayın.](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)
+   4. RDS sunucusunda, ***son kullanıcı olarak oturum açın*** ve microsoft [365 Kurumsal Uygulamalar için paylaşılan bilgisayar etkinleştirme etkinleştirme etkin olduğunu doğrulayın.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)
 

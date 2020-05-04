@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: 4b843407f05db207f3b676c03c7088d3d0ba062e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ffa91eaf333792af149feda25f9a377ed591b597
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704653"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010238"
 ---
 # <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Ekipleri bağımsız veya yeni veya varolan Office yüklemeleriyle dağıtma
 
-Microsoft Teams artık Microsoft 365 Apps kurumsal, Microsoft 365 Apps iş için uygulamalar ve Mac için ***Office'in yeni yüklemelerinin*** bir parçası olarak eklenmiştir. Daha fazla bilgi için bkz: [Microsoft Ekipleri Yeni Office yüklemelerine ne zaman eklenmeye başlar?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams artık Microsoft 365 Apps kurumsal, Microsoft 365 Apps iş için uygulamalar ve Mac için ***Office'in yeni yüklemelerinin*** bir parçası olarak eklenmiştir. Daha fazla bilgi için bkz: [Microsoft Ekipleri Yeni Office yüklemelerine ne zaman eklenmeye başlar?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Ayrıca, Aylık Kanal'da Sürüm 1906'dan başlayarak, Mevcut yüklemenizi en son sürüme güncellediğinizde Windows çalıştıran cihazlardaki Microsoft 365 Kurumsal Uygulamalar 'ın (ve iş için Microsoft 365 Uygulamaları) ***mevcut yüklemelerine takımlar eklenir.*** Daha fazla bilgi için [bkz.](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Ayrıca, Aylık Kanal'da Sürüm 1906'dan başlayarak, Mevcut yüklemenizi en son sürüme güncellediğinizde Windows çalıştıran cihazlardaki Microsoft 365 Kurumsal Uygulamalar 'ın (ve iş için Microsoft 365 Uygulamaları) ***mevcut yüklemelerine takımlar eklenir.*** Daha fazla bilgi için [bkz.](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 > [!NOTE]
 > Bu kullanıma alma zamanlamasını beklemek istemiyorsanız, [bu yönergeleri](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) izleyerek ekiplerinizi kullanıcılarınız için tek başına dağıtabilir veya [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)kullanıcılarınızın Takımlar'ı kendileri için yüklemesini sağlayabilirsiniz.
 
-Kuruluşunuz Takımlar dağıtmaya hazır değilse, Ekipleri [yeni](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) veya [varolan](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) Office yüklemelerinden ***hariç tutmak*** için atabileceğiniz adımlara sahibiz. Takımlar'ın yüklenmesini, ancak ekiplerin yüklendikten sonra kullanıcı için otomatik olarak başlatılmasını istemiyorsanız, microsoft [ekiplerinin yüklemeden sonra otomatik olarak başlatılmasını engelleyin'](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)e bakın.
+Kuruluşunuz Takımlar dağıtmaya hazır değilse, Ekipleri [yeni](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) veya [varolan](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) Office yüklemelerinden ***hariç tutmak*** için atabileceğiniz adımlara sahibiz. Takımlar'ın yüklenmesini, ancak ekiplerin yüklendikten sonra kullanıcı için otomatik olarak başlatılmasını istemiyorsanız, microsoft [ekiplerinin yüklemeden sonra otomatik olarak başlatılmasını engelleyin'](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)e bakın.
 
 Windows çalıştıran bir aygıttan ***Takımlar kaldırmak*** için Microsoft [Ekiplerini](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81)Kaldır'ı'na bakın. Microsoft Ekiplerini birden çok hedef makineden veya kullanıcıdan temizlemek için Microsoft [Teams dağıtımının temizlenmesine](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)bakın.
 
