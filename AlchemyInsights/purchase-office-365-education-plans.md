@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Eğitim planlarını satın alma
+title: Eğitim için Microsoft 365 - onaylandı
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 915d625dbf8726787e9bcd45e0cf7b025e90ead9
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789394"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005422"
 ---
-# <a name="purchase-microsoft-365-education-plans"></a>Microsoft 365 Eğitim planlarını satın alma
+# <a name="microsoft-365-for-education---approved"></a>Eğitim için Microsoft 365 - onaylandı
 
 Microsoft 365 Eğitim planı için onay aldınız.  Satın almak için:
 
@@ -28,6 +28,8 @@ Microsoft 365 Eğitim planı için onay aldınız.  Satın almak için:
 2. **Eğitim Planları** bölümündeki listeden seçiminizi yapın.
 
 3. Satın almak istediğiniz aboneliğin üzerine gelin ve **Şimdi Satın Al**’a tıklayın.
+
+4. [Microsoft 365 Eğitim kiracınızı ayarlama](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
 
 **Teams’i açma**
 

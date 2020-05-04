@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: fa35e26afe716167237f12ec8cabaab7ff7b4609
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218338"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010166"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Office, Visio veya Project’i yükleme seçeneği yok
 
-Office istemci uygulamalarını yüklemek için, örneğin Office 365 İş Ekstra, Office 365 İş veya Office 365 ProPlus gibi [Office istemci uygulamalarını içeren](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) bir Office 365 veya Microsoft 365 aboneliğiniz olduğundan emin olun.
+Office istemci uygulamalarını yüklemek için Microsoft 365 İş Ekstra, İş için Microsoft 365 Uygulamaları veya Kurum için Microsoft 365 Uygulamaları gibi [Office istemci uygulamalarını içeren](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) bir Office 365 veya Microsoft 365 aboneliğiniz olduğundan emin olun.
 
 **Not**: [Office Ev ve İş](https://products.office.com/home-and-business) bir [Office Ev](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) ürünüdür ve bir iş aboneliğinin parçası değildir. Project Online Başlangıç, Project’in masaüstü sürümünü içermez; bu nedenle yükleme işlemi gerekmez. Plan Visio masaüstü uygulamasını içermediğinden, Visio Plan 1 kullanıcıları Web üzerinde Visio sürümüne erişebilir. Project ve Visio masaüstü uygulamaları Mac üzerinde kullanılamaz
 
