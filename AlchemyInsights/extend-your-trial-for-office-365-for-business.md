@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 90feb8198061c6cc5ab5774360c4e421492420b9
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005350"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016888"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>İşletmeler için Microsoft 365 için deneme sürümünü genişletin
 
-Deneme sürenizi 30 günlük bir süre uzatabilirsiniz. Bundan sonra deneme ek bir 30 günlük [yetkisiz kullanım süresi](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)gider. Deneme sürenizi genişletmek için aşağıdaki adımları izleyin:
+Ücretsiz deneme sürenizi 30 günlük ek bir süre uzatabilirsiniz. Bundan sonra duruşmanız 30 günlük [bir yetkisiz kullanım süresine](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)girer. Deneme sürenizi genişletmek için aşağıdaki adımları izleyin:
   
 1. Yönetici merkezinde, Fatura **Ürünleri** \> [& hizmetlerine](https://portal.office.com/adminportal/home#/subscriptions)gidin.
 
