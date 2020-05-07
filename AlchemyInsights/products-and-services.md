@@ -1,5 +1,5 @@
 ---
-title: Ürünler & hizmetler
+title: Ürünleriniz
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758810"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062881"
 ---
-# <a name="products--services"></a>Ürünler & hizmetler
+# <a name="your-products"></a>Ürünleriniz
 
-Kuruluşunuzun sahip olduğu abonelikleri **Faturalama** > [**Ürünleri & hizmetleri**](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasında bulabilirsiniz. Burada her özellik hakkında daha fazla bilgi için bağlantılar ile birlikte bu sayfanın olayları bazıları şunlardır:
+Kuruluşunuzun sahip olduğu abonelikleri**[Ürünlerinizi](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Faturalama** > sayfasında bulabilirsiniz. Burada her özellik hakkında daha fazla bilgi için bağlantılar ile birlikte bu sayfanın olayları bazıları şunlardır:
 
 1. Her abonelik için satın alınan lisans sayısını ve kaç tanesinin kullanıldığını yönetin.  **Not**: Kullanımda olmayan (kullanıcıya atanmamış) lisanslar yine de ücretlendirilir.  Kullanılmayan lisanslar için ücretlendirilmemek için, satın alınan lisans sayısını azaltın. Abonelikten lisans ekleme veya kaldırma hakkında bilgi için lisans [ekleme veya azaltma hakkında](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)bilgi sahibi olayın.
 

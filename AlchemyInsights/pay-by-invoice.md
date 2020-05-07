@@ -1,9 +1,9 @@
 ---
-title: Fatura ile ödeme
+title: Faturaya Göre Ödeme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "492"
 - "1500024"
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: f9f9090eeb2770a8ccb82b3c34a46f2446fc4c55
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e4291e4c16b1edb68efd97ca7fbb4ae03685fa37
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555325"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062412"
 ---
-# <a name="pay-by-invoice"></a>Fatura ile ödeme
+# <a name="pay-by-invoice"></a>Faturaya Göre Ödeme
 
-Office 365 aboneliğinizin maliyeti belirli bir tutarın üzerindeyse (tutar, hizmet konumuna göre değişir), faturayı EFT veya çekle ödeme seçeneğini kullanabilirsiniz. Tutarı yüksek olan fatura ödemelerinde kredi denetimi gerekebilir. Kredi denetimi yapılması gerekiyorsa, aboneliklerinizi satın aldığınızda bu durum size bildirilir. Sizinle bağlantı kurulmasını kabul ederseniz, kredi onayına başvurma konusunda daha fazla bilgi sağlayan bir e-posta alırsınız. Kredi denetimleri genellikle iki iş günü içinde tamamlanır.
+Microsoft 365 aboneliğiniz belirli bir miktardan daha pahalıysa (bu tutar hizmet konumuna göre değişir), çek veya EFT kullanarak faturayla ödeme seçeneğiniz vardır. Tutarı yüksek olan fatura ödemelerinde kredi denetimi gerekebilir. Kredi denetimi yapılması gerekiyorsa, aboneliklerinizi satın aldığınızda bu durum size bildirilir. Sizinle bağlantı kurulmasını kabul ederseniz, kredi onayına başvurma konusunda daha fazla bilgi sağlayan bir e-posta alırsınız. Kredi denetimleri genellikle iki iş günü içinde tamamlanır.
   
-Aboneliğiniz için fatura ile ödeme yapıyorsanız, fatura özeti görüntülemek hazır olduğuna ilişkin bir e-posta alacaksınız. Bu e-posta, fatura özeti bir kopyasını içermez. Ancak [, ödeme bildirimi e-posta bir kopyasını almak](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email)için seçebilirsiniz. Faturalama deyiminiz bir ödeme yapmak için seçenekleriniz hakkında ayrıntıları içerir. Bir abonelik satın aldığınızda, bir satınalma siparişi (PO) numarası girerseniz, sayı, fatura özeti üzerinde görünür. [Fatura veya fatura için iş için Office 365 görünümü](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)fatura tablolarını erişme hakkında daha fazla bilgi için bkz.
+Aboneliğinizi faturayla ödüyorsanız, fatura ekstrenizin görüntülenmeye hazır olduğunu bildiren bir e-posta alırsınız. Bu e-posta fatura ekstrenizin kopyasını içermez. Ancak dilerseniz [fatura ekstrenizin kopyasını e-posta olarak almayı](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email) seçebilirsiniz. Fatura ekstreniz, ödeme yapma seçenekleriyle ilgili ayrıntıları içerir. Abonelik satın alırken bir satın alma siparişi (PO) numarası girdiyseniz, bu numara fatura ekstrenizde görünür. Fatura ekstrelerine erişim hakkında daha fazla bilgi için bkz. [Fatura ekstrenizi veya faturanızı görüntüleme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
   
-Öğrenmek için fatura ile ödeme hakkında daha fazla bilgi [için Office 365 business aboneliğinizi ödeme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription)bakın.
+Faturayla ödeme hakkında daha fazla bilgi edinmek [için aboneliğiniz için Öde'ye](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)bakın.
   
-Değiştirmek için arıyorsanız ödeme yöntemleri [Office 365 iş için Ödeme yönteminizi değiştirme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)konusuna bakın.
+Ödeme yöntemlerini değiştirmek istiyorsanız [bkz.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)
