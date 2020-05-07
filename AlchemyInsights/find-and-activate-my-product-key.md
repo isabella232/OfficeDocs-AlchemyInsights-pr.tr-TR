@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716156"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062484"
 ---
 # <a name="find-and-activate-my-product-key"></a>Ürün anahtarımı bulun ve etkinleştirin
 
@@ -32,7 +32,7 @@ Microsoft 365 Business Premium Standard'ı bir perakende satış mağazasından 
 
 **Not**: Son kullanma tarihini uzatmak veya mevcut Microsoft 365 Business Premium Standard aboneliğinize lisans eklemek için aynı Microsoft 365 aboneliği için yeni ve kullanılmayan bir anahtara ihtiyacınız vardır.  Orijinal Microsoft 365 ürün anahtarınızı girmek çalışmaz, çünkü zaten kullanılmış olan bir anahtar yeniden kullanılamaz.
 
-1. Yönetici merkezinde, **Faturalama** > [Ürünleri & hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
+1. Yönetici merkezinde,**[Ürünlerinizi](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Faturalandırma** > sayfasına gidin.
 
 2. Son kullanma tarihini uzatmak veya lisans eklemek istediğiniz aboneliği bulun.  [Bitiş tarihini uzat'ı](https://go.microsoft.com/fwlink/p/?linkid=842054) tıklatın veya [daha fazla lisans ekleyin.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 

@@ -13,18 +13,18 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: e2d9c25b12a11e933cf0ff40436c717172621af7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4a91b71d297edd9331d955ece8c11c2d1eb86d29
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671477"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061980"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Ön ödemeli aboneye koltuk ekleme
 
 Ön ödemeli lisanslar size 25 karakterli bir alfasayısal kod olarak verilir. İhtiyacınız olan lisansları satın aldıktan sonra aboneliğinize ekleyebilirsiniz. 
 
-1. Yönetici merkezinde, **Faturalama** > [Ürünleri & hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
+1. Yönetici merkezinde,**[Ürünlerinizi](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Faturalandırma** > sayfasına gidin.
 
 2. Lisans eklemek istediğiniz aboneliği bulun. **Lisanslar** bölümünde, **daha fazla lisans ekle'yi**seçin.
 
