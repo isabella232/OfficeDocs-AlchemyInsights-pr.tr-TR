@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
 ms.openlocfilehash: 74bbfc03335ece92c09805f419a5d9544e8c7506
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064305"
 ---
 # <a name="upgrade-plans-to-increase-mailbox-size"></a>Posta kutusu boyutunu artırma planlarını yükseltme
 
 Posta kutusu boyutu 50 GB ise, [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) veya [Office 365 Enterprise E5'e](https://products.office.com/business/office-365-enterprise-e5-business-software)geçerek posta kutusu boyutunu 100 GB'a yükseltebilirsiniz. Farklı bir aboneye geçme adımları şunlardır:
   
-1. Microsoft 365 yönetici merkezinde,[Ürünlerinizi](https://go.microsoft.com/fwlink/p/?linkid=842054) **Faturalandırma** > sayfasına gidin.
+1. Microsoft 365 yönetici merkezinde, Ürünlerinizi **Faturalandırma**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
 
 2. Yükseltmek için aboneliği seçin ve ardından kullanılabilen yeni planların listesini görüntülemek için **Yükseltme** sekmesini seçin.
 

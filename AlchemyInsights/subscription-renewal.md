@@ -14,17 +14,17 @@ ms.custom:
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
 ms.openlocfilehash: 083e5298aba0ddd3b5d87cf482fdd949a2ee34da
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063277"
 ---
 # <a name="subscription-recurring-billing"></a>Abonelik yinelenen faturalandırma
 
 Aylık veya yıllık aboneliğinizin ne zaman faturalandırılacağını **(Yinelenen faturalandırma** açıksa) veya süresinin dolduğunu **(Yinelenen faturalandırma** kapalıysa) bilmek istiyorsanız:
   
-1. Yönetici merkezinde, **[Ürünlerinizi](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Faturalandırma** \> sayfasına gidin.
+1. Yönetici merkezinde, Ürünlerinizi **Faturalandırma** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
 
 2. Hakkında daha fazla şey öğrenmek istediğiniz abonelik için, **Faturalandırma**altında, **Yenileme'ye** veya **Tarihte Sona Eren'e** bakın.
 

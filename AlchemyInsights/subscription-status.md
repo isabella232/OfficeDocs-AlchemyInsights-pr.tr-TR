@@ -12,17 +12,17 @@ ms.custom:
 - "9001519"
 - "3586"
 ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063241"
 ---
 # <a name="subscription-status"></a>Abonelik durumu
 
 Abonelik durumu, Microsoft 365 yönetici merkezinin **ürünleriniz** sayfasında bulunabilir.
 
-1. **[Ürünlerinizi](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Faturalandırmaya** > gidin.
+1. Ürünlerinizi **Faturalandırmaya**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** gidin.
 
 2. Aboneliklerden herhangi birinin durumuyla ilgili bir sorun varsa, abonelik ayrıntılarının Faturalandırma bölümünde aboneliğin yanında kırmızı bir uyarı simgesi veya "süresi dolmuş" veya "devre dışı bırakılmış" durumu görürsünüz.
 
@@ -30,7 +30,7 @@ Abonelik durumu, Microsoft 365 yönetici merkezinin **ürünleriniz** sayfasınd
 
 **Son kullanma tarihi**
 
-1. **[Ürünlerinizi](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Faturalandırmaya** > gidin.
+1. Ürünlerinizi **Faturalandırmaya**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** gidin.
 
 2. Görünüme bağlı olarak, son kullanma tarihi **Date** etiketli en sağ sütunda veya **sona eren**abonelik ayrıntılarının **Faturalandırma** bölümünde görünür.
 

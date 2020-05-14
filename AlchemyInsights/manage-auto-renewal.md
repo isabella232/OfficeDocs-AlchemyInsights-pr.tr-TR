@@ -14,17 +14,17 @@ ms.custom:
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
 ms.openlocfilehash: 903e4a83a00b2ab8d6068b3bc7ee88a73e6d5cdc
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063853"
 ---
 # <a name="manage-recurring-billing"></a>Yinelenen faturalandırmayı yönetme
 
 Yinelenen faturalandırmayı Microsoft 365 yönetici merkezinde açabilir veya kapatabilirsiniz.
   
-1. Yönetici merkezinde, **[Ürünlerinizi](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Faturalandırma** \> sayfasına gidin.
+1. Yönetici merkezinde, Ürünlerinizi **Faturalandırma** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
 
 2. **Faturalama**altında , **Üzerinde Yeniler** veya **Sona Erenin**yanında, **Edit'i**seçin.
 

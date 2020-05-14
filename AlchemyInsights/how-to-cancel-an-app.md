@@ -13,15 +13,15 @@ ms.custom:
 - "9000566"
 - "2424"
 ms.openlocfilehash: c747df3a17280cf3b84b80659607002d71f309c1
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062520"
 ---
 # <a name="how-to-cancel-software-as-a-service-apps"></a>Hizmet olarak yazılım uygulamaları nasıl iptal edilir? 
 
-1. Microsoft 365 yönetici merkezinde,**[Ürünlerinizi](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Faturalandırma** > sayfasına gidin ve **ardından Uygulamalar** sekmesini seçin.
+1. Microsoft 365 yönetici merkezinde, **Billing**  >  **[Ürünlerinizi](https://go.microsoft.com/fwlink/p/?linkid=842054)** Faturalandırma sayfasına gidin ve **ardından Uygulamalar** sekmesini seçin.
 
 2. Yönetmek istediğiniz uygulamayı bulun ve seçin.
 

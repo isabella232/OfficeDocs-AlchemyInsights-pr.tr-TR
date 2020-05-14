@@ -13,10 +13,10 @@ ms.custom:
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44061763"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Ücretsiz deneme sürümünden Microsoft 365 aboneliği satın alın
@@ -25,7 +25,7 @@ Microsoft 365'i denediniz ve şimdi satın almaya hazırsınız. Deneme sürüm�
   
  **Deneme planınızla aynı planı satın alın**
   
-1. Yönetici merkezinde, **[Ürünlerinizi](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Faturalandırma** \> sayfasına gidin.
+1. Yönetici merkezinde, Ürünlerinizi **Faturalandırma** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
 
 2. Satın almak istediğiniz aboneliği bulun. **Lisanslar** bölümünde, **Abonelik Satın Al'ı**seçin ve kullanıma alma adımlarını izleyin.
 
