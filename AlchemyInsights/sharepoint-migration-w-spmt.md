@@ -3,7 +3,7 @@ title: SPMT ile SharePoint Geçişi
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 9a0aa659db24f3929b0cca54b9c697867a04e42e
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 32afe7771a10e4d5ac9b6bd90467debc2961d0b7
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958522"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235378"
 ---
 # <a name="sharepoint-migration-with-spmt"></a>SPMT ile SharePoint Geçişi
 
-**Önemli**: Bu eşi görülmemiş zamanlarda, SharePoint Online ve OneDrive hizmetlerinin yüksek oranda kullanılabilir kalmasını sağlamak için adımlar atıyoruz – Daha fazla bilgi için lütfen [SharePoint Online Geçici Özellik Ayarlamaları'nı](https://aka.ms/ODSPAdjustments) ziyaret edin.
-
-**SharePoint Geçiş Aracı**
-
-En küçük dosya kümesinden büyük ölçekli bir kuruluş geçişine kadar değişen geçişler için tasarlanan SharePoint Geçiş Aracı, bilgilerinizi buluta aktarmanızı ve en yeni işbirliği, zeka ve Office 365 ile güvenlik çözümleri.
+En küçük dosya kümesinden büyük ölçekli bir kuruluş geçişine kadar değişen geçişler için tasarlanan SharePoint Geçiş Aracı, bilgilerinizi buluta aktarmanıza ve Microsoft 365 ile en yeni işbirliği, istihbarat ve güvenlik çözümlerinden yararlanmanıza olanak sağlar.
 
 - [SharePoint Geçiş Aracı’nı İndirme ve Yükleme](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [Sık karşılaşılan SPMT sorunlarını ve hatalarını giderme](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
