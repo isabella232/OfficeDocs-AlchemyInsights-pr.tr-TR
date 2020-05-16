@@ -1,5 +1,5 @@
 ---
-title: Panoya bir sorun var.
+title: Panoda bir sorun var.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: d82f7922bc0fe68e76af23949ecaafff771ac221
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: dc086f0c43cf307215d8d97a87fdf21d61611d36
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045584"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263897"
 ---
-# <a name="disable-excel-live-preview"></a><span data-ttu-id="8e300-102">Canlı Önizleme Excel devre dışı bırakma</span><span class="sxs-lookup"><span data-stu-id="8e300-102">Disable Excel Live Preview</span></span>
+# <a name="resolving-excel-clipboard-error"></a><span data-ttu-id="54729-102">Excel pano hatasını çözme</span><span class="sxs-lookup"><span data-stu-id="54729-102">Resolving Excel clipboard error</span></span>
 
-<span data-ttu-id="8e300-103">Excel'deki "Pano ile ilgili bir sorun yok, ancak içeriğinizin içinde bu çalışma kitabı hala yapıştırabilirsiniz" diyen bir hata iletisi alırsanız, Canlı Önizleme özelliği aşağıdaki adımları izleyerek devre dışı bırakmayı deneyin:</span><span class="sxs-lookup"><span data-stu-id="8e300-103">If you receive an error in Excel that says, "There's a problem with the clipboard, but you can still paste your content within this workbook," try disabling the Live Preview feature by following these steps:</span></span>
+<span data-ttu-id="54729-103">Excel'de "Panoyla ilgili bir sorun var, ancak içeriğinizi bu çalışma kitabına yapıştırabilirsiniz" diyen bir hata alırsanız, Aşağıdaki adımları izleyerek Canlı Önizleme özelliğini devre dışı bırakmayı deneyin:</span><span class="sxs-lookup"><span data-stu-id="54729-103">If you receive an error in Excel that says, "There's a problem with the clipboard, but you can still paste your content within this workbook," try disabling the Live Preview feature by following these steps:</span></span>
 
-1. <span data-ttu-id="8e300-104">Excel'de, **Dosya**' yı > **seçenekleri**.</span><span class="sxs-lookup"><span data-stu-id="8e300-104">In Excel, click **File** > **Options**.</span></span>
-3. <span data-ttu-id="8e300-105">**Excel Seçenekleri** iletişim kutusunda **Genel**' i seçin.</span><span class="sxs-lookup"><span data-stu-id="8e300-105">In the **Excel Options** dialog box, select **General**.</span></span>
-4. <span data-ttu-id="8e300-106">**Kullanıcı arabirimi seçenekleri**altında **Canlı Önizlemeyi Etkinleştir**temizleyin.</span><span class="sxs-lookup"><span data-stu-id="8e300-106">Under **User Interface options**, clear **Enable Live Preview**.</span></span>
-5. <span data-ttu-id="8e300-107">**Tamam**'a tıklayın.</span><span class="sxs-lookup"><span data-stu-id="8e300-107">Click **OK**.</span></span>
-6. <span data-ttu-id="8e300-108">Excel'i yeniden başlatın.</span><span class="sxs-lookup"><span data-stu-id="8e300-108">Restart Excel.</span></span>
+1. <span data-ttu-id="54729-104">Excel'de **Dosya**  >  **Seçenekleri'ni**tıklatın.</span><span class="sxs-lookup"><span data-stu-id="54729-104">In Excel, click **File** > **Options**.</span></span>
+3. <span data-ttu-id="54729-105">Excel **Seçenekleri** iletişim kutusunda **Genel'i**seçin.</span><span class="sxs-lookup"><span data-stu-id="54729-105">In the **Excel Options** dialog box, select **General**.</span></span>
+4. <span data-ttu-id="54729-106">**Kullanıcı Arabirimi seçenekleri**altında, Canlı **Önizlemeyi Etkinleştir'i**temizleyin.</span><span class="sxs-lookup"><span data-stu-id="54729-106">Under **User Interface options**, clear **Enable Live Preview**.</span></span>
+5. <span data-ttu-id="54729-107">**Tamam**'a tıklayın.</span><span class="sxs-lookup"><span data-stu-id="54729-107">Click **OK**.</span></span>
+6. <span data-ttu-id="54729-108">Excel'i yeniden başlatın.</span><span class="sxs-lookup"><span data-stu-id="54729-108">Restart Excel.</span></span>
