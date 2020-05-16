@@ -1,5 +1,5 @@
 ---
-title: Panoya bir sorun var.
+title: Panoda bir sorun var.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: d82f7922bc0fe68e76af23949ecaafff771ac221
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: dc086f0c43cf307215d8d97a87fdf21d61611d36
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045584"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263897"
 ---
-# <a name="disable-excel-live-preview"></a>Canlı Önizleme Excel devre dışı bırakma
+# <a name="resolving-excel-clipboard-error"></a>Excel pano hatasını çözme
 
-Excel'deki "Pano ile ilgili bir sorun yok, ancak içeriğinizin içinde bu çalışma kitabı hala yapıştırabilirsiniz" diyen bir hata iletisi alırsanız, Canlı Önizleme özelliği aşağıdaki adımları izleyerek devre dışı bırakmayı deneyin:
+Excel'de "Panoyla ilgili bir sorun var, ancak içeriğinizi bu çalışma kitabına yapıştırabilirsiniz" diyen bir hata alırsanız, Aşağıdaki adımları izleyerek Canlı Önizleme özelliğini devre dışı bırakmayı deneyin:
 
-1. Excel'de, **Dosya**' yı > **seçenekleri**.
-3. **Excel Seçenekleri** iletişim kutusunda **Genel**' i seçin.
-4. **Kullanıcı arabirimi seçenekleri**altında **Canlı Önizlemeyi Etkinleştir**temizleyin.
+1. Excel'de **Dosya**  >  **Seçenekleri'ni**tıklatın.
+3. Excel **Seçenekleri** iletişim kutusunda **Genel'i**seçin.
+4. **Kullanıcı Arabirimi seçenekleri**altında, Canlı **Önizlemeyi Etkinleştir'i**temizleyin.
 5. **Tamam**'a tıklayın.
 6. Excel'i yeniden başlatın.
