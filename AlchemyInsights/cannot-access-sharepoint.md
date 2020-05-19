@@ -12,16 +12,14 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: b288c3e7b29265dbb7a68055298a695accaf19c9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
+ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711399"
+ms.lasthandoff: 05/18/2020
+ms.locfileid: "44278840"
 ---
 # <a name="cannot-access-sharepoint"></a>SharePoint’e erişilemiyor
-
-**Önemli**: Bu benzeri görünmemiş zamanlarda, SharePoint Online ve OneDrive hizmetlerinin kullanılabilirlik düzeyinin her zaman yüksek olmasını sağlamaya yönelik adımlar atıyoruz. Daha fazla bilgi için lütfen [SharePoint Online Geçici Özellik Değişiklikleri](https://aka.ms/ODSPAdjustments) sayfasını ziyaret edin.
 
 Microsoft SharePoint veya Microsoft OneDrive’ın erişilemez duruma gelmesinin çeşitli nedenleri vardır. SharePoint Online’a erişemiyorsanız, bu sorunu gidermek için aşağıdaki kılavuzu kullanın.
 
