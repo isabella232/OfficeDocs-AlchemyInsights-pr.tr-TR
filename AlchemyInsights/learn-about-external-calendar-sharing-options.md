@@ -11,13 +11,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 46a114987abc185d1ca5f390fc212fd6873b01e2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ed86cba4427e900074f37ebbb524fa657f73570f
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762913"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373055"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a>Dış takvim paylaşım seçenekleri hakkında bilgi edinin
+# <a name="exchange-online-collaboration-options"></a>Exchange Online işbirliği seçenekleri
 
-Kuruluşunuz dışındaki kişilerle toplantı zamanlamalısınız, Microsoft 365 takvimleri "harici kullanıcılar" için kullanılabilir hale getirmenize olanak tanır, serbest/yoğun zamanı görmesi gereken ancak Microsoft 365 ortamınız için kullanıcı hesabı olmayanlar. Daha fazla bilgi için [bkz.](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users)
+- **Dış takvim paylaşımına genel bir bakış**almak için Exchange [Online'da Paylaşım](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx)bölümüne bakın.
+
+- **Takvimleri başka bir Office 365 kuruluşuyla paylaşmak**için [Exchange Online'daki Kuruluş ilişkilerine](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx)bakın.
+
+- **Kullanıcılarınızın takvimlerini kuruluşunuz dışındaki kişilerle nasıl paylaştığını denetlemek**için [Exchange Online'da Paylaşım ilkelerine](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx)bakın.
+
+- Takvim paylaşımında yapılan **gelişmeleri** görmek için [Microsoft 365'teki Takvim paylaşımına](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4)bakın.
