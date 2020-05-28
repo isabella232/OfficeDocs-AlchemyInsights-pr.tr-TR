@@ -11,23 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 32e49b8afc6ba63463faac3f258c96266db04941
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 99a48d68c7ef6bcd21ef2a063f28532617bc2d5f
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712550"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407298"
 ---
-# <a name="associate-a-hub-site"></a>Hub sitesini ilişkilendirme
+# <a name="associate-existing-site-with-a-hub-site"></a>Varolan siteyi bir hub sitesiyle ilişkilendirme
 
 Varolan bir siteyi hub sitenizle ilişkilendirmek için aşağıdakileri yapın:
   
 1. Sitenizde **Ayarlar'ı** (sağ üst köşedeki vites simgesi) seçin ve ardından **Site bilgilerini**seçin.
 
-2. Site bilgi sini **edet** panelinde, **Hub sitesi ilişkilendirme** menüsünde, sitenizle ilişkilendirmek istediğiniz hub sitesini seçin ve ardından **Kaydet'i**seçin. Sitenizin görünümü hub sitesiningörünümüyle eşleşecek şekilde değişir ve hub sitesi gezinme çubuğu en üstte görünür.
+2. Site bilgi sini **edet** panelinde, **Hub sitesi ilişkilendirme** menüsünde, sitenizle ilişkilendirmek istediğiniz hub sitesini seçin ve ardından **Kaydet'i**tıklatın. Sitenizin görünümü hub sitesiningörünümüyle eşleşecek şekilde değişir ve hub sitesi gezinme çubuğu en üstte görünür.
 
- > [!Note]
+>**Not**
+>
 >Hub sitesi ilişkilendirme seçeneği yoksa veya siteler burada listelenmemişse, hub siteleri etkinleştirilmeyebilir veya siteleri bir hub sitesiyle ilişkilendirme izniniz olmayabilir. Daha fazla bilgi için yöneticinize başvurun.
 >
->Hub sitesiyle ilişkilendirilebilen site sayısında bir sınır yoktur.
+>Hub sitesiyle ilişkilendirilebilen site sayısı için bir sınır yoktur.
   
