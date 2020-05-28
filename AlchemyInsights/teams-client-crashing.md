@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
-ms.translationtype: HT
+ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030760"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354073"
 ---
 # <a name="teams-client-crashing"></a>Teams istemcisi kilitleniyor mu?
 
@@ -24,32 +24,26 @@ Teams istemciniz kilitleniyorsa şunları deneyin:
 
 - Teams masaüstü uygulamasını kullanıyorsanız [uygulamanın tamamen güncel olduğundan emin olun](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Tüm [Office 365 URL’lerinin ve adres aralıklarının](https://docs.microsoft.com/microsoftteams/connectivity-issues) erişilebilir durumda olduğundan emin olun.
+- Tüm Microsoft [365 URL'lerine ve adres aralıklarına](https://docs.microsoft.com/microsoftteams/connectivity-issues) erişilebildiğinden emin olun.
 
-- Kesinti veya hizmet performansında düşüş olmadığından emin olmak için yönetici hesabınızla oturum açın ve [Hizmet Durumu Panonuzu](https://docs.microsoft.com/office365/enterprise/view-service-health) denetleyin.
+- Kiracı yönetici hesabınızla oturum açın ve kesinti veya hizmet bozulması olmadığını doğrulamak için [Hizmet Durumu Panosunuzu](https://docs.microsoft.com/office365/enterprise/view-service-health) kontrol edin.
 
- - Son olarak, Teams istemci önbelleğinizi temizlemeyi deneyebilirsiniz:
+- Takım Uygulamasını kaldırın ve yeniden yükleyin (bağlantı)
+    - Bilgisayarınızdaki %appdata%\Microsoft\teams\ klasörüne göz atın ve bu dizindeki tüm dosyaları silin.
+    - [Takımlar Uygulamasını indirin ve yükleyin](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)ve mümkünse Takımlar'ı yönetici olarak yükleyin (Takımlar yükleyicisini sağ tıklatın ve varsa "Yönetici olarak çalıştır"ı seçin).
 
-    1.  Microsoft Teams masaüstü istemcisinden tamamen çıkın. Simge Tepsisinden **Teams**’e sağ tıklayıp **Çık**’a tıklayabilir veya Görev Yöneticisi’ni çalıştırıp işlemi tamamen sonlandırabilirsiniz.
+Teams istemciniz hala çöküyorsa, sorunu yeniden oluşturabilirsiniz? Eğer öyleyse:
 
-    2.  Dosya Gezgini’ne gidin ve %appdata%\Microsoft\teams yazın.
+1. Adımlarınızı yakalamak için Steps Kaydedici'yi kullanın.
+    - TÜM gereksiz veya gizli uygulamaları kapatın.
+    - Steps Kaydedici'yi başlatın ve etkilenen kullanıcı hesabıyla oturum açtırırken sorunu yeniden üretin.
+    - [Kaydedilen repro adımlarını yakalayan takım günlüklerini toplayın.](https://docs.microsoft.com/microsoftteams/log-files) **Not**: Etkilenen kullanıcının oturum açma adresini yakaladığından emin olun.
+    - Döküm ve/veya Hata kovası bilgilerini (Windows) toplayın. Windows Powershell'i çökmenin meydana geldiği makinede başlatın ve aşağıdaki komutları çalıştırın:
 
-    3.  Dizine girdiğinizde şu klasörlerden birkaç tanesini görürsünüz:
-
-         - **Uygulama Önbelleği** içinden Önbellek’e gidip Önbellek konumundaki (%appdata%\Microsoft\teams\application cache\cache) dosyalardan dilediğinizi silin.
-
-        - **Blob_storage** içindeki tüm dosyaları silin: %appdata%\Microsoft\teams\blob_storage.
-
-        - **Önbellek** içindeki tüm dosyaları silin: %appdata%\Microsoft\teams\Cache.
-
-        - **Veritabanları** içindeki tüm dosyaları silin: %appdata%\Microsoft\teams\databases.
-
-        - **GPUCache** içindeki tüm dosyaları silin: %appdata%\Microsoft\teams\GPUcache.
-
-        - **IndexedDB** içindeki .db uzantılı dosyayı silin: %appdata%\Microsoft\teams\IndexedDB.
-
-        - **Yerel Depolama** içindeki tüm dosyaları silin: %appdata%\Microsoft\teams\Local Storage.
-
-        - Son olarak, **tmp** içindeki tüm dosyaları silin: %appdata%\Microsoft\teams\tmp.
-
-    4. Teams istemcinizi yeniden başlatın.
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
+    
+2. Dosyayı destek servis talebinize takın.
