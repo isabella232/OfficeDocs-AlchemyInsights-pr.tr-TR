@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: 5a56f88f09a8a3a14ce63cebabe0281ba68a359f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0dfab4a410133207012bf9036b05e43de9687abd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743113"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509980"
 ---
-# <a name="change-your-email-address"></a><span data-ttu-id="33d3a-102">E-posta adresinizi değiştirme</span><span class="sxs-lookup"><span data-stu-id="33d3a-102">Change your email address</span></span> 
+# <a name="change-your-email-address"></a><span data-ttu-id="70bd8-102">E-posta adresinizi değiştirme</span><span class="sxs-lookup"><span data-stu-id="70bd8-102">Change your email address</span></span> 
 
-<span data-ttu-id="33d3a-103">E-posta adresinizi değiştirmek için yönetici ayrıcalıklarına ihtiyacınız vardır.</span><span class="sxs-lookup"><span data-stu-id="33d3a-103">To change your email address, you'll need administrator privileges.</span></span>
+<span data-ttu-id="70bd8-103">E-posta adresinizi değiştirmek için yönetici ayrıcalıklarına ihtiyacınız vardır.</span><span class="sxs-lookup"><span data-stu-id="70bd8-103">To change your email address, you'll need administrator privileges.</span></span>
   
-<span data-ttu-id="33d3a-104">[Microsoft 365'teki kullanıcı adını ve e-posta adresini değiştir'deki](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)yönergeleri izleyin.</span><span class="sxs-lookup"><span data-stu-id="33d3a-104">Follow the instructions in [Change a user name and email address in Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).</span></span>
+<span data-ttu-id="70bd8-104">[Microsoft 365'teki kullanıcı adını ve e-posta adresini değiştir'deki](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)yönergeleri izleyin.</span><span class="sxs-lookup"><span data-stu-id="70bd8-104">Follow the instructions in [Change a user name and email address in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).</span></span>
