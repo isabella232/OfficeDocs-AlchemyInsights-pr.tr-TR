@@ -13,18 +13,18 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 6051af464630a9a23d47d8ae8e7b1c4729cc06e0
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957890"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496007"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Kullanıcılara lisans atama veya atama
 
 Bir kullanıcının hizmetlere erişimi olması için lisansa ihtiyacı vardır. Aşağıda, bir kullanıcıdan lisans **ekleme, değiştirme veya kaldırma** adımları vereyim.
   
-1. Yönetici merkezinde, **Kullanıcılar** \> [Etkin kullanıcılara](https://go.microsoft.com/fwlink/p/?linkid=834822)gidin.
+1. Yönetici merkezinde, Kullanıcılar **Users** \> [Etkin kullanıcılara](https://go.microsoft.com/fwlink/p/?linkid=834822)gidin.
 
 2. Lisans atamak, değiştirmek veya kaldırmak istediğiniz kullanıcının adını seçin.
 
@@ -34,4 +34,4 @@ Bir kullanıcının hizmetlere erişimi olması için lisansa ihtiyacı vardır.
 
 4. Bölmenin alt kısmında değişiklikleri **kaydet'i**tıklatın.
 
-Daha fazla bilgi için [kullanıcılara lisans atama](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ve [kullanıcılardan lisansları kaldırma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)'ya bakın.
+Daha fazla bilgi için [kullanıcılara lisans atama](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)ve [kullanıcılardan lisansları kaldırma](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user)'ya bakın.

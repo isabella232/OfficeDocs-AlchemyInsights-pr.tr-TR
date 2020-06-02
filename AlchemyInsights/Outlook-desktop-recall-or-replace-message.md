@@ -9,12 +9,12 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bb84363ae7d3c91750d5de789c091c7cebbbedc2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687530"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502339"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Outlook e-posta iletisi geri çağırma veya değiştirme
 
@@ -26,7 +26,7 @@ Bir e-posta iletisini geri çağırmak veya değiştirmek için:
 
 1. Outlook penceresinin solundaki klasör bölmesinde Gönderilmiş Öğeler klasörünü seçin.
 1. Açmak için hatırlamak istediğiniz iletiyi çift tıklatın.
-1. **İleti** sekmesini seçin ve ardından **Eylemler** > **Bu İletiyi Geri Çağır'ı**seçin.
+1. **İleti** sekmesini seçin ve ardından **Eylemler**  >  **Bu İletiyi Geri Çağır'ı**seçin.
 1. **Bu iletinin okunmamış kopyalarını sil'i** seçin veya **okunmamış kopyaları silin ve yeni bir iletiyle değiştirin**ve ardından **Tamam'ı**seçin.
 1. Yeni bir ileti gönderiyorsanız, iletiyi oluşturun ve sonra **Gönder'i**seçin.
 1. İleti geri çağırmanın başarısı veya başarısızlığı, alıcının Outlook'taki ayarlarına bağlıdır. Geri çağırmayı denetlemek için adımlar için [bu makaleye](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)bakın.
@@ -34,7 +34,7 @@ Bir e-posta iletisini geri çağırmak veya değiştirmek için:
 Kuruluşunuzdaki e-posta iletilerini arama ve silme
 
 - Genel bir yönetici değilseniz, iletileri aramak için hesabınızın eDiscovery Manager rolüne veya Uyumluluk Arama yönetimi rolüne eklenmesi gerekir. İletileri silmek için, Organizasyon Yönetimi rol grubuna veya Arama ve Temizleme yönetimi rolüne katılmanız gerekir. Bu rolleriçin izinler [Güvenlik ve uyumluluk merkezinde](https://go.microsoft.com/fwlink/?linkid=2083731)atanır.
-- Silmek için ileti bulmak için [bir içerik araması oluşturun.](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- Silmek için ileti bulmak için [bir içerik araması oluşturun.](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 - [Güvenlik ve Uyumluluk Merkezi PowerShell'e bağlanın.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)
 
 Çok faktörlü kimlik doğrulama kullanıyorsanız, [çok faktörlü kimlik doğrulaması kullanarak Microsoft 365 security ve Compliance Center PowerShell'e bağlan'a](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)bakın.

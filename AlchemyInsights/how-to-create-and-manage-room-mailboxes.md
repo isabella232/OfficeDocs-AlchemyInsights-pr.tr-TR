@@ -14,15 +14,15 @@ ms.custom:
 - "3500013"
 - "3800012"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: aaa7203c4879b65ec551374a911878556e44ed9a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fb0bdea1d1e2bace748971706ac119976ec9bf69
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735625"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495791"
 ---
 # <a name="how-to-create-and-manage-room-mailboxes"></a>Oda posta kutuları oluşturma ve yönetme
 
-Oda posta kutularını oluşturmak [](https://technet.microsoft.com/library/jj215781.aspx)ve değiştirmek için bkz.
+Oda posta kutularını oluşturmak ve değiştirmek için [bkz.](https://technet.microsoft.com/library/jj215781.aspx)
 
-Oda ve ekipman posta kutuları (kaynak posta kutuları olarak da bilinir) hakkında daha fazla bilgi edinmek için [Oda ve ekipman posta](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)kutularına bakın.
+Oda ve ekipman posta kutuları (kaynak posta kutuları olarak da bilinir) hakkında daha fazla bilgi edinmek için [Oda ve ekipman posta kutularına](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)bakın.
