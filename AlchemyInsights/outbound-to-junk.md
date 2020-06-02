@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 869cd3d9fb8e5fce291244e4a39754d074b11358
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761188"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511744"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>Önemsiz E-posta klasörüne giden e-posta
 
 Giden iletilerin Önemsiz olarak işaretlendiğini görüyorsanız, aşağıdaki adımları yapın:
 
-- Henüz yapmadıysanız, giden [spam ilke bildirimlerini yapılandırmayı](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy)düşünün.
+- Henüz yapmadıysanız, giden [spam ilke bildirimlerini yapılandırmayı](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)düşünün.
 
-- Giden iletinin ek **ayrıntıyla** birlikte spam olay değerine sahip olup olmadığını görmek için [ileti izlemesini](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc) **kullanın: Yüksek riskli teslim havuzunu kullanın.**
+- Giden iletinin ek **ayrıntıyla** birlikte spam olay değerine sahip olup olmadığını görmek için [ileti izlemesini](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) **kullanın: Yüksek riskli teslim havuzunu kullanın.**
 
   Bu iletiler için, spam olarak kabul edilenene ne olduğunu görmek için ileti içeriğini denetleyin. Örneğin, imzalar bazen birçok kullanıcı için sorunlara neden olabilir.
 

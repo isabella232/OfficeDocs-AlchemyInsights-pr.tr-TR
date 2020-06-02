@@ -11,16 +11,16 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 8647b65c52a782ca48ca58bb2700556db528796b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571291"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511996"
 ---
 # <a name="unable-to-delete-items"></a>Öğeleri sileme
 
-Bekletme ilkeleri buna neden olabilir, bu soruna neden olan ilgili tutmayı devre dışı bırakmak veya hariç tutmanız gerekir. Bekletme ilkesi veya tutma kaldırıldıktan sonra, değişikliğin etkili olması 24 saat kadar sürebilir. Öğeüzerinde [bekletme ilkesi](https://docs.microsoft.com/office365/securitycompliance/retention-policies) kurulumu olmadığından emin olun.
+Bekletme ilkeleri buna neden olabilir, bu soruna neden olan ilgili tutmayı devre dışı bırakmak veya hariç tutmanız gerekir. Bekletme ilkesi veya tutma kaldırıldıktan sonra, değişikliğin etkili olması 24 saat kadar sürebilir. Öğeüzerinde [bekletme ilkesi](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) kurulumu olmadığından emin olun.
 
 Site depolama sınırını aşmış, [site kotasını](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) artırmış ve öğeyi silmiş olabilir.
 

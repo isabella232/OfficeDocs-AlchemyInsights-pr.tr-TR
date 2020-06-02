@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758536"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511672"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Duyarlılık etiketleri görünmüyor
 
-Duyarlılık etiketleri, hassas içeriğinizi sınıflandırmanıza ve korumanıza yardımcı olur. Microsoft 365 uyumluluk merkezi, Microsoft 365 güvenlik merkezi veya Microsoft 365 güvenlik & Uyumluluk Merkezi'nde Sınıflandırma > Duyarlılığı etiketleri altında oluşturulabilirler. Bu özellik hakkında daha fazla bilgi edinmek için [duyarlılık etiketlerine genel bakış](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)bölümüne bakın.
+Duyarlılık etiketleri, hassas içeriğinizi sınıflandırmanıza ve korumanıza yardımcı olur. Microsoft 365 uyumluluk merkezi, Microsoft 365 güvenlik merkezi veya Microsoft 365 güvenlik & Uyumluluk Merkezi'nde Sınıflandırma > Duyarlılığı etiketleri altında oluşturulabilirler. Bu özellik hakkında daha fazla bilgi edinmek için [duyarlılık etiketlerine genel bakış](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)bölümüne bakın.
 
 Duyarlılık etiketlerinizi yapılandırmış ancak Office uygulamalarında görünmüyorsa aşağıdakileri kontrol edin:
 
-- Duyarlılık etiketinin istediğiniz kullanıcılara ve gruplara [yayımlandığını](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) doğrulayın.
+- Duyarlılık etiketinin istediğiniz kullanıcılara ve gruplara [yayımlandığını](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) doğrulayın.
 
 - Kullanıcının duyarlılık etiketlerini destekleyen bir uygulama kullandığını doğrulayın - [belgenizde duyarlılık etiketlerini](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable)görün.
 
