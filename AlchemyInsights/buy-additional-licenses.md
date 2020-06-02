@@ -12,12 +12,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9cb53a5ae33e075c00f5405873dd3137e89d75b
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 6950efae6aef72a3c8198fee97596f640f5968c2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061727"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506247"
 ---
 # <a name="buy-additional-licenses"></a>Ek lisans satın alın
 
@@ -25,15 +25,15 @@ ms.locfileid: "44061727"
 
 2. Lisans eklemek istediğiniz aboneliği bulun ve ardından **Lisans Ekle/Kaldır'ı**seçin.
 
-    [Ekle/Kaldır bağlantısını görmezsem ne olur?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [Ekle/Kaldır bağlantısını görmezsem ne olur?](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 3. Toplam **lisanslar** kutusuna, bu abonelik için ihtiyacınız olan toplam lisans sayısını girin ve ardından **değiştir'i gönder'i**seçin. Örneğin, 100 lisansınız varsa ve 5 lisans daha eklemeniz gerekiyorsa 105 yazın.
 
     > [!NOTE]
     > Aboneliğinizin ödemesini kredi kartı veya banka hesabıyla yaparsanız, satın aldığınız tüm yeni lisanslar sipariş onayı almanızın hemen ardından kullanıma hazır duruma gelir. Fatura karşılığında ödeme yapıyorsanız, yeni lisanslarınızın kullanılabilir duruma gelmesi için kredi denetimini beklemeniz gerekebilir.
 
-Daha fazla bilgi için, [işletme aboneliği için Microsoft 365 lisanslarını satın alın'a](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)bakın.  
+Daha fazla bilgi için, [işletme aboneliği için Microsoft 365 lisanslarını satın alın'a](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)bakın.  
 
 **Ek Kaynaklar**
 
-- [İşletmeler için Microsoft 365'teki kullanıcılara lisans atama](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [İşletmeler için Microsoft 365'teki kullanıcılara lisans atama](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 4ea3c9e8cd2e90aa8dc5a3ec00b19245627398c3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1bc503732b8aba2b509dc48e97434c2d4bc55c65
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706474"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506031"
 ---
 # <a name="change-a-users-email-address"></a>Kullanıcının e-posta adresini değiştirme
 
@@ -38,6 +38,6 @@ Birinin e-posta adresini değiştirmek kolaydır! Aşağıdaki adımları izleme
     
 6. **Kaydet'i**seçin, sonra **Kapat'** ı seçin ve bittiniz!
     
-Kolay olmadı mı? Ekran görüntüleriyle ilgili daha fazla ayrıntı ve adım için şu makaleye göz atın: [Kullanıcı adını ve e-posta adresini değiştirin](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+Kolay olmadı mı? Ekran görüntüleriyle ilgili daha fazla ayrıntı ve adım için şu makaleye göz atın: [Kullanıcı adını ve e-posta adresini değiştirin](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 
