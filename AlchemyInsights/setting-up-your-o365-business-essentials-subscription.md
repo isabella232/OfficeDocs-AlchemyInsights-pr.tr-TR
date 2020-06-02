@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767809"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509368"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>O365 Business Essentials aboneliğinizi ayarlama
 
@@ -23,11 +23,11 @@ Microsoft 365 hesapları oluşturun ve etki alanınızı ekleyin
     
 - [Microsoft 365 yönetici merkezine](https://login.partner.microsoftonline.cn/)gidin.
     
-- Sihirbazı başlatmak için **Kuruluma git**'i seçin. Daha fazla bilgi için bkz: [Microsoft 365'e etki alanı ekle.](https://docs.microsoft.com/office365/admin/setup/add-domain)
+- Sihirbazı başlatmak için **Kuruluma git**'i seçin. Daha fazla bilgi için bkz: [Microsoft 365'e etki alanı ekle.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)
     
 E-posta içe aktarma
   
-- Varolan e-postalarınızı ve kişilerinizi diğer e-posta sistemlerinden Microsoft 365 posta kutunuza taşıyın, böylece hepsini tek bir yerde görebilirsiniz. Geçiş seçenekleri [için, e-postaları ve kişileri Microsoft 365'e geçirin.](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin)
+- Varolan e-postalarınızı ve kişilerinizi diğer e-posta sistemlerinden Microsoft 365 posta kutunuza taşıyın, böylece hepsini tek bir yerde görebilirsiniz. Geçiş seçenekleri [için, e-postaları ve kişileri Microsoft 365'e geçirin.](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin)
     
 - E-posta hesaplarını bağlama
     
@@ -41,6 +41,6 @@ Dosyaları çevrimiçi depolama
   
 - İşletmeniz için en iyi depolama konumlarının olduğunu öğrenmek için [microsoft 365'te dosyaları nerede depolayabileceğinize](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)bakın. Onlar için Microsoft 365 hesapları oluşturduğunuzda herkes otomatik olarak bir **OneDrive** bulut depolama konumu alır. OneDrive ile bilgisayar, telefon ve tabletlerinizdeki dosyalara erişebilirsiniz. 
     
-Kurulum için ayrıntılı adımlar [bu makalede](https://docs.microsoft.com/office365/admin/setup/setup)bulunabilir.
+Kurulum için ayrıntılı adımlar [bu makalede](https://docs.microsoft.com/microsoft-365/admin/setup/setup)bulunabilir.
   
 

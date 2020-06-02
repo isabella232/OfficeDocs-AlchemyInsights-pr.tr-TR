@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766009"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508684"
 ---
 # <a name="install-visio"></a>Visio'yu Yükle
 
@@ -25,7 +25,7 @@ Visio tek başına bir uygulama olarak satılmaktadır, bu yüzden henüz yoksa,
 
 **Not**: Visio Online Plan 1, Visio'nun masaüstü sürümünü içermez, bu nedenle kurulum mümkün değildir.
 
-Visio Online Plan 2 aboneliğiniz varsa, bir kullanıcıya [lisans atamanız](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) gerekir veya [hesabım portalına](https://portal.office.com/account#installs)Yüklemişimdir'den Visio'yu yükleme seçeneği yoktur. **My installs** 
+Visio Online Plan 2 aboneliğiniz varsa, bir kullanıcıya [lisans atamanız](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) gerekir veya [hesabım portalına](https://portal.office.com/account#installs)Yüklemişimdir'den Visio'yu yükleme seçeneği yoktur. **My installs** 
 
 Visio Standard veya Visio Professional'ın toplu olmayan lisans sürümleri Microsoft hesaplarıyla ilişkilidir ve yönetici merkezinde yönetilemez. Bu sürümleri yüklemek için kullanıcıların Visio'nun bu sürümüyle ilişkili Microsoft hesabıyla [account.microsoft.com](https://account.microsoft.com) oturum açmaları gerekir.
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: cc3842bf7226079b8542cb95aa0cdbf00d95361f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 82917466c3e9f7b1e452f98cac41fa945f0ec736
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671261"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508792"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Posta kutusu boyutunuz zaten 100GB ise ne yapabilirsiniz?
 
@@ -26,12 +26,12 @@ E-posta arşivlemesini etkinleştirmek için:
   
 1. Microsoft 365 yönetici merkezinde, **Yönetici merkezleri** \> **Exchange**gidin. 
     
-2. **Alıcılar** \> **Posta Kutularını**seçin ve bir posta kutusu seçin. 
+2. **Alıcılar** Posta \> **Kutularını**seçin ve bir posta kutusu seçin. 
     
 3. **Yerinde Arşiv**altındaki ayrıntılar bölmesinde **Etkinleştir'i**seçin. 
     
-4. Birkaç dakika sonra, kullanıcınızın Outlook'unda *Yerinde Arşiv* adlı web'de veya Çevrimiçi Arşiv adlı Outlook uygulamasında yeni bir klasör *görünür. \<\> * Kullanıcınız e-postaları sürükleyip arşive bırakabilir. 
+4. Birkaç dakika sonra, kullanıcınızın Outlook'unda *Yerinde Arşiv* adlı web'de veya Çevrimiçi Arşiv adlı Outlook uygulamasında yeni bir klasör *görünür. \<name\> * Kullanıcınız e-postaları sürükleyip arşive bırakabilir. 
     
-Arşivleme için sınırsız miktarda depolama alanına erişebilirsiniz. Daha fazla bilgi için bkz: [Sınırsız arşivlemeyi etkinleştir.](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving)
+Arşivleme için sınırsız miktarda depolama alanına erişebilirsiniz. Daha fazla bilgi için bkz: [Sınırsız arşivlemeyi etkinleştir.](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving)
   
 

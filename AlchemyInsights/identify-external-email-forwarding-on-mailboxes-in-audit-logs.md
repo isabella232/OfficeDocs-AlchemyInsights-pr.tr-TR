@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716480"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508972"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Posta kutularında harici e-posta yönlendirmenin ne zaman yapılandırılma da olduğunu belirleme
 
@@ -25,7 +25,7 @@ Bir Microsoft 365 kullanıcısı bir posta kutusunda harici e-posta yönlendirme
 
 1. [Microsoft 365 Güvenlik & Uyumluluk Merkezi'nde](https://protection.office.com/)oturum açın.
 
-2. **Arama** > **Denetimi günlüğü arama** sayfasına gidin.
+2. **Arama**  >  **Denetimi günlüğü arama** sayfasına gidin.
 
 3. **Başlangıç tarihi** ve Bitiş **tarihi** alanlarındaki tarih aralığını seçin. Bir kullanıcı adı belirtmeniz gerekmez. **Etkinlikler** alanının tüm **etkinliklerin sonuçlarını gösterecek**şekilde ayarlı olduğunu doğrulayın.
 
@@ -39,4 +39,4 @@ Sonuçlarda, **Sonuçları Filtrele'yi** ve etkinlik filtresi kutusunda **Set-Po
 
 - **UserId**: **ObjectId** alanında posta kutusunda e-posta yönlendirmeyi yapılandıran kullanıcı.
 
-Daha fazla bilgi için [bkz.](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox)
+Daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

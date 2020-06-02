@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645692"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509404"
 ---
 # <a name="setup-dkim"></a>Kurulum DKIM
 
-Microsoft 365'teki özel etki alanları için DKIM yapılandırmak için tam yönergeler [burada.](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)
+Microsoft 365'teki özel etki alanları için DKIM yapılandırmak için tam yönergeler [burada.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)
 
 1. **Her** özel etki alanı için, etki alanınızın DNS barındırma hizmetinde (genellikle etki alanı kayıt şirketi) **iki** DKIM CNAME kaydı oluşturmanız gerekir. Örneğin, contoso.com ve fourthcoffee.com dört DKIM CNAME kaydı gerektirir: ikisi contoso.com için, ikisi fourthcoffee.com için.
 
@@ -36,16 +36,16 @@ Microsoft 365'teki özel etki alanları için DKIM yapılandırmak için tam yö
 
      **TTL**: 3600
 
-   \<DomainGUID,\> özel etki alanı `.mail.protection.outlook.com` için özelleştirilmiş MX kaydının solundaki `contoso-com` metindir (örneğin, etki alanı contoso.com için). \<InitialDomain,\> Microsoft 365'e kaydolduğunuzda kullandığınız etki alanıdır (örneğin, contoso.onmicrosoft.com).
+   \<DomainGUID\>`.mail.protection.outlook.com`özel etki alanı için özelleştirilmiş MX kaydında solundaki metindir (örneğin, `contoso-com` etki alanı contoso.com). \<InitialDomain\>Microsoft 365'e kaydolduğunuzda kullandığınız etki alanıdır (örneğin, contoso.onmicrosoft.com).
 
 2. Özel etki alanlarınızın CNAME kayıtlarını oluşturduktan sonra aşağıdaki yönergeleri tamamlayın:
 
-   A. iş veya okul hesabınızla [Microsoft 365'te oturum açın.](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4)
+   a. iş veya okul hesabınızla [Microsoft 365'te oturum açın.](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4)
 
-   B. Sol üst köşedeki uygulama başlatıcı simgesini seçin ve ardından **Yönetici**’yi seçin.
+   b. Sol üst köşedeki uygulama başlatıcı simgesini seçin ve ardından **Yönetici**’yi seçin.
 
-   C. Sol alt gezintide, **Yönetici'yi** genişletin ve **Exchange'i**seçin.
+   c. Sol alt gezintide, **Yönetici'yi** genişletin ve **Exchange'i**seçin.
 
-   D. **Koruma** > **DKIM**gidin.
+   D. Koruma **Protection**  >  **DKIM**gidin.
 
    E. Etki alanını seçin ve ardından **DKIM imzaları olan bu etki alanı için Oturum İmza iletilerini** **etkinleştir'i** seçin. Her özel etki alanı için bu adımı yineleyin.

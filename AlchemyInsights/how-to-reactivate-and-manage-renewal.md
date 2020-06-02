@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eee6e4a4494e259050f40173d66c2747b68a1608
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064105"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509116"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Yinelenen faturalandırmayı yeniden etkinleştirme ve yönetme
 
@@ -32,7 +32,7 @@ Görünüşe göre süresi dolmuş bir aboneliğiniz var. Yeniden etkinleştirme
 
 3. Ödeme ayrıntılarınızı onaylayın. Var olan ödeme bilgilerinizi burada güncelleştirebilirsiniz. Ödeme yönteminizi girmeyi bitirdikten sonra **Yeniden Etkinleştir'i**seçin.
 
-Daha fazla bilgi edinmek için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Daha fazla bilgi edinmek için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription). 
 
 Aylık veya yıllık faturalandırmayı yönetmek için **Yinelenen faturalandırmayı** açabilir veya kapatabilirsiniz.
   
@@ -46,4 +46,4 @@ Aylık veya yıllık faturalandırmayı yönetmek için **Yinelenen faturalandı
 
 5. **Değiştir'i Gönder'i**seçin.
 
-Daha fazla bilgi edinmek için bkz. [Yinelenen fatura özelliğini kapatma veya açma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Daha fazla bilgi edinmek için bkz. [Yinelenen fatura özelliğini kapatma veya açma](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

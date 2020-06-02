@@ -13,21 +13,21 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 77b24f9bf3777c2f2085a72f089017201cd8f928
-ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
+ms.openlocfilehash: 746cfe6e929a0584a10569bfb0ee8d7e7df0a857
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44086800"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508216"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Microsoft 365 aboneliğinizi iptal mi edin?
 
 Gitmene üzüldük!
   
-Kuruluş verilerinize dayanarak, tüm mevcut aboneliklerinizin 25'ten fazla atanmış lisansı olduğuna inanıyoruz. 25'ten az olana kadar kullanıcıları kaldırabilir ve **[ardından Ürünlerinizi](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Faturalandırma** \> sayfasına gidebilirsiniz. Ayarlar **& Eylemler** bölümünde **aboneliği Iptal et'i**seçin.
+Kuruluş verilerinize dayanarak, tüm mevcut aboneliklerinizin 25'ten fazla atanmış lisansı olduğuna inanıyoruz. 25'ten az olana kadar kullanıcıları kaldırabilir ve ardından Ürünlerinizi **Faturalandırma** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidebilirsiniz. Ayarlar **& Eylemler** bölümünde **aboneliği Iptal et'i**seçin.
  
 **Geri Ödeme: Herhangi bir eşit kredi bir sonraki faturalandırma döngüsü içinde size iade edilecektir.** 
 
 **Not**: İptal etme seçeneğini görmüyorsanız, ayrıntıları görüntülemek için aboneliği tıklatın ve Ayarlar **& Eylemleri'nde** **abonelik seçeneğini** görmeniz gerekir. 
 
-Daha fazla bilgi için [bkz.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+Daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

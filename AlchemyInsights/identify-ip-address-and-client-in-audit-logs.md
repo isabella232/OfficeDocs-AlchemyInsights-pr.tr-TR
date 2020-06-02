@@ -12,12 +12,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 80b652eb65612093252dee226a19ec74bc035faa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716408"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508936"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Denetim günlüklerinde IP adresini ve istemciyi belirleme
 
@@ -25,7 +25,7 @@ Bir Microsoft 365 kullanıcısı veya yöneticisinin bir etkinliğine karşılı
 
 1. [Microsoft 365 Güvenlik & Uyumluluk Merkezi'nde](https://protection.office.com/)oturum açın.
 
-2. **Arama** > **Denetimi günlüğü arama** sayfasına gidin.
+2. **Arama**  >  **Denetimi günlüğü arama** sayfasına gidin.
 
    Belirli bir etkinlikle ilgileniyorsanız, **Etkinlikler** listesinden seçin. Değilse, tüm etkinlikler seçili kullanıcı (varsayılan ayar) için döndürülür.
 
@@ -35,4 +35,4 @@ Bir Microsoft 365 kullanıcısı veya yöneticisinin bir etkinliğine karşılı
 
 Sonuçlarda, bu etkinliğin IP adresini sonuç bölmesinde görebilirsiniz. **Ayrıntılar** uçuşundaki ayrıntılı bilgileri görmek için denetim kaydını seçin (örneğin, Müşteri, eylem gerçekleştiren Kullanıcı vb.).
 
-Daha fazla bilgi için bkz: [Gizliliği ihlal edilen bir hesaba erişmek için kullanılan bilgisayarın IP adresini bulma.](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account)
+Daha fazla bilgi için bkz: [Gizliliği ihlal edilen bir hesaba erişmek için kullanılan bilgisayarın IP adresini bulma.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)

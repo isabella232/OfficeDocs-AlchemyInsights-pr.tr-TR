@@ -12,12 +12,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 641c0216491186aeb423a13854c6b39ee005e5df
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716516"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509008"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Silinen e-posta iletileri için denetim günlükleri
 
@@ -33,6 +33,6 @@ Ocak 2019'dan itibaren Microsoft varsayılan olarak posta kutusu denetim günlü
 
 Sonuçlarda, bir denetim kaydı seçin. Ayrıntılarflyout, daha **fazla bilgi**tıklatın. Silinen öğe yle ilgili ek bilgiler (örneğin, konu satırı ve silindiğinde öğenin konumu) **Etkilenen Öğeler** alanında görüntülenir. **ClientInfoString** özelliği silme outlook, Outlook web (eski Outlook Web App olarak da bilinir) veya başka bir aygıtta oluştu gösterir.
 
-Daha fazla bilgi için [bkz.](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items)
+Daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
 **Not**: Denetim günlüğü özelliğini kullanarak silinen öğeleri alamazsınız. Web'de Outlook'ta silinen iletileri almak için [bkz.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)

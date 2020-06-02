@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eae0ffdadf9f43b70c35992a03fce764b9299300
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063565"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509224"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Microsoft 365 satın alma işlemi nasıl yapılır?
 
@@ -27,7 +27,7 @@ Microsoft 365'teki satın alma işlemleri yönetici merkezinde niçin yapılabil
 
 - Ek lisans satın almak için Ürünlerinizi **Faturalandırma** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin. Lisans eklemek istediğiniz aboneliği seçin ve ardından **Lisans Ekle/Kaldır'ı**seçin.
   
-Daha fazla bilgi için, [işletme aboneliği için Microsoft 365 lisanslarını satın alın'a](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)bakın.
+Daha fazla bilgi için, [işletme aboneliği için Microsoft 365 lisanslarını satın alın'a](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)bakın.
 
 **Sorun giderme**
 
@@ -35,6 +35,6 @@ Sayfa yükleme konusunda sorun yaşıyorsanız, web sayfasını başka bir taray
 
 **Ek Kaynaklar**
   
-- [İşletmeler için Microsoft 365'teki kullanıcılara lisans atama](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [İşletmeler için Microsoft 365'teki kullanıcılara lisans atama](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- [İşletmeler için Microsoft 365'i iptal etme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [İşletmeler için Microsoft 365'i iptal etme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
