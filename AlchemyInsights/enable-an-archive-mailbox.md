@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788686"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507046"
 ---
 # <a name="enable-an-archive-mailbox"></a>Arşiv posta kutusunu etkinleştirme
 
@@ -27,7 +27,7 @@ Arşiv posta kutusu şu şekilde oluşturulur:
 
 2. Yönetici hesabınızı kullanarak Microsoft 365'te oturum açın.
 
-3. Güvenlik &amp; Uyumluluk Merkezi'nin sol bölmesinde **Bilgi yönetimi** \> **Arşivi'ni**seçin.
+3. Güvenlik Uyumluluk Merkezi'nin sol bölmesinde &amp; **Bilgi yönetimi** \> **Arşivi'ni**seçin.
 
 4. Etkinleştirmek istediğiniz arşiv posta kutusunu seçen kullanıcıyı seçin.
 
@@ -43,7 +43,7 @@ Paylaşılan bir posta kutusu için arşivi etkinleştirmek için:
 
 1. [Exchange yönetici merkezine](https://outlook.office365.com/ecp) gidin ve yönetici hesabınızı kullanarak oturum açın.
 
-2. **Paylaşılan** **Alıcılara** > git.
+2. Paylaşılan **Alıcılara**  >  **Shared**git.
 
 3. Paylaşılan posta kutusunu seçin.
 
@@ -51,6 +51,6 @@ Paylaşılan bir posta kutusu için arşivi etkinleştirmek için:
 
 Daha fazla bilgi için bkz.:
   
-- [Arşiv posta kutularını etkinleştirme](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Arşiv posta kutularını etkinleştirme](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Arşiv ve silme ilkesi ayarlama](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

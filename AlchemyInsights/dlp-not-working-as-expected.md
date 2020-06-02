@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: efb4a19f345fe6b8a1e8bb72abeba4a923c05777
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e96904e2f0da2fe1fafb3f8722465eaf22681b71
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704433"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507498"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP beklendiği gibi çalışmıyor
 
@@ -36,18 +36,18 @@ Güvenlik ve Uyumluluk merkezlerinde **yerleşik hassas bilgi türlerini** kulla
   
 - **Yerleşik Hassas Bilgi Türleri**
 
-    Yerleşik Hassas türleri ve Bir DLP ilkesinin Hassas türü algılarken ne aradığı hakkında bilgi için bkz: [Hassas bilgi türlerinin aradığı](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)şey.
+    Yerleşik Hassas türleri ve Bir DLP ilkesinin Hassas türü algılarken ne aradığı hakkında bilgi için bkz: [Hassas bilgi türlerinin aradığı](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)şey.
 
 - **Özel Hassas Bilgi Türleri**
 
-    Özel duyarlı bilgi türleri oluşturmaya çalışıyorsanız, özel duyarlı bir tür oluşturma hakkında bilgi için aşağıdaki makaleyi kullanın: [Özel duyarlı bilgi türü oluşturun.](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
+    Özel duyarlı bilgi türleri oluşturmaya çalışıyorsanız, özel duyarlı bir tür oluşturma hakkında bilgi için aşağıdaki makaleyi kullanın: [Özel duyarlı bilgi türü oluşturun.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
 
 **Bir DLP ilkesini test edin**
 
-Verilerinizi yerleşik veya özel olarak duyarlı bilgi türüyle **sınamak** > için, Sınıflandırmalara**Duyarlı bilgi türleri**altında Test **türü** seçeneğini kullanın. Daha fazla bilgi için [bkz.](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center)
+Verilerinizi yerleşik veya özel olarak duyarlı bilgi türüyle **sınamak**için, Sınıflandırmalara Duyarlı bilgi türleri altında **Test türü** seçeneğini  >  **Sensitive info types**kullanın. Daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)
 
  **Raporlar**
   
-- [DLP Raporları](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports) ile hassas veri öngörüleri alın.
+- [DLP Raporları](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports) ile hassas veri öngörüleri alın.
 
-- [Olay Raporu](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports)ile olayın belirli ayrıntılarını görün.
+- [Olay Raporu](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports)ile olayın belirli ayrıntılarını görün.

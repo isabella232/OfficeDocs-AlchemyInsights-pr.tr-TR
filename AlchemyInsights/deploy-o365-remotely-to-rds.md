@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010274"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507606"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>RDS, Terminal Server veya VDI'de paylaşılan kullanım için kurumsal olarak Microsoft 365 Uygulamalarını dağıtma
 
@@ -38,9 +38,9 @@ Paylaşılan bilgisayar etkinleştirmeyle ilgili hataları düzeltmek için:
 
 ***Varsayılan yükleme ayarlarını kullanan***Microsoft 365 yönetici merkezinden RDS'de kurumsal olarak Microsoft 365 Uygulamaları yüklemek istiyorsanız, aşağıdaki adımları kullanın:
 
-1.    Hangi aboneliğiniz olduğunu kontrol edin. [Nasıl yapıldığını öğrenin](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.    Gerekirse, farklı bir aboneye geçin. [Nasıl yapıldığını öğrenin](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.    Office, rds sunucusunda başka Microsoft abonelikleri kullanıyorsa, kaldırın. Örneğin, **Denetim Masası'na** > giderek**bir programı kaldırın.** Sorunlarla karşınıza yüzde lerak [Microsoft Destek ve Kurtarma Yardımcısı'nı](https://aka.ms/SARA-OfficeUninstall-Alchemy) kullanarak kaldırın.
+1.    Hangi aboneliğiniz olduğunu kontrol edin. [Nasıl yapıldığını öğrenin](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2.    Gerekirse, farklı bir aboneye geçin. [Nasıl yapıldığını öğrenin](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3.    Office, rds sunucusunda başka Microsoft abonelikleri kullanıyorsa, kaldırın. Örneğin, **Denetim Masası'na**giderek  >  **bir programı kaldırın.** Sorunlarla karşınıza yüzde lerak [Microsoft Destek ve Kurtarma Yardımcısı'nı](https://aka.ms/SARA-OfficeUninstall-Alchemy) kullanarak kaldırın.
 4.    RDS sunucusunda, yönetici hesabınızla Microsoft 365 yönetici merkezinde oturum açın ve [kurumsal için Microsoft 365 Uygulamaları'nı yükleyin.](https://portal.office.com/OLS/MySoftware.aspx)
 5.    Office yüklendikten sonra, hiçbir Office uygulamasını ***açmayın veya oturum açmayın.***
 6.    RDS sunucusunda, aşağıdaki adımları izleyerek kayıt defterini düzenleyerek paylaşılan bilgisayar etkinleştirmesini etkinleştirin:

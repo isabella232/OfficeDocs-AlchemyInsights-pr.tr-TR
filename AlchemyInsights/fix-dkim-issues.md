@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: d725eb0d46dcbf1b5b6d77ca9f59fcafa5298bf1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8195b0e3fada6da033b2d95b1fc6600e7fa3341e
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717582"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506794"
 ---
 # <a name="fix-dkim-setup-issues"></a>DKIM kurulum sorunlarını düzeltme
 
 Özel etki alanınız için DKIM'i etkinleştiren sorunlarla karşılaşırsanız, aşağıdaki adımları kullanın:
 
-- Çoğu DKIM kurulum sorunları yanlış DNS kayıtlarıyla ilişkilidir. DKIM CNAME kaydının (TXT kaydı**değil)** doğru biçimlendirilmiş olduğunu doğrulayın. Daha fazla bilgi için bu [konuya](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)bakın.
+- Çoğu DKIM kurulum sorunları yanlış DNS kayıtlarıyla ilişkilidir. DKIM CNAME kaydının (TXT kaydı**değil)** doğru biçimlendirilmiş olduğunu doğrulayın. Daha fazla bilgi için bu [konuya](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)bakın.
 
 - Etki alanınız için DNS barındırma hizmetinde DKIM DNS kayıtlarınızı oluşturduktan veya güncelledikten sonra (genellikle etki alanı kayıt şirketiniz), DNS kayıtlarının yayılmasını bekleyin.
 
-- Yönetici \<merkezinde DKIM DNS kayıtlarını oluşturamıyorsanız, CustomDomain'i\> özel etki alanınızın (örneğin, contoso.com) değiştirebilir ve bu komutu Exchange Online [PowerShell'de](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)çalıştırabilirsiniz: `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true`.
+- Yönetici merkezinde DKIM DNS kayıtlarını oluşturamıyorsanız, \<CustomDomain\> özel etki alanınızın (örneğin, contoso.com) değiştirip bu komutu [Exchange Online PowerShell'de](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)çalıştırabilirsiniz: `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` .
