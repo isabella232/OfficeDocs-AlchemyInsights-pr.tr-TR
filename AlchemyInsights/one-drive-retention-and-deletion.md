@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: bbdfdf34ecb24189b233ceded917a03a2d07d7db
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: 5d2ae0d21ab43814235feee8cc2b60290a17ad51
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343152"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511024"
 ---
 # <a name="onedrive-retention-and-deletion"></a>OneDrive bekletme ve silme
 
@@ -32,5 +32,5 @@ ms.locfileid: "44343152"
 - OneDrive'daki geri dönüşüm kutusundan öğeleri geri yükleme hakkında bilgi için [silinen dosyaları veya klasörleri geri yükleyin'](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)e bakın.
 
 - Güvenlik ve Uyumluluk Merkezi saklama ve tutma ile ilgileniyor musunuz?
-    - [OneDrive ve SharePoint siteleri için bekletme ilkeleri](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [OneDrive ve SharePoint siteleri için bekletme ilkeleri](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     - [OneDrive ve SharePoint siteleri için eDiscovery bekleme](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)

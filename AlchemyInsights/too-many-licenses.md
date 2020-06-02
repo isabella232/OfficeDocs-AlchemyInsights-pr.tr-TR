@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 3ba7f9a7e18951454cfea3d65915b4862d697753
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0dd3817c829252571ea8ad8354a451a0bb43deb6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063997"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510484"
 ---
 # <a name="too-many-licenses"></a>Çok fazla lisans mı?
 
@@ -32,4 +32,4 @@ ms.locfileid: "44063997"
 
 3. Toplam **lisanslar** kutusuna, bu abonelik için ihtiyacınız olan toplam lisans sayısını girin ve ardından **değiştir'i gönder'i**seçin. Örneğin, 110 lisansınız varsa ve bunların 5'ini silmek istiyorsanız 105 yazın.
 
-Daha fazla bilgi için, [işletme aboneliği için Microsoft 365 lisanslarınızı kaldırın'a](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)bakın.
+Daha fazla bilgi için, [işletme aboneliği için Microsoft 365 lisanslarınızı kaldırın'a](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)bakın.
