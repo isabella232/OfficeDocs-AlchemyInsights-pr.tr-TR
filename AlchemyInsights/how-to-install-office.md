@@ -12,12 +12,12 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: bee23ad0d8d6324937b2b0dd7bda08410ddbfa25
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759172"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509260"
 ---
 # <a name="how-to-install-office"></a>Office'i yükleme
 
@@ -25,7 +25,7 @@ Office istemci uygulamalarını yüklemek için Microsoft 365 İş Ekstra Standa
   
 *NOT: [Office Ev ve İş](https://products.office.com/home-and-business) bir [Ev için Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) ürünüdür ve iş aboneliğinin parçası değildir. Visio veya Project ile ilgili özel yönergeler için bkz. [Visio'yu Yükleme](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) veya [Project'i Yükleme](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
 
-Kullanıcı hesaplarını oluşturun ve etki alanınızı ekleyin. Kullanıcıya [lisans atanmış](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) olduğundan emin olun.
+Kullanıcı hesaplarını oluşturun ve etki alanınızı ekleyin. Kullanıcıya [lisans atanmış](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) olduğundan emin olun.
 
 Her kullanıcının şunları yapmasını sağlayın:
 

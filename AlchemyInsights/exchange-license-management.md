@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002548"
 - "5149"
-ms.openlocfilehash: 296b77e6b1596732c58e5caa21954225eb31e3ec
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: f653fefccc435b80198ea6097d845549ccec56bf
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991391"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505635"
 ---
 # <a name="exchange-license-management"></a>Exchange lisans yönetimi
 
@@ -27,6 +27,6 @@ Exchange lisans yönetimi **Microsoft 365 Yönetim Merkezi**’nde tamamlanabili
 - **Planları değiştirmek** için bkz. [İş için Microsoft 365 planlarını el ile değiştirme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Exchange lisansları **atamak** için **Faturalama > [Lisanslar](https://go.microsoft.com/fwlink/p/?linkid=842264)**’a gidin, aboneliği seçin, kullanıcıları seçin ve **Lisans ata**’ya tıklayın. Daha fazla bilgi için bkz. [Lisans Atama](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Exchange lisansı **eklemek/kaldırmak** için **Faturalama > [Ürünler ve hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** bölümüne gidin ve **Lisans ekle/kaldır**’a tıklayın. Daha fazla bilgi için bkz. [Lisans ekleme/kaldırma](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Exchange lisanslarını **iptal etmek** için **Faturalama > [Ürünler ve hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** bölümüne gidin, **Ayarlar ve Eylemler**’i seçin ve **Aboneliği iptal et**’e tıklayın. Daha fazla bilgi için bkz. [Aboneliğinizi iptal etme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Exchange lisanslarını **iptal etmek** için **Faturalama > [Ürünler ve hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** bölümüne gidin, **Ayarlar ve Eylemler**’i seçin ve **Aboneliği iptal et**’e tıklayın. Daha fazla bilgi için bkz. [Aboneliğinizi iptal etme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 Daha fazla bilgi için bkz. [Abonelik lisanslarını yönetme](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).

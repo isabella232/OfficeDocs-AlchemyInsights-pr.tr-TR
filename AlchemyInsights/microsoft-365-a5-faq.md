@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002872"
 - "5425"
-ms.openlocfilehash: 361efbd5ff9b080566d29fd4b9dba106eb111bda
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: HT
+ms.openlocfilehash: 5b518b2ab973c578194b4e4e66f642a9f3a06a14
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912134"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511888"
 ---
 # <a name="microsoft-365-a5-faq"></a>Microsoft 365 A5 ile ilgili SSS
 
@@ -25,7 +25,7 @@ ms.locfileid: "43912134"
 - **Planları değiştirmek** için bkz. [İş için Microsoft 365 planlarını el ile değiştirme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - A5 kullanıcı lisansları **atamak** için **Faturalama > [Lisanslar](https://go.microsoft.com/fwlink/p/?linkid=842264)**’a gidin. Daha fazla bilgi için bkz. [Lisans Atama](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - A5 lisanslarını **eklemek/kaldırmak** için **Faturalama > [Ürünler ve hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** bölümüne gidin ve **Lisans ekle/kaldır**’a tıklayın. Daha fazla bilgi için bkz. [Lisansları ekleme/kaldırma](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- A5 lisanslarını **iptal etmek** için **Faturalama > [Ürünler ve hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** bölümüne gidin, **Ayarlar ve Eylemler**’e tıklayın ve **Aboneliği iptal et**’e tıklayın. Daha fazla bilgi için bkz. [Aboneliğinizi iptal etme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- A5 lisanslarını **iptal etmek** için **Faturalama > [Ürünler ve hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** bölümüne gidin, **Ayarlar ve Eylemler**’e tıklayın ve **Aboneliği iptal et**’e tıklayın. Daha fazla bilgi için bkz. [Aboneliğinizi iptal etme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - A5 aboneliğini **etkinleştirmek** için bkz. [Aboneliğinizi etkinleştirme](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - A5 aboneliğini **yeniden etkinleştirmek** için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - A5 denemesinin süresini uzatmak için bkz. [Denemenizin süresini uzatma](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).

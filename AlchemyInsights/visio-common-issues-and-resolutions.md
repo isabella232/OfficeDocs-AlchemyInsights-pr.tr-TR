@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 2310ae0d9b719830fc9d0e937909ff988eb9f2bd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722604"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505219"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Visio’nun yaygın sorunları ve çözümleri
 
@@ -24,13 +24,13 @@ Microsoft Visio ile ilgili sık istenen bazı konular şunlardır:
 
 **Visio Online seçenekleri**
 
-- Visio, [tek başına uygulama](https://products.office.com/visio/flowchart-software) olarak satılır. Yöneticiler [Microsoft 365 Yönetim Merkezi](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription)’nden Visio aboneliği satın alabilir.
+- Visio, [tek başına uygulama](https://products.office.com/visio/flowchart-software) olarak satılır. Yöneticiler [Visio aboneliğini](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) Microsoft 365 yönetici merkezinden satın alabilir.
 
 - Visio [farklı abonelik planları](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) sunar. Visio’da bir özelliği bulamadıysanız, Plan 1 ile Plan 2 arasındaki farklar hakkında daha fazla bilgi edinmek için [Visio seçeneklerini karşılaştırma](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) konusuna bakın.  Visio Online Plan 1’de Visio’nun masaüstü sürümünün bulunmadığına dikkat edin.
 
 **Visio’yu İndirme, Yükleme ve Etkinleştirme**
 
-- Visio Online Plan 2’yle Visio masaüstü uygulamasını yüklemesi ve etkinleştirmesi için kullanıcıya önce [Visio lisansı](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) atanmış olmalıdır.
+- Visio Online Plan 2’yle Visio masaüstü uygulamasını yüklemesi ve etkinleştirmesi için kullanıcıya önce [Visio lisansı](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) atanmış olmalıdır.
 
 - Visio henüz yüklenmediyse Hesabım portalınızdan yükleyin. Yardım için bkz. [Visio’yu yükleme](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710).
 
@@ -40,7 +40,7 @@ Microsoft Visio ile ilgili sık istenen bazı konular şunlardır:
 
 **Mac üzerinde Visio**
 
-Mac için Visio masaüstü uygulaması yoktur. Bununla birlikte geçeril bir [Visio Online lisansı](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) olan kullanıcılar web tarayıcısında Visio Online ile [diyagramları görüntüleyebilir, oluşturabilir ve düzenleyebilir](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc).
+Mac için Visio masaüstü uygulaması yoktur. Bununla birlikte geçeril bir [Visio Online lisansı](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) olan kullanıcılar web tarayıcısında Visio Online ile [diyagramları görüntüleyebilir, oluşturabilir ve düzenleyebilir](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc).
 
 **Diyagramlar, Şablonlar, Şekiller ve Bağlayıcılar**
 
