@@ -1,9 +1,8 @@
 ---
-title: Office ürünleri için Mac platformu kullanılabilir değil
+title: Mac platformu için Office ürünleri kullanılamıyor
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +10,18 @@ localization_priority: Normal
 ms.assetid: 9233f862-ebbb-4913-a83a-52cc3b99a644
 ms.custom:
 - "648"
+- "758"
+- "756"
+- "755"
 - "2000016"
-ms.openlocfilehash: 7c0d80222e2ccfe42a46cb06f191a0d3e2fdfdea
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1ea94c7a341dc47bbf40754132965563826813bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522091"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "36818842"
 ---
-# <a name="office-products-not-available-for-the-mac-platform"></a>Office ürünleri için Mac platformu kullanılabilir değil
+# <a name="office-products-not-available-for-the-mac-platform"></a>Mac platformu için Office ürünleri kullanılamıyor
 
-Visio, proje, Publisher ve erişim Mac platformu için kullanılamaz, ancak, çevrimiçi Visio ve Project Online kullanılabilir ve tüm platformlarda çalışır.
+Visio, Project, Publisher ve Access Mac platformu için kullanılamaz, ancak Visio Online ve Project Online tüm platformlarda kullanılabilir ve çalışır.
   

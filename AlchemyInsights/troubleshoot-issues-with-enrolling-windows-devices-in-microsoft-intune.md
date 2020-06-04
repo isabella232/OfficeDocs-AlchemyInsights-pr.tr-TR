@@ -1,5 +1,5 @@
 ---
-title: Kaydolma Microsoft Intune aygıtlar Windows ile sorunlarını giderme
+title: Windows aygıtlarını Microsoft Intune'a kaydetme yle ilgili sorun giderme sorunları
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,34 +12,34 @@ ms.custom:
 - "784"
 - "6200002"
 ms.openlocfilehash: 7b298360fe31d3f52ef382e5b8f25ee3588c36c8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665852"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Kaydolma Microsoft Intune aygıtlar Windows ile sorunlarını giderme
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Windows aygıtlarını Microsoft Intune'a kaydetme yle ilgili sorun giderme sorunları
 
-Şimdi, sorunu gidermek için aşağıda listelenen kaynakları inceleyin.
+Sorununuzu şimdi çözmek için aşağıda listelenen kaynakları gözden geçirin.
   
-Bazı yaygın hata iletileri ve çözümleme adımları:
+Bazı yaygın hata iletileri ve çözüm adımları:
   
- **Yazılımı yüklenemiyor, 0x80cf4017:** Hesap sertifikanızın süresi dolmuş. Intune yönetim konsolunda PC istemci yazılım paketini yeniden yükleyin. Daha fazla bilgi için bu belge gözden geçirin.
+ **Yazılım, 0x80cf4017 yüklenemez:** Hesap sertifikanızın süresi doldu. PC Client yazılım paketini Intune Admin Konsoluna yeniden indirin. Daha fazla bilgi için bu belgeleri gözden geçirin.
   
- **0x801c0003 hata kodu:** Hata aşağıdaki senaryolarda ortaya çıkabilir:
+ **Hata kodu 0x801c0003:** Hata aşağıdaki senaryolarda oluşabilir:
   
--  Daha fazla aygıtlar Aygıt üst sınırından kayıtlı kullanıcı vardır. [Bir aygıtı kaldırmak](https://docs.microsoft.com/intune/devices-wipe) veya [aygıt bu sınırı değiştirmek](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)için bu belgeleri gözden geçirin.
+-  Kullanıcı, aygıt sınırından daha fazla aygıt alabilenir. [Aygıtı kaldırmak](https://docs.microsoft.com/intune/devices-wipe) veya aygıt [sınırını değiştirmek](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)için bu belgeleri gözden geçirin.
 
--  "Kullanıcıların aygıtlar için Azure AD katılabilirsiniz" "yok." olarak ayarlanır Tümüne ayarlayın veya seçin kullanıcılar. Daha fazla bilgi için [Bu belge](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) gözden geçirin.
+-  "Kullanıcılar aygıtları Azure AD'ye katılabilir" olarak ayarlanır". Tüm ünü veya belirli kullanıcılara ayarlayın. Daha fazla bilgi için [bu belgeleri](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) gözden geçirin.
 
--  Aygıt zaten başka bir kullanıcı tarafından kaydedilmiş. Bu durumda, aygıt Azure Intune konsoldan kaldırmak veya yeniden denemeden önce aygıtı el ile unenroll.
+-  Aygıt zaten başka bir kullanıcı tarafından kaydedilen. Bu durumda, yeniden denemeden önce aygıtı Azure Intune konsolundan çıkarın veya aygıtı el ile kaldırın.
 
--  Windows 10 giriş aygıtıdır. Azure Active Directory, yalnızca Windows 10 Pro, eğitim ve Kurumsal SKU'ları katılabilirsiniz.
+-  Cihaz Windows 10 Home'dur. Azure Active Directory'ye yalnızca Windows 10 Pro, Eğitim ve Kurumsal SK'ler katılabilir.
 
-Sorununuzu gidermeye yardımcı olmak için ek kaynaklar:
+Sorununuzu çözmeye yardımcı olacak ek kaynaklar:
   
--  [Intune sorun giderme Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) tanılamak ve ortak kayıt hatalarını gidermek için kullanın. Daha fazla ayrıntı için [Bu belgeyi](https://docs.microsoft.com/intune/help-desk-operators) gözden geçirin.
+-  Sık karşılaşılan kayıt hatalarını tanılamak ve gidermek için [Intune Sorun Giderme Portalı'nı](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) kullanın. Daha fazla ayrıntı için [bu belgeyi](https://docs.microsoft.com/intune/help-desk-operators) gözden geçirin.
 
--  Bu belgeler için kayıt ve çözümler için her önlemek sık karşılaşılan hataların listesini gözden geçirin: [sorun giderme kılavuzu](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) ve [sorun giderme doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+-  Bu belgeleri, her birine kaydolmasını ve çözümlerini engelleyen yaygın hataların bir listesi için gözden geçirin: [Sorun Giderme kılavuzu](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) ve [Sorun Giderme dokümanı.](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
 
-[Microsoft Intune Windows aygıtları kaydetmek öğrenin](https://docs.microsoft.com/intune/windows-enroll).
+[Windows aygıtlarını Microsoft Intune'a nasıl kaydedebilirsiniz öğrenin.](https://docs.microsoft.com/intune/windows-enroll)

@@ -1,5 +1,5 @@
 ---
-title: PowerApps veya Flow Microsoft destek istekleri gönderme
+title: PowerApps veya Microsoft Flow destek isteklerini gönderin
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "1495"
 - "6200027"
 ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559501"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>PowerApps veya Flow Microsoft destek istekleri gönderme
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>PowerApps veya Microsoft Flow destek isteklerini gönderin
 
-Bir **PowerApps** olan veya **Microsoft Akış** müşteri yeni [Güç platform Yönetim Merkezi](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819)aracılığıyla, bilet Lütfen gönderin. Yeni portal PowerApps ve diğer güç platform ürünleri için optimize edilmiştir Yardımlı Destek daha doğrudan bir yolunu sağlar.
+PowerApps veya **PowerApps** Microsoft **Flow** müşterisiyseniz, lütfen biletinizi yeni [Power platformu Yönetici Merkezi](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819)aracılığıyla gönderin. Yeni portal PowerApps ve diğer Power platform ürünleri için optimize edilmiş destekli desteğe daha doğrudan bir yol sağlar.
 
 [Microsoft Flow destek isteği gönderme](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
