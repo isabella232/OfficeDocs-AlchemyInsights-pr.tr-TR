@@ -3,7 +3,7 @@ title: Kiracı, Outlook için uygulama içi destek alıyor
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 6/3/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 646a65a4cb068b1c91c52c42d55fe09e62421f9d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3d723c11c24460291e9ced9dc87cf1258f1f41d9
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720452"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44542064"
 ---
-# <a name="your-tenant-is-piloting-in-app-support-for-outlook"></a>Kiracınız Outlook için uygulama içi destek alıyor
+# <a name="in-app-support-in-outlook-for-windows"></a>Windows için Outlook'ta uygulama içi destek
 
-Doğrudan Outlook'ta destek almaya uygun olabilirsiniz. En son Aylık Kanal oluşturmayı çalıştırıyorsanız, Outlook'u açın ve **Yardım** > **Kişi desteği'ni**seçin. Sorunuz yazın ve Outlook destek ekibinin bir üyesi sizinle iletişime geçecektir.
-
-En son Aylık Kanal oluşturmayı çalıştırıp çalıştırdığınızdan emin değilseniz, [bkz.](https://support.office.com/article/932788B8-A3CE-44BF-BB09-E334518B8B19)
+Kiracı Yönetici olarak, Windows için Outlook'taki sorunlar için uygulama içi destek alabilirsiniz. Outlook'ta **Yardım**  >  **İletişim Desteği'ni**seçin. Sorunuza girin ve Windows için Outlook destek ekibinin bir üyesi iletinizi yanıtlar.
