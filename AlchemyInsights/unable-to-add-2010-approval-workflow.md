@@ -2,18 +2,18 @@
 title: 2010 Onay İş Akışı eklenemiyor
 ms.author: pebaum
 author: pebaum
-ms.date: 12/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 11ba9bf04f826b0d7465a9a81a36c327e79f4d13
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f40716dd399fe7bea1b606cd725676268dc0a66d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049573"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582867"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>2010 Onay İş Akışı eklenemiyor
 
@@ -33,7 +33,7 @@ Bu sorunu gidermek için aşağıdaki adımları izleyin:
   
 2. **İş Akışı** şeridinin **Yönet** bölümünde, Genel **Olarak Yayımla'yı**seçin. Görünen onay iletişim kutusunda **Tamam'ı**seçin. 
   
-3. Bir web tarayıcısında, site koleksiyonunun kök web sitesini bulun ve **ardından Site Ayarları** \> **Site Toplama Özelliklerine**erişin. **İş Akışları** özelliğini geçişe: 
+3. Bir web tarayıcısında, site koleksiyonunun kök web sitesini bulun ve **ardından Site Ayarları** Site Toplama Özelliklerine erişin. \> **Site Collection Features** **İş Akışları** özelliğini geçişe: 
   
 · Özellik *Etkinleştirildiyse,* **Devre Dışı bırak'ı** tıklatın ve sonra **Etkinleştir'i**tıklatın. 
   

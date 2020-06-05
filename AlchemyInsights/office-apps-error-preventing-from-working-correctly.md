@@ -1,5 +1,5 @@
 ---
-title: 'Office Apps Hatası: Uygulama, uygulamanın düzgün çalışmasını engelleyen bir hatayla karşılaştı'
+title: 'Microsoft 365 uygulamaları Hatası: Uygulama, uygulamanın düzgün çalışmasını engelleyen bir hatayla karşılaştı'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 136dc4285d7aaa12289c2af0e515e0feab0466e9
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886617"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576832"
 ---
-# <a name="office-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Office uygulamaları hatası: Uygulama, uygulamanın düzgün çalışmasını engelleyen bir hatayla karşılaştı
+# <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Microsoft 365 uygulamaları hatası: Uygulama, uygulamanın düzgün çalışmasını engelleyen bir hatayla karşılaştı
 
 Bu hatayı düzeltmek için aşağıdaki seçenekleri deneyin:
 
@@ -29,8 +29,8 @@ Bu hatayı düzeltmek için aşağıdaki seçenekleri deneyin:
 
 **Not:** Sorun belirli belgelerle oluşursa, bu belgeler bozuk olabilir. [Bkz. bozuk belgelerle ilgili sorun giderme.](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)
 
-Daha fazla bilgi için bkz. 
+Daha fazla bilgi için bkz.: 
 
-- [Microsoft Office uygulamalarını açarken hata](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [Microsoft Microsoft 365 uygulamalarını açarken hata](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [Bilgisayarımda Office uygulamalarını başlattığımda "çalışmayı durdurdum" hatası alıyorum](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Office Uygulamalarını başlattığınızda veya kullandığınızda ortaya çıkan sorunları giderme](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [Microsoft 365 uygulamalarını başlattığınızda veya kullandığınızda ortaya çıkan sorunları giderme](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

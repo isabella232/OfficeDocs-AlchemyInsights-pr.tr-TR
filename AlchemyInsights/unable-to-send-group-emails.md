@@ -1,9 +1,9 @@
 ---
-title: Grup e-postaları 8000053 gönderilemiyor
+title: 8000053 Grup e-postaları gönderileme
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: bcce81f304988e9f66512a19ec0ef0dcb6120eb5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1330164360445e9ac43a1c85e5bb01ebfda5a177
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533395"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582507"
 ---
-# <a name="unable-to-send-group-emails"></a>Grup e-posta gönderilemiyor.
+# <a name="unable-to-send-group-emails"></a>Grup e-postaları gönderileme
 
-Kişi veya gruplar halinde Outlook.com iletişim kurmak için e-posta gönderebilirler, aşağıdakileri deneyin:
+Outlook.com kişi listelerine veya kişi gruplarına e-posta gönderemiyorsanız, lütfen aşağıdakileri deneyin:
   
-1. Outlook.com beta kullanın. Daha fazla bilgi için [Outlook.com beta hakkında bilgi edinin](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
+1. Outlook.com beta kullanın. Daha fazla bilgi için, [Outlook.com beta hakkında bilgi edinin.](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf)
     
-2. [Kişiler](https://outlook.live.com/people/)kişi listesi veya grubu seçin ve sonra **e-posta Gönder**' i seçin, grup için e-posta oluşturma sorun yaşamaya devam ediyorsanız, gidin.
+2. Grubunuza e-posta oluşturmakta sorun yaşıyorsanız, [Kişiler'e](https://outlook.live.com/people/)gidin, kişi listesini veya grubunu seçin ve ardından **e-posta gönder'i**seçin.
     
  **Notlar:**
   
-1. Engellenen Açılır pencereleri değilsiniz emin olun: e-posta gönderme ilgili kişi listesi sayfası, yeni bir pencere açar.
+1. Açılır pencerelerin engellenmediğinden emin olun: Kişiler listesi sayfasından e-posta göndermek yeni bir pencere açar.
     
-2. Kişi listesinden posta **Kime** satırında otomatik olarak liste koyar gönderin. İlgili kişi listesi ayrıntılarını gizlemek isterseniz, **Gizli** sağ üst köşedeki tıklatın sonra kopyalayın ve kişi listesi **Gizli** yapıştırın ve **için** girdiyi silin. 
+2. Kişi listesinden posta gönder, listeyi otomatik olarak **TO** satırına yerleştirir. Kişi listesi bilgilerinizi gizlemek istiyorsanız, sağ üst köşedeki **BCC'yi** tıklatın, ardından kişi listesini **kopyalayıp BCC'ye** yapıştırın ve **TO** girişini silin. 
     
-3. **Gizli**kullanırken, her zaman bir şey **Kime** satırına, örneğin kendi "Kimden" adresi varsa iyi bir yöntemdir. 
+3. **BCC**kullanırken, her zaman **TO** satırında bir şey var iyi bir uygulamadır, örneğin kendi "kimden" adresi. 
     
 
