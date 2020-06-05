@@ -13,18 +13,18 @@ ms.custom:
 - "4487"
 - "3496"
 - "2000021"
-ms.openlocfilehash: e7229980d39b60ec0f60ebd5e51948e8cf34bc76
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 75795c357442799e41c39df2f963e126c944e9f0
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474481"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582579"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Office’te 0xD000000C etkinleştirme hatasını çözme
 
 - Yükleme işlemini gerçekleştirmek istediğiniz Mac bilgisayarda İnternetin çalıştığından emin olun. Bunu, İnternet tarayıcınızı açıp [Microsoft](https://www.microsoft.com) adresine giderek yapabilirsiniz. Sayfa yükleniyorsa, İnternet bağlantınız çalışıyor demektir.
 
-- Tüm Office uygulamalarından çıkın.
+- Tüm Microsoft 365 uygulamalarını bırakın.
 
 - Tüm Office anahtarlık girdilerini kaldırmak için [Lisans kaldırma aracını](https://go.microsoft.com/fwlink/?linkid=849815) indirin ve çalıştırın.
 

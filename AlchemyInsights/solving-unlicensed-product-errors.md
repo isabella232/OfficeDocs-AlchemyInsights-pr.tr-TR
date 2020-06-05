@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512032"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582759"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>"Lisanssız Ürün" hatalarını çözmek için öneriler
 
@@ -26,7 +26,7 @@ ms.locfileid: "44512032"
 - Microsoft 365 Apps for business veya Business Premium gibi istemci lisanslarına izin veren bir aboneliğiniz olduğundan emin olun ve [kullanıcının atanmış bir lisansa sahip olduğundan emin olun.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) 
 - Kullanıcının Office'te lisans atanan aynı hesapla oturum açmıştından emin olun.
 - [Hizmetle](https://docs.microsoft.com/office365/enterprise/view-service-health) ilgili bilinen bir sorun olup olmadığını görmek için Hizmet sistem durumu sayfasını kontrol edin.
-- Office uygulamalarının Internet erişimini engellemediğini doğrulamak için güvenlik duvarınızı, virüsten koruma yazılımınızı ve proxy ayarlarınızı kontrol edin. [URL'lere ve IP adres aralıklarına](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)bakın.
+- Microsoft 365 uygulamalarının Internet erişimini engellemediğini doğrulamak için güvenlik duvarınızı, virüsten koruma yazılımınızı ve proxy ayarlarınızı kontrol edin. [URL'lere ve IP adres aralıklarına](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)bakın.
 
 Aşağıdaki sorun giderme eylemlerini de deneyebilirsiniz: 
 
