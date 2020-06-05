@@ -1,5 +1,5 @@
 ---
-title: Office uygulamaları iletisi - İlişkilendirilmiş Office lisansları bulunamadı
+title: Microsoft 365 uygulamaları iletisi - İlişkili Office lisanslarını bulamadım
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505111"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581671"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Office uygulamaları iletisi - İlişkilendirilmiş Office lisansları bulunamadı
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 uygulamaları iletisi - İlişkili Office lisanslarını bulamadım
 
 Bu hatayı düzeltmek için aşağıdakileri deneyin:
 
@@ -38,7 +38,7 @@ Sorun devam ederse şu adımları deneyin:
 
 - Office etkinleştirme durumunu sıfırlama. Bkz. [Kuruluşlar için Microsoft 365 Uygulamaları etkinleştirme durumunu sıfırlama](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Güvenlik duvarı, virüsten koruma yazılımı ve ara sunucu ayarlarını denetleyin ve Office uygulamalarının İnternete erişimini engellemediğini onaylayın. 
+- Microsoft 365 uygulamalarının Internet erişimini engellemediğini doğrulamak için güvenlik duvarınızı, virüsten koruma yazılımınızı ve proxy ayarlarınızı kontrol edin. 
 
 Ek sorun giderme çözümleri için bkz:
 
