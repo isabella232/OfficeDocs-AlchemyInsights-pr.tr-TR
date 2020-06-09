@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44618033"
+ms.locfileid: "44664266"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Hata: Bu bilgisayardaki kurallar eşleşmiyor
 
@@ -28,3 +28,4 @@ Düzeltme kullanılabilir olana kadar lütfen aşağıdaki geçici çözümden y
 **Geçici Çözüm**: Son raporlarda, yalnızca Outlook masaüstünde istemci kuralları oluşturmuş olanlar için sorun oluştu. Sorunla çalışmaya devam ederseniz, kuralları silmeyi düşünün ve sorun çözülene kadar yalnızca OWA'da (Outlook Web App) kurallar oluşturun ve düzenleyin.
 
 Kuralları el ile silemiyorsanız, Outlook.exe /cleanrules çalıştırarak Outlook'u başlattığınızda bir Outlook komutu çalıştırabilirsiniz. Bu, hem istemci hem de sunucu kurallarını siler. Outlook Profili'ndeki tüm hesapların tüm kurallarını siler. Bu komut, Komut satırı anahtarları makalesinde daha da belgelenmiştir.
+
