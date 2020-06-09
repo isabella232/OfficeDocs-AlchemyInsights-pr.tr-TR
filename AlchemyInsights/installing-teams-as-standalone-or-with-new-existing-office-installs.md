@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: 1c6e99056dad97362923c7c3feb1d6a739df5c6a
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 4ccc8a56528b0ca6eb69ccd4b2a9685b9c255c21
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010589"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618189"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Ekipleri bağımsız veya yeni veya varolan Office yüklemeleriyle yükleme
 
 Microsoft Teams, Microsoft 365 Apps kurumsal, Microsoft 365 Apps kurumsal ve Mac için *Office'in yeni yüklemelerinin* bir parçası olarak dahildir. Daha fazla bilgi için bkz: [Microsoft Ekipleri Yeni Office yüklemelerine ne zaman eklenmeye başlar?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Ayrıca, Aylık Kanal'da Sürüm 1906'dan başlayarak, Mevcut yüklemenizi en son sürüme güncellediğinizde Windows çalıştıran cihazlardaki Microsoft 365 Kurumsal Uygulamalar 'ın (ve iş için Microsoft 365 Uygulamaları) *mevcut yüklemelerine takımlar eklenir.* Daha fazla bilgi için [bkz.](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Ayrıca, Geçerli Kanal'da Sürüm 1906'dan başlayarak, Mevcut yüklemenizi en son sürüme güncellediğinizde Windows çalıştıran cihazlardaki Microsoft 365 Apps kurumsal (ve iş için Microsoft 365 Apps) *mevcut yüklemelerine takımlar eklenir.* Daha fazla bilgi için [bkz.](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-[Bu yönergeleri izleyerek](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)ekiplerinizi kullanıcılarınız için bağımsız olarak dağıtabilirsiniz veya kullanıcılarınızın https://teams.microsoft.com/downloadsEkipleri kendileri için yüklemelerini sağlayabilirsiniz.
+[Bu yönergeleri izleyerek](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)ekiplerinizi kullanıcılarınız için bağımsız olarak dağıtabilirsiniz veya kullanıcılarınızın Ekipleri kendileri için yüklemelerini sağlayabilirsiniz. https://teams.microsoft.com/downloads
 
 Takımlar yüklendikten sonra, yeni özellikler ve kalite güncelleştirmeleriyle yaklaşık iki haftada bir [otomatik olarak güncellenir.](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) 
 

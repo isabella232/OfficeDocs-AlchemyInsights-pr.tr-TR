@@ -10,15 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: b56a676181ec551bc7943d5eea0c49cd279d9e37
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855876"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618033"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Hata: Bu bilgisayardaki kurallar eşleşmiyor
 
-Bu, Outlook Desktop ile ilgili bilinen bir sorundur. Outlook Ekibi, 12/3/2019 tarihinde yayımlanan sürüm 12228.20332'de bir ilk düzeltme uygulamıştır. Bu düzeltme aldığımız tüm raporları ele almadı.
-
 Bu bilinen sorunun güncelleştirilmiş durumunu görmek için [bkz.](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
+
+Outlook Ekibi, Build 12928.10000'de bir düzeltme uygulamıştır. Düzeltme Insider Fast zaten ve Geç Haziran 2020'de Monthly Channel gidecek. Sabit yapıya sahip olduktan sonra son bir kez "Hangi kuralları tutmak istiyorsunuz" istemini alabilirsiniz. İstendiğinde Sunucu'yı seçin ve ardından Outlook'a geri gidin ve devre dışı bırakılan kuralları yeniden etkinleştirin.
+
+Düzeltme kullanılabilir olana kadar lütfen aşağıdaki geçici çözümden yararlanın:
+
+**Geçici Çözüm**: Son raporlarda, yalnızca Outlook masaüstünde istemci kuralları oluşturmuş olanlar için sorun oluştu. Sorunla çalışmaya devam ederseniz, kuralları silmeyi düşünün ve sorun çözülene kadar yalnızca OWA'da (Outlook Web App) kurallar oluşturun ve düzenleyin.
+
+Kuralları el ile silemiyorsanız, Outlook.exe /cleanrules çalıştırarak Outlook'u başlattığınızda bir Outlook komutu çalıştırabilirsiniz. Bu, hem istemci hem de sunucu kurallarını siler. Outlook Profili'ndeki tüm hesapların tüm kurallarını siler. Bu komut, Komut satırı anahtarları makalesinde daha da belgelenmiştir.

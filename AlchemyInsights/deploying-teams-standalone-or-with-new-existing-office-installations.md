@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: ffa91eaf333792af149feda25f9a377ed591b597
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 5ec5277a758fc5171c846266787c2fbcf751f21c
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010238"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617915"
 ---
 # <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Ekipleri bağımsız veya yeni veya varolan Office yüklemeleriyle dağıtma
 
 Microsoft Teams artık Microsoft 365 Apps kurumsal, Microsoft 365 Apps iş için uygulamalar ve Mac için ***Office'in yeni yüklemelerinin*** bir parçası olarak eklenmiştir. Daha fazla bilgi için bkz: [Microsoft Ekipleri Yeni Office yüklemelerine ne zaman eklenmeye başlar?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Ayrıca, Aylık Kanal'da Sürüm 1906'dan başlayarak, Mevcut yüklemenizi en son sürüme güncellediğinizde Windows çalıştıran cihazlardaki Microsoft 365 Kurumsal Uygulamalar 'ın (ve iş için Microsoft 365 Uygulamaları) ***mevcut yüklemelerine takımlar eklenir.*** Daha fazla bilgi için [bkz.](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Ayrıca, Geçerli Kanal'da Sürüm 1906'dan başlayarak, Mevcut yüklemenizi en son sürüme güncellediğinizde Windows çalıştıran cihazlardaki Microsoft 365 Apps kurumsal (ve iş için Microsoft 365 Apps) ***mevcut yüklemelerine takımlar eklenir.*** Daha fazla bilgi için [bkz.](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 > [!NOTE]
-> Bu kullanıma alma zamanlamasını beklemek istemiyorsanız, [bu yönergeleri](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) izleyerek ekiplerinizi kullanıcılarınız için tek başına dağıtabilir veya [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)kullanıcılarınızın Takımlar'ı kendileri için yüklemesini sağlayabilirsiniz.
+> Bu kullanıma alma zamanlamasını beklemek istemiyorsanız, [bu yönergeleri izleyerek](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)ekiplerinizi kullanıcılarınız için tek başına   dağıtabilir veya kullanıcılarınızın Takımlar'ı kendileri için yüklemesini sağlayabilirsiniz.  [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)
 
 Kuruluşunuz Takımlar dağıtmaya hazır değilse, Ekipleri [yeni](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) veya [varolan](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) Office yüklemelerinden ***hariç tutmak*** için atabileceğiniz adımlara sahibiz. Takımlar'ın yüklenmesini, ancak ekiplerin yüklendikten sonra kullanıcı için otomatik olarak başlatılmasını istemiyorsanız, microsoft [ekiplerinin yüklemeden sonra otomatik olarak başlatılmasını engelleyin'](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)e bakın.
 
