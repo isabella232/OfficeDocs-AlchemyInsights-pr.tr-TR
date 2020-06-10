@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049069"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667868"
 ---
 # <a name="manage-your-onedrive-storage"></a>OneDrive depolama alanınızı yönetme
 
-OneDrive Depolama alanı genel Kiracı Kotası olarak sayılmaz. 
+OneDrive for Business'ınızı yönetebilir ve ne kadar alan kullandığınızı görebilir ve yer açabilirsiniz.  Daha fazla bilgi için aşağıdaki bağlantıları ziyaret edin.
 
-[OneDrive depolama alanının kullanıcı/plan başına nasıl tahsis edildiğini](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user)öğrenin.
-
-[OneDrive'ınızda ne kadar depolama alanı kullandığınızı](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)öğrenin.
-
-[PowerShell'i kullanarak OneDrive Depolama Kotasını nasıl elde edebilirsiniz](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614)öğrenin.
-
-Microsoft başlangıçta kullanıcı başına 1 TB sağlar ve bu tb yöneticileri kullanıcı başına en fazla 5 TB'ye kadar artırabilir. OneDrive kullanıcıları için varsayılan depolama alanını nasıl [ayarlayabilirsiniz](https://docs.microsoft.com/onedrive/set-default-storage-space)öğrenin.
-
-[Belirli bir kullanıcının OneDrive depolama alanını nasıl değiştireceğinizi](https://docs.microsoft.com/onedrive/change-user-storage)öğrenin.
-
-[Global Yöneticilerin PowerShell kullanan tüm kullanıcılar için OneDrive Depolama Kotasını nasıl ayarlayabildiğini](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b)öğrenin.
-  
+- [OneDrive for Business depolama alanınızı yönetin](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [Belirli bir kullanıcının OneDrive depolama alanını değiştirme](https://docs.microsoft.com/onedrive/change-user-storage)
+- [OneDrive kullanıcıları için varsayılan depolama alanını ayarlama](https://docs.microsoft.com/onedrive/set-default-storage-space)
