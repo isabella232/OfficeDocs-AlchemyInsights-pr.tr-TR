@@ -1,5 +1,5 @@
 ---
-title: Office uygulamalarını etkinleştirme
+title: Microsoft 365 uygulamalarını etkinleştirme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 192153f10d7f2267dc8ce86a6f455dc3bca55402
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
+ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682568"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "44735232"
 ---
-# <a name="activating-office-apps"></a>Office uygulamalarını etkinleştirme
+# <a name="activating-microsoft-365-apps"></a>Microsoft 365 uygulamalarını etkinleştirme
 
 Office’i etkinleştirmek için bkz:
 
@@ -26,13 +26,16 @@ Office’i etkinleştirmek için bkz:
 
 - [Mac’te Office’i etkinleştirme](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
+**Not:**  [Office istemci uygulamalarını](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)(örneğin, Microsoft 365 İş Standardı, microsoft 365 kurumsal uygulamalar veya kurumsal uygulamalar için Microsoft 365 Uygulamaları) içeren bir Office 365 veya Microsoft 365 aboneliğine sahip olduğundan emin olun. Ayrıca, Office uygulamalarında oturum açma için kullandığınız kullanıcı hesabının [atanmış bir lisansa](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)sahip olduğundan emin olun.
+
 Office etkinleştirme sorunlarını gidermek için bkz:
 
+- [Etkinleştirme Sorun Gidericisi](https://aka.ms/SARA-OfficeActivation-Alchemy)’ni çalıştırıp bilgisayarınızı yeniden başlatın.
 - [Office’te Lisanssız Ürün ve etkinleştirme hataları](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [Office Mac’i yükleyemiyor veya etkinleştiremiyorsanız deneyebileceğiniz şeyler](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-Kısa süre önce hesapları veya Office aboneliklerini değiştirdiyseniz, etkinleştirme sorunlarını çözmek için aşağıdaki adımları izleyin:
+Microsoft 365 uygulamalarında oturum açamıyorsanız aşağıdaki adımları izleyin:
 
 1. Bir Office uygulamasını açın ve mevcut tüm kullanıcı hesaplarında [Oturumu Kapatın](https://go.microsoft.com/fwlink/?linkid=2114082).
 
