@@ -11,21 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
+ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706221"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44797991"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>ADFS için yaygın sorunlar ve çözümleri
 
 Federasyon etki alanının yapılandırması, aşağıdaki Microsoft Bilgi Bankası makalelerinde açıklandığı gibi güncelleştirilebilir.
 
-- [2713898](https://support.microsoft.com/help/2713898) Federasyon kullanıcısı Office 365, Azure veya Intune’da oturum açtığında AD FS’den "Siteye erişirken sorun oluştu" hatası oluşuyor.
+- [ADFS Federasyon Sertifikası Süresi Doluyor](adfs-federation-certificate-expiring.md)
 
-- [2535191](https://support.microsoft.com/help/2535191) Federasyon kullanıcısı Office 365, Azure veya Intune’da oturum açmaya çalıştığında "Ne yazık ki oturumunuzu açarken sorunlarla karşılaşıyoruz" ve "80048163" hatası oluşuyor.
+- [2713898](https://support.microsoft.com/help/2713898) "Siteye erişimde bir sorun vardı" hatası, federe bir kullanıcı Microsoft 365, Azure veya Intune'a girdiğinde AD FS'den gelir.
 
-- [2647020](https://support.microsoft.com/help/2647020) Federasyon kullanıcısı Office 365, Azure veya Intune’da oturum açmaya çalışıtığında "Ne yazık ki oturumunuzu açarken sorunlarla karşılaşıyoruz" ve "80041317" veya "80043431" hatası oluşuyor.
+- [2535191](https://support.microsoft.com/help/2535191) "Üzgünüz, ancak federe bir kullanıcı Microsoft 365, Azure veya Intune'da oturum açmaya çalıştığında sizi oturum alamakta sorun yaşıyoruz" ve "80048163" hatası.
 
-Daha fazla bilgi için bkz. [Office 365, Azure veya Intune’da federasyon etki alanının ayarlarını güncelleştirme veya onarma](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+- [2647020](https://support.microsoft.com/help/2647020) "Üzgünüz, ancak sizi oturum açmada sorun yaşıyoruz" ve "80041317" veya "80043431" hatası, federe bir kullanıcı Microsoft 365, Azure veya Intune'da oturum açmaya çalıştığında.
+
+Daha fazla bilgi için Microsoft [365, Azure veya Intune'daki federe etki alanıayarlarını güncelleştirme veya onarma](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365)bölümüne bakın.
