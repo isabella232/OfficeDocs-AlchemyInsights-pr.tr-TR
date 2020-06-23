@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
-ms.translationtype: HT
+ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915262"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841019"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Bir Microsoft 365 Eğitim aboneliği ayarlama
 
@@ -24,6 +24,5 @@ Destekli adım adım yönergeler için lütfen Eğitim aboneliğini ayarlama iş
 
 **Diğer harika kaynaklar**
 
-- Genel bir bakış için [Bir Office 365 Eğitim kiracısı ayarlama](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) makalesine bakın.
-- BT Yöneticileri, Geliştiriciler ve İş Ortakları için [Microsoft 365 Eğitim’i kullanmaya başlama](https://docs.microsoft.com/education/) makalesine bakın. 
-- [Microsoft Store hesabınızı Eğitim için Intune ile ilişkilendirme](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education). 
+- Bkz. Genel bakış için [Office 365 kiracı hesabınızı oluşturun.](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)
+- Bt Yöneticileri, Geliştiriciler ve İş Ortakları için [Microsoft 365 Eğitim](https://docs.microsoft.com/education/) ile başlamaya bakın.
