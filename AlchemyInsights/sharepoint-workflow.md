@@ -14,19 +14,21 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 16ca9e18db31ddc2418c629e34f47f4ea0784feb
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 1bf991112d05652bcb8a8b292374f7a5e2885103
+ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162996"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138991"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a><span data-ttu-id="a4dc2-102">SharePoint'teki İş Akışlarını Giderme</span><span class="sxs-lookup"><span data-stu-id="a4dc2-102">Troubleshoot Workflows in SharePoint</span></span>
+# <a name="troubleshoot-workflows-in-sharepoint"></a><span data-ttu-id="a3b07-102">SharePoint'teki İş Akışlarını Giderme</span><span class="sxs-lookup"><span data-stu-id="a3b07-102">Troubleshoot Workflows in SharePoint</span></span>
 
-<span data-ttu-id="a4dc2-103">**SharePoint'teki Sorun Giderme ve Hata Ayıklama İş Akışları**</span><span class="sxs-lookup"><span data-stu-id="a4dc2-103">**Troubleshoot and Debug Workflows in SharePoint**</span></span>
+<span data-ttu-id="a3b07-103">**SharePoint'teki Sorun Giderme ve Hata Ayıklama İş Akışları**</span><span class="sxs-lookup"><span data-stu-id="a3b07-103">**Troubleshoot and Debug Workflows in SharePoint**</span></span>
 
-<span data-ttu-id="a4dc2-104">[Bkz. Troubleshoot SharePoint iş akışı doğrulama hataları](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) ve Hata [Ayıklama SharePoint iş akışları.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)</span><span class="sxs-lookup"><span data-stu-id="a4dc2-104">See [Troubleshoot SharePoint workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) and [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span>
+<span data-ttu-id="a3b07-104">[Bkz. Troubleshoot SharePoint iş akışı doğrulama hataları](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) ve Hata [Ayıklama SharePoint iş akışları.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)</span><span class="sxs-lookup"><span data-stu-id="a3b07-104">See [Troubleshoot SharePoint workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) and [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span>
 
-<span data-ttu-id="a4dc2-105">**Güç Otomatikleştir**</span><span class="sxs-lookup"><span data-stu-id="a4dc2-105">**Power Automate**</span></span>
+<span data-ttu-id="a3b07-105">**Güç Otomatikleştir**</span><span class="sxs-lookup"><span data-stu-id="a3b07-105">**Power Automate**</span></span>
 
-<span data-ttu-id="a4dc2-106">İş akışlarına yeni başlıyorsanız, klasik SharePoint iş akışı çözümleri yerine [Power Automate'i](https://docs.microsoft.com/power-automate/modern-approvals) kullanmayı düşünün.</span><span class="sxs-lookup"><span data-stu-id="a4dc2-106">If you're just getting started with workflows, consider using [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) instead of the classic SharePoint workflow solutions.</span></span>
+<span data-ttu-id="a3b07-106">İş akışlarına yeni başlıyorsanız, klasik SharePoint iş akışı çözümleri yerine [Power Automate'i](https://docs.microsoft.com/power-automate/modern-approvals) kullanmayı düşünün.</span><span class="sxs-lookup"><span data-stu-id="a3b07-106">If you're just getting started with workflows, consider using [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) instead of the classic SharePoint workflow solutions.</span></span>
+
+<span data-ttu-id="a3b07-107">Daha fazla bilgi için [bkz.](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)</span><span class="sxs-lookup"><span data-stu-id="a3b07-107">For more information, see [SharePoint workflows retiring](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).</span></span>
