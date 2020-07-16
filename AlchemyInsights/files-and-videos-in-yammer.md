@@ -1,0 +1,38 @@
+---
+title: Yammer'daki dosyalar ve videolar
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/15/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "6040"
+- "9003112"
+ms.openlocfilehash: e34e522f777d6228d8732ac88b5cfd2f5d1c3bdf
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.translationtype: MT
+ms.contentlocale: tr-TR
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148443"
+---
+# <a name="files-and-videos-in-yammer"></a><span data-ttu-id="7561a-102">Yammer'daki dosyalar ve videolar</span><span class="sxs-lookup"><span data-stu-id="7561a-102">Files and videos in Yammer</span></span>
+
+<span data-ttu-id="7561a-103">Dosyalar Yammer'daki iletilere eklenebilir veya doğrudan gruplara yüklenebilir.</span><span class="sxs-lookup"><span data-stu-id="7561a-103">Files can be attached to messages in Yammer or uploaded directly to groups.</span></span> <span data-ttu-id="7561a-104">Kullanıcı deneyimi klasik ve yeni Yammer arasında biraz farklılık gösterir, ancak dosyalar aynı konumlara yüklenir.</span><span class="sxs-lookup"><span data-stu-id="7561a-104">The user experience differs slightly between classic and new Yammer, but the files get uploaded to the same locations.</span></span> <span data-ttu-id="7561a-105">Daha fazla bilgi için bkz: [Bir Yammer iletisine dosya veya resim ekle](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf),</span><span class="sxs-lookup"><span data-stu-id="7561a-105">For more info, see [Attach a file or image to a Yammer message](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf),</span></span>  
+
+<span data-ttu-id="7561a-106">Kullanıcılar sorunlarla karşılaştığında, yüklemeyi başka bir tarayıcıdan veya cihazdan deneyin.</span><span class="sxs-lookup"><span data-stu-id="7561a-106">When users experience issues, try the upload from another browser or device.</span></span> <span data-ttu-id="7561a-107">En hızlı ağ bağlantısını ve mevcut en son tarayıcıyı kullanın.</span><span class="sxs-lookup"><span data-stu-id="7561a-107">Use the fastest network connection and the most recent browser available.</span></span> <span data-ttu-id="7561a-108">Yeniden oturum açtıracak yeni bir tarayıcı penceresi kullanmak, doğru Azure AD belirteçlerinin kullanılabilir olmasını sağlamaya yardımcı olabilir.</span><span class="sxs-lookup"><span data-stu-id="7561a-108">Using a fresh browser window to sign in again can help ensure that the correct Azure AD tokens are available.</span></span>
+
+<span data-ttu-id="7561a-109">Yammer'a video yüklemeleri yükleme ve kodlama gerektirir.</span><span class="sxs-lookup"><span data-stu-id="7561a-109">Video uploads to Yammer require upload and encoding.</span></span> <span data-ttu-id="7561a-110">Daha fazla bilgi için, [Yammer yükleme video gönderileri](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25)bakın ve ayrı ayrı kodlamak.</span><span class="sxs-lookup"><span data-stu-id="7561a-110">For more info, see [Video posts in Yammer upload and encode separately](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25).</span></span> <span data-ttu-id="7561a-111">Video boyutuna bağlı olarak, kodlamanın tamamlanması zaman alabilir.</span><span class="sxs-lookup"><span data-stu-id="7561a-111">Depending on video size, the encoding can take time to complete.</span></span> <span data-ttu-id="7561a-112">Microsoft 365'te paylaştığınız videoları yüklemek için [Microsoft Stream'i](https://docs.microsoft.com/stream/overview) kullanmayı düşünün.</span><span class="sxs-lookup"><span data-stu-id="7561a-112">Consider using [Microsoft Stream](https://docs.microsoft.com/stream/overview) to upload videos you're sharing across Microsoft 365.</span></span>
+
+<span data-ttu-id="7561a-113">**Dosya ve resim yüklemelerini kısıtlama**</span><span class="sxs-lookup"><span data-stu-id="7561a-113">**Restricting file and image uploads**</span></span>
+
+<span data-ttu-id="7561a-114">Yammer varsayılan olarak tüm dosya türlerinin yüklenmesine izin verir.</span><span class="sxs-lookup"><span data-stu-id="7561a-114">Yammer allows uploads of all file types by default.</span></span> <span data-ttu-id="7561a-115">Yöneticiler Yammer'a dosya yüklemelerini engellemek için ayarları değiştirebilir.</span><span class="sxs-lookup"><span data-stu-id="7561a-115">Administrators can change settings to block file uploads to Yammer.</span></span> <span data-ttu-id="7561a-116">Daha fazla bilgi için bkz: [Dosyaları kimler yükleyebilir ve dosya biçimlerini sınırlayabilir.](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats)</span><span class="sxs-lookup"><span data-stu-id="7561a-116">For more info, see [Restrict who can upload files and limit file formats](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats).</span></span> <span data-ttu-id="7561a-117">Yammer'da GIF'lerin kısıtlanması için ilgili bir ayar kullanılabilir.</span><span class="sxs-lookup"><span data-stu-id="7561a-117">A related setting is available for restricting GIFs in Yammer.</span></span> <span data-ttu-id="7561a-118">Daha fazla bilgi için [iletilerde Tenor GIF'lere İzin Ver'e](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages)bakın.</span><span class="sxs-lookup"><span data-stu-id="7561a-118">For more info, see [Allow Tenor GIFs in messages](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).</span></span>
+
+<span data-ttu-id="7561a-119">**Yammer dosya depolama**</span><span class="sxs-lookup"><span data-stu-id="7561a-119">**Yammer file storage**</span></span>
+
+<span data-ttu-id="7561a-120">Yammer, Microsoft 365 ile entegre dir ve dosya yüklemeleri için SharePoint Online'ı kullanır.</span><span class="sxs-lookup"><span data-stu-id="7561a-120">Yammer is integrated with Microsoft 365 and uses SharePoint Online for file uploads.</span></span> <span data-ttu-id="7561a-121">Daha fazla bilgi için [Yammer dosya depolama genel görünümüne](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage)bakın.</span><span class="sxs-lookup"><span data-stu-id="7561a-121">For more info, see [Yammer file storage overview](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage).</span></span> 
+
+<span data-ttu-id="7561a-122">Dosyaları SharePoint Online'a geçirme de en iyi deneyim için, Yammer ağınızı Yerel Mod için yapılandırmanızı tavsiye ederiz.</span><span class="sxs-lookup"><span data-stu-id="7561a-122">For the best experience migrating files to SharePoint Online, we advise configuring your Yammer network for Native Mode.</span></span> <span data-ttu-id="7561a-123">Daha fazla bilgi için Bkz. [Yerel Moda genel bakışı.](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)</span><span class="sxs-lookup"><span data-stu-id="7561a-123">For more info, see [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).</span></span> 
