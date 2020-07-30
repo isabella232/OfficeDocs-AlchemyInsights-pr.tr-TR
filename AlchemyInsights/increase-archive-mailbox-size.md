@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508828"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522863"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Arşiv posta kutusu boyutunu artırma
+
+
+Aşağıda belirtilen ayarlar için otomatik denetimler yapmamızı istiyorsanız, bu sayfanın üst kısmındaki < arka düğmesini seçin ve ardından arşiv posta kutusu boyutuna ihtiyaç duyan kullanıcının e-posta adresini girin.
 
 Microsoft 365, kullanıcı hesabına atanan lisansa göre arşiv posta kutularının boyutunu [sınırlar.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) Arşiv posta kutusu izin verilen boyutun %90'ına ulaştığında, kullanıcı bir e-posta bildirimi alır. Bir arşiv posta kutusu boyut sınırına ulaştığında, kullanıcı daha fazla öğeyi arşiv posta kutusuna taşıyamaz. Microsoft 365, boyut sınırına ulaşıldıktan sonra arşiv posta kutusunun boyutunu artırmaz. Bunun yerine, kullanıcılar arşiv posta kutusunda yer açmak için aşağıdaki eylemleri yapabilir:
 

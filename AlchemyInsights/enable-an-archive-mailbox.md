@@ -10,20 +10,22 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507046"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522755"
 ---
 # <a name="enable-an-archive-mailbox"></a>Arşiv posta kutusunu etkinleştirme
+
+Bir arşiv posta kutusunun yapılandırılabilmesini sağlamak için otomatik denetimler yapmamızı istiyorsanız, bu sayfanın üst kısmındaki < arka düğmesini seçin ve ardından hesabın e-posta adresini girin.
 
 Microsoft 365'teki arşiv posta kutuları *(Çevrimiçi Arşivler* veya *Yerinde Arşivler*olarak da adlandırılır) kullanıcılara ek e-posta depolama alanı sağlar. Kullanıcılar öğeleri arşiv posta kutularına taşıyabilir veya kopyalayabilir ve yöneticiler öğeleri otomatik olarak arşiv posta kutularına taşıyan bir arşiv ilkesi oluşturabilir.
   
 Arşiv posta kutusu şu şekilde oluşturulur:
   
-1. [https://protection.office.com](https://protection.office.com) adresine gidin.
+1. [https://protection.office.com](https://protection.office.com) adımına gidin.
 
 2. Yönetici hesabınızı kullanarak Microsoft 365'te oturum açın.
 
