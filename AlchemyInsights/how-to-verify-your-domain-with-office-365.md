@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509044"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634326"
 ---
 # <a name="how-to-verify-your-domain"></a>Etki alanınızı doğrulama
 
-Etki alanınızı doğrulamak için, etki alanınıza sahip olduğunuzu doğrulamak için etki alanı kayıt şirketinize bir TXT kaydı eklemeniz gerekir. İlk olarak, **Kurulum** Etki Alanları'nı tıklatarak [Etki Alanı Ekle sihirbazını](https://portal.office.com/adminportal/home#/Domains/Wizard) izleyin ve ardından etki alanı \> **Domains** **ekleyin.**
-  
-Etki alanınızı doğrulamak için bir TXT kaydı eklemek için [herhangi bir DNS barındırma sağlayıcısında DNS kayıtları oluşturma](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) yönergeleriizleyin.
+Etki alanını doğrulamak için [etki alanı ekleme Sihirbazı](https://portal.office.com/adminportal/home#/Domains/Wizard)'nı veya el ile **Kurulum**etki  >  **alanları**  >  **etki alanı Ekle**'ye gidin.
 
-Diğer etki alanları sorunları için [Etki Alanları SSS](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)deneyin.
+Etki alanınızı doğrulamak için bir TXT kaydı ekleme hakkında daha fazla bilgi için, [etki alanınızı bağlamak üzere DNS kayıtları ekleme](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)konusundaki yönergelere bakın.
+
+Diğer etki alanları soruları için, [etki ALANLARı SSS](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)bölümüne bakın.
