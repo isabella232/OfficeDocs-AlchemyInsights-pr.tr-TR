@@ -7,28 +7,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 8f79e1c319fcb6c776e5a2ab8db9cb3a76265f87
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 22703dba5865cdac6c9df3e8c7ab2eeec44968cb
+ms.sourcegitcommit: 1361b2b37fd0201502a1a3547084961de284a3fc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761546"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616846"
 ---
 # <a name="sync-a-users-profile-picture"></a>Kullanıcının profil resmini eşitleme
 
-Microsoft 365'teki profil fotoğrafınızı Office.com veya Bilgisayarınızda veya telefonunuzdaki bir tarayıcıda Microsoft uygulamalarını kullanırken ekleyebilir veya değiştirebilirsiniz. Microsoft 365'te profil fotoğraf çemberinin olduğu her yerde fotoğrafınız görünür.
+Office.com adresinden veya telefonunuzda veya telefonunuzda bir tarayıcıda Microsoft 365 'de profil fotoğrafınızı ekleyebilir veya değiştirebilirsiniz. Microsoft 365 'da bir profil fotoğrafı çemberi olduğu yerde fotoğrafınız görüntülenir.
 
-İş için profil fotoğrafınızı Microsoft 365'e eklemek için
+Microsoft 365 iş 'e profil fotoğrafınızı eklemek için:
 
-- Kullanmak istediğiniz bir fotoğrafı bulun ve bilgisayarınızda, OneDrive'da veya ulaşabileceğiniz başka bir konumda saklayın.
+1. Kullanmak istediğiniz fotoğrafı bulun ve bilgisayarınızda, OneDrive 'da veya alabileceğiniz başka bir konumda saklayın.
 
-- [Office.com'daki](https://www.office.com)iş veya okul hesabınızla Microsoft 365'te oturum açın.
+2. [Office.com](https://www.office.com)adresinde iş veya okul hesabınızla Microsoft 365 oturumu açın.
 
-- Sayfanın sağ üst köşesinde baş harflerinizi veya bir kişinin simgesini gösteren daireyi seçin.
+3. Adınızın baş harflerini veya bir kişinin simgesini gösteren sağ üst köşesindeki daireyi seçin.
 
-Hesaplarım bölmesinde, baş harflerinizi veya bir kişinin simgesini gösteren daireyi seçin. Görünen açılır pencerede fotoğrafınızı değiştirin.
+4. Hesabım bölmesinde, adınızın baş harflerini veya bir kişinin simgesini gösteren daireyi seçin. Görüntülenen açılır pencerede fotoğrafınızı değiştirin.
 
-Not: Daha önce bir resim yüklediyseniz, resmi yeniden senkronize etmek için SharePoint veya OneDrive döşemesini tıklatmayı deneyebilirsiniz.
+**Not** Resmi karşıya yüklediyseniz, bu resmi yeniden eşitlemek için SharePoint veya OneDrive kutucuğunu seçmeyi deneyebilirsiniz.
 
-Daha fazla bilgi için lütfen [Microsoft 365'teki profil resmi senkronizasyonu hakkında bilgi](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
+SharePoint 'te başka Microsoft uygulamalarıyla karşılaştırıldığında bir kullanıcı profili resmi farklı görünüyorsa, kullanıcının şu adımları tamamlamasını sağlayabilirsiniz:
+
+1. Özel (InPrivate/inöğretici) tarayıcı oturumu açın.
+2. [https://www.office.com](https://www.office.com/) adımına gidin.
+3. SharePoint simgesini seçin.
+4. Fotoğrafın güncelleştirilmediğinden veya kullanıcının kişilerin Web bölümünde yer aldığı bir sayfanın bulunduğu siteye veya sayfaya göz atın.
+
+Daha fazla bilgi için [Microsoft 365 'da profil resmi eşitlemesi hakkında bilgi](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)bölümüne bakın.
 
