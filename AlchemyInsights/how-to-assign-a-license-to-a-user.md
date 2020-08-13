@@ -1,8 +1,8 @@
 ---
-title: Kullanıcılara lisans atama veya atama
+title: Kullanıcılara lisans atama ya da lisansları kaldırma
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,20 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c3b11d51a2b5895c8d90ebef27121561f221334
+ms.sourcegitcommit: 69cf3c185e03a4b1da35c5ca492ee6c74a5d739a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44496007"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46657087"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>Kullanıcılara lisans atama veya atama
+# <a name="assign-or-unassign-licenses-to-users"></a>Kullanıcılara lisans atama ya da lisansları kaldırma
 
-Bir kullanıcının hizmetlere erişimi olması için lisansa ihtiyacı vardır. Aşağıda, bir kullanıcıdan lisans **ekleme, değiştirme veya kaldırma** adımları vereyim.
+Kullanıcının hizmetlere erişmesi için lisansa ihtiyacı vardır. Bir kullanıcıya lisans atama ya da lisansı atamanın adımları şunlardır.
   
-1. Yönetici merkezinde, Kullanıcılar **Users** \> [Etkin kullanıcılara](https://go.microsoft.com/fwlink/p/?linkid=834822)gidin.
+1. Yönetim merkezinde, **Kullanıcılar** \> [etkin kullanıcılarına](https://go.microsoft.com/fwlink/p/?linkid=834822)gidin.
+2. Lisans atamak istediğiniz kullanıcının satırını seçin.
+3. Sağ bölmede **Lisanslar ve uygulamalar**'ı seçin.
+4. **Lisanslar** bölümünü genişletin, atamak veya atamasını kaldırmak istediğiniz lisansların kutularını seçin veya temizleyin, ardından **Değişiklikleri Kaydet**'i seçin.
 
-2. Lisans atamak, değiştirmek veya kaldırmak istediğiniz kullanıcının adını seçin.
-
-3. **Ürün lisanslarını yönet'i**tıklatın ve bu kullanıcıya atamak istediğiniz lisansı seçin.
-
-    Varsayılan olarak, söz konusu lisansla ilişkili tüm hizmetler kullanıcıya otomatik olarak atanır. Kullanıcı için hangi hizmetlerin kullanılabildiğini sınırlamak için, kullanıcının sahip olmasını istemediğiniz hizmetlerin onay kutusunu temizleyin.
-
-4. Bölmenin alt kısmında değişiklikleri **kaydet'i**tıklatın.
-
-Daha fazla bilgi için [kullanıcılara lisans atama](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)ve [kullanıcılardan lisansları kaldırma](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user)'ya bakın.
+Daha fazla bilgi için [kullanıcılara lisans atama](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)ve [kullanıcıların lisanslarının atamasını kaldırma](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)konusuna bakın.
