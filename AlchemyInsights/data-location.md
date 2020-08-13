@@ -10,27 +10,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 571c82d47bea7ca34a204ddd6fc89b7657808a23
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655302"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665518"
 ---
 # <a name="data-location"></a>Veri konumu
 
-Yönetici merkezinde veya PowerShell üzerinden Exchange Online'a bağlanarak kiracınızın konumunu görüntüleyebilirsiniz.
+[ **Kuruluş profili** sayfasına](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) gidip **veri konumu**seçerek, kiracınızın konumunu Yönetim merkezinde görebilirsiniz.
 
-
-**Yönetici merkezi:**
-1. [Yönetici merkezine](https://admin.microsoft.com/Adminportal/Home)giriş yapın.
-2. **Ayarlar** > **Organizasyonu profilini**seçin.
-3. **Veri konumu**altında, **ayrıntıları görüntüle'yi**seçin.
-
-
-**Powershell:**
-1. Windows PowerShell'i kullanarak Exchange Online'a bağlanın.
-2. Kiracınızın özelliklerinin listesini görüntülemek için [Get-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) cmdlet'i çalıştırın. 
-3. OrganizationId özelliğine bakın.
-
-EXO ve SPO için veri konumuna sahip olduğunuzda, [verilerinizin bulunduğu yerden](https://products.office.com/where-is-your-data-located)kullanabileceğiniz diğer hizmetlerin veri konumunu belirleyebilirsiniz.
+Abone olmadığınız uygulamalar için, [Microsoft 365 müşteri verilerinizin depolandığı yeri](https://docs.microsoft.com/office365/enterprise/o365-data-locations)görün.
