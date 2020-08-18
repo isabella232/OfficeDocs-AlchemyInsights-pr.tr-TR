@@ -1,7 +1,7 @@
 ---
-title: Öğeleri silme veya SharePoint sitesinin Geri Dönüşüm Kutusu'nu boşaltma
-ms.author: v-todmc
-author: todmccoy
+title: Öğe silme veya SharePoint sitesinin geri dönüşüm kutusu 'nu boşaltma
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3175"
-ms.openlocfilehash: f035104d3a9c2a3d5c82d9753497fa5f4c9e6319
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3f0202e2ccab6dda22b451c6633ed59ea61df3ed
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704889"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786045"
 ---
-# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>Öğeleri silme veya SharePoint sitesinin Geri Dönüşüm Kutusu'nu boşaltma 
+# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>Öğe silme veya SharePoint sitesinin geri dönüşüm kutusu 'nu boşaltma 
 
-Bir öğeyi SharePoint belge kitaplığından veya listesinden sildiğinizde, öğe SharePoint'ten hemen kaldırılmaz. Silinen öğeler bir süre için geri dönüşüm kutusu siteye gider. Bu süre zarfında, sildiğiniz öğeleri özgün konumlarına geri yükleyebilir veya depolama alanını boşaltmak için bunları kaldırabilirsiniz.
+SharePoint belge kitaplığından veya listesinden bir öğeyi sildiğinizde, bu öğe hemen SharePoint 'ten kaldırılmaz. Silinmiş öğeler, bir süre boyunca site geri dönüşüm kutusu 'na geçer. Bu süre boyunca, sildiğiniz öğeleri özgün konumlarına geri yükleyebilir veya depolama alanı boşaltmak için kaldırabilirsiniz.
 
-[Öğeleri silme veya SharePoint sitesinin Geri Dönüşüm Kutusu'nu boşaltma](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)
+[Öğe silme veya SharePoint sitesinin geri dönüşüm kutusu 'nu boşaltma](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)

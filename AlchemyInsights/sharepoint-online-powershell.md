@@ -1,7 +1,7 @@
 ---
-title: Sharepoint Online PowerShell
-ms.author: v-todmc
-author: todmccoy
+title: SharePoint Online PowerShell
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 8c270748fc75f929371fbb2856daad3ae61a1540
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 300c07e7f0010eae2bd4fe893ece9d09aab93ba5
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764283"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786909"
 ---
-# <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
+# <a name="sharepoint-online-powershell"></a>SharePoint Online PowerShell
 
-Sharepoint Online içinde PowerShell veya Scripts ile mi çalışıyormusunuz? Daha fazla bilgi için aşağıdaki bağlantıları ziyaret edin.
-- [SharePoint Online Management Shell ile başlarken](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Çok faktörlü kimlik doğrulama (MFA) ile SPO PowerShell'e bağlanın](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint Desenleri ve Uygulamaları (PnP),](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) SPO'ya yönelik karmaşık yönetim eylemleri gerçekleştirmenize olanak tanıyan powershell komutları kitaplığı içerir.
+SharePoint Online 'da PowerShell veya betiklerle mı çalışıyorsunuz? Daha fazla bilgi için aşağıdaki bağlantıları ziyaret edin.
+- [SharePoint Online Yönetim Kabuğu ile çalışmaya başlama](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
+- [SPO PowerShell 'e çok faktörlü kimlik doğrulaması (MFA) ile bağlanma](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+- [SharePoint modelleri ve uygulamaları (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) , SPO 'e yönelik karmaşık yönetim eylemleri gerçekleştirmenize olanak sağlayan bir PowerShell komutları kitaplığı içerir.
 
 > [!NOTE]
-> - SPO yönetim kabuğuyla bağlantı kurmada sorun yaşıyorsanız, en son sürüme güncelleştirdiğinizden emin olun ve *modülü "Microsoft.Online.SharePoint.PowerShell İçe Aktar"* kullanarak [yeniden içe aktarmayı](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) deneyin.
-> - İstemci tarafı nesne modeli komut dosyalarını çalıştırmaya çalışıyorsanız, Yerel makinenizde [Sharepoint Online İstemci Bileşenleri SDK](https://www.microsoft.com/download/details.aspx?id=42038) yüklü olması gerekir.
-> - PowerShell'den komut dosyaları çalıştırırken sorun yaşıyorsanız, PowerShell'i Yönetici olarak çalıştırmayı ve [Yürütme İlkesi'ni](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)değiştirmeyi düşünebilirsiniz.
+> - SPO Yönetim Kabuğu ile bağlantı sorunları yaşıyorsanız, en son sürüme güncelleştirildiğinden emin olun ve *"Import-Module Microsoft. online. SharePoint. PowerShell"* kullanarak [modülü yeniden içeri aktarmayı](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) deneyin.
+> - İstemci tarafı nesne modeli komut dosyalarını çalıştırmaya çalışıyorsanız, yerel makinenizde [SharePoint Online Istemci BILEŞENLERI SDK](https://www.microsoft.com/download/details.aspx?id=42038) 'ya sahip olmanız gerekir.
+> - PowerShell 'den betikleri çalıştırırken sorun yaşıyorsanız, PowerShell 'i yönetici olarak çalıştırmayı ve [Yürütme ilkesini](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)değiştirmeyi düşünebilirsiniz.

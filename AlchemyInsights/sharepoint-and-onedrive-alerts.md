@@ -1,7 +1,7 @@
 ---
-title: SharePoint ve OneDrive uyarılarının alınmasında gecikmeler
-ms.author: v-todmc
-author: todmccoy
+title: SharePoint ve OneDrive uyarılarını alırken gecikmeler
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 7f1033cec3abec782d1eee3b32128c4c60778913
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 92e517ae6e83aa91b9838047ec77759dc893bc57
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563530"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785685"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>SharePoint ve OneDrive uyarılarının alınmasında gecikmeler
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>SharePoint ve OneDrive uyarılarını alırken gecikmeler
 
-- Önce e-postanızdaki Önemsiz veya Spam klasörünü kontrol edin.
-- **Birden çok dosya veya kitaplıktan gelen tüm uyarılar gecikirse,** SharePoint veya Exchange ile oluşabilecek danışma/olayları kontrol etmek için Hizmet Durumu [panosunu](https://portal.office.com/adminportal/home?ref=/servicehealth) ziyaret edin. Sorun, SharePoint uyarı yeteneği veya Exchange aracılığıyla e-postalardaki gecikmelerle ilgili olabilir. Ayrıca, diğer e-postaların teslim edilip edilmediğine de dikkat edin, sorun büyük olasılıkla Exchange gecikmeleriyle birlikte dir.
-- **Belirli bir dosyadan veya kitaplıktan tek bir uyarı teslim edilmezse,** bu uyarıyı silmeye ve yeniden oluşturmaya çalışır. Uyarıyı yeniden oluşturmak için [SharePoint uyarılarını yönet, görüntüleyin veya silin.](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2)
+- İlk olarak, e-postanızın önemsiz veya Istenmeyen klasörünü denetleyin.
+- **Birden çok dosya veya kitaplıklardaki tüm uyarılar gecikirse**, [hizmet durumu panosunu](https://portal.office.com/adminportal/home?ref=/servicehealth) ziyaret ederek SharePoint veya Exchange 'le ilgili tüm Danışma belgelerini/olaylarını denetleyin. Sorun SharePoint uyarısı yeteneği veya Exchange aracılığıyla e-postalarda gecikmelere neden olabilir. Ayrıca, diğer e-postanın teslim edilip edilmediğini de unutmayın, sorun büyük olasılıkla Exchange gecikmelerinden kaynaklanıyor olabilir.
+- **Belirli bir dosya veya kitaplıktan gelen bir uyarı teslim edilmediyse**, silmeyi ve yeniden oluşturmayı deneyin. Uyarıyı yeniden oluşturmak için [SharePoint uyarılarını yönetme, görüntüleme veya silme](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) konusuna bakın.
 
 > [!NOTE]
-> - Uyarılar bir Dağıtım Grubuna gönderilemez. Yalnızca Güvenlik ve O365 grupları desteklenir.
-> - Uyarı e-posta şablonlarını özelleştiremezsiniz. Bunları başarmak için Microsoft Akışını veya SharePoint Designer İş Akışını kullanmanız gerekir.
+> - Bir dağıtım grubuna uyarı gönderilemez. Yalnızca güvenlik ve O365 grupları desteklenir.
+> - Uyarı e-posta şablonlarını özelleştiremezsiniz. Bunları başarmak için Microsoft Flow veya SharePoint Designer Iş akışını kullanmalısınız.

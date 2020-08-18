@@ -1,7 +1,7 @@
 ---
-title: SharePoint sitesinde dosya ve klasör paylaşımıyla ilgili raporlama
-ms.author: v-todmc
-author: todmccoy
+title: SharePoint sitelerinde dosya ve klasör paylaşımı hakkında rapor
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a0223666ba8cd3edde9eed05d86a49907fd07a37
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43693182"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787233"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>SharePoint sitesinde dosya ve klasör paylaşımıyla ilgili raporlama
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>SharePoint sitelerinde dosya ve klasör paylaşımı hakkında rapor
 
-Belirli bir SharePoint sitesinde veya OneDrive kitaplığında her benzersiz dosyayı, kullanıcıyı, izni ve bağlantıyı ayrıntılı olarak açıklayan bir CSV dosyası oluşturabilirsiniz. Bu, paylaşımın nasıl kullanıldığını ve herhangi bir dosya veya klasörün konuklarla paylaşılıp paylaşılmadığını anlamanıza yardımcı olabilir.
+Belirli bir SharePoint sitesindeki veya OneDrive kitaplığındaki her benzersiz dosyayı, kullanıcıyı, izni ve bağlantıyı açıklayan bir CSV dosyası oluşturabilirsiniz. Bu, paylaşımın nasıl kullanıldığını ve herhangi bir dosya veya klasörün konuklarla paylaşılacağını anlamanıza yardımcı olur.
 
-Daha fazla bilgi için, [SharePoint sitesinde dosya ve klasör paylaşımı nı bildirin.](https://docs.microsoft.com/sharepoint/sharing-reports)
+Daha fazla bilgi için [SharePoint sitesinde dosya ve klasör paylaşımı hakkında rapor](https://docs.microsoft.com/sharepoint/sharing-reports).
 
 > [!NOTE]
-> Bu özellik şu anda First Release kiracılarına dağıtılır ve yavaş yavaş tüm Üretim kiracılarına dağıtılır.
+> Bu özellik şu anda Ilk sürüm kiralarına dağıtılmıştır ve tüm üretim kiracıları giderek kademeli olarak kullanıma sunulacaktır.

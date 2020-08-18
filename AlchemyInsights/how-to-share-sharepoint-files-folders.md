@@ -1,7 +1,7 @@
 ---
-title: SharePoint dosya larını veya klasörlerini paylaşma
-ms.author: v-todmc
-author: todmccoy
+title: SharePoint dosyalarını veya klasörlerini paylaşma
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: 6673307c9c8e8af5d6730dee60ed9445a225478a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d8db0cb146db02ab235ae453b43e088a53a3a5aa
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763345"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787269"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>SharePoint dosya larını veya klasörlerini paylaşma
+# <a name="how-to-share-sharepoint-files-or-folders"></a>SharePoint dosyalarını veya klasörlerini paylaşma
 
-SharePoint sitesinde depoladığınız dosyalar genellikle siteye izin veren herkes tarafından kullanılabilir, ancak belirli dosya veya klasörleri siteye erişimi olmayan kişilerle paylaşmak isteyebilirsiniz. Dosya ve klasörleri paylaştığınızda, kişilerin bunları olmasına izin mi verebileceğinize veya bunları görüntülemenize karar verebilirsiniz.
+SharePoint sitesinde depoladığınız dosyalar genellikle site izinleri olan herkes tarafından kullanılabilir, ancak başka şekilde siteye erişimi olmayan kişilerle belirli dosyaları veya klasörleri paylaşmak isteyebilirsiniz. Dosyaları ve klasörleri paylaştığınızda, kişilerin düzenleyebilmesini veya görüntülemesini sağlayın.
 
-[SharePoint dosya larını veya klasörlerini paylaşma](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[SharePoint dosyalarını veya klasörlerini paylaşma](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
