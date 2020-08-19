@@ -1,5 +1,5 @@
 ---
-title: Eanble Formlar Pro
+title: Forms Pro 'Yu etkinleştirme veya devre dışı bırakma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: 087121cee32df8520dbb1eee11ea2993819508da
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 3b0c375dbcf3c49c4ceb4e0cee9411a4bccc7cf3
+ms.sourcegitcommit: 6d938730731b5c0e15cd45faa647d48ee75b5d50
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "41969875"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "46814692"
 ---
-# <a name="enable-or-disable-forms-pro"></a><span data-ttu-id="48b4b-102">Formlar Pro'u etkinleştirme veya devre dışı</span><span class="sxs-lookup"><span data-stu-id="48b4b-102">Enable or disable Forms Pro</span></span>
+# <a name="enable-or-disable-forms-pro"></a><span data-ttu-id="5b5cc-102">Forms Pro 'Yu etkinleştirme veya devre dışı bırakma</span><span class="sxs-lookup"><span data-stu-id="5b5cc-102">Enable or disable Forms Pro</span></span>
 
-<span data-ttu-id="48b4b-103">Microsoft Forms Pro'yu etkinleştirmeye çalışıyorsanız, [Dynamics 365 kurumsal](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) lisansının bir parçası olarak dahildir.</span><span class="sxs-lookup"><span data-stu-id="48b4b-103">If you're trying to enable Microsoft Forms Pro, it is included as part of the [Dynamics 365 enterprise](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) license.</span></span> <span data-ttu-id="48b4b-104">Alternatif olarak, bir yönetici [Microsoft Forms Pro lisansı](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant)satın alabilir.</span><span class="sxs-lookup"><span data-stu-id="48b4b-104">Alternatively, an admin can purchase a [Microsoft Forms Pro license](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant).</span></span> <span data-ttu-id="48b4b-105">Microsoft [Forms Pro lisansLarını](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1) da bir kullanıcıdan kaldırabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="48b4b-105">You can also [remove a Microsoft Forms Pro license](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1) from a user.</span></span>
+<span data-ttu-id="5b5cc-103">Microsoft Forms Pro, size ek anket yeteneklerine ve iş avantajlarına sahip olan Dynamics 365 müşteri sesini içerir.</span><span class="sxs-lookup"><span data-stu-id="5b5cc-103">Microsoft Forms Pro has evolved into Dynamics 365 Customer Voice, providing you with additional survey capabilities and business benefits.</span></span> <span data-ttu-id="5b5cc-104">Daha fazla bilgi için, [Dynamics 365 müşteri Voice yardım kaynaklarına](https://go.microsoft.com/fwlink/p/?linkid=2128357)bakın.</span><span class="sxs-lookup"><span data-stu-id="5b5cc-104">For more information, see [Help resources for Dynamics 365 Customer Voice](https://go.microsoft.com/fwlink/p/?linkid=2128357).</span></span>  
+
+<span data-ttu-id="5b5cc-105">Microsoft Forms Pro, Dynamics 365 Enterprise lisansının bir parçası olarak dahil edilmiştir.</span><span class="sxs-lookup"><span data-stu-id="5b5cc-105">Microsoft Forms Pro is included as part of the Dynamics 365 enterprise license.</span></span> <span data-ttu-id="5b5cc-106">Alternatif olarak, bir yönetici Microsoft Forms Pro lisansı satın alabilir.</span><span class="sxs-lookup"><span data-stu-id="5b5cc-106">Alternatively, an admin can purchase a Microsoft Forms Pro license.</span></span> <span data-ttu-id="5b5cc-107">Ayrıca bir kullanıcıdan Microsoft Forms Pro lisansını kaldırabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="5b5cc-107">You can also remove a Microsoft Forms Pro license from a user.</span></span>  
+
+<span data-ttu-id="5b5cc-108">Lisanslama hakkında daha fazla bilgi için, Kullanıcı için Microsoft [Forms Pro 'Yu satın alma](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) ve [Microsoft Forms Pro 'Yu devre dışı bırakma](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).</span><span class="sxs-lookup"><span data-stu-id="5b5cc-108">For more info about licensing, see [Purchase Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) and [Disable Microsoft Forms Pro for a user](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).</span></span>
+  
+<span data-ttu-id="5b5cc-109">Yardım kaynakları için [, bkz.](https://docs.microsoft.com/forms-pro/troubleshoot)</span><span class="sxs-lookup"><span data-stu-id="5b5cc-109">For help resources, see [Troubleshoot issues in Forms Pro](https://docs.microsoft.com/forms-pro/troubleshoot).</span></span>
