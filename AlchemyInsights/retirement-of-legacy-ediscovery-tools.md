@@ -1,5 +1,5 @@
 ---
-title: Legacy eDiscovery Araçları emeklilik
+title: Eski eBulma araçlarının emekli
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650588"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902640"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Legacy eDiscovery Araçları emeklilik
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Eski eBulma araçlarının emekli
 
-Microsoft 365 Uyumluluk merkezindeki yeni ve geliştirilmiş eDiscovery işlevinin bir sonucu olarak, aşağıdaki eski eDiscovery araçları ve komutları önümüzdeki aylarda kullanımdan kaldırılacaktır:
+Microsoft 365 Uyumluluk Merkezi 'nde yeni ve geliştirilmiş eBulma işlevlerinin sonucu olarak, gelen aylarda aşağıdaki eski eBulma araçları ve Command'in yerine gelmelerini sağlayacaktır:
 
-- Exchange yönetici merkezinde [yer-in-Place eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) ve [Yerinde Tutar.](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds)
+- Exchange Yönetim merkezinde [yerinde eBulma](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) ve [yerinde saklamalar](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) .
 
-- Yerinde eDiscovery ve Yerinde Tutar destekleyen Exchange Online PowerShell cmdlets. (Bu cmdletler topluca *-MailboxSearch cmdlets olarak tanımlanır.) Bu aşağıdaki cmdlets içerir:
+- Yerinde eBulma ve yerinde saklamayı destekleyen Exchange Online PowerShell cmdlet 'leri. (Bu cmdlet 'ler toplu olarak *-MailboxSearch cmdlet 'leri olarak tanımlanır.) Bu, aşağıdaki cmdlet 'leri içerir:
 
-    - [Yeni Posta KutusuArama](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [Başlangıç-Posta KutusuArama](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Stop-MailboxArama](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [Set-MailboxArama](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [New-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [Stop-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- Exchange Online PowerShell [arama-posta kutusu](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) cmdlet.
-- Exchange Web Hizmetleri API'sında aşağıdaki işlemler:
-    - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
-    - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
-    - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
+- Exchange Online PowerShell 'de [arama-posta kutusu](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) cmdlet 'i.
+- Exchange Web Hizmetleri API 'sinde aşağıdaki işlemler:
+    - [Getsearchableposta kutuları](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
+    - [Setholdonposta kutuları](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
+    - [Getholdonposta kutuları](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Gelişmiş eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Gelişmiş eBulma v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**Emeklilik için zaman çizelgesi:**
-- 1 Nisan 2020: Yeni aramalar ve tutarlar oluşturamazsınız, ancak varolan aramaları kendi riskiniz altında çalıştırabilir, düzenleyebilir ve silebilirsiniz. Microsoft Desteği artık EAC'de bulunan & Yerinde eDiscovery'yi desteklemez.
+**Emeklilik zaman çizelgesi**:
+- **1 temmuz 2020** Artık yeni aramalar ve ayrı tutma oluşturamazsınız, ancak mevcut aramaları kendi sorumluluğunuzdadır, düzenleyebilir ve silebilirsiniz. Microsoft desteği artık EAC 'de sakladıkları & yerinde eBulma desteklemiyor.
+    
+- **1 ekim 2020** Yerinde eBulma &, EAC 'da ayrı tutma işlevi salt okunur moduna yerleştirilir, dolayısıyla yalnızca var olan aramaları ve ayrı tutmaları kaldırabilirsiniz.
 
-- 1 Temmuz 2020: EAC'de barındıran Yerinde eDiscovery & Yalnızca Okunur modunda yerleştirilecektir. Bu, yalnızca varolan aramaları ve aramaları kaldırabileceğiniz anlamına gelir.
+**Daha fazla bilgi için bkz**.
 
-**Daha fazla bilgi için bkz:**
-
- - [Eski eDiscovery aramalarını ve Microsoft 365 uyumluluk merkezine geçiş yapmayı](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Eski eDiscovery araçlarının emekliliği](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Yerinde eDiscovery ve Yerinde Tutarlar hakkında SSS](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Eski eBulma aramalarını ve bunları Microsoft 365 Uyumluluk Merkezi 'ne geçirme](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Eski eBulma araçlarının emekli](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Yerinde eBulma ve yerinde Saklamalarla ilgili SSS](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
