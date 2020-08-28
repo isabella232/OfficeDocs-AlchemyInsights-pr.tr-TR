@@ -1,5 +1,5 @@
 ---
-title: Takımlar Outlook eklentisi
+title: Ekipler Outlook eklentisi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,22 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: a8b548da6390391fd36de9cf848cf3a4801c9d92
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44702226"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47290039"
 ---
-# <a name="teams-outlook-add-in"></a>Takımlar Outlook eklentisi
+# <a name="teams-outlook-add-in"></a>Ekipler Outlook eklentisi
 
-Eksik Bir Takım Outlook Eklentisi'ni gidermek için, önce Yönetici Portalı'nda Hizmet Tanılama'yı çalıştırdığından emin olun.  Hizmet Tanılama hiçbir sorun gösteriyorsa, lütfen etkilenen kullanıcı makinelerinde [microsoft destek ve kurtarma yardımcısı](https://aka.ms/SaRA-TeamsAddInScenario) ekipleri Outlook **Eklentisi'ni** karşıdan yükleyip çalıştırın.
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Eksik ekiplerde sorun gidermek için Outlook eklentisi
 
-Sorunu el ile gidermek için, Takımlar eklentinizin [burada](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)listelenmemesi için neden olabilecek olası etkenler listesini gözden geçirin.
+1. Yönetim portalında hizmet tanılaması 'nı çalıştırabilirsiniz. 
+2. Hizmet tanılaması hiçbir sorun içermiyorsa, [Microsoft destek ve Kurtarma Yardımcısı](https://aka.ms/SaRA-TeamsAddInScenario)  >  **ekipleri Outlook eklentisi senaryosunu**indirip çalıştırarak, etkilenen kullanıcı makinelerinde herhangi bir istemci sorununu tanılayıp düzeltin.
+
+Eksik ekiplerin Outlook eklentisini el ile gidermek için, ekip eklentilerinin listelenmesine neden olabilecek olası etkenlerin listesini gözden geçirin. Daha fazla bilgi için [Windows Için Outlook 'Ta ekip toplantısı eklentisi gösterilmez](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Başka biri adına ekipler toplantısı zamanlama sorunlarını gidermek için (temsilci olarak)
+
+Başka birinin adına bir ekip Toplantısı zamanlamak için [Microsoft ekipleri ve Exchange Server etkileşim sorunlarını giderme](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)konusuna bakın.

@@ -1,5 +1,5 @@
 ---
-title: Takım Vardiyaları
+title: Takım vardiyaları
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -10,18 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "1686"
+- "6251"
 - "9000161"
-ms.openlocfilehash: cbd5363ba153299e0af2133858a49544a6c6c75c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0ea563c152f3241e3ce81bad038bd49775ad1d13
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43737472"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47290003"
 ---
-# <a name="using-teams-shifts"></a>Takım Vardiyalarını Kullanma
+# <a name="using-teams-shifts"></a>Ekip vardiyalarını kullanma
 
-Microsoft Staffhub'dan nasıl geçiş yapılacağını da içeren Ekipler için Geçişler hakkında daha fazla bilgi edinmek [için Ekipler için Vardiya'ya](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)bakın. 
+Vardiyaların ayarlanması, kullanıcılara vardiyaları etkinleştirme ve vardiyalar uygulamasını yönetme gibi vardiyalarının yönetimi hakkında bilgi için bkz:
+ 
+- [Microsoft ekiplerde kuruluşunuzun vardiyalarını uygulamasını yönetin](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
+- [Kuruluşunuzdaki belirli kullanıcılar Için vardiyaları etkinleştirme veya devre dışı bırakma](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
 
-Microsoft Staffhub 31 Aralık 2019 tarihinde [emekliye alınacaktır.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) 
+Bir vardiya yönetme dahil, ekiplerin vardiyaları hakkında daha fazla bilgi edinmek için [bkz.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
+
+**30 haziran 2020**, Microsoft ekonomik hub kullanımdan kaldırılmıştır. Daha fazla bilgi için bkz [.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 
