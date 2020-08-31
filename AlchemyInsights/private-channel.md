@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005458"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316219"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Microsoft Teams'deki özel kanallar
+# <a name="private-channels-in-microsoft-teams"></a>Microsoft ekiplerindeki özel kanallar
 
-Özel kanallar Microsoft Teams'de yeni bir özelliktir. Özel kanalların standart kanallardan dönüştürülemeyeceğini veya bunun tersi olduğunu unutmayın.
+Microsoft ekiplerindeki özel kanallar, ekipleriniz içinde işbirliği için odaklanmış alanlar oluşturur. Ekipte yalnızca özel kanalın sahibi veya üyesi olan kullanıcılar kanala erişebilir. Zaten ekibin üyesi olmaları koşuluyla konuklar dahil herkes özel kanala üye olarak eklenebilir.
 
-[Özel kanal oluşturma ve üyelik ve](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) özel kanal [SharePoint siteleri](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)hakkındaki bilgiler gibi özel kanallar hakkında ayrıntılı bilgi için Microsoft [Teams'deki Özel kanallara](https://docs.microsoft.com/MicrosoftTeams/private-channels)bakın. 
+Daha fazla bilgi edinmek için [Microsoft ekiplerde özel kanallarla](https://docs.microsoft.com/MicrosoftTeams/private-channels)başlayın. [Özel kanal oluşturma, üyelik](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) ve [özel kanal SharePoint siteleri](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)gibi bilgiler de buna dahildir.
 
-**Not:** Özel kanal iletilerinin bekletme yapılandırması henüz desteklenmediğinden, bekletme ilkeleri etkinleştirilmiş kiracılar varsayılan olarak özel kanalları etkinleştirmez. Takımlar yönetici merkezinde özel kanallar etkinleştirilebilir. Ayrıca, özel kanal iletilerinin bekletme desteklenmezken, özel kanallarda paylaşılan dosyaların tutulmasının desteklenir.
+**Yeni bir ekip sahibine mı ihtiyacınız var?**
 
-**Yeni bir takım sahibine mi ihtiyacınız var?**
+Özel kanal sahibiniz kuruluşunuzu bırakır veya gruptan kaldırılırsa, özel kanalın üyesi otomatik olarak özel kanal sahibi olacak şekilde yükseltilir.
 
-Özel kanal sahibiniz ayrılırsa, Teams Powershell aracılığıyla yeni bir takım sahibi ekleyebilirsiniz.
-
-
-- Teams Powershell'i kurmak için [buraya](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) gidin.
-
-İşte ihtiyacınız olacak cmdlet:
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-Teams Powershell hakkında daha fazla bilgi için [Bkz. Teams PowerShell Genel Bakış.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)
+Yöneticiler ayrıca, özel kanallar oluşturabilbilecekleri ilkeler hakkında daha fazla bilgi edinmek için [Microsoft ekiplerde özel kanalların yaşam döngüsünü](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) yönetme kuralları

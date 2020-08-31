@@ -1,5 +1,5 @@
 ---
-title: Satın alınan veya yönetilen etki alanlarıyla Wix web sitesini kullanma
+title: Office 365 satın alınan Office Web sitesini veya yönetilen etki alanlarını kullanma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: 64dfe6082bea1e468eae78bf1576fde398e4c28a
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
-ms.translationtype: MT
+ms.openlocfilehash: 522392d41aa8f84f1f4684ccdbd37d68636be07e
+ms.sourcegitcommit: cbed17334557c1dfa471623f8d5e735f72e697da
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708504"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300746"
 ---
-# <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>Satın alınan veya yönetilen etki alanlarıyla Wix web sitesini kullanma
+# <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>Office 365 satın alınan Office Web sitesini veya yönetilen etki alanlarını kullanma
 
-- [Web sitenizi geçerli barındırma sağlayıcınızla tutmak için DNS kayıtlarını güncelleştirin](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
-- Wix makalesi "İşaretLeme Yöntemini Kullanarak Bir Etki Alanını Wix'e Bağlama" Office 365'i kullanırken ad sunucularını değiştirmek yerine işaret etme (yukarıdaki bağlantıya DNS kayıtları ekleme) kullanmanızı önerir
-- Ad sunucularını Wix olarak değiştirmeyi seçerseniz, [Microsoft için Wix'te DNS kayıtları oluşturmanız](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix?view=o365-worldwide) gerekir
-- Etki alanınız Microsoft'tan satın alındıysa, ad sunucuları değiştirilemez. Microsoft'un satın aldığı etki alanının [60 gün sonra başka bir barındırma sağlayıcısına aktarılması](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider) gerekir.
+- [Web sitenizi geçerli barındırma sağlayıcınızda tutmak için DNS kayıtlarını güncelleştirme](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
+- Office 365 kullanırken ad sunucularını değiştirmek yerine, "bir etki alanını Wix 'e bağlama", işaretçi kullanmayı önerir.
+- Ad sunucularını yine de değiştirmek istiyorsanız, [Microsoft Için Wix 'TE DNS kayıtları oluşturmanız](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix?view=o365-worldwide) gerekir
+- Etki alanınız Microsoft 'tan satın alındıysa, ad sunucuları değiştirilemez. Ad sunucularını değiştirmeniz gerekiyorsa, 60 günden sonra Microsoft satın alınan etki alanının [başka bir barındırma sağlayıcısına aktarılması](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host) gerekir
