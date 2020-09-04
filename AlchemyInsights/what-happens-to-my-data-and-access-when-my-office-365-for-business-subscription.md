@@ -1,8 +1,8 @@
 ---
-title: İşletme aboneliğim için Microsoft 365'im sona erdiğinde verilerime ve erişimime ne olur?
+title: Microsoft 365 iş aboneliğim sona erdiğinde verilerime ve erişimime ne olur?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,19 +13,19 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: faef7409f3ba348de4cb6d16d81c99b55e871b44
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c0b969161acaf1dd815b36b94cf07704e5a87d4c
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511708"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364715"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>İşletme aboneliğim için Microsoft 365'im sona erdiğinde verilerime ve erişimime ne olur?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Microsoft 365 iş aboneliğim sona erdiğinde verilerime ve erişimime ne olur?
 
-Aboneliğiniz in sona erdiği için veya iptal etmeye karar verdiğiniz için sona ererse, hizmetlere, uygulamalara ve müşteri verilerine erişiminiz, abonelik tamamen kapamadan veya *hükmün* silinmeden önce birden çok eyaletten geçer. Bu ilerlemenin farkındaysanız, aboneliğinizi çok geç olmadan etkin bir duruma döndürmek veya Microsoft'tan ayrılıyorsanız verilerinizi silinmeden yedekleseniz daha iyi donanıma sahip olacaksınız.
+Aboneliğiniz sona erdiğinde ya da iptal etmeye karar verirseniz, hizmet, uygulama ve müşteri verilerine erişiminiz, aboneliğin tam olarak kapatılması veya  *sağlanması*  iptal etmeden önce birden çok duruma geçer. Bu ilerlemeyi biliyorsanız, aboneliğinizi çok geç olmadan veya (Microsoft 'tan ayrılırsanız), son olarak silinmeden önce verilerinizi yedeklemeniz daha iyi olur.
   
-Aboneliğin son kullanma tarihine ulaşmadan önce, **aboneliğin yinelenen faturalandırmasını yönetmek için**birkaç seçeneğiniz vardır.
+Aboneliğin son kullanma tarihine ulaşmadan önce, **aboneliğin yinelenen faturalamayı yönetmek**için birkaç seçeneğiniz vardır.
   
-- **Yinelenen faturalandırma** zaten açıksa, herhangi bir işlem yapmak zorunda değilsiniz. Aboneliğiniz **Yinelenen fatura tarihinde** faturalandırılır ve geçerli ödeme sıklığınıza bağlı olarak ek bir yıl veya ay için ücretlendirilirsiniz. **Yinelenen faturalandırmayı** herhangi bir nedenle kapattıysanız, [yinelenen faturalandırmayı](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)her zaman tekrar açabilirsiniz.
+- **Yinelenen faturalandırma** zaten açıksa herhangi bir işlem yapmanız gerekmez. Aboneliğiniz, **yinelenen faturalama** tarihinde faturalanacaktır ve geçerli faturalandırma frekansına bağlı olarak ek yıl veya ay ücretlendirilecektir. **Yinelenen faturalamayı** kapatmanız durumunda, [yinelenen faturalamayı her zaman yeniden açabilirsiniz](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Ön ödemeli, bir yıllık aboneliği olan bir Açık Toplu Lisanslama müşterisiyseniz, yeni bir ürün anahtarı satın almak için eşinizle iletişime geçin. [Toplu LisansLama Hizmet Merkezi'nde](https://go.microsoft.com/fwlink/p/?LinkID=282016)anahtarınızı etkinleştirmek için e-posta yoluyla talimatlar alacaksınız. Yeni bir iş ortağını veya geçmişte birlikte çalıştığınız iş ortağını nasıl [bulacağınızı](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)öğrenmek için bkz.
+- Ön ödemeli, tek yıllık aboneliği olan bir açık toplu lisanslama müşterisiyseniz, iş ortağınıza başvurup yeni bir ürün anahtarı satın alın. [Toplu lisanslama hizmet merkezinde](https://go.microsoft.com/fwlink/p/?LinkID=282016)anahtarınızı etkinleştirmek için e-posta ile yönergeler alırsınız. Yeni bir iş ortağı bulmayı veya geçmişte üzerinde çalıştığınız iş ortağını öğrenmek için, [Microsoft 365 iş ortağınızı veya satıcınızla](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)görüşün.
