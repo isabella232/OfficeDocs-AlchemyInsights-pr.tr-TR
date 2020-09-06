@@ -1,8 +1,8 @@
 ---
-title: Genişletme seçeneklerim nelerdir
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Uzatma seçeneklerim nelerdir
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5832"
-ms.openlocfilehash: e75243e24f609601e3f4d0014a318a55294be7a4
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.openlocfilehash: 20626d3759cddfbc818da687ce4eafe0c41c843f
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708157"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364751"
 ---
-# <a name="what-are-my-options-to-extend"></a>Genişletme seçeneklerim nelerdir?
+# <a name="what-are-my-options-to-extend"></a>Uzatma seçeneklerim nelerdir?
 
-Aboneliğin son kullanma tarihine ulaşmadan önce birkaç seçeneğiniz vardır:
+Abonelik fiili olarak sona erme tarihine ulaşmadan önce birkaç seçeneğiniz vardır:
 
-- **Deneme sürenizi genişletin.**  Microsoft 365'i değerlendirmek için daha fazla zamana mı ihtiyacınız var? Bazı durumlarda, [deneme sürenizi uzatabilirsiniz.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial?view=o365-worldwide)  
-- Abonelik için **yinelenen faturalandırmayı etkinleştirin.** Yinelenen faturalandırma zaten açıksa, herhangi bir işlem yapmak zorunda değilsiniz. Aboneliğiniz otomatik olarak faturalandırılır ve geçerli ödeme sıklığınıza bağlı olarak ek bir yıl veya ay için ücretlendirilirsiniz. Yinelenen faturalandırmayı herhangi bir nedenle kapattıysanız, [Yinelenen faturalandırmayı](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide)her zaman tekrar açabilirsiniz.
-- Microsoft 365 Apps'ı işletme için **ön ödemeli bir kartla**satın aldıysanız, aboneliğiniz için [Yinelenen faturalandırmayı açabilirsiniz.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide)
-- Ön ödemeli, bir yıllık aboneliği olan bir **Açık Toplu Lisanslama müşterisiyseniz,** yeni bir ürün anahtarı satın almak için eşinizle iletişime geçin. [Toplu LisansLama Hizmet Merkezi'nde](https://go.microsoft.com/fwlink/p/?LinkID=282016)anahtarınızı etkinleştirmek için e-posta yoluyla talimatlar alacaksınız. Yeni bir iş ortağını veya geçmişte birlikte çalıştığınız ortağı nasıl [bulacağınızı](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide)öğrenmek için bkz.
-- **İşletmeler için Microsoft 365 Uygulamaları**varsa, bkz. [Manage recurring billing for your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide)
+- **Deneme sürenizi uzatın**.  Microsoft 365’i değerlendirmek için daha fazla zamana mı ihtiyacınız var? Belirli durumlarda, [deneme sürenizi uzatabilirsiniz](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).  
+- Abonelik için** yinelenen faturalamayı etkinleştirin**. Yinelenen faturalama zaten etkinse, hiçbir işlem yapmanız gerekmez. Aboneliğiniz otomatik olarak faturalandırılır ve geçerli faturalama sıklığınıza bağlı olarak sizden ilave bir yıl veya ay için ücret alınır. Herhangi bir nedenle Yinelenen faturalamayı devre dışı bıraktıysanız, istediğiniz zaman [Yinelenen faturalamayı yeniden etkinleştirebilirsiniz](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+- İş için Microsoft 365 Uygulamaları aboneliğini bir **ön ödemeli kart** ile satın aldıysanız, aboneliğiniz için [Yinelenen faturalamayı etkinleştirebilirsiniz](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+- Önceden ödenmiş bir yıllık aboneliği olan bir **Open Toplu Lisans müşterisiyseniz**, iş ortağınıza başvurarak yeni bir ürün anahtarı satın alın. Anahtarınızı [Toplu Lisanslama Hizmet Merkezi](https://go.microsoft.com/fwlink/p/?LinkID=282016)’nde etkinleştirmeniz için gerekli yönergeler size e-postayla gönderilir. Yeni bir iş ortağı veya geçmişte çalıştığınız iş ortağını bulma konusunda bilgi edinmek için bkz. [İş ortağınızı veya kurumsal bayinizi bulma](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
+- **İş için Microsoft 365 Uygulamaları** aboneliğiniz varsa, bkz. [Aboneliğiniz için yinelenen faturalamayı yönetme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
