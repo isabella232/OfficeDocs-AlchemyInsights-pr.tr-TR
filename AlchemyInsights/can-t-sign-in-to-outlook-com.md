@@ -1,11 +1,12 @@
 ---
-title: 8000050 Outlook.com oturum açamıyorum
+title: 8000050 'da oturum Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -14,20 +15,20 @@ ms.custom:
 - "842"
 - "8000050"
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: 7b6fbc3e7667b8827c444b0b824ecb7f92bd75a8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c2406119592ea295f793570db4e95c43058e107e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711615"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683818"
 ---
-# <a name="i-cant-sign-in-or-forgot-my-password"></a>Oturum açamıyorum veya şifremi unuttum
+# <a name="i-cant-sign-in-or-forgot-my-password"></a>Parolamı oturum açamıyorum veya unuttum
 
-Başka bir hesapta oturum açarken sorun yaşıyorsanız, bazı olağandışı oturum açma etkinliği fark ettiğimiz için hesap geçici olarak engellenmiş olabilir. Hesabınız engellendiyse, [bkz. Outlook.com hesabımın engelini kaldır.](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy)
+Başka bir hesapta oturum açarken sorunlarla karşılaşıyorsanız, bazı olağan dışı oturum açma etkinliklerini fark etmemiz nedeniyle hesap geçici olarak engellenmiş olabilir. Hesabınız engellenirse, [Outlook.com hesabımın engellemesini kaldırma](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy)konusuna bakın.
   
-Parolanızı unuttuysanız, [parolanızı sıfırlayabilirsiniz.](https://go.microsoft.com/fwlink/p/?linkid=841909)
+Parolanızı unuttuysanız, [parolanızı sıfırlayabilirsiniz](https://go.microsoft.com/fwlink/p/?linkid=841909).
   
-Outlook.com hesabınızın ele geçirildiğini sanıyorsanız, [Outlook.com hesabımın ele geçirildiğini](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)görün.
+Outlook.com hesabınızın korsan gibi olduğundan şüpheleniyorsanız, [Outlook.com Hesabım](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)'a bakın.
   
-[Microsoft hesabınızda oturum açamadığınız zaman](https://go.microsoft.com/fwlink/p/?linkid=842227)hakkında daha fazla bilgi edinin.
+[Microsoft hesabınızda oturum açamıyorsanız](https://go.microsoft.com/fwlink/p/?linkid=842227)hakkında daha fazla bilgi edinin.
   

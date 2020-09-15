@@ -1,29 +1,30 @@
 ---
-title: Şirket adı çıkarma amortismanı
+title: Şirket adı ayıklama kullanımdan kalkma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: cf8535c82b6d1e6c16d1f2002836bb032cde2dc3
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: 8487ba5c0e3c00df9e25101c8086fbf34994480f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469356"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681028"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>SharePoint Online'da şirket adı çıkarmadeğişiklikleri
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>SharePoint Online 'da şirket adı ayıklamanın değişiklikleri
 
-15 Kasım 2019'dan itibaren [SharePoint Online'dan Şirket Adı Çıkarma'yı kaldıracağız.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) SharePoint'teki şirket adı ayıklama, arama sisteminin, önceden doldurulmuş bir sözlük kullanarak veya Şirket İçkileri veya Şirket Hariç Tutmalistelerini kullanarak belirli bir koşullar kümesi altında şirket adlarını içerikten ayıklamasına olanak tanır. Şirket adı ayıklama SharePoint Online'daki içerikten bir veya daha fazla şirket adı elde etmek için güvenilen bir çözüm haline gelmişolsa da, hem sözlük hem de temel özellik kümesi geçersiz hale gelmiştir.
+15 Kasım 2019 ' den itibaren, [SharePoint Online 'Dan şirket adı ayıklamasını kaldırıyoruz](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). SharePoint 'te şirket adı ayıklama, arama sisteminin, önceden girilmiş bir sözlük veya şirket Içermeler veya Şirket dışında tutma listelerini kullanarak belirli bir koşul altındaki içerikten şirket adlarını ayıklamasına olanak tanır. Şirket adı ayıklama özelliği, SharePoint Online 'daki içerikten bir veya birden çok şirket adı türetmeye yönelik çözüm nedeniyle, hem sözlük hem de temel alınan özellik kümesi eskidir.
 
-- [Bir özellik için şirket adı çıkarmanın etkinleştirilip etkinleştirilen olduğunu nasıl anlarım?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
+- [Şirket adı ayıklamanın özellik için etkinleştirilip etkinleştirilmediğini nasıl anlarım?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
-- [Şirket adı ayıklama amortismana girdiğinde ne olur?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
+- [Şirket adı ayıklama kullanım dışı olduğunda ne olur?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
 
-- [Şirket adı çıkarmanın alternatifleri var mı?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
+- [Şirket adı ayıklamanın alternatifleri var mı?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 

@@ -1,10 +1,11 @@
 ---
-title: Proje aboneliğini iptal et
+title: Proje aboneliğini iptal etme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 2389daa13aa08f394feded5c5cd67839e62734ff
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0a10e2de14bd42412097d94bb846b34db414cb00
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061654"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683543"
 ---
-# <a name="cancel-project-subscription"></a>Proje aboneliğini iptal et
+# <a name="cancel-project-subscription"></a>Proje aboneliğini iptal etme
 
-Yöneticiler, microsoft **365 yönetici merkezinden**kuruluşları için Proje aboneliğini iptal edebilir.
+Yöneticiler, **Microsoft 365 Yönetim Merkezi**'Nden kuruluşlarının proje aboneliğini iptal edebilir.
 
-1. ** [Ürünlerinizin](https://go.microsoft.com/fwlink/p/?linkid=842054) Faturalandırma >** sayfasına gidin.
+1. ** [Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfanıza >** gidin.
 
-2. İptal etmek için Proje Planını bulun.
+2. İptal edilecek proje planını bulun.
 
-3. **Aboneliği İptal'i**tıklatın.
+3. **Aboneliği Iptal et 'e**tıklayın.
 
-**Geri Ödeme: Herhangi bir eşit kredi bir sonraki faturalandırma döngüsü içinde size iade edilecektir.**
+**Geri ödeme: bir sonraki faturalama döngüsündeki eşit dağıtılmış kontör size iade edilecektir.**
 
-**Not**: İptal etme seçeneğini görmüyorsanız, ayrıntıları görüntülemek için aboneliği tıklatın ve Ayarlar **& Eylemleri'nde** **abonelik seçeneğini** görmeniz gerekir.
+**Not**: iptal etme seçeneğini göremiyorsanız, ayrıntıları görüntülemek için aboneliğe tıklayın ve **Ayarlar & eylemler**'de **aboneliği iptal et** seçeneğini görmelisiniz.
 
-Daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Daha fazla bilgi edinmek için [aboneliğinizi iptal](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)edin.

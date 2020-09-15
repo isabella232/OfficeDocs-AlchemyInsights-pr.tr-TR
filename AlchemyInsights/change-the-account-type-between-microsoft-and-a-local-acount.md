@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 322e53e2a4ecd48f84be90b48dc0270af993a849
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 2a353d83e341119b900d900c8c4a83bfba582f6d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796441"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681532"
 ---
-# <a name="change-the-account-type-that-you-sign-in-with"></a>Oturum açarak oturum açtın hesap türünü değiştirme
+# <a name="change-the-account-type-that-you-sign-in-with"></a>Oturum açarken kullandığınız hesap türünü değiştirme
 
-Windows 10'da oturum açmanız için kullandığınız hesap türünü şu şekilde değiştirebilirsiniz:
+Windows 10 ' da oturum açarken kullandığınız hesap türünü aşağıdaki şekilde değiştirebilirsiniz:
 
-1. **Başlangıç** > **Ayarları** > **Hesapları'nı****** > seçin Bilgileriniz .
-2. Bir e-posta adresine bağlı olmayan ancak Microsoft hesabı kullanmak isteyen yerel bir hesap kullanıyorsanız, **bunun yerine Microsoft hesabıyla oturum aç'ı'nı**seçin.
-3. Bir e-posta adresine bağlı ancak yerel bir hesap kullanmak isteyen bir Microsoft hesabı kullanıyorsanız, **bunun yerine yerel bir hesapla Oturum Aç'ı**seçin.
-4. Gerekirse parolanızı girin ve **sonra İleri'yi**seçin.
-5. Cihazınızı yeniden başlatın. Bir sonraki oturum açtığınızda, geçiş yaptığınız hesap gösterilir.
+1. Bilgilerinizi **Başlangıç**  >  **ayarları**  >  **hesapları**  >  **'nı**seçin.
+2. Bir e-posta adresine bağlı olmayan bir yerel hesap kullanıyorsanız ancak bir Microsoft hesabı kullanmak istiyorsanız, **bunun yerine Microsoft hesabıyla oturum aç**'ı seçin.
+3. Bir e-posta adresine bağlı bir Microsoft hesabı kullanıyorsanız ancak yerel bir hesap kullanmak istiyorsanız, **bunun yerine yerel hesapla oturum aç**'ı seçin.
+4. Gerekirse, parolanızı girin ve **İleri**'yi seçin.
+5. Cihazınızı yeniden başlatın. Bir sonraki oturum açışınızda, geçiş yaptığınız hesap görüntülenecektir.
