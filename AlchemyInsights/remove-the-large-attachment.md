@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,24 +14,24 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 382ce7702e4726457ec802d1eec658477505e44e
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 9ab6542d80ba62eb1640d0010d11ad6ae637ced9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569544"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701699"
 ---
 # <a name="remove-the-large-attachment"></a>Büyük eki kaldırma
 
-1. Outlook'ta, İşi Çevrimdışı **Gönder /**  >  **Work Offline**Al'ı seçin. 
-2. Gezinti bölmesinde Giden **Kutusu'nu**seçin. Buradan şunları yapabilirsiniz: 
-    - İletiyi silin (seçin ve sonra **Sil'i**seçin).
-    - İletiyi Taslaklar klasörünüze sürükleyin, açmak için çift tıklatın ve eki kaldırın seçin ve sonra **Sil'i**seçin).
-3. Outlook'un iletiyi iletmeye çalıştığını belirten bir hata alırsanız, Outlook'u kapatın. Çıkmak birkaç dakika sürebilir. Outlook kapanmazsa Ctrl+Alt+Sil tuşuna basın ve **Görev Yöneticisini Başlat'ı**seçin. Görev Yöneticisi'nde, **İşlemler** sekmesini seçin, outlook.exe'ye gidin ve **Son İşlem'i**seçin.
-4. Outlook kapandıktan sonra yeniden başlatın ve 2 ve 3 adımlarını yineleyin. 
-5. Eki kaldırdıktan sonra, çevrimiçi çalışmaya devam etmek için İşI Çevrimdışı **Gönder /Al'ı**  >  **Work Offline** tıklatın. 
+1. Outlook 'ta, **Send / Receive**  >  **Çevrimdışı çalış**/al 'ı seçin. 
+2. Gezinti bölmesinde **Giden kutusu**'nu seçin. Buradan şunları yapabilirsiniz: 
+    - İletiyi silin (seçip **Sil**'i seçin).
+    - İletiyi Taslaklar klasörünüze sürükleyin, açmak için çift tıklatın ve eki seçip **Sil**'i seçin.
+3. Outlook 'un iletiyi aktarmaya çalıştığı bir hata alırsanız, Outlook 'U kapatın. Çıkmak için birkaç dakika sürebilir. Outlook kapanmazsa CTRL + ALT + DELETE tuşlarına basın ve **Görev Yöneticisi 'Ni Başlat**'ı seçin. Görev Yöneticisi 'nde **işlemler** sekmesini seçin, outlook.exe için sayfayı aşağı kaydırın ve **İşlemi Sonlandır**'ı seçin.
+4. Outlook kapatıldıktan sonra yeniden başlatın ve 2 ile 3 arasındaki adımları yineleyin. 
+5. Eki kaldırdıktan sonra, **Send / Receive**  >  **Work Offline** çevrimiçi çalışmaya devam etmek için Gönder/Al 'ı tıklatın. 
 
-İletiler, **Gönder'i**tıklattığınızda giden kutuya da takılıp kalır, ancak bağlı değildir. **Gönder / Al'ı** tıklatın ve **Çevrimdışı İş** düğmesine bakın. Eğer maviyse, bağlantın kesilir. Bağlanmak için tıklatın (düğme beyaza döner) ve **Tümünü Gönder'e**tıklayın.
+**Gönder**'e tıkladığınızda Iletiler giden kutusu 'nda kalmış, ancak bağlı değilsiniz. **Gönder/Al** 'ı tıklatın ve **Çevrimdışı çalış** düğmesini tıklatın. Mavi ise bağlantınız kesilir. Bağlamak için tıklatın (düğme beyaz olur) ve **Tümünü Gönder**'e tıklayın.
  
  Tüm ayrıntılar için bkz:
-- [Video: Sıkışmış bir e-postayı gönderme veya silme](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [Video: kalmış e-posta gönderme veya silme](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
