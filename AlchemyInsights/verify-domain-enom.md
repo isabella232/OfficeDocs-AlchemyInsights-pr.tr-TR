@@ -1,26 +1,27 @@
 ---
-title: Etki alanınızı Google ile doğrulayın (eNom)
+title: Google ile etki alanınızı (eNom) doğrulama
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 5d01a1dc804640a22b7af9cdc36f733f40bff659
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: f8853e8ef5da1c06dfbd2b6c4cab7be63868ff8d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326478"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689398"
 ---
-# <a name="verify-your-domain-with-google-enom"></a>Etki alanınızı Google ile doğrulayın (eNom)
+# <a name="verify-your-domain-with-google-enom"></a>Google ile etki alanınızı (eNom) doğrulama
 
-Etki alanınızı doğrulamak için, etki alanınıza sahip olduğunuzu doğrulamak için etki alanı kayıt şirketinize bir TXT kaydı eklemeniz gerekir. 
+Etki alanınızı doğrulamak için, etki alanı kayıt şirketinize bir TXT kaydı ekleyerek etki alanınızın sahip olduğunuzu doğrulayın. 
 
-İlk olarak, **Ayarlar** \> **Etki Alanları**seçerek Etki [Alanı Ekle sihirbazını](https://portal.office.com/adminportal/home#/Domains) izleyin ve ardından etki alanı **ekleyin.**
+Öncelikle, [etki alanı ekleme Sihirbazı 'nı](https://portal.office.com/adminportal/home#/Domains) izleyerek **Ayarlar** \> **etki alanlarını**seçin ve sonra da **etki alanı ekleyin**.
   
-Bkz. Etki alanınız adım adım talimatlar için [Google (eNom) tarafından yönetildiğinde DNS kayıtları oluşturun.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-for-domain-managed-by-google-enom)
+Adım adım yönergeler için [etki alanınız Google (eNom) tarafından YÖNETILIYORSA DNS kayıtları oluşturma](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-for-domain-managed-by-google-enom) konusuna bakın.

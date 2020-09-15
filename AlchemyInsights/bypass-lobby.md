@@ -1,46 +1,47 @@
 ---
-title: Baypas lobisi
+title: Lobiyi atla
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
-ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
+ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40889102"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684970"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Kontrol lobisi ayarları ve Takımlara katılım düzeyi
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Ekipte ekip ayarlarını ve katılım düzeyini denetleme
 
-Çevirmeli, harici ve anonim kullanıcılar da dahil olmak üzere herkesin **lobiyi atlamasına**izin vermek istiyorsanız, bu görevi gerçekleştirmek için PowerShell'i kullanın. Aşağıda, kuruluşunuz için genel toplantı ilkesini değiştirmenin bir örneği verilmiştir.
+Arayarak bağlanılan, dış ve anonim kullanıcılar dahil herkese izin **vermek istiyorsanız,** bu görevi gerçekleştirmek için PowerShell kullanın. Kuruluşunuzun genel toplantı ilkesini değiştirme örneği aşağıdadır.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Bu cmdlet şu anda Skype for Business PowerShell modülü kullanımını gerektirir. Bu cmdlet'i kullanmak için kurulum yapmak için [PowerShell üzerinden yönetme politikalarına](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)göz atın.
+Bu cmdlet 'in şimdilik Skype Kurumsal PowerShell modülünü kullanması gerekir. Bu cmdlet 'i kullanacak şekilde ayarlamak için, [PowerShell aracılığıyla Ilkelerin yönetimini](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)inceleyin.
 
-Bir ilke ayarladıktan sonra, bu politikayı kullanıcılara uygulamanız gerekir; veya Genel politikayı değiştirdiyseniz, bu politika kullanıcılar için otomatik olarak geçerli olacaktır. Herhangi bir ilke değişikliği için, ilkelerin etkili olması için en az **4 saat ila 24 saat** beklemeniz gerekir. 
+Bir ilke ayarladıktan sonra kullanıcılara uygulamanız gerekir; veya genel ilkesini değiştirdiyseniz, otomatik olarak kullanıcılara uygulanır. Tüm ilke değişiklikleri için, ilkelerin geçerlilik kazanması en az **4 saat 24 saate kadar** beklemeniz gerekir. 
 
-Bunun tam olarak nelere izin verdiğini anlamak için bu değişiklikleri yapmadan önce aşağıdaki belgeleri gözden geçirdiğinizden emin olun.
+Bu değişikliklerin tam olarak nasıl izin verdiğini anlamak için aşağıdaki belgeleri gözden geçirmeyi unutmayın.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Lobi politikası denetimlerini karşılayan Ekipleri Anlama
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Ekip toplantısı toplantısı ilkesi denetimlerini anlama
 
-Bu ayarlar, toplantı katılımcılarının toplantıya kabul edilmeden önce lobide hangi toplantıyı beklediklerini ve toplantıya katılmalarına izin verilen katılım düzeyini kontrol altına almaktadır. PowerShell'i, Takımlar yönetici merkezinde henüz uygulanmamış ("yakında" olarak etiketlenmiş) toplantı ilkesi ayarlarını güncelleştirmek için kullanabilirsiniz. Tüm kullanıcıların lobiyi atlamasına izin veren bir örnek PowerShell cmdlet için aşağıya bakın.
+Bu ayarlar, toplantıya kabul edilmeden önce hangi toplantı katılımcılarının lobide beklediklerini ve toplantıda izin verilen katılım düzeyini denetler. Ekip yönetim merkezinde henüz uygulanmamış ("çok yakında" etiketlenen) toplantı ilkesi ayarlarını güncelleştirmek için PowerShell 'i kullanabilirsiniz. Tüm kullanıcıların lobiyi atlamasına olanak tanıyan örnek bir PowerShell cmdlet 'ini görün.
 
-- [İnsanların](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) doğrudan bir toplantıya katılıp katılmadıklarını veya kimlik doğrulaması yapılan bir kullanıcı tarafından kabul edilene kadar lobide bekleyip beklemediklerini kontrol eden bir düzenleyici başına ilke olduğunu otomatik olarak kabul edin.
+- [Kişiler otomatik olarak](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) , kişilerin bir toplantıya doğrudan katılıp katılmadığını ya da kimliği doğrulanmış bir kullanıcı tarafından kabul edilene kadar lobide beklemesini denetler.
 
-- [Anonim kişilerin toplantı başlatmasına izin vermek,](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) B2B ve federe kullanıcılar da dahil olmak üzere anonim kişilerin, kuruluşun kimliği doğrulanmış bir kullanıcısı olmadan kullanıcının toplantısına katılıp katılamadığını kontrol eden bir düzenleyici başına ilkedir.
+- [Anonim kişilerin toplantıyı başlatmalarına Izin verme](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) , B2B ve Federasyon kullanıcıları dahil olmak üzere anonim kişilerin Kullanıcı toplantısına, toplantıya katılımcı bir kullanıcı olmaksızın katılabilirler.
 
-- [Arayarak gelen kullanıcıların lobiyi atlamasına izin verin](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) **(yakında)** telefonla arayan kişilerin toplantıya doğrudan katılıp katılmadığını veya otomatik olarak **kabul** edilen kişileri otomatik olarak kabul etmelerine bakılmaksızın lobide bekleyip beklemediğini kontrol eden bir düzenleyici başına politikadır.
+- [Arayarak bağlanılan kullanıcıların lobiyi atlamasına izin ver](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (çok**yakında**) telefon ile arayarak bağlanan kişilerin toplantıya doğrudan katılmasını veya **otomatik olarak lobideki kişi** ayarını dikkate almaksızın lobide beklemesini denetleyen düzenleyici
 
-- [Organizatörlerin lobi ayarlarını geçersiz kılmasına izin vermek](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) **(yakında)** toplantı düzenleyicisinin, bir yöneticinin **otomatik olarak ayarlanan kişileri kabul** ettiği lobi ayarlarını geçersiz kılıp geçersiz kılıp geçersiz kılamayacağını kontrol eden ve arayarak gelen kullanıcıların yeni bir toplantı planladıklarında **lobiyi atlamalarına izin** veren bir ilkedir.
+- [Düzenleyicilerin lobma ayarlarını geçersiz kılmasına Izin ver](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (çok**yakında**), toplantıyı düzenleyenin, **kişiler için otomatik olarak** ayarlanan bir yöneticinin giriş ayarlarını geçersiz kılmasını ve arayarak bağlanılan kullanıcıların yeni bir toplantı zamanlarken **lobide atlamasına izin** verip vermediğini denetleyen bir düzenleyici politikadır.
 
-**Not:** Microsoft Teams toplantı ilkelerine tam bir genel bakış için [Ekipler'deki toplantı ilkelerini yönet'i](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) okuyun.
+**Not:** Microsoft ekipleri toplantı ilkelerine eksiksiz bir genel bakış için [ekipte toplantı Ilkelerini yönetin](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) bölümünü okuyun.

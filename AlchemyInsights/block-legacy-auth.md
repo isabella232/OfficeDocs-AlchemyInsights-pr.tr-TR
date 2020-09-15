@@ -5,30 +5,31 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: e7bff5f9fcf6f2f2c77e93c2f27f585f2cc18bea
-ms.sourcegitcommit: 98231a228ecb2bf14ec3b96d4dd4ccf2507617a3
+ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43079280"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685618"
 ---
-# <a name="blocking-legacy-authentication"></a>Eski kimlik doğrulamayı engelleme
+# <a name="blocking-legacy-authentication"></a>Eski kimlik doğrulama engelleniyor
 
-Eski kimlik doğrulaması, şu lar tarafından yapılan bir kimlik doğrulama isteğini ifade eden bir terimdir:
+Eski kimlik doğrulama, bir kimlik doğrulama isteğine başvuran bir terimdir:
 
-- Modern kimlik doğrulaması kullanmayan eski Office istemcileri (örneğin, Office 2010 istemcisi).
+- Modern kimlik doğrulama kullanmayan eski Office istemcileri (örneğin, Office 2010 istemcisi).
 
 - IMAP/SMTP/POP3 gibi eski posta protokollerini kullanan tüm istemciler.
 
-Eski kimlik doğrulamasını engelleme ve modern kimlik doğrulamayı etkinleştirme hakkında daha fazla bilgi için eski [kimlik doğrulamasını engelleme'ye](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)bakın.
+Eski kimlik doğrulamayı engelleme ve modern kimlik doğrulamayı etkinleştirme hakkında daha fazla bilgi için, [eski kimlik doğrulamasını engellemeye](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)bakın.
 
-Azure Etkin Dizini'ndeki (Azure AD) güvenlik varsayılanları, güvenli olmayı kolaylaştırır ve kuruluşunuzun korunmasına yardımcı olur. Güvenlik varsayılanları, sık yapılan saldırılar için önceden yapılandırılmış güvenlik ayarları içerir.
-Güvenlik varsayılanları hakkında daha fazla bilgi [için, güvenlik varsayılanları nelerdir?'](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) 
+Azure Active Directory 'deki güvenlik Varsayılanları (Azure AD) güvenli olmasını ve kuruluşunuzun korunmasına yardımcı olmasını kolaylaştırır. Güvenlik Varsayılanları, yaygın saldırılar için önceden yapılandırılmış güvenlik ayarlarını içerir.
+Güvenlik Varsayılanları hakkında daha fazla bilgi için [güvenlik Varsayılanları nelerdir?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)bölümüne bakın. 
 
-**Not**: Kiracınız 22 Ekim 2019 tarihinde veya sonrasında oluşturulduysa, yeni güvenli ve varsayılan davranışı yaşıyor olabilirsiniz ve kiracınızda zaten güvenlik varsayılanları etkinleştirilmiştir.  Tüm kullanıcılarımızı korumak amacıyla, güvenlik varsayılanları oluşturulan tüm yeni kiracılara dağıtılıyor.
+**Not**: kiracınız 22nd, 2019 tarihinde veya bu tarihten sonra oluşturulduysa, yeni güvenli-varsayılan davranışla karşılaşmanız ve zaten kiracınızda güvenlik Varsayılanları etkinleştirilmiş olabilir.  Tüm kullanıcılarımızı koruduğumuz bir çabayla, güvenlik Varsayılanları oluşturulan tüm yeni kiracıları alır.

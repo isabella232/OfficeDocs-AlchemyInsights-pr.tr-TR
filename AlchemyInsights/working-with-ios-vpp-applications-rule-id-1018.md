@@ -1,29 +1,30 @@
 ---
-title: iOS VPP Uygulamaları ile Çalışma Kural Id 1018
+title: İOS VPP uygulamalarıyla çalışma kuralı 1018
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: 88a1ef66bf337b3a0094976c122330591aee77ff
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 67800b261e7d670181b17783bc81e276d75026e0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719977"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688966"
 ---
-# <a name="working-with-ios-vpp-applications"></a>iOS VPP Uygulamaları ile Çalışma
+# <a name="working-with-ios-vpp-applications"></a>İOS VPP uygulamalarıyla çalışma
 
-Apple Toplu Satın Alma Programı'ndan ve Microsoft Intune'da bu programa yönelik destekten yararlanmak için microsoft [Intune ile toplu satın alma programı aracılığıyla satın alınan iOS uygulamalarını nasıl](https://docs.microsoft.com/intune/vpp-apps-ios) yönetebilirsiniz'i okuyun.
+Apple Volume Purchase programından ve Microsoft Intune 'da sağlanan desteği kullanmanın özelliklerini, kısıtlamalarını ve adımlarını öğrenmek için, [Microsoft Intune ile bir toplu satın alma programı aracılığıyla satın alınan iOS uygulamalarını yönetmeyi](https://docs.microsoft.com/intune/vpp-apps-ios) okuyun.
   
- **Sık Karşılaşılan Sorunlar:** "Kullanıcılarıma bir iOS VPP uygulaması atadim, ancak yükleme başarısız oldu."
+ **Sık karşılaşılan sorunlar:** "Kullanıcılarıma bir iOS VPP uygulaması atadım, ancak yükleme başarısız oldu."
   
-- Tek bir VPP belirteci birden çok mobil cihaz yönetim sağlayıcısında kullanılırsa bu durum olabilir. Apple'ın VPP belirteçleri yalnızca tek bir sağlayıcıda kullanılabilir. Birden çok sağlayıcıiçeren bir VPP belirteci kullandıysanız, belirteci Intune'a yeniden yüklemeniz gerekir.
+- Birden çok mobil cihaz yönetim sağlayıcısı genelinde tek bir VPP belirteci kullanılıyorsa bu olabilir. Apple 'dan alınan VPP belirteçleri yalnızca bir sağlayıcı ile kullanılabilir. Birden çok sağlayıcı içeren bir VPP belirteci kullandıysanız, belirteci Intune 'a yeniden yüklemelisiniz.
 
-- Toplam yükleme sayısı lisans sayısını aşarsa yükleme de başarısız olabilir. Lisanslarınız için kullanım raporunu görüntülemek için **Intune Mobile uygulamaları** \> **Uygulaması lisansları** sayfasına gidin. Kullanılan lisansları nasıl geri alacağız'u öğrenmek için [bu makaleye bakın.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
+- Toplam yükleme sayısı lisans sayısını aştığında de yükleme başarısız olabilir. Lisanslarınız için kullanım raporunu görüntülemek için **Intune mobil uygulamalar** \> **uygulama lisansları** sayfasına gidin. Lisansları kullanımda geri kazanma hakkında bilgi edinmek için [Bu makaleye bakın.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
