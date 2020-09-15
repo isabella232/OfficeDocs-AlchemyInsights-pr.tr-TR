@@ -6,26 +6,27 @@ manager: dougeby
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 1c95c7cc4e758d649717df25ecffb87650dff1c3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765973"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667646"
 ---
-# <a name="intune-insider-bug-filing"></a><span data-ttu-id="a3ee6-102">Intune Insider hata dosyalama</span><span class="sxs-lookup"><span data-stu-id="a3ee6-102">Intune Insider bug filing</span></span>
+# <a name="intune-insider-bug-filing"></a><span data-ttu-id="7e4c9-102">Intune Insider hata dosyalama</span><span class="sxs-lookup"><span data-stu-id="7e4c9-102">Intune Insider bug filing</span></span>
 
-<span data-ttu-id="a3ee6-103">Intune Insiders programına ilginiz için teşekkür ederiz.</span><span class="sxs-lookup"><span data-stu-id="a3ee6-103">Thank you for your interest in the Intune Insiders program.</span></span> <span data-ttu-id="a3ee6-104">Intune Insiders programı için zaten gemideyseniz ve bir destek isteği nde bulunmanız gerekiyorsa, o zaman:</span><span class="sxs-lookup"><span data-stu-id="a3ee6-104">If you're already onboarded for the Intune Insiders program, and need to file a support request, then:</span></span>
+<span data-ttu-id="7e4c9-103">Intune Insider programındaki ilgilendiğiniz için teşekkür ederiz.</span><span class="sxs-lookup"><span data-stu-id="7e4c9-103">Thank you for your interest in the Intune Insiders program.</span></span> <span data-ttu-id="7e4c9-104">Intune Insider programı için onboarded kullanıyorsanız ve bir destek isteği dosyalayabilmeniz gerekiyorsa:</span><span class="sxs-lookup"><span data-stu-id="7e4c9-104">If you're already onboarded for the Intune Insiders program, and need to file a support request, then:</span></span>
 
-1. <span data-ttu-id="a3ee6-105">Yukarıdaki alanda sorununuzu açıklayın.</span><span class="sxs-lookup"><span data-stu-id="a3ee6-105">Describe your issue in the field above.</span></span>
-2. <span data-ttu-id="a3ee6-106">Aşağıdaki seçenekleri kullanarak yeni bir hizmet isteği oluşturun.</span><span class="sxs-lookup"><span data-stu-id="a3ee6-106">Create a new service request using the options below.</span></span>
+1. <span data-ttu-id="7e4c9-105">Sorununuzu yukarıdaki alanda açıklayın.</span><span class="sxs-lookup"><span data-stu-id="7e4c9-105">Describe your issue in the field above.</span></span>
+2. <span data-ttu-id="7e4c9-106">Aşağıdaki seçenekleri kullanarak yeni bir hizmet isteği oluşturun.</span><span class="sxs-lookup"><span data-stu-id="7e4c9-106">Create a new service request using the options below.</span></span>
 
-<span data-ttu-id="a3ee6-107">Bir Intune destek mühendisi sizinle irtibata geçecektir.</span><span class="sxs-lookup"><span data-stu-id="a3ee6-107">An Intune support engineer will contact you.</span></span>
+<span data-ttu-id="7e4c9-107">Bir Intune destek mühendisi sizinle iletişim kuracaktır.</span><span class="sxs-lookup"><span data-stu-id="7e4c9-107">An Intune support engineer will contact you.</span></span>
 
-<span data-ttu-id="a3ee6-108">Intune Insiders programında değilseniz, ilginiz için teşekkür ederiz.</span><span class="sxs-lookup"><span data-stu-id="a3ee6-108">If you're not in the Intune Insiders program, thank you for your interest.</span></span> <span data-ttu-id="a3ee6-109">Şu anda yeni katılımcılar alamayacağız.</span><span class="sxs-lookup"><span data-stu-id="a3ee6-109">We're currently not recruiting new participants.</span></span>
+<span data-ttu-id="7e4c9-108">Intune Insider programında değilseniz, ilginizi aldığınız için teşekkür ederiz.</span><span class="sxs-lookup"><span data-stu-id="7e4c9-108">If you're not in the Intune Insiders program, thank you for your interest.</span></span> <span data-ttu-id="7e4c9-109">Şu anda yeni katılımcılar işe alınamadı.</span><span class="sxs-lookup"><span data-stu-id="7e4c9-109">We're currently not recruiting new participants.</span></span>
