@@ -1,33 +1,34 @@
 ---
-title: Posta Kutusu Kotası Aşıldı
+title: Posta kutusu kotası aşıldı
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 72449f1edff38ad0c7100da0d144b59f3072c1c3
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c0256ec8ff28b61b1c24d3c773c1ba7eb03cfcc1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579813"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695235"
 ---
-# <a name="mailbox-quota-exceeded"></a>Posta Kutusu Kotası Aşıldı
+# <a name="mailbox-quota-exceeded"></a>Posta kutusu kotası aşıldı
 
-Hesabınız için posta kutusu kotanızı aştınız. Daha iyi performans için gelen kutunuzun boyutunu küçültmek için atabileceğiniz birkaç adım vardır.
+Hesabınız için posta kutunuzun kotasını aştınız. Daha iyi performans için gelen kutunuzu küçültmek için gerçekleştirebileceğiniz birkaç adım vardır.
 
-1. Eski gelen kutusu öğelerini silin. Bunu uygulamada özel bir Kaydırma hareketi ayarlayarak hızlı bir şekilde yapabilirsiniz: **Kaydırma Seçenekleri > ayarlar.** Bu setle, temizlemek için gelen kutunuzda kolayca yolunuzu kaydırabilirsiniz.
+1. Eski gelen kutusu öğelerini silme. Özel bir çekme hareketi ayarlayarak bunu uygulamada hızlıca yapabilirsiniz: **seçenekler > çekme seçenekleri**. Bu ayarla sayesinde, bunu kaldırmak için gelen kutunuzdan kolayca erişebilirsiniz.
 
-2. Spam klasörlerinizi boşaltın. Doğrudan spam klasörlerinize gidin ve **boş spam**tuşuna basın.
+2. İstenmeyen posta klasörlerinizi boşaltın. Doğrudan istenmeyen posta klasörlerinize ve ardından **boş istenmeyen posta**'ya basın.
 
-3. Android'de, tek bir tıklamayla çöp klasörlerinizi boşaltabilirsiniz. Doğrudan çöp klasörünüze gidin ve **boş çöp kutusuna**basın. 
+3. Android 'de, çöp klasörlerinizi tek tıklamayla boşaltabilirsiniz. Doğrudan çöp klasörünüze ve ardından da **boş çöp**'ya basın. 
 
-4. Eklerinizi OneDrive'a kaydedin, böylece posta kutunuzda depolanırlar. Daha fazla bilgi için [Outlook.com depolama sınırlarına](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) bakın. 
+4. Ekleri OneDrive 'a kaydederek posta kutunuzda depolanmazlar. Daha fazla bilgi için [Outlook.com 'de depolama sınırlarına](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) bakın. 
 
-Microsoft 365 kullanıcısıysanız, BT yöneticinizden posta kutusu artışı da isteyebilirsiniz.
+Microsoft 365 kullanıcısıysanız, BT yöneticinizden da posta kutusu artışı isteyebilirsiniz.

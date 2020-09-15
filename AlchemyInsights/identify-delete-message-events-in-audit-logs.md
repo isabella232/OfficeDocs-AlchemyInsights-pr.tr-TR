@@ -1,38 +1,39 @@
 ---
-title: Denetim günlüklerinde ileti olaylarını silme'yi tanımlama
+title: Denetim günlüklerinde ileti etkinliklerini silme
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 641c0216491186aeb423a13854c6b39ee005e5df
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bc78076706aee15a3133c4b1a89064591f790b58
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509008"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696533"
 ---
-# <a name="audit-logs-for-deleted-email-messages"></a>Silinen e-posta iletileri için denetim günlükleri
+# <a name="audit-logs-for-deleted-email-messages"></a>Silinen e-posta iletilerinin günlüklerini denetleme
 
-Ocak 2019'dan itibaren Microsoft varsayılan olarak posta kutusu denetim günlüğe kaydetmeyi açıyor. Aksi takdirde, belirli bir kullanıcı için ileti olayları silme gözden geçirmek için, denetim için silme eylemleri el ile etkinleştirmek gerekir. Kuruluşunuz veya belirli bir kullanıcı için posta kutusu denetim günlüğü zaten etkinse, aşağıdaki adımları izleyin.
+2019 Ocak tarihinde başlayarak varsayılan olarak posta kutusu denetim günlüğü açılıyor. Başka türlü, belirli bir kullanıcının ileti etkinliklerini gözden geçirmek için, denetim için silme eylemlerini el ile etkinleştirmeniz gerekir. Kuruluşunuz için posta kutusu denetim günlüğü zaten etkinleştirilmişse veya belirli bir kullanıcı için aşağıdaki adımları izleyin.
 
-1. [Microsoft 365 Güvenlik & Uyumluluk Merkezi'nde](https://protection.office.com/) oturum açın
+1. [Microsoft 365 güvenlik & Uyumluluk Merkezi](https://protection.office.com/) 'nde oturum açma
 
-2. **Arama ve Araştırma'yı** tıklatın ve **Denetim Günlüğü Arama'yı**seçin.
+2. **Arama ve araştırma** 'ya tıklayın ve **Denetim günlüğü araması**'nı seçin.
 
-3. **Başlangıç tarihi** ve Bitiş **tarihi** alanlarındaki tarih aralığını seçin. Araştırmak istediğiniz kullanıcı (öğeleri silen kullanıcı) için kullanıcı adı belirtin. **Etkinlikler** alanında, **Silinmiş Öğeler klasöründen Silinmiş iletileri** ve **Silinmiş Öğeler klasörüne taşınan iletileri**seçin.
+3. **Başlangıç tarihi** ve **bitiş tarihi** alanlarında tarih aralığını seçin. Araştırmak istediğiniz kullanıcı için Kullanıcı adını belirtin (öğeleri silmiş olan Kullanıcı). **Etkinlikler** alanında, **Silinmiş Öğeler klasöründen silinmiş iletiler** 'ı seçin ve **iletileri Silinmiş Öğeler klasörüne taşındı**.
 
-4. **Arama'yı**tıklatın.
+4. **Ara**'ya tıklayın.
 
-Sonuçlarda, bir denetim kaydı seçin. Ayrıntılarflyout, daha **fazla bilgi**tıklatın. Silinen öğe yle ilgili ek bilgiler (örneğin, konu satırı ve silindiğinde öğenin konumu) **Etkilenen Öğeler** alanında görüntülenir. **ClientInfoString** özelliği silme outlook, Outlook web (eski Outlook Web App olarak da bilinir) veya başka bir aygıtta oluştu gösterir.
+Sonuçlarda bir denetim kaydı seçin. Ayrıntılar açılır listesinde, **ek bilgi**'yi tıklatın. Silinmiş öğe hakkındaki ek bilgileri (örneğin, konu satırı ve silindiğinde öğenin konumu) **AffectedItems** alanında görüntülenir. **Clıtinfostring** özelliği, silme işleminin Outlook, Web üzerinde Outlook (önceki adıyla Outlook Web App) veya başka bir cihazdan silinmesi durumunda gösterilir.
 
-Daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
+Daha fazla bilgi için, [posta kutusu için e-posta iletmeyi kimlerin görebileceğini belirleme](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)konusuna bakın.
 
-**Not**: Denetim günlüğü özelliğini kullanarak silinen öğeleri alamazsınız. Web'de Outlook'ta silinen iletileri almak için [bkz.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)
+**Not**: denetim günlüğü özelliğini kullanarak silinmiş öğeleri alamazsınız. Web üzerinde Outlook 'ta silinmiş iletileri almak için, [Outlook Web App 'te silinmiş öğeleri kurtarma](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)konusuna bakın.
