@@ -1,9 +1,10 @@
 ---
-title: Dynamics CRM İthalat Çözümleri
+title: Dynamics CRM, çözümleri Içeri aktarma
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -11,22 +12,22 @@ ms.custom:
 - "1077"
 - "1078"
 - "6200003"
-ms.openlocfilehash: 0c705cda207c7696840a2cb1c773c643c60814b5
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b27dc0251ac89fa6e47744ac42ba9a95c8568c21
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528463"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711187"
 ---
-# <a name="dynamics-crm-import-solutions"></a><span data-ttu-id="5210e-102">Dynamics CRM İthalat Çözümleri</span><span class="sxs-lookup"><span data-stu-id="5210e-102">Dynamics CRM Import Solutions</span></span>
+# <a name="dynamics-crm-import-solutions"></a><span data-ttu-id="27752-102">Dynamics CRM, çözümleri Içeri aktarma</span><span class="sxs-lookup"><span data-stu-id="27752-102">Dynamics CRM Import Solutions</span></span>
 
-* [<span data-ttu-id="5210e-103">Bağımlılıklar nedeniyle çözüm silinemez</span><span class="sxs-lookup"><span data-stu-id="5210e-103">Solution cannot be deleted due to dependencies</span></span>](https://support.microsoft.com/help/4345785/solution-cannot-be-deleted-due-to-dependencies-from-other-components-i)
+* [<span data-ttu-id="27752-103">Bağımlılıklar nedeniyle çözüm silinemiyor</span><span class="sxs-lookup"><span data-stu-id="27752-103">Solution cannot be deleted due to dependencies</span></span>](https://support.microsoft.com/help/4345785/solution-cannot-be-deleted-due-to-dependencies-from-other-components-i)
 
-* [<span data-ttu-id="5210e-104">Derleme sürüm hatası alma çözümü</span><span class="sxs-lookup"><span data-stu-id="5210e-104">Assembly version error importing solution</span></span>](https://support.microsoft.com/help/4345239/assembly-version-error-importing-dynamics-365-solution)
+* [<span data-ttu-id="27752-104">Çözüm almada hata oluştu çözüm</span><span class="sxs-lookup"><span data-stu-id="27752-104">Assembly version error importing solution</span></span>](https://support.microsoft.com/help/4345239/assembly-version-error-importing-dynamics-365-solution)
 
-* [<span data-ttu-id="5210e-105">İş Süreci hatasını dışa aktarmada başarısız oldu</span><span class="sxs-lookup"><span data-stu-id="5210e-105">Failed to export Business Process error</span></span>](https://support.microsoft.com/help/4337537/invalid-export-business-process-entity-missing)
+* [<span data-ttu-id="27752-105">Iş süreci dışarı aktarılamadı</span><span class="sxs-lookup"><span data-stu-id="27752-105">Failed to export Business Process error</span></span>](https://support.microsoft.com/help/4337537/invalid-export-business-process-entity-missing)
 
-* [<span data-ttu-id="5210e-106">Aynı anda başka bir çözümün yüklenmesi veya kaldırılması nedeniyle çözüm yükleme veya kaldırma başarısız oldu</span><span class="sxs-lookup"><span data-stu-id="5210e-106">Solution installation or removal failed due to the installation or removal of another solution at the same time</span></span>](https://support.microsoft.com/help/4343228/the-solution-installation-or-removal-failed-due-to-the-installation-or)
+* [<span data-ttu-id="27752-106">Başka bir çözümün aynı anda yüklenmesi veya kaldırılması nedeniyle çözüm yüklemesi veya kaldırılması başarısız oldu</span><span class="sxs-lookup"><span data-stu-id="27752-106">Solution installation or removal failed due to the installation or removal of another solution at the same time</span></span>](https://support.microsoft.com/help/4343228/the-solution-installation-or-removal-failed-due-to-the-installation-or)
 
-* [<span data-ttu-id="5210e-107">Tercih edilen bir çözümü yükleme, güncelleştirme veya kaldırma</span><span class="sxs-lookup"><span data-stu-id="5210e-107">Install, update, or remove a preferred solution</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution)
+* [<span data-ttu-id="27752-107">Tercih edilen çözümü yükleme, güncelleştirme veya kaldırma</span><span class="sxs-lookup"><span data-stu-id="27752-107">Install, update, or remove a preferred solution</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution)
   
