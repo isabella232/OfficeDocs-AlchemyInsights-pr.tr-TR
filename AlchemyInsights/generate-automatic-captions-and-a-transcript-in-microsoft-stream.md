@@ -1,27 +1,28 @@
 ---
-title: Microsoft Stream'de otomatik altyazılar ve transkript oluşturma
+title: Microsoft Stream 'de otomatik açıklamalı altyazı ve bir döküm oluşturma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: 2be38095a627c03cdf85f4d00f31c61491198068
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42409186"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707803"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Microsoft Stream'de otomatik altyazılar ve transkript oluşturma
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Microsoft Stream 'de otomatik açıklamalı altyazı ve bir döküm oluşturma
 
-Akış, Otomatik Konuşma Tanıma teknolojisini kullanarak otomatik olarak altyazı oluşturabilir ve bir videonun konuşulan içeriğiyle kolayca gezinmek ve takip etmek için kaydırma lı bir transkript penceresini görüntüleyebilirsiniz.
+Akış otomatik konuşma tanıma teknolojisini kullanarak otomatik olarak resim yazıları oluşturabilir ve bir videonun konuşulan içeriğiyle birlikte kolayca gezinmek ve izlemek için bir kaydırma dökümü penceresi görüntüleyebilirsiniz.
 
-- [Microsoft Stream videolarınız için otomatik altyazılar ve transkript oluşturma](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Microsoft Stream videolarınız için otomatik açıklamalı altyazı ve bir dökümü oluşturma](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Microsoft Stream'de bir video için kaydırma transkript penceresi gösterme](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Microsoft Stream 'de video için kaydırma dökümü penceresi gösterme](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
