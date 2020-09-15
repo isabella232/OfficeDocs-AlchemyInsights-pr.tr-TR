@@ -1,26 +1,27 @@
 ---
-title: Dreamhost ile etki alanınızı doğrulayın
+title: Dreamhost ile etki alanınızı doğrulama
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: c6ebac44d800483bfb03fe5997dfb17844ac2f15
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d44d0bd3eefe0c50e05bff0dab1f3515a1e6ffc2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766261"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669051"
 ---
-# <a name="verify-your-domain-with-dreamhost"></a>Dreamhost ile etki alanınızı doğrulayın
+# <a name="verify-your-domain-with-dreamhost"></a>Dreamhost ile etki alanınızı doğrulama
 
-Etki alanınızı doğrulamak için, etki alanınıza sahip olduğunuzu doğrulamak için etki alanı kayıt şirketinize bir TXT kaydı eklemeniz gerekir. 
+Etki alanınızı doğrulamak için, etki alanı kayıt şirketinize bir TXT kaydı ekleyerek etki alanınızın sahip olduğunuzu doğrulayın. 
 
-İlk olarak, **Ayarlar** \> **Etki Alanları**seçerek Etki [Alanı Ekle sihirbazını](https://portal.office.com/adminportal/home#/Domains) izleyin ve ardından etki alanı **ekleyin.**
+Öncelikle, [etki alanı ekleme Sihirbazı 'nı](https://portal.office.com/adminportal/home#/Domains) izleyerek **Ayarlar** \> **etki alanlarını**seçin ve sonra da **etki alanı ekleyin**.
   
-Bkz. Adım adım talimatlar [için Microsoft 365 için Dreamhost'ta DNS kayıtları oluşturun.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost)
+Adım adım yönergeler için [365 Dreamhost adresınde DNS kayıtları oluşturma](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) konusuna bakın.

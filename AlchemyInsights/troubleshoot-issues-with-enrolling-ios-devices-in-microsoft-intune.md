@@ -1,39 +1,40 @@
 ---
-title: iOS aygıtlarını Microsoft Intune'a kaydetme yle ilgili sorun giderme sorunları
+title: Microsoft Intune 'da iOS cihazlarını kaydetme sorunlarını giderme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 664c18daca5d8e0ad4a88f41db3ff0dbced606e5
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7d3e0049258a77016250c8a657c8fbcaf8d65212
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43736178"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669268"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>iOS aygıtlarını Microsoft Intune'a kaydetme yle ilgili sorun giderme sorunları
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Microsoft Intune 'da iOS cihazlarını kaydetme sorunlarını giderme
 
 Sorununuzu şimdi çözmek için aşağıda listelenen kaynakları gözden geçirin. 
   
 Bazı yaygın hata iletileri ve çözüm adımları:
   
-- **Cihaz Kapağına Ulaşıldı** Kullanıcı, aygıt sınırından daha fazla aygıt alabilenir. [Aygıtı kaldırmak](https://docs.microsoft.com/intune/devices-wipe) veya aygıt [sınırını değiştirmek](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)için bu belgeleri gözden geçirin.
+- **Cihaz Cap 'e ulaşıldı** Kullanıcının cihaz sınırından daha fazla kayıtlı cihazı var. [Cihazı kaldırmak](https://docs.microsoft.com/intune/devices-wipe) veya [cihaz sınırını değiştirmek](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)için bu belgeleri gözden geçirin.
     
-- **Bu Hizmet desteklenmez. Kayıt Politikası Yok:** Apple Push Bildirim Hizmeti'nin (APNS) yapılandırılması veya yenilenmesi gerekir. Bunun nasıl yapılacağını anlatan talimatlar için [bu belgeyi](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) gözden geçirin. 
+- **Bu hizmet desteklenmiyor. Kayıt Ilkesi yok:** Apple anında bildirim hizmeti (APNs) yapılandırılmalı veya yenilenmelidir. Bunun nasıl yapıldığını açıklayan yönergeler için [Bu belgeyi](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) inceleyin. 
     
-- **Kullanıcı Lisans Türü Geçersiz veya Kullanıcı Adı Tanınmadı:** Kullanıcıya bir Intune veya EMS lisansı atanması gerekir. Lisans atamak için bu belgeleri gözden [geçirin: Office Yönetici Merkezi](https://docs.microsoft.com/intune/licenses-assign) veya [Azure portalı.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
+- **Kullanıcı Lisans türü geçersiz veya Kullanıcı adı tanınmadı:** Kullanıcıya bir Intune veya EMS lisansı atanmalıdır. [Office Yönetim Merkezi](https://docs.microsoft.com/intune/licenses-assign) veya [Azure Portal](https://docs.microsoft.com/azure/active-directory/license-users-groups)aracılığıyla lisans atamak için bu belgeleri gözden geçirin.
     
-Sorununuzu çözmeye yardımcı olacak ek kaynaklar:
+Sorununuzu çözmek için ek kaynaklar:
   
-1. Sık karşılaşılan kayıt hatalarını tanılamak ve gidermek için [Intune Sorun Giderme Portalı'nı](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) kullanın. Daha fazla ayrıntı için [bu belgeyi](https://docs.microsoft.com/intune/help-desk-operators) gözden geçirin. 
+1. Yaygın kayıt hatalarını tanılamak ve çözmek için [Intune sorun giderme portalı](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) 'nı kullanın. Daha fazla ayrıntı için [Bu belgeyi](https://docs.microsoft.com/intune/help-desk-operators) inceleyin. 
     
-2. Bu belgeleri, her birine kaydolmasını ve çözümlerini engelleyen yaygın hataların bir listesi için gözden geçirin: [Sorun Giderme kılavuzu](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) ve [Sorun Giderme dokümanı.](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
+2. Her biri için kayıt ve çözünürlüğe engel olan yaygın hataların listesi için bu belgeleri gözden geçirin: [sorun giderme kılavuzu](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) ve [belge sorunlarını giderme](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
     
-3. [iOS aygıtlarını Microsoft Intune'a nasıl kaydedebilirsiniz öğrenin.](https://docs.microsoft.com/intune/ios-enroll)
+3. [Microsoft Intune 'Da iOS cihazlarını kaydettirme hakkında bilgi edinin](https://docs.microsoft.com/intune/ios-enroll).
     
 

@@ -1,5 +1,5 @@
 ---
-title: Parola Eşitleme Durumu Nasıl Kontrol Yapılır?
+title: Parola eşitleme durumunu denetleme
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765613"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665666"
 ---
-# <a name="enable-password-sync"></a>Parola Eşitlemesini Etkinleştir
+# <a name="enable-password-sync"></a>Parola eşitlemeyi etkinleştir
 
-1.  Microsoft 365 yönetici merkezi ana sayfasında **DirSync Durumu'nu** seçin. 
+1.  Microsoft 365 Yönetim Merkezi giriş sayfasında **DirSync durumu** 'nu seçin. 
     
-     *Alternatif olarak, **Users** \> **Active kullanıcılarına**ve Etkin kullanıcılar sayfasında **Daha Fazla** \> **Dizin eşitlemesi'ni seçebilirsiniz.*** 
+     *Alternatif olarak, **Kullanıcılar** \> **etkin kullanıcılarına**gidebilir ve etkin kullanıcılar sayfasında **daha fazla** \> **Dizin eşitlemesi seçebilirsiniz.*** 
     
-2. Dizin Eşitleme bölmesine, **DirSync yönetimine git'i**seçin. 
+2. Dizin eşitleme bölmesinde **DirSync yönetimine git**'i seçin. 
     
-3. Şimdi durumunuzu göreceksiniz ve değişiklikler yapacaksınız:
+3. Şimdi durumunuzu görebilir ve değişiklikler yapabilirsiniz:
     
-    **Parola eşitleme etkin:** (Doğru veya Yanlış). Şirket içi ve kiracınız arasında parola eşitleme etkin olup olmadığını belirtir. 
+    **Parola eşitlemesi etkinleştirildi:** (doğru veya yanlış). Şirket içi ve kiracınız arasında parola eşitleme özelliğinin etkinleştirilip etkinleştirilmediğini belirtir. 
     
-    **Son Parola Eşitleme:** (Son kez parola eşitleme çalıştırıla). Bu, son eşitleme üç günden uzun bir süre önceyse, bir uyarı ve sorun giderme aracına bağlantı görüntüler. 
+    **Son parola eşitleme:** (parola eşitleme son kez çalıştırıldı). Bu, son eşitleme üç günden uzun süre önce olduğunda bir uyarı ve sorun giderme aracının bağlantısını gösterecektir. 
     
 

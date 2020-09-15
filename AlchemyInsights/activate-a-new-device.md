@@ -1,29 +1,30 @@
 ---
-title: Yeni bir aygıtı etkinleştirme
+title: Yeni bir cihazı etkinleştirme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: a0e1d87620265f1bba133b571aa218bec3163366
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39625900"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668402"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>Windows 10 çalıştıran yeni bir aygıtı etkinleştirme
+# <a name="activating-a-new-device-running-windows-10"></a>Windows 10 çalıştıran yeni bir cihazı etkinleştirme
 
-Windows 10 çalıştıran yeni bir aygıt satın aldıysanız, cihazınızı Internet'e bağladığınızda otomatik olarak etkinleştirilir. Etkinleştirme sunucuları meşgulse, Windows'un etkinleştirilmesi için bir süre beklemeniz gerekebilir.
+Windows 10 çalıştıran yeni bir cihaz satın aldıysanız, cihazınızı Internet 'e bağladığınızda otomatik olarak etkinleştirilir. Etkinleştirme sunucuları meşgulse, Windows için bir süre beklemeniz gerekebilir.
 
-Etkinleştirme durumunu kontrol **** > etmek için, Güvenlik > Etkinleştirme & Ayarlar**Güncelleştirmeyi** **Başlat'ı** seçin.****
+Etkinleştirme durumunu denetlemek için, **Start** **Settings**  >  **güvenlik etkinleştirme &** başlangıç ayarları güncelleştirme 'yi seçin  >  **Activation**.
 
-**Not:** Bazı durumlarda, aygıt ambalajıyla birlikte gelen veya kart olarak veya aygıta bağlı Orijinallik Sertifikası'na (COA) eklenen Windows 10 ürün anahtarını girmeniz gerekebilir.
+**Not:** Bazı durumlarda, cihaz paketiyle birlikte gelen veya bir kart ya da cihaza bağlı Orijinallik Sertifikası (COA) ile birlikte gelen Windows 10 ürün anahtarını girmeniz gerekebilir.
 
-[Windows 10'da etkinleştirme hakkında daha fazla bilgi edinin](https://support.microsoft.com/help/12440)
+[Windows 10 ' da etkinleştirme hakkında daha fazla bilgi edinin](https://support.microsoft.com/help/12440)

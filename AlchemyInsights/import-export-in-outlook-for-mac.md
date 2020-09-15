@@ -1,11 +1,12 @@
 ---
-title: mac için içe aktarma-dışa aktarma
+title: İçeri aktarma-Mac için Outlook-in-Office
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,27 +14,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 524053a53a8390253259c3edae71a7a60995c8ce
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7ce37e2ea3efbc762d5298311eac6054d238224c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724750"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667934"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Mac için Outlook'ta Alma/Dışa Aktarma 
+# <a name="importexport-in-outlook-for-mac"></a>Mac için Outlook 'ta içeri/dışarı aktarma 
 
-Ihracat:
-1. **Araçlar** sekmesinde **Dışa Aktar'ı**seçin.
-2. **Sık Kullanılanlar'ın**altında **Kaydet** **kutusunda, İndirilenler** klasörünü seçin ve **Kaydet'i**seçin.
-3. Dışa aktarmanın tamamolduğuna dair bildirimi **gördüğünüzde, Finish'i**seçin.
+Dışarı aktarma
+1. **Araçlar** sekmesinde **dışarı aktar**'ı seçin.
+2. **Farklı kaydet** kutusunda, **Sık Kullanılanlar**'ın altında **indirmeler** klasörünü seçin ve **Kaydet**'i seçin.
+3. Dışarı aktarma işleminin tamamlandığını belirten bildirimi gördüğünüzde **, tamamlandı 'yı seçin.**
 
-Ithalat:
-1. **Araçlar** sekmesinde, **İçe Aktar'ı**seçin.
-2. **Windows arşiv dosyası için Outlook'u seçin (.pst)** > Devam**et.**
-3. Mac'inizde .pst dosyasını bulun ve sonra **Içe Aktar'ı**seçin.
-4. Alma işlemi **tamamlandığında, Finish'i**seçin.
-5. İçe aktarılan öğeler **Bilgisayarım'ın**altındaki gezinti bölmesinde görünür.
+Aktarılacağı
+1. **Araçlar** sekmesinde **içeri aktar**'ı seçin.
+2. **Windows için Outlook arşiv dosyasını (. pst)** seçin  >  **Continue**.
+3. Mac 'inizde. pst dosyasını bulun ve **Içeri aktar**'ı seçin.
+4. İçeri aktarma işlemi tamamlandığında **bitti**'yi seçin.
+5. Alınan öğeler **, bilgisayarımdaki gezinti bölmesinde görüntülenir.**
 
-Mac için Outlook için İçe Aktarma ve Dışa Aktarma yönergelerinin tam kümesi için [Bkz. Outlook e-postası, kişileri ve takvimi.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac) 
+Mac için Outlook 'Ta tam Içeri ve dışarı aktarma yönergeleri için [Outlook e-postasını, kişilerini ve takvimini içeri ve dışarı](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)aktarma konusuna bakın. 
 
-Mac sorunları için Outlook için uygulama içi destek almak için Outlook'u açın ve **Yardım** > **Kişi Desteği'ni**seçin. Sorunuz yazın ve Mac için Outlook destek ekibinin bir üyesi sizinle iletişime geçsin. [Mac için Outlook'ta desteğe başvurun](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Mac için Outlook 'un uygulama içi desteği almak üzere, Outlook 'u açın ve **Help**  >  **Destek hizmetlerine**yardım et 'i seçin. Sorunuzu ve Mac için Outlook destek ekibinin bir üyesini yazın. [Mac için Outlook 'ta desteğe başvurma](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)

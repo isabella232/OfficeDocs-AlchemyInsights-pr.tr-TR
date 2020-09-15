@@ -6,26 +6,27 @@ manager: dougeby
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 1c95c7cc4e758d649717df25ecffb87650dff1c3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765973"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667646"
 ---
 # <a name="intune-insider-bug-filing"></a>Intune Insider hata dosyalama
 
-Intune Insiders programına ilginiz için teşekkür ederiz. Intune Insiders programı için zaten gemideyseniz ve bir destek isteği nde bulunmanız gerekiyorsa, o zaman:
+Intune Insider programındaki ilgilendiğiniz için teşekkür ederiz. Intune Insider programı için onboarded kullanıyorsanız ve bir destek isteği dosyalayabilmeniz gerekiyorsa:
 
-1. Yukarıdaki alanda sorununuzu açıklayın.
+1. Sorununuzu yukarıdaki alanda açıklayın.
 2. Aşağıdaki seçenekleri kullanarak yeni bir hizmet isteği oluşturun.
 
-Bir Intune destek mühendisi sizinle irtibata geçecektir.
+Bir Intune destek mühendisi sizinle iletişim kuracaktır.
 
-Intune Insiders programında değilseniz, ilginiz için teşekkür ederiz. Şu anda yeni katılımcılar alamayacağız.
+Intune Insider programında değilseniz, ilginizi aldığınız için teşekkür ederiz. Şu anda yeni katılımcılar işe alınamadı.
