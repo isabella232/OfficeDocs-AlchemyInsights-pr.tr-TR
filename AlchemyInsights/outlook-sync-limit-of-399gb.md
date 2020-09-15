@@ -1,25 +1,26 @@
 ---
-title: Outlook eşitleme sınırı 3,99 GB
+title: 3,99 GB 'lik Outlook Eşitleme sınırı
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1773"
 - "9000169"
-ms.openlocfilehash: 7258056215713b5e6840f9d732f6b386db74574e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 07a87b1f672108ed1dd8ff76cc7e571b0138314f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743257"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702095"
 ---
-# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Outlook eşitleme durumu çubuğu 3,99 GB'da kalır
+# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Outlook eşitleme durum çubuğu 3,99 GB 'da kalıyor
 
-Klasör içeriğinin boyutunu küçültmeyi deneyin veya 4 GB'a yakın büyük klasörler için bir eşitleme filtresi oluşturun.
+Klasör içeriğinin boyutunu azaltmayı deneyin veya 4 GB veya daha büyük klasörler için bir eşitleme filtresi oluşturun.
 
-Bkz. Durum çubuğu ilerleme daha [fazla bilgi için büyük klasörlerin](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial)ilk Eşitleme kalan 3,99 GB'dan fazla asla göstermez.
+[Daha fazla bilgi için, büyük klasörlerin Ilk eşitlenmesi](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial)SıRASıNDA 3,99 GB 'den fazla
