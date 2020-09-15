@@ -1,26 +1,27 @@
 ---
-title: Yönetilen Meta veri hizmeti hata iletisi
+title: Yönetilen meta veri hizmeti hata iletisi
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 5bdea7c1c0e74ca622fc4c5d5595cc5dada3c5e0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 255fd52e0bd63f282613f3fb07240a5530738506
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762517"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662885"
 ---
-# <a name="managed-metadata-service-error-message"></a>Yönetilen Meta veri hizmeti hata iletisi
+# <a name="managed-metadata-service-error-message"></a>Yönetilen meta veri hizmeti hata iletisi
 
-Terim Deposu'nu açtığınızda, bir hata iletisi görebilirsiniz: "Yönetilen Meta Veri Hizmeti veya Bağlantısı şu anda kullanılamıyor. Uygulama Havuzu veya Yönetilen Meta veri Web Hizmeti başlatılmış olmayabilir. Lütfen Yöneticinizle Başvurun."
+Terim deposunu açtığınızda bir hata iletisi görebilirsiniz: "yönetilen meta veri hizmeti veya bağlantısı şu anda kullanılamıyor. Uygulama havuzu veya yönetilen meta veri Web hizmeti başlatılmamış olabilir. Lütfen yöneticinize başvurun. "
   
-Bu sorunu ilk gördüğünüzden bu yana 24 saatten fazla zaman geçtiyse, lütfen bir destek örneğini kaydedin. 24 saatin uzun bir zaman gibi görünebileceğini biliyoruz. Çoğu durumda, biz zaten bir çözüm üzerinde çalışıyoruz bu yüzden bize en az 24 saat verin lütfen.
+Bu sorunu ilk kez gördüğünüzde 24 saatten uzun bir süreyi geçmişse, lütfen bir destek örneğini günlüğe kaydeder. 24 saatin uzun süre gibi görünebilir olduğunu anlıyoruz. Birçok durumda halen bir çözüm üzerinde çalışıyoruz, lütfen bize en az 24 saat verin.
   

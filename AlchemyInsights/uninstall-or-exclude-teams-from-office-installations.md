@@ -1,31 +1,32 @@
 ---
-title: Ekipler'i Office yüklemelerinden kaldırma veya hariç tutma
+title: Office yüklemelerinden ekipleri kaldırma veya çıkarma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: b6613733e743e08a9b18b1ada70fde164b0d5dc3
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 22d69db749671afdfe7a809d1bc598e2ad1891d8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010337"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658241"
 ---
-# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Ekipleri yeni veya varolan Office yüklemelerinden kaldırma veya hariç tutma
+# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Yeni veya mevcut Office yüklemelerinden ekipleri kaldırma veya çıkarma
 
-Microsoft Teams, Microsoft 365 Kurumsal Uygulamalar, Iş için Microsoft 365 Uygulamaları ve Mac için Office'in bir parçası olarak dahildir.
+Microsoft ekipleri Kurumsal Microsoft 365 uygulamalarının, Microsoft 365 iş ve Mac için Office uygulamalarının bir parçası olarak dahil edilmiştir.
 
-- Ekipleri yeni Office yüklemelerinden hariç tutmak için [Office Dağıtım Aracı'nı](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) kullanın.
-- Windows çalıştıran bir aygıttan Takımlar *kaldırmak* için Microsoft [Ekiplerini](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81)Kaldır'ı'na bakın. Microsoft Ekiplerini birden çok hedef makineden veya kullanıcıdan temizlemek için Microsoft [Teams dağıtımının temizlenmesine](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)bakın.
-- Microsoft Teams'in Office ile otomatik olarak yüklenmesini önlemek için [Engelleyici EkiplerInstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
+- Office [dağıtım aracı](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) 'Nı kullanarak Office 'in yeni yüklemelerinden ekip dışında bırakın.
+- Windows çalıştıran bir cihazdan ekipleri *kaldırmak* Için [Microsoft ekipleri kaldırma](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81)konusuna bakın. Birden çok hedef makineden veya kullanıcıdan Microsoft ekiplerini temizlemek için [, bkz.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
+- Microsoft ekiplerin Office ile otomatik olarak yüklenmesini önetmek için [Preventteamsınstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
 ) seçeneğini kullanın.
-- Microsoft Teams'in yüklemeden sonra otomatik olarak başlatılmasını önlemek için *Takımlar yüklenmeden önce* [PreventFirstLaunchAfterInstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) seçeneğini kullanın.
+- Microsoft ekiplerin yükleme sonrasında otomatik olarak başlatılmasını önleyebilmeniz için, *takımlar yüklenmeden önce* [Preventfirstlaunchafterınstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) seçeneğini kullanın.
 
-Mac için Office kullanıyorsanız, [Mac'teki Microsoft Teams yüklemelerine](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)bakın.
+Mac için Office kullanıyorsanız, [Mac Için Microsoft ekipleri yüklemeleri](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)konusuna bakın.

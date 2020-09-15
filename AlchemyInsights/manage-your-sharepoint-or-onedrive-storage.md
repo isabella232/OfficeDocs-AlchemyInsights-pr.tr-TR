@@ -6,34 +6,35 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: b58aa242786fd09c83993e8ecc28c6a2d744dfcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d1f34740e93a666d72b691d0d16ca2a40a28c5a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762553"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662921"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>SharePoint veya OneDrive depolama alanınızı yönetme
 
  **SharePoint Online**
   
-Çoğu kuruluş için SharePoint depolama alanı otomatik olarak yönetilir, böylece site koleksiyonu başına sınırlar belirlemeniz gerekmez. Ne kadar SharePoint depolama alanınız olduğunu kontrol etmek için:
+Çoğu kuruluşta SharePoint depolaması otomatik olarak yönetilir; böylece site koleksiyonu başına limit ayarlamanız gerekmez. Ne kadar SharePoint depolama alanı olduğunu denetlemek için:
   
-- Yeni SharePoint yönetici merkezinde, siteler sayfasının sağ üst kısmında, kullanılabilir ve toplam depolama alanınızı arayın.
+- Yeni SharePoint Yönetim merkezinde, siteler sayfasının sağ üst kısmındaki kullanılabilir ve toplam depolama alanınızı arayın.
     
-Sınırınızın nasıl hesaplandığı hakkında bilgi için [SharePoint Çevrimiçi Limitleri'ne](https://go.microsoft.com/fwlink/p/?LinkID=856113)bakın. Ek depolama alanı satın almak [için aboneliğiniz için depolama alanını değiştir'e](https://go.microsoft.com/fwlink/?linkid=866428)bakın.
+Limitleriniz hesaplanma hakkında bilgi için [SharePoint Online sınırlamaları](https://go.microsoft.com/fwlink/p/?LinkID=856113)konusuna bakın. Ek depolama alanı satın almak için, [aboneliğiniz için depolama alanını değiştirme](https://go.microsoft.com/fwlink/?linkid=866428)konusuna bakın.
   
  **OneDrive**
   
-Yeni ve mevcut OneDrive kullanıcıları için varsayılan depolama alanını değiştirmek için:
+Yeni ve var olan OneDrive kullanıcılarının varsayılan depolamasını değiştirmek için:
   
-- [OneDrive yönetici merkezinin Depolama sayfasına](https://admin.onedrive.com/?v=StorageSettings)gidin ve GB olarak yeni bir tutar girin.
+- [OneDrive yönetim merkezinin depolama sayfasına](https://admin.onedrive.com/?v=StorageSettings)gıdın ve GB cinsinden yeni miktarı girin.
     
-Kendi OneDrive'ınızda ne kadar depolama alanı kullandığınızı kontrol etmek [için OneDrive for Business depolama alanınızı yönet'e](https://go.microsoft.com/fwlink/?linkid=866429)bakın. Her planla birlikte gelen depolama alanı hakkında daha fazla bilgi için, [İş için OneDrive hizmet açıklamasına](https://go.microsoft.com/fwlink/p/?LinkID=826071)bakın.
+OneDrive 'da kullandığınız depolama alanını öğrenmek için [OneDrive iş depolama alanınızı yönetme](https://go.microsoft.com/fwlink/?linkid=866429)bölümüne bakın. Her planla birlikte gelen depolama alanı hakkında bilgi için, [OneDrive iş hizmeti açıklaması](https://go.microsoft.com/fwlink/p/?LinkID=826071)bölümüne bakın.
   
 

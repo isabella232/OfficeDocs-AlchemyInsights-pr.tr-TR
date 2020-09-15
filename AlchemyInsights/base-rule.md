@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: f28ef015b6f8d890cf6d679a43c45720aedd9ab1
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: db5494ef3e41920ffac0f0f114ee37d2936e07b0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549751"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686374"
 ---
-# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Microsoft Intune'da MDM yetkilisi ile ilgili sorun giderme sorunları
+# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Microsoft Intune 'daki MDM yetkilisiyle ilgili sorunları giderme
 
-Burada Intune ile başlamak hakkında bazı yararlı makaleler şunlardır:
+Intune ile çalışmaya başlama hakkında yararlı bazı makaleler şunlardır:
 
 - [Intune nedir?](https://docs.microsoft.com/intune/what-is-intune)
-- [Intune ilk kez nasıl ayarlanır?](https://docs.microsoft.com/intune/setup-steps)
-- [Intune'u kullanma ve gezinme](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
+- [Intune 'U ilk kez ayarlama](https://docs.microsoft.com/intune/setup-steps)
+- [Intune kullanma ve gezinme](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-MDM yetkinizle ilgili sorunlar yaşıyorsanız, [Intune MDM yetkilisini değiştir'e](https://docs.microsoft.com/alchemyinsights/change-mdm-authority)bakın.
+MDM yetkilinizle ilgili sorunlarınız varsa, [ıNTUNE MDM yetkilisini değiştirmek](https://docs.microsoft.com/alchemyinsights/change-mdm-authority)için bölümüne bakın.

@@ -1,32 +1,33 @@
 ---
-title: OCM Haziran 2020 emekli olacak
+title: Kaldırılacak OCM Haziran 2020
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 1b9bc69dd4c12d2bda8da09fbf3bbad6ba204539
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
+ms.openlocfilehash: 0b4094eadf77180c2f7d78d102a64dcafd262199
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44850828"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662777"
 ---
-# <a name="ocm-to-be-retired-june-2020"></a>OCM Haziran 2020 emekli olacak
+# <a name="ocm-to-be-retired-june-2020"></a>Kaldırılacak OCM Haziran 2020
 
 
-**30 Haziran 2020**tarihinden itibaren Outlook Müşteri Yöneticisi eklentisi ve mobil uygulaması kullanımdan kaldırılacaktır. **Bu tarihten önce** **ondan veri dışa aktarabilirsiniz.**  
+Geçerli **30 haziran 2020**, Outlook Customer Manager eklentisi ve mobil uygulama kullanımdan kaldırılır. Verileri **Bu tarihten önce** **dışarı aktarabilirsiniz** .  
 
-Kuruluşunuzdaki kimler tarafından Microsoft 365 İş Primi (daha önce Office 365 Business Premium olarak bilinir) veya Microsoft 365 Business Premium (daha önce Microsoft 365 Business olarak da bilinir) abonelik planına sahip [olup, buraya](https://admin.microsoft.com/AdminPortal/Home?ref=/users)tıklayarak Outlook Müşteri Yöneticisi'nin haklarını kontrol edebilirsiniz.
+Kuruluşunuzdaki kimlerin Microsoft 365 Iş standardına (daha önce Office 365 Business Premium olarak biliniyordu) veya Microsoft 365 Business Premium (daha önce Microsoft 365 Iş olarak bilinirdi) abonelik planının, [buraya](https://admin.microsoft.com/AdminPortal/Home?ref=/users)tıklayarak Outlook Customer Manager haklarına sahip olduğunu denetleyebilirsiniz.
 
 Daha fazla bilgi için bkz.:
 
-- [Outlook Müşteri Yöneticisi verilerinizi dışa aktarma veya silme](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
+- [Outlook Customer Manager verilerinizi dışarı aktarma veya silme](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
 
-- [Outlook Müşteri Yöneticisi SSS](https://support.office.com/article/88e127ca-43a1-4c9d-8d52-6ad3a80f9c32)
+- [Outlook Customer Manager SSS](https://support.office.com/article/88e127ca-43a1-4c9d-8d52-6ad3a80f9c32)

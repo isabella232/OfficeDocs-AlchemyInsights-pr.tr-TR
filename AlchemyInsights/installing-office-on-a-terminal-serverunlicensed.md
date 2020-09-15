@@ -1,56 +1,57 @@
 ---
-title: Terminal Sunucusuna ofis yükleme - Lisanssız
+title: Office 'i Terminal sunucusuna yükleme-lisanssız
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: c781e9fd492ff97bc80667956e6609b3d40b28b4
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1d862f60e7a8a4c90c83f4538e57972b0c0547da
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508648"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663137"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>Terminal Sunucusuna Office Yükleme
+# <a name="installing-office-on-a-terminal-server"></a>Office 'i Terminal sunucusuna yükleme
 
-Eskiden Terminal Hizmetleri olarak adlandırılan Uzak Masaüstü Hizmetleri 'ni (RDS) kullanarak Windows Server'da kurumsal olarak Microsoft 365 Uygulamaları dağıtmak için:
+Windows Server 'da kurumsal olarak Microsoft 365 uygulamalarını dağıtmak için, eski adıyla Terminal Hizmetleri adlı uzak Masaüstü Hizmetleri (RDS) kullanın:
   
-- Office 365 Enterprise E3 veya Enterprise E5 gibi kurumsal microsoft 365 Uygulamalarını içeren bir Microsoft 365 aboneliğiniz olmalıdır. Microsoft 365 İş Uygulamaları ve Microsoft 365 İş Premium planları için Uygulamalar, kurumsal için Microsoft 365 Apps'ı içermez.
+- Office 365 Kurumsal E3 veya Kurumsal E5 gibi kuruluş için Microsoft 365 uygulamalarını içeren bir Microsoft 365 aboneliğiniz olmalıdır. İş için Microsoft 365 uygulamaları ve Microsoft 365 Uygulamaları İş Ekstra planları için Microsoft 365 uygulamaları bulunmaz.
 
-- Paylaşılan bilgisayar [etkinleştirmesini](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)etkinleştirmeniz gerekir.
+- [Paylaşılan bilgisayar etkinleştirmesini](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)etkinleştirmeniz gerekir.
 
-***Varsayılan yükleme ayarlarını kullanan***Microsoft 365 yönetici merkezinden RDS'de kurumsal olarak Microsoft 365 Uygulamaları yüklemek istiyorsanız, aşağıdaki adımları kullanın.
+***Varsayılan yükleme ayarlarını kullanan***Microsoft 365 Yönetim merkezinden kuruluş için Microsoft 365 uygulamalarını yüklemek istiyorsanız, aşağıdaki adımları kullanın.
 
 > [!TIP]
-> Microsoft 365 Apps for enterprise'ı paylaşılan bilgisayar etkinleştirme modunda yüklemek için [Microsoft Destek ve Kurtarma Yardımcısı'nı](https://aka.ms/SaRA_OfficeSCA_M365Portal) da indirip çalıştırabilirsiniz.
+> Paylaşılan bilgisayar etkinleştirme modu 'nda kuruluş için Microsoft 365 uygulamalarını yüklemek üzere [Microsoft destek ve Kurtarma Yardımcısı](https://aka.ms/SaRA_OfficeSCA_M365Portal) 'nı indirebilir ve çalıştırabilirsiniz.
   
-1. Hangi Microsoft 365 aboneliğine sahip olduğunuzu kontrol edin. [Nasıl yapılacağını öğrenin](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
+1. Sahip olduğunuz Microsoft 365 aboneliğini denetleyin. [Nasıl yapıldığını öğrenin](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Gerekirse, farklı bir Microsoft 365 aboneliğine geçin. [Nasıl yapılacağını öğrenin](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+2. Gerekirse, farklı bir Microsoft 365 aboneliğine geçin. [Nasıl yapıldığını öğrenin](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
-3. Office, rds sunucusunda başka microsoft 365 abonelikleri kullanıyorsa, kaldırın. Örneğin, Denetim Masası'na giderek \> bir programı kaldırın. Sorunlarla karşınıza yüzde lerak [Microsoft Destek ve Kurtarma Yardımcısı'nı](https://aka.ms/SARA-OfficeUninstall-Alchemy) kullanarak kaldırın.
+3. Office, başka bir Microsoft 365 aboneliğini kullanarak RDS sunucusunda zaten yüklüyse kaldırın. Örneğin, Denetim Masası 'Ndan \> bir program Kaldır 'a giderek. Sorun yaşıyorsanız [Microsoft destek ve Kurtarma Yardımcısı 'nı](https://aka.ms/SARA-OfficeUninstall-Alchemy) kullanarak kaldırın.
 
-4. RDS sunucusunda, yönetici hesabınızla Microsoft 365 yönetici merkezinde oturum açın ve [kurumsal için Microsoft 365 Uygulamaları'nı yükleyin.](https://portal.office.com/OLS/MySoftware.aspx)
+4. RDS sunucusunda, Yönetici hesabınızla Microsoft 365 Yönetim Merkezi 'nde oturum açın ve [Kurumsal Için microsoft 365 uygulamalarını yükleyin](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Office yüklendikten sonra, hiçbir Office uygulamasını ***açmayın veya oturum açmayın.***
+5. Office yüklendikten sonra, hiçbir Office uygulamasında ***açmayın veya oturum açmayın*** .
 
 6. RDS sunucusunda, aşağıdaki adımları izleyerek kayıt defterini düzenleyerek paylaşılan bilgisayar etkinleştirmesini etkinleştirin:
 
-1. Ekranınızın sol alt köşesindeki Windows düğmesine sağ tıklayın ve Çalıştır'ı seçin. Aç kutusunda **regedit**yazın ve ardından Tamam'ı seçin.
+1. Ekranınızın sol alt köşesindeki Windows düğmesine sağ tıklayın ve sonra da Run 'ı seçin. Aç kutusuna **Regedit**yazın ve Tamam 'ı seçin.
 
-2. Kayıt Defteri Düzenleyicisi'nin cihazınızda değişiklik yapmasına izin vermek istendiğinde Evet'i seçin.
+2. Kayıt Defteri Düzenleyicisi 'nin cihazınızda değişiklik yapmasına izin vermeniz istendiğinde Evet 'ı seçin.
 
-3. Kayıt Defteri Düzenleyicisi'nde, HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration altında 1 ayarı olan **Paylaşılan Bilgisayar Lisanslama** dize değeri ekleyin.
+3. Kayıt Defteri Düzenleyicisi 'nde, HKEY_LOCAL_MACHINE \SOFTWARE\Microsoft \Office\clicktorun\configurationaltında 1 ayarına sahip **Sharedcomputerlicensing** dize değerini ekleyin.
 
-7. RDS sunucusunda, ***son kullanıcı olarak oturum açın*** ve microsoft [365 Kurumsal Uygulamalar için paylaşılan bilgisayar etkinleştirme etkinleştirme etkin olduğunu doğrulayın.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)
+7. RDS sunucusunda ***Son Kullanıcı olarak oturum açın*** ve [paylaşılan bilgisayar etkinleştirmenin Kurumsal Microsoft 365 uygulamaları için etkinleştirildiğini doğrulayın](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
 
-Office Dağıtım Aracı'nı kullanarak özelleştirilmiş yüklemelerle ilgili ön koşullar, kurulum talimatları ve kılavuzlar hakkında daha fazla bilgi için lütfen [Uzak Masaüstü Hizmetlerini kullanarak Microsoft 365 Uygulamalarını kurumsal olarak dağıt'a](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)bakın.
+Önkoşullar hakkında daha fazla bilgi için, Office dağıtım Aracı kullanılarak özelleştirilmiş yüklemelerde [Microsoft 365 uygulamalarını dağıtma](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)konusuna bakın.
   
-Paylaşılan bilgisayar etkinleştirmesiyle ilgili hataları gidermek için lütfen [Microsoft 365 Apps for enterprise için paylaşılan bilgisayar etkinleştirme sorunları bölümüne](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)bakın.
+Paylaşılan bilgisayar etkinleştirme ile ilgili hataları düzeltmek için, lütfen [Enterprise Için Microsoft 365 uygulamalarında paylaşılan bilgisayar etkinleştirme sorunlarını giderme](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)konusuna bakın.
   

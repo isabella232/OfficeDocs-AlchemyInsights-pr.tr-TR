@@ -6,46 +6,47 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 0aedb549f11db54d3cd480671fb0767c60680ad3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: daf79f8d75ccdff8ad54f0f307648a5832a6bb71
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509620"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662228"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint ve OneDrive denetim günlükleri
 
-## <a name="sharepoint-classic-audit-logs"></a>SharePoint klasik Denetim günlükleri
+## <a name="sharepoint-classic-audit-logs"></a>SharePoint klasik denetim günlükleri
 
-SPO eski denetimi Birleşik Denetim Günlüğü'ne (UAL) geçirildi. Tüm SPO eski denetim raporları artık UAL üzerinden desteklenecek ve eski denetim sinyalleri UAL'a geçirilmiştir.
+SPO eski denetim Birleşik denetim günlüğüne (sürekli) geçirildi. Tüm SPO eski denetim raporları artık sürekli kalacak ve eski denetim sinyalleri sürekli olarak geçirilir.
 
-Önemli değişiklikler:
+Anahtar değişiklikleri:
 
-* Kırpma bir yetenek olarak kullanılabilir DeğİlDir.
-* Denetlemek için belirli olayları seçmek mevcut DeğİlDIR. Varsayılan olarak kullanılabilir denetlenen olayların tam listesi için [bu belgeye](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) bakın.
-* **Özelleştirilmiş raporlar** altında **Konum** seçeneği kullanılabilir DeğİlDİr.
-* **Belgeleri açma veya indirme** olayı seçeneği kullanılamıyor.
+* Kırpma özelliği yetenek olarak kullanılamaz.
+* Denetlenecek belirli olayları seçme kullanılamaz. Varsayılan olarak sağlanan denetlenen olayların tam listesi için [Bu belgeye](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) başvurun.
+* **Özelleştirilmiş raporlar** 'ın altındaki **konum** seçeneği kullanılamaz.
+* **Belge olaylarını açma veya indirme** seçeneği kullanılamaz.
 
-[Site koleksiyonu için Denetim ayarlarını yapılandırma](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
+[Site koleksiyonu için denetim ayarlarını yapılandırma](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
 
-## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>Uyumluluktan SharePoint ve OneDrive Modern Birleşik Denetim günlükleri
+## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>Uyumluluk için SharePoint ve OneDrive modern denetim günlükleri
 
-* [Birleşik Denetim Günlüğe Kaydetme/Kapatma](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
+* [Birleşik denetim günlüğünü açma/kapatma](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
-SharePoint veya OneDrive içinde ek yapılandırma gerekmez.
+SharePoint veya OneDrive 'da ek yapılandırma gerekmez.
 
-Dosya(lar), klasör(ler), kullanıcı(lar), izinlerin etkinliğini denetlemek için denetim günlüğü aramasını kullanın:
+Dosya (lar), klasör, Kullanıcı (lar), izinler:
 
 * [Dosya ve sayfa etkinlikleri](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
 * [Klasör etkinlikleri](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [İstek etkinliklerini paylaşma ve erişim](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-* [Senkronizasyon etkinlikleri](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [Site yönetimi faaliyetleri](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [Paylaşım ve erişim isteği etkinlikleri](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Eşitleme etkinlikleri](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [Site yönetimi etkinlikleri](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Bu olayların nasıl alınabildiğini hakkında daha fazla bilgi için [denetim günlüğüne ara'ya](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)bakın.
+Bu olayları geri alma hakkında daha fazla bilgi için [denetim günlüğünde arama](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)konusuna bakın.

@@ -1,32 +1,33 @@
 ---
-title: Bitlocker kurtarma tuşları
+title: BitLocker kurtarma anahtarları
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908834"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685906"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Bitlocker kurtarma tuşlarına erişim
+# <a name="accessing-bitlocker-recovery-keys"></a>BitLocker Kurtarma anahtarlarına erişme
 
-Bitlocker ayarlarını Intune Endpoint Protection İlke'yi yapılandırırken, Bitlocker kurtarma bilgilerinin Azure Etkin Dizini'nde depolanıp depolanmayacağını tanımlamak mümkündür.
+BitLocker ayarları Intune Endpoint Protection Ilkesini yapılandırırken, BitLocker kurtarma bilgilerinin Azure Active Directory 'de depolanması gerekip gerekmediği tanımlanır.
 
-Bu ayar yapılandırılırsa, depolanan kurtarma verileri, Intune Devices bıtırcı bıçaktaki aygıt kaydı verilerinin bir parçası olarak bir Intune yöneticisi tarafından iki şekilde görülebilir:
+Bu ayar yapılandırılırsa, cihaz için depolanan kurtarma verileri Intune cihazlarındaki verilerin iki yolu nedeniyle bir Intune yöneticisine görünür olmalıdır:
 
-Cihazlar - Azure AD aygıtları -> "Aygıt" VEYA Aygıtlar -tüm cihazlar > -> "Aygıt" -> Kurtarma tuşları
+Cihazlar-Azure AD cihazları-> "aygıt" veya cihazlar-> tüm cihazlar-> "cihaz"-> kurtarma anahtarları
 
-Alternatif olarak, aygıtın kendisine yönetimsel erişim varsa, kurtarma anahtarı (Parola) yükseltilmiş bir komut isteminden aşağıdaki komutu çalıştırarak görülebilir:
+Alternatif olarak, cihaza yönetimsel erişim varsa, kurtarma anahtarı (parola) yükseltilmiş bir komut isteminden aşağıdaki komut çalıştırılarak görülebilir:
 
 ```
 manage-bde -protectors c: -get
@@ -42,8 +43,8 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Aygıt Intune'a kaydolmadan önce şifrelenmişse, kurtarma anahtarı OOBE işlemi sırasında aygıtta oturum açmada kullanılan "Microsoft Hesabı" (MSA) ile ilişkilendirilmiş olabilir. Bu durumda, msa https://onedrive.live.com/recoverykey ile erişim ve oturum açma, kurtarma anahtarlarının depolandığı aygıtları göstermelidir.
+Cihaz Intune 'da kaydolma öncesinde şifrelendiyse, kurtarma anahtarı, OOBE işlemi sırasında cihazda oturum açmak için kullanılan "Microsoft hesabı" (MSA) ile ilişkilendirilmiş olabilir. Öyleyse,  https://onedrive.live.com/recoverykey Bu MSA ile erişilmesi ve oturum açmak, kurtarma anahtarlarının depolandığı cihazları göstermelidir.
  
-Aygıt etki alanı tabanlı grup ilkesi aracılığıyla yapılandırma sonucunda şifrelenmişse, kurtarma bilgileri şirket içi Etkin Dizinde depolanabilir.
+Cihaz, etki alanı tabanlı Grup İlkesi aracılığıyla yapılandırma sonucunda şifrelenmişse, kurtarma bilgileri şirket içi Active Directory 'de depolanabilir.
  
 
