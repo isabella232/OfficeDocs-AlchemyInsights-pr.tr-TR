@@ -6,22 +6,23 @@ manager: scotv
 ms.date: 07/22/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "1060"
-ms.openlocfilehash: 325bdc133c9a8458ad8a65b3d1ca2276a558bfbf
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+ms.openlocfilehash: 7a1b99ff336a50619c9560833c05785546634e27
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423926"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673985"
 ---
-# <a name="missing-contact-in-suggestion-list-while-composing-mail"></a><span data-ttu-id="4cd44-102">Posta oluştururken öneri listesinde eksik kişi</span><span class="sxs-lookup"><span data-stu-id="4cd44-102">Missing contact in suggestion list while composing mail</span></span>
+# <a name="missing-contact-in-suggestion-list-while-composing-mail"></a><span data-ttu-id="b2a62-102">Posta oluştururken öneri listesinde eksik kişi</span><span class="sxs-lookup"><span data-stu-id="b2a62-102">Missing contact in suggestion list while composing mail</span></span>
 
-1. <span data-ttu-id="4cd44-103">**Için'i**seçin ve listeden bir kişi seçin.</span><span class="sxs-lookup"><span data-stu-id="4cd44-103">Select **To:**, and then select a contact from the list.</span></span>
-2. <span data-ttu-id="4cd44-104">**Gönder'i**seçin.</span><span class="sxs-lookup"><span data-stu-id="4cd44-104">Select **Send**.</span></span>
+1. <span data-ttu-id="b2a62-103">Bu **seçeneği belirleyin**ve listeden bir kişi seçin.</span><span class="sxs-lookup"><span data-stu-id="b2a62-103">Select **To:**, and then select a contact from the list.</span></span>
+2. <span data-ttu-id="b2a62-104">**Gönder**'i seçin.</span><span class="sxs-lookup"><span data-stu-id="b2a62-104">Select **Send**.</span></span>
 
-    <span data-ttu-id="4cd44-105">İlgili kişi öneri listesinde görünür.</span><span class="sxs-lookup"><span data-stu-id="4cd44-105">The contact appears in the suggestion list.</span></span>
+    <span data-ttu-id="b2a62-105">Kişi, öneri listesinde görüntülenir.</span><span class="sxs-lookup"><span data-stu-id="b2a62-105">The contact appears in the suggestion list.</span></span>
