@@ -1,25 +1,26 @@
 ---
-title: Dış kullanıcı erişiminde yapılan değişiklikler
+title: Dış Kullanıcı erişimi değişiklikleri
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: abdb45fb-93b0-4df9-994d-b997fcfcaff5
-ms.openlocfilehash: f9a86294b19e6814ad1af6785375ddd69f5088db
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1be2a05efdf46a1ec05992963a3e03519dc2c3d5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706460"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714348"
 ---
-# <a name="changes-to-external-user-access"></a>Dış kullanıcı erişiminde yapılan değişiklikler
+# <a name="changes-to-external-user-access"></a>Dış Kullanıcı erişimi değişiklikleri
 
-23 Mart 2018'den itibaren, harici kullanıcılar, yetkili gruplara davet edilmiş veya eklenmiş olsalar bile Herkes, Tüm Kimlik Doğrulaması Kullanıcılar veya Tüm Form Kullanıcılarıyla Paylaşılan içeriğe artık erişemeyecektir. Harici kullanıcılar yalnızca kullanıcıyla veya kullanıcının ait olduğu gruplarla paylaşılan içeriğe erişebilir. Mevcut ayarlarınızı korumak istiyorsanız, lütfen aşağıdakilere bakın:https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
+23 Mart 2018 ' de başlayarak, dış kullanıcılar, onaylanmış gruplara davet edilmiş veya eklenmiş olsalar bile herkes, tüm kimliği doğrulanmış kullanıcılar veya tüm formlar kullanıcılarıyla paylaşılan içeriğe erişemeyecektir. Dış kullanıcılar yalnızca kullanıcıyla veya kullanıcının ait olduğu gruplarla paylaşılan içeriğe erişebilir. Var olan ayarlarınızı korumak istiyorsanız, bkz: https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
   
 

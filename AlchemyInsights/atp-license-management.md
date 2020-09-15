@@ -1,28 +1,29 @@
 ---
-title: Gelişmiş Tehdit Koruma Lisans Yönetimi
+title: Gelişmiş tehdit koruması lisans yönetimi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: ae2afd87bf1c838e027103a6e012c40b06dcd629
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 1c6bf3c43177da2c22bef9350ceb03081bec285e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708303"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715401"
 ---
-# <a name="advanced-threat-protection-license-management"></a>Gelişmiş Tehdit Koruma Lisans Yönetimi
+# <a name="advanced-threat-protection-license-management"></a>Gelişmiş tehdit koruması lisans yönetimi
 
-Office 365 Advance Threat Protection (ATP) lisans yönetimi **Microsoft 365 yönetici merkezinde**tamamlanabilir.
+Office 365 ön tehdit koruması (ATP) lisans yönetimi,  **Microsoft 365 Yönetim merkezinde**tamamlanabilir.
 
-- Office 365 Önceden Tehdit Koruması satın almak için, **Fatura Satın**  >  [Alma hizmetlerine](https://go.microsoft.com/fwlink/p/?linkid=868433)gidin, **ilginizi çekebilecek diğer kategorilerden** **Eklentiler** sayfasını seçin, satın almak istediğiniz Gelişmiş Tehdit Koruması planını seçin ve Gelişmiş Tehdit Koruması'nı kullanacak kullanıcı sayısını seçin. Daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
-- Office 365 Önceden Tehdit Koruması lisansları atamak için **Faturalama**  >  **Lisanslarına**gidin. Daha fazla bilgi için lisans [atay'a](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)bakın.  
-- Office 365 Önceden Tehdit Koruması lisanslarını eklemek/kaldırmak için ürünlerinizi **Faturalandırma'ya**  >  **Your products**gidin, lisans eklemek veya kaldırmak istediğiniz aboneliği bulun ve **lisans ekle/kaldır'ı**seçin.  
-- Daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)
+- Office 365 ön tehdit korumasını satın almak için, **faturalandırma**  >  [satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433)'ne gidin, ilginizi çekebilecek **diğer kategorilerden** **Eklentiler** sayfasını seçin, Satın almak istediğiniz Gelişmiş tehdit koruması planını seçin ve Gelişmiş tehdit korumasını kullanacak kullanıcı sayısını seçin. Daha fazla bilgi için bkz [.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
+- Office 365 ön tehdit koruması lisanslarını atamak için **faturalandırma**  >  **Lisansları**'na gidin. Daha fazla bilgi için bkz [.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)  
+- Office 365 ön tehdit koruması lisanslarını eklemek/ **kaldırmak için,**  >  **ürünlerinize**gidin, lisansları eklemek veya kaldırmak istediğiniz aboneliği bulun ve **Lisans Ekle/Kaldır**'ı seçin.  
+- Daha fazla bilgi için iş aboneliğinizden [Lisans ekleme veya kaldırma](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)konusuna bakın.
