@@ -1,26 +1,27 @@
 ---
-title: Etki alanınızı 123-reg.co.uk ile doğrulayın
+title: 123-reg.co.uk ile etki alanınızı doğrulama
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: e84e56a839754e65eaa0945c68abdedcec1a7733
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 838406ef6dd45fce436a72cd60888cd9498baa35
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766369"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657548"
 ---
-# <a name="verify-your-domain-with-123-regcouk"></a>Etki alanınızı 123-reg.co.uk ile doğrulayın
+# <a name="verify-your-domain-with-123-regcouk"></a>123-reg.co.uk ile etki alanınızı doğrulama
 
-Etki alanınızı doğrulamak için, etki alanınıza sahip olduğunuzu doğrulamak için etki alanı kayıt şirketinize bir TXT kaydı eklemeniz gerekir. 
+Etki alanınızı doğrulamak için, etki alanı kayıt şirketinize bir TXT kaydı ekleyerek etki alanınızın sahip olduğunuzu doğrulayın. 
 
-İlk olarak, **Ayarlar** \> **Etki Alanları**seçerek Etki [Alanı Ekle sihirbazını](https://portal.office.com/adminportal/home#/Domains) izleyin ve ardından etki alanı **ekleyin.**
+Öncelikle, [etki alanı ekleme Sihirbazı 'nı](https://portal.office.com/adminportal/home#/Domains) izleyerek **Ayarlar** \> **etki alanlarını**seçin ve sonra da **etki alanı ekleyin**.
   
-Microsoft 365 için adım adım yönergeler [için 123-reg.co.uk DNS kayıtları oluştur'a](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk) bakın.
+Adım adım yönergeler için [365 123-reg.Co.uk adresınde DNS kayıtları oluşturma](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk) konusuna bakın.

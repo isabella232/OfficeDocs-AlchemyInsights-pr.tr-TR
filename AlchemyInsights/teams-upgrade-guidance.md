@@ -1,37 +1,37 @@
 ---
-title: Takımlar yükseltme kılavuzu
+title: Ekip Yükseltme Kılavuzu
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d79518434904a8c26ae0e15fd1c23177b68a05af
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44254769"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653569"
 ---
-# <a name="microsoft-teams-upgrade"></a>Microsoft Teams yükseltme
+# <a name="microsoft-teams-upgrade"></a>Microsoft ekipleri yükseltme
 
-**Önemli**: Skype for Business Online'dan Yalnızca Ekipler'deki Microsoft Teams moduna yükseltildiyseniz, ancak henüz hazır olmadığınızı tespit ettiyseniz, bir destek tanılama yöntemini kullanarak bunu düzeltmenize yardımcı olabiliriz. Sağ üstteki yeni Yönetici Merkezi'ni sağa kaydırarak yeni **Yönetici Merkezi'ni**kullandığınızdan emin olun. Yeni Yönetici Merkezi'ni **kullanarak, YardımA İhtiyacımı tıklatın?** **Teams Upgrade**
+**Önemli**: Skype Kurumsal Çevrimiçi 'Tan yalnızca ekipler modunda yükselttiyseniz, ancak henüz hazır olmadığınız hakkında daha fazla bilgi edinmek için destek tanılaması kullanarak bunu düzeltmenize yardımcı olabiliriz. Yeni yönetim merkezini en üstteki sağ tarafta **Yeni bir yönetim merkezi**yazan yeni yönetim merkezini kaydırarak kullandığınızdan emin olun. Yeni yönetim merkezini kullanarak, **Yardım gerekiyor?** pencere öğesini tıklatın, "**ekip yükseltme**" yazın ve sonra da tanılama 'yı çalıştırmak için istemleri izleyin.
 
-İster Takımlar'a yeni başlıyor olun, ister Skype for Business'ın yanında Ekipler'i kullanıyor olun, ister yükseltmeye hazır olun, Takımlar'a başarılı bir yolculuk yapmak için ihtiyacınız olan her şeye sahip olduğunuzdan emin olmak istiyoruz. Daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
+Ekiplerle çalışmaya başlamanızı, Skype Kurumsal ile birlikte ekip kullanmakta veya yükseltmeye hazır hale geldiğinizde, başarılı bir yolculuğuna gitmek için ihtiyacınız olan her şeyi ekiplere almanızı istiyoruz. Daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
 
-[Microsoft Teams yükseltmenize başlarken](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Microsoft ekipleri yükseltmenizi kullanmaya başlama](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
-[Yükseltmeniz için planlayın](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Yükseltme planı](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
-[Microsoft Ekiplerini ve Skype kurumsal birlikte yaşamı anlayın](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Microsoft ekipleri ve Skype Kurumsal birlikte bir arada bulunma 'i anlama](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Skype for Business Online'dan Takımlara yükseltme gerçekleştirme](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+[Skype Kurumsal Çevrimiçi sürüm 'den ekiplere yükseltme gerçekleştirme](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Skype for Business'tan şirket içinde Ekiplere yükseltme gerçekleştirme](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Skype Kurumsal 'dan ekip 'a yükseltme gerçekleştirme](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[PowerShell ile Çevrimiçi ve Takımlar için Skype'ın durumunu kontrol edin](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[PowerShell ile ekip yükseltme için Skype Kurumsal Çevrimiçi sürüm durumunu denetleme](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

@@ -1,32 +1,33 @@
 ---
-title: İletişim Sitesini Dış Kullanıcılarla Paylaşın
+title: Iletişim sitesini dış kullanıcılarla paylaşma
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 38eaa55db49f3c6f38da42605f4180e60ebb6349
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767521"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653785"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>İletişim Sitesini Dış Kullanıcılarla Paylaşın
+# <a name="share-a-communication-site-with-external-users"></a>Iletişim sitesini dış kullanıcılarla paylaşma
 
-İletişim siteleri için harici kullanıcı paylaşımını açmak için aşağıdaki adımları izleyin: 
+Iletişim siteleri için dış Kullanıcı paylaşımını açmak için şu adımları izleyin: 
   
-1. Modern **Yönetici Merkezi'ni** açın - Klasik Yönetici Merkezi'ndeyseniz **hemen deneyin** veya * Sağ üstteki önizleme ** düğmesini deneyin. Bu sizi Modern Yönetici Merkezi'ne götürecektir. 
+1. **Modern yönetim merkezini** açma-Klasik Yönetim merkezindedeyseniz **Şimdi deneyin** veya * * sağ üst kısımdaki Önizleme * * düğmesini deneyin. Bu, sizi modern yönetim merkezine götürür. 
   
-2. **Etkin Siteler'i seçin.**
+2. **Etkin siteler** 'i seçin.
   
-3. **İletişim Sitesi şablonu**olan bir site seçin. 
+3. **Iletişim sitesi şablonu**olan bir site seçin. 
   
 4. Üst menüden **Paylaşım** düğmesini seçin. 
   
- **Not:** Birden fazla site seçiliyse, **Paylaşım** düğmesi devre dışı görünür. Yalnızca bir site seçin. 
+ **Not:** Birden çok site seçiliyse, **Paylaşım** düğmesi devre dışı görünür. Yalnızca bir site seçin. 
   
 
