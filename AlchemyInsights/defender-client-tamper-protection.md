@@ -1,32 +1,33 @@
 ---
-title: 'Defender Müşteri Tamper Koruma '
+title: 'Defender Istemci üzerinde koruma koruması '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 909874d06e74e7df9c2eec9b47c89c25a30ac58c
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738518"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680524"
 ---
-# <a name="defender-tamper-protection"></a><span data-ttu-id="c0a3f-102">Defans Kurcalamaya Karşı Koruma</span><span class="sxs-lookup"><span data-stu-id="c0a3f-102">Defender Tamper Protection</span></span> 
+# <a name="defender-tamper-protection"></a><span data-ttu-id="ee934-102">Defender 'ın üzerinde koruma</span><span class="sxs-lookup"><span data-stu-id="ee934-102">Defender Tamper Protection</span></span> 
 
-<span data-ttu-id="c0a3f-103">Tamper Koruması ile kötü amaçlı uygulamaların bu gibi eylemlerde yer alması engellenir:</span><span class="sxs-lookup"><span data-stu-id="c0a3f-103">With Tamper Protection, malicious apps are prevented from taking actions such as these:</span></span>
+<span data-ttu-id="ee934-103">Çalışırken koruma sayesinde, kötü amaçlı uygulamaların bunlar gibi işlemleri uygulaması engellenir:</span><span class="sxs-lookup"><span data-stu-id="ee934-103">With Tamper Protection, malicious apps are prevented from taking actions such as these:</span></span>
 
-- <span data-ttu-id="c0a3f-104">Virüs ve tehdit korumasının devre dışı bırakılması</span><span class="sxs-lookup"><span data-stu-id="c0a3f-104">Disabling virus and threat protection</span></span>
-- <span data-ttu-id="c0a3f-105">Gerçek zamanlı korumayı devre dışı bırakma</span><span class="sxs-lookup"><span data-stu-id="c0a3f-105">Disabling real-time protection</span></span>
-- <span data-ttu-id="c0a3f-106">Davranış izlemeyi kapatma</span><span class="sxs-lookup"><span data-stu-id="c0a3f-106">Turning off behavior monitoring</span></span>
-- <span data-ttu-id="c0a3f-107">Antivirüs devre dışı bırakma (IOfficeAntivirus (IOAV) gibi))</span><span class="sxs-lookup"><span data-stu-id="c0a3f-107">Disabling antivirus (such as IOfficeAntivirus (IOAV))</span></span>
-- <span data-ttu-id="c0a3f-108">Bulut tarafından teslim edilen korumayı devre dışı bırakma</span><span class="sxs-lookup"><span data-stu-id="c0a3f-108">Disabling cloud-delivered protection</span></span>
-- <span data-ttu-id="c0a3f-109">Güvenlik istihbarat güncelleştirmelerini kaldırma</span><span class="sxs-lookup"><span data-stu-id="c0a3f-109">Removing security intelligence updates</span></span>
+- <span data-ttu-id="ee934-104">Virüs ve tehdit korumasını devre dışı bırakma</span><span class="sxs-lookup"><span data-stu-id="ee934-104">Disabling virus and threat protection</span></span>
+- <span data-ttu-id="ee934-105">Gerçek zamanlı korumayı devre dışı bırakma</span><span class="sxs-lookup"><span data-stu-id="ee934-105">Disabling real-time protection</span></span>
+- <span data-ttu-id="ee934-106">Davranış izlemeyi kapatma</span><span class="sxs-lookup"><span data-stu-id="ee934-106">Turning off behavior monitoring</span></span>
+- <span data-ttu-id="ee934-107">Virüsten koruma (IOfficeAntiVirus (ıOAV) gibi)</span><span class="sxs-lookup"><span data-stu-id="ee934-107">Disabling antivirus (such as IOfficeAntivirus (IOAV))</span></span>
+- <span data-ttu-id="ee934-108">Buluta teslim edilen korumayı devre dışı bırakma</span><span class="sxs-lookup"><span data-stu-id="ee934-108">Disabling cloud-delivered protection</span></span>
+- <span data-ttu-id="ee934-109">Güvenlik Zekası güncelleştirmelerini kaldırıyor</span><span class="sxs-lookup"><span data-stu-id="ee934-109">Removing security intelligence updates</span></span>
 
-<span data-ttu-id="c0a3f-110">Daha fazla bilgi için bkz: [Tamper Koruması ile güvenlik ayarlarını koru.](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)</span><span class="sxs-lookup"><span data-stu-id="c0a3f-110">For more details, see [Protect security settings with Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span></span>
+<span data-ttu-id="ee934-110">Daha fazla bilgi için bkz [.](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)</span><span class="sxs-lookup"><span data-stu-id="ee934-110">For more details, see [Protect security settings with Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span></span>
