@@ -1,10 +1,11 @@
 ---
-title: Simya - Outlook'ta iletiler oluşturma ve ekleme
+title: Alchemy-Outlook 'ta iletilere imza oluşturma ve ekleme
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,24 +13,24 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 4243b821d087cd1cfc7c89aad983c7d497bd7d3e
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 933533b2c1065a96786522eee481abf859186342
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506542"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718836"
 ---
 # <a name="creating-email-signatures"></a>E-posta imzaları oluşturma
 
-Bu makaleler, Outlook'ta e-posta imzaları oluşturmanıza yardımcı olur.
+Bu makaleler, Outlook 'ta e-posta imzaları oluşturmanıza yardımcı olmalıdır.
   
-- Windows'da Outlook'u kullanarak bir e-posta imzası oluşturmak istiyorum: [İletilere imza oluşturma ve ekleme](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
+- Windows 'da Outlook 'U kullanarak e-posta imzası oluşturmak istiyorum: [iletilere Imza oluşturma ve ekleme](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
   
-- Web'de Outlook'u kullanarak bir e-posta imzası oluşturmak istiyorum: [Web'de Outlook'ta e-posta imzası oluşturma ve ekleme](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
+- Web üzerinde Outlook 'U kullanarak e-posta imzası oluşturmak istiyorum: [Web üzerinde Outlook 'ta e-posta Imzası oluşturma ve ekleme](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
 
-- Outlook.com kullanarak bir e-posta imzası oluşturmak istiyorum: Outlook.com bir [e-posta imzası oluşturma ve ekleme](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
+- Outlook.com kullanarak e-posta imzası oluşturmak istiyorum: [Outlook.com 'da e-posta Imzası oluşturma ve ekleme](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Şirketimden gönderilen tüm e-postalar için küresel bir e-posta imzası oluşturmak istiyorum: [Kuruluş çapında imzalar ve feragatnameler oluşturun](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers)
+- Şirketiden gönderilen tüm e-postalar için genel bir e-posta imzası oluşturmak istiyorum: [kuruluş genelinde imzalar ve bildirimleri](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers)
 
- **İpucu:** Kuruluş genelindeki imzalara "feragatnameler" adı verilir.
+ **İpucu:** Kuruluş genelindeki imzalar "bildirimleri" olarak adlandırılır.
   
