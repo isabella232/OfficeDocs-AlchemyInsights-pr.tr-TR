@@ -1,33 +1,34 @@
 ---
-title: Apple DEP ile yardım
+title: Apple DEP ile ilgili yardım
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 5e027994175dcdbd35ffbc67934d3c31b7ab503a
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: b3577ac32be31b213feb172b76843ba884b42a03
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654667"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705535"
 ---
-# <a name="help-with-apple-dep"></a>Apple DEP ile yardım
+# <a name="help-with-apple-dep"></a>Apple DEP ile ilgili yardım
 
-Bir DEP aygıtı kayıt yapamıyorsa ve MFA (Çok Faktörlü Kimlik Doğrulama) etkinse, lütfen MFA'yı devre dışı bırakın. MFA şu anda DEP kaydı için desteklenmez.
+DEP aygıtı kayıt yapamıyor ve MFA (çok faktörlü kimlik doğrulaması) etkinleştirilmişse, lütfen MFA 'yı devre dışı bırakın. Şu anda DEP kaydı için MFA desteklenmiyor.
 
-[Intune ve Apple'ın Cihaz Kayıt Programı (DEP) ile başlarken](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Intune ve Apple 'ın cihaz kayıt programı (DEP) ile çalışmaya başlama](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[Yaygın iOS kayıt hataları ve çözümleri](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[Genel iOS kayıt hataları ve çözümleri](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Genel Kayıt Sorun Giderme](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Genel kayıt sorunlarını giderme](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Sık karşılaşılan kayıt hatalarını tanılamak ve gidermek için Intune Sorun Giderme Portalı'nı kullanın](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Yaygın kayıt hatalarını tanılamak ve çözmek için Intune sorun giderme portalını kullanma](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
 
 
