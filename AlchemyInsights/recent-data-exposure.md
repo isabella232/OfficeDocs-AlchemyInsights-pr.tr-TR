@@ -1,26 +1,27 @@
 ---
-title: Son veri pozlama
+title: Son veri etkilenme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: 21d34bb8a1c2139cdc4ccbdda62a07c65b6b0a56
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724934"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693251"
 ---
-# <a name="recent-data-exposure"></a>Son veri pozlama
+# <a name="recent-data-exposure"></a>Son veri etkilenme
 
-Microsoft, üçüncü taraf bir araştırmacı tarafından, yeniden düzenlenmiş Microsoft destek verilerini barındıran bir veritabanının kimlik doğrulaması olmadan erişilebilir olduğunu fark etti. 31 Aralık 2019'da Microsoft veritabanını güvenli hale aldı.
+Microsoft, redaksiyonu gerçekleştiren bir veritabanı kimlik doğrulaması yapılmadan erişilebilir olduğu bir üçüncü taraf araştırmacı tarafından hazırlanmıştır. 31 Aralık 2019 tarihinde, Microsoft veritabanını güvenli hale getirdi.
 
-Müşterilerimizin gizliliğine ve güvenliğine kendimizi adadık ve bu sorunun gelecekte meydana gelecek olaylarını önlemek için harekete geçiyoruz. Verileri bu redacted veritabanında bulunan müşterilere bildirimler başladı. Daha fazla bilgi için lütfen [yeni bir bilgi nin açığa çıkmasıyla ilgili Müşteri farkındalığı bilgilerine](https://aka.ms/privacyinfo)gidin.
+Müşterilerimizin gizliliği ve güvenliğine kararlıdır ve bu sorunun gelecekte gelecekte oluşmasını önleyen işlemler gerçekleşiyoruz. Verileri bu Redaksiyonu yapılmış veritabanında bulunan müşterilere bildirimler başladık. Daha fazla bilgi için, lütfen [son bilgi pozlaması ile Ilgili müşteri tanıma bilgilerine](https://aka.ms/privacyinfo)gidin.

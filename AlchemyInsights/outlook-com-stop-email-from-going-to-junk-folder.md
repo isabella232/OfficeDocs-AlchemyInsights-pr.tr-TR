@@ -1,34 +1,35 @@
 ---
-title: İletilerin Outlook.com'daki Önemsiz E-posta klasörüne gitmelerini durdurma
+title: İletilerin Outlook.com 'daki gereksiz e-posta klasörüne gitmesini durdurma
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: e1da0c7b67c1f09f6ed6589848ddd2d4e5a5775a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6e10fb27472c770bb9530a20d86fd0ec1d3cb0dc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710967"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694295"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>İletilerin Önemsiz E-posta klasörünüze gitmelerini durdurma
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>İletileri gereksiz e-posta klasörünüze geçme
 
-Outlook.com'daki Önemsiz E-posta klasörünüzdeki bir e-posta iletisi önemsiz olmadığını fark ederseniz:
+Outlook.com 'daki önemsiz e-posta klasörünüzdeki bir e-posta iletisinin önemsiz olmadığını fark ederseniz:
 
-1. Önemsiz [E-posta klasörünüzü](https://outlook.live.com/mail/junkemail)açın.
-1. İletiyi seçin. (*Not:* Önemsiz E-posta klasörünüzdeki öğeler 30 gün sonra silinir.)
-1. İleti listesinin üzerinde **önemsiz** > **değil'i**seçin.
+1. [Gereksiz e-posta klasörünüzü](https://outlook.live.com/mail/junkemail)açın.
+1. İletiyi seçin. (*Not:* gereksiz e-posta klasörünüzdeki öğeler 30 gün sonra silinir.)
+1. İleti listesinin üst **kısmında önemsiz**  >  **değil**önemsiz 'ı seçin.
 
-Gönderenden gelen iletilerin Önemsiz E-posta klasörüne girmesini engellemek istiyorsanız, göndereni güvenli gönderenler listenize ekleyin:
+Gönderenden gelen iletilerin önemsiz e-posta klasörüne gitmesini istemiyorsanız, göndereni güvenilir Gönderenler listenize ekleyin:
 
-1. Önemsiz [e-posta ayarlarınızı](https://go.microsoft.com/fwlink/?linkid=2035804)açın.
-1. **Güvenli gönderenler ve etki alanları**altında Ekle' yi seçin, eklemek istediğiniz e-posta adresini veya etki alanını girin ve **Kaydet'i**seçin. **Add**
+1. [Gereksiz e-posta ayarlarınızı](https://go.microsoft.com/fwlink/?linkid=2035804)açın.
+1. **Güvenilir Gönderenler ve etki alanları**altında **Ekle**'yi seçin, eklemek istediğiniz e-posta adresini veya etki alanını girin ve **Kaydet**'i seçin.
 
-Daha fazla bilgi edinmek [için, önemsiz olarak işaretle e-posta okuyun veya Outlook.com'da gönderenleri engelleyin.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
+Daha fazla bilgi edinmek için [e-postayı gereksiz olarak işaretleyin veya Outlook.com 'da gönderenleri engelleyin](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

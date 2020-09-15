@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,26 +14,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: bafaee929a668b918fef6858c24c308602e10307
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: fe0c8066e203e1b7395d69211f31916afc137c18
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509944"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694007"
 ---
-# <a name="prepaid-microsoft-365-renewal"></a>Ön ödemeli Microsoft 365 yenileme
+# <a name="prepaid-microsoft-365-renewal"></a>Ön ödemeli Microsoft 365 yenilemesi
 
-1. Yönetici merkezinde, Ürünlerinizi **Faturalandırma** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
+1. Yönetim **merkezinde,** \> **[Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
 
-2. Uzatmak istediğiniz aboneliği bulun. **Faturalandırma** bölümünde bitiş **tarihini uzat'ı**seçin.
+2. Uzatmak istediğiniz aboneliği bulun. **Faturalandırma** bölümünde **bitiş tarihini uzat**'ı seçin.
 
-3. Abonelik **Genişlet** bölmesinde, **yeni ve kullanılmayan ürün anahtarını kullan'ı**seçin ve **ardından İleri'yi**seçin.
+3. **Aboneliği Genişlet** bölmesinde **yeni ve kullanılmamış bir ürün anahtarı kullan**'ı seçin ve sonra **İleri**'yi seçin.
 
-4. Ürün anahtarını girin ve **Sonra İleri'yi**seçin.
+4. Ürün anahtarını girip **İleri**'yi seçin.
 
 > [!NOTE]
-> Birden fazla ürün anahtarınız varsa, girmek için **başka bir ürün anahtarı ekle'yi** seçebilirsiniz.
+> Birden fazla ürün anahtarınız varsa, girmek için **başka bir ürün anahtarı Ekle** 'yi seçebilirsiniz.
 
-5. Sipariş bilgilerinizi gözden geçirin ve ardından **Kurtar'ı**seçin.
+5. Sipariş ayrıntılarınızı gözden geçirip kullan 'ı **seçin.**
 
-Daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)
+Daha fazla bilgi edinmek için, [ürün anahtarı kullanmak üzere ödenen aboneliği ekleme veya bir aboneliği genişletme](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)bölümüne bakın.
