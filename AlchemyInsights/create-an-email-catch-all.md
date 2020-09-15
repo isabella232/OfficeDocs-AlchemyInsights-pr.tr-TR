@@ -1,40 +1,41 @@
 ---
-title: Tümeği yakalama e-posta sıyrık oluşturma
+title: Tümünü yakala
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 35f31c1662547d57c2fc9978ffb495ac29abcc01
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 262d2c6a7181d94094f3d840c4ba3ebd07000cf4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286311"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713006"
 ---
-# <a name="create-an-email-catch-all"></a>Tümeği yakalama e-posta sıyrık oluşturma
+# <a name="create-an-email-catch-all"></a>Tümünü yakala
 
-Bir yakalama tüm kullanımı şiddetle önerilmez. Gönderene, gönderenlere, iletilerinin adreslendirilen şekilde teslim edilemediğini bildirilmesi ne kadar önemli yse, bu nedenle işlem yapabilmeleri için geri sıçrama sağlamak daha iyidir. Ayrıca, izlenen posta kutusunu yalnızca daha önce geçerli olan e-posta adreslerini yakalamak için sınırlayabilirsiniz. 
+Tümünü yakala 'nın kullanımı kesinlikle önerilmez. Gönderene geri sıçrama sağlamak daha iyidir, gönderenlere ileti teslim edilebilmeleri için iletileri adreslenmiş olarak teslim edilemedi. İzlenen posta kutusunu yalnızca önceden geçerli olan e-posta adresleriyle da sınırlayabilirsiniz. 
 
-Herhangi bir yakalamak tüm posta kutusu spam iyi bir anlaşma alırsınız ve sonunda yakından izlenmezeğer doldurabilir. (Alma sınırları vardır.) 
+Tüm catch posta kutuları istenmeyen bir istenmeyen posta alır ve yakın zamanda izlenmediğini de doldurabilir. (Alan sınırlamaları vardır.) 
 
-Devam etmeye karar verirseniz, aşağıdaki adımları izleyin:
+Devam etmeye karar verirseniz, şu adımları izleyin:
 
-1. Dinamik Dağıtım Grubu oluşturma & "Tüm Alıcı Türleri" içerir.
+1. "Tüm alıcı türleri" & dinamik dağıtım grubu oluşturun.
 
-2. Örneğin, catchall@domain.com e-postaları yakalamak için özel bir Posta Kutusu oluşturun.
+2. E-postaları yakalamak için adanmış bir posta kutusu oluşturun (örneğin, catchall@domain.com.
 
-3. Belirli etki alanı için DomainType'ı "InternalRelay" olarak ayarlayın. Daha sonra tüm yakalamayı kaldırırsanız, etki alanını Yetkili'ye geri ayarladığınızdan emin olun.
+3. İlgili etki alanı için, DomainType 'ı "ınternalrelay" olarak ayarlayın. Daha sonra tümünü kaldırırsanız, etki alanını yetkili olarak ayarladığınızdan emin olun.
 
-4. Posta Akışı Aktarım Kuralı'nı aşağıdaki gibi oluşturun:
+4. Şu şekilde bir mailflow aktarım kuralı oluşturun:
 
-    - Gönderen "Kuruluş Dışında" ise
-    - İletiyi Catchall@domain.com'a yönlendirme
-    - Alıcı allusers@domain.com üyesi yse (Dağıtım Grubu tüm üyeleri içerir)
-    - Dinamik Dağıtım Grubuna yeni posta kutularının eklenmesini doğrulamayı sağlamak
+    - Gönderen "kuruluşun dışına" ise
+    - İletiyi Catchall@domain.com 'e yönlendirme
+    - Alıcının üyesi olması dışında (dağıtım grubu tüm üyeleri içerir)
+    - Dinamik dağıtım grubuna yeni posta kutularının eklendiğini doğrulama

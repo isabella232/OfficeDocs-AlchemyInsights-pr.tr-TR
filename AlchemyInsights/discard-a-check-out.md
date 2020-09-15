@@ -1,28 +1,29 @@
 ---
-title: Kullanıma ait bir kullanıma girişi atın
+title: Kullanıma almayı iptal etme
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 543cbd51120bc87675d82597673a681bc5fc53b3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 51835611492b70627ef8f563f98b2922ee1454f3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715134"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712348"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>Bir belge kitaplığından kullanıma son atma
+# <a name="discard-a-check-out-from-a-document-library"></a>Belge kitaplığından kullanıma almayı iptal etme
 
-1. Kullanıma almak istediğiniz dosyayı sağ tıklatın.
+1. Kullanıma almayı atmak istediğiniz dosyayı sağ tıklatın.
     
-2. **Daha Fazla'yı**tıklatın ve sonra Kullanıma Ver'i **At'ı**tıklatın. 
+2. **Diğer**'e ve ardından kullanıma **almayı at**'a tıklayın. 
     
-3. İletişim kutusundan, kullanıma girişi temizlemek için **Kullanıma Aç'ı** tıklatın. 
+3. Kullanıma alma 'yı temizlemek için iletişim kutusunda kullanıma **almayı iptal** et 'e tıklayın. 
     
-Check-in ve check-out ile ilgili ek sorularınız için [check-out, check-in ve sürümler hakkındaki en önemli sorulara](https://go.microsoft.com/fwlink/?linkid=2018786)bakın.
+İade etme ve kullanıma alma hakkında ek sorular için, [kullanıma alma, iade etme ve sürümler hakkında en önemli soruları](https://go.microsoft.com/fwlink/?linkid=2018786)görün.
   
 

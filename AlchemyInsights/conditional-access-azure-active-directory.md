@@ -1,24 +1,25 @@
 ---
-title: Intune ile Koşullu Erişim
+title: Intune ile koşullu erişim
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: b5c5e86a2239a31a6edaa5d6a90273a3f593777d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8070c4aa9483ed5baed558457e09190ccd88dcd2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050077"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713547"
 ---
-# <a name="conditional-access"></a>Koşullu Erişim
+# <a name="conditional-access"></a>Koşullu erişim
 
-Koşullu erişim, Azure Active Directory'nin bir özelliğidir. Koşullu erişimle, koşullara dayalı bulut uygulamalarınıza erişmek için otomatik erişim denetimi kararları uygulayabilirsiniz. Daha fazla bilgi için lütfen Konum Tabanlı İlkeleri Yapılandırma sayfasını ziyaret [edin.](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)
+Koşullu erişim, Azure Active Directory 'nin bir özelliğidir. Koşullu erişimle, koşullara dayalı bulut uygulamalarınıza erişmek için otomatik erişim denetim kararlarını uygulayabilirsiniz. Daha fazla bilgi için lütfen [konum tabanlı Ilkeleri yapılandırma](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)bölümüne gidin.
 
-BT yöneticisi olarak, sharepoint ve OneDrive kaynaklarına erişimi tanımlı ağ konumlarını veya güvendiğiniz aygıtları temel alan olarak da denetleyebilirsiniz. Daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
+BT Yöneticisi olarak, SharePoint ve OneDrive kaynaklarına erişimi, tanımlanan ağ konumlarına veya güvendiğiniz aygıtlara göre de denetleyebilirsiniz. Daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
 
 - [Ağ konumuna dayalı olarak SharePoint Online ve OneDrive verilerine erişimi denetleme](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
