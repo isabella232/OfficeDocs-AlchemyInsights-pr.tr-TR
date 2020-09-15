@@ -1,35 +1,36 @@
 ---
-title: 9000238 Outlook.com takma ad eklemek
+title: 9000238 Outlook.com diğer ad ekleme
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: 48645126925cd5e40fae435c55847501ec1c17d8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 178917a3d7aa5110fdaab9fb5210b3585180c37b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760972"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672903"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>Outlook.com'da e-posta takma adı ekleme
+# <a name="add-an-email-alias-in-outlookcom"></a>Outlook.com 'de e-posta diğer adı ekleme
 
-Takma ad, birincil e-posta adresinizle aynı gelen kutusunu, kişi listesini ve hesap ayarlarını kullanan ek bir e-posta adresidir. Posta göndermek için hangi e-posta adresini seçebilirsiniz ve takma adlarınızla Outlook.com hesabınızda oturum açabilirsiniz — hepsi aynı parolayı kullanır.
+Diğer ad, birincil e-posta adresiniz olarak aynı gelen kutusu, kişi listesi ve hesap ayarları 'nı kullanan ek bir e-posta adresidir. Posta göndermek istediğiniz e-posta adresini seçebilir ve diğer adlarınızın herhangi biriyle Outlook.com hesabınızda oturum açabilirsiniz; hepsi aynı parolayı kullanır.
 
 E-posta adresi eklemek için:
 
-1. Takma [ad ekle'ye](https://go.microsoft.com/fwlink/p/?linkid=864833)git. İstenirse Microsoft hesabınızda oturum açın.
-2. Takma **ad ekle**altında, aşağıdakileri de ekleyin:
-    1. Yeni bir Outlook.com e-posta adresi oluşturun ve takma ad olarak ekleyin.
-    2. Varolan bir e-posta adresini takma ad olarak ekleyin.
-3. **Diğer ad ekle'yi**seçin.
+1. [Diğer ad ekleme](https://go.microsoft.com/fwlink/p/?linkid=864833)bölümüne gidin. İstenirse Microsoft hesabınızda oturum açın.
+2. **Diğer ad ekleme**altında, aşağıdakilerden birini yapın:
+    1. Yeni bir Outlook.com e-posta adresi oluşturun ve bunu diğer ad olarak ekleyin.
+    2. Var olan bir e-posta adresini diğer ad olarak ekleyin.
+3. **Diğer ad Ekle**'yi seçin.
 
-[Outlook.com'da bir e-posta takma adını nasıl ekleyeceğiniz veya kaldırılabildiğiniz](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)hakkında daha fazla bilgi edinin.  
+[Outlook.com 'ta e-posta diğer adı ekleme veya kaldırma](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)hakkında daha fazla bilgi edinin.  
 
-[Başka bir e-posta hesabını](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) Outlook.com hesabınıza nasıl bağlayabilirsiniz' okuyun.
+[Başka bir e-posta hesabını](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) Outlook.com hesabınıza bağlama konusunu okuyun.

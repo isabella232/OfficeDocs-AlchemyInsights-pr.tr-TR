@@ -1,25 +1,26 @@
 ---
-title: 9000234 Outlook.com dahili sunucu hatası
+title: 9000234 Outlook.com iç sunucu hatası
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 3f21b33866d0fe420c42b0c54350a43c99777f6f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 10dfff5d88ce5ff7c099ed55b1ecebe606831d64
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760108"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47671608"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a>Outlook.com iç sunucu hataları
+# <a name="internal-server-errors-in-outlookcom"></a>Outlook.com 'de iç sunucu hataları
 
-Hayır, hayır! "Hata 500" veya "Dahili Sunucu Hatası" iletisi görürseniz, bu bizim değil, sizsiniz - bunun için üzgünüm.
+Hayır! "Hata 500" veya "Iç sunucu hatası" iletisi görürseniz, bu bizim hakkımda.
 
-Başka bir şey olup olmadığından emin olmak için [Office Hizmet Durumu sayfasına](https://portal.office.com/servicestatus) göz atın, ancak en iyi çözüm birkaç dakika mola vermek, ardından **CTRL** ve **F5**tuşuna basarak tarayıcınızı yenilemektir.
+Başka bir şey olmadığından emin olmak için [Office hizmet durumu sayfasına](https://portal.office.com/servicestatus) göz atın, ancak en iyi çözüm birkaç dakika boyunca mola yapıp tarayıcınızı yenileyerek **CTRL** ve **F5**tuşlarına basın.
