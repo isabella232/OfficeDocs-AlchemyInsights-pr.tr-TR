@@ -1,34 +1,35 @@
 ---
-title: Dış Gruplar nasıl devre dışı edilir?
+title: Dış grupları devre dışı bırakma
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: 2159feb4aa3999072de57d76790a2959c7355976
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7a1bbda3a54d2662bdfe21cda961c32456edb82
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720788"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704148"
 ---
-# <a name="how-to-disable-external-groups"></a>Dış Gruplar nasıl devre dışı edilir?
+# <a name="how-to-disable-external-groups"></a>Dış grupları devre dışı bırakma
 
-Yammer harici mesajlaşma, şirket bilgilerinin paylaşılmasını önlemek için bir dizi proaktif denetim olan Exchange Transport Rules (ETR) uygular. Kullanıcıların dış gruplar oluşturmasını kısıtlamak için, bir Exchange aktarım kuralını (ETR) yapılandırmanız ve ardından Yammer'ı dış iletileri engellemek için Exchange Aktarım kuralını kullanacak şekilde yapılandırmanız gerekir.
+Yammer dış mesajlaşma, şirket bilgilerinin paylaşılmasını önleyen bir dizi önleyici denetim olan Exchange aktarma kuralları 'nı (ETRs) uygular. Kullanıcıların dış gruplar oluşturmasını engellemek için, bir Exchange aktarma kuralı (ETR) yapılandırmanız ve ardından Yammer 'ı, dış iletileri engellemek üzere Exchange Aktarım kuralını kullanacak şekilde yapılandırmanız gerekir.
   
-Exchange Online yönetici merkezinde bir kural oluşturduktan sonra, ETR'yi Yammer'da uygulanacak şekilde ayarlamak için aşağıdaki adımları izleyin:
+Exchange Online Yönetim merkezinde bir kural oluşturduktan sonra, ETR 'i Yammer 'da uygulanacak şekilde ayarlamak için şu adımları izleyin:
   
-- Doğrulanmış bir yönetici olarak Yammer'da oturum açın ve **Yammer yönetici merkezinde**C **İçerik ve \> Güvenlik Ayarları'na gidin.**
+- Yammer 'da doğrulanmış yönetici olarak oturum açın ve **Yammer Yönetim merkezinde**C **içeriği ve güvenlik \> güvenliği ayarları** 'na gidin.
 
-- **Harici İleti altında,** **Yammer'daki Exchange Online Exchange Aktarım Kurallarınızı (ETR) uygulayın'ı seçin.**
+- **Dış mesajlaşma**'nın altında, **Yammer 'Da Exchange Online Exchange aktarma kurallarınızı (ETRs) zorla** 'yı seçin.
 
 - **Kaydet**'i seçin.
 
-Daha fazla bilgi için, [bir Yammer ağında harici iletileri devre dışı bırakın.](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)
+Daha fazla bilgi için bkz [.](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)
   
