@@ -1,37 +1,38 @@
 ---
-title: Hizmet olarak yazılım uygulama lisanslarını etkinleştirme ve atama
+title: Hizmet olarak yazılımı etkinleştirme ve atama
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: f75fe2a4d6ceb094dcf490b6c2a21b4c8254c4ce
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8e0742a528a8bf5beefb32e32c5139b35ecad38d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062160"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698594"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Hizmet olarak yazılım uygulama lisanslarını etkinleştirme ve atama 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Hizmet olarak yazılımı etkinleştirme ve atama 
 
 ## <a name="to-activate-apps"></a>Uygulamaları etkinleştirmek için
 
-1. Yönetici merkezinde, Ürünlerinizi **Faturalandırma**sayfasına gidin  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** ve ardından **Uygulamalar** sekmesini seçin.
+1. Yönetim merkezinde, **Billing**  >  **[Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin ve **uygulamalar** sekmesini seçin.
 
 2. Yönetmek istediğiniz uygulamayı bulun ve seçin.
 
-3. **Lisanslar**altında, **hesabı ayarla'yı**seçin.  
+3. **Lisanslar**'ın altında **Hesap ayarla**'yı seçin.  
 
 ## <a name="to-assign-app-licenses"></a>Uygulama lisansları atamak için
 
-1. Yönetici merkezinde, Ürünlerinizi **Faturalandırma**sayfasına gidin  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** ve ardından **Uygulamalar** sekmesini seçin.
+1. Yönetim merkezinde, **Billing**  >  **[Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin ve **uygulamalar** sekmesini seçin.
 
 2. Yönetmek istediğiniz uygulamayı bulun ve seçin.  
 
-3. **Ayarlar & eylemleri**altında, **yayıncının portalında Yönet**bağlantısını seçin.
+3. **Ayarlar & eylemler**altında, **Publisher portalında Yönet**bağlantısını seçin.

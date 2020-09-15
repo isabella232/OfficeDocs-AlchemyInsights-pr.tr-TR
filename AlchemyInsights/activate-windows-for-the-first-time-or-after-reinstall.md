@@ -1,32 +1,33 @@
 ---
-title: Windows 10'u ilk kez veya yeniden yükledikten sonra etkinleştirme
+title: Windows 10 ' u ilk kez veya yeniden yükleme sonrası etkinleştirme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3485"
 - "9001418"
-ms.openlocfilehash: 23c01d7ff929495914b18c5218adf8669f76d7ea
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 981583abd210c3263bfe09e4c3147870a1ae0c7c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796439"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698189"
 ---
-# <a name="activate-windows-10"></a>Windows 10'u etkinleştirme
+# <a name="activate-windows-10"></a>Windows 10 ' u etkinleştirme
 
-**Windows 10'u ilk kez yükledikten sonra etkinleştirmek için:**
+**Windows 10 ' u ilk kez yükledikten sonra etkinleştirmek için:**
 
-- Windows 10'u, üzerinde Windows 10'un daha önce hiç etkinleştirilmiş bir kopyası olmayan bir aygıtta etkinleştirmek için geçerli bir ürün anahtarı kullanmanız gerekir.
-- Ayrıca, aygıtta daha önce etkinleştirilmemiş bir Windows 10 sürümünü yüklüyorsanız geçerli bir ürün anahtarına da ihtiyacınız vardır. Örneğin, Windows 10 Home yüklü bir cihaza Windows 10 Pro yüklemek ve etkinleştirmek için geçerli bir Windows 10 Pro ürün anahtarına ihtiyacınız vardır.
-- Yükleme sırasında, geçerli bir ürün anahtarı girmeniz istenir. Yükleme tamamlandıktan sonra, Windows 10 otomatik olarak çevrimiçi olarak etkinleştirilir. Windows 10'da etkinleştirme durumunu denetlemek için, Güvenlik**** >  > **Etkinleştirme**& Ayarlar Güncelleştirmesi'ni **başlat'ı**> seçin.****
+- Windows 10 ' un etkinleştirilmiş bir kopyası olmayan bir cihazda Windows 10 ' u etkinleştirmek için geçerli bir ürün anahtarı kullanmanız gerekir.
+- Önceden cihazda etkinleştirilmemiş bir Windows 10 sürümü yüklüyorsanız da geçerli bir ürün anahtarı gerekir. Örneğin, Windows 10 Home yüklü bir cihaza Windows 10 Pro 'Yu yüklemek ve etkinleştirmek için geçerli bir Windows 10 Pro ürün anahtarına ihtiyacınız olacak.
+- Yükleme sırasında geçerli bir ürün anahtarı girmeniz istenir. Yükleme tamamlandıktan sonra Windows 10 otomatik olarak çevrimiçi etkinleştirilir. Windows 10 ' da etkinleştirme durumunu denetlemek için, **Start** >  **Settings**  >  **güvenlik etkinleştirme &** başlangıç ayarları güncelleştirme 'yi seçin  >  **Activation**.
 
-**Windows 10'u yeniden yükledikten sonra etkinleştirmek için:**
+**Windows 10 ' u yeniden yükledikten sonra etkinleştirmek için:**
 
-- Windows 10'a ücretsiz yükseltme yi etkinleştirdiyseniz veya Microsoft Mağazası'ndan Windows 10 satın aldıysanız ve etkinleştirdiyseniz, cihazınız için ürün anahtarı yerine dijital lisansınız olur. Bu, cihazınızın bir ürün anahtarı girmeden dijital lisansa sahip olduğu Windows 10 sürümünü yeniden yükleyebileceğiniz anlamına gelir.
-- Yeniden yükleme sırasında, bir ürün anahtarı girmeniz **istenirse, Atla'yı**seçin. Çoğu durumda, windows 10 yeniden yüklemeden önce cihazınızda etkinleştirildiyse, siz çevrimiçi olduktan sonra otomatik olarak etkinleştirilir.
+- Windows 10 ' a ücretsiz yükseltmeyi etkinleştirdiyseniz veya Microsoft Mağazası 'ndan Windows 10 ' u satın aldıysanız veya etkinleştirdiyseniz, ürün anahtarı yerine cihazınızın dijital lisansına sahip olursunuz. Bu, Windows 10 ' un aynı sürümünü, cihazınızın ürün anahtarı girmeden dijital lisansı olan sürümünü yeniden yükleyebileceğiniz anlamına gelir.
+- Yeniden yükleme sırasında ürün anahtarı girmeniz istenirse **Atla**'yı seçin. Çoğu durumda, Windows 10 cihazınızda yeniden yüklenmeden önce etkinleştirildiyse, çevrimiçi olduktan sonra otomatik olarak etkinleştirilir.
