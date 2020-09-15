@@ -1,31 +1,32 @@
 ---
 title: Profil eşitleme
-ms.author: arnek
-author: arnek
+ms.author: pebaum
+author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: dc6e0280961d14aa3e6bd466afbe0cbe89418d17
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768133"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801789"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Profilim ne zaman SharePoint Kullanıcı Profili Uygulamasıile senkronize olur?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Profilim SharePoint kullanıcı profili uygulamasıyla eşitlensin mi?
 
-SharePoint Online, kullanıcıları ve grupları Kullanıcı Profili Uygulamasına aktarmak için Active Directory Import timer işini (AD Alma) kullanır. 
+SharePoint Online, Kullanıcı ve grupları Kullanıcı profili uygulamasına aktarmak için Active Directory Içeri aktarma zamanlayıcı işini (AD aktarma) kullanır. 
   
-1. AD Alma, SharePoint Online Directory Store'dan Kullanıcı Profili Uygulamasına değişiklikleri eşitler. Bu değişiklikler toplu olarak işlenir.
+1. AD alma, SharePoint Online dizin deposundaki değişiklikleri Kullanıcı profili uygulamasına eşitler. Bu değişiklikler toplu olarak işlenir.
     
-2. Zamanlayıcı işi, değişiklikler eşitlenene kadar çalışır.
+2. Değişiklikler eşitlenene kadar Zamanlayıcı işi çalışır.
     
 > [!NOTE]
-> İşi çalıştırmak için aldığı süre, işlemdeki değişikliklerin sayısına bağlıdır. Çok sayıda değişiklik daha uzun sürer. Hizmet Düzeyi Sözleşmesi (SLA), SharePoint Online Dizininde bir kullanıcıdeğişikliğinin 24 saat içinde Kullanıcı Profili Uygulamasına yansıyacağını belirtir. 
+> İşin çalışacağı süre, işlenecek değişiklik sayısına bağlıdır. Çok sayıda değişiklik uzun sürer. Hizmet düzeyi sözleşmesi (SLA), SharePoint Online dizinindeki bir kullanıcıya yapılan değişikliğin 24 saat içinde Kullanıcı profili uygulamasına yansıtılacağını belirtir. 
   
-[SharePoint Online kullanıcı profili senkronizasyonu hakkında daha fazla bilgi](https://go.microsoft.com/fwlink/?linkid=875671)
+[SharePoint Online 'da Kullanıcı profili eşitleme hakkında daha fazla bilgi](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

@@ -1,26 +1,27 @@
 ---
-title: iOS Sağlama Profilleri Kural Id 1029
+title: iOS sağlama profilleri kural kimliği 1029
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: 07f98f96958e4897a3e14cef424cb0d7bd491dcc
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: a571261ffcb327da50832bc5cb7169b769c2122c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765937"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695813"
 ---
-# <a name="ios-provisioning-profiles"></a>iOS Sağlama Profilleri
+# <a name="ios-provisioning-profiles"></a>iOS sağlama profilleri
 
-Apple iOS iş yeri, uygulamanın bütünlüğünü doğrulamak ve profilde tanımlanan ilkeleri uygulamak için kullanılan bir sağlama profili kavramını kullanır. Bu sağlama profillerinin süresi 12 ay sonra sona erer ve bu nedenle uygulamaların çalışmaya devam edebilmesi için dağıtılan uygulamayla yeni bir profilin ilişkilendirilmesi gerekir.
+Apple iOS iş kolu, uygulamanın bütünlüğünü doğrulamak ve profilde tanımlanan ilkeleri zorlamak için kullanılan bir sağlama profili kavramı kullanır. Bu hazırlama profillerinin 12 ay sonra dolacağı için, uygulamaların çalıştırılmaya devam edebilmesi için dağıtılmış uygulama ile yeni bir profilin ilişkilendirilmesi gerekir.
   
-Aşağıdaki makalede, yeni bir sağlama profilinin Intune üzerinden dağıtılan bir iOS LOB uygulamasıyla nasıl ilişkilendirilen bir uygulama oluşturulacağı açıklanmaktadır: [Uygulamalarınızın süresinin dolmasını önlemek için iOS uygulama sağlama profillerini kullanın](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+Aşağıdaki makalede, Intune ile dağıtılan bir iOS LOB uygulamasıyla yeni bir sağlama profilinin nasıl oluşturulacağı açıklanır: [uygulamalarınızın zaman aşımına uğramasını önleyen iOS uygulama sağlama profillerini kullanma](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
   
