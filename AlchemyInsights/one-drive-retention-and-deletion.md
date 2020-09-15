@@ -5,6 +5,7 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,25 +13,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 5d2ae0d21ab43814235feee8cc2b60290a17ad51
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c5fd94b91d0938f6adbfa10848d875a02ba23f00
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511024"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673481"
 ---
 # <a name="onedrive-retention-and-deletion"></a>OneDrive bekletme ve silme
 
-- [Silinen kullanıcılar onedrive'ı](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) kendiniz geri yükleyebilirsiniz. Onlar 93 Gün için geri dönüşüm kutusunda bulunmaktadır.
+- [Silinmiş Kullanıcılar OneDrive 'ı kendiniz geri yükleyebilirsiniz](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) . Geri dönüşüm kutusu 'nda 93 gündür.
 
-- Öğrenmek için [bu makaleye](https://docs.microsoft.com/onedrive/retention-and-deletion) bakın:
-    - Başka bir kullanıcıya silinmiş bir kullanıcının OneDrive'ına nasıl erişilir.
-    - Kuruluşunuzun kullanıcımicrosoft 365 hesabını sildiğinizde bir kullanıcının OneDrive'ına ne olur?
-    - Otomatik erişim delegasyonu nasıl yapılandırılabilen.
+- Şunları öğrenmek için [Bu makaleye](https://docs.microsoft.com/onedrive/retention-and-deletion) bakın:
+    - Başka bir kullanıcıya silinen bir kullanıcının OneDrive 'a erişim hakkı verme.
+    - Kuruluşunuzun Microsoft 365 hesabını sildiğinizde kullanıcının OneDrive 'da gerçekleşecek olan nedir?
+    - Otomatik erişim temsilcisini yapılandırma
     - OneDrive silme işlemi nasıl çalışır?
 
-- OneDrive'daki geri dönüşüm kutusundan öğeleri geri yükleme hakkında bilgi için [silinen dosyaları veya klasörleri geri yükleyin'](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)e bakın.
+- OneDrive 'daki geri dönüşüm kutusu 'ndan öğeleri geri yükleme hakkında bilgi için, [silinmiş dosyaları veya klasörleri geri yükleme](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)bölümüne bakın.
 
-- Güvenlik ve Uyumluluk Merkezi saklama ve tutma ile ilgileniyor musunuz?
+- Güvenlik ve Uyumluluk Merkezi tutma ve tutma ile ilgileniyor musunuz?
     - [OneDrive ve SharePoint siteleri için bekletme ilkeleri](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-    - [OneDrive ve SharePoint siteleri için eDiscovery bekleme](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+    - [OneDrive ve SharePoint siteleri için eBulma saklama](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)

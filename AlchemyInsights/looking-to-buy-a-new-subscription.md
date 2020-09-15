@@ -1,5 +1,5 @@
 ---
-title: Yeni bir abonelik satın almak mı arıyorsunuz?
+title: Yeni bir abonelik satın almak mı istiyorsunuz?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7ad6b96485d098be76b98c1bb53c67c885978fce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505563"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675210"
 ---
-# <a name="looking-to-buy-a-new-subscription"></a>Yeni bir abonelik satın almak mı arıyorsunuz?
+# <a name="looking-to-buy-a-new-subscription"></a>Yeni bir abonelik satın almak mı istiyorsunuz?
 
-İşletme aboneliği için zaten bir Microsoft 365'iniz varsa ve kuruluşunuz için başka bir abonelik satın almak istiyorsanız, kuruluşunuzun kullanabileceği aboneliklerin listesini görmek için **Fatura Satın** \> [Alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfasına gidin.
+Zaten bir Microsoft 365 iş aboneliğiniz varsa ve kuruluşunuz için başka bir abonelik satın almak istiyorsanız, **Billing** \> kuruluşunuzdaki kullanılabilir Aboneliklerin listesini görmek için faturalandırma [satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfasına gidin.
  
-1. İstediğiniz aboneliği seçin ve ardından **Satın Al'ı**seçin.
+1. İstediğiniz aboneliği seçin ve sonra **satın al**'ı seçin.
 
-2. Nasıl ödeme yapmak istediğinizi ve gereken kullanıcı lisanslarının sayısını seçin.
+2. Nasıl ödeme yapmak istediğinizi ve gereken kullanıcı lisansı sayısını seçin.
 
-3. **Alışverişi şimdi bitir**'i seçin. Bir sonraki sayfada, siparişi gözden geçirebilir ve satın alma işlemini tamamlayabilirsiniz.
+3. **Alışverişi şimdi bitir**'i seçin. Sonraki sayfada, siparişi gözden geçirebilir ve satın almayı tamamlayabilirsiniz.
 
-4. Satın alma işleminiz tamamlandığında, lisansları yeniden atamanız veya aboneliği iptal etmeniz gerekebilir. Bu yardım için lütfen aşağıdaki Ek Kaynaklar bölümüne bakın.
+4. Satın alma işlemi tamamlandığında lisansları yeniden atamanız veya aboneliği iptal etmeniz gerekebilir. Bu konuda yardım almak için lütfen aşağıdaki ek kaynaklar bölümüne bakın.
 
  **Ek kaynaklar:**
   
-- [İşletmeler için Microsoft 365'teki kullanıcılara lisans atama](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Microsoft 365 iş 'te kullanıcılara lisans atama](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
 - [Aboneliğinizi iptal etme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Abonelikleri değiştirmek istiyorsanız, iş [planı için farklı bir Microsoft 365'e geçiş'e bakın.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- Abonelikleri değiştirmeyi düşünüyorsanız, bkz: [farklı bir iş Için Microsoft 365.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

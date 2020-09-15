@@ -1,26 +1,27 @@
 ---
-title: "'OneDrive hesabı silinecek' mesajı"
+title: "' OneDrive hesabı silinecek ' iletisi"
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: 954003081073312562941352b73afe5fa07bd4d1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b8e1a4617dc2560b5255b530c121324c5cfb4c1a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761224"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673337"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>"OneDrive hesabı silinecek" mesajı
+# <a name="onedrive-account-will-be-deleted-message"></a>"OneDrive hesabı silinecek" iletisi
 
-email@mail.onedrive.com'dan "OneDrive hesabınız silinecek" uyarısı içeren bir e-posta aldıysanız, lütfen bunun OneDrive for Business hesabınız değil, kişisel OneDrive.com hesabınız olduğunu unutmayın. 
+Email@mail.onedrive.com uyarısından "OneDrive hesabınız silinir" uyarısını içeren bir e-posta alırsanız lütfen bu, OneDrive Iş hesabınız değil kişisel OneDrive.com hesabınızın olduğunu unutmayın. 
   
-Kişisel OneDrive'ı kullanıp kullanmadığınızdan emin değilseniz, hesabınızı yeniden etkinleştirmek ve gözden geçirmek için onedrive.com oturum açın.
+Kişisel OneDrive 'ı kullandığınızdan emin değilseniz, hesabınızı yeniden etkinleştirmek ve gözden geçirmek için onedrive.com 'te oturum açın.
   
-Daha fazla bilgi için, [hesabınızsilineceğini belirten bir e-postayı neden aldım?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
+Daha fazla bilgi için, [hesabınızın silineceğini söyleyen neden e-posta alıyorum?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
   
 
