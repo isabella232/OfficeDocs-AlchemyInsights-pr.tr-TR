@@ -1,28 +1,29 @@
 ---
-title: İşletmeler için OneDrive'ı İndirin
+title: OneDrive Iş 'i indirin
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003082"
 - "5904"
-ms.openlocfilehash: ec73b305e8acb8a71740c26d05a09ed51469a0b7
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: cd7c8badaeb9afb4bcd6ef52b6506ffeb0daca57
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44847112"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678668"
 ---
-# <a name="download-onedrive-for-business"></a>İşletmeler için OneDrive'ı İndirin
+# <a name="download-onedrive-for-business"></a>OneDrive Iş 'i indirin
 
-Windows 10'unvarsa, OneDrive bilgisayarınıza zaten yüklenir. Windows'un başka bir sürümünü kullanıyorsanız, başlamak için OneDrive'ı yükleyin.
+Windows 10 kullanıyorsanız, OneDrive bilgisayarınıza zaten yüklenir. Windows 'un başka bir sürümünü kullanıyorsanız, başlamak için OneDrive 'ı yükleyin.
 
-- OneDrive for [Business'ı buradan](https://www.microsoft.com/microsoft-365/onedrive/download)indirebilirsiniz.
-- İndirilip yüklendikten sonra, kullanıcılardan iş veya okul hesaplarında oturum açmaları istenir.
-- [OneDrive'ı kapatın,](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)devre dışı kaldırın veya kaldırın.
-- Dosyaları [Windows'da](https://support.microsoft.com/office/615391c4-2bd3-4aae-a42a-858262e42a49) veya [Mac'te](https://support.microsoft.com/office/d11b9f29-00bb-4172-be39-997da46f913f)OneDrive ile eşitleyin.
+- OneDrive Iş  [buradan](https://www.microsoft.com/microsoft-365/onedrive/download)indirilebilir.
+- İndirildikten sonra, kullanıcılardan iş veya okul hesabında oturum açması istenir.
+- [OneDrive 'ı kapatın, devre dışı bırakın veya kaldırın](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0).
+- [Windows](https://support.microsoft.com/office/615391c4-2bd3-4aae-a42a-858262e42a49) veya [Mac](https://support.microsoft.com/office/d11b9f29-00bb-4172-be39-997da46f913f)'te OneDrive ile dosyaları eşitleme.

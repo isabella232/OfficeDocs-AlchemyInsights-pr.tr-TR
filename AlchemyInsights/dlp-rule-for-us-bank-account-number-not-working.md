@@ -1,49 +1,50 @@
 ---
-title: ABD Banka Hesap Numarası çalışmıyor için DLP kuralı
+title: ABD banka hesap numarası için DLP kuralı çalışmıyor
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: b032a7c80e8b387114aeda95c4f6af7e57225517
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: eb399e4b23de32a757562833ed32d97daa6a1247
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507354"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679316"
 ---
-# <a name="dlp-issues-with-us-bank-account-numbers"></a>ABD banka hesap numaraları ile DLP sorunları
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>ABD banka hesap numaralarıyla ilgili DLP sorunları
 
 **Önemli**: Bu benzeri görünmemiş zamanlarda, SharePoint Online ve OneDrive hizmetlerinin kullanılabilirlik düzeyinin her zaman yüksek olmasını sağlamaya yönelik adımlar atıyoruz. Daha fazla bilgi için lütfen [SharePoint Online Geçici Özellik Değişiklikleri](https://aka.ms/ODSPAdjustments) sayfasını ziyaret edin.
 
-**ABD banka hesap numaraları ile DLP sorunları**
+**ABD banka hesap numaralarıyla ilgili DLP sorunları**
 
-O365'te DLP'ye duyarlı bilgi türünü kullanırken **ABD Banka Hesap Numarası** içeren içerik için çalışmayan Veri Kaybı Önleme **(DLP)** ile ilgili sorunlar mı yaşıyorsunuz? Bu nedenle, içeriğinizin DLP ilkesinin değerlendirildiğinde aradığı bilgiler için gerekli bilgileri içerdiğinden emin olun.
+O365 'de DLP duyarlı bir bilgi türü kullanırken, **ABD banka hesap numarası içeren bir ABD banka hesap numarası** içeren içerik Için çalışmayan **veri kaybı önleme (DLP)** sorunlarıyla karşılaşıyor musunuz? Bu durumda, içeriğinizin değerlendirilme sırasında hangi özelliklere sahip olduğuna ilişkin gerekli bilgileri içerdiğinden emin olun.
   
-Örneğin, %85 güven düzeyiyle yapılandırılan bir **ABD Banka Hesap Numarası** ilkesi için aşağıdakiler değerlendirilir ve kuralın tetiklemesi için algılanmalıdır:
+Örneğin, %85 güvenilirlik düzeyiyle yapılandırılmış **US banka hesap numarası** ilkesinde, aşağıdakiler değerlendirilir ve kuralın tetiklenmesi için algılanabilmesi gerekir:
   
-- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 basamak
+- **[Biçim:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 basamak
 
-- **[Desen:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 ardışık basamak.
+- **[Desen:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 ardışık basamaklar.
 
-- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Hayır, Checksum diye bir şey yok.
+- **[Sağlama toplamı:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Hayır, sağlama toplamı yok
 
-- **[Tanım:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** Bir DLP ilkesi, 300 karaktere yakın bir mesafede bu tür hassas bilgileri algılayıştıracağından %75 emindir:
+- **[Tanımı:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** DLP İlkesi, 300 karakterlerinin bir yakınlığı ile bu tür hassas bilgileri algıladığı için %75.
 
   - Normal ifade Regex_usa_bank_account_number desenle eşleşen içeriği bulur
 
-  - Keyword_usa_Bank_Account'dan bir anahtar kelime bulunur.
+  - Keyword_usa_Bank_Account 'dan bir anahtar sözcük bulundu.
 
-    Örneğin, AŞAĞıDAKI örnek **ABD Banka Hesap Numarası** politikası için tetikleyeceği gibi: Çek Hesabı 78344011
+    Örneğin, aşağıdaki örnek **ABD banka hesap numarası** ilkesini tetikleyecektir: hesap 78344011
 
-İçeriğiniz için bir ABD **Banka Hesap Numarasının** algılanması için gerekenler hakkında daha fazla bilgi için bu makaledeki aşağıdaki bölüme bakın: [Hassas Bilgi Türleri ABD Banka Hesap Numarası için ne arar](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
+İçeriğiniz için bir **ABD banka hesap numarasının** gerekli olması gerekenler hakkında daha fazla bilgi için, bu makalenin aşağıdaki bölümüne BAKıN: [ABD banka hesap numarası Için hassas bilgi türleri](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
   
-Farklı bir yerleşik duyarlı bilgi türünü kullanarak, diğer türler için nelerin gerekli olduğu hakkında bilgi için aşağıdaki makaleye bakın: [Hassas Bilgi Türlerinin aradığı](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Farklı yerleşik duyarlı bir bilgi türü kullanarak, diğer türler için gerekenler hakkında bilgi için aşağıdaki makaleye bakın: [hassas bilgi türleri](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

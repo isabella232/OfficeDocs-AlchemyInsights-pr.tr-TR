@@ -1,32 +1,33 @@
 ---
-title: 'Defender Müşteri Tamper Koruma '
+title: 'Defender Istemci üzerinde koruma koruması '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 909874d06e74e7df9c2eec9b47c89c25a30ac58c
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738518"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680524"
 ---
-# <a name="defender-tamper-protection"></a>Defans Kurcalamaya Karşı Koruma 
+# <a name="defender-tamper-protection"></a>Defender 'ın üzerinde koruma 
 
-Tamper Koruması ile kötü amaçlı uygulamaların bu gibi eylemlerde yer alması engellenir:
+Çalışırken koruma sayesinde, kötü amaçlı uygulamaların bunlar gibi işlemleri uygulaması engellenir:
 
-- Virüs ve tehdit korumasının devre dışı bırakılması
+- Virüs ve tehdit korumasını devre dışı bırakma
 - Gerçek zamanlı korumayı devre dışı bırakma
 - Davranış izlemeyi kapatma
-- Antivirüs devre dışı bırakma (IOfficeAntivirus (IOAV) gibi))
-- Bulut tarafından teslim edilen korumayı devre dışı bırakma
-- Güvenlik istihbarat güncelleştirmelerini kaldırma
+- Virüsten koruma (IOfficeAntiVirus (ıOAV) gibi)
+- Buluta teslim edilen korumayı devre dışı bırakma
+- Güvenlik Zekası güncelleştirmelerini kaldırıyor
 
-Daha fazla bilgi için bkz: [Tamper Koruması ile güvenlik ayarlarını koru.](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)
+Daha fazla bilgi için bkz [.](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)

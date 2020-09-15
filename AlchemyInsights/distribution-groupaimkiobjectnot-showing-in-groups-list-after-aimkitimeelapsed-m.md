@@ -1,23 +1,24 @@
 ---
-title: Dağıtım Grubu '{AimKIObject}' ({AimKITimeElaps} dakikasonra Gruplar listesinde görünmüyor)
+title: "' {Asankiobject} ' dağıtım grubu {Asankitimeminutes} dakika sonra Gruplar listesinde gösterilmiyor"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: c1a575b305701953c1b21bee6ebdff5e87072961
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5e813c7bf0fd98bc13ea1148167df1a576e363ac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715062"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679821"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Dağıtım Grubu "{AimKIObject}" Gruplar listesinde {AimKITimeElapsed} dakika sonra görünmüyor
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>"{Asankiobject}" dağıtım grubu {Asankitimeminutes} dakika sonra Gruplar listesinde gösterilmiyor
 
-Grubunuz "{AimKIObject}" birkaç dakika önce {AimKITimeElapsed} oluşturuldu. Normalde yeni dağıtım grubunuzun Yönetici merkezinde görünmesi 60 dakikadan uzun sürmez.
+"{Asankiobject}" grubunuz {Asankitimeminutes} dakika önce oluşturuldu. Yeni dağıtım grubunuzun Yönetim merkezinde görünmesi genellikle 60 dakikadan fazla sürer.
   
-[Exchange Yönetici Merkezi'ndeki](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) Alıcılar > Grupları özelliğini grubunuzu yönetmek için kullanabilir veya bir destek mühendisiyle konuşmak için "Sizi arayalım" seçeneğini kullanabilirsiniz. 
+Grubunuzu şimdi yönetmek için [Exchange Yönetim merkezinde](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) alıcılar > Groups özelliğini kullanabilir veya bir destek mühendisiyle konuşmak için "sizi arayalım" seçeneğini kullanabilirsiniz. 
   

@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 3da19ce8f44cdc08aed708e9bf238350764843f4
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c8bdc9ff2ce61af24e886559bd78ecb99ce56921
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37976073"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677696"
 ---
-# <a name="troubleshoot-your-printer"></a>Yazıcınızın sorun giderme
+# <a name="troubleshoot-your-printer"></a>Yazıcınızda sorun giderme
 
-Yazıcı sorunları yaşıyorsanız, önce bir **yazıcı güç döngüsü**gerçekleştirmeyi deneyin. İzleyeceğiniz adımlar:
+Yazıcı sorunlarıyla karşılaşıyorsanız öncelikle **yazıcı güç döngüsünü**deneyin. Şu adımları izleyin:
 
-1. Yazıcınızı kapatın ve güç kablosunun fişini çekin.
+1. Yazıcınızı kapatıp güç kablosunu çıkarın.
 2. 30 saniye bekleyin.
-3. Yazıcınızı tekrar takın ve yazıcıyı tekrar açın.
+3. Yazıcınızın güç kablosunu yeniden takıp yazıcıyı açın.
 
-Bu sorununuzu çözmediyse, Güvenlik**Sorun Giderme**& **Başlat** > **Ayarları** > **Güncelleştirmesi'ne** > giderek yazıcı sorun gidericisini çalıştırın. **Yazıcı'yı**seçin ve ardından **sorun gidericiçalıştır'ı**seçin.
+Bu sorununuz sorununuzu çözmezse, **Start**  >  **Settings**  >  **güvenlik**  >  **sorun giderme**& ayarları Başlat 'a giderek Yazıcı sorun gidericisi 'ni çalıştırın. **Yazıcı**'yı seçip **sorun gidericiyi çalıştırın**öğesini seçin.
