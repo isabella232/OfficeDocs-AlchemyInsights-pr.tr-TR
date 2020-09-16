@@ -1,53 +1,54 @@
 ---
-title: Windows 10'da başlangıç ayarları
+title: Windows 10 ' da başlangıç ayarları
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: b4854944d8cbd9bd83fdea609007c15d39c8eb75
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: e49faca66785c6611dda702a381c39cdb10884f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42409225"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751155"
 ---
-# <a name="startup-settings-in-windows-10"></a>Windows 10'da başlangıç ayarları
+# <a name="startup-settings-in-windows-10"></a>Windows 10 ' da başlangıç ayarları
 
-**Başlangıçta hangi uygulamaların otomatik olarak çalıştırılan değiştirme**
+**Başlangıçta otomatik olarak çalıştırılan uygulamaları değiştirme**
 
-1. Ayarlar [> Apps > Başlangıç'a](ms-settings:startupapps?activationSource=GetHelp)gidin.
+1. [Ayarlar > uygulamalar > başlatma](ms-settings:startupapps?activationSource=GetHelp)'ya gidin.
 
-2. Başlangıçta çalıştırmak istediğiniz herhangi bir uygulamanın **Açık**olduğundan emin olun.
+2. Başlangıçta çalıştırmak istediğiniz tüm **uygulamaları açık olduğundan emin olun.**
 
 **Başlangıçta otomatik olarak çalışacak bir uygulama ekleme**
 
-1. **Başlat'ı** tıklatın veya dokunun ve başlangıçta çalıştırmak istediğiniz uygulamayı bulun.
+1. **Başlat** 'a tıklayın veya dokunun ve başlangıç sırasında çalıştırmak istediğiniz uygulamayı bulun.
 
-2. Uygulamayı sağ tıklatın, **Daha Fazla'yı**tıklatın ve ardından **dosya konumunu aç'ı**tıklatın. Bu, uygulamanın kısayolu kaydedilir konumu açılır. Dosya konumunu aç seçeneği yoksa, bu uygulamanın başlangıçta çalıştırılaamayacağı anlamına gelir.
+2. Uygulamayı sağ tıklatın, **diğer**'i ve sonra da **dosya konumunu aç**'ı tıklatın. Uygulama kısayolunun kaydedildiği konum açılır. Dosya konumu için açık bir seçenek yoksa, uygulama başlangıç sırasında çalıştırılamaz.
 
-3. Dosya konumu açıkken, **Windows logo tuşuna + R**tuşuna basın , **kabuk yazın:başlangıç**, sonra **Tamam'ı**tıklatın. Bu, Başlangıç klasörünü açar.
+3. Dosya konumu açıkken **Windows logo tuşu + R**tuşlarına basın, **kabuk: başlatma**yazın ve **Tamam**'ı tıklatın. Başlangıç klasörü açılır.
 
-4. Kısayolu dosya konumundan Başlangıç klasörüne kopyalayıp uygulamaya yapıştırın.
+4. Uygulamanın kısayolunu kopyalayıp dosya konumundan Başlangıç klasörüne yapıştırın.
 
-**Gelişmiş başlatma seçenekleri (Güvenli Mod, UEFI ayarları ve başka bir cihazdan önyükleme dahil)**
+**Gelişmiş başlatma seçenekleri (güvenli mod, UEFı ayarları ve başka bir cihazdan önyükleme dahil)**
 
-1. Bu adımlar bilgisayarınızı yeniden başlatacağı için çalışmanızı kaydedin ve açık belgeleri kapatın.
+1. Bu adımlar bilgisayarınızı yeniden başlatacak olduğundan çalışmanızı kaydedin ve tüm açık belgeleri kapatın.
 
-2. [Ayarlar> Güvenliği > Kurtarma & Güncelleştir'e](ms-settings:recovery?activationSource=GetHelp)gidin.
+2. [& güvenlik > kurtarma > ayarlar](ms-settings:recovery?activationSource=GetHelp)'a gidin.
 
-3. **Gelişmiş başlangıç**altında, şimdi **Yeniden Başlat'ı**tıklatın. 
+3. **Gelişmiş başlatma**'nın altında **Şimdi yeniden Başlat**'ı tıklatın. 
 
-4. Bilgisayarınız yeniden başlatıldıktan sonra bir seçenek ekranı seçin:
+4. Bilgisayarınız bir seçenek belirtin ekranı yeniden başlatıldıktan sonra:
 
-    - USB sürücüsü gibi bir aygıttan önyükleme yapmak için **aygıt kullan'ı**tıklatın.
+    - USB sürücüsü gibi bir cihazdan önyüklemek için, **cihaz kullan**'ı tıklatın.
 
-    - UEFI ayarlarını (bazen BIOS kurulumu olarak da adlandırılır) girmek için **Sorun Giderme > Gelişmiş seçenekleri > UEFI Firmware Ayarları'nı**tıklatın. 
+    - UEFı ayarları (bazen BIOS kurulumu olarak adlandırılır) girmek için, **Gelişmiş seçenekler > > UEFI üretici yazılımı ayarları**'nı tıklatın. 
 
-    - Güvenli Mod'a girmek veya gelişmiş başlangıç ayarlarını değiştirmek için **Sorun Giderme > Gelişmiş seçenekleri > Başlangıç Ayarları'nı**tıklatın, ardından **Yeniden Başlat'ı**tıklatın. [BitLocker kurtarma anahtarınızı](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key)girmeniz istenebilir. Bilgisayarınız yeniden başlatıldıktan sonra, kullanmak istediğiniz başlangıç ayarını tıklatın.
+    - Güvenli Mod girmek veya Gelişmiş başlatma ayarlarını değiştirmek için, **Gelişmiş seçenekler > >** **Restart** [BitLocker kurtarma anahtarınızı](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key)girmeniz istenebilir. Bilgisayarınız yeniden başlatıldıktan sonra, kullanmak istediğiniz başlangıç ayarını tıklatın.

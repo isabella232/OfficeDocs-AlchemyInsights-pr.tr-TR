@@ -1,11 +1,12 @@
 ---
-title: SharePoint uyarı bildirimleri teslim edilmedi
+title: SharePoint uyarı bildirimleri teslim edilmiyor
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
@@ -13,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343103"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751263"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint uyarı bildirimleri teslim edilmedi
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint uyarı bildirimleri teslim edilmiyor
 
-Bazen uyarılar oraya gidebileceğinden, lütfen e-postanızdaki JUNK klasörünü kontrol edin.
+E-postanızın gereksız klasörüne göz atın, bazen uyarılar orada görünebilir.
 
-Tüm **uyarıların teslim edilip edilmemediğini** veya belirli bir dosya veya kitaplıktan **tek bir uyarı** nın teslim edilip edilmeymediğini belirleyin.
+**Tüm uyarıların teslim edilip edilmediğini** veya belirli bir dosya veya kitaplıktan gelen bir **uyarının** teslim edilmediğini saptayın.
 
-- **Tek tek uyarılar teslim edilmez**: Belirli bir dosyadan veya kitaplıktan tek tek bir uyarı teslim edilmezse, bu uyarıyı silmeyi ve yeniden oluşturmayı deneyebilirsiniz. Uyarıyı yeniden oluşturmak için [SharePoint uyarılarını yönet, görüntüleyin veya silin.](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2)
-- **Tüm uyarılar teslim edilmez**: Birden çok dosya veya kitaplıktan gelen tüm uyarılar teslim edilmezse, SharePoint veya Exchange ile oluşabilecek danışma/olayları kontrol etmek için [Hizmet Durumu panosunu](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ziyaret edin. Sorun SharePoint uyarı yeteneği veya Exchange üzerinden e-postalarda gecikmeler olabilir. Ayrıca, diğer e-postaların teslim edilip edilmediğine dikkat etmek de önemlidir ve teslim değilse, sorun Exchange gecikmeleri ile büyük olasılıkla.
+- **Tek tek uyarılar teslim edilmiyor**: belirli bir dosya veya kitaplıktan gelen bir uyarı teslim edilemediğinde, bunu silip yeniden oluşturmayı deneyebilirsiniz. Uyarıyı yeniden oluşturmak için [SharePoint uyarılarını yönetme, görüntüleme veya silme](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) konusuna bakın.
+- **Tüm uyarılar teslim edilmiyor**: birden çok dosya veya kitaplıklardaki tüm uyarılar teslim edilemezse, SharePoint veya Exchange ile ilgili tüm Danışma belgelerini/olaylarını denetlemek Için [hizmet durumu panosunu](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ziyaret edin. Sorun SharePoint uyarısı yeteneği veya Exchange aracılığıyla e-postalarda gecikmelere neden olabilir. Ayrıca, başka bir e-postanın teslim edilip edilmediğini de dikkate almak da gerekirse, sorun büyük olasılıkla Exchange gecikmelerinden kaynaklanıyor olabilir.
 
-Uyarılarda SSS:
+Uyarılarla ilgili SSS:
 
-- Dağıtım Grubu'na uyarı göndermek mümkün değildir, yalnızca Güvenlik ve O365 grupları desteklenir.
-- Uyarı e-posta şablonlarını özelleştiremezsiniz; bunları başarmak için Microsoft FLOW veya SharePoint Designer İş Akışını kullanmanız gerekir.
+- Uyarılar dağıtım grubuna gönderilemiyor, yalnızca güvenlik ve O365 grupları destekleniyor olabilir.
+- Uyarı e-posta şablonlarını özelleştiremezsiniz; bunları sağlamak için Microsoft FLOW veya SharePoint Designer Iş akışını kullanmanız gerekir.
 
-## <a name="related-topics"></a>İlgili Konular
+## <a name="related-topics"></a>İlgili konular
 
-SharePoint Online'da Microsoft Flow'u denemek ister misiniz?
+SharePoint Online 'da Microsoft akışını denemek mi istiyorsunuz?
 
-- [Akış Oluştur](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Akış oluştur](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint ve Akış](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint ve akış](https://flow.microsoft.com//blog/sharepoint-and-flow/)
