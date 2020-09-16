@@ -1,5 +1,5 @@
 ---
-title: Silinen posta kutusunu geri yükleme
+title: Silinmiş posta kutusunu geri yükleme
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -15,22 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 284024bdf9728e8463fe69ef9c9c2695035faf2f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 899eb7e171d125c509871c219f99dfd1106b858a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511384"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728091"
 ---
-# <a name="restore-a-deleted-mailbox"></a>Silinen posta kutusunu geri yükleme
+# <a name="restore-a-deleted-mailbox"></a>Silinmiş posta kutusunu geri yükleme
 
-Bir kullanıcı Exchange Online lisansını kaybettiğinde, posta kutusu 30 gün boyunca saklanır ve yalnızca kullanıcıya lisansı yeniden atayarak kurtarılabilir.
+Kullanıcı Exchange Online lisansını kaybettiğinde, posta kutusu 30 gün boyunca korunur ve lisans yalnızca kullanıcıya yeniden atanarak kurtarılabilir.
   
- *Bu sadece 30 gün içinde çalışacaktır.*  
+ *Bu, yalnızca 30 gün içinde çalışacaktır.*  
   
-1. Microsoft 365 yönetici merkezinde, **Kullanıcılar** \> **Etkin kullanıcılar** sayfasına gidin. Söz konusu kullanıcıyı seçin.
+1. Microsoft 365 Yönetim merkezinde, **Kullanıcılar** \> **etkin kullanıcılar** sayfasına gidin. Söz konusu kullanıcıyı seçin.
 
-2. **Lisanslar ve Uygulamalar** sekmesinde, Exchange Online lisansını atayın ve **değişiklikleri kaydet'i**seçin.
+2. **Lisanslar ve uygulamalar** sekmesinde, Exchange Online lisansını atayın ve **Değişiklikleri Kaydet**'i seçin.
 
-Paylaşılan posta kutusunu kurtarmaya çalışıyorsanız, 30 gün boyunca kurtarılabilir. Bunları **Users** Deleted kullanıcıları altında \> **Deleted users**bulabilirsiniz; paylaşılan posta kutuları lisans gerektirmez. Silinmiş bir kullanıcıyı geri yüklemeniz gerektiğini fark ederseniz, lütfen [bir kullanıcıyı geri yükle'ye](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)bakın.
+Paylaşılan bir posta kutusunu kurtarmaya çalışıyorsanız, bu, 30 gün boyunca kurtarılabilir. **Kullanıcıları** \> **silinen kullanıcılar**altında bulabilirsiniz; paylaşılan posta kutuları lisans gerektirmez. Silinmiş bir kullanıcıyı geri yüklemeniz gerektiğini fark ederseniz, lütfen [kullanıcıyı geri yükleme](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)bölümüne bakın.
   

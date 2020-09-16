@@ -1,29 +1,30 @@
 ---
-title: Aygıtlar Kayıt Durumunu Bekliyor
+title: Cihazlar kayıt durumunu bekliyor
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 52592a8f4ebac0a9b6c8105721e121a7e560853b
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770335"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730755"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Cihazlar "Kayıt Bekliyor" durumunda
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Aygıtlar "kayıt bekleniyor" durumunda
 
-Desktop Analytics'in bu aygıt için tanılama verileri yoktur. 
+Masaüstü analizi bu cihaz için tanılama verileri içermez. 
 
-Aygıtı yakın zamanda hedef koleksiyona eklediğiniz ve henüz veri göndermediğinden bu sorun oluşabilir. Ayrıca, aygıtın hizmetle düzgün bir şekilde iletişim kurmadığı ve en son tanılama verilerinin 28 günden eski olduğu anlamına da gelebilir.
+Bu sorun, önce cihazı hedef koleksiyona eklediğiniz ve henüz verileri gönderilmeyen için oluşabilir. Ayrıca, cihazın hizmetle doğru iletişim kurmayacağı anlamına gelir ve en son Tanılama verileri 28 günden daha eski.
 
-Aygıtın hizmetle iletişim kurabileceğinden emin olun. Daha fazla bilgi için Uç [Noktaları'na](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)bakın.
+Cihazın hizmetle iletişim kurabildiğinden emin olun. Daha fazla bilgi [için bkz.](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)
 
-Bekleyen kayıt durumu hakkında daha fazla bilgi için [Bkz.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)
+Kayıt durumu bekleniyor hakkında daha fazla bilgi için bkz: [bağlantı durumunu izleme](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).
