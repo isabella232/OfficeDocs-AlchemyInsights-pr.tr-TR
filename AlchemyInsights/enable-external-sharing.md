@@ -5,38 +5,39 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 58c4537f7a11ea408ef9cfc9f30396da0f951bc7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703627"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784687"
 ---
 # <a name="enable-external-sharing"></a>Dış paylaşımı etkinleştirme
 
- SharePoint Online için paylaşımın etkin olduğundan emin olmak için:
+ SharePoint Online için paylaşımın etkinleştirildiğinden emin olmak için:
   
-- **Küresel Paylaşım**
+- **Genel paylaşım**
     
-  - Portal\> - Dış\> Paylaşım - Paylaşıma Genel Bakış - Siteler, Harici kişilerin sitelerinize erişmesine izin verin: ON
+  - Portal- \> dış paylaşım- \> Paylaşım genel bakış-siteler, dış kişilerin sitelerinize erişmesini sağlar: açık
     
-  - Portal\> - Dış\> Paylaşım - Siteler - "Harici kişilerin sitelerinize erişsin" onay kutusu
+  - Portal- \> dış paylaşım- \> siteler-"dış kişilerin sitelerinize erişmesine izin ver" denetim kutusu
     
-- **Yönetim Paylaşım - SharePoint Yönetici Merkezi**
+- **Yönetim paylaşımı-SharePoint Yönetim Merkezi**
     
-    Dış Paylaşım - iki seçenekten birinin seçildiğinden emin olun:
+    Dış paylaşım-iki seçenekten seçili olduğundan emin olun:
     
-  - "Paylaşım davetlerini kabul eden ve kimlik doğrulaması verilen kullanıcılar olarak oturum açabilen harici kullanıcılara izin verin"
+  - "Paylaşım davetlerini kabul eden dış kullanıcılara izin ver ve kimliği doğrulanmış kullanıcı olarak oturum aç"
     
-  - "Paylaşım davetlerini ve anonim konuk bağlantılarını kabul eden her iki harici kullanıcıya izin verin"
+  - "Paylaşım davetlerini ve anonim Konuk bağlantılarını kabul eden dış kullanıcılara izin ver"
     
-- **Bireysel Site Koleksiyonları**
+- **Bireysel site koleksiyonları**
     
-  - Site Koleksiyonları - Söz konusu site koleksiyonunu seçin ve ardından\> şeritten Paylaşım'ı tıklatın ve paylaşım seçeneklerinin seçildiğinden emin olun.
+  - Site koleksiyonları-söz konusu site koleksiyonunu seçin ve sonra da şerit 'den ( \> paylaşım seçeneklerinin seçili olduğundan emin olun).
     
-Dış paylaşımı niçin açabilirsiniz hakkında daha fazla bilgi için [SharePoint Online için dış paylaşımı açma veya kapatma konusuna bakın.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Dış Paylaşımı açma hakkında ek bilgi için, [SharePoint Online için dış Paylaşımı açma veya kapatma](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409) konusuna bakın.
   
 

@@ -1,29 +1,30 @@
 ---
-title: Uygulamaları masaüstüne koyun
+title: Uygulamaları masaüstüne koyma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 6c94c840ce9460bdf72aba23ef6444d18a44977d
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279111"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47768267"
 ---
-# <a name="put-apps-on-the-desktop"></a>Uygulamaları masaüstüne koyun
+# <a name="put-apps-on-the-desktop"></a>Uygulamaları masaüstüne koyma
 
-**Başlat** menüsündeki uygulamayı arayın ve sol fare düğmesini basılı tutarak ve simgeyi masaüstüne taşıyarak uygulama simgesini alın.
+**Başlat** menüsünde uygulamayı arayın ve sol fare düğmesini basılı tutup simgeyi masaüstüne taşıyarak uygulama simgesini alın.
 
-**Windows + R tuşuna** basıp bu komutu da yazabilirsiniz:
+Ayrıca, **Windows tuşu + R** tuşlarına basabilir ve bu komutu yazabilirsiniz:
 
 `shell:appsfolder`
 
-Bu, **Dosya Gezgini'ndeki** **Uygulamalar** klasörünü açar. Artık uygulama simgesini sürükleyip masaüstüne bırakabilirsiniz.
+Bu işlem, **Dosya Gezgini**'nde **uygulamalar** klasörünü açar. Şimdi uygulama simgesini masaüstüne sürükleyip bırakabilirsiniz.
