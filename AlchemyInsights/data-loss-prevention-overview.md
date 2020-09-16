@@ -1,30 +1,31 @@
 ---
-title: Veri Kaybıönleme (DLP) genel bakış
+title: Veri kaybı önleme (DLP) genel bakış
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: b6073cd4043efcebd6e447dee9ba85f31e541ec8
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f4f4757e652b276d44b266eef73f5b5161615281
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505779"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731331"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Veri Kaybıönleme (DLP) genel bakış
+# <a name="data-loss-prevention-dlp-overview"></a>Veri kaybı önleme (DLP) genel bakış
 
-Bir DLP ilkesiyle şunları yapabilirsiniz:
+DLP ilkesiyle yapabilecekleriniz:
 
-- Exchange Online, SharePoint Online ve OneDrive for Business gibi birçok konumda hassas bilgileri tanımlayın.
+- Exchange Online, SharePoint Online ve OneDrive Iş gibi çeşitli konumlarda hassas bilgileri tanımlayın.
 
 
-Örneğin, herhangi bir OneDrive for Business sitesinde depolanan kredi kartı numarasını içeren herhangi bir belgeyi tanımlayabilir veya yalnızca belirli kişilerin OneDrive sitelerini izleyebilirsiniz.
+Örneğin, herhangi bir OneDrive Iş sitesinde depolanan kredi kartı numarasını içeren herhangi bir belgeyi tanımlayabilir veya yalnızca belirli kişilerin OneDrive sitelerini izleyebilirsiniz.
 
 - Hassas bilgilerin yanlışlıkla paylaşılmasını önleyin.
 
 
-Daha fazla bilgi için lütfen aşağıdaki [makaleyi](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)inceleyiniz.
+Daha fazla bilgi için lütfen aşağıdaki [makaleye](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)bakın.
 

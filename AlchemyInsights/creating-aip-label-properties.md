@@ -1,40 +1,40 @@
 ---
-title: AIP Etiket İlkeleri Oluşturma
+title: IP etiket Ilkeleri oluşturma
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: de7d76564cabb0a5dd1a836984df6b1a63b2b218
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569515"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732195"
 ---
-# <a name="creating-aip-label-policies"></a>AIP Etiket İlkeleri Oluşturma
+# <a name="creating-aip-label-policies"></a>IP etiket Ilkeleri oluşturma
 
-Azure Bilgi Koruması (AIP) etiketleri, bir kuruluşun tipik olarak oluşturduğu ve kişisel verilerin en düşük sınıflandırmasından son derece gizli verilerin en yüksek sınıflandırmasına kadar depoladığının tüm veri yelpazesiyle kullanılabilir. Azure Bilgi Koruma İlkeleri, [AIP Birleşik Etiketleme istemcisi](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)için değil, Azure Bilgi Koruması (AIP) klasik istemcisi için geçerlidir. AIP ilkesinde, şu gibi seçenekler de dahil olmak üzere birden çok öğeyi yapılandırabilirsiniz:
+Azure Information Protection (AıP) etiketleri, bir kuruluşun normal olarak en düşük düzeyde gizli verilerin en yüksek sınıflandırmasına göre normal bir şekilde oluşturduğu tam veri aralığıyla kullanılabilir. Azure Information Protection Ilkeleri,  [IP birleştirilmiş etiketleme istemcisi](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)değil, Azure Information Protection (AIP) Classic istemcisine uygulanır. Bir IP ilkesinde birden çok öğeyi yapılandırabilirsiniz; örneğin:
 
-- Hangi etiketin yöneticilerin veya kullanıcının belgeleri ve e-postaları sınıflandırmasına ve korumasına izin verme seçeneği
-- Kullanıcılar belgeleri kaydederken ve e-posta gönderirken sınıflandırmayı zorlama seçeneği
-- E-posta iletisini ekleri temel alınarak otomatik olarak etiketleme seçeneği.
-- Bilgi Koruması çubuğunun Office uygulamalarında görüntülenip görüntülenmediğini denetleme seçeneği
+- Hangi etiketin yöneticilere veya Kullanıcı sınıflandırmalarına ve korumasına (isteğe bağlı) belgelerin ve e-postaların
+- Kullanıcılar belgeleri kaydederken ve e-posta gönderirken sınıflandırmayı zorunlu kılma seçeneği
+- E-posta iletisini ekler doğrultusunda otomatik olarak etiketleme seçeneği.
+- Bilgi koruması çubuğunun Office uygulamalarında gösterilip gösterilmeyeceğini denetleme seçeneği
 
-Azure Bilgi Koruması ilkeleri yle ilgili ek seçenekler ve bilgiler için bkz: [Azure Bilgi Koruması ilkesine genel bakış.](https://docs.microsoft.com/azure/information-protection/overview-policy)  
+Azure bilgi koruması ilkeleriyle ilgili ek seçenekler ve bilgiler için bkz: [Azure bilgi koruması Ilkesine genel bakış](https://docs.microsoft.com/azure/information-protection/overview-policy).  
 
-AIP ilkeleriyle ilgili diğer yararlı kaynaklar için bkz:
+IP ilkeleriyle ilgili diğer yararlı kaynaklar için bkz:
 
-- [Öğretici: Azure Bilgi Koruması ilkesi ayarlarını yapılandırın ve yeni bir etiket oluşturun](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
-- [Azure Bilgi Koruması ilkesini yapılandırma](https://docs.microsoft.com/azure/information-protection/configure-policy)  
+- [Öğretici: Azure bilgi koruması ilke ayarlarını yapılandırma ve yeni etiket oluşturma](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
+- [Azure bilgi koruması ilkesini yapılandırma](https://docs.microsoft.com/azure/information-protection/configure-policy)  
 - [Duyarlılık etiketleri ve ilkelerini oluşturma ve yapılandırma](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
-- [Azure Bilgi Koruması kullanan yaygın senaryolar için nasıl kullanılır kılavuzları](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
-- [Azure Bilgi Koruması belgelerini gözden geçirin](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
-- [Azure Bilgi Koruması Gereksinimleri](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
-- [Azure Bilgi Koruması için hızlı başlangıç öğreticisi](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
-- [Azure Bilgi Koruması istemcisi indirin](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Azure bilgi koruması 'nı kullanan ortak senaryolar için nasıl yapılır kılavuzları](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Azure bilgi koruması belgelerini gözden geçirme](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [Azure bilgi koruması gereksinimleri](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
+- [Azure bilgi koruması için Hızlı Başlangıç Öğreticisi](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
+- [Azure bilgi Koruması istemcisini indirin](https://www.microsoft.com/download/details.aspx?id=53018)

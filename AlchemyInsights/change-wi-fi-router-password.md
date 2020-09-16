@@ -5,38 +5,39 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: c0413d1a262d2b7c0245f0fae16b4b60d0a35e19
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 85aa158d917521fac871fd5c6687737fd22d736c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584533"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733455"
 ---
-# <a name="change-your-wi-fi-router-password"></a>Wi-Fi yönlendirici parolanızı değiştirme
+# <a name="change-your-wi-fi-router-password"></a>Wi-Fi yönlendiricisinin parolasını değiştirme
 
-Wi-Fi yönlendiricinizin parolasını değiştirmek için aşağıdaki adımları izleyin:
+Wi-Fi yönlendiricinizin parolasını değiştirmek için şu adımları izleyin:
 
-1. Internet > Ağı**ve Paylaşım Merkezi**& **Başlat** > **Ayarları** > **Ağı'nı**seçin.
+1. **Başlangıç**  >  **ayarları**  >  **ağ & Internet**  >  **Ağ ve Paylaşım Merkezi 'ni**seçin.
 
-2. **Etkin ağlarınızı görüntüleyin,** bağlı olduğunuz ağı arayın. **Bağlantılar'ın**yanındaki mavi bağlantıyı seçin.<br>
+2. **Etkin ağlarınızı görüntüle**altında, bağlandığınız ağı arayın. **Bağlantılar**'ın yanındaki mavi bağlantıyı seçin.<br>
 
-   **Not:** Wi-Fi'a bağlı değilseniz, parolayı değiştirmeden önce bağlanmanız gerekir.
+   **Not:** Wi-Fi ' a bağlı değilseniz, parolayı değiştirebilmeniz için önce bağlanmanız gerekir.
 
-3. **Ayrıntılar'ı**seçin.
+3. **Ayrıntılar**'ı seçin.
 
-4. IPv4 Varsayılan Ağ Geçidinizi arayın ve dönemler de dahil olmak üzere bu sayı dizisini dikkate alın. Örneğin: 192.168.0.1, 192.168.1.1, 10.0.0.1 veya 10.0.1.1
+4. IPv4 varsayılan ağ geçidinizi arayın ve bu sayı dizisini nokta olarak not alın. Örneğin: 192.168.0.1, 192.168.1.1, 10.0.0.1 veya 10.0.1.1
 
-5. Bir tarayıcı açın, adres çubuğuna dönemleri de içeren bu sayı dizisini girin ve yönlendiricinin yapılandırma sayfasına gitmek için Enter tuşuna basın.
+5. Bir tarayıcı açın, adres çubuğuna nokta ekleyerek bu sayı dizesini girin ve yönlendiricinin yapılandırma sayfasına gitmek için ENTER tuşuna basın.
 
-6. Yönlendiricinin yapılandırma sayfası açıldığında, kullanıcı adınızı ve parolanızı girin.<br>
-   - Yönlendiricinin varsayılan kullanıcı adını ve parolasını hiç değiştirmediyseniz, bu bilgileri yönlendiricikılavuzunda büyük olasılıkla bulabilirsiniz.
+6. Yönlendiricinin yapılandırma sayfası açıldığında, Kullanıcı adınızı ve parolanızı girin.<br>
+   - Yönlendiricinin varsayılan kullanıcı adını ve parolasını hiçbir zaman değiştirmediyseniz, bu bilgileri yönlendiricinizin elle bulabilirsiniz.
 
-   - Bu web sayfasına giriş yapmak için ek desteğe ihtiyacınız varsa yönlendiricinizin üreticisine başvurun.
+   - Bu Web sayfasına ek destek oturum açma gerekirse yönlendiricinizin üreticisine başvurun.
 
-7. Oturum açtıktan sonra Kablosuz ayarlarını bulun. Artık Wi-Fi şifrenizi değiştirebilmelisiniz.
+7. Oturum açtıktan sonra, kablosuz ayarları bulun. Artık Wi-Fi parolanızı değiştirebilmelisiniz.

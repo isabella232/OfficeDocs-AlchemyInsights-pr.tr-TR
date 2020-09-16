@@ -5,33 +5,34 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 701c4aef6bfc0c4a2c4570f6dd16dbe4f99efc44
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: dfb42b24f1c2b4b05cb067a82505a6a8b63f277e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580353"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731583"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Günlük e-posta Sınırı Aşıldı. İş akışı askıya alındı.
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Günlük e-posta sınırı aşıldı. İş akışı askıya alındı.
 
-Bu hata aşağıdaki senaryolarda alınabilir:
+Bu hata aşağıdaki senaryolarda alabilirsiniz:
 
-- SharePoint Online'da SharePoint 2010 veya SharePoint 2013 iş akışı platform türünü kullanan bir iş akışınız vardır.
-- İş akışı, aynı anda 200'den fazla kullanıcıya, günde 10.000'den fazla alıcıya veya dakikada 30'dan fazla iletigöndermek üzere özel bir e-posta iletisi gönderecek şekilde yapılandırılmıştır.
-- İş akışını çalıştırdığınızda, e-posta iletisi gönderilmez ve aşağıdaki davranışı fark e-postayla fark e-posta yla karşılarınız:
-    - SharePoint 2013 platform türünü kullanan bir iş akışı için **İş Akışı Durumu** sayfasına göz atarsınız. İş Akışı Durumu sayfasında, **İç Durum** **Başlatıldı**olarak ayarlanır ve bilgi balonu **alıcıya gönderilemeyince**görüntülenir.
+- SharePoint Online 'da SharePoint 2010 veya SharePoint 2013 Workflow Platform türünü kullanan bir iş akışınız var.
+- İş akışı, tek seferde 10.000 ' ten 200 fazla kullanıcıya veya dakikada 30 iletiden uzun bir e-posta iletisi gönderecek şekilde yapılandırılmıştır.
+- İş akışını çalıştırdığınızda, e-posta iletisi gönderilmez ve aşağıdaki davranışı fark edebilirsiniz:
+    - SharePoint 2013 Platform türünü kullanan bir iş akışı için **Iş akışı durumu** sayfasına gidin. Iş akışı durumu sayfasında, **Iç durum** **başlatıldı**olarak ayarlanır ve bilgi balonunun **alıcıya gönderilememe**durumu görüntülenir.
 
-Bu sorunu çözmek için iş akışınızı Exchange Online gönderen [sınırlarını](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)aşmadan e-posta iletileri gönderecek şekilde yapılandırın. Örneğin, iş akışında bir duraklama kullanın, e-postayı bir Microsoft 365 grubuna, bir dağıtım grubuna veya posta etkin güvenlik grubuna gönderin veya iletiyi aynı anda 200'den az alıcıya gönderin.
+Bu sorunu geçici olarak çözmek için, iş akışınızı, [Exchange Online gönderici sınırlarını](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)aşmadan e-posta iletilerini gönderecek şekilde yapılandırın. Örneğin, iş akışında Pause kullanın, e-postayı bir Microsoft 365 grubuna, bir dağıtım grubu veya posta etkin güvenlik grubuna gönderebilir veya iletiyi 200 'den daha az alıcıya gönderin.
 
 
 Daha fazla bilgi için aşağıdaki [makaleye](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)bakın.
 
 ## <a name="related-topics"></a>İlgili konular
-- [Akış Oluştur](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint ve Akış](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [Akış oluştur](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint ve akış](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
