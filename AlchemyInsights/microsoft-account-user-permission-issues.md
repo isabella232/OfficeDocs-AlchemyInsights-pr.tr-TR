@@ -1,38 +1,39 @@
 ---
-title: Sorun giderme sorunu - Kullanıcı dizinde bulunamadı
+title: Sorun giderme-Kullanıcı dizininde bulunamadı
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3b863c5e9962dd29ca2ed41d113041d74830f615
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 512494a69ab274af00962cb9777a3479b4200fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702758"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725427"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Sorun giderme sorunu - Kullanıcı dizinde bulunamadı
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Sorun giderme-Kullanıcı dizininde bulunamadı
 
-Kullanıcılar dizinde "kullanıcı bulunamıyor" hata iletisi alıyorsa, lütfen Sorun Türü Kullanıcı'nın dizinde olmadığı yerlerde yeniden deneyin.
+Kullanıcılar, dizinde "Kullanıcı bulunamıyor" hata iletisi alıyorsa, lütfen sorun türünün Kullanıcı dizininde olmadığı durumlarda yeniden deneyin.
 
 Sorunu gidermek için aşağıdaki adımlar tamamlanabilir.
 
-- E-posta davetini kabul eden hesabın daha sonra oturum açmada kullanılan hesapla aynı olduğundan emin olun. Daveti kabul etmek ve sitede oturum açmak için kullanıcının aynı hesabı kullandığından emin olun. 
+- E-posta davetini kabul eden hesabın, daha sonra oturum açmak için kullanılan hesapla aynı olduğundan emin olun. Kullanıcının daveti kabul edip sitede oturum açarken aynı hesabı kullanmasını sağlayın. 
 
-Daha fazla bilgi için, [Microsoft 365</a> oturumunu yönetmek için Microsoft hesabınıziçin takma adları nasıl yönetebilirsiniz'](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases)e bakın. 
+Daha fazla bilgi için Microsoft [hesabınızın diğer adlarını nasıl yöneteceğinizi </a> Microsoft 365 oturum açmayı yönetmeye](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases)bakın. 
 
-- Kullanıcının hata aldığı her siteye göz atın. 
+- Kullanıcının hatayı aldığı her siteye göz atın. 
 
-Site URL'sinin sonuna "/_layouts/15/people.aspx/membershipgroupid=0" (çift tırnak içinde) ekleyin. 
+"/_Layouts/15/People.aspx/membershipgroupid = 0" (çift tırnak içinde) site URL 'sinin sonuna ekleyin. 
 
-Örnek: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Örnek: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Listeden kullanıcıyı seçin.
 
-- **Kullanıcı İzinlerini** Şeritten Kaldır'ı tıklatın. 
+- Şeritteki **Kullanıcı Izinlerini kaldır** 'ı tıklatın. 
 -  Kullanıcıyı geri ekleyin ve daveti kullanıcıya yeniden gönderin.
 

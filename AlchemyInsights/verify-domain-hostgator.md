@@ -1,26 +1,27 @@
 ---
-title: Etki alanınızı Hostgator ile doğrulayın
+title: Barındırma Gator ile etki alanınızı doğrulama
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: aece5e267f5a9a03f374e75643cd9a5e4fa6c21d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b7f5d8ccf5c01812564683aeb87b3ef2e8461b54
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765433"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726255"
 ---
-# <a name="verify-your-domain-with-hostgator"></a>Etki alanınızı Hostgator ile doğrulayın
+# <a name="verify-your-domain-with-hostgator"></a>Barındırma Gator ile etki alanınızı doğrulama
 
-Etki alanınızı doğrulamak için, etki alanınıza sahip olduğunuzu doğrulamak için etki alanı kayıt şirketinize bir TXT kaydı eklemeniz gerekir. 
+Etki alanınızı doğrulamak için, etki alanı kayıt şirketinize bir TXT kaydı ekleyerek etki alanınızın sahip olduğunuzu doğrulayın. 
 
-İlk olarak, **Ayarlar** \> **Etki Alanları**seçerek Etki [Alanı Ekle sihirbazını](https://portal.office.com/adminportal/home#/Domains) izleyin ve ardından etki alanı **ekleyin.**
+Öncelikle, [etki alanı ekleme Sihirbazı 'nı](https://portal.office.com/adminportal/home#/Domains) izleyerek **Ayarlar** \> **etki alanlarını**seçin ve sonra da **etki alanı ekleyin**.
   
-Adım adım yönergeler [için Microsoft 365 için Hostgator'da DNS kayıtları oluşturma'ya](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) bakın.
+Adım adım yönergeler için [Microsoft 365 Için HostGator 'DA DNS kayıtları oluşturma](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) konusuna bakın.

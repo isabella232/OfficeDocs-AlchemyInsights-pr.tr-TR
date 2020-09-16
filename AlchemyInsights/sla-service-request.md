@@ -1,27 +1,28 @@
 ---
-title: Hizmet kesintisi nedeniyle kredi talebi
+title: Hizmet kesintisi nedeniyle kredi isteği
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 5f675c9f44563df2fb7183e91c5478335ca58058
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 504df2dd1c09ed2b42d936e974f5993e459a23c7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708322"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726867"
 ---
-# <a name="credit-request-due-to-a-service-outage"></a>Hizmet kesintisi nedeniyle kredi talebi
+# <a name="credit-request-due-to-a-service-outage"></a>Hizmet kesintisi nedeniyle kredi isteği
 
-Bir hizmet kesintisi nedeniyle kredi talebi ne başvurursak, lütfen bir hizmet isteği açın.
+Hizmet kesintisi nedeniyle bir kredi isteğine uygulamak için lütfen bir hizmet isteği açın.
 
-Lütfen Microsoft 365 yönetici merkezindeki [hizmet durumu sayfasında](https://docs.microsoft.com/office365/enterprise/view-service-health) bulunan Olay Kimliği'ne sahip olun.
+Lütfen Microsoft 365 Yönetim merkezinde, [hizmet durumu sayfasında](https://docs.microsoft.com/office365/enterprise/view-service-health) bulunan olay kimliğinin olduğundan emin olun.
 
-İsteğiniz işlenirken, kesintinin etkisini gözlemlemek için doğrulamalardan geçeceğini lütfen unutmayın.
+İsteğiniz işlendiği için lütfen tavsiye edilir, bu işlem, kesinti 'nin etkisini gözlemlemek için doğrulamaları dikkate alır.
