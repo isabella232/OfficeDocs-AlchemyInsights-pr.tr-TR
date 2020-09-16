@@ -1,47 +1,48 @@
 ---
-title: Parola kullanmadan Windows 10'da oturum açma
+title: Parola kullanmadan Windows 10 ' da oturum açma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 1f325eb7afb1e88457296e8187f8ba6dff2ebfe0
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588300"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719973"
 ---
-# <a name="sign-in-to-windows-10-without-using-a-password"></a>Parola kullanmadan Windows 10'da oturum açma
+# <a name="sign-in-to-windows-10-without-using-a-password"></a>Parola kullanmadan Windows 10 ' da oturum açma
 
-Windows'un başlatılmasında parola yazmak zorunda kalmamak için, varsa PIN, yüz tanıma veya parmak izi gibi Windows Hello güvenli oturum açma seçeneklerinden birini kullanmanızı öneririz. Güvenli oturum açma'yı gerçekten devre dışı kılmış olmak istiyorsanız, aşağıdaki "Windows 10'da otomatik olarak oturum açın" yönergelerine bakın.
+Windows başlangıcında parola yazmak zorunda kalmamak için, varsa, bir PIN, yüz tanıma veya parmak izi gibi Windows Hello güvenli oturum açma seçeneklerinden birini kullanmanızı öneririz. Güvenli oturum açmayı gerçekten devre dışı bırakmak istiyorsanız, aşağıdaki "Windows 10 ' da otomatik olarak oturum açma" yönergelerine bakın.
 
-**Hesap parolasına güvenli Windows Hello alternatifleri**
+**Hesap parolasının güvenliğini sağlama**
 
-Hesaplar **> Ayarlar>a** gidin (veya [buraya](ms-settings:signinoptions?activationSource=GetHelp)tıklayın). Kullanılabilir oturum açma seçenekleri listelenir. Örneğin:
+**> hesap > oturum açma seçenekleri** 'ne gidin (veya [burayı](ms-settings:signinoptions?activationSource=GetHelp)tıklatın). Kullanılabilir oturum açma seçenekleri listelenir. Örneğin:
 
 ![Oturum açma seçenekleri.](media/sign-in-options.png)
 
-Yapılandırmak için seçeneklerden birini tıklatın veya dokunun. Windows'u bir sonraki başlattığınızda veya kilidini açtığınızda, parola yerine yeni seçeneği kullanabilirsiniz. 
+Yapılandırmak için seçeneklerden birine tıklayın veya dokunun. Windows 'u bir sonraki başlatmanızda veya kilidini açtığınızda, parola yerine yeni seçeneğini kullanabilirsiniz. 
 
-**Windows 10'da otomatik oturum açma**
+**Windows 10 ' da otomatik olarak oturum açma**
 
-**Not**: Otomatik oturum açma uygundur, ancak özellikle bilgisayarınıza birden fazla kişi tarafından erişilebiliyorsa, güvenlik riski oluşturur. 
+**Not**: otomatik oturum açma kullanışlı bir yöntemdir, ancak özellikle PC 'niz birden çok kişiyle erişilebilir durumdaysa güvenlik riski sunar. 
 
-1. Görev Çubuğu'ndaki **Başlat** düğmesini tıklatın veya dokunun.
+1. Görev çubuğundaki **Başlat** düğmesine tıklayın veya dokunun.
 
-2. **Netplwiz** yazın ve Kullanıcı Hesapları penceresini açmak için Enter tuşuna basın.
+2. Kullanıcı hesapları penceresini açmak için **Netplwiz** yazın ve ENTER tuşuna basın.
 
-3. **Kullanıcı**Hesapları'nda, Windows başladığında otomatik olarak oturum açmanız istediğiniz hesabı tıklatın.
+3. **Kullanıcı hesaplarında**, Windows başladığında otomatik olarak oturum açmak istediğiniz hesaba tıklayın.
 
-4. "Kullanıcılar bu bilgisayarı kullanmak için bir kullanıcı adı ve parola girmeli" onay kutusunun işaretlerini kaldırın.
+4. "Kullanıcıların bu bilgisayarı kullanmak için bir Kullanıcı adı ve parola girmesi gerekir" onay kutusunu temizleyin.
 
-    ![Kullanıcıların bir kullanıcı adı ve parola seçeneği girmeleri gerekir.](media/users-must-enter-username.png)
+    ![Kullanıcıların Kullanıcı adı ve parola seçeneğini girmesi gerekir.](media/users-must-enter-username.png)
 
-5. **Tamam**'a tıklayın. Seçtiğiniz hesabın parolasını girmeniz ve onaylamanız istenir. Bitirmek için **Tamam'ı** tıklatın. Windows 10 bir sonraki başlatılında, seçtiğiniz hesapta otomatik olarak oturum açacaktır.
+5. **Tamam**'a tıklayın. Seçtiğiniz hesabın parolasını girmeniz ve onaylamanız istenecektir. **Tamam** 'a tıklayarak işlemi sonlandırın. Windows 10 ' un sonraki başlatılışında, seçtiğiniz hesapta otomatik olarak oturum açılır.
