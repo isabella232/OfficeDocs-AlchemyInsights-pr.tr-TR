@@ -1,30 +1,31 @@
 ---
-title: 9000215 Outlook.com Abonelikleri
+title: 9000215 Outlook.com abonelikleri
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 8968b278cb5e99c5ce6cae9c79e441546deb58ec
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 758359c9c5907f2167666e9755a59dedee764a95
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722324"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722619"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Abonelikler ve aboneliğin kaldırılma
+# <a name="subscriptions-and-unsubscribing"></a>Abonelikler ve aboneliği kaldırma
 
-Haber bültenleri veya promosyonlar almayı durdurmak istiyorsanız, Outlook.com aboneliğinizi iptal etmenin iki yolu vardır:
+Bülten veya promosyon almayı durdurmak istiyorsanız, Outlook.com 'da aboneliği iptal etmenin iki yolu vardır:
 
-1. Gelen kutunuzda bir bülten veya promosyon e-postası seçin. Okuma bölmesinin üst kısmında **Aboneliği Kaldır'ı**seçin.
-2. Outlook.com [abonelik ayarlarınızı](https://outlook.live.com/mail/options/mail/brandsSubscriptions) açın (**Ayarlar** > **Tüm Outlook ayarlarını** > **görüntüleyin E-posta** > **Abonelikleri)** ve **Aboneliği Kaldır'ı**seçin.
+1. Gelen kutunuzda bir bülten veya tanıtım e-postası seçin. Okuma bölmesinin en üstünde **aboneliği kaldır**'ı seçin.
+2. [Outlook.com abonelikleri ayarlarınızı](https://outlook.live.com/mail/options/mail/brandsSubscriptions) açın (**Ayarlar**  >  **tüm Outlook ayarları**  >  **e-posta**  >  **aboneliklerini**görüntüler) ve **aboneliği kaldır**'ı seçin.
 
-Notlar:
+Notlarında
 
-- Şu anda tüm müşteriler bu özellikten yararlanamaz.
-- Bu özelliği yalnızca şirketten abone e-posta gönderen bir e-posta aldıysanız görürsünüz.
+- Tüm müşteriler bu özellikten Şu anda yararlanabilir.
+- Bu özelliği yalnızca, abone olduğunuz e-posta gönderen şirketten bir e-posta alırsanız görürsünüz.
