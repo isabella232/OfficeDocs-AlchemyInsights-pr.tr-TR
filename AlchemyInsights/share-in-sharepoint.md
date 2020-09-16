@@ -1,35 +1,36 @@
 ---
-title: SharePoint'te Paylaş
+title: SharePoint 'te paylaşma
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: e14bd6b4ddd0b4fbe5a6f0991e7f12009c9a2137
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 4b30748337e695ffe6b28cb4220df57c5de40e86
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582363"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739341"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a>SharePoint Online'da nasıl paylaşılabilen
+# <a name="how-to-share-in-sharepoint-online"></a>SharePoint Online 'da paylaşım
 
-Bir siteyi paylaşmak için:
+Siteyi paylaşmak için:
   
-1. Siteyi bir web tarayıcısında açın.
+1. Siteyi Web tarayıcısında açın.
     
-2. Site bir Microsoft 365 grubuna aitse, sağ üstteki Ayarlar simgesini tıklatın ve ardından **Site izinlerini**tıklatın. **Kişileri Davet et'i**tıklatın ve ardından Microsoft 365 grubuna üye eklemeyi veya yalnızca siteyi paylaşmayı seçin. 
+2. Site bir Microsoft 365 grubuna aitse, sağ üstteki ayarlar simgesine tıklayın ve ardından **Site izinleri**'ne tıklayın. **Kişileri davet et**'e tıklayın ve Microsoft 365 grubuna üye eklemeyi veya yalnızca siteyi paylaşmayı seçin. 
     
-    Bir iletişim sitesi için sağ üstteki **Siteyi Paylaş'ı** tıklatın, kişinin adını girin ve ardından izin düzeyini (Oku, Edit veya Tam Denetim) seçin. 
+    İletişim sitesi için, siteyi sağ üst tarafta **Paylaş** 'ı tıklatın, kişinin adını girin ve izin düzeyini (okuma, düzenleme veya tam denetim) seçin. 
     
-    Klasik bir takım sitesi için sağ üstte **Paylaş'ı** tıklatın. Davet etmek istediğiniz kişinin adını girin veya kuruluşunuzdaki herkesle paylaşılması gereken Herkes yazın. **Paylaş'ı**tıklatın.
+    Klasik ekip sitesi için sağ üst köşedeki **Paylaş** 'a tıklayın. Davet etmek istediğiniz kişinin adını girin veya kuruluşunuzdaki herkesle paylaşmak için herkesi yazın. **Paylaş**'a tıklayın.
     
-[Dosya veya klasörü nasıl paylaşılanmayı öğrenin](https://go.microsoft.com/fwlink/?linkid=511430)
+[Dosya veya klasörü paylaşmayı öğrenin](https://go.microsoft.com/fwlink/?linkid=511430)
   
 
