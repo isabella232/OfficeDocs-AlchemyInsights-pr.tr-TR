@@ -1,26 +1,27 @@
 ---
-title: 8000037 Outlook.com e-posta alma
+title: 8000037 'da e-posta Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: 4d2fd6d68c88407740729aecd9e4d63f5b0d712b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f847180d59258b6bf1f4b7253d0bca5d0c3390eb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761762"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772498"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Outlook.com posta almamak
+# <a name="not-receiving-mail-in-outlookcom"></a>Outlook.com 'da posta almıyor
 
-Banka ekstreleriniz veya parola sıfırlama iletileriniz gibi belirli bir gönderenden e-posta almıyorsanız, gönderenle iletişim kurmanız ve Outlook.com hesabınızdan e-posta almadığınızı onlara bildirmeniz gerekir. Lütfen göndereni [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135)en iyi uygulamalar hakkında bilgi bulabilecekleri, sorun giderme önerebilecekleri ve gönderen destek ekibimizle iletişime geçmek için bir bağlantıya yönlendirin.
+Banka ekstreleriniz veya parola sıfırlama iletileriniz gibi belirli bir gönderenden gelen e-postaları almıyorsanız, gönderene başvurmanız ve Outlook.com hesabınızda e-posta almaktan haberdar olmanız gerekir. Lütfen gönderene, [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) en iyi uygulamalar hakkında bilgi bulabilecekleri, sorun giderme önerdiğimiz ve gönderen desteği ekibimize ulaşacak bir bağlantı ile ilgili bilgileri bulabilecekleri bir bağlantı bulabilirsiniz.
   
-Outlook.com hesabınız hiç e-posta almıyorsa, [e-posta eşitleme sorunlarını Outlook.com düzelt'e](https://go.microsoft.com/fwlink/p/?linkid=874363)bakın.
+Outlook.com hesabınız e-posta almamıyorsa, [Outlook.com e-posta eşitleme sorunlarını giderme](https://go.microsoft.com/fwlink/p/?linkid=874363)konusuna bakın.
   
 

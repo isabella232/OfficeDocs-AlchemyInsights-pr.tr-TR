@@ -1,34 +1,35 @@
 ---
-title: SharePoint Online'da Ara
+title: SharePoint Online 'da arama
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 85f29fabe3189fe248696155208b56d4901ab6de
-ms.sourcegitcommit: b5370f0fc8da1e7e5ac960cb622a21612a9c86be
+ms.openlocfilehash: f790efbe6ed445786933efa3fc980f974693d1d9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/29/2020
-ms.locfileid: "42341119"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770787"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>SharePoint Online'da içerik tarama ve dizine eklenme
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>SharePoint Online 'da içerik gezme ve dizin oluşturma
 
-Kullanıcıların SharePoint Online'da aradıklarını bulmaları için içerik taranmalı ve arama dizinine eklenmelidir.
+İçeriğin SharePoint Online 'da aradıklarını bulması için içerik gezilmeli ve arama dizinine eklenmelidir.
 
-- [Site içeriğini aranabilir hale getirerek](https://docs.microsoft.com/sharepoint/make-site-content-searchable)içeriğin bulunabilmesini unutmayın.
+- [Site içeriğinde arama yaparak](https://docs.microsoft.com/sharepoint/make-site-content-searchable)içeriğin bulunduğundan emin olun.
 
-- Yönetilen bir özelliği değiştirdiğinizde veya taranmış ve yönetilen özelliklerin eşlemeyi değiştirdiğinizde, değişikliklerinizin arama dizinine yansıtılmadan önce sitenin yeniden taranması gerekir.
+- Yönetilen bir özelliği değiştirdiğinizde veya Gezilen ve yönetilen özelliklerin eşlemesini değiştirdiğinizde, yaptığınız değişiklikler arama dizinine yansıtılacak şekilde site yeniden gezinmelidir.
 
-- Daha fazla bilgi için [bkz.](https://docs.microsoft.com/sharepoint/crawl-site-content)
+- Daha fazla bilgi için, [bir site, kitaplık veya liste üzerinde el ile gezinme ve yeniden dizin oluşturma](https://docs.microsoft.com/sharepoint/crawl-site-content)konusuna bakın.
 
-- Bir sorun yaşamaya devam edip olmadığınızı görmek için el ile tarama ve tam yeniden dizini istedikten sonra en az 24 saat bekleyin.
+- Bir sorunla karşılaşmaya devam ediyorsanız, bir gezinmeyi el ile tamamladıktan sonra en az 24 saat bekleyin.
 
-- Tarama ve tam yeniden dizini başlatmanız üzerinden 24 saatten fazla zaman geçtiyse, lütfen bir destek örneğini günlüğe kaydedin. Çoğu durumda, zaten bir çözüm üzerinde çalışıyoruz. Lütfen bir çözümü tamamlamamız için bize en az 24 saat verin.
+- Gezinmeyi ve tam yeniden dizini başlatmanızdan itibaren 24 saatten uzun bir süresi geçmişse, lütfen bir destek durumunu günlüğe kaydeder. Birçok durumda bir çözüm üzerinde çalışıyoruz. Lütfen çözümü tamamlamak için en az 24 saat bekleyin.
 
-**Önemli**: Bir site, belge (kitaplık) veya bir liste silinmişse ve arama sonuçlarında hala gösteriliyorsa, kullanıcılar siteye erişmeye çalışırken Bulunamadı bir **Hata 404 Dosyası** almalıdır. Bu sorun, daha fazla araştırma için bir destek durumu olarak günlüğe kaydedilmelidir.
+**Önemli**: site, belge (kitaplık) veya liste silinmişse ve arama sonuçlarında görünmeye devam ediyorsa, kullanıcılar erişmeye çalışırken bir **hata 404 dosyası bulunamadı** . Bu sorun, daha fazla inceleme için destek durumu olarak günlüğe kaydedilir.
 
 
 
