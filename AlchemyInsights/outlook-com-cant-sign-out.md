@@ -1,27 +1,28 @@
 ---
-title: Outlook.com oturum açamıyorum
+title: Outlook.com oturumu açamıyoruz
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom:
 - "1872"
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d668960b463c7dd3d9731e4d7b52a7779331b034
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666869"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47752775"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Outlook.com çıkış yapamıyor
+# <a name="unable-to-sign-out-of-outlookcom"></a>Outlook.com oturumunuzu kapatma
 
-Outlook.com çıkmak için, ekranın sağ üst köşesinde adınızı veya resminizi seçin ve ardından **Oturum Aç'ı**seçin.
+Outlook.com oturumunu imzalamak için, ekranın sağ üst köşesindeki adınızı veya resminizi seçin ve ardından **Oturumu Kapat**'ı seçin.
 
-Resminizi ekranın üst kısmında görmüyorsanız, reklam engellemenin açık olup olmadığını kontrol edin. Bazen bu, resmin gösterilmesini engeller.
+Resminizin en üstünde görünmüyorsa, ad engellemesinin açık olup olmadığını denetleyin. Bu özellik bazen resmin görünmesini engeller.
 
-Hala Outlook.com oturum açamıyorsanız, tüm [https://login.live.com/logout.srf](https://login.live.com/logout.srf) tarayıcı pencerelerini kapatın' ı tıklatın.
+Outlook.com oturumunu hala kapatamıyorsanız,  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) tüm tarayıcı pencerelerini kapatın.
