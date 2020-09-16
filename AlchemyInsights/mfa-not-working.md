@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 718af9bfbc0a64cdfc96528e5062fb96c8d0f2d3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768857"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755151"
 ---
-# <a name="issues-with-azure-mfa"></a>Azure MFA ile ilgili sorunlar
-Kullanıcıların çok faktörlü kimlik doğrulaması (MFA) kullanarak oturum açıp açmamalarını kontrol etmek için birkaç şey vardır
+# <a name="issues-with-azure-mfa"></a>Azure MFA 'daki sorunlar
+Kullanıcıların Multi-Factor Authentication (MFA) kullanarak oturum açıp açamayacağınızı denetlemek için birkaç şey vardır
 
-1. Etkilenen kullanıcı Azure Etkin Dizin Portalı'nda engellenebilir. Bu durumda, söz konusu kullanıcı için kimlik doğrulama denemeleri otomatik olarak reddedilir. [Lütfen engellerini kaldırmak için bu makaledeki adımları izleyin.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. Etkilenen Kullanıcı Azure Active Directory portalında engellenmiş olabilir. Bu durumda, söz konusu kullanıcının kimlik doğrulama denemeleri otomatik olarak reddedilir. [Bu makaledeki adımları izleyerek bunları kaldırın.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. Kullanıcının engelini kaldırmak yardımcı olmadıysa veya kullanıcı engellenmiyorsa, kullanıcı için MFA'yı sıfırlamayı deneyebilirsiniz ve bu işlem yeniden kayıt işleminden geçer. [Lütfen bu makaledeki adımları izleyin.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. Kullanıcının engellenmesini kaldırma konusunda yardım yoksa veya Kullanıcı engellenmediyse, Kullanıcı için MFA sıfırlamayı deneyebilirsiniz ve kayıt işlemini yeniden ilerler. [Lütfen bu makaledeki adımları izleyin.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-MFA'yı ilk kez etkinleştirdiyseniz ve kullanıcılarınız Outlook, Skype, vb. gibi tarayıcı olmayan istemcilere giriş yapamıyorsa, Belki De ADAL (Active Directory Authentication Library) O365 aboneliğinizde etkinleştirilmez. Bu durumda Exchange Online Powershell'e bağlanmanız ve bu cmdlet'i çalıştırmanız gerekir:  *Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true*
+Bu, MFA 'yi ilk kez etkinleştirdiyseniz, kullanıcılarınız Outlook, Skype gibi tarayıcılarda olmayan istemcilerde oturum açmayabilir, ancak O365 aboneliğinizde bir ADAL (Active Directory kimlik doğrulama kitaplığı) etkinleştirilmez. Bu durumda, Exchange Online PowerShell 'e bağlanmanız ve şu cmdlet 'i çalıştırmanız gerekir:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $true*

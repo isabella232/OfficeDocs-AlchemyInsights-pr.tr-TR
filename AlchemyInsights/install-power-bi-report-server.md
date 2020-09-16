@@ -1,39 +1,40 @@
 ---
-title: Güç BI rapor sunucusu yükleme
+title: Power BI rapor sunucusunu yükleme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 38ef162bd5c26328ee70af37df07adfbf2bfd93b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 3ea596547093773ab872ca34e8dd3a4e49e59fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752395"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755115"
 ---
-# <a name="install-power-bi-report-server"></a>Güç BI rapor sunucusu yükleme
+# <a name="install-power-bi-report-server"></a>Power BI rapor sunucusunu yükleme
 
-1. PowerBIReportServer.exe konumunu bulun ve yükleyici Başlat.
+1. PowerBIReportServer.exe konumunu bulun ve yükleyiciyi başlatın.
 
-2. **Güç BI rapor sunucusu yükleme**seçin.
+2. **Power BI rapor sunucusunu yükle 'yi**seçin.
 
-3. Sürümü yükleyin ve sonra **İleri**' yi seçin seçin.
+3. Yüklenecek bir sürüm seçin ve **İleri**'yi seçin.
 
-4. Aşağı açılan değerlendirme veya Developer edition seçebilirsiniz.  Aksi durumda, güç BI hizmet veya toplu lisans hizmet merkezi bir ürün anahtarı satın aldığınız Server girebilirsiniz. Önce ürün anahtarı, bkz: alma hakkında daha fazla bilgi için bölüm başlar. Okuyun ve lisans hüküm ve koşulları kabul edersiniz ve sonra **İleri**' yi seçin.
+4. Açılan listeden değerlendirme veya geliştirici sürümü seçebilirsiniz.  Aksi takdirde, Power BI hizmetinden veya toplu lisans hizmeti merkezinden aldığınız sunucu için bir ürün anahtarı girebilirsiniz. Ürün anahtarınızı edinme hakkında daha fazla bilgi için, başlamadan önce bölümüne bakın. Lisans koşullarını ve koşullarını okuyup kabul edin ve sonra **İleri**'yi seçin.
 
-5. Bir Database Engine rapor sunucusu veritabanını depolamak kullanılabilir olması gerekir. Yalnızca rapor sunucusu yüklemek için **İleri** ' yi seçin.
+5. Rapor sunucusu veritabanını depolamak için bir veritabanı altyapısının olması gerekir. Yalnızca rapor sunucusunu yüklemek için **İleri** 'yi seçin.
 
-6. Rapor sunucusu için bir yükleme konumu belirtin. Devam etmek için **Yükle** ' yi seçin.
+6. Rapor sunucusunun yükleme konumunu belirtin. Devam etmek için **Yükle** 'yi seçin.
 
-7. Raporlama Hizmetleri Yapılandırma Yöneticisi'ni başlatmak için **Rapor sunucusu yapılandırma** başarılı kurulumundan sonra seçin.
+7. Başarılı bir kurulumdan sonra, Raporlama Hizmetleri Yapılandırma Yöneticisini başlatmak için **rapor sunucusunu yapılandır** 'ı seçin.
 
-Yükleme zamanında kullanılabilir SQL Server Database Engine sunucu gerek yoktur. Reporting Services'i yüklemeden sonra yapılandırmak için ihtiyacım.
+Yükleme sırasında kullanılabilir bir SQL Server veritabanı altyapısı sunucusuna ihtiyacınız yok. Yüklemeden sonra raporlama hizmetlerini yapılandırmak için bir tane gerekir.
 
-Daha fazla bilgi için:https://docs.microsoft.com/power-bi/report-server/install-report-server
+Daha fazla bilgi için: https://docs.microsoft.com/power-bi/report-server/install-report-server
