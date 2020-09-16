@@ -1,37 +1,38 @@
 ---
-title: Sorun Giderme OneNote Eşitleme Sorunları
+title: OneNote eşitleme sorunlarını giderme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: 970fe688becc30ea1eb644793388a316d1878f30
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2dba7bf8e6d8293e7447840941a063b343774a53
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36559429"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749822"
 ---
-# <a name="troubleshoot-onenote-sync-issues"></a>Sorun Giderme OneNote Eşitleme Sorunları
+# <a name="troubleshoot-onenote-sync-issues"></a>OneNote eşitleme sorunlarını giderme
 
-* OneNote eşitlemeyle ilgili en sık karşılaşılan sorunları gidermek için, lütfen [OneNote'u eşitleyemezken Düzeltme sorunlarındaki](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)adımları kullanın.
+* OneNote Sync ile ilgili sık karşılaşılan sorunları gidermek için, [OneNote 'u eşitleyemediğinizde sorunları düzeltme](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)konusundaki adımları kullanın.
 
-Eşitlemeyen not defteri OneDrive'da veya SharePoint'in yeni sürümlerinde depolanırsa, not defterini web için OneNote'ta açmayı deneyin (www.onenote.com). Bu, sorunun sunucudan mı yoksa OneNote'a mı kaynaklandığını belirlemede yardımcı olabilir.
+Eşitlemeyecek olan Not defteri OneDrive 'da veya SharePoint 'in daha yeni sürümlerinde depolanıyorsa, Not defterini Web için OneNote 'ta (www.onenote.com adresinde) açmayı deneyin. Bu, sunucunun veya OneNote 'un neden olduğunu belirlemeye yardımcı olabilir.
 
-1. OneNote'ta **Dosya**  >  **Bilgileri'ni**tıklatın.
+1. OneNote 'ta **Dosya**  >  **bilgileri**'ne tıklayın.
 
-2. Etkilenen not defterinin adının altında gösterilen URL'ye sağ tıklayın ve **Kopyala'yı**tıklatın.
+2. Etkilenen Not defterinin adının altında gösterilen URL 'YI sağ tıklatın ve **Kopyala**'yı tıklatın.
 
-3. Web tarayıcınızda Adres kutusunu tıklatın ve ardından kopyalanan URL'yi yapıştırmak için **Ctrl + V tuşuna** basın.
+3. Web tarayıcınızda Adres kutusuna tıklayın ve ardından **CTRL + V** tuşlarına basarak kopyalanan URL 'yi yapıştırın.
 
-4. Web için OneNote'ta not defterini yüklemek için **Enter** tuşuna basın.
+4. Web için OneNote 'ta Not defteri 'ni yüklemek için **ENTER** tuşuna basın.
 
-Not defterini OneNote'ta web için açamıyorsanız ve değişiklikler görünüyorsa, sorun OneNote'un masaüstü sürümünden kaynaklanıyor olabilir. Not defterini kapatıp yeniden açmak genellikle bağlantıyı temizler ve başarıyla sıfırlar.
+Web için OneNote 'ta Not defterini açamıyorsanız ve değişiklikler görünüyorsa, sorunun nedeni OneNote 'un masaüstü sürümünden kaynaklanabilir. Not defterini kapatma ve yeniden açma genellikle bağlantıyı temizler ve başarıyla sıfırlar.
 
-* Bilgisayarınıza en son OneNote güncelleştirmelerini yüklemek için [Office'i Yükle'deki](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) adımları izlemenizi öneririz. Mac'teyseniz, Office için Office [güncelleştirmelerini otomatik olarak](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1)denetle'deki adımları izleyin.
+* Bilgisayarınızda en son OneNote güncelleştirmelerini yüklemek için [Office güncelleştirmelerini yükleme](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) konusundaki adımları izlemeniz önerilir. Mac kullanıyorsanız, [Mac Için Office güncelleştirmelerini otomatik olarak denetle](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1)bölümündeki adımları izleyin.

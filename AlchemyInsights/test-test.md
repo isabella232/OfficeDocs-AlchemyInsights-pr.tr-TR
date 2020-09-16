@@ -1,52 +1,53 @@
 ---
-title: SharePoint Online Term Store'dan eksik terimler
+title: SharePoint Online terim deposunda terimler eksik
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 54ac2dbc1f45f88541c2338f3b55a777b4b57123
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766873"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750471"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>Intune ile Bitlocker Şifrelemesini Etkinleştirme
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Intune ile BitLocker şifrelemesini etkinleştirme
 
-Intune Endpoint Protection Policy, Windows aygıtları için Boitlocker şifreleme ayarlarını açıklandığı gibi yapılandırmak için kullanılabilir: Windows10 (ve sonraki) ayarlarını Intune kullanan aygıtları korumak için
+Intune, Intune kullanarak cihazları korumada açıklandığı gibi Windows cihazları için Boitkilitsiz şifreleme ayarlarını yapılandırmak için kullanılabilir.
 
-Windows 10 çalıştıran birçok yeni aygıtın MDM ilkesi uygulaması olmadan tetiklenen otomatik bitlocker şifrelemesini desteklediğini unutmayın. Varsayılan olmayan ayarlar yapılandırılırsa, bu ilkenin uygulanmasını etkileyebilir. Daha fazla ayrıntı için SSS bölümüne bakın.
-
-
- SSS S: Son Nokta Koruma İlkesi'ni kullanarak Windows'un aygıt şifrelemesini destekleyen sürümleri?
- C: Intune Endpoint Protection Policy'deki ayarlar Bitlocker CSP kullanılarak uygulanır.Tüm sürümleri veya Windows yapıları Bitlocker CSP'yi desteklemez. 
-      Şu anda Windows Editions: Enterprise; Eğitim, Mobil, Mobil Kurumsal ve Profesyonel (1809'dan itibaren) desteklenir.
+Windows 10 çalıştıran yeni aygıtların, MDM ilkesinin uygulaması olmadan tetiklenen otomatik BitLocker şifrelemesini desteklemediğini bilmelisiniz. Bu, varsayılan ayarlar yapılandırılmadığında ilkenin uygulamasını etkileyebilir. Daha ayrıntılı bilgi için SSS bölümüne bakın.
 
 
-
-
-S: Bir aygıt şifreleme yöntemi ve şifreleme gücü (XTS-AES-128) için işletim sistemi varsayılan ayarlarını kullanarak Bitlocker ile zaten şifrelenmişse, farklı ayarlara sahip bir ilke uygulayacak sayılsa, yeni ayarlarla sürücünün yeniden şifrelemesini otomatik olarak tetikler mi?
-
-C: Hayır. Yeni şifreleme ayarlarını uygulamak için öncelikle sürücünün şifresinin çözülmesi gerekir.
-
-Not Otomatik Pilot'a kayıtlı olan aygıtlar için, INtune ilkesi değerlendirilene kadar OOBE sırasında oluşacak otomatik şifreleme tetiklenmez ve bu da işletim sistemi varsayılanları yerine ilke tabanlı ayarların kullanılmasına izin verir
+SSS   : Windows 'un hangi sürümleri Endpoint Protection ilkesini kullanarak cihaz şifrelemeyi destekliyor mu?
+ A: Intune Endpoint Protection Ilkesindeki ayarlar BitLocker CSP kullanılarak uygulanır.Windows 'un tüm sürümleri ve derlemeleri BitLocker CSP 'yi desteklemez. 
+      Şu anda Windows sürümlerinde: Kurumsal; Eğitim, mobil, mobil kurumsal ve profesyonel (derleme 1809 sürümleri) desteklenir.
 
 
 
 
-S Bir aygıt Intune ilkesinin uygulanması sonucunda şifrelenirse, bu ilke kaldırıldığında şifresi çözülür mü?
+S: bir cihaz zaten BitLocker ile şifrelenmiş şifreleme yönteminin varsayılan ayarları ve şifreleme gücü (XTS-AES-128) kullanılarak şifrelenmişse, farklı ayarlarla ilke uygulanarak yeni ayarlarla sürücünün yeniden şifrelenmesi otomatik olarak ayarlanır.
 
-C: Şifreleme ile ilgili ilke kaldırılması, yapılandırılan sürücülerin şifresinin çözülmesiyle sonuçlanmaz.
+Y: Hayır. Yeni şifre ayarlarını uygulamak için önce sürücünün şifresinin çözülmesi gerekir.
+
+Autopilot ile kaydolan cihazların, Intune ilkesi değerlendirilinceye kadar otomatik şifreleme tetiklenemez ve bu da işletim sisteminin Varsayılanları yerine ilke tabanlı ayarların kullanılmasına izin verir
 
 
 
 
-S: Intune Uyumluluk ilkesi, aygıtımda "Bitlocker Etkin" olmadığını, ancak etkin olduğunu neden gösteriyor?
+S Intune ilkesi uygulaması nedeniyle bir cihaz şifrelenmişse, bu ilke kaldırıldığında şifresi çözülür mi?
 
-C: Intune uyumluluk ilkesinde "Bitlocker etkin" ayarı Windows Aygıt Durumu Attestation (DHA) istemcisini kullanır. Bu istemci yalnızca önyükleme zamanında aygıt durumunu ölçer. Bu nedenle, bitlocker şifrelemesi tamamlandığından beri bir aygıt yeniden başlatılmazsa, DHA istemci hizmeti bitlocker'ı etkin olarak bildirmez.
+A: şifrelemeyle ilgili ilkenin kaldırılması, yapılandırılmış sürücülerin şifresinin çözülmesini sağlamaz.
+
+
+
+
+S: Intune uyumluluk ilkesinde neden cihazımın "BitLocker etkin" olduğunu gösteriyor, ancak şu mu?
+
+A: Intune uyumluluk ilkesindeki "BitLocker etkin" ayarı, Windows cihaz durumu kanıtlama (DHA) istemcisinin kullanır. Bu istemci yalnızca önyükleme sırasında cihaz durumunu ölçtüğünden. Bu nedenle, BitLocker şifrelemesi tamamlandığından bir cihaz yeniden başlatılıncaya kadar, DHA istemci hizmeti BitLocker 'ı etkin olduğu gibi bildirmeyecektir.

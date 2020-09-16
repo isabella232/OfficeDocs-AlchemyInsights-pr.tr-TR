@@ -1,11 +1,12 @@
 ---
-title: 725 Mobil cihazda e-posta takma adını kullanma
+title: 725 mobil cihazda e-posta diğer adını kullanma
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "725"
 - "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: d187a6686d986efd18a486fe262bcca5409d93ae
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7eea3de92019afb801b1b843ef562b42ea85c7dd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726304"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749101"
 ---
-# <a name="email-aliases-on-mobile-devices"></a>Mobil cihazlarda takma adlar e-postayla gönder
+# <a name="email-aliases-on-mobile-devices"></a>Mobil cihazlarda e-posta diğer adları
 
-E-posta takma adı, posta kutusunda yapılandırılan başka bir e-posta adresidir, bu nedenle kullanıcının takma adlarına gönderilen iletiler posta kutusuna teslim edilir ve mobil aygıtlarında okunabilir hale gelir. Ek yapılandırma gerekmez.
+E-posta diğer adı, bir posta kutusunda yapılandırılmış olan başka bir e-posta adresidir, böylece bir kullanıcının diğer adına gönderilen iletiler posta kutularına gönderilir ve mobil aygıtlarında okunabilir. Ek yapılandırma gerekmez.
 
-Ancak, bir kullanıcı iletileri yanıtlayamaz veya Adres olarak takma ad kullanarak yeni iletiler gönderemez. Giden tüm iletiler birincil e-posta adreslerinden olacaktır.
+Ancak bir Kullanıcı, Kimden adresi olarak bir diğer ad kullanarak iletileri yanıtlayamaz veya yeni ileti gönderemez. Tüm giden iletiler birincil e-posta adresinden olacaktır.

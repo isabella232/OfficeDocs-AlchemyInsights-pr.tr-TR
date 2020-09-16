@@ -1,31 +1,32 @@
 ---
-title: Sorun Giderme Hatası 404, Dosya bulunamadı
+title: Sorun giderme 404, dosya bulunamadı
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: c860b9db63e8d341cbe5e6d8d1d420b4c9d01c9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e76864949bde7230e63f509823ab1e3edf631388
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505363"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750111"
 ---
-# <a name="troubleshoot-error-404-file-not-found"></a>Sorun Giderme Hatası 404, Dosya bulunamadı
+# <a name="troubleshoot-error-404-file-not-found"></a>Sorun giderme 404, dosya bulunamadı
 
-Kullanıcılar SharePoint veya OneDrive'da bir siteye veya dosyaya erişmeye çalışırken bir Hata 404 alınır. Bunun nedeni genellikle bir site nin veya dosyanın veya grubun yeniden adlandırılsa, taşınmasından veya silinmekten kaynaklanır. Örneğin: Kullanıcılar Kök Site Koleksiyonu'na erişmeye çalışan bir 404 Hatası yla karşılaşır ve silinmiştir.
+Kullanıcılar SharePoint veya OneDrive 'da bir siteye veya dosyaya erişmeye çalıştığında bir 404 hatası alındı. Bunun nedeni genellikle site veya dosya veya grubun yeniden adlandırılmasına, taşınmasına veya silinmesine neden olur. Örneğin: kullanıcılar kök site koleksiyonuna erişmeye çalışırken bir 404 hatası yaşayacaktır.
 
-Yeniden adlandırılmış, taşınmış veya silinmiş bir Site için Hata 404'ün çözüme kavuşturulması için:
+Yeniden adlandırılan, taşınan veya silinen bir sitenin 404 hatasını çözmek için:
 
-Klasik Yönetici Merkezi'nde bulunan klasik siteler için [silinmiş site koleksiyonunu geri yükle'ye](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)bakın.
+Klasik Yönetim merkezinde bulunan klasik siteler için, [Silinmiş bir site koleksiyonunu geri yükleme](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)bölümüne bakın.
 
-Yeni SharePoint yönetici merkezinde bulunan modern siteler (iletişim, gruba bağlı veya diğer siteler) için, [yeni SharePoint yönetici merkezinde silinen siteleri görüntüle ve geri yükleyin.](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
+Yeni SharePoint Yönetim merkezinde bulunan modern siteler (iletişim, Grup bağlı veya diğer siteler) için, [Yeni SharePoint Yönetim merkezinde silinen siteleri görüntüleme ve geri yükleme](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)bölümüne bakın.
 
-Yeniden adlandırılmış, taşınmış veya silinmiş bir Dosya (veya başka bir öğe) için Hata 404'ü çözmek için:
+Yeniden adlandırılan, taşınan veya silinen bir dosyanın (veya başka bir öğenin) 404 hatasını çözmek için:
 
-SharePoint veya OneDrive sitesine gidin ve Site içeriğinden Geri Dönüşüm Kutusu'nu görüntüleyin. Bkz. [SharePoint sitesinin Geri Dönüşüm Kutusu'ndaki öğeleri geri yükleme.](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online)
+SharePoint veya OneDrive sitesine gidin ve site içeriğinden geri dönüşüm kutusunu görüntüleyin. [SharePoint sitesinin geri dönüşüm kutusu 'ndaki öğeleri](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online)görün.
 
-Öğeyi hala bulamıyorsanız, günlük kaydı etkinse denetim günlüğün [&de](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)arama yapabilirsiniz bkz.
+Öğeyi yine de bulamıyorsanız, günlük etkinse denetim günlüğünde arama yapabilirsiniz [kutusunda, Microsoft 365 güvenlik & Uyumluluk Merkezi 'nde denetim günlüğünde arama](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)yapın.
