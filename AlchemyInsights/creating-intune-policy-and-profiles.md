@@ -6,40 +6,41 @@ manager: dougeby
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: fac2a9e41449b4eb9b87d21d4cba4f6f5192d9c6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9026beac824ebc3849241dbb534c27b00ef1d0eb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715416"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47746779"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>Intune ilkesi ve profilleri oluşturma
 
-Intune'da, farklı şeyler yapan ilkeler ve profiller oluşturabilirsiniz.
+Intune 'da farklı şeyler yapan ilkeler ve profiller oluşturabilirsiniz.
 
-- **Kayıt profilleri**: Cihazlarınızı platforma göre önceden yapılandırın, kullanıcı yakınlığını etkinleştirin, çok faktörlü kimlik doğrulamayı kullanın ve daha fazlasını kullanın.
+- **Kayıt profilleri**: cihazlarınızı platforma göre önceden yapılandırın, Kullanıcı benzeşimini etkinleştirin, çok faktörlü kimlik doğrulaması kullanın ve daha fazlasını yapın.
 
-  [Cihaz kaydı nedir](https://docs.microsoft.com/intune/device-enrollment)ve [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)ve [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) için kayıt profilleri oluşturmak iyi kaynaklardır.
+  [Cihaz kaydı nedir](https://docs.microsoft.com/intune/device-enrollment)ve [Android](https://docs.microsoft.com/intune/android-enroll), [IOS](https://docs.microsoft.com/intune/ios-enroll), [MacOS](https://docs.microsoft.com/intune/macos-enroll)ve [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) için kayıt profilleri oluşturma iyi kaynaklardır.
 
-- **Uyumluluk ilkeleri**: Uyumlu olması için aygıtların izlemesi gereken kuralları ve ayarları tanımlayın. Ayrıca, aygıtları izlemek ve kullanıcıları uyumsuzluk hakkında bilgilendirmek için uyumluluk ilkelerini de kullanabilirsiniz.
+- **Uyumluluk ilkeleri**: cihazların uyumlu olması için izlenmesi gereken kuralları ve ayarları tanımlayın. Ayrıca, uyumluluk ilkelerini, cihazları izlemek ve kullanıcıları uyumlu olmama durumunda bilgilendirmek için kullanabilirsiniz.
 
-  [Cihaz uyumluluk ilkeleriyle](https://docs.microsoft.com/intune/device-compliance-get-started)başlayın.
-- **Koşullu erişim ilkeleri**: Girdiğiniz koşullara bağlı olarak kuruluş kaynaklarının güvenliğini sağlamaya yardımcı olun. Örneğin, uyumlu olmayan aygıtlar için, e-posta ve SharePoint'e erişimi kısıtlamak için koşullu erişimi kullanın.
+  [Cihaz uyumluluk ilkeleriyle](https://docs.microsoft.com/intune/device-compliance-get-started)çalışmaya başlayın.
+- **Koşullu erişim ilkeleri**: girdiğiniz koşullara bağlı olarak, kuruluş kaynaklarını güvenli hale getirme. Örneğin, uyumlu olmayan cihazlarda e-posta ve SharePoint 'e erişimi kısıtlamak için koşullu erişimi kullanın.
 
-  [Koşullu erişim nedir](https://docs.microsoft.com/intune/conditional-access) ve [koşullu erişimi kullanmanın yaygın yolları](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) başlamak için iyi kaynaklardır.
+  Koşullu erişim ve [koşullu erişimi kullanmanın yaygın yolları](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) [,](https://docs.microsoft.com/intune/conditional-access) başlamak için iyi kaynaklardır.
 
-- **Yapılandırma profilleri**: E-posta ayarları da dahil olmak üzere cihazlardaki özellikleri ve ayarları yönetin, Wi-Fi ağı ekleyin, yerleşik şablonlar kullanın, iOS ve macOS aygıt özelliklerini kontrol edin ve daha fazlasını yapın.
+- **Yapılandırma profilleri**: e-posta ayarları, WiFi ağı ekleme, yerleşik şablonları kullanma, IOS ve MacOS cihaz özelliklerini denetleme ve daha fazlası gibi cihazlarda özellikleri ve ayarları yönetin.
 
-  [Aygıt yapılandırma profillerine](https://docs.microsoft.com/intune/device-profiles)başlayın.
+  [Cihaz yapılandırma profillerinde](https://docs.microsoft.com/intune/device-profiles)çalışmaya başlayın.
 
-Yararlı bağlantılar:
+Faydalı bağlantılar:
 
-- [Intune'da cihaz ilkeleri ve profilleriyle sık sorulan sorular, sorunlar ve çözümler](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Intune 'da cihaz ilkeleri ve profillerle ilgili sık sorulan sorular, sorunlar ve çözümler](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Intune'da sorun giderme ilkeleri ve profilleri](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Intune 'da ilkeler ve profillerde sorun giderme](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
