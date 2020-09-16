@@ -6,23 +6,24 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
-ms.openlocfilehash: 280169200893921fa550264cceca5f5980937536
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 38c62c3554b00233e9520e107b2f8a1cc1956b7b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715580"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732879"
 ---
-# <a name="microsoft-flow"></a>Microsoft Akışı
+# <a name="microsoft-flow"></a>Microsoft Akış
 
-Microsoft Akışı, sık karşılaşılan görevleri otomatikleştirmenize yardımcı olur. Listeler ve kitaplıklar için iş akışları ayarlamak için kullanın. SharePoint Online veya OneDrive'daki bir listeye veya kitaplıkta akış eklemeyi öğrenmek için [bkz.](https://go.microsoft.com/fwlink/?linkid=869408)
+Microsoft Akış, yaygın görevleri otomatikleştirmenize yardımcı olur. Listeler ve kitaplıklar için iş akışları ayarlamak üzere kullanın. SharePoint Online veya OneDrive 'da bir liste veya [Kitaplığa akış eklemeyi](https://go.microsoft.com/fwlink/?linkid=869408)öğrenmek için bkz.
   
-[Microsoft Flow ile ilgili videolar](https://go.microsoft.com/fwlink/?linkid=864641)
+[Microsoft akışı hakkında videolar](https://go.microsoft.com/fwlink/?linkid=864641)
   
 [Microsoft Flow web sitesi](https://go.microsoft.com/fwlink/?linkid=864642)
   
