@@ -1,27 +1,28 @@
 ---
-title: Yazılım güncelleştirmeleri dağıtılan değil
+title: Yazılım güncelleştirmeleri dağıtılmıyor
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1125"
 - "6700007"
-ms.openlocfilehash: 418f457700f02881df30e6f650a60101192aa538
-ms.sourcegitcommit: 3fa780811984400c525d66edf46a3196f6290df0
+ms.openlocfilehash: d9a37e4c2d977083cf2ccbf6580159f92524f936
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45424107"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665270"
 ---
-# <a name="software-updates-are-not-being-deployed"></a>Yazılım güncelleştirmeleri dağıtılan değil
+# <a name="software-updates-are-not-being-deployed"></a>Yazılım güncelleştirmeleri dağıtılmıyor
 
-Yazılım güncelleştirmelerini Windows 10 güncelleştirme halkası aracılığıyla yapılandırdıysanız, ancak güncelleştirmeler dağıtılmıyorsa aşağıdakileri deneyin:  
+Yazılım güncelleştirmelerini Windows 10 güncelleştirmesi halkası aracılığıyla yapılandırdıysanız ancak güncelleştirmeler dağıtılmazsa, aşağıdakileri deneyin:  
 
-- Windows hizmet ini **Yarı Yıllık Kanal** sürüm türünden daha sıkı ve daha sık sürüm türüne değiştirmeyi düşünün.
-- **Kalite güncelleştirmesi** ve Özellik **güncelleştirmesi**için erteleme dönemini denetleyin. Erteleme süresi güncelleştirmelerde 180 güne kadar gecikmeye neden olabilir.
+- Windows Hizmetleri 'ni,  **yarı yıllık bir kanal**  sürümü türünden daha sıkı, daha sık bir sürüm türüne çevirmeyi düşünebilirsiniz.
+- **Kalite güncelleştirmesi** ve **Özellik Güncelleştirmesi**için erteleme dönemini denetleyin. Erteleme dönemi 180 güne kadar olan güncelleştirmelerde gecikmeye neden olabilir.

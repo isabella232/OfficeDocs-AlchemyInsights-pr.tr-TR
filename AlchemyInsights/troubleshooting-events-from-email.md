@@ -1,47 +1,48 @@
 ---
-title: E-postadan Sorun Giderme Etkinlikleri
+title: E-postadan sorun giderme olayları
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: e27589b7f6730036040b948b6275cef072fd8235
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569400"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658754"
 ---
-# <a name="troubleshooting-events-from-email"></a>E-postadan Sorun Giderme Etkinlikleri
+# <a name="troubleshooting-events-from-email"></a>E-postadan sorun giderme olayları
 
-1. Posta kutusu için özelliğin etkinleştirilen olduğunu doğrulayın: **Get-EventsFromEmailConfiguration -Identity <mailbox> **
+1. Özelliğin posta kutusu için etkinleştirildiğini doğrulama: **Get-EventsFromEmailConfiguration-Identity <mailbox> **
 
-2. Sonra 'E-posta dan Olaylar' günlükleri **İhracat-MailboxDiagnosticLogs <mailbox> -Bileşen TimeProfile** bakmak
+2. Ardından ' e-postadaki etkinlikler ' günlüklerine bakın **dışarı aktarma-MailboxDiagnosticLogs <mailbox> -Component timeprofile**
 
-3. 'E-postadan Olaylar' günlüklerinde, posta kutusundaki öğeyle eşleşen InternetMessageId'i bulun.  
+3. ' E-postadaki etkinlikler ' günlüklerinde, posta kutusundaki öğeyle eşleşen ınternetmessageıd öğesini bulun.  
 
-4. TrustScore, öğenin ekilip eklenmediğini belirler. Olaylar yalnızca TrustScore = "Güvenilen" ise eklenir.
+4. TrustScore öğenin eklenip eklenmeyeceğini belirler. Olaylar yalnızca TrustScore = "güvenilen" olarak eklenir.
 
-Güven Puanı, İleti Üstbilgisinde bulunan SPF, Dkim veya Dmarc özellikleri tarafından belirlenir.
+TrustScore, Ileti üstbilgisindeki SPF, Vseçkim veya DMARC özellikleri tarafından belirlenir.
 
 Bu özellikleri görüntülemek için:
 
 **Masaüstü Outlook**
 
 - Öğeyi açma
-- Dosya -> Özellikleri -> Internet Başlıkları
+- Dosya-> özellikleri-> Internet üstbilgileri
 
 veya
 
 **MFCMapi**
 
-- Gelen kutusundaki öğeye gidin
-- PR_TRANSPORT_MESSAGE_HEADERS_W arayın
+- Gelen kutusu 'nda öğeye gitme
+- PR_TRANSPORT_MESSAGE_HEADERS_W arama
 
-Bu özellikler taşıma ve yönlendirme sırasında belirlenir ve kaydedilir. Daha fazla sorun giderme için, SPF, DKIM ve.veya DMARC'taki hatalar hakkında Transport Support ile izlemeniz gerekebilir.
+Bu özellikler, taşıma ve yönlendirme sırasında belirlenir ve kaydedilir. Daha fazla sorun giderme için, SPF, CıKIM ve. veya DMARC 'daki hatalar hakkında aktarım desteğiyle izlemeniz gerekebilir.
