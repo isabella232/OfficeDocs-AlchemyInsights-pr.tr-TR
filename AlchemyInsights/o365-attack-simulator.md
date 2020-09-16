@@ -1,41 +1,42 @@
 ---
-title: Microsoft 365 2681 Saldırı Simülatörü
+title: 2681 saldırı Simülat365 örü
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506758"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47759239"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>Microsoft 365'te Saldırı Simülatörü
+# <a name="attack-simulator-in-microsoft-365"></a>Microsoft 365 'de saldırı simülatörü
 
-- Saldırı Simülatörü'nü kaçırıyor musunuz? Saldırı Simülatörü **Office 365 Gelişmiş Tehdit Koruma Planı 2 (ATP Planı 2)** veya **Office 365 Enterprise E5**gerektirir. Saldırı Simülasyon Aracı, Office 365 Gelişmiş Tehdit Koruma Planı 1 (ATP Plan 1), Office 365 Enterprise E3 veya iş abonelikleri için herhangi bir Microsoft 365 Sürümüne dahil **değildir.**
+- Saldırı simülatörü eksik mısınız? Saldırı simülatörü için **Office 365 Gelişmiş tehdit koruması planı 2 (ATP plan 2)** veya **Office 365 Kurumsal E5**gereklidir. Saldırı simülatörü Office 365 Gelişmiş tehdit koruması plan 1 (ATP planı 1), Office 365 Kurumsal E3 veya herhangi bir Microsoft 365 uygulaması **için kullanılabilir.**
 
-- Benzetimli saldırılar başlatmak için kullandığınız hesap, genel yönetici veya güvenlik yöneticisi izinleri ve çok faktörlü kimlik doğrulama (MFA) gerektirir. Saldırı Simülatörü gereksinimleri hakkında daha fazla bilgi için [bu konuya](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)bakın.
+- Benzetilmiş saldırıları başlatmak için kullandığınız hesap, genel yönetici veya Güvenlik Yöneticisi izinleri ve çok faktörlü kimlik doğrulaması (MFA) gerektirir. Saldırı simülatörü gereksinimleri hakkında daha fazla bilgi için [Bu konuya](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)bakın.
 
-- **Brute Force Password** saldırı simülasyonları hakkında bilinmesi gereken önemli şeyler:
+- **Kaba, parola** saldırısı benzetimleri ile ilgili bilinmesi gereken önemli noktalar:
 
-  - Hedef hesap MFA etkinleştirilmişse ve parola doğru tahmin edildiyse, hesap tehlikeye atılmış olarak gösterilmez (ikinci kimlik doğrulama faktörü eksik olur).
+  - Hedef hesaba MFA etkinleştirilmişse ve parola doğru tahmindiyse, hesap tehlikeye düşmesi halinde gösterilmez (ikinci kimlik doğrulama faktörü tamamlanmamış olacaktır).
 
-  - Parola dosyası 10 MB'dan büyük olamaz. Satır başına bir parola kullanın ve listedeki son paroladan sonra boş bir satır (satır başı) ekleyin.
+  - Parola dosyası 10 MB 'den büyük olamaz. Her satırda bir parola kullanın ve listedeki son parolanın sonrasına boş bir satır (satır başı) ekleyin.
 
-- **Spear Phishing** hakkında bilinmesi gereken önemli şeyler simülasyonları ekleyin:
+- **Spear sızdırma** ile ilgili bilinmesi gereken önemli noktalar:
 
-  - Tasarım gereği, **Kimlik Avı giriş sunucusu URL'si**için özel bir değer sağlayamaz.
+  - Tasarıma göre, **kimlik avı oturum sunucusu URL 'si**için özel bir değer sağlayamıyoruz.
 
-  - Bir alıcı, [iletiyi](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) kimlik avı olarak bildirmek için Rapor İletisi eklentisini etkinleştir'i kullanırsa, ileti için uyarı almayabilirsiniz (bu simüle edilmiş bir saldırı olduğu için).
+  - Alıcı, iletiyi kimlik avı olarak bildirmek için [rapor ileti eklentisini etkinleştir](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) seçeneğini kullanırsa, ileti için uyarı alamayabilirsiniz (Bu, benzetilmiş bir saldırı nedeniyle).
 
-- Raporlar: Benzetimli saldırı tamamlandıktan sonra, raporu görmek için **Saldırı Ayrıntıları'nı** tıklatabilirsiniz.
+- Raporlar: benzetim işlemi tamamlandıktan sonra, raporu görmek için **saldırı ayrıntıları** 'na tıklayabilirsiniz.
 
-- Attack Simulator'daki ayrıntılı talimatlar ve yeni özellikler için [Microsoft 365'teki Saldırı Simülatörü'ne](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)bakın.
+- Saldırı [365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)simülatörü ile ilgili ayrıntılı yönergeler ve yeni özellikler

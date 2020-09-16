@@ -1,39 +1,40 @@
 ---
-title: Microsoft 365 uygulamaları sabitleme Üzgünüz, biz geçici sunucu sorunları mesajı yaşıyorsanız
+title: Microsoft 365 uygulamalarını düzeltme maalesef geçici sunucu sorunları mesajlıyoruz
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 6db04a437de8e50af349b5c690791981ae872f14
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: e00504d318efdea4968ddf98b3ce9591f8993e38
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582723"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758265"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Microsoft 365 uygulamalarını düzeltme "Üzgünüz, geçici sunucu sorunları yaşıyoruz" iletisi
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Microsoft 365 uygulamalarını düzeltme "Üzgünüz, geçici sunucu sorunlarıyla karşılaşıyoruz" iletisi
 
 Bu iletiyi alırsanız, aşağıdakileri deneyin:
 
-1. Microsoft 365 uygulamalarına Internet erişimini engellemediklerini doğrulamak için güvenlik duvarınızı, virüsten koruma yazılımınızı ve proxy ayarlarınızı kontrol edin. [URL'lere ve IP adres aralıklarına](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)bakın.
+1. Güvenlik duvarınızın, virüsten koruma yazılımınızın ve proxy ayarlarınızın Internet erişimini Microsoft 365 uygulamalarına engellemediğinden emin olmak için denetleyin. [URL 'leri ve IP adresi aralıklarını](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)görün.
 
-2. Başlat **Start**  >  **Çalıştır'a**gidin ve ardından **services.msc**yazın. Aşağıdaki hizmetlerin tümlerinin çalıştığını unutmayın:
-    - Ağa Bağlı Cihazlar Otomatik Kurulum
-    - Ağ Listesi Hizmeti
-    - Ağ Konum Farkındalığı
-    - Windows Etkinlik Günlüğü
+2. Başlat 'ı **başlatın**  >  **Run**ve ardından **Services. msc**yazın. Aşağıdaki hizmetlerin tümünün çalıştığından emin olun:
+    - Ağ bağlantılı cihazların otomatik kurulumu
+    - Ağ listesi hizmeti
+    - Ağ konumu tanıma
+    - Windows olay günlüğü
 
-Bu hizmetlerden biri çalışmıyorsa, başlatmayı deneyin. Hizmeti başlatmakta sorun varsa, yüksek izinleri olan bir komut istemi açarak aşağıdaki komutu çalıştırın:
+Bu hizmetlerden biri çalışmıyorsa, başlatmayı deneyin. Hizmeti başlatırken bir sorun yaşıyorsanız, yükseltilmiş izinlerle komut istemini açarak aşağıdaki komutu çalıştırabilirsiniz:
 
-**sfc /scannow**
+**sfc/scannow**
 
-Bu komut bittikten sonra bilgisayarı yeniden başlatın.
+Bu komut bittiğinde bilgisayarı yeniden başlatın.
 
-Ayrıntılı bilgi için [bkz: "Üzgünüz, hesabınıza bağlanabiliyoruz. Lütfen daha sonra tekrar deneyin" hatanızı etkinleştirdiğinizde.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
+Ayrıntılı bilgi için, [hesabınıza bağlanamıyoruz "Üzgünüz. Etkinleştirme sırasında lütfen daha sonra tekrar deneyin "hatası](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

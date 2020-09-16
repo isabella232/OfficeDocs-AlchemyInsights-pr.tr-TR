@@ -1,30 +1,31 @@
 ---
-title: Office 365 Gelişmiş Tehdit Koruması (ATP) ile ilgili sorun giderme sorunları
+title: Office 365 Gelişmiş tehdit koruması (ATP) ile ilgili sorunları giderme
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: f1dc675c8a8217ea2824ad46e029bfa303303e6a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4164781a331ec919811332e94636449e9d88430d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511132"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758085"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Office 365 ATP ile ilgili sorun giderme sorunları
+# <a name="troubleshoot-issues-with-office-365-atp"></a>Office 365 ATP ile ilgili sorunları giderme
 
-- **E-posta iletisi tesliminde gecikmeleri fark**eder misiniz? ATP Güvenli Ekleri ilkeleriniz için Dinamik Teslim seçeneğini kullanmayı deneyin. Bu, alıcıları kötü amaçlı dosyalardan korurken e-posta iletisi tesliminde gecikmeleri önler.
-- **Yanlış pozitif leri veya yanlış negatifleri bildirmek istiyor musunuz?** Dosyanızı analiz için göndermek için bu bağlantıyı kullanın:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Kuruluşunuzdaki kişiler arasında gönderilen e-postalar için ATP Güvenli Bağlantılar korumasını etkinleştirebileceğinizi biliyor muydunuz?** Şu adımları izleyin:
-    1. Git https://protection.office.com ve oturum aç.
-    2. Tehdit **yönetimi**  >  **Politikası**  >  **Güvenli Linkler**gidin.
-    3. **Belirli alıcılar için geçerli olan İlkeler**altında, bir ilkeyi edin (veya ekleyin).
-    4. **Kuruluş içinde gönderilen iletilere güvenli bağlantılar uygula'yı**seçin.
-    5. İlkinizi kaydedin ve değişikliklerinizin veri merkezinizde çalışması için yaklaşık 30 dakika bekleyin.
-- ATP ile ilgili daha fazla yardım almak için [Bkz. Office 365 Gelişmiş Tehdit Koruması.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
+- **E-posta iletisi tesliminde gecikmeler fark**edilsin mi? ATP güvenli ekler ilkeleriniz için dinamik teslim seçeneğini kullanmayı deneyin. Bu, alıcıları kötü niyetli dosyalardan korurken e-posta iletisi gönderme gecikmelerini engellemez.
+- **Yanlış pozitif durumları veya yanlış negatifleri raporlamak**mi istiyorsunuz? Dosyanızı çözümleme için göndermek üzere bu bağlantıyı kullanın: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Kuruluşunuzdaki kişilerin gönderdiği e-posta IÇIN ATP güvenli bağlantılar korumasını etkinleştirebildiğinizi biliyor muydunuz**? Şu adımları izleyin:
+    1. Gidin https://protection.office.com ve oturum açın.
+    2. **Tehdit yönetimi**  >  **ilkesi**  >  **güvenli bağlantılarına**gidin.
+    3. **Belirli alıcılara uygulanan ilkeler**altında, bir ilkeyi düzenleyin (veya ekleyin).
+    4. **Kuruluş içinde gönderilen iletilere güvenli bağlantılar Uygula**seçeneğini belirleyin.
+    5. İlkenizi kaydedin ve değişikliklerinizin veri merkezinize göre çalışmasını sağlamak için 30 dakikalık bir izin verin.
+- ATP ile ilgili daha fazla yardım almak için [Office 365 Gelişmiş tehdit koruması](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)konusuna bakın.

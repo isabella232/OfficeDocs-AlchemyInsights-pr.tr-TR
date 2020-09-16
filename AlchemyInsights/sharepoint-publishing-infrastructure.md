@@ -1,24 +1,24 @@
 ---
-title: İletişim Sitesi ile Altyapı Yayınlama
+title: Iletişim sitesiyle birlikte Yayımlama altyapısı
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: 0a8c8338d7c0678074cc38a68804f9cef66e1ec6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: ada85fec66a00c1fa4416ec25ef8c675fad39e53
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044099"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758697"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a>SharePoint Yayıncılık Altyapısı
+# <a name="sharepoint-publishing-infrastructure"></a>SharePoint Yayımlama altyapısı
 
 
-SharePoint, intranetiniz için zengin web sayfaları yazmanızı ve yayımlamanızı sağlayan klasik bir özellik kümesi içerir. Siteyi açmak için SharePoint Yayımlama Altyapısını site toplama düzeyinde etkinleştirin.
+SharePoint, Intranet 'iniz için zengin Web sayfaları yazmak ve yayınlamak için klasik bir özellikler kümesi içerir. SharePoint yayımlama altyapısını, site koleksiyonu düzeyinde etkinleştirmek için etkinleştirin.
 
 Daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
 
@@ -26,7 +26,7 @@ Daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
 
 [Yayımlama özellikleri](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
 
-Notlar:
+Notlarında
 
 - Klasik yayımlama sitesi şablonları varsayılan olarak yayımlama özelliklerini içerir.
 
