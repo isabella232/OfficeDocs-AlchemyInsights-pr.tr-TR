@@ -1,27 +1,28 @@
 ---
-title: Modern Ticaret Kullanıcı rolü
+title: Modern ticari Kullanıcı rolü
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 2830dcd063da833ff1f87a5693550dd692764f98
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 74108b22e06fc6b3b53f7e027fca094bfd9db869
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44749203"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667034"
 ---
-# <a name="modern-commerce-user-role"></a>Modern Ticaret Kullanıcı rolü
+# <a name="modern-commerce-user-role"></a>Modern ticari Kullanıcı rolü
 
-Modern Ticaret Kullanıcı rolü microsoft 365 yönetici merkezine erişmek ve **Ev**için sol navigasyon girişleri görmek için bazı kullanıcılara izin verir , **Fatura**, ve **Destek**. Bu alanlarda kullanılabilen içerik, kullanıcılara kendileri veya kuruluşunuz için satın aldıkları ürünleri yönetmek üzere atanan ticarete özgü roller tarafından denetlenir. Bu, fatura ödeme veya fatura hesaplarına ve fatura profillerine erişim gibi görevleri içerebilir.
+Modern ticari Kullanıcı rolü, belirli kullanıcılara Microsoft 365 Yönetim Merkezi 'ne erişme izni verir ve **Ev**, **Faturalama**ve **destek**için sol gezinti girişlerini görebilir. Bu alanlarda sağlanan içerik, kullanıcılara atanmış olan ve kuruluşunuz için satın aldığı ürünleri yönetmek için kullanıcılara atanmış Commerce 'e özgü roller tarafından denetlenir. Bu, kambiyo senetleri veya fatura hesaplarına ve faturalandırma profillerine erişim için ödeme gibi görevleri içerebilir.
 
-Modern Ticaret Kullanıcısı rolüne sahip kullanıcılar genellikle diğer Microsoft satın alma sistemlerinde yönetim izinlerine sahiptir, ancak Global yönetici veya Faturalama yöneticisi ayrıcalıkları yoktur.
+Modern ticari Kullanıcı rolüne sahip kullanıcıların genellikle diğer Microsoft satın alma sistemlerinde yönetim izinleri vardır, ancak genel yöneticisi veya faturalandırma Yöneticisi ayrıcalıklarına sahip olmaz.
 
-Bu ve diğer yönetim rolleri hakkında daha fazla bilgi edinmek için [Azure Etkin Dizini'nde Yönetici rol izinlerine](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator)bakın.
+Bu ve diğer yönetimsel roller hakkında daha fazla bilgi edinmek için [Azure Active Directory 'de yönetici rolü izinleri](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator)konusuna bakın.

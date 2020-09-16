@@ -1,32 +1,33 @@
 ---
-title: Access Project Online
+title: Project Online 'a erişme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "5723"
-ms.openlocfilehash: 09c241bc0d529377b5aa22d145afec9c07fe68b5
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 94fd156311aafffa2a41552d811916e82f4462ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44493529"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668593"
 ---
-# <a name="access-project-online"></a>Access Project Online
+# <a name="access-project-online"></a>Project Online 'a erişme
 
-- Project Online'a erişmek için önce Office 365'e ekleyerek [Project Online'a abone](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) olmanız, ardından size lisans [atandığından](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in)emin olmanız gerekir.
-- Kullanıcıları Project Online'a eklemek ve [Project Online'ı](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online#4-finally-share-project-online-with-the-people-you-added) onlarla paylaşmak için [aşağıdaki adımları](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online) izleyin.
+- Project Online 'a erişmek için öncelikle Office 365 'e ekleyerek [Project Online 'a abone](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) olmanız gerekir ve [Lisans atandığınızdan](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in)emin olun.
+- Project Online 'a Kullanıcı eklemek ve [Project Online](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online#4-finally-share-project-online-with-the-people-you-added) 'ı onlarla paylaşmak için [Bu adımları](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online) izleyin.
 
-Kullanıcılara SharePoint İzin Modu'nu kullanarak Bir Proje Web Uygulaması sitesine erişim sağlamak için:
+SharePoint Izin modu 'nu kullanarak kullanıcılara Project Web App sitesine erişim izni vermek için:
 
-1. Project Online'da yönetici olarak oturum açın.
-2. Project Web App giriş sayfasında sağ üst köşede **Paylaş'ı** tıklatın.
-3. Proje **Web Uygulaması'nı Paylaş** iletişim kutusuna, erişim vermek istediğiniz kişinin kullanıcı adını **Kişileri Davet** kutusuna yazın.
-4. **Seçenekleri Göster'i**tıklatın ve **izin düzeyi** seç menüsünde Proje Web Uygulaması için **Proje Yöneticileri'ni**seçin.
-5. **Paylaş'ı**tıklatın.
+1. Project Online 'da yönetici olarak oturum açın.
+2. Project Web App giriş sayfasında, sağ üst köşedeki **Paylaş** 'ı tıklatın.
+3. **Project Web App 'ı Paylaş** iletişim kutusunda, **kişileri davet et** kutusuna erişim vermek istediğiniz kişinin Kullanıcı adını yazın.
+4. **Seçenekleri göster**'e tıklayın ve **izin düzeyi seç** menüsünde **Project Web App için proje yöneticileri**'ni seçin.
+5. **Paylaş**'a tıklayın.

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354108"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670384"
 ---
 # <a name="teams-admin-center"></a>Teams Yönetim Merkezi
 
@@ -31,5 +32,5 @@ Teams Yönetim Merkezi’nde kullanıcılar gösterilmiyorsa aşağıdakileri de
 
 - Son 24 saat içinde kullanıcı oluşturdunuz veya lisans atadınız mı? Destek bileti açmadan önce lütfen en az 24 saat beklediğinizden emin olun.
 - Uygun lisansları atadığınızı doğrulayın.
-- Şirket içinde Active Directory'niz varsa, [yerel Active Directory'nizde ProxyAdresleri alanında msRTCSIP-PrimaryUserAddress veya SIP adresinin değerinin benzersiz olduğunu ve biçimin](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) yudumla eşleştiğini doğrulayın: [Microsoft 365 yönetici merkezinden](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)kullanıcı**adı.**
-- Bir Skype for Business Server dağıtımını tutmak ve kullanıcıları şirket içi ve Çevrimiçi olarak oynatmak istiyorsanız: Skype for Business Server Control Paneli'nizde "Ekipler ve Skype ile Çevrimiçi Olarak **Karma" adlı "Team'lerle hibrit kur"** sesini takip edin ve kullanıcıları Çevrimiçi olarak taşıyın.
+- Şirket içi bir Active Directory 'niz varsa, [yerel Active Directory 'Nizde proxyAddresses alanında msRTCSIP-primaryuseradresinin veya SIP adresinin değerinin benzersiz olduğunu ve biçimin](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) , [Microsoft 365 Yönetim Merkezi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)'nde kullanıcının**adı** ile eşleştiğini doğrulayın.
+- Skype Kurumsal sunucu dağıtımını korumak ve kullanıcıların şirket içi ve çevrimiçi şirket içinde olmasını istiyorsanız: Skype Kurumsal sunucusu denetim masasında **"ekiplerle kurumsal ve Skype Kurumsal Çevrimiçi**
