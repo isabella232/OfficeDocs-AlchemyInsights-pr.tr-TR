@@ -1,28 +1,29 @@
 ---
-title: Takımlar PS Modülü Yükleme ve Başvuru
+title: Ekip PS modülü yükleme ve başvuru
 ms.author: heidip
 author: heidip
 manager: serdards
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1787"
 - "9000212"
-ms.openlocfilehash: ac3017975caeec2b9d9c309ce9bc9be152a8c21b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 34f2165d2914a178a5232f92c32c0dffd2f62b90
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "37340585"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735903"
 ---
-# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Microsoft Teams PowerShell modülü ile neler başarabilirsiniz?
+# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Microsoft ekipleri PowerShell modülü ile yapabilecekleriniz
 
-Teams PowerShell modüllerini nasıl yükleyebileceğinizi bilmeniz gerekiyorsa, [bu bloga](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)göz atabilirsiniz.
+Ekip PowerShell modülünü nasıl yükleyeceğimizi bilmeniz gerekirse, [Bu blogu](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)kullanıma alabilirsiniz.
 
 Daha fazla bilgi için:
 
-- [Yönetici rol yeteneklerini](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles)anlamak, [Powershell üzerinden ekipler oluşturmak ve yönetmek ve](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)politikaları veya [yapılandırmaları](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell) [yönetmek](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) için [Teams PowerShell'e genel bakışı](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) gözden geçirin. 
-- PowerShell üzerinden kullanılabilen komutların listesi için [Microsoft Teams PowerShell komut başvurusunu](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) gözden geçirin. 
+- [Yönetici rolü özelliklerini](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles)anlamak, [PowerShell aracılığıyla ekip oluşturmak ve yönetmek](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)ve ilkeleri ve [yapılandırmaları](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell) [yönetmek](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) için [ekip PowerShell 'e genel bakış](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) 'ı gözden geçirin. 
+- PowerShell aracılığıyla kullanılabilen komutların listesi için [Microsoft ekipleri PowerShell komut başvurusunu](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) gözden geçirin. 
