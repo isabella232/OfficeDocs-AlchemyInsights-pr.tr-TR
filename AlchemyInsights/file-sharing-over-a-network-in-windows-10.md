@@ -1,43 +1,44 @@
 ---
-title: Windows 10'da ağ üzerinden dosya paylaşımı
+title: Windows 10 ' da ağ üzerinden dosya paylaşımı
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 5f0cd0d2b7271a60aa390c8ee2d6ffbcefe78d94
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 3fb07e2f870d93ddcb6133ac5fd290935a27c583
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584440"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745411"
 ---
-# <a name="file-sharing-over-a-network-in-windows-10"></a>Windows 10'da ağ üzerinden dosya paylaşımı
+# <a name="file-sharing-over-a-network-in-windows-10"></a>Windows 10 ' da ağ üzerinden dosya paylaşımı
 
-**Not**: Daha önce dosya paylaşımı için HomeGroup'u kullandıysanız, HomeGroup'un Windows 10'dan kaldırıldığını lütfen unutmayın (Sürüm 1803). Artık Windows 10'da yerleşik özellikleri kullanarak yazıcıları ve dosyaları paylaşabilirsiniz.
+**Not**: daha önce dosya paylaşımı Için ev grubu kullandıysanız, lütfen ev grubunun Windows 10 (sürüm 1803) ile kaldırıldığını unutmayın. Artık Windows 10 ' da yerleşik özellikleri kullanarak yazıcıları ve dosyaları paylaşabilirsiniz.
 
-**Ağ üzerinden dosya veya klasör paylaşmak için**
+**Dosyaları veya klasörleri ağda paylaşmak için**
 
-- **Dosya Gezgini'nde,** bir dosya seçin > üstteki **Paylaş** sekmesini tıklatın > **Bölümü'nde** Paylaş sekmesini tıklatın, **Belirli kişiler'i**tıklatın.
+- **Dosya Gezgini**'nde, dosyayı seçin **> paylaş sekmesindeki** **Paylaş** > sekmesine tıklayın, **belirli kişilere**tıklayın.
 
-    ![Bir dosyayı belirli kişilerle paylaşın.](media/share-with-specific-people.png)
+    ![Belirli kişilerle dosya paylaşma.](media/share-with-specific-people.png)
           
-- Aynı anda birden çok dosya seçerseniz, hepsini aynı şekilde paylaşabilirsiniz. Klasörler için de çalışır.
+- Aynı anda birden fazla dosya seçerseniz, bunları aynı şekilde paylaşabilirsiniz. Klasörler için de çalışır.
 
-**Ağda dosya paylaşan aygıtları görmek için**
+**Ağda dosyaları paylaşan cihazları görmek için**
 
-- **Dosya Gezgini'nde,** **Ağ'a**gidin. Ağ keşfi etkin değilse, "Ağ bulma kapatılır" bir hata iletisi görürsünüz.
+- **Dosya Gezgini**'nde **ağ**'a gidin. Ağ bulma etkinleştirilmemişse, "ağ bulma kapalı..." hata iletisini görürsünüz.
 
-- Ağ keşfini tıklatın banner **kapatılır,** ardından **ağ bulma ve dosya paylaşımını aç'ı**tıklatın.
+- **Ağ bulma 'nın kapalı olduğunu** , ardından **Ağ bulmayı ve dosya paylaşımını aç**'ı tıklatın.
 
-    ![Ağ bulma ve dosya paylaşımını açın.](media/turn-on-network-discovery.png)
+    ![Ağ bulmayı ve dosya paylaşımını açın.](media/turn-on-network-discovery.png)
 
 [Ağ üzerinden dosya paylaşımı hakkında daha fazla bilgi edinin](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
 
-[Uygulamaları, OneDrive'ı, e-postaları ve daha fazlasını kullanarak dosyaları paylaşın](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)
+[Uygulamalar, OneDrive, e-postalar ve daha fazlasını kullanarak dosyaları paylaşma](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)

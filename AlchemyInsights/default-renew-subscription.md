@@ -1,31 +1,32 @@
 ---
-title: Varsayılan yenileme altyazı
+title: Varsayılan yenileme alt kuralı
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062268"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745882"
 ---
 # <a name="renewing-your-subscription"></a>Aboneliğinizi yenileme
 
-Kredi kartı veya banka hesabıyla ödeme yaptığınızda, yinelenen faturalandırma varsayılan olarak açık olur. Yinelenen faturalandırma olduğunda, aboneliğiniz abone olduğunuz gün her yıl faturalandırılacaktır. Aboneliğiniz etkinse, yönetici merkezinde kapatabilir veya yeniden açabilirsiniz.
+Kredi kartı veya banka hesabıyla ödeme yapıyorsanız, Yinelenen faturalandırma varsayılan olarak açıktır. Yinelenen faturalama açık olduğunda, aboneliğiniz abone olduğunuz günde her yıl faturalanmaya devam edecektir. Aboneliğiniz etkinse, Yönetim merkezinde bu özelliği kapatabilir veya yeniden açabilirsiniz.
 
-Aboneliğinizi bir ürün anahtarıyla ön ödemeniz varsa, aboneliğinizin süresi abonelik süresinin sonunda sona erer. Aboneliğinizin abone olduğunuz gün her yıl faturalandırılamaya devam edebilmesi için yinelenen faturalandırmayı açabilir ve kredi kartı veya banka hesap bilgilerini sağlayabilirsiniz.
+Aboneliğinizi bir ürün anahtarıyla ön ödemeli yaparsanız, aboneliğin süresi abonelik süresi sonunda dolacaktır. Aboneliğinizin abone olduğunuz günde her yıl faturalanmaya devam edebilmesi için yinelenen faturalamayı açabilir ve kredi kartı veya banka hesabı bilgilerini sağlayabilirsiniz.
 
-Yinelenen faturalandırmayı açmak için: 
+Yinelenen faturalamayı açmak için: 
 
-1. Ürünlerinizi **Faturalandırmaya**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** gidin.
-2. Yinelenen faturalandırmayı yönetmek istediğiniz aboneliği seçin.
-3. **Faturalandırma** **altında, Yinelenen** fatura **ayarları** penceresinde Değiştir'i seçin ve değişikliklerinizi yapın. 
+1. **Billing**  >  **[Ürünlerinize faturalama yapın](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Yinelenen faturalamayı yönetmek istediğiniz aboneliği seçin.
+3. **Faturalama**'nın altında, **yinelenen faturalama ayarları** penceresinde **Düzenle** 'yi seçin ve değişikliklerinizi yapın. 
