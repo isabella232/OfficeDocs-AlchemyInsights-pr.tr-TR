@@ -1,39 +1,40 @@
 ---
-title: AllowSelfServicePurchase ilkesini ayarlayamıyor veya görüntüleyemiyor
+title: AllowSelfServicePurchase ilkesi ayarlanamıyor veya gösterilemiyor
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158581"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735219"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>AllowSelfServicePurchase ilkesini ayarlayamıyor veya görüntüleyemiyor
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>AllowSelfServicePurchase ilkesi ayarlanamıyor veya gösterilemiyor
 
 AllowSelfServicePurchase ilkesini ayarlamaya veya görüntülemeye çalışırken aşağıdaki hata iletisini alırsınız:
 
-*HandleError : PolicyId 'AllowSelfServicePurchase' ile ürün ilkesi alınamadı, ErrorMessage - Altta yatan bağlantı kapatıldı: Gönderimde beklenmeyen bir hata oluştu.*
+*HandleError: PolicyId ' AllowSelfServicePurchase ' ile ürün ilkesi alınamadı, ErrorMessage-temeldeki bağlantı kapatıldı: gönderme sırasında beklenmeyen bir hata oluştu.*
 
-Bunun nedeni, Aktarım Katmanı Güvenliği'nin (TLS) eski bir sürümü olabilir. MSCommerce hizmetini bağlamak için TLS 1.2 veya daha büyük bir şekilde kullanmanız gerekir.  
+Bu, taşıma katmanı güvenliğinin (TLS) eski bir sürümü olabilir. MSCommerce hizmetini bağlamak için, TLS 1,2 veya üzerini kullanmanız gerekir.  
 
-TLS protokolünü etkinleştirmek/1,2 olarak ayarlamak, doğrulamak ve yeniden denemek için aşağıdaki adımları deneyin.
- 1. PowerShell komut isteminde (PS\) C: TLS protokolünü sürüm 1.2'ye ayarlamak için aşağıdaki komutu girin:
+TLS protokolünü 1,2, doğrulama ve yeniden deneyin.
+ 1. PowerShell komut isteminde (PS C: \) TLS protokolünü sürüm 1,2 olarak ayarlamak için aşağıdaki komutu girin:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Kullanımdaki TLS protokolünü aşağıdaki komutla doğrulayın:
+2. Aşağıdaki komutla, kullanımdaki TLS protokollerini doğrulayın:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Gerektiğinde Get or Update komutlarını yeniden deneyin.
+3. Gerektiğinde Al veya Güncelleştir komutlarını yeniden deneyin.
 
