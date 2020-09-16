@@ -1,30 +1,31 @@
 ---
-title: PowerShell self servis satın alma
+title: PowerShell 'in self servis satın alımı
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: 5e47e08e3309b3d58908e10ee06021da00f230bb
-ms.sourcegitcommit: cb9505f9eca032af3a4194c68d18c91789365690
+ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/16/2020
-ms.locfileid: "42091781"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739990"
 ---
-# <a name="self-service-purchase-of-powershell"></a>PowerShell self servis satın alma
+# <a name="self-service-purchase-of-powershell"></a>PowerShell 'in self servis satın alımı
 
-MSCommerce PowerShell modüllerini kullanmak için TLS 1.2 (yerel yönetici izinleri gereklidir) içeren bir Windows 10 cihazına yüklemeniz gerekir.  MSCommerce modülüne bağlanın ve içe aktarın.  Oturum açmanız istendiğinde, Genel Veya Fatura Yöneticisi rol kimlik bilgilerini kullanmanız gerekir.  
+MSCommerce PowerShell modülünü kullanmak için TLS 1,2 (yerel yönetici izinleri gerekir) ile bir Windows 10 aygıtına yüklemeniz gerekir.  MSCommerce modülünü içeri ve bağlantı kurun.  Oturum açmanız istendiğinde, genel veya Fatura Yöneticisi rol kimlik bilgilerini kullanmanız gerekir.  
 
-TLS 1.2'niz yoksa, poliçeyi almaya veya güncellemeye çalışırken aşağıdaki hatayı alabilirsiniz:
+TLS 1,2 yoksa, ilkeyi almaya veya güncelleştirmeye çalıştığınızda aşağıdaki hatayı alabilirsiniz:
 
-*ErrorMessage -Temel bağlantı kapatıldı: Gönder'de beklenmeyen bir hata oluştu.*
+*ErrorMessage-temeldeki bağlantı kapatıldı: gönderme sırasında beklenmeyen bir hata oluştu*.
 
 
 

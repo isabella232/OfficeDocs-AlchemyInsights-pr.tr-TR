@@ -1,35 +1,36 @@
 ---
-title: GDPR hakkında bilgi
+title: GDPR hakkında bilgiler
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 13b8371f8e8c4afa54f7b33eadbf2f42db6b5eca
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9c879512c5fbdfafe6162490cafacd0f409792db
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711111"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755690"
 ---
-# <a name="information-about-gdpr"></a>GDPR hakkında bilgi
+# <a name="information-about-gdpr"></a>GDPR hakkında bilgiler
 
-- Hizmet Güven Portalı ile [başlayın.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- [Hizmet güven portalı](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted) 'Nı kullanmaya başlama.
 
-- **Veri İşleme Anlaşması** (DPA) ile ilgili her şey için:
+- **Veri Işleme sözleşmesiyle** (DPA) ilgili her şey için gözden geçirin:
 
-  - [Veri Koruma Kaynakları](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+  - [Veri koruma kaynakları](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
-  - [Denetim Raporları](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
+  - [Denetim raporları](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Veri **Konu İstekleri** (DSR) hakkında bilgi - keşfetmek, erişim, düzeltmek, kısıtlamak, silmek, dışa aktarma [burada.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- **Veri konu istekleri** (DSR) hakkında bilgi-keşfet, Access, rectify, kısıtla, Sil, dışarı aktar [burada.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
 
-- Veri **İhlali Bildirimi** ile ilgili bilgiler [burada.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- **Veri Ihlal bildirimi** hakkında bilgi [here.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
-- Veri **konumları** hakkında bilgi [burada.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- **Veri konumları** hakkında bilgi [burada.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)

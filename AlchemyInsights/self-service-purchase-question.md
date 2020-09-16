@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 14218f995430a8a5c7a2f4a0db51fe79c59824d0
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: 676f8807db95d50e1e714bcf0480e7a8802f2b06
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913758"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740026"
 ---
 # <a name="self-service-purchase"></a>Self servis satın alma
 
-**Bir yöneticinin self servis satın alımlar için ne gibi yetenekleri var?**
+**Yöneticinin self servis satın almaları için hangi özellikler vardır?**
 
-Yöneticiler, kuruluşlarında yapılan tüm self servis satın alma işlemlerini Microsoft 365 yönetici merkezinde görüntüleyebilir. Her self servis satın alma için ürünü, alıcının adını, satın alınan abonelikleri, son kullanma tarihini, sipariş geçmişini, satın alma fiyatını ve atanmış kullanıcıları görebilirler.  Organizasyonları için gerekli yse, yöneticiler PowerShell üzerinden ürün başına self servis satın alma işini kapatabilecekler.  Yöneticiler, self servis satın alma yoluyla veya merkezi olarak satın alınan ürünler üzerinde aynı veri yönetimi ve erişim ilkelerine sahiptir.
+Yöneticiler, Microsoft 365 Yönetim Merkezi 'nde yapılan tüm self servis satınalmaları görüntüleyebilir. Her self servis satın alma için ürünü, Satınalmacı adını, satın alınan abonelikleri, son kullanma tarihi, sipariş geçmişi, satın alma fiyatı ve atanmış kullanıcıları görebilir.  Kuruluş için gerekliyse, Yöneticiler PowerShell aracılığıyla ürün bazında self servis satın almayı kapatabilir.  Yöneticilerin, self servis satın alma veya merkezi olarak satın alınan ürünler üzerinde aynı veri yönetimi ve erişim ilkeleri vardır.
 
 [Self servis satın alma SSS](https://aka.ms/self-service-purchase-faq)
 

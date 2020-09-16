@@ -5,6 +5,7 @@ author: markjjo
 manager: lauraw
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d6f1f96220a44247d217f6e82e76fb38875578e8
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a28e1f5bb8b5e1bff2f26c0d9e9c9c42e8324583
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507010"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806599"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Denetim günlüğünü etkinleştirme ve arama
 
@@ -27,23 +28,23 @@ Microsoft 365 denetim günlüğünde arama yapmak için [aşağıdaki adımları
 
 **Exchange**
 
-- Exchange yöneticisi etkinlikleri varsayılan olarak denetlenir.
+- Exchange yönetici etkinlikleri varsayılan olarak denetlenir.
 
-- Posta kutusu denetimi Varsayılan olarak Microsoft 365'te etkinleştirilir. Daha fazla bilgi için [bu makaleye](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)bakın.
+- Posta kutusu denetimi varsayılan olarak Microsoft 365. Daha fazla bilgi için  [Bu makaleye](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)bakın.
 
-- Microsoft 365 Grup posta kutuları ve Exchange Online'daki ortak klasör posta kutuları denetim günlüğe kaydetmeyi desteklemez.
+- Exchange Online 'daki Microsoft 365 grup posta kutuları ve ortak klasör posta kutuları denetim günlüğünü desteklemez.
 
 **SharePoint ve OneDrive**
 
-- SharePoint ve OneDrive için denetimi etkinleştirmek için ek yapılandırma gerekmez.
+- SharePoint ve OneDrive denetimlerini etkinleştirmek için ek yapılandırma gerekmez.
 
-- SharePoint ve OneDrive aşağıdaki türetkinlikleri denetlemeyi destekler:
+- SharePoint ve OneDrive desteği aşağıdaki etkinlik türlerini denetleme:
 
     - Dosya, klasör ve sayfa etkinlikleri
-    - İstek etkinliklerini paylaşma ve erişim
-    - Site yönetimi faaliyetleri
+    - Paylaşım ve erişim isteği etkinlikleri
+    - Site yönetimi etkinlikleri
     - Dosya eşitleme etkinlikleri
 
-- Diğer hizmetlerde denetlenen faaliyetler hakkında bilgi için [bu makaledeki tabloya](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)bakın.
+- Diğer hizmetlerde denetlenen etkinlikleri hakkında bilgi için  [Bu makaledeki tabloya](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)bakın.
 
-- Burada denetim günlüğü arama hakkında [sık sorulan soruların](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) bir listesi.
+- Burada, sık sorulan soruların listesini denetim günlüğünü arama hakkında [sık sorulan sorular](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) .
