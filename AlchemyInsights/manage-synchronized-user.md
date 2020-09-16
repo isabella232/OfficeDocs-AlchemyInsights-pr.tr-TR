@@ -1,30 +1,31 @@
 ---
-title: Senkronize Kullanıcıyı Yönetme
+title: Eşitlenmiş kullanıcıyı yönetme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 84e337a7224fdd3c3ab7ad0f61240692fe007d5a
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
+ms.openlocfilehash: 53c188f6c6ab93bcc6f87d95717dc0d24d492bb7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44407370"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777697"
 ---
-# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Birincil e-posta adresini ayarlayamıyor, kullanıcı özniteliklerini değiştiremiyor veya senkronize edilmiş bir kullanıcıyı kaldıramıyor/silemiyor
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Birincil e-posta adresi ayarlanamıyor, Kullanıcı öznitelikleri değiştirilemiyor veya eşitlenmiş kullanıcıyı kaldırın/silin
 
-Ortamınız için dizin eşitlemesi etkinleştirilmişse, Microsoft 365 yönetici merkezi kullanılarak bazı kullanıcı veya nesne öznitelikleri değiştirilemez.
+Ortamınızda dizin eşitlemesi etkinleştirilmişse, bazı Kullanıcı veya nesne öznitelikleri Microsoft 365 Yönetim Merkezi kullanılarak değiştirilemez.
 
-Senkronize kullanıcıları ve tüm özniteliklerini tam olarak yönetmek için yerel etkin dizin kullanıcılarınızı ve grup yönetim konsolunuzu (adsiedit.msc) kullanın.  
+Eşitlenen kullanıcıları ve tüm özniteliklerini tümüyle yönetmek için yerel Active Directory Kullanıcıları ve grupları yönetim konsolunuzu (Adsiedit. msc) kullanın.  
 
-Alternatif olarak, bu yaygın örneklerde gösterildiği gibi powershell kullanarak senkronize kullanıcılar için tek tek kullanıcıları veya özniteliklerini değiştirebilirsiniz: 
+Alternatif olarak, aşağıdaki yaygın örneklerde gösterildiği gibi PowerShell kullanarak eşitlenmiş kullanıcılar için tek tek kullanıcıları veya öznitelikleri değiştirebilirsiniz: 
 - `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
 
 - `Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"`

@@ -1,27 +1,28 @@
 ---
-title: Planlayıcı'ya konuk kullanıcı erişimini yönetme
+title: Planner 'a Konuk Kullanıcı erişimini yönetme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001705"
 - "3783"
-ms.openlocfilehash: 2c0edd4e117f8881bdc62fbbf6e67b3c2c6ff409
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 5ee138e42d0ab5a8e2a878fec33478adf362c720
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912351"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777991"
 ---
-# <a name="manage-guest-user-access-to-planner"></a>Planlayıcı'ya konuk kullanıcı erişimini yönetme
+# <a name="manage-guest-user-access-to-planner"></a>Planner 'a Konuk Kullanıcı erişimini yönetme
 
-Konuk kullanıcılar kovalar ve görevler oluşturabilir ve silebilir, görev alanlarını düzenleyebilir ve plan adını düzenleyebilir. Ayrıca, konuk kullanıcılar da planınızla ilişkili bazı bildirimleri alır. Planlayıcı'daki konuk kullanıcılar hakkında sık sık istenen bazı konular şunlardır:
+Konuk kullanıcılar demet ve görev oluşturabilir ve silebilir, görev alanlarını düzenleyebilir ve plan adını düzenleyebilir. Buna ek olarak, Konuk kullanıcılar da planınızla ilişkili bildirimlerin bazılarını alır. Planner 'daki Konuk kullanıcılar hakkında sık sorulan bazı konular:
 
-- [Planlayıcı, Microsoft 365 Grupları konuk erişim özelliğini](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)oluşturur. 
+- [Microsoft 365 Groups Guest Access özelliğinde](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)Planner yapıları. 
 
-- Bir plana konuk kullanıcıları nasıl ekleyeceğinizi, konuk kullanıcıların bir planı nasıl bırakabileceğini ve konuk kullanıcıların [Microsoft Planlayıcı'da Planlayıcı'da](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6)Konuk erişiminde neler yapabileceğini daha fazla öğrenin.
+- Bir plana Konuk kullanıcıları nasıl ekleyeceğinizi, konuk kullanıcıların bir plandan ayrılabileceğinizi, ayrıca [Microsoft Planner 'da Konuk kullanıcılarının Konuk erişimine](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6)neler yapabileceğini öğrenin.
