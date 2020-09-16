@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001455"
 - "3466"
-ms.openlocfilehash: 0b5a7fe3dd03e1727182b337abc7ff9799052fd1
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: 4763b0115d43b7f524d24ebb9875f7b8cba28d96
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959409"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47768231"
 ---
 # <a name="remove-a-password-from-a-word-document"></a>Word belgesinden parola kaldırma
 
 Özgün parolayı bildiğiniz sürece, bir belgeden parolayı kaldırmak basit bir işlemdir.
 
 1. Belgeyi açın ve parolayı girin.
-2. **Dosya** > **Bilgilerine** > Git**Belgeyi** > **Şifre ile Şifrele.**
-3. **Parola kutusundaparolayı**temizleyin ve ardından **Tamam'ı**seçin.
+2. **Dosya**  >  **bilgileri**'ne gidin  >  .**belge**  >  **şifrelemesini parolayla**korur.
+3. Parola **kutusundaki**parolayı temizleyin ve **Tamam 'ı**seçin.

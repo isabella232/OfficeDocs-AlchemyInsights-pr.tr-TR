@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,23 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 54f4077f79d75fe32c9291288d1ed1d93a096f33
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 1e0c64e468d1d3aa12b2fb08710910e48521677a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062664"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751551"
 ---
 # <a name="reactivate-a-microsoft-365-subscription"></a>Microsoft 365 aboneliğini yeniden etkinleştirme
 
-Aboneliğinizin süresi dolduysa, Microsoft tarafından devre dışı bırakıldıysa veya abonelik döneminin ortasında iptal ettiyseniz, aboneliğinizin süresini yönetici merkezinde yeniden etkinleştirebilirsiniz.
+Aboneliğinizin süresi dolarsa, Microsoft tarafından devre dışı bırakılmıştır veya bir abonelik teriminin ortasında iptal ettiyseniz, bunu Yönetim merkezinde yeniden etkinleştirebilirsiniz.
   
-1. Yönetici merkezinde, Ürünlerinizi **Faturalandırma** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
+1. Yönetim **merkezinde,** \> **[Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
 
-2. Yeniden etkinleştirmek istediğiniz aboneliği seçin. Faturalandırma bölümünde Yeniden **Etkinleştir'i**seçin.
+2. Yeniden etkinleştirmek istediğiniz aboneliği seçin. Faturalandırma bölümünde **yeniden etkinleştir**'i seçin.
 
-    Kullanılabilir bir eylem olarak **Yeniden Etkinleştir'i** görmüyorsanız, aboneliğinizi yeniden etkinleştirmek için [desteği arayın.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)
+    Kullanılabilir eylem olarak **yeniden etkinleştir** 'i görmüyorsanız, aboneliğinizi yeniden etkinleştirmek için [desteğe](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) başvurun.
 
-3. Ödeme ayrıntılarınızı onaylayın. Var olan ödeme bilgilerinizi burada güncelleştirebilirsiniz. Ödeme yönteminizi girmeyi bitirdikten sonra **Yeniden Etkinleştir'i**seçin.
+3. Ödeme ayrıntılarınızı onaylayın. Var olan ödeme bilgilerinizi burada güncelleştirebilirsiniz. Ödeme yönteminizi girmeyi bitirdiğinizde **yeniden etkinleştir**'i seçin.
 
 Daha fazla bilgi edinmek için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

@@ -1,24 +1,25 @@
 ---
-title: 8000045 Yıldız Savaşları Günü
+title: 8000045 Star çatışmaları günü
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000045
-ms.openlocfilehash: 576525b9d5c7e251b0cdbfa086cda40991433d69
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 360089fb1ee2d3cdc6dbcb88bca248977dfd50a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743509"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728775"
 ---
-# <a name="star-wars-day"></a>Yıldız Savaşları günü
+# <a name="star-wars-day"></a>Star çatışmaları günü
 
-Hmmm, merak ediyorsun.
+Hmmm, merak ediyor.
 
-Güç seninle olsun.
+Size zorunlu olabilir.
