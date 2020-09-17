@@ -1,29 +1,30 @@
 ---
-title: Microsoft Teams'in tam sürümüne yükseltme
+title: Microsoft ekiplerin tam sürümüne yükseltme
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 74f242f4023e34d30787b91cb710bd658f1282ca
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94249c294c095fe14c8193451275de44d21ff90e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766549"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47808367"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Microsoft Teams'in tam sürümüne yükseltme
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Microsoft ekiplerin tam sürümüne yükseltme
 
-Ücretsizden Microsoft Teams'in tam sürümüne yükseltme yapmanız mı gerekiyor? [Microsoft Ekiplerini Microsoft 365 abonelik sürümüne ücretsiz yükseltme ye](https://docs.microsoft.com/microsoftteams/upgrade-freemium) bakın
+Microsoft ekiplerin tam sürümüne ücretsiz yükseltmeniz mi gerekiyor? Microsoft [ekipleri 365 ücretsiz yükseltme](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
 Bu gereksinimleri karşılamanız gerekir:
 
-- Takımlar'ın geçerli ücretsiz sürümüne kaydolan kişi sizsiniz.
-- Kendi etki alanınız varsa, azure etkin diziniyle zaten ilişkilendirilemez.
-- Yükseltme yaparken veri aktarmak için yükseltme işlemi sırasında abone olmalısınız. Yükseltme işlemi dışında bir abonelik satın aldıysanız, veri aktaramazsınız.
+- Geçerli ekip sürümü için kaydolan kişidir.
+- Kendi etki alanınız varsa, zaten Azure Active Directory ile ilişkilendirilemez.
+- Yükseltme sırasında verileri aktarmak için yükseltme işlemi sırasında abone olmalısınız. Yükseltme işleminin dışında bir abonelik satın aldıysanız, verileri aktaramazsınız.

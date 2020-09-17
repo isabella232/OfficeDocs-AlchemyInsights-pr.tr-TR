@@ -1,28 +1,29 @@
 ---
-title: 1065 EOP giden IP adresi aralıklarının amortismanı MC146155
+title: 1065 EOP giden IP adresi rangesMC146155
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: f4854c32d970d84f3a0664a9e384dc6e3cd0bfa7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: afd725668f906339f4b7d769bb67a4d2ee5a6ac6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704617"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806815"
 ---
-# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>EOP giden IP adres aralıklarının amortismanı
+# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Giden IP adresi aralıklarının kullanımdan kaldırılması
 
-Kuruluşunuzla ilgili olası bir sorun tespit ettik ve (26 Ekim 2018'e kadar düzeltilmezse) şirket içi veya harici hedeflerinize posta akışını kırabilir. Daha önce de belirtildiği gibi, IP adresi aralığı yönetimini basitleştirmek için, Microsoft 365 dışında e-posta gönderip almak için kullanılan Exchange Çevrimiçi Koruma (EOP) IP adresi aralıklarını birleştiririz. Analizlerimiz, posta akışı bağlayıcılarında yapılandırdığınız harici e-posta kaynaklarından veya hedeflerinden birinin veya birkaçının [burada](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)gösterilen IP adresi aralıklarından bağlantıları kabul etmediğini gösterir.
+Kuruluşunuzda (Ekim 26 ' ya kadar düzeltilmez, 2018) Şirket içi veya dış hedeflerine posta akışını bozabilecek olası bir sorun algıladık. Daha önce, IP adres aralığı yönetimini basitleştirmek amacıyla, Microsoft 365 dışında e-posta göndermek ve almak için kullanılan Exchange Online Protection (EOP) IP adresi aralıklarını birleştiriyoruz. Çözümümüz, posta akışı bağlayıcılarının, [burada](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)gösterilen IP adresi aralıklarından gelen bağlantıları kabul etmediği anlamına gelir.
 
-Bu kaynakların ve destinasyonların yayınlanmış tüm [EOP IP adreslerine](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)ve bağlantılarını kabul etmesini sağlamak için 26 Ekim'den önce harekete geçin.
+Bu kaynakların ve hedeflerin tüm [yayımlanan EOP IP adreslerine](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)yönelik bağlantıları kabul edeceği Için, Ekim 26 ' dan önce hareket edin.
 
-Bu değişiklik hakkında daha fazla bilgi için lütfen Mesaj Merkezi gönderilerine [MC146155,](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155) [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)veya [MC149274'e](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274)bakın.
+Bu değişiklik hakkında daha fazla bilgi için bkz: Message Center gönderileri [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)veya [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
 
-**Not**: Son nokta güncelleştirmeleri için HTML, XML ve RSS üzerinden daha önce IP veya URL yayımlama kullandıysanız, bu tür güncelleştirmeleri otomatikleştirmek için yeni web hizmetlerine de geçiş yapmalısınız. Daha fazla bilgi için Microsoft [365 uç nokta kategorisi ve Microsoft 365 IP Adresi ve URL web hizmetine](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638)bakın.
+**Not**: daha önce HTML, XML ve RSS aracılığıyla uç nokta güncelleştirmelerinde IP veya URL yayımlamayı kullandıysanız, bu tür güncellemeleri otomatikleştirmek için yeni Web hizmetlerine de geçiş yapmalısınız. Daha fazla bilgi için bkz: [microsoft 365 uç nokta kategorileri ve microsoft 365 IP adresi ve URL Web hizmeti](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638).
