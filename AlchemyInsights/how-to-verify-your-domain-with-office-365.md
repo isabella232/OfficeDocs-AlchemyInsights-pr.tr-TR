@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f883b0218dfa318eda633f97dbbc9b992c9d4340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d26985b7b4e3c7389a783ab985f7bb11df7d64fe
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744169"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815553"
 ---
 # <a name="how-to-verify-your-domain"></a>Etki alanınızı doğrulama
 
-Etki alanını doğrulamak için [etki alanı ekleme Sihirbazı](https://portal.office.com/adminportal/home#/Domains/Wizard)'nı veya el ile **Kurulum**etki  >  **alanları**  >  **etki alanı Ekle**'ye gidin.
+Etki alanını doğrulamak için [etki alanı ekleme Sihirbazı](https://admin.microsoft.com/Adminportal#/Domains/Wizard)'nı veya el ile **Kurulum**etki  >  **alanları**  >  **etki alanı Ekle**'ye gidin.
 
 Etki alanınızı doğrulamak için DNS değişiklikleriyle ilgili daha fazla bilgi için, [etki alanınızı bağlamak üzere DNS kayıtları ekleme](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)konusundaki yönergelere bakın.
 
