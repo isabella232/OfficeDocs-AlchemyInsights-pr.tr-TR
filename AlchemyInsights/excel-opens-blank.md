@@ -1,23 +1,24 @@
 ---
-title: Excel boş açar
+title: Excel boş
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: 32546a6fcab15e7712f8008b372fe51250e85853
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a7f3bf370a9f200c158bfe505012136867578dea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391599"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783463"
 ---
-# <a name="excel-opens-blank"></a>Excel boş açar
+# <a name="excel-opens-blank"></a>Excel boş
 
-Excel başlatılır, ancak dosyanın görünmesini beklediğiniz yerde boş bir ekran görüntüler, [sorun giderme Excel dosya adı ya da dosya simgesini çift tıklattığınızda boş açma](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)konusuna bakın.
+Excel başlatılırsa, dosyanın gösterilmesini istediğiniz yerde boş bir ekran görüntüleniyorsa, [bir dosya simgesine veya dosya adına çift tıkladığınızda Excel 'de açma sorunlarını giderme](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)konusuna bakın.

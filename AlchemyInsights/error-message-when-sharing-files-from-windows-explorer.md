@@ -1,30 +1,31 @@
 ---
-title: Windows Gezgini'nden dosya paylaşırken hata iletisi
+title: Windows Gezgini 'nden dosyaları paylaşırken alınan hata iletisi
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: f7ea3b4c0695a10e8df930b415660b8bdf061e85
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 56e25b064f0a81da2c8440156d46da150d3c0436
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714386"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783859"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Windows Gezgini'nden dosya paylaşırken hata iletisi
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Windows Gezgini 'nden dosyaları paylaşırken alınan hata iletisi
 
-Windows Gezgini'nden paylaşmaya çalışırken aşağıdaki hata iletisini alabilirsiniz:
+Windows Gezgini 'nden paylaşmaya çalışırken, aşağıdaki hata iletisini alabilirsiniz:
   
-"Üzgünüz, şu anda sunucuya ulaşamıyoruz. Lütfen daha sonra tekrar deneyin"
+"Maalesef şu anda sunucuya erişemiyoruz. Lütfen daha sonra tekrar deneyin "
   
-Hata iletisini gidermek için, Internet Explorer'dan **Araçlar** \> **Internet Seçenekleri'ne** \> gidin **Gelişmiş** sekmesini tıklatın ve ardından şifreli **sayfaları diske kaydetme başlıklı**onay kutusunu temizleyin.
+Hata iletisini çözmek için, Internet Explorer 'ın **Araçlar** \> **Internet seçenekleri** 'ne gidin \> , **Gelişmiş** sekmesini tıklatın ve ardından **Şifreli sayfaları diske kaydetme**başlıklı onay kutusunu temizleyin.
   
- **Not**: Ayarın etkili olması için tarayıcınızı yeniden başlatmanız gerekebilir. Ek bilgi için bkz: ["Şu anda sunucuya ulaşamıyor" hata iletisi dosyaları paylaşırken.](https://go.microsoft.com/fwlink/?linkid=2022914)
+ **Not**: ayarın etkinleşmesi için tarayıcınızı yeniden başlatmanız gerekebilir. Ek bilgi için, [dosyaları paylaşırken "hemen sunucuya ulaşılamıyor" hata iletisi](https://go.microsoft.com/fwlink/?linkid=2022914)görüntülenir.
   
