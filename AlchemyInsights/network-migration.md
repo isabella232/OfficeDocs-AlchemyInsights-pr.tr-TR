@@ -1,37 +1,38 @@
 ---
-title: Ağ Geçişi
+title: Ağ geçişi
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: aada8e90d168a4c621dd81ee8d306b934c20d119
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6f026f932bb35d12d32ce7eddf49e49a44db7f31
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761834"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799584"
 ---
-# <a name="network-migration"></a>Ağ Geçişi
+# <a name="network-migration"></a>Ağ geçişi
 
-O365 kiracınız muhtemelen 1 kiracıda birden fazla Yammer ağıyla ilişkilidir : Birçok ağ yapılandırması. 16 Ekim 2018'den itibaren Yammer, artık bir kiracıyla ilişkili birden fazla Yammer ağlarını desteklemeyecemeyecektir. Tercih edilen 1:1 yapılandırmasına ulaşmak için Ağ Geçişi gerçekleştirebilirsiniz.
+O365 kiracınız, büyük olasılıkla 1 kiracıda birden çok Yammer ağsıyla ilişkilendirilmiş: birçok ağ yapılandırması. 16 Ekim 2018 ' den itibaren Yammer, bir kiracıya ilişkin birden çok Yammer ağını desteklememektedir. Tercih edilen 1:1 yapılandırmasına ulaşmak için ağ geçişini gerçekleştirebilirsiniz.
   
-- Kiracınızla ilişkili ağların listesini görüntülemek için, Yammer'da Global Yönetici olarak oturum açın ve **Ağ Yöneticisi'ne**, ardından **Ağ Geçişi'ne**göz atın. **İleri**'yi seçin.
+- Kiracınız ile ilişkili ağların listesini görüntülemek için Yammer 'da genel yönetici olarak oturum açın ve **ağ yöneticisine**gidip **ağ geçişi**'ne gidin. **İleri**'yi seçin.
 
-- 3'ün 2'si adım2'de birden çok anın listelenmiş olduğunu görürseniz, O365 kiracınızla ilişkili birden çok Yammer ağınız olur.
+- Adım 2 ' de listelenen birden çok ağ görürseniz, O365 kiracınıza bağlı birden çok Yammer ağı vardır.
 
-- Yapılandırmanızı 1:1 yapılandırmasına düzeltmek için Ağ Geçişi aracını kullanmaya devam edin.
+- Yapılandırmanızı 1:1 yapılandırmasıyla düzeltmek için ağ geçiş aracı 'nı kullanmaya devam edin.
 
-- Ağ Geçişi hakkında daha fazla bilgi için lütfen [Ağ geçişi: Birden çok Yammer ağını birleştirin.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
+- Ağ geçişi hakkında daha fazla bilgi için lütfen [ağ geçişine bakın: birden çok Yammer ağını birleştirme](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-Lütfen Dikkat:
+Lütfen unutmayın:
   
-- **Ağ geçişi yalnızca etkin ve bekleyen kullanıcıları geçişe alır.** Etkin kullanıcılarla birlikte, kullanıcıların ad ve profil resmi gibi bilgileri de geçirilir. Gruplar da dahil olmak üzere herhangi bir ağ içeriği geçirilmiş değildir.
+- **Ağ geçişi yalnızca etkin ve bekleyen kullanıcıları geçirir.** Etkin kullanıcılarla birlikte, ad ve profil resmi gibi kullanıcıların bilgileri de geçirilir. Gruplar dahil tüm ağ içerikleri geçirilmez.
 
-- **Ağ geçişi geri alınamaz.** Geçişten sonra yan ağınıza ve içeriğine erişemeyeceksiniz. Yani bir geçiş düşünmeden önce, dikkatlice planlamak istiyorum.
+- **Ağ geçişi geri alınamaz.** Geçiş sonrasında yan ağınıza ve içeriğine erişemezsiniz. Bir geçiş yapmadan önce dikkatlice planlamak istersiniz.

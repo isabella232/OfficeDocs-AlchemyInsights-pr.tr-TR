@@ -1,35 +1,36 @@
 ---
-title: SharePoint için dış paylaşımı açma veya kapatma
+title: SharePoint için dış Paylaşımı açma veya kapatma
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 4883c5a8fe77610e86a66637e2e12c3a18fe6e67
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 09f326274ccd6d5164bac64c81c9b2684748aaba
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063673"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800412"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Uyarı iletisi: Kuruluşunuzun ilkeleri bu kullanıcılarla paylaşmanıza izin vermiyor
 
-Kullanıcılar, kuruluşunuzun dış kullanıcılarıyla paylaşmaya çalışırken bir uyarı iletisi yaşayabilir. İleti, **kuruluşunuzun ilkelerinin bu kullanıcılarla paylaşmanıza izin vermeyebilmesidir. Etkinleştirmek için Microsoft 365 yönetici merkezinde Dış Paylaşım'a gidin.** Bu genellikle ilk kez dış kullanıcılarla paylaşmaya çalışırken veya yeni dış kullanıcılarla paylaşırken gerçekleşir.
+Kullanıcılar kuruluşunuzun dış kullanıcılarıyla paylaşmaya çalışırken bir uyarı iletisi yaşayabilir. **Bu ileti kuruluşunuzun ilkeleri bu kullanıcılarla paylaşmanıza izin vermiyor. Etkinleştirmek için Microsoft 365 Yönetim merkezinde dış paylaşıma gidin**. Bu genellikle ilk kez dış kullanıcılarla veya yeni dış kullanıcılarla paylaşılırken ilk kez gerçekleşir.
 
-Kuruluşunuz için **SharePoint ve OneDrive Dış Paylaşım ayarlarını** kontrol edin.
+Kuruluşunuzun **SharePoint ve OneDrive dış paylaşım ayarlarını** denetleyin.
 
-1. Microsoft [365 yönetici merkezinizde](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/) **SharePoint'i**seçin.
-3. Dış paylaşım ayarlarını görmek için **Paylaşım'ı** seçin.
+1. [Microsoft 365 Yönetim merkezinizde](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/) **SharePoint**'i seçin.
+3. Dış paylaşım ayarlarını görmek için **Paylaşım** 'ı seçin.
 
-Belirli bir site için **Dış Paylaşım ayarlarını** denetleyin.
+Belirli bir sitenin **dış paylaşım ayarlarını** denetleyin.
 
-1. Microsoft [365 yönetici merkezinizde](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/) **SharePoint'i**seçin.
-2. Kullanılabilen **sitelerinizi** görmek için Etkin Siteler'i seçin.
-3. Denetlemek istediğiniz siteyi seçin ve ardından sitenin ayarlarını doğrulamak için menü çubuğunda görüntüleyen **Paylaşım** düğmesini seçin.
+1. [Microsoft 365 Yönetim merkezinizde](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/) **SharePoint**'i seçin.
+2. Kullanılabilir sitelerinizi görmek için **etkin siteler** 'i seçin.
+3. Denetlemek istediğiniz siteyi seçin ve ardından sitenin ayarlarını doğrulamak için menü çubuğunda görüntülenen **Paylaşım** düğmesini seçin.
 
-Daha fazla bilgi için dış [paylaşımgenel bakış](https://docs.microsoft.com/sharepoint/external-sharing-overview)bakın.
+Daha fazla bilgi için, [bkz.](https://docs.microsoft.com/sharepoint/external-sharing-overview)

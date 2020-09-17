@@ -1,11 +1,12 @@
 ---
-title: Outlook.com'da profil adınızı değiştirme
+title: Outlook.com 'da profil adınızı değiştirme
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c0ea9dbe-2953-474d-ab31-2bc447b2e21d
@@ -13,17 +14,17 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: 6f90968c23674274f4f516572828fe7a52c7818c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7727dcb552fbbd31d4bec57bf16ac188f6783006
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760684"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802437"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a>Outlook.com'da profil adınızı değiştirme
+# <a name="change-your-profile-name-in-outlookcom"></a>Outlook.com 'da profil adınızı değiştirme
 
-1. Microsoft [hesap bilgilerinize](https://go.microsoft.com/fwlink/p/?linkid=860841)gidin.
-2. **Adı Edit'i**seçin.
-3. Ad ve soyad girin ve **Kaydet'i**seçin.
+1. [Microsoft hesap bilgilerinize](https://go.microsoft.com/fwlink/p/?linkid=860841)gidin.
+2. **Ad Düzenle**'yi seçin.
+3. Ad ve soyad girip **Kaydet**'i seçin.
 
-Profil adınızdaki değişikliklerin yürürlüğe girmesi için lütfen 24 saate kadar bekleyin.
+Lütfen profil adınıza yapılan değişikliklerin yürürlüğe geçmek için 24 saate kadar bekleyin.

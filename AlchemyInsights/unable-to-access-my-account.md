@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 25b5bace169fd2de0d3e2d59e9ae2aaa987eacd0
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
-ms.translationtype: HT
+ms.openlocfilehash: 0a240bb0acea178a58fa5bc9a2d95808676ad272
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154426"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800052"
 ---
 # <a name="unable-to-access-my-account"></a>Hesabıma erişemiyorum
 
@@ -24,12 +25,14 @@ Aboneliğinizin süresi dolduysa, Microsoft tarafından devre dışı bırakıld
 
 **Aboneliği yeniden etkinleştirme**
 
-1. Yönetim merkezinde **Faturalama > [Ürünler ve Hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
+1. Yönetim **merkezinde,**  >  **[Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
 
-2. Ürünler ve hizmetler sayfasında yeniden etkinleştirmek istediğiniz aboneliği bulun.
+2. Yeniden etkinleştirmek istediğiniz aboneliği bulun.
 
-3. Faturalama bölümünde **Şimdi yeniden etkinleştir**’e tıklayın.  Kartlar görünümündeyseniz, Ad ile Kullanılabilir miktar arasındaki üç noktaya tıklayın ve menüden Yeniden etkinleştir’i seçin. **Not**: Aradığınız aboneliği görmüyorsanız sayfanın üst kısmındaki Abonelik durumu filtresini **Tümü** olarak değiştirmeniz gerekebilir.
+3. **Faturalama** bölümünde, **Şimdi yeniden etkinleştir**’e tıklayın. **Kartlar** görünümünüzden, **ad** ve **kullanılabilir miktar** arasındaki üç noktayı tıklatın ve menüden **yeniden etkinleştir** 'i seçin.
+
+**Not**: Aradığınız aboneliği görmüyorsanız sayfanın üst kısmındaki **Abonelik durumu** filtresini **Tümü** olarak değiştirmeniz gerekebilir.
 
 4. Mevut ödeme bilgilerinizi güncelleştirmek için ödeme ayrıntılarınızı onaylayın. Ödeme yönteminizi girmeyi tamamladığınızda **Yeniden etkinleştir**’e tıklayın.
 
-Daha fazla bilgi için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Daha fazla bilgi için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

@@ -1,27 +1,28 @@
 ---
-title: İçerik düzenleyicisi veya komut dosyası düzenleyicisi web bölümleri eksik
+title: İçerik Düzenleyicisi veya betik Düzenleyicisi Web bölümleri eksik
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000207
-ms.openlocfilehash: 86ba18efc4bd466a12f32d82288d37ec1032e348
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
+ms.openlocfilehash: 3321f68f3a9379aec7c2d4537873b4b53295672a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44407334"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800376"
 ---
-# <a name="content-editor-or-script-editor-web-parts-are-missing"></a>İçerik düzenleyicisi veya komut dosyası düzenleyicisi web bölümleri eksik
+# <a name="content-editor-or-script-editor-web-parts-are-missing"></a>İçerik Düzenleyicisi veya betik Düzenleyicisi Web bölümleri eksik
 
-Eğer görmeye alışkın bir web parçası eksik, örneğin **içerik editörü veya komut dosyası düzenleyicisi web parçası**, modern bir sayfada klasik bir web [parçası](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64)eklemek için çalışıyorsanız mümkündür. Modern sayfaların yalnızca modern web bölümlerini ve klasik sayfaları sadece klasik web bölümlerini kullanabileceğini unutmayın. Birçok modern web parçaları klasik web parçaları olarak aynı amaçları yerine getirmek, ancak görünüm ve işlevsellik farklılıkları göreceksiniz.
+Web Bölümü 'nde (örneğin, **İçerik Düzenleyicisi veya kod Düzenleyicisi Web Bölümü**) yoksa, [modern bir sayfaya klasik bir Web Bölümü](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64)eklemeye çalışıyor olmalısınız. Modern sayfaların yalnızca Modern Web bölümlerini ve klasik sayfaların yalnızca klasik Web bölümlerini kullanmasını unutmayın. Birçok modern Web Bölümü Klasik Web bölümleri ile aynı şekilde yapılır, ancak görünüm ve işlevsellik farklılıkları görürsünüz.
 
-Modern sitelerde varsayılan olarak devre dışı bırakılan [özel komut dosyası ayarı](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)nedeniyle görünmeyen birçok web bölümü vardır. 
+Modern sitelerde varsayılan olarak devre dışı bırakılan [özel komut dosyası ayarı](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)nedeniyle gösterilmiyor birçok Web bölümü vardır. 
 
-Kullanılamayan web bölümlerinin listesi için lütfen [bkz.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked)
+Kullanılamayan Web bölümlerinin listesi için, [Özel Betik engellendiğinde etkilenen özellikler](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked)bölümüne bakın.
 
-Özel komut dosyasının güvenlik etkileri hakkında daha fazla bilgi için, [özel komut dosyasına izin vermenin Güvenlik hususlarına](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script)bakın.
+Özel komut dosyasının güvenlik etkileri hakkında daha fazla bilgi için, [özel betikte izin vermeye yönelik güvenlik konularına](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script)bakın.

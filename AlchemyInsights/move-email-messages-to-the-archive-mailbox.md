@@ -1,39 +1,40 @@
 ---
-title: E-posta iletilerini Arşiv posta kutusuna taşıma
+title: E-posta iletilerini arşiv posta kutusuna taşıma
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 9af8a4d3ce72fd901ff2f3a1aae0654c7213dd7e
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: 61d0b1a58fff6655b745bb9d39e8384f0a543336
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522791"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799800"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>E-postayı arşiv posta kutusuna taşıma
 
-Aşağıda belirtilen ayarlar için otomatik denetimler yapmamızı istiyorsanız, bu sayfanın üst kısmındaki arka düğmeyi < seçin ve ardından e-postayı arşiv posta kutusuna taşımakta sorun yaşayan kullanıcının e-posta adresini girin.
+Aşağıda belirtilen ayarlar için otomatik denetimler 'in çalıştırılmasını istiyorsanız, bu sayfanın en üstündeki geri düğmesini < seçin ve ardından e-postayı arşiv posta kutularına taşıma sorunlarını yaşayan kullanıcının e-posta adresini girin.
 
-1. **Arşiv posta kutusunun** etkinleştirildiğini doğrulayın. Değilse, arşiv posta kutusunu etkinleştirmek için [bu makaledeki](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) adımları kullanın.
+1. **Arşiv posta kutusunun** etkinleştirildiğini onaylayın. Yoksa, [Bu makaledeki](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) adımları kullanarak arşiv posta kutusunu etkinleştirin.
 
-2. İletileri arşiv posta kutusuna otomatik olarak arşivlemek için, **arşive taşı** eylemini içeren bir bekletme **etiketinin tüm posta kutusu (varsayılan) etiketine otomatik olarak uygulanacak**şekilde ayarlanması gerekir. Etiketi oluşturmak için buradaki adımları kullanın: [Varsayılan etiketi ni arşivleyin.](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag)
+2. İletileri otomatik olarak arşiv posta kutusuna arşivlemek için, **arşive taşı** eylemine sahip bir bekletme etiketi, **posta kutusu (varsayılan) etiketine otomatik olarak uygulanacak**şekilde ayarlanmalıdır. Etiket: [Arşiv varsayılan etiketini](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag)oluşturmak için buradaki adımları kullanın.
 
-3. Ardından, bekletme ilkenize **Arşiv** etiketini ekleyin. Exchange yönetici merkezinde, **Bekletme İlkeleri'ni** seçin > **Kaydet**> ilkesine **Arşive Taşı etiketini** ekleyin.
+3. Ardından, **Arşiv** etiketini bekletme ilkeniz ekleyin. Exchange Yönetim merkezinde **bekletme ilkeleri** 'ni seçin > Kaydet **'e taşı etiketini** **Kaydet > kaydedin**.
 
-4. Şimdi [Bekletme İlkesi'ni](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) belirli kullanıcının posta kutusuna atayın. Aynı ilke hem **Birincil** hem de **Arşiv** posta kutusuna uygulanır.
+4. Artık [bekletme ilkesini](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) belirli bir kullanıcının posta kutusuna atayın. Aynı ilke hem **birincil** hem de **Arşiv** posta kutusuna uygulanacaktır.
 
-Yönetilen Klasör Yardımcısı'nı (MFA) yeni ayarları çalıştırmaya ve kullanıcının posta kutusuna uygulamaya zorlamak gerekebilir. Belirli bir posta kutusu için Yönetilen Klasör Yardımcısı'nı başlatmak için [EXO PowerShell'e bağlıyken](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) aşağıdaki komutu çalıştırın:
+Yönetilen klasör Yardımcısı (MFA) çalıştırmak ve yeni ayarları kullanıcının posta kutusuna uygulamak gerekebilir. Belirli bir posta kutusunun yönetilen klasör Yardımcısı 'nı başlatmak için [EXO PowerShell 'e bağlıyken](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) aşağıdaki komutu çalıştırırsınız:
   
-Başlat-YönetilenFolderAssistant -Kimlik<name of the mailbox>
+Başlangıç-ManagedFolderAssistant-kimlik <name of the mailbox>
 
-Arşiv ilkesi ayarlama hakkında daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users)
+Arşiv [ilkesi ayarlama hakkında](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users)daha fazla bilgi için bkz.
   
