@@ -5,36 +5,37 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1dd3268044d1859b2648486717b41f7941d135b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44063241"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773507"
 ---
 # <a name="subscription-status"></a>Abonelik durumu
 
-Abonelik durumu, Microsoft 365 yönetici merkezinin **ürünleriniz** sayfasında bulunabilir.
+Abonelik durumu, Microsoft 365 yönetim merkezinin **Ürünler** sayfanızda bulunabilir.
 
-1. Ürünlerinizi **Faturalandırmaya**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** gidin.
+1. **Billing**  >  **[Ürünlerinize faturalama yapın](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Aboneliklerden herhangi birinin durumuyla ilgili bir sorun varsa, abonelik ayrıntılarının Faturalandırma bölümünde aboneliğin yanında kırmızı bir uyarı simgesi veya "süresi dolmuş" veya "devre dışı bırakılmış" durumu görürsünüz.
+2. Aboneliklerden herhangi birinin durumuyla ilgili bir sorun varsa, aboneliğin yanında kırmızı bir uyarı simgesi veya abonelik ayrıntılarının faturalama bölümünde "süresi geçmiş" veya "devre dışı" durumu görüntülenir.
 
-3. Süresi dolmuş veya devre dışı bırakılmış bir aboneliği yeniden etkinleştirmek istiyorsanız, **şimdi yeniden etkinleştir'i**tıklatın.
+3. Süresi dolmuş veya devre dışı bırakılmış bir aboneliği yeniden etkinleştirmek isterseniz **Şimdi yeniden etkinleştir**'i tıklatın.
 
 **Son kullanma tarihi**
 
-1. Ürünlerinizi **Faturalandırmaya**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** gidin.
+1. **Billing**  >  **[Ürünlerinize faturalama yapın](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Görünüme bağlı olarak, son kullanma tarihi **Date** etiketli en sağ sütunda veya **sona eren**abonelik ayrıntılarının **Faturalandırma** bölümünde görünür.
+2. Görünüme bağlı olarak, son kullanma tarihi, **Tarih** etiketli veya **kullanım süresi dolan**abonelik ayrıntılarının **Faturalama** bölümündeki en sağ sütununda görüntülenir.
 
-**Lisans**
+**Lisanslarınızı**
 
-Satın alınan ve kullanılan lisans ların **sayısı, ürünleriniz** sayfasında abonelik tarafından listelenir.
+**Ürünler** sayfanızda satın alınan ve kullanımdaki lisansların sayısı abonelikle listelenmiştir.
 

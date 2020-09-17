@@ -1,32 +1,33 @@
 ---
-title: Dosyaları ve klasörleri OneDrive'a kaydetme
+title: Dosyaları ve klasörleri OneDrive 'a kaydetme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003073"
 - "5903"
-ms.openlocfilehash: 3bce20c922e3beceb29f06e97184826a3d05fd8c
-ms.sourcegitcommit: fceb55831ea461d2ae2988e30ec0bbb0a705ceb8
+ms.openlocfilehash: 1c612a91cc2674e097f108a3d57898e2b24e901b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45375028"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47774263"
 ---
-# <a name="saving-files-and-folders-to-onedrive"></a>Dosyaları ve klasörleri OneDrive'a kaydetme
+# <a name="saving-files-and-folders-to-onedrive"></a>Dosyaları ve klasörleri OneDrive 'a kaydetme
 
-Dosyaları kaydetmek ve Dosyaları OneDrive'a kaydetmek için farklı yöntemler vardır. Dosyaları OneDrive'a kaydederken sorun yaşıyorsanız aşağıdakileri deneyin:
+Dosyaları kaydetmek ve dosyaları OneDrive 'a kaydetmek için farklı yöntemler vardır. Dosyaları OneDrive 'a kaydederken sorun yaşıyorsanız, aşağıdakileri deneyin:
 
-- Görev çubuğunuzdaki mavi bulutu seçin ve açılan pencerede görünen hataları düzeltin.
-- Dosyaları OneDrive klasörünüz dışında bir yere kaydedin ve ardından dosyaları OneDrive klasörünüze geri taşımayı deneyin.
-- Makinenizi yeniden başlatın ve yeniden kaydetmeye çalışın. Çoğu durumda, bir uygulamaaçık bir dosya varsa, OneDrive uygulama artık kullanmadan dosyayı eşitleme olamaz.    
-- Görev çubuğunuzdaki mavi OneDrive simgesini seçerek OneDrive'ı bağlamayı ve yeniden bağlamayı deneyin > Ayarlar Hesabı'nın bağlantısını **kaldırma&** bu  >  **Account**  >  **bilgisayarı**kullanın. Görev çubuğundaki mavi OneDrive simgesini yeniden seçin ve oturum açın.
-- Bir depolama sorunu yaşıyorsanız, [iş veya okul depolama alanı için OneDrive'ınızı yönet'e](https://support.microsoft.com/office/manage-your-onedrive-for-work-or-school-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)bakın.
-- Daha fazla sorun giderme bilgisi için, [OneDrive eşitleme sorunlarını düzelt'e](https://docs.microsoft.com/alchemyinsights/fix-onedrive-sync-issues)bakın.  
+- Görev çubuğunuzda mavi bulutu seçin ve açılır pencerede görünen hataları düzeltin.
+- Dosyaları OneDrive klasörünüzün dışında bir yere kaydedin ve dosyaları OneDrive klasörünüze geri taşımayı deneyin.
+- Makinenizi yeniden başlatın ve tekrar kaydetmeyi deneyin. Birçok durumda, bir uygulamanın dosyası açıksa, uygulama artık kullanıncaya kadar OneDrive dosyayı eşitleyemiyor.    
+- Görev çubuğunuzda mavi OneDrive simgesini seçerek OneDrive bağlantısını kaldırmayı ve yeniden bağlamayı deneyin > **Yardım & ayarlar**  >  **hesabı**  >  **Bu bilgisayarın bağlantısını kaldır**. Görev çubuğundaki mavi OneDrive simgesini yeniden seçin ve oturum açın.
+- Depolama sorunuyla karşılaşıyorsanız, [OneDrive iş veya okul depolama alanınızı yönetme](https://support.microsoft.com/office/manage-your-onedrive-for-work-or-school-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)bölümüne bakın.
+- Diğer sorun giderme bilgileri için [OneDrive eşitleme sorunlarını düzeltme](https://docs.microsoft.com/alchemyinsights/fix-onedrive-sync-issues)konusuna bakın.  
 
-Office ve OneDrive ile kaydetme deneyiminizi özelleştirmek istiyorsanız, [bkz.](https://support.microsoft.com/office/customize-the-save-experience-in-office-786200a7-f5f2-4d26-a3ae-b78c60dd5d3b)
+Kaydet deneyiminizi Office ve OneDrive ile özelleştirmek istiyorsanız, [Office 'te kaydet deneyimini özelleştirme](https://support.microsoft.com/office/customize-the-save-experience-in-office-786200a7-f5f2-4d26-a3ae-b78c60dd5d3b)konusuna bakın.
