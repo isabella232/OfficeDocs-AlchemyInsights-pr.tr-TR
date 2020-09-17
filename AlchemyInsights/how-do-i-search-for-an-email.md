@@ -1,27 +1,28 @@
 ---
-title: E-postayı nasıl ararım?
+title: E-postayı nasıl arayabilirim?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: c0bb068702adaa9434dce478e626efad30f8bc4a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: ca787699c55d377784d269651b19b39b4345acee
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627758"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781699"
 ---
-# <a name="how-do-i-search-for-an-email"></a>E-postayı nasıl ararım?
+# <a name="how-do-i-search-for-an-email"></a>E-postayı nasıl arayabilirim?
 
-Size e-postayı gönderen kişiyi arayarak veya e-postanın içinde yer alan bir anahtar kelimeyi arayarak bir e-posta arayabilirsiniz.
+Size e-posta gönderen kişiye veya e-postada bulunan bir anahtar sözcüğü arayarak e-posta arayabilirsiniz.
 
-Alt navigasyon çubuğundaki büyüteçdin. Ardından arama isteğinizi ekranınızın üst kısmındaki kutuya yazın. 
+Alttaki gezinti çubuğunda büyüteci aşağı dokunun. Ardından arama isteğinizi ekranınızın üst kısmındaki kutuya yazın. 
 
-**İpucu:** Arama kutusuna odaklanmak için büyüteçe çift dokunabilirsiniz. İstekinizi yazarken sonuçlarınız görünür. 
+**İpucu:** Odaklanmayı iki kez dokunarak arama kutusuna odaklanabilirsiniz. Talebinizi yazarken sonuçlarınız görüntülenecektir. 
