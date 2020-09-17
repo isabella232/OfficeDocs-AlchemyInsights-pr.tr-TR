@@ -1,33 +1,34 @@
 ---
-title: Profil bilgilerimi güncelleştirin veya resmimi değiştirin
+title: Profil bilgilerimi güncelleştirme veya resmimi değiştirme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 9bbc8b1ef7d9b0c910b19db47110ae046ae63e34
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720121"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796956"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Profil bilgilerimi güncelleştirin veya resmimi değiştirin
+# <a name="update-my-profile-information-or-change-my-picture"></a>Profil bilgilerimi güncelleştirme veya resmimi değiştirme
 
-Şu anda, profil bilgilerinizi doğrudan iOS için Outlook'tan düzenlemek ve güncelleştirmek mümkün değildir, ancak bu bilgileri başka bir yerde düzenlemeniz mümkündür. 
+Şimdilik, doğrudan iOS için Outlook 'tan profil bilgilerinizi düzenlemek ve güncelleştirmek mümkün değildir, ancak bu bilgileri başka bir yerde düzenleyebilirsiniz. 
 
-Profilinizde Outlook for Windows veya Outlook on the Web (OWA) adresinde güncelleştirmeler yapabilirsiniz. 
+Windows için Outlook veya Web üzerinde Outlook 'ta (OWA) profilinizde Güncellemeler yapabilirsiniz. 
 
-**Windows için Outlook**: 
+**Windows Için Outlook**: 
 
-- **Dosya** > **Ofis Hesabı** > **Kullanıcı bilgileri** > **Hakkımda** (Microsoft 365 profiliçevrimiçi getiriyor) > **Profili Güncelleyin** veya fotoğrafınızı değiştirmek için kamera simgesine tıklayın  
+- **Dosya**  >  **Office hesabı**  >  **Kullanıcı bilgileri**  >  **Hakkımda** (Microsoft 365 profili çevrimiçi duruma getirir) > **profili güncelleştirin** veya fotoğrafınızı değiştirmek için kamera simgesine tıklayın.  
   
-**Web'de Outlook (OWA)**: 
+**Web üzerinde Outlook (OWA)**: 
 
-- **Profil resmi** > **Profilimi** > **güncelle profilim**
+- **Profil resmi**  >  **Profilim**  >  **Profili Güncelleştir**
