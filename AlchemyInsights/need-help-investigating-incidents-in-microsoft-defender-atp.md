@@ -1,30 +1,31 @@
 ---
-title: Microsoft Defender ATP'deki olayları araştırmak için yardıma ihtiyacınız var
+title: Microsoft Defender ATP 'de olayları araştırırken yardım gerekiyor
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6025"
 - "9001221"
-ms.openlocfilehash: c07b4dac5228ce2c39382a70b41b7acaa49d05f5
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
-ms.translationtype: MT
+ms.openlocfilehash: fdff256e70a63b1a7a306ea40de4f2a68e39455d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198344"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803337"
 ---
-# <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>Microsoft Defender ATP'deki olayları araştırmak için yardıma ihtiyacınız var
+# <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>Microsoft Defender ATP 'de olayları araştırırken yardım gerekiyor
 
-Microsoft Defender ATP Hizmeti'ndeki bir olayı araştırmak için yardıma ihtiyacınız varsa, aşağıdaki adımları izleyin.
+Microsoft Defender ATP hizmetinde bir olayı araştırırken yardıma ihtiyacınız varsa, aşağıdaki adımları izleyin.
 
-1. Olayı seçin ve olayla gruplanan uyarıları gözden geçirin. Ayrıntıları gözden geçirmek için her uyarıyı seçin. Talimatlar için [bkz.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts)
-2. Olayın bir parçası olan veya olayla ilgili aygıtları gözden geçirin. Yönergeler için bkz: [Microsoft Defender ATP Cihazları listesindeki aygıtları araştırın.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines)<br/>
+1. Olayı seçin ve olayla birlikte gruplandırılan uyarıları gözden geçirin. Ayrıntıları gözden geçirmek için her uyarıyı seçin. Yönergeler için, bkz [.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts)
+2. Olayın parçası olan veya ilişkili olan cihazları gözden geçirin. Yönergeler için, [Microsoft Defender ATP cihazlar listesindeki cihazları araştır](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines)bölümüne bakın.<br/>
  
-    İncelemeler sekmesi, olay uyarılarına yanıt olarak sistem tarafından başlatılan tüm otomatik soruşturmaları görmenizi sağlar.
-3. Giriş noktasını, uzlaşma göstergelerini ve cihaz(lar) üzerinde gözlenen diğer şüpheli etkinlikleri tanımlamak için olay grafiğini kullanın. Daha fazla bilgi için, [visualizing ilişkili siber güvenlik tehditleri](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats)bakın.  
+    Araştırmalar sekmesi, olay uyarılarını yanıtlamak için sistem tarafından başlatılan tüm otomatik araştırmalar görmenizi sağlar.
+3. Giriş noktasını, uzlaşmaya yönelik göstergeleri ve cihazlarda gözlenen diğer şüpheli etkinlikleri belirlemek için olay grafiğini kullanın. Daha fazla bilgi için [ilgili cybersecurıty güvenlik tehditlerine](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats)bakın.  

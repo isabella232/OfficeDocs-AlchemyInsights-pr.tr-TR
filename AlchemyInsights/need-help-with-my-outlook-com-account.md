@@ -1,29 +1,30 @@
 ---
-title: Outlook.com hesabımda yardıma ihtiyacım var
+title: Outlook.com hesabımdaki yardım gerekiyor
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 73a386d338b880c808ec9f620e07b23badf1285f
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288389"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803301"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>Outlook.com hesabımda yardıma ihtiyacım var
+# <a name="need-help-with-my-outlookcom-account"></a>Outlook.com hesabımdaki yardım gerekiyor
 
-Outlook.com hizmeti ile ilgili yardıma ihtiyacınız varsa, size yardımcı olmak için özel yardım adadık. Doğrudan web uygulamasından destek almak için: 
+Outlook.com hizmeti ile ilgili yardıma ihtiyacınız varsa size yardımcı olmaya yönelik özel yardım sunuyoruz. Doğrudan Web uygulamasına destek almak için: 
 
-1. Tıklayın ? ekranın sağ üst kısmında simge. 
+1. ? ekranın sağ üst kısmındaki simge. 
 
-2. Açılan panelde görüntülenen yardım kutusuna yardıma ihtiyacınız olanı yazın ve **gönder'e**tıklayın. 
+2. Açılır panelde görüntülenen yardım kutusunda yardım almanız gereken şeyleri yazın ve sonra da göster **'e tıklayın.** 
 
-3. Bir çözüm sunulmuyorsa, lütfen yan paneli aşağı kaydırın ve **bize e-posta**gönderin.
+3. Bir çözüm sunulmadığı takdirde, lütfen yan paneli aşağı kaydırın ve **bize e-posta gönder**'e tıklayın.
