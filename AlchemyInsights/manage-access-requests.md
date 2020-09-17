@@ -6,29 +6,30 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 975609294a4fd564c99594269bb4c348ad1d4191
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 690935623685712959c6544752c5df06f7d9da01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579741"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778339"
 ---
 # <a name="manage-access-requests"></a>Erişim isteklerini yönetme
 
-Bir kullanıcı SharePoint'teki bir öğeye erişmeye çalıştığında ve izni olmadığında, öğeye erişmek için izin ekive ihtiyacı olan bir ileti görür. Kullanıcı erişim isteyebilir (bazı durumlarda, belirli öğeye veya gruba katılmak için) ve bir site sahibi isteği onaylayabilir veya reddedebilir. Site sahibi olmayan bir kişi siteyi başka bir kişiyle paylaşırsa, site sahibi yeni kullanıcı için de bir erişim isteği alır. Erişim isteklerini onaylamak veya reddetmek için:
+Bir kullanıcı SharePoint 'teki bir öğeye erişmeye çalıştığında ve izinleri yoksa, öğeye erişme izni olması gerektiğini belirten bir ileti görürler. Kullanıcı erişim talebinde bulunabilir (bazı durumlarda, belirli bir öğeye veya gruba katılabilir) ve site sahibi isteği onaylayabilir veya reddedebilir. Site sahibi olmayan birinin bir siteyi başka bir kişiyle paylaştığı durumlarda site sahibi yeni kullanıcı için de erişim isteği alır. Erişim isteklerini onaylamak veya reddetmek için:
   
-1. Siteye gidin, sağ üstteki Ayarlar simgesine tıklayın ve ardından **Site Ayarları'nı**tıklatın. (Site Ayarlarını görmüyorsanız, **Site İzinleri'ni**tıklatın ve ardından **Gelişmiş izin ayarları'nı**tıklatın. "Erişim isteklerini ve davetlerini göster" adlı bağlantısı olan bir banner arayın.)
+1. Siteye gidin, sağ üstteki ayarlar simgesine tıklayın ve sonra da **site ayarları**'na tıklayın. (Site ayarları 'nı görmüyorsanız **Site izinleri**'ne ve sonra da **Gelişmiş izin ayarları**'na tıklayın. "Erişim isteklerini ve davetlerini göster" adındaki bağlantıya sahip bir başlığı arayın.
     
-2. **Kullanıcılar ve İzinler** **altında, Access isteklerini ve davetlerini**tıklatın. (Bu görüntülenmezse, erişim isteği yapılmamıştır.)
+2. **Kullanıcılar ve izinler**altında **erişim istekleri ve Davetler**'e tıklayın. (Bu görünmüyorsa, hiçbir erişim isteği yapılmaz.)
     
-3. Kullanıcıya ayrı ayrı izin vermek için Onayla veya **Reddet'i** tıklatın. **Decline** Belirli bir izin düzeyini seçmek için, önce kişinin adının yanındaki elipsleri (...) tıklatın. Alternatif olarak, kullanıcıyı siteye izin alan bir gruba ekleyin. İletişim siteleri ve klasik ekip siteleri için bunu Site Ayarları sayfasından yapabilirsiniz. Microsoft 365 grubuna ait siteler için, kullanıcıyı gruba ekleyebilirsiniz.
+3. Kullanıcıya bireysel olarak izin vermek için **Onayla** veya **Reddet**'i tıklatın. Belirli bir izin düzeyini seçmek için, önce kişinin adının yanındaki üç noktayı (...) tıklatın. Alternatif olarak, kullanıcıyı siteye izni olan bir gruba ekleyebilirsiniz. İletişim siteleri ve klasik ekip siteleri için bunu site ayarları sayfasında yapabilirsiniz. Microsoft 365 grubuna ait siteler için, kullanıcıyı gruba ekleyebilirsiniz.
     
-    [Erişim isteklerini yönetme](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Erişim isteklerini yönetme ](https://go.microsoft.com/fwlink/?linkid=2008747)
     
     [İzin düzeyleri hakkında daha fazla bilgi](https://go.microsoft.com/fwlink/?linkid=867071)
     

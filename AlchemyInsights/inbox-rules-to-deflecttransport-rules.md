@@ -1,32 +1,33 @@
 ---
-title: 929 Gelen Kutusu kuralları Taşıma kurallarını saptırmak için
+title: 929 için gelen kutusu kuralları
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 6b6e64c0332a579e8f6132b08f2f89b15eb4de27
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: abb729c40fb87bcca8cc03c95aa4677597d20c08
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724612"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778711"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Posta akışı kuralları (aktarım kuralları olarak da bilinir)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Posta akışı kuralları (taşıma kuralları olarak da bilinir)
 
-- Posta akışı kurallarına genel bakış: [Exchange Online'da posta akışı kuralları (taşıma kuralları)](https://technet.microsoft.com/library/jj919238.aspx)
+- Exchange Online 'da posta akışı kurallarına genel bakış: [posta akışı kuralları (Aktarım kuralları)](https://technet.microsoft.com/library/jj919238.aspx)
 
-- Kurulum posta akışı kuralları: [Exchange Online'da posta akışı kuralı yordamları](https://technet.microsoft.com/library/dn600436.aspx)
+- Posta akışı kurallarını ayarlama: [Exchange Online 'Da posta akışı kuralı yordamları](https://technet.microsoft.com/library/dn600436.aspx)
 
-- Posta akışı kuralları oluşturma, değiştirme ve silme: [Posta akışı kurallarını yönetme](https://technet.microsoft.com/library/jj657505.aspx)
+- Posta akışı kurallarını oluşturma, değiştirme ve silme: [posta akışı kurallarını yönetme](https://technet.microsoft.com/library/jj657505.aspx)
 
-Exchange Online PowerShell'de posta akışı kurallarını da yönetebilirsiniz. Daha fazla bilgi için bkz: [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (görünüm), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (oluştur), [Kaldır-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (sil), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (varolanı değiştirin), [Devre Dışı-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (varolanı devre dışı bırak) ve [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (varolanı etkinleştir).
+Exchange Online PowerShell 'de posta akış kurallarını da yönetebilirsiniz. Daha [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) fazla bilgi için [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (View), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (Create), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (Sil), [set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (Varolanı değiştir) [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule)
 
-Ek posta akışı kuralı cmdlets: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (liste kullanılabilir eylemler), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (liste kullanılabilir koşullar ve özel durumlar), [Dışa aktarma-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (dışa aktarım kuralları) ve [Alma-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (alma kuralları).
+Ek posta akış kuralı cmdlet 'leri [: Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (List-kullanılabilir eylemler [),](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) [Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (kullanılabilir koşullar ve özel durumları

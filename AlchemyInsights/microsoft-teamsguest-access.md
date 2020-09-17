@@ -1,10 +1,10 @@
 ---
-title: Microsoft Teams - Konuk Erişim
+title: Microsoft ekipleri-konuk erişimi
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,19 +12,19 @@ ms.custom:
 - "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 4d1210df5614901b4525ee1c8be32db61a46a179
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 83739b66057dd25ef9c95a138598e61db4f221bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627522"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777661"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft Teams - Konuk Erişim
+# <a name="microsoft-teams---guest-access"></a>Microsoft ekipleri-konuk erişimi
 
-Microsoft Teams'te Konuk Erişimi özelliğini açmak ve kurmak için yardıma mı ihtiyacınız var?  
+Microsoft ekiplerde konuk erişimi özelliğinin açılması ve kurulması için yardıma mı ihtiyacınız var?  
 
-İlk olarak, [Konuk Erişim Denetim Listesi'ndeki](https://docs.microsoft.com/microsoftteams/guest-access-checklist)tüm adımları izlediğinizi unutmayın. Tüm bu adımlar tamamlandıktan sonra, ayarların etkili olması [için 24 saate kadar beklemeniz](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) gerekir.
+Öncelikle [konuk erişimi denetim listesindeki](https://docs.microsoft.com/microsoftteams/guest-access-checklist)tüm adımları izlediğinizden emin olun. Bu adımların tümü tamamlandığında, ayarların geçerlilik kazanması [24 saate kadar beklemeniz](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) gerekir.
 
-Denetim Listesi'ndeki tüm adımları tamamladığınızdan eminseniz ve 24 saatten fazla olduysa, devam edin ve [Takımınıza bir Konuk eklemeye](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)çalışın.
+Denetim listesindeki tüm adımları tamamladıysanız ve bu, 24 saatten fazla yer alıyorsa, devam edin ve [ekibinize bir konuk eklemeyi](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)deneyin.
 
-Nasıl iş taneleri olduğu da dahil olmak üzere daha fazla bilgi için [Microsoft Teams'da Konuk erişimine](https://docs.microsoft.com/microsoftteams/guest-access)bakın.
+Nasıl yapılır videoları dahil daha fazla bilgi için [Microsoft ekiplerde konuk erişimi](https://docs.microsoft.com/microsoftteams/guest-access)konusuna bakın.
