@@ -1,23 +1,24 @@
 ---
-title: Hibrid
+title: Karma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1555"
 - "9000080"
-ms.openlocfilehash: 94edbc3eb9bfa42367566792f231eab464d6d63f
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: e89485096fdf0eb4f2b116d367616efe9e854a55
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771019"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778999"
 ---
-# <a name="hybrid-mdm"></a><span data-ttu-id="be70f-102">Hibrid MDM</span><span class="sxs-lookup"><span data-stu-id="be70f-102">Hybrid MDM</span></span>
+# <a name="hybrid-mdm"></a><span data-ttu-id="69d86-102">Karma MDM</span><span class="sxs-lookup"><span data-stu-id="69d86-102">Hybrid MDM</span></span>
 
-<span data-ttu-id="be70f-103">Microsoft Endpoint Configuration Manager ve Microsoft Intune ile Karma MDM hakkında bilgi edinmek için Configuration [Manager ve Microsoft Intune ile karma MDM'yi ayarlama](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm)konusuna bakın.</span><span class="sxs-lookup"><span data-stu-id="be70f-103">To learn about Hybrid MDM with Microsoft Endpoint Configuration Manager and Microsoft Intune, see [Set up hybrid MDM with Configuration Manager and Microsoft Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm).</span></span>
+<span data-ttu-id="69d86-103">Microsoft uç nokta Yapılandırma Yöneticisi ve Microsoft Intune ile karma MDM hakkında bilgi edinmek için [, bkz.](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm)</span><span class="sxs-lookup"><span data-stu-id="69d86-103">To learn about Hybrid MDM with Microsoft Endpoint Configuration Manager and Microsoft Intune, see [Set up hybrid MDM with Configuration Manager and Microsoft Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm).</span></span>
