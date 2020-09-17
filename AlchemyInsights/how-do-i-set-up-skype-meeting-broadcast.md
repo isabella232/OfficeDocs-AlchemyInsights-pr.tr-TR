@@ -1,10 +1,11 @@
 ---
-title: Skype Toplantı Yayını nasıl ayarlırım?
+title: Skype toplantısı yayınını nasıl ayarlayabilirim?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 94ef1f8479b0056347e632c8993ad2c6c612602d
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305246"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781483"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Bir Skype Toplantı Yayını başlatamıyor veya katılamıyor musunuz?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Bir Skype toplantısı yayınını başlatamaz veya bu yayına katılamıyor musunuz?
 
-Etkinlik Ekibi Üyesi (Toplantı yapımcısı) olarak Skype Toplantı Yayını başlatmakta veya katılmakta sorun yaşıyorsanız, yapılandırmanızı iki kez kontrol ettiğinizden emin olun. Skype Toplantı Yayını bazı el ile kurulum adımları gerektirir. Ağınızın ve Skype for Business Online portalınızın doğru şekilde yapılandırıldığından ve etkilenen kullanıcının çakışan bir lisans tarafından engellenmediğinden emin olmak için bu makaledeki adımları izleyin:
+Bir Skype toplantısı yayınını etkinlik ekibi üyesi (Toplantı üreticisi) olarak başlatırken veya katılırken sorun yaşıyorsanız, yapılandırmanızı tekrar kontrol edin. Skype toplantısı yayını için el ile kurulum adımları gerekir. Ağ ve Skype Kurumsal çevrimiçi portalı 'nın doğru yapılandırıldığından ve etkilenen kullanıcının çakışan bir lisans tarafından engellenmediğinden emin olmak için bu makaledeki adımları izleyin:
 
-[Skype Toplantı Yayını için ağınızı ayarlama](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[Skype toplantısı yayını için ağınızı ayarlama](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

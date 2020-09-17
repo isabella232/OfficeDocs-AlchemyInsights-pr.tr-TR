@@ -1,33 +1,34 @@
 ---
-title: Outlook Android kişilerim ile nasıl senkronize olur?
+title: Outlook Android Kişilerim ile nasıl eşitlenir?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001115"
 - "3076"
-ms.openlocfilehash: 8a41923b7c3395c30414cbc39b74011c54267d78
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 5600a56bcbbaf9d484986e1d4d45397dda936a4b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286293"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781375"
 ---
-# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Outlook Android kişilerim ile nasıl senkronize olur?
+# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Outlook Android Kişilerim ile nasıl eşitlenir?
 
-Outlook'ta bir e-posta oluşturduğunuzda, hem Android adres defterinizden hem de Outlook adres defterinizdeki alıcıları ararız. Ayrıca, size e-posta hesaplarınızdaki kişileri diğer uygulamalarda kullanılmak üzere Android adres defterinize senkronize etme seçeneği sa¤lları sa¤lları sa¤lları sa¤lLarı sa¤lları sa¤lediyoruz. 
+Outlook 'ta e-posta oluşturduğunuzda, hem Android adres defterinizi hem de Outlook Adres defterinizi arayıyoruz. Ayrıca, e-posta hesaplarınızdaki kişileri diğer uygulamalarda kullanmak üzere Android adres defterinize eşitleme seçeneğini de sunuyoruz. 
  
-**Bu özelliği etkinleştirmek için:**
+**Bu özelliği etkinleştirmek için**:
  
-1. Cihazınızda **Ayarlar'a**gidin.
+1. Cihazınızda **Ayarlar**'a gidin.
 
 2. **Hesaplar**altında, kişileri eşitlemek istediğiniz hesaba dokunun.
 
-3. Kişileri **Eşitle** kaydırıcısını Aç'a değiştirin.
+3. **Kişileri Eşitle** kaydırıcısını açık olarak değiştirin.
  
-**Not**: Android için Microsoft Outlook'ta kişileri eşitlemeye çalıştığınızda, **Eşitleme kişileri** için geçiş seçeneği devre dışı bırakılırsa, metinle birlikte görüntülenen bir ileti görebilirsiniz, *Kişiler eşitleme sistem ayarlarında açık değildir.* Bunun nedeni, **otomatik eşitleme veri** seçeneğinin sistem ayarlarında devre dışı edilmesiolabilir. Bu sorunu gidermek için, Android sistem **Ayarları'ndaki** **Hesaplar** menüsündeki **verileri Otomatik eşitle'yi** etkinleştirin. Bu seçenek genellikle dikey bir elips (3) veya üçlü çubuk (3) bulunur. **Hesaplar** menüsü, cihazın malına ve Android sürümüne bağlı olarak farklı konumlarda olabilir. En yeni modellerde, **Hesaplar** **Ayarlar'da**aranabilir.
+**Not**: Android Için Microsoft Outlook 'ta kişileri eşitlemeyi etkinleştirmeye çalıştığınızda, **Kişileri Eşitle** seçeneğini devre dışı bırakırsanız, metinle birlikte görüntülenen *kişiler*'i görebilirsiniz. Bu, sistem ayarlarında **Otomatik eşitleme verileri** seçeneğinin devre dışı bırakılmasıyla kaynaklanıyor olabilir. Bu sorunu çözmek için Android sistem **ayarları**'ndaki **hesaplar** menüsünde **verileri otomatik olarak eşitle** 'yi etkinleştirin. Bu seçenek genellikle dikey üç nokta (⋮) veya üçlü çubukta (⫼) bulunur. Cihazlar ve Android sürümünün durumuna bağlı olarak,  **hesaplar** menüsü farklı konumlarda olabilir. Daha yeni modellerde, **hesaplar** **Ayarlar**'da aranabilir.

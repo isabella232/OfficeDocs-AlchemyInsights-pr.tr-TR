@@ -5,29 +5,30 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2543"
 - "9000672"
-ms.openlocfilehash: 0517697073ca20fa73f41f6b142e50090c7fd2c2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5bea2ab14fcf585344c795302f38202a2b582593
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709923"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781519"
 ---
 # <a name="share-a-form"></a>Formu paylaşma
 
-Microsoft Formlar'da bir test veya formu paylaşmak [için, işbirliği yapmak için bir formu paylaş'a](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)bakın.
+Microsoft Forms 'ta bir testi veya formu paylaşmak için, [işbirliği yapmak üzere formu paylaşma](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)konusuna bakın.
 
-Formları dışarıdan paylaşma yeteneğini yönetmek için Bkz. [Microsoft Formları'nı ayarla.](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240) 
+Formları dışarıdan paylaşma becerisini yönetmek için [Microsoft Forms 'U ayarlama](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240)bölümüne bakın. 
 
-Sonuçları başkalarıyla paylaşmak için özet bağlantısı almak için:
+Sonuçları başkalarıyla paylaşmanın bir Özet bağlantısı edinmek için:
 
-1. **Yanıtlar** sekmesinde, elips düğmesini tıklatın (**...**).
-3. **Özet bağlantısı oluştur'u**seçin.
-4. **Kopyala'yı**tıklatın.
+1. **Yanıtlar** sekmesinde üç nokta düğmesini (**...**) tıklatın.
+3. **Özet bağlantı oluştur**'u seçin.
+4. **Kopyala**'yı tıklatın.
 
-Bu bağlantıyı paylaştığınız herkes, formunuziçin yanıtların özetini görüntüleyebilir.
+Bu bağlantıyı paylaştığınız herkes formunuzun yanıtlarının özetini görüntüleyebilir.

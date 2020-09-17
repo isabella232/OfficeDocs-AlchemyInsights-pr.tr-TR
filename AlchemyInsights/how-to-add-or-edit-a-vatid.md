@@ -1,42 +1,43 @@
 ---
-title: VatID ekleme veya bunları nasıl edinilir?
+title: Vatıd ekleme veya düzenleme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 814420999d926e79bef7cfd956b0d949e6a82da0
-ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
+ms.openlocfilehash: b17b6f8bb75ac77ae012db70d16b4cc55b553ae5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46505169"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781201"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>VatID ekleme veya bunları nasıl edinilir?
+# <a name="how-to-add-or-edit-a-vatid"></a>Vatıd ekleme veya düzenleme
 
-**Not**: Birleşik Krallık gibi katma değer vergisi (KDV) kullanan bir ülkedeyseniz, Microsoft Faturalama sizin için KDV'yi hesaplar ve tutarı faturalarınıza uygular. Daha fazla bilgi için Avrupa Komisyonu tarafından yayınlanan [VIES feragatnameye](https://go.microsoft.com/fwlink/p/?LinkID=841741) bakın.
+**Not**: İngiltere gibi değerli VERGI (KDV) kullanan bir ülkedeyse Microsoft faturalandırma sızın için KDV 'yi hesaplar ve tutarı faturalarınıza uygular. Daha fazla bilgi için, Avrupa Komisyonu tarafından yayınlanan [VIES vazgeçme belgesi](https://go.microsoft.com/fwlink/p/?LinkID=841741) konusuna bakın.
 
-**VatID ekleme veya düzenleme**
+**Vatıd ekleme veya düzenleme**
 
-1. Microsoft 365 yönetici merkezinde, Ürünlerinizi **Faturalandırma** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
+1. Microsoft 365 Yönetim **merkezinde,** \> [Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
 
-2. Güncellemek istediğiniz abonelik için abonelik kartını bulun.
+2. Güncelleştirmek istediğiniz aboneliğin abonelik kartını bulun.
 
-3. **Eylemler& Ayarlar** **bölümünde, hizmet kullanım adresini edit'i**seçin.
+3. **Ayarlar & eylemler** bölümünde, **hizmet kullanım adresini Düzenle**'yi seçin.
 
-4. Hizmet **kullanım adresinizi edin** sayfasında KDV **numaranızı** girin ve ardından **Kaydet'i**seçin.
+4. **Hizmet kullanım adresinizi düzenleyin** sayfasında, KDV **numarası** kutusuna KDV kimliğinizi girin ve **Kaydet**'i seçin.
 
-    Tamamlandığında, bir sonraki faturanızda KDV alınmaz.
+    Tamamlandığında KDV, sonraki faturanızda ücretlendirilmeyecektir.
 
-Daha fazla bilgi için microsoft [365 için hangi verginin alınacağını öğrenin?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)
+Daha fazla bilgi edinmek için [Microsoft 365 Için hangi vergi ücretlendirileceğini](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)görün.
 
 **Ek kaynaklar**
 
-[KDV kimliğinizi ekleyin.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#add-your-vat-id-eu-countries-only)
+[KDV kimliğinizi ekleyin](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#add-your-vat-id-eu-countries-only).
