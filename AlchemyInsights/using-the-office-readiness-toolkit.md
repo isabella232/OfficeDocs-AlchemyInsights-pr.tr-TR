@@ -1,24 +1,25 @@
 ---
-title: Office Hazırlık Araç Kitini Kullanma
+title: Office hazırlık araç seti 'ni kullanma
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: f6ead7c1f0e146056c008226c5689b912fd1fdf5
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: c38424553f089f80df6d88c3dcca6cb504aa3ffb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010706"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794895"
 ---
-# <a name="using-the-office-readiness-toolkit"></a><span data-ttu-id="5f56f-102">Office Hazırlık Araç Kitini Kullanma</span><span class="sxs-lookup"><span data-stu-id="5f56f-102">Using the Office Readiness Toolkit</span></span>
+# <a name="using-the-office-readiness-toolkit"></a><span data-ttu-id="eb255-102">Office hazırlık araç seti 'ni kullanma</span><span class="sxs-lookup"><span data-stu-id="eb255-102">Using the Office Readiness Toolkit</span></span>
 
-<span data-ttu-id="5f56f-103">Office Hazırlık Araç Kiti'ni kullanma hakkında daha fazla bilgi için, [Microsoft 365 Uygulamaları için uygulama uyumluluğunu değerlendirmek için Hazırlık Araç Kitini Kullan'a](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps)bakın.</span><span class="sxs-lookup"><span data-stu-id="5f56f-103">For information on using the Office Readiness Toolkit, see [Use the Readiness Toolkit to assess application compatibility for Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).</span></span>
+<span data-ttu-id="eb255-103">Office hazırlık araç seti 'ni kullanma hakkında bilgi için, [Microsoft 365 uygulamaları için uygulama uyumluluğunu değerlendirmek amacıyla hazırlık araç seti 'Ni kullanma](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps)konusuna bakın.</span><span class="sxs-lookup"><span data-stu-id="eb255-103">For information on using the Office Readiness Toolkit, see [Use the Readiness Toolkit to assess application compatibility for Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).</span></span>
 
-<span data-ttu-id="5f56f-104">Hazırlık Araç Seti hakkında geri bildiriminiz veya sorularınız varsa, lütfen ReadyForOffice@microsoft.com'da bize e-posta gönderin.</span><span class="sxs-lookup"><span data-stu-id="5f56f-104">If you have feedback or questions about the Readiness Toolkit, please email us at ReadyForOffice@microsoft.com.</span></span>
+<span data-ttu-id="eb255-104">Hazırlık araç seti hakkında geri bildirimleriniz veya sorularınız varsa lütfen ReadyForOffice@microsoft.com adresinden bize e-posta gönderin.</span><span class="sxs-lookup"><span data-stu-id="eb255-104">If you have feedback or questions about the Readiness Toolkit, please email us at ReadyForOffice@microsoft.com.</span></span>
