@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677010"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236145"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Microsoft 365 uygulamalarında oturum açan sorunlar
 
@@ -25,6 +25,8 @@ Microsoft 365 uygulamalarıyla oturum açma sorunlarını çözmek için etkilen
 
 - Windows için, [yaygın oturum açma sorunlarını çözme önerilerine](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues) bakın
 - Mac için, bkz:  [Mac Için Office 2016 uygulamasında oturum açamıyorum](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**İpucu** Windows makinelerde, birkaç yaygın Office oturum açma sorununu tanılayabilir ve otomatik olarak düzeltebiliriz. Otomatikleştirilmiş hizmetlerimizi kullanmak için  **[Microsoft destek ve Kurtarma Yardımcısı](https://aka.ms/SaRA-OfficeSignInScenario)** 'nı indirin ve kullanın.
 
 **Not:** Oturum açma veya etkinleştirme sorunlarını çözmek için modern kimlik doğrulaması (ADAL) veya web hesabı yönetimi (WAM) devre dışı  **bırakılmayabilir**. Office 2013 kullanılarak Microsoft 365 'e bağlanırken hatalar oluşursa, Office istemcisi için [modern kimlik doğrulamasını etkinleştirmenizi](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  sağlayın.
 
