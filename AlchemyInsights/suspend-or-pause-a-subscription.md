@@ -1,8 +1,8 @@
 ---
 title: Aboneliği askıya alma veya duraklatma
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-ms.openlocfilehash: f04c1a88a0c21d164fb687af1ecd2546a89601f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 716f48793826e813796ec8c62baaf8d252ae4362
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800160"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488973"
 ---
-# <a name="suspend-or-pause-a-subscription"></a><span data-ttu-id="a3508-102">Aboneliği askıya alma veya duraklatma</span><span class="sxs-lookup"><span data-stu-id="a3508-102">Suspend or pause a subscription</span></span>
+# <a name="suspend-or-pause-a-subscription"></a><span data-ttu-id="ebb0a-102">Aboneliği askıya alma veya duraklatma</span><span class="sxs-lookup"><span data-stu-id="ebb0a-102">Suspend or pause a subscription</span></span>
 
-<span data-ttu-id="a3508-103">Aboneliğinizi geçici olarak askıya almak veya duraklatmak için, **Microsoft 365 Yönetim merkezinden**aboneliği iptal edebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="a3508-103">To suspend or pause your subscription temporarily, you can cancel the subscription from the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="ebb0a-103">Aboneliğinizi geçici olarak askıya almak veya duraklatmak için, Microsoft 365 Yönetim merkezinde aboneliği iptal edebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="ebb0a-103">To suspend or pause your subscription temporarily, you can cancel the subscription in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="a3508-104">\*\* [Ürünlerinizi](https://go.microsoft.com/fwlink/p/?linkid=842054)faturalama >\*\* gidin.</span><span class="sxs-lookup"><span data-stu-id="a3508-104">Go to **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+1. <span data-ttu-id="ebb0a-104">Yönetim **merkezinde,**  >  [Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.</span><span class="sxs-lookup"><span data-stu-id="ebb0a-104">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="ebb0a-105">**Ürünler** sekmesinde, iptal etmek istediğiniz aboneliği bulun.</span><span class="sxs-lookup"><span data-stu-id="ebb0a-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="ebb0a-106">**Diğer eylemler** 'i (üç nokta) ve ardından **aboneliği iptal et**'i seçin.</span><span class="sxs-lookup"><span data-stu-id="ebb0a-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="ebb0a-107">Abonelik durumu **devre dışı** olarak görüntülenir ve aboneliğin iptal edildiği tarihi gösterir.</span><span class="sxs-lookup"><span data-stu-id="ebb0a-107">The subscription status displays as **Disabled** and shows the date the subscription was cancelled.</span></span> <span data-ttu-id="ebb0a-108">Abonelik, 90 gün boyunca devre dışı durumda kalır ve silinip yeniden [etkinleştirilinceye](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)kadar işlevselliğin azalmasına da azalır.</span><span class="sxs-lookup"><span data-stu-id="ebb0a-108">The subscription remains in a disabled state for 90 days, and has reduced functionality until it's deleted or [reactivated](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
 
-2. <span data-ttu-id="a3508-105">İptal etmek istediğiniz aboneliği bulun ve **ayarlar & eylemler**altında **aboneliği iptal et 'e**tıklayın.</span><span class="sxs-lookup"><span data-stu-id="a3508-105">Find the subscription you want to cancel, and under **Settings & Actions**, click **Cancel subscription**.</span></span>
-
-3. <span data-ttu-id="a3508-106">Aboneliğiniz artık 90 gündür devre dışı durumda olacak ve silininceye veya yeniden [etkinleştirilinceye](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription?view=o365-worldwide)kadar azaltılmış işlevlere sahip olacaktır.</span><span class="sxs-lookup"><span data-stu-id="a3508-106">Your subscription will now appear in a disabled state for 90 days and will have reduced functionality until it's deleted or [reactivated](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription?view=o365-worldwide).</span></span>
-
-<span data-ttu-id="a3508-107">Daha fazla bilgi için, [aboneliği iptal edip](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide#what-happens-when-you-cancel-a-subscription) [verilerinizi kaydettiğinizde](https://go.microsoft.com/fwlink/p/?linkid=842054)neler olacağı konusuna bakın.</span><span class="sxs-lookup"><span data-stu-id="a3508-107">For more info, see [What happens when you cancel a subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide#what-happens-when-you-cancel-a-subscription) and [Save your data](https://go.microsoft.com/fwlink/p/?linkid=842054).</span></span>
+<span data-ttu-id="ebb0a-109">Daha fazla bilgi için, [aboneliği iptal edip](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [verilerinizi kaydettiğinizde](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)neler olacağı konusuna bakın.</span><span class="sxs-lookup"><span data-stu-id="ebb0a-109">For more info, see [What happens when you cancel a subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) and [Save your data](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).</span></span>
