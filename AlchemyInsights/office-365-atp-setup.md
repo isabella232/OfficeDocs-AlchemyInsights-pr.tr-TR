@@ -1,5 +1,5 @@
 ---
-title: Office 365 Gelişmiş tehdit koruması (ATP) kurulumu
+title: Office 365 için Microsoft Defender (ATP) kurulumu
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: c6905238c8ee209dc443bf82022108401e0370ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd04535c1b740651196c0b40015a722ef0c922d5
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662741"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801103"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>Office 365 Gelişmiş tehdit koruması (ATP)
+# <a name="microsoft-defender-for-office-365-atp"></a>Office için Microsoft Defender 365 (ATP)
 
 Office 365 ATP, [güvenli ekler](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [güvenli bağlantılar](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [Gelişmiş kimlik avı önleme](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)ve daha fazlası içerir. 
 
@@ -26,5 +26,5 @@ ATP, Office 365 Kurumsal E5, Office 365 eğitimi a5 ve Microsoft 365 Iş ekstra 
 
 ## <a name="set-up-office-365-atp"></a>Office 365 ATP 'yi ayarlama
 
-ATP korumasının geçerli olması için, ilkeleri yapılandırmalısınız. [Hızlı başlangıç kılavuzuna bakın: Office 365 Gelişmiş tehdit korumasını ayarlayın](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+ATP korumasının geçerli olması için, ilkeleri yapılandırmalısınız. [Hızlı Başlangıç Kılavuzu 'na bakın: Office 365 Için Microsoft Defender 'ı ayarlayın](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
 

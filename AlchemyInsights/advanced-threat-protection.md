@@ -1,5 +1,5 @@
 ---
-title: Office 365 Gelişmiş tehdit koruması
+title: Office için Microsoft Defender 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696641"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801247"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 Gelişmiş tehdit koruması
+# <a name="microsoft-defender-for-office-365"></a>Office için Microsoft Defender 365
 
-- Güvenli ekler, güvenli bağlantılar ve kimlik avı önleme Office 365 Gelişmiş tehdit koruması (ATP) parçasıdır. Kurumsal E5, öğrenim a5 ve Microsoft 365 Iş ekstra, ATP 'yi içerir. Tüm diğer planlar için bir eklenti ATP aboneliği gerekir.
+- Güvenli ekler, güvenli bağlantılar ve kimlik avı önleme, Office 365 (ATP) için Microsoft Defender 'ın bir parçasıdır. Kurumsal E5, öğrenim a5 ve Microsoft 365 Iş ekstra, ATP 'yi içerir. Tüm diğer planlar için bir eklenti ATP aboneliği gerekir.
 
 - Kullanıcılarınızı Office 365 ATP ile korumanız için uygun lisansları atamanız gerekir. Kullanıcılarınıza lisansları toplu olarak uygulama hakkında yönergeler için [Bu konuya](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) bakın.
 
-- Genel Yöneticiler veya güvenlik yöneticileri, **tehdit Managmeent** ilkesindeki güvenlik & Uyumluluk Merkezi 'ndeki Office 365 ATP özelliklerine erişebilirler \> **Policy**.
+- Genel Yöneticiler veya güvenlik yöneticileri, **tehdit Managmeent** ilkesindeki güvenlik & Uyumluluk Merkezi 'ndeki Office 365 ATP özelliklerine erişebilirler \> **Policy** .
 
 - Güvenli ekler ve güvenli bağlantı ilkeleri tüm kuruluşunuzu, belirli etki alanlarını veya daha küçük Kullanıcı gruplarını kapsamlıdır.
 

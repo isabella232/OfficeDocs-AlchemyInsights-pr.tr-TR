@@ -1,5 +1,5 @@
 ---
-title: Office 365 Gelişmiş tehdit korumasını satın alma
+title: Office için Microsoft Defender 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693575"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801198"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Office 365 Gelişmiş tehdit korumasını satın alma
+# <a name="purchase-microsoft-defender-for-office-365"></a>Office için Microsoft Defender 365
 
-Office 365 Gelişmiş tehdit koruması (ATP), Microsoft 365 E5, Office 365 E5, Office 365, ve Microsoft 365 Business Premium gibi belirli aboneliklere dahildir. Aboneliğiniz Office 365 ATP 'yi içermiyorsa, [ATP planı 1veya ATP plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) ' yi belirli bir abonelik eklentisi olarak satın alabilirsiniz. Microsoft 365 Yönetim merkezinde satın almak için:
+Office 365 için Microsoft Defender (ATP), Microsoft 365 E5, Office 365 E5, Office 365, ve Microsoft 365 Business Premium gibi belirli aboneliklere dahil edilmiştir. Aboneliğiniz Office 365 ATP 'yi içermiyorsa, [ATP planı 1veya ATP plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) ' yi belirli bir abonelik eklentisi olarak satın alabilirsiniz. Microsoft 365 Yönetim merkezinde satın almak için:
 
 1. **Faturalandırma**   >   [satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433)'ne gidin.
 2. **İlginizi çekebilecek diğer kategorilerden** **Eklentiler** sayfasını seçin.
