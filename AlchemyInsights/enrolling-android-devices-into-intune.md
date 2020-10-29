@@ -12,28 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784327"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791278"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>Android cihazlarını Intune 'a kaydetme
 
-Intune aşağıdaki Android aygıtlarının kaydını destekler:
-- Samsung KNOX ve Zeköşeli
-- Android kurumsal çalışma profili
-- Android kurumsal adanmış
-- Android kurumsal tam yönetimli
+Kullanıcıları Android Cihaz Yöneticisi kaydı 'ndan Android kurumsal 'a geçirmeyi düşünüyorsanız, lütfen gözden geçirin: [Android cihazlarını cihaz yöneticisinden iş profili yönetimine taşıma](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
 
-Android cihazlar için kayıt ayarlamadan önce [önkoşulları gözden geçirin] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
+Intune aşağıdaki Android aygıtlarının kaydını destekler:  
 
-Genel ve bazı Android kayıt hatalarında cihaz [kaydı sorunlarını giderme](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)hakkında bilgi için bkz.
+- [Samsung KNOX, Ze,, Cihaz Yöneticisi](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Android kurumsal çalışma profili](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Android kurumsal adanmış](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Android kurumsal tam yönetimli](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Ayrıca, kullanıcılarınızın hangi tür sorunları yaşadığını belirlemeye yardımcı olması için [Intune sorun giderme Blade 'i tanımlayan içeriği](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) de kullanabilirsiniz.
+Android cihazlar için kayıt ayarlamadan önce, [Önkoşulları Gözden geçirin](https://docs.microsoft.com/intune/enrollment/android-enroll).  
 
+Genel ve bazı Android kayıt hatalarında cihaz [kaydı sorunlarını giderme](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)hakkında bilgi için bkz.
 
-
-
-
+Ayrıca, kullanıcılarınızın hangi tür sorunları yaşadığını belirlemeye yardımcı olması için Intune sorun giderme Blade 'i tanımlayan içeriği de kullanabilirsiniz.
