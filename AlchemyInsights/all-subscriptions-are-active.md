@@ -14,15 +14,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: 4b6ce603b4c47014f8a99a479da55dca3ecc264c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfe51559421c94cda4d3aa53c9baf5265af57224
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718353"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348721"
 ---
 # <a name="all-subscriptions-are-active"></a>Tüm abonelikler etkin
 
-Abonelikleriniz etkin. Bu **,** \> [Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfanıza giderek doğrulanabilir. Abonelikleriniz, en üstte etkin abonelikler ile birlikte duruma göre sıralanır. Lisans numarası ve ödeme yöntemi gibi ek bilgiler abonelik seçilerek görülebilir.
+Abonelikleriniz etkin. Bu **,** \> [Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfanıza giderek doğrulanabilir. Abonelikleriniz **Ürünler** sekmesinde listelenir ve her aboneliğin durumu **abonelik durumu** sütununda gösterilir. Daha fazla bilgi için abonelik ayrıntıları sayfasını görüntülemek üzere bir abonelik seçin.
   
 Etkin aboneliklerinizi kaldırmayı veya hesabınızı kapatmayı arıyorsanız, [Hesabınızı nasıl kapatacağımızı](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide)görün.
