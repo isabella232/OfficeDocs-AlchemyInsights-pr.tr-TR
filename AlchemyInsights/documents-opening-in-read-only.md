@@ -1,5 +1,5 @@
 ---
-title: Belge salt okunur olarak açılıyor
+title: Belge salt okunur açılıyor
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,25 +15,25 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 5544ea676412d26b87bcf4c20637910f3a4d20c4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
-ms.translationtype: MT
+ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089017"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529002"
 ---
-# <a name="documents-opening-in-read-only"></a>Salt okunur olarak açılan belgeler
+# <a name="documents-opening-in-read-only"></a>Belgeler salt okunur açılıyor
 
-Açtığınız dosyaları salt okunur olarak bulabilirsiniz. Bazı durumlarda, bu koşul, internet 'ten dosya açarken ve başka zamanlarda bu durumun da değiştirilebilen bir ayardan kaynaklanıyor gibi ek bir güvenlik sağlar.
+Dosyaların salt okunur açıldığını fark edebilirsiniz. Bu durum bazen, örneğin internetten dosya açtığınızda, ek bir güvenlik sağlar ve diğer zamanlarda ise değiştirilebilecek bir ayardan kaynaklanıyor olabilir.
 
-- [SharePoint dosyaları salt okunur olarak açılıyor](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+- [SharePoint dosyaları salt okunur açılıyor](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
 
-Müşteri, güvenlik geliştirme mekanizması veya değiştirilmemiş bir ayar gibi ilgili nedenleri, [SharePoint dosyalarında salt okunur olarak açık olarak](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)açılan tasarım senaryolarından biri değilse, salt okunur modunda açılan belgelerin diğer yaygın çözümlerini burada bulabilirsiniz.
+Müşteri, [salt okunur olarak açılan SharePoint dosyalarında](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out) belirtilen tasarım kaynaklı senaryolar arasında güvenlik iyileştirme mekanizması veya değiştirilmemiş ayar gibi belli olası nedenlerin olmadığını düşünüyorsa, salt okunur modda açılan belgeler için diğer yaygın çözümlere göz atabilirsiniz.
 
-- Bilgisayarınızı yeniden başlatın.
+- Bilgisayarı yeniden başlatın.
 - Office güncelleştirmelerini yükleyin.
-- Makinedeki antivirüs 'i denetleyin.
-- Sitenin Internet Explorer 'da güvenilen siteler bölgesinde olduğundan emin olun.
-- Office onarımı gerçekleştirin.
-- [Office belge önbelleği](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us)'ni temizleyin.
+- Makinedeki virüsten koruma yazılımını denetleyin.
+- Sitenin Internet Explorer'da Güvenilen Siteler bölgesinde yer aldığından emin olun.
+- Office onarımını çalıştırın.
+- [Office Belge Önbelleği](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us)'ni temizleyin.
 
