@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
-ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
+ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
+ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49569187"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605729"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive PUıD uyumsuzluğu
 
-OneDrive Iş 'te bir [kimlik uyuşmazlığından](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) karşılaştınız. En kısa zamanda size yardımcı olabilmemiz için aşağıdaki adımları izleyin:
+OneDrive Iş 'te bir [kimlik uyuşmazlığından](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) karşılaştınız. En erken size yardımcı olması için aşağıdaki adımları izleyin:
 
 1. **Kişi desteği**'ni ve sonra **yeni hizmet isteği**'ni tıklatın.
 2. Başlık ve açıklamayı  **OneDrive site Kullanıcı kimliği uyuşmazlığı** olarak bırakın.
