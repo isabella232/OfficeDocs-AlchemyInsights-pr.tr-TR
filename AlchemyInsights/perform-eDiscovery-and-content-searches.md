@@ -14,25 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5ed9e19f590029267368f8d4dcce7e1a85283a26
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
+ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721466"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49668534"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Içerik aramalarını ve eBulma aramalarını gerçekleştirme
 
-Skype Kurumsal 'da e-postayı, SharePoint sitelerindeki belgeleri ve OneDrive hesabında hızlı bir şekilde bulmak için güvenlik & Uyumluluk Merkezi 'ndeki Içerik arama aracını kullanın. Microsoft ekipleri ve Microsoft 365 grupları gibi Microsoft 365 işbirliği araçları 'nda e-posta, belge ve anlık ileti konuşması aramak için Içerik arama aracını da kullanabilirsiniz.
-
-**İçerik araması gerçekleştirmek için**
+**İçerik araması gerçekleştirmek için**:
 
 1. [Güvenlik & Uyumluluk Merkezi](https://protection.office.com) 'ne gidin ve oturum açın.
 2. **> içerik araması**'nı tıklatın.
 3. Yeni arama oluşturmak için **Yeni arama** 'yı tıklatın.
-4. Anahtar sözcükler ve içerik konumları dahil olmak üzere gerekli arama koşullarını girin.  
+4. Anahtar sözcükler ve içerik konumları dahil olmak üzere gerekli arama koşullarını girin.
 5. Aramayı adlandırmak için **kaydet & kaydet** 'i tıklatın, başlatın ve sonra sonuçları önizleyin.
 
-Içerik aramaları, sonuçları verme ve verileri tutmak amacıyla eBulma durumları oluşturma hakkında ayrıntılı yönergeler için [Içerik arama](https://docs.microsoft.com/microsoft-365/compliance/content-search) ve [eBulma durumları](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)konusuna bakın.
+> [!NOTE]
+> **M365 Uyumluluk Merkezi**'Nde, **çözümler** altında **eBulma** 'ı Genişlet 'i seçin ve istediğiniz eBulma aracını seçin.
 
-Içerik arama hakkında daha fazla bilgi için, [gereksinimleri](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) gözden geçirerek ve  [kısmen dizinlenen öğeleri](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) ve diğer sonuçları aklınızda bulundurun.
+İçerik aramaları, sonuçları verme ve verileri tutmak amacıyla eBulma durumları oluşturma hakkında ayrıntılı yönergeler için [Içerik arama](https://docs.microsoft.com/microsoft-365/compliance/content-search) ve [eBulma durumları](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)konusuna bakın.
+
+**Daha fazla bilgi**:
+
+- Microsoft 365 ['de eBulma araçları](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)hakkında daha fazla bilgi için bkz.
+- EBulma aramaları ve [gereksinimleri ve sınırlamaları](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) [Için gereken izinlerden](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) eBulma aramaları gerçekleştirmek için gereken izinler, gereksinimler ve sınırlamalar hakkında bilgi edinin.
+- EBulma sorunlarını giderirken, [eBulma sorunlarını giderme](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) ve [kısmen dizinlenen öğeleri araştırma](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)konularına bakın.
