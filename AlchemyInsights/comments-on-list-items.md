@@ -12,24 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 5940d1a96324c5ca77331485a115689abe547ef7
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
+ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982554"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724174"
 ---
 # <a name="comments-on-list-items"></a>Liste öğeleri hakkında açıklamalar
 
-Kullanıcılar yakında liste öğelerine açıklama ekleyebilir ve bunları silebilir. Kullanıcılar liste öğesindeki tüm açıklamaları görüntüleyebilir ve öğeyle ilgili açıklamaları veya etkinlikleri gösteren görünümler arasında filtre uygulayabilir.
-
-**Zamanlama** :
-
-**Hedeflenen sürüm** : orta Ekim 'de dereceli olarak alınan ve PARÇAAL-Kasım tarafından tamamlanması beklenen
-
-**Standart sürüm** : PARÇAAL-Kasım ' da aşamalı toplama ve ilk Aralık ile tamamlanması bekleniyor
-
-Kuruluş **: kuruluşun** tamamı için hedeflenen sürüm
+Kullanıcılar liste öğesindeki tüm açıklamaları görüntüleyebilir ve öğeyle ilgili açıklamaları veya etkinlikleri gösteren görünümler arasında filtre uygulayabilir.
 
 Kullanıcıların açıklamaları ekleyip silebilmeleri için aşağıdakileri not etmeleri gerekir:
 
