@@ -1,5 +1,5 @@
 ---
-title: Fatura ödemesi (Çek/tel aktarımı)-eski WD
+title: Faturaya göre Öde (Çek/tel aktarımı)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726164"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755423"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Fatura ödemesi (Çek/tel aktarımı)-eski WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Faturaya göre Öde (Çek/tel aktarımı)
+
+Sorun açıklamanızı temel alarak sizin için bir çözüm bulduk. Çoğu müşteri, belgelerimizi takip ettikten sonra sorununu kendi başınıza çözümlerler.
 
 Faturaya göre öde 'ye geçerseniz, bu, faturanızı fatura tarihinin 30 günü içinde ödeyeceğiniz anlamına gelir. Azure aboneliğiniz için ödeme yapmak üzere bir Azure desteğine istek gönderin. İsteğiniz onaylandıktan sonra, [Azure portalında](https://portal.azure.com/)fatura ödemesi için aboneliği değiştirebilirsiniz.
 
@@ -39,7 +41,7 @@ Bunu yapmak için:
 2. Fatura ödemesini yapmak istediğiniz aboneliği seçin. **Ödeme yöntemlerini** seçin.
 3. Komut çubuğunda **faturaya göre öde** düğmesini tıklatın.
 
-**Önerilen belgeler**
+**Önerilen Belgeler**
 
 - [Azure Faturalandırma faturanızı ve kullanım verilerinizi isteme/Indirme/görüntüleme](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Azure faturalarını doğrudan gelen kutunuza gönderin](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)

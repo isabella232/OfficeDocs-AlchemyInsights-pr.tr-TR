@@ -1,5 +1,5 @@
 ---
-title: Yöneticileri ekleme ve yönetme-MCA FL/CL
+title: Yöneticileri ekleme ve yönetme
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692458"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755531"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Yöneticileri ekleme ve yönetme-MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Yöneticileri ekleme ve yönetme
+
+Sorun açıklamanızı temel alarak sizin için bir çözüm bulduk. Çoğu müşteri, belgelerimizi takip ettikten sonra sorununu kendi başınıza çözümlerler.
 
 Microsoft Müşteri Anlaşmasında (MCA) faturalama hesabınızı yönetmek için, istediğiniz erişim düzeyiyle farklı roller kullanabilirsiniz. Bu roller, kaynaklarınızı denetlemenize yardımcı olan yerleşik Azure hizmet rollerine ek olarak sağlanır.
 
@@ -32,7 +34,7 @@ Microsoft Müşteri Anlaşmasında (MCA) faturalama hesabınızı yönetmek içi
 5. Kullanıcıya erişim vermek için, sayfanın başından **Ekle** 'yi seçin. *Rol* açılan listesinde bir rol seçin. Erişim vermek istediğiniz kullanıcının e-posta adresini girin. Rolü atamak için **Kaydet** 'i seçin.
 6. Bir kullanıcının erişimini kaldırmak için, kaldırmak istediğiniz rol atamasını içeren kullanıcıyı seçin. **Kaldır**'ı seçin.
 
-**Önerilen belgeler**
+**Önerilen Belgeler**
 
 - [Faturalandırma rolü tanımları](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
 - [Faturalandırma hesabı rolleri ve görevleri](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)

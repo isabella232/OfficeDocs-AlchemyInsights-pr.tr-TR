@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49715032"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755639"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Azure portalında fatura öde-önerilen adımlar
+
+Sorun açıklamanızı temel alarak sizin için bir çözüm bulduk. Çoğu müşteri, belgelerimizi takip ettikten sonra sorununu kendi başınıza çözümlerler.
 
 Faturanızı Azure portalında ödemek için faturalandırma hesabı yöneticisi olmanız gerekir. Faturalandırma hesabı Yöneticisi, Microsoft müşteri anlaşması hesabı için başlangıçta kaydolan kullanıcıdır. 
 
 Faturanızı Azure portalında ödemek için: 
 
 1. [Azure portalında](https://portal.azure.com/)oturum açın.
-1. **Maliyet yönetimi + faturalamayla** arama yapın.
+1. **Maliyet Yönetimi + Faturalama**'da arama yapın.
 1. Sol bölmede, **Faturalama** altında **faturalar**'a tıklayın.
 1. Faturanızın herhangi birinin vadesi gelmiş veya vadesi gelmiş olması durumunda, bu faturaya ait mavi bir **ödeme** bağlantısı görürsünüz. **Şimdi öde**'ye tıklayın.
 1. Yeni Blade 'de, mevcut kredi kartını seçmek veya yeni bir kredi kartı eklemek için **ödeme yöntemi seçin** 'e tıklayın.
