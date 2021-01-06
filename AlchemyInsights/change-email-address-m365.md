@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 grubunun e-posta adresini değiştirme
+title: Bir Microsoft 365 grubunun veya Microsoft Teams ekibinin e-posta adresini değiştirme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: f54ca5df09d0604f6d58c6c8a41dc907485e1f04
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
-ms.translationtype: MT
+ms.openlocfilehash: ff7abaf3d8e0ed977eba5712bdd19185738fa75c
+ms.sourcegitcommit: 8be59778b7d39213a27a471802eae7fc006eb1ff
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48462060"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49756577"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group"></a>Microsoft 365 grubunun e-posta adresini değiştirme
+# <a name="change-email-address-of-a-microsoft-365-group-or-microsoft-teams"></a>Bir Microsoft 365 grubunun veya Microsoft Teams ekibinin e-posta adresini değiştirme
 
-Microsoft 365 grubunun e-posta adresini yönetim merkezini kullanarak değiştirebilirsiniz. Yalnızca grubu seçin ve @edit e-posta adresi 'ni seçin.
+[Microsoft 365 yönetim merkezi](https://admin.microsoft.com/)’ni kullanarak bir Microsoft 365 grubunun veya Microsoft Teams ekibinin e-posta adresini değiştirebilirsiniz. Grubu seçmeniz ve @e-posta adresini düzenle seçeneğini belirlemeniz yeterlidir.
 
-Ayrıca, bir Microsoft 365 grubunun birincil SMTP adresini değiştirmek için EXO PowerShell komutunu da kullanabilirsiniz:
+Ayrıca bir Microsoft 365 grubunun/Teams ekibinin birincil SMTP adresini değiştirmek için aşağıdaki EXO PowerShell komutunu kullanabilirsiniz:
 
 `Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>`
 
-Örnekteki
+Örnek: 
 
-`et-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`
+`Set-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`
