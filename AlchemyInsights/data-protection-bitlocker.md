@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731259"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768837"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Intune ile BitLocker şifrelemesini etkinleştirme
 
@@ -30,10 +30,12 @@ BitLocker sorunlarını giderme hakkında bilgi için [Microsoft Intune 'Da BitL
  
 **SSS**
 
- S: Endpoint Protection Ilkesini kullanarak Windows 'un hangi sürümleri cihaz şifrelemesini destekliyor?<br>
- A: Intune Endpoint Protection Ilkesindeki ayarlar [BITLOCKER CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)kullanılarak uygulanır. Tüm Windows sürümleri veya derlemeleri BitLocker CSP 'yi desteklemez. <br><br>
-      Şu anda, aşağıdaki Windows sürümleri desteklenir: Kurumsal, eğitim, mobil, mobil kurumsal ve profesyonel (derleme 1809 ve üstü).
- 
+S: Endpoint Protection Ilkesini kullanarak Windows 'un hangi sürümleri cihaz şifrelemesini destekliyor?<br>
+A: Intune Endpoint Protection Ilkesindeki ayarlar [BITLOCKER CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)kullanılarak uygulanır. Tüm Windows sürümleri veya derlemeleri BitLocker CSP 'yi desteklemez. <br><br>
+
+S: Son Kullanıcı etkileşimi gerekmeden cihazlarda BitLocker nasıl etkinleştirilebilir?<br>
+A: gerekli önkoşulları karşıladığı için, Intune aracılığıyla BitLocker "sessiz şifrelemeyi" etkinleştirmeniz olasıdır. Aşağıdaki belgede sessiz şifrelemeyi etkinleştirmek için cihaz gereksinimleri ve örnek ilke ayarlarının ayrıntılarına bakın: [BitLocker şifrelemesini sessizce etkinleştirin](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 S: cihaz zaten şifreleme yöntemi ve şifreleme gücü (XTS-AES-128) için işletim sistemi varsayılan ayarları kullanılarak bir cihaz şifrelenmişse, farklı ayarlarla bir ilke uygulama yeni ayarlarla otomatik olarak yeniden şifrelemeyi tetikleyecektir.<br>
 Y: Hayır. Yeni şifre ayarlarını uygulamak için önce sürücünün şifresinin çözülmesi gerekir.<br><br>
 **Not:** Autopilot 'e Kaydolmakta olan cihazlar için, Intune ilkesi değerlendirilinceye kadar OOBE sırasında oluşacak Otomatik şifreleme tetiklenemez ve bu da işletim sistemi varsayılanları yerine ilke tabanlı ayarların kullanılmasına olanak tanır.
