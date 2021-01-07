@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768837"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778213"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Intune ile BitLocker şifrelemesini etkinleştirme
 
- Windows cihazlarında BitLocker şifreleme ayarlarını yapılandırmak için Intune Endpoint Protection Ilkesi kullanılabilir. Daha fazla bilgi için, [Intune kullanarak cihazları korumada Windows 10 (ve sonraki sürümler) ayarlarına](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)bakın.
- 
+Windows cihazlarında BitLocker şifreleme ayarlarını yapılandırmak için Intune Endpoint Protection Ilkesi kullanılabilir. Daha fazla bilgi için, [Intune kullanarak cihazları korumada Windows 10 (ve sonraki sürümler) ayarlarına](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)bakın.
+
+Endpoint Protection Ilkesine ek olarak, cihazlar için şifreleme durumunun ayrıntılı görünümünü sağlayan bir şifreleme raporu da vardır. Bu rapora **cihazlar > İzleyicisi** altındaki mem portalından erişilebilir ve sonra **yapılandırma** altında [şifreleme raporu](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)seçin.
+
+BitLocker 'ın beklendiği şekilde etkinleştirilememesini veya BitLocker 'ı etkinleştirmek için kullanılan profilin bir hata durumunda olduğunu fark ederseniz, davranışın neden gerçekleştiğini daha iyi anlamak için lütfen şifreleme raporunu gözden geçirin.
+
+Raporu çeşitli şifreleme durumu değerleriyle birlikte yorumlama hakkında bilgi edinmek için [bkz.](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)
+
 Windows 10 çalıştıran yeni aygıtların, MDM ilkesi uygulaması olmadan tetiklenen otomatik BitLocker şifrelemesini desteklemediğini bilmelisiniz. Bu, varsayılan olmayan ayarlar yapılandırılırsa ilkenin uygulamasını etkileyebilir. Daha ayrıntılı bilgi için aşağıdaki SSS bölümüne bakın.
- 
+
 BitLocker sorunlarını giderme hakkında bilgi için [Microsoft Intune 'Da BitLocker Ilkelerinde sorun giderme](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)konusuna bakın.
  
  
