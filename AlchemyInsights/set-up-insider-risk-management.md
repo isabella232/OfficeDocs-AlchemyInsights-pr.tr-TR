@@ -5,39 +5,34 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 90655fea0b8a7debabdd986bf0f89244d509e8d9
+ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784567"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "49951845"
 ---
 # <a name="set-up-insider-risk-management"></a>İçeriden risk yönetimi ayarlama
 
-Kuruluşunuzdaki risk uyarıları ile ilgili hareket geçmek üzere riskli etkinlikleri ve yönetim araçlarını tanımlamak için içeriden risk yönetimi ilkelerini kullanın. İçeriden risk yönetimini kullanmaya başlamadan önce **Microsoft 365 aboneliğinizi** onaylamanız gerekir. İçeriden risk yönetimine erişmek ve bunu kullanmak için kuruluşunuzda aşağıdaki aboneliklerden biri **olmalıdır**:
+İçeriden risk yönetimine erişmek ve bunu kullanmak için kuruluşunuzda aşağıdaki aboneliklerden biri **olmalıdır**:
 
 - **Microsoft 365 E5** aboneliği.
 
-- Microsoft E5 uyumluluk etkinlentisi içeren**Microsoft 365 E3** aboneliği.
+- Microsoft E5 uyumluluk etkinlentisi içeren **Microsoft 365 E3** aboneliği.
 
 Mevcut bir **Microsoft 365 E5** planınız yoksa ve şirket içi risk yönetimini denemek istiyorsanız, mevcut aboneliğinize Microsoft 365’i ekleyebilir ya da Microsoft 365 Kurumsal E5’in deneme sürümüne Kaydolabilirsiniz.
 
-İçeriden Risk Yönetimi’ni kullanmanın temel adımları şunları içerir:
-
-1. İçeriden risk yönetimi için izinleri etkinleştirin.
-
-2. Denetim günlüğünü etkinleştirin.
-
-3. Şablon için ön koşulları yapılandırın (isteğe bağlı).
-
-4. İçeriden risk ayarlarını yapılandırın.
-
-5. İçeriden risk yönetimi ilkesi oluşturun.
+> [!İPUÇLARI]
+- > “Veri Sızıntıları” Şablonunu Kullanma: En az bir DLP ilkesini yapılandırdığınızdan emin olun.
+- > Yönetici Görmüyor Uyarıları: Kullanıcının şu gruplardan birine atandığından emin olun:
+    - >**İçeriden Risk Yönetimi Analistleri**
+    - >**İçeriden Risk Yönetimi Araştırmacıları**
 
 İçeriden risk ilkelerinin kuruluşunuzdaki riskleri yönetmede size nasıl yardımcı olabileceği hakkında daha fazla bilgi için [Microsoft 365’te içeriden risk yönetimi](https://go.microsoft.com/fwlink/?linkid=2123907) bölümüne bakın.
