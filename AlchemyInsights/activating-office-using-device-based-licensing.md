@@ -1,5 +1,5 @@
 ---
-title: Cihaz tabanlı lisans kullanarak Office 'i etkinleştirme
+title: Cihaz tabanlı lisanslama kullanarak Office'i etkinleştirme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697901"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094057"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Cihaz tabanlı lisans kullanarak Office 'i etkinleştirme
+# <a name="activating-office-using-device-based-licensing"></a>Cihaz tabanlı lisanslama kullanarak Office'i etkinleştirme
+
+Kurumsal Microsoft 365 Uygulamaları için cihaz tabanlı lisanslama, yalnızca bazı ticari müşteriler ve bazı eğitim müşterileri için lisans olarak kullanılabilir. Ayrıntılı bilgi için bkz. [Microsoft 365 Uygulamaları](https://docs.microsoft.com/deployoffice/device-based-licensing) için cihaz tabanlı lisanslama
+
+Cihaz tabanlı lisanslama kullanarak kurumsal Microsoft 365 Uygulamalarını etkinleştirmek için bkz:
+
+- [Kuruluş için Microsoft 365 Uygulamaları için cihaz tabanlı lisanslama kullanma gereksinimleri](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Kuruluş için Microsoft 365 Uygulamaları için cihaz tabanlı lisanslamayı yapılandırma adımları](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+Sorun giderme kılavuzu için [bkz. Microsoft 365](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise) Kurumsal için cihaz tabanlı lisans sorunlarını giderme
 
 > [!NOTE]
-> ABD eğitim müşterilerine yönelik Office [cihazı tabanlı etkinleştirme](https://aka.ms/officedba) artık kullanım dışıdır. Kuruluşları eğitim müşterilerine yönelik yeni Microsoft 365 uygulamaları eğitimi (cihaz) lisansı için planlama yapmak üzere teşvik ediyoruz.
-
-Office 'i cihaz tabanlı lisans kullanarak etkinleştirmek için, yalnızca eğitim müşterileri için kullanılabilir olan ve eğitim çözümleri kaydı aracılığıyla kullanılabilen eğitim için Microsoft 365 uygulamaları (cihaz) eklentisi lisansı olmalıdır. [Kurumsal Için Microsoft 365 uygulamaları için cihaz tabanlı lisans kullanma gereksinimleri](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)konusuna bakın.
-
-
-Kurulum hakkında ayrıntılı bilgi için bkz:
-
-- [Kurumsal için Microsoft 365 uygulamaları için cihaz tabanlı lisans yapılandırma adımları](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Cihazlar için lisansları yönetme](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
-
-Sorun giderme kılavuzu için, [Kurumsal Microsoft 365 uygulamaları için cihaz tabanlı lisans sorunlarını giderme](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)konusuna bakın.
+> Microsoft 365 Uygulamaları kullanıcı tabanlı abonelik lisansı veya paylaşılan bilgisayar etkinleştirmesi ile zaten yüklü ve etkinleştirildikten sonra cihaz tabanlı lisansa geçiş öncesinde cihaz lisans durumunu sıfırlamanız gerekir. Etkinleştirme durumunu sıfırlamak için bkz. Kurumsal etkinleştirme [durumu için Microsoft 365 Uygulamalarını Sıfırlama](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
