@@ -1,5 +1,5 @@
 ---
-title: Cihaz tabanlı lisans kullanarak Office 'i etkinleştirme
+title: Cihaz tabanlı lisanslama kullanarak Office'i etkinleştirme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697901"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094057"
 ---
-# <a name="activating-office-using-device-based-licensing"></a><span data-ttu-id="6a7c0-102">Cihaz tabanlı lisans kullanarak Office 'i etkinleştirme</span><span class="sxs-lookup"><span data-stu-id="6a7c0-102">Activating Office using device-based licensing</span></span>
+# <a name="activating-office-using-device-based-licensing"></a><span data-ttu-id="33dd5-102">Cihaz tabanlı lisanslama kullanarak Office'i etkinleştirme</span><span class="sxs-lookup"><span data-stu-id="33dd5-102">Activating Office using device-based licensing</span></span>
+
+<span data-ttu-id="33dd5-103">Kurumsal Microsoft 365 Uygulamaları için cihaz tabanlı lisanslama, yalnızca bazı ticari müşteriler ve bazı eğitim müşterileri için lisans olarak kullanılabilir.</span><span class="sxs-lookup"><span data-stu-id="33dd5-103">Device-based licensing for Microsoft 365 Apps for enterprise is available as a license only for some commercial customers and some education customers.</span></span> <span data-ttu-id="33dd5-104">Ayrıntılı bilgi için bkz. [Microsoft 365 Uygulamaları](https://docs.microsoft.com/deployoffice/device-based-licensing) için cihaz tabanlı lisanslama</span><span class="sxs-lookup"><span data-stu-id="33dd5-104">For detailed information, see: [Device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing)</span></span>
+
+<span data-ttu-id="33dd5-105">Cihaz tabanlı lisanslama kullanarak kurumsal Microsoft 365 Uygulamalarını etkinleştirmek için bkz:</span><span class="sxs-lookup"><span data-stu-id="33dd5-105">To activate Microsoft 365 Apps for enterprise using Device-based licensing, see:</span></span>
+
+- [<span data-ttu-id="33dd5-106">Kuruluş için Microsoft 365 Uygulamaları için cihaz tabanlı lisanslama kullanma gereksinimleri</span><span class="sxs-lookup"><span data-stu-id="33dd5-106">Requirements for using device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [<span data-ttu-id="33dd5-107">Kuruluş için Microsoft 365 Uygulamaları için cihaz tabanlı lisanslamayı yapılandırma adımları</span><span class="sxs-lookup"><span data-stu-id="33dd5-107">Steps to configure device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+<span data-ttu-id="33dd5-108">Sorun giderme kılavuzu için [bkz. Microsoft 365](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise) Kurumsal için cihaz tabanlı lisans sorunlarını giderme</span><span class="sxs-lookup"><span data-stu-id="33dd5-108">For troubleshooting guidance, see [Troubleshoot device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="6a7c0-103">ABD eğitim müşterilerine yönelik Office [cihazı tabanlı etkinleştirme](https://aka.ms/officedba) artık kullanım dışıdır.</span><span class="sxs-lookup"><span data-stu-id="6a7c0-103">Office [Device Based Activation](https://aka.ms/officedba) for U.S. education customers is now deprecated.</span></span> <span data-ttu-id="6a7c0-104">Kuruluşları eğitim müşterilerine yönelik yeni Microsoft 365 uygulamaları eğitimi (cihaz) lisansı için planlama yapmak üzere teşvik ediyoruz.</span><span class="sxs-lookup"><span data-stu-id="6a7c0-104">We encourage organizations to plan for the new Microsoft 365 Apps for Education (device) license for education customers.</span></span>
-
-<span data-ttu-id="6a7c0-105">Office 'i cihaz tabanlı lisans kullanarak etkinleştirmek için, yalnızca eğitim müşterileri için kullanılabilir olan ve eğitim çözümleri kaydı aracılığıyla kullanılabilen eğitim için Microsoft 365 uygulamaları (cihaz) eklentisi lisansı olmalıdır.</span><span class="sxs-lookup"><span data-stu-id="6a7c0-105">To activate Office using device-based licensing, you need to have the Microsoft 365 Apps for Education (device) add-on license that is available only for education customers and is available only through Enrollment for Education Solutions (EES).</span></span> <span data-ttu-id="6a7c0-106">[Kurumsal Için Microsoft 365 uygulamaları için cihaz tabanlı lisans kullanma gereksinimleri](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)konusuna bakın.</span><span class="sxs-lookup"><span data-stu-id="6a7c0-106">Please see [Requirements for using device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
-
-
-<span data-ttu-id="6a7c0-107">Kurulum hakkında ayrıntılı bilgi için bkz:</span><span class="sxs-lookup"><span data-stu-id="6a7c0-107">For detailed information on setup, see:</span></span>
-
-- [<span data-ttu-id="6a7c0-108">Kurumsal için Microsoft 365 uygulamaları için cihaz tabanlı lisans yapılandırma adımları</span><span class="sxs-lookup"><span data-stu-id="6a7c0-108">Steps to configure device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [<span data-ttu-id="6a7c0-109">Cihazlar için lisansları yönetme</span><span class="sxs-lookup"><span data-stu-id="6a7c0-109">Manage licenses for devices</span></span>](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
-
-<span data-ttu-id="6a7c0-110">Sorun giderme kılavuzu için, [Kurumsal Microsoft 365 uygulamaları için cihaz tabanlı lisans sorunlarını giderme](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)konusuna bakın.</span><span class="sxs-lookup"><span data-stu-id="6a7c0-110">For troubleshooting guidance, see [Troubleshoot device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
+> <span data-ttu-id="33dd5-109">Microsoft 365 Uygulamaları kullanıcı tabanlı abonelik lisansı veya paylaşılan bilgisayar etkinleştirmesi ile zaten yüklü ve etkinleştirildikten sonra cihaz tabanlı lisansa geçiş öncesinde cihaz lisans durumunu sıfırlamanız gerekir.</span><span class="sxs-lookup"><span data-stu-id="33dd5-109">If Microsoft 365 Apps are already installed and activated with user-based subscription licensing or shared computer activation, you will need to reset the license state on the device before it will transition over to device-based licensing.</span></span> <span data-ttu-id="33dd5-110">Etkinleştirme durumunu sıfırlamak için bkz. Kurumsal etkinleştirme [durumu için Microsoft 365 Uygulamalarını Sıfırlama](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)</span><span class="sxs-lookup"><span data-stu-id="33dd5-110">To reset the activation state, see [Reset Microsoft 365 Apps for enterprise activation state](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)</span></span>
