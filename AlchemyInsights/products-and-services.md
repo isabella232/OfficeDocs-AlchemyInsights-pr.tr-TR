@@ -8,28 +8,28 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9001669"
 - "3736"
-ms.openlocfilehash: 49f90fd3a911abaebe158e442d97f9345548ee88
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 3281144fb921fecb428d918e4f2996824b71f706
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307038"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152526"
 ---
 # <a name="your-products"></a>Ürünleriniz
 
-Kuruluşunuzun sahip olduğu abonelikleri **Billing**  >  [ürünleriniz](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasında bulabilirsiniz. Her özellik hakkında daha fazla bilgi için bağlantılar ile birlikte bu sayfanın bazı önemli noktaları şunlardır:
+Ürünlerinizi Faturalandırma sayfasında, organizasyona ait  >  [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) bulabilirsiniz. İşte bu sayfanın öne çıkanlarından bazıları ve her özellik hakkında daha fazla bilgi için bağlantılar:
 
-1. Atanan lisansların sayısını ve her abonelik için kaç lisans satın alındığını görüntüleyin.
+1. Atanan lisansların sayısını ve her abonelik için kaç lisans satın alınarak satın alındığı hakkında daha fazla makale görüntüebilirsiniz.
     > [!NOTE]
-    > Kullanımda olmayan (kullanıcıya atanmamış) lisanslar için ücretlendirilirsiniz. Kullanılmayan lisanslar için ücret alınmıyorsanız, satın alınan lisans sayısını azaltın. Abonelikten lisans ekleme veya kaldırma hakkında bilgi için, [lisansları ekleme veya küçültme](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)konusuna bakın.
-2. Her aboneliğin durumunu görüntüleyin. Aboneliği yeniden etkinleştirmeyi öğrenmek için [aboneliğinizi yeniden etkinleştirme](reactivate-your-subscription.md)konusuna bakın.
-3. Her aboneliğin yenileme veya son kullanma tarihini görüntüleyin. Aboneliği seçip **yinelenen faturalamayı Düzenle**'yi seçerek yenilemeyi yönetebilirsiniz. Yinelenen faturalamayı yönetmeyi öğrenmek için [yinelenen faturalamayı yönetme](manage-auto-renewal.md)bölümüne bakın.
-4. Her abonelik için kullanılan ödeme yöntemini görüntüleyin. Ödeme [yöntemini değiştirmeyi öğrenmek için bkz.](change-payment-method.md)
-5. [Ödeme sıklığını değiştirin](change-how-often-you-pay.md).
-6. [Aboneliği Iptal edin](https://go.microsoft.com/fwlink/?linkid=2119113).
+    > Kullanımda olmayan (kullanıcıya atanmamış) lisanslar için hala ücret tahsil edildiniz. Kullanılmamış lisanslar için ücret tahsil etmek için satın alınan lisans sayısını azaltabilirsiniz. Abonelikte lisans ekleme veya kaldırma hakkında bilgi için bkz. [Lisans ekleme veya azaltma.](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)
+2. Her aboneliğin durumunu görüntüleme. Aboneliği yeniden etkinleştirmeyi öğrenmek için bkz. [Aboneliğinizi yeniden etkinleştirme.](reactivate-your-subscription.md)
+3. Her aboneliğin yenileme veya son kullanma tarihini görüntüleme. Aboneliği ve sonra yinelenen faturalamayı düzenle'yi seçerek **yenilemeyi yönetebilirsiniz.** Yinelenen faturalamayı yönetmeyi öğrenmek için bkz. [Yinelenen faturalamayı yönetme.](manage-auto-renewal.md)
+4. Her abonelik için kullanılan ödeme yöntemini görüntüleme. Ödeme yöntemini değiştirme hakkında bilgi edinmek için bkz. [Ödeme yöntemini değiştirme.](change-payment-method.md)
+5. [Ödeme sık sıkını değiştir.](change-how-often-you-pay.md)
+6. [Aboneliği iptal edin.](https://go.microsoft.com/fwlink/?linkid=2119113)
 
-**Faturalandırma**  >  [satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfasından ek abonelikler satın alabilirsiniz.
+Fatura Satın Alma hizmetleri sayfasından **ek**  >  [abonelikler satın](https://go.microsoft.com/fwlink/p/?linkid=868433) alabilirsiniz.
