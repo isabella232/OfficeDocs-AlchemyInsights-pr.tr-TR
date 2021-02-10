@@ -2,43 +2,39 @@
 title: Ödeme seçenekleri
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce
 - "1639"
 - "9000134"
-ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: b85e96d98e9dead8609cfdc3dfb95552df550af0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: 1ddff99967b62a151711a4c978f5fe35b2a99008
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510232"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152578"
 ---
-# <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>İş abonelikleri için Microsoft 365 için ödeme seçenekleri
+# <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>İş için Microsoft 365 aboneliklerinin ödeme seçenekleri
   
-Kredi kartı, banka hesabı (otomatik ödeme) ve fatura (çek veya elektronik para transferi ile ödeme) iş abonelikleri için Microsoft 365 için tüm ödeme seçenekleridir.
+Kredi kartı, banka hesabı (talimatlı ödeme) ve fatura (çekle veya elektronik fon transferiyle (EFT) ödeme), İş için Microsoft 365’in ödeme seçenekleridir.
   
-**Kredi kartı ve banka hesabıyla ödeme**
+**Kredi kartı, banka kartı veya banka hesabıyla ödeme**
   
-Aboneliğiniz için kredi kartı veya banka hesabıyla ödeme yaptığınızda, abonelik döneminizin sonuna kadar, fatura tarihinden bir gün sonra otomatik olarak ücretlendirilirsiniz. Ödeme [yöntemlerini](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) istediğiniz zaman yönetebilirsiniz. Ayrıca dilerseniz [fatura ekstrenizin kopyasını e-posta olarak da alabilirsiniz](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
-  
-Kredi kartınız reddedildiyse veya vadesi geçmiş bir bakiyesi varsa, Ürünlerinizi **Faturalandırma** sayfasında **bakiyeyi Belirley** seçeneğini \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** seçebilirsiniz.
-  
+Aboneliğinizi kredi kartıyla, banka kartıyla veya banka hesabıyla ödeyebilirsiniz. Bu ödeme yöntemlerinden biriyle ödeme yaptığınızda, aboneliğin süresi dolana veya abonelik iptal edilene kadar ödemeleri bu ödeme yöntemiyle almaya devam ederiz. İhtiyacınız olduğunda [ödeme yöntemlerini yönetebilirsiniz](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). Ayrıca dilerseniz [fatura ekstrenizin kopyasını e-posta olarak da alabilirsiniz](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email).
+
+Kredi kartınız reddedildiyse veya gecikmiş bakiyesi varsa ve gecikmiş bakiyesi olan ödeme yöntemini siz kişisel olarak eklediyseniz, ödeme yapmak için **Bakiyeyi ödeyin** seçeneğini kullanabilirsiniz. Gecikmiş bakiyeyi öderken kullandığınız ödeme yöntemi, reddedilen ödeme yönteminin kullanıldığı tüm abonelikler için yeni ödeme yöntemi olur. Daha fazla bilgi için bkz. [Kalan bakiyem varsa ne yapmalıyım?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+
 **Faturayla ödeme (çek veya elektronik fon transferi)**
   
-Aboneliğinizin maliyeti belirli bir tutarın üzerindeyse (tutar, hizmet konumuna göre değişir), faturayı EFT veya çekle ödeme seçeneğini kullanabilirsiniz. Tutarı yüksek olan fatura ödemelerinde kredi denetimi gerekebilir. Kredi denetimi yapılması gerekiyorsa, aboneliklerinizi satın aldığınızda bu durum size bildirilir. Sizinle bağlantı kurulmasını kabul ederseniz, kredi onayına başvurma konusunda daha fazla bilgi sağlayan bir e-posta alırsınız. Kredi denetimleri genellikle iki iş günü içinde tamamlanır.
-  
-Aboneliğinizi faturayla ödüyorsanız, fatura ekstrenizin görüntülenmeye hazır olduğunu bildiren bir e-posta alırsınız. Bu e-posta fatura ekstrenizin kopyasını içermez. Ancak dilerseniz [fatura ekstrenizin kopyasını e-posta olarak almayı](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email) seçebilirsiniz. Fatura ekstreniz, ödeme yapma seçenekleriyle ilgili ayrıntıları içerir. Abonelik satın alırken bir satın alma siparişi (PO) numarası girdiyseniz, bu numara fatura ekstrenizde görünür. Fatura ekstrelerine erişim hakkında daha fazla bilgi için bkz. [Fatura ekstrenizi veya faturanızı görüntüleme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
-  
-**Ödeme yönteminizi değiştirme**
-  
-Geçerli aboneliğinizin ödeme yöntemini değiştirmek isterseniz [buradaki](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method) yönergeleri izleyin.
+Aboneliğinizin maliyeti belirli bir tutarın üzerindeyse (tutar, hizmet konumuna göre değişir), faturayı EFT veya çekle ödeme seçeneğini kullanabilirsiniz. Tutarı yüksek olan fatura ödemelerinde kredi denetimi gerekebilir. Kredi denetimi yapılması gerekiyorsa, aboneliklerinizi satın aldığınız sırada bu durum size bildirilir. Sizinle bağlantı kurulmasını kabul ederseniz, kredi onayına başvurma konusunda daha fazla bilgi sağlayan bir e-posta alırsınız. Kredi denetimleri genellikle iki iş günü içinde tamamlanır.
+
+Aboneliğinizi faturayla ödüyorsanız, fatura ekstrenizin görüntülenmeye hazır olduğunda bir e-posta alırsınız. Bu e-posta fatura ekstrenizin kopyasını içermez. Ancak dilerseniz [fatura ekstrenizin kopyasını e-postayla almayı](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email) seçebilirsiniz. Fatura ekstreniz, ödeme yapma seçeneklerinizle ilgili ayrıntıları ve ödemenin ne zaman gönderileceğini içerir. Abonelik satın alırken bir satın alma siparişi (PO) numarası girdiyseniz, bu numara fatura ekstrenizde görünür. Fatura ekstrelerine erişim hakkında daha fazla bilgi için bkz. [Fatura ekstrenizi veya faturanızı görüntüleme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
   
 **Ek bilgiler**
   
-[Microsoft 365'inizin işletme aboneliği için ödeme sini](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+[İş için Microsoft 365 aboneliğinizi ödeme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
