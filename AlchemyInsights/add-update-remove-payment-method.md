@@ -1,33 +1,34 @@
 ---
 title: Ödeme yöntemlerini ekleme, güncelleştirme veya kaldırma
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002348"
 - "4574"
-ms.openlocfilehash: 6481ee963ab08bbdaf4918142823c0c9cb561c13
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd6cf55ecc7808e80b74728a686d7d700ffc222
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708743"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152557"
 ---
 # <a name="add-update-or-remove-payment-method"></a>Ödeme yöntemlerini ekleme, güncelleştirme veya kaldırma
 
 Kredi kartıyla, banka kartıyla veya banka hesabıyla (otomatik ödeme) Microsoft’tan ürün ve hizmet satın alabilirsiniz.
 
-- Ödeme yöntemi olarak bir banka hesabı eklemek için bkz. [Ödeme yöntemi ekleme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#add-a-payment-method).
+- Ödeme yöntemi olarak bir banka hesabı eklemek için bkz. [Ödeme yöntemi ekleme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).
 
-- Banka hesabı bilgilerini güncelleştirmek için bkz. [Mevcut ödeme yöntemini güncelleştirme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#update-an-existing-payment-method).
+- Bir banka hesabındaki bilgileri güncelleştirmek için bkz. [Ödeme yöntemi ayrıntılarını güncelleştirme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
 
-- Ödeme yöntemini banka hesabı olarak veya banka hesabından başka bir yönteme değiştirmek için bkz. [Ödeme yöntemini değiştirme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#change-a-payment-method).
+- Ödeme yöntemini banka hesabı olarak değiştirmek veya banka hesabından başka bir yönteme geçmek için bkz. [Ödeme yöntemini değiştirme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).
 
-- Ödeme yöntemi olarak banka hesabını kaldırmak için bkz. [Ödeme yöntemini kaldırma](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#remove-a-payment-method). 
+- Ödeme yöntemi olarak kullanılan bir banka hesabını kaldırmak için bkz. [Ödeme yöntemini silme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).
 
-Daha fazla bilgi için [Ödeme yöntemi ekleme, güncelleştirme veya kaldırma](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) bölümüne bakın. 
+Daha fazla bilgi için bkz. [Ödeme yöntemlerini yönetme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

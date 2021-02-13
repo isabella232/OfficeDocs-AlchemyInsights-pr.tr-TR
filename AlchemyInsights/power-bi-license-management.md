@@ -12,17 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4969"
-ms.openlocfilehash: 0bfb1a174f0ebe03bab53f13d26ac7af240fe7ce
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 8e6efea39e32720a22ddb4337e7a23381cff4bb9
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307173"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231955"
 ---
 # <a name="power-bi-license-management"></a>Power BI lisans yönetimi
 
-Power BI lisans yönetimi, Microsoft 365 Yönetim merkezinde tamamlanabilir.
+Power BI lisans yönetimi Microsoft 365 yönetim merkezinde tamamlanır.
 
-- **Power BI satın almak için**: **faturalandırma** \> [satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433)'ne gidin. "Power BI" aramak için arama kutusunu kullanın, Satın almak istediğiniz kullanıcı planını ve sayısını seçin. Daha fazla bilgi için bkz [.](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365\#buy-a-different-subscription)
-- **Power BI lisanslarını atamak için**: **faturalandırma**  >  [Lisansları](https://go.microsoft.com/fwlink/p/?linkid=842264)bölümüne gidin. Daha fazla bilgi için bkz. [Lisans atama](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- **Power BI için lisans eklemek veya kaldırmak için**: **Billing**  >  [ürünlerinize](https://go.microsoft.com/fwlink/p/?linkid=842054)gidin, değiştirmek istediğiniz aboneliği bulun, **diğer seçenekler** 'i (üç nokta) seçin ve **Lisans satın al**'ı seçin. Lisansları kaldırmak için, **lisansları satın al** bölmesinin en üstünde **Lisansları kaldır**'ı seçin. Daha fazla bilgi için [iş aboneliğinizden lisans ekleme veya kaldırma](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#add-or-remove-licenses-for-your-business-subscription)konusuna bakın.
+- **Power BI satın almak için:** Fatura Satın **Alma** \> **[hizmetleri'ne gidin.](https://go.microsoft.com/fwlink/p/?linkid=868433)** "Power BI" için arama yapmak için Arama kutusunu kullanın, ardından satın almak istediğiniz planı ve kullanıcı sayısını seçin. Daha fazla bilgi için bkz. [Farklı bir abonelik satın alma.](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)
+- **Power BI lisanslarını atamak için:** Fatura **Lisansları'ne**  >  **[gidin.](https://go.microsoft.com/fwlink/p/?linkid=842264)** Daha fazla bilgi için [bkz. Kullanıcılara lisans atama.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- **Power BI lisanslarını** eklemek veya kaldırmak için: Ürünlerinizi Faturalama'ya gidin, değiştirmek istediğiniz aboneliği bulun, Diğer seçenekler'i (üç nokta) seçin ve ardından Lisans Satın  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** Al'ı **seçin.**  Lisansları kaldırmak için, Lisans satın al **bölmesinin** üst kısmında **lisansları kaldır'ı seçin.** Daha fazla bilgi için lisans [satın alma veya kaldırma](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).\
+**Bunun nasıl olduğunu** gösteren videoyu izleyin: [Yeni lisans satın alma](https://go.microsoft.com/fwlink/p/?linkid=2154857)

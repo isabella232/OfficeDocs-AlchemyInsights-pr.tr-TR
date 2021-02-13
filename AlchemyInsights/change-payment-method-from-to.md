@@ -1,30 +1,29 @@
 ---
 title: Ödeme yöntemini değiştirme
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: c3c67f067d3946e3e29e7b09e443d3c3132dd765
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933596"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152614"
 ---
 # <a name="change-payment-method-fromto"></a>Ödeme yöntemini değiştirme eski/yeni
 
 1. **Faturadan kredi kartına veya banka hesabına geçme**
 
-    - Faturayla ödemeden kredi kartıyla veya banka hesabıyla ödeme yöntemine geçtiğinizde sizin için otomatik olarak bir hesap oluşturur, kullanıcılarınızı yeni aboneliğe taşır ve eski aboneliğinizi devre dışı bırakırız. Endişelenmeyin; kullanıcılarınız hizmetle ilgili bir sorun yaşamaz ve tüm bilgilerini yeni abonelikte kullanabilir. 
-
-    - [Faturadan kredi kartına veya banka hesabına geçme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account) bölümünde belirtilen adımları izleyin.
+    - Faturayla ödeme yöntemini farklı bir ödeme yöntemiyle otomatik olarak değiştiremezsiniz. Bunun yerine, bir kredi veya banka kartı ya da banka hesabı ile ödemesi yapılan [farklı bir abonelik satın almanız](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription), [tüm kullanıcıları yeni aboneliğe taşımanız](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription) ve ardından [eski aboneliği iptal etmeniz](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) gerekir.
 
 2. **Kredi kartı veya banka hesabından faturaya geçme**
 
@@ -32,6 +31,6 @@ ms.locfileid: "43933596"
 
     - Sipariş miktarınız çok büyükse, bir kredi denetimi gerekebilir. Öyleyse, "Fatura olarak değiştirmeye uygun değil. Siparişiniz kredi denetimi gerektiriyor." iletisini görürsünüz. Bu durumda, faturayı elle ödemeye geçersiniz.
 
-    - Elle değişikliği tamamlamak için [Faturadan kredi kartına veya banka hesabına geçme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice) bölümünde belirtilen adımları izleyin.
+    - El ile değişikliği tamamlamak için [Kredi kartı ödemelerinden faturayla ödemeye nasıl geçebilirim?](how-do-i-change-from-credit-card-payments-to-invoice.md) makalesinde belirtilen adımları izleyin.
 
-Daha fazla bilgi için bkz. [Ödeme yönteminizi değiştirme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Daha fazla bilgi için [Aboneliğinizi ödeme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription) makalesine bakın.
