@@ -1,9 +1,10 @@
 ---
-title: Microsoft Bilgi Yönetimi 'ni ayarlama
+title: Microsoft bilgi idaresi ayarlama
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.audience: Admin
+ms.date: 03/02/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004220"
 - "7428"
-ms.openlocfilehash: c404e541d54094c2189c38576399b1cbe04e32e2
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "9000273"
+- "9245"
+ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679491"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448778"
 ---
-# <a name="set-up-microsoft-information-governance"></a><span data-ttu-id="681b2-102">Microsoft Bilgi Yönetimi 'ni ayarlama</span><span class="sxs-lookup"><span data-stu-id="681b2-102">Set up Microsoft information governance</span></span>
+# <a name="set-up-microsoft-information-governance"></a><span data-ttu-id="c46bf-102">Microsoft bilgi idaresi ayarlama</span><span class="sxs-lookup"><span data-stu-id="c46bf-102">Set up Microsoft information governance</span></span>
 
-<span data-ttu-id="681b2-103">[Microsoft Information idare Kurulumu Kılavuzu](https://admin.microsoft.com/AdminPortal/Home#/modernonboarding/migsetupguide) , verilerinizin ayarladığınız belirli yaşam döngüsü yönergelerine göre sınıflandırılacaklarını güvenceye almak için kuruluşunuzun idare stratejisini ayarlamanız ve yönetmeniz gereken bilgileri sağlar.</span><span class="sxs-lookup"><span data-stu-id="681b2-103">The [Microsoft Information governance setup guide](https://admin.microsoft.com/AdminPortal/Home#/modernonboarding/migsetupguide) provides you with the information you'll need to set up and manage your organization's governance strategy, to ensure that your data is classified and managed according to the specific lifecycle guidelines you set.</span></span>
+<span data-ttu-id="c46bf-103">[Microsoft Bilgi](https://go.microsoft.com/fwlink/?linkid=2146529) yönetimi kurulum kılavuzu, verilerinizin ayarmış olduğu yaşam döngüsü yönergelerine göre sınıflandırılması ve yönetilmi için, kurum yönetim stratejisini ayarlamak ve yönetmek için ihtiyacınız olacak bilgileri sağlar.</span><span class="sxs-lookup"><span data-stu-id="c46bf-103">The [Microsoft Information governance setup guide](https://go.microsoft.com/fwlink/?linkid=2146529) provides you with the information you'll need to set up and manage your organization's governance strategy, to ensure that your data is classified and managed according to the specific lifecycle guidelines you set.</span></span>
 
-<span data-ttu-id="681b2-104">Bu kılavuzla, kuruluşunuzun yeniden kullanılabilir içeriğine ve uyumluluk kayıtlarına uygulanan etiketleri, etiket ilkelerini ve bekletme ilkelerini nasıl oluşturacağınızı, otomatik olarak uygulayacağınızı veya yayımlayacağınızı öğreneceksiniz.</span><span class="sxs-lookup"><span data-stu-id="681b2-104">With this guide, you'll learn how to create, auto-apply, or publish labels, label policies, and retention policies that are applied to your organization's reusable content and compliance records.</span></span> <span data-ttu-id="681b2-105">Ayrıca, tek tek belgelere el ile bir dosya planı ile CSV dosyalarını içeri aktarma hakkında bilgi edinebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="681b2-105">You'll also get information on importing CSV files with a file plan for bulk scenarios or for applying them manually to individual documents.</span></span>
+<span data-ttu-id="c46bf-104">Bu kılavuzla, etiketleri, etiket ilkelerini ve bekletme ilkelerini oluşturma, otomatik olarak uygulama veya yayımlama hakkında bilgi edinebilirsiniz ve bu ilkeler, kuruluşun yeniden kullanılabilir içeriğine ve uyumluluk kayıtlarına uygulanır.</span><span class="sxs-lookup"><span data-stu-id="c46bf-104">With this guide, you'll learn how to create, auto-apply, or publish labels, label policies, and retention policies that are applied to your organization's reusable content and compliance records.</span></span> <span data-ttu-id="c46bf-105">Ayrıca, toplu senaryolar için bir dosya planıyla CSV dosyalarını içeri aktarma veya bunları tek tek belgelere el ile uygulama hakkında da bilgi edinebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="c46bf-105">You'll also get information on importing CSV files with a file plan for bulk scenarios or for applying them manually to individual documents.</span></span>
