@@ -1,9 +1,10 @@
 ---
-title: Microsoft Bilgi Yönetimi 'ni ayarlama
+title: Microsoft bilgi idaresi ayarlama
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.audience: Admin
+ms.date: 03/02/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004220"
 - "7428"
-ms.openlocfilehash: c404e541d54094c2189c38576399b1cbe04e32e2
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "9000273"
+- "9245"
+ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679491"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448778"
 ---
-# <a name="set-up-microsoft-information-governance"></a>Microsoft Bilgi Yönetimi 'ni ayarlama
+# <a name="set-up-microsoft-information-governance"></a>Microsoft bilgi idaresi ayarlama
 
-[Microsoft Information idare Kurulumu Kılavuzu](https://admin.microsoft.com/AdminPortal/Home#/modernonboarding/migsetupguide) , verilerinizin ayarladığınız belirli yaşam döngüsü yönergelerine göre sınıflandırılacaklarını güvenceye almak için kuruluşunuzun idare stratejisini ayarlamanız ve yönetmeniz gereken bilgileri sağlar.
+[Microsoft Bilgi](https://go.microsoft.com/fwlink/?linkid=2146529) yönetimi kurulum kılavuzu, verilerinizin ayarmış olduğu yaşam döngüsü yönergelerine göre sınıflandırılması ve yönetilmi için, kurum yönetim stratejisini ayarlamak ve yönetmek için ihtiyacınız olacak bilgileri sağlar.
 
-Bu kılavuzla, kuruluşunuzun yeniden kullanılabilir içeriğine ve uyumluluk kayıtlarına uygulanan etiketleri, etiket ilkelerini ve bekletme ilkelerini nasıl oluşturacağınızı, otomatik olarak uygulayacağınızı veya yayımlayacağınızı öğreneceksiniz. Ayrıca, tek tek belgelere el ile bir dosya planı ile CSV dosyalarını içeri aktarma hakkında bilgi edinebilirsiniz.
+Bu kılavuzla, etiketleri, etiket ilkelerini ve bekletme ilkelerini oluşturma, otomatik olarak uygulama veya yayımlama hakkında bilgi edinebilirsiniz ve bu ilkeler, kuruluşun yeniden kullanılabilir içeriğine ve uyumluluk kayıtlarına uygulanır. Ayrıca, toplu senaryolar için bir dosya planıyla CSV dosyalarını içeri aktarma veya bunları tek tek belgelere el ile uygulama hakkında da bilgi edinebilirsiniz.
