@@ -1,37 +1,36 @@
 ---
-title: Power BI satın alın
+title: Power BI'i satın alma
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "4961"
-ms.openlocfilehash: 10fde333750415d17f42d75475b16dc802fd024c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 203f9899c2c3126878abb73c24ebbc031d867a6a
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693359"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469674"
 ---
-# <a name="purchase-power-bi"></a>Power BI satın alın
+# <a name="purchase-power-bi"></a>Power BI'i satın alma
 
-Power BI, **Microsoft 365 Yönetim merkezinde**satın alınabilir.
+Power BI, **Microsoft 365 yönetim merkezinden satın alınabilir.**
 
-1. **Faturalandırma > [satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) ** sayfasına gidin.
+1. Hizmet satın **alma fatura > [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=868433)** gidin.
+2. "Power BI" için arama yapmak için Arama kutusunu kullanın.
+3. Satın almak istediğiniz Power BI planını seçin, Ayrıntılar'ı ve **ardından** Satın Al'ı **seçin.**
+4. Size gereken lisans sayısını girin ve her ay mı yoksa tüm yıl için mi ödeme yapmak istediğinize karar seçin. Şu anda lisansı olmayan herkese otomatik olarak lisans atanmasını isteyip istemediğinizi seçin. Ardından Şimdi göz **at'ı seçin.**
+5. Fiyatlandırma bilgilerini gözden geçirerek Sonraki'yi **seçin.**
+6. Ödeme bilgilerini sağla ve Ardından Sipariş **Sırala'nın Yönetici**  >  **Giriş'e Git'i seçin.**
 
-2. "Power BI" aramak için arama kutusunu kullanın.
+Kullanıcılara lisans atamak için bkz. [Kullanıcılara lisans atama.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-3. Satın almak istediğiniz Power BI planını seçin.
-
-4. Power BI kullanacak kullanıcı sayısını seçin.
-
-Kullanıcılara lisans atamak için [kullanıcılara lisans atama](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)bölümüne bakın.
-
-Daha fazla lisans satın almak veya lisansları kaldırmak için bkz. [Abonelik Lisansları Ekleme/Kaldırma](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Daha fazla lisans satın almak veya lisansları kaldırmak için bkz. İş [aboneliğiniz için Lisans satın alma veya kaldırma.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
