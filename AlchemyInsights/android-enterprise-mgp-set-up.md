@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9004634"
-- "8377"
-ms.openlocfilehash: ba5a66c5f48ba7ff2c21ed460fcaa583684b864b
-ms.sourcegitcommit: 0f1e81498c68a5d1aba76a21fdae91a141b69f89
+- "9000652"
+- "8340"
+ms.openlocfilehash: 6ac90611bbe626e7f11b817965fd2d3c7fbf98c1
+ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427960"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50508573"
 ---
 # <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>Android Kurumsal kayıt hatası: MGP ayarlama algılaması
 
-Yönetilen Google Play'in hesabınız için ayarlanmadı veya bağlantısı kesik algıladık. Bu durum, Yönetilen Google Play bağlantısının gerekli olduğu Android Kurumsal senaryolarında cihazların kaydedilene kadar başarısız olmasına neden olabilir.
+Yönetilen Google Play'in hesabınız için ayarlanmadı veya bağlantısının kesik olduğunu algıladık. Bu durum, Yönetilen Google Play bağlantısının gerekli olduğu Android Kurumsal senaryolarında cihazların kaydedilene kadar başarısız olmasına neden olabilir.
 
-MEM konsolunda Yönetilen Google Play Bağlantısı durumunu Kiracı Yönetimi > Kiracı durumu **>** Bağlayıcısı durumu altında kontrol edin ve Intune hesabınıza Yönetilen Google hesabınıza nasıl bağlanacaklarını öğrenmek için aşağıdaki belgeleri gözden geçirebilirsiniz: **[Intune](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)** hesabınıza Yönetilen Google Play hesabınıza bağlayın.
+MEM konsolunda Yönetilen Google Play Bağlantısı durumunu Kiracı Yönetimi > Kiracı durumu **>** Bağlayıcısı durumu altında kontrol edin ve Intune hesabınıza Yönetilen Google hesabınıza nasıl bağlanacaklarını öğrenmek için aşağıdaki belgeleri gözden geçirebilirsiniz: **[Intune](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)** hesabını Yönetilen Google Play hesabınıza bağlayın.
