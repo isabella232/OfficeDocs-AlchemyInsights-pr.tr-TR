@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "662"
 - "1500012"
-- commerce
-ms.openlocfilehash: dce0d832016913b057ef968926552a56419f4b62
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: d3d1a3229de8a69d9f8a48f2618b13528e7a5a93
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469754"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602348"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Ön ödemeli Microsoft 365 yenilemesi
 
@@ -29,6 +28,6 @@ ms.locfileid: "50469754"
 5. Ürün anahtarını girin ve ardından Sonraki'yi **seçin.**
     > [!NOTE]
     > Birden fazla ürün anahtarınız varsa, bunları girmek için **Başka bir ürün anahtarı ekle'yi** seçin.
-6. Sipariş ayrıntılarınızı gözden geçirin ve Ardından **Kullan'ı seçin.**
+6. Sipariş ayrıntılarınızı gözden geçirin ve Kullan'ı **seçin.**
 
 Daha fazla bilgi edinmek için bkz. Ürün anahtarı kullanılarak ödenen [aboneliğe lisans ekleme veya aboneliği uzatma.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

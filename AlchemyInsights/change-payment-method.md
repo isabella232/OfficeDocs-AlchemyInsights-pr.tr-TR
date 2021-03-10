@@ -9,23 +9,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: ca0ebe741babe1c2177bfbc072a948143d1afe9b
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152464"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601176"
 ---
 # <a name="change-payment-method"></a>Ödeme yöntemini değiştirme
 
 Ödeme yöntemini Microsoft **365 yönetim merkezinden değiştirebilirsiniz.**
   
 1. Yönetim merkezinde, Faturalar ve  >  **Ödemeler &**  >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=2018806) gidin.
-2. Değiştirii ödeme yönteminin satırına seçin. Sağ bölmede, seçilen ödeme yöntemini kullanan tüm fatura profilleri ve tek tek abonelikler listelemektedir.
+2. Değiştirmek istediğiniz ödeme yönteminin satırına seçin. Sağ bölmede, seçilen ödeme yöntemini kullanan tüm fatura profilleri ve tek tek abonelikler listelemektedir.
 3. Sağ bölmede, tüm ürünler **için Ödeme yöntemini değiştir'i seçin.**
 4. Mevcut bir ödeme yöntemini kullanmak için, açılan listeden bir ödeme yöntemi seçin ve ardından **Değiştir'i seçin.**
     > [!NOTE]

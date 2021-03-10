@@ -9,21 +9,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- commerce
 - "9001669"
 - "3736"
-ms.openlocfilehash: 3281144fb921fecb428d918e4f2996824b71f706
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: 33eef4182cce2f84275368b3cad88fa94db40e58
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152526"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602276"
 ---
 # <a name="your-products"></a>Ürünleriniz
 
 Ürünlerinizi Faturalandırma sayfasında, organizasyona ait  >  [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) bulabilirsiniz. İşte bu sayfanın öne çıkanlarından bazıları ve her özellik hakkında daha fazla bilgi için bağlantılar:
 
-1. Atanan lisansların sayısını ve her abonelik için kaç lisans satın alınarak satın alındığı hakkında daha fazla makale görüntüebilirsiniz.
+1. Atanan lisansların sayısını ve her abonelik için kaç lisans satın alındığı gibi.
     > [!NOTE]
     > Kullanımda olmayan (kullanıcıya atanmamış) lisanslar için hala ücret tahsil edildiniz. Kullanılmamış lisanslar için ücret tahsil etmek için satın alınan lisans sayısını azaltabilirsiniz. Abonelikte lisans ekleme veya kaldırma hakkında bilgi için bkz. [Lisans ekleme veya azaltma.](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)
 2. Her aboneliğin durumunu görüntüleme. Aboneliği yeniden etkinleştirmeyi öğrenmek için bkz. [Aboneliğinizi yeniden etkinleştirme.](reactivate-your-subscription.md)
