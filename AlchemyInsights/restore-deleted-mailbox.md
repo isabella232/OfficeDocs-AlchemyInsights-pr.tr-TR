@@ -15,22 +15,24 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 899eb7e171d125c509871c219f99dfd1106b858a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14d2c9b1fe6764f5cd3a5a968586a19a03b62694
+ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728091"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50641538"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Silinmiş posta kutusunu geri yükleme
 
-Kullanıcı Exchange Online lisansını kaybettiğinde, posta kutusu 30 gün boyunca korunur ve lisans yalnızca kullanıcıya yeniden atanarak kurtarılabilir.
+Kullanıcı Exchange Online lisansını kaybettiğide, posta kutusu 30 gün süreyle korunur ve kullanıcıya yeniden lisans atanarak kurtarılabilir.
   
- *Bu, yalnızca 30 gün içinde çalışacaktır.*  
-  
-1. Microsoft 365 Yönetim merkezinde, **Kullanıcılar** \> **etkin kullanıcılar** sayfasına gidin. Söz konusu kullanıcıyı seçin.
+1. Microsoft 365 yönetim merkezinde, Kullanıcılar  Etkin kullanıcılar \> **sayfasına** gidin. Söz konusu kullanıcıyı seçin.
 
-2. **Lisanslar ve uygulamalar** sekmesinde, Exchange Online lisansını atayın ve **Değişiklikleri Kaydet**'i seçin.
+2. Lisanslar **ve Uygulamalar sekmesinde,** Exchange Online lisansını atayın ve Değişiklikleri **kaydet'i seçin.**
 
-Paylaşılan bir posta kutusunu kurtarmaya çalışıyorsanız, bu, 30 gün boyunca kurtarılabilir. **Kullanıcıları** \> **silinen kullanıcılar**altında bulabilirsiniz; paylaşılan posta kutuları lisans gerektirmez. Silinmiş bir kullanıcıyı geri yüklemeniz gerektiğini fark ederseniz, lütfen [kullanıcıyı geri yükleme](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)bölümüne bakın.
+Paylaşılan posta kutusunu veya silinen bir kullanıcıyı kurtarmaya çalışıyorsanız, bu da 30 gün boyunca kurtarılabilir. Bunları Silinmiş Kullanıcılar altında **bulabilirsiniz;** \> paylaşılan posta kutuları için lisans gerekli değildir. Lütfen [bkz. Kullanıcı geri yükleme](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+
+Kullanıcının posta kutusundan e-postayı kurtarma işlemi, yöneticiler tarafından yeni Exchange Yönetim [Merkezi'ne gidip yapılabilir.](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353)
+
+Son olarak, Etkin Olmayan posta kutusunu kurtarmaya çalışıyorsanız, [buradaki yönergeleri izleyin.](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox)
   
