@@ -1,5 +1,5 @@
 ---
-title: SharePoint 'teki sınırlar ve büyük dosyalar
+title: SharePoint'te sınırlar ve büyük dosyalar
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: 568ac18e98e49524832c144164c2fef7915f73bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675786"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709198"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a><span data-ttu-id="16909-102">SharePoint Online 'a yüklenebilecek dosyalar</span><span class="sxs-lookup"><span data-stu-id="16909-102">Files that can't be uploaded to SharePoint Online</span></span>
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a><span data-ttu-id="dfaf1-102">SharePoint Online'a yüklen yüklenen dosyalar</span><span class="sxs-lookup"><span data-stu-id="dfaf1-102">Files that can't be uploaded to SharePoint Online</span></span>
 
-<span data-ttu-id="16909-103">Dosya SharePoint Online 'a yüklenemediğinde, aşağıdakileri yapın:</span><span class="sxs-lookup"><span data-stu-id="16909-103">If a file won't upload to SharePoint Online, make sure:</span></span>
+<span data-ttu-id="dfaf1-103">Dosya SharePoint Online'a yüklense bile şunların olduğundan emin olun:</span><span class="sxs-lookup"><span data-stu-id="dfaf1-103">If a file won't upload to SharePoint Online, make sure:</span></span>
   
-- <span data-ttu-id="16909-104">Boyutu 15 GB 'den az.</span><span class="sxs-lookup"><span data-stu-id="16909-104">It's less than 15 GB in size.</span></span>
+- <span data-ttu-id="dfaf1-104">Boyutu 15 GB'den küçük.</span><span class="sxs-lookup"><span data-stu-id="dfaf1-104">It's less than 15 GB in size.</span></span>
     
-- <span data-ttu-id="16909-105">Dosya adı da içinde olmak üzere yolun tamamı 400 karakterden azdır.</span><span class="sxs-lookup"><span data-stu-id="16909-105">The entire path, including the file name, is fewer than 400 characters.</span></span>
+- <span data-ttu-id="dfaf1-105">Dosya adı da dahil olmak üzere yolun tamamı 400 karakterden azdır.</span><span class="sxs-lookup"><span data-stu-id="dfaf1-105">The entire path, including the file name, is fewer than 400 characters.</span></span>
     
-- <span data-ttu-id="16909-106">Dosya adı " \* : \< \> ?</span><span class="sxs-lookup"><span data-stu-id="16909-106">The file name doesn't contain the characters " \* : \< \> ?</span></span> <span data-ttu-id="16909-107">/ \ | [geçersiz adlar](https://go.microsoft.com/fwlink/?linkid=866430)listesinde yok.</span><span class="sxs-lookup"><span data-stu-id="16909-107">/ \ | and isn't on the list of [invalid names](https://go.microsoft.com/fwlink/?linkid=866430).</span></span>
+- <span data-ttu-id="dfaf1-106">Dosya adı " \* : \< \> ?</span><span class="sxs-lookup"><span data-stu-id="dfaf1-106">The file name doesn't contain the characters " \* : \< \> ?</span></span> <span data-ttu-id="dfaf1-107">/ \ | ve geçersiz adlar listesinde [değil.](https://go.microsoft.com/fwlink/?linkid=866430)</span><span class="sxs-lookup"><span data-stu-id="dfaf1-107">/ \ | and isn't on the list of [invalid names](https://go.microsoft.com/fwlink/?linkid=866430).</span></span>
     
-<span data-ttu-id="16909-108">Dosyayı OneDrive masaüstü uygulamasını kullanarak karşıya yüklemeyi deniyorsanız, [dosya ve klasörleri eşitlediğinizde](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734) veya [OneDrive eşitleme sorunlarını düzelttikten](https://go.microsoft.com/fwlink/?linkid=866431)sonra sınırlamalar ve sınırlamalar bölümüne bakın.</span><span class="sxs-lookup"><span data-stu-id="16909-108">If you're trying to upload the file by using the OneDrive desktop app, see [Restrictions and limitations when you sync files and folders](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734) or [Fix OneDrive sync problems](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
+<span data-ttu-id="dfaf1-108">Dosyayı OneDrive masaüstü uygulamasını kullanarak karşıya yüklemeye çalışıyorsanız, dosyaları ve klasörleri eşitlerken veya OneDrive eşitleme sorunlarını düzeltirken kısıtlamalara ve [sınırlamalara bakın.](https://go.microsoft.com/fwlink/?linkid=866431) [](https://go.microsoft.com/fwlink/p/?LinkID=717734)</span><span class="sxs-lookup"><span data-stu-id="dfaf1-108">If you're trying to upload the file by using the OneDrive desktop app, see [Restrictions and limitations when you sync files and folders](https://go.microsoft.com/fwlink/p/?LinkID=717734) or [Fix OneDrive sync problems](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
   
 
