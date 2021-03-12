@@ -1,5 +1,5 @@
 ---
-title: Kaldırılacak OCM Haziran 2020
+title: OCM Haziran 2020'de kaldırlanacak
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 0b4094eadf77180c2f7d78d102a64dcafd262199
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 966a076c7b22a25a58e3513bc053c47b0eedaf4d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662777"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704842"
 ---
-# <a name="ocm-to-be-retired-june-2020"></a>Kaldırılacak OCM Haziran 2020
+# <a name="ocm-to-be-retired-june-2020"></a>OCM Haziran 2020'de kaldırlanacak
 
 
-Geçerli **30 haziran 2020**, Outlook Customer Manager eklentisi ve mobil uygulama kullanımdan kaldırılır. Verileri **Bu tarihten önce** **dışarı aktarabilirsiniz** .  
+**30 Haziran 2020'de** geçerli olmakla birlikte Outlook Customer Manager eklenti ve mobil uygulaması da kaldırılamayacak. Verileri bu **tarihten** önce **dışarı aktarabilirsiniz.**  
 
-Kuruluşunuzdaki kimlerin Microsoft 365 Iş standardına (daha önce Office 365 Business Premium olarak biliniyordu) veya Microsoft 365 Business Premium (daha önce Microsoft 365 Iş olarak bilinirdi) abonelik planının, [buraya](https://admin.microsoft.com/AdminPortal/Home?ref=/users)tıklayarak Outlook Customer Manager haklarına sahip olduğunu denetleyebilirsiniz.
+Microsoft 365 İş Standart (daha önce Office 365 İş Ekstra olarak bilinirdi) veya Outlook Customer Manager hakları olan Microsoft 365 İş Ekstra (daha önce Microsoft 365 İş) abonelik planına sahip olan kimlerin olduğunu kontrol etmek için buraya [tıklayın.](https://admin.microsoft.com/AdminPortal/Home?ref=/users)
 
 Daha fazla bilgi için bkz.:
 
 - [Outlook Customer Manager verilerinizi dışarı aktarma veya silme](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
 
-- [Outlook Customer Manager SSS](https://support.office.com/article/88e127ca-43a1-4c9d-8d52-6ad3a80f9c32)
+- [Outlook Customer Manager SSS](https://techcommunity.microsoft.com/t5/outlook-customer-manager/faq-frequently-asked-questions-about-outlook-customer-manager/m-p/29680)

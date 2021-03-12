@@ -1,5 +1,5 @@
 ---
-title: Kullanıcıların profil fotoğraflarını değiştirmelerini ekleme, kaldırma veya değiştirme
+title: Kullanıcıların profil fotoğraflarını ekleme, kaldırma veya değiştirmesini engelleme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fcd6682b2676e724ab6628b28e3b82afbbf0c8b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687814"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704770"
 ---
-# <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Kullanıcıların profil fotoğraflarını değiştirmelerini ekleme, kaldırma veya değiştirme
+# <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Kullanıcıların profil fotoğraflarını ekleme, kaldırma veya değiştirmesini engelleme
 
-- **Profil fotoğrafları ekleme:** Profil fotoğrafları [, Microsoft 365 Yönetim Merkezi, Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) veya  [Azure Active Directory Kullanıcı yönetiminde](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers)bir yönetici tarafından eklenebilir.  "Fotoğrafı değiştir" seçeneğini görmüyorsanız, bu kullanıcıya bir lisansın atandığından emin olun. Fotoğraflar, kullanıcı profilindeki bir kullanıcı tarafından herhangi bir Microsoft 365 hizmetinden, ekranın sağ üstündeki baş harfleri/fotoğrafına tıklayarak eklenebilir veya değiştirilebilir. Profil fotoğrafı ekleme hakkında daha fazla bilgi için [Microsoft 365 'e profil fotoğrafınızı ekleme](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)konusuna bakın.
+- **Profil fotoğrafları ekleme:** Profil fotoğrafları bir yönetici tarafından [Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) yönetim merkezinde, Etkin kullanıcılarda veya Azure Active Directory Kullanıcı [Yönetimi'nde eklenebilir.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers)  "Fotoğrafı değiştir" seçeneğini görmüyorsanız, bu kullanıcıya bir lisans atan olduğundan emin olun. Fotoğraflar, herhangi bir Microsoft 365 hizmetinin kullanıcı profiline, ekranın sağ üst kısmında yer alan baş harflerine / fotoğrafına tıklayarak eklenebilir veya değiştirilebilir. Profil fotoğrafı ekleme hakkında daha fazla bilgi için bkz. [Microsoft 365'e profil fotoğraflarınızı ekleme.](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
 
-- **Profil fotoğraflarını kaldırıyor:** Profil fotoğrafları, [Azure Active Directory Kullanıcı yönetiminde](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) yönetici veya Microsoft ekipleri kullanıcı profilindeki bir kullanıcı tarafından kaldırılabilir.
+- **Profil fotoğraflarını kaldırma:** Profil fotoğrafları, Azure Active [Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) Kullanıcı Yönetimi'nden bir yönetici tarafından veya Microsoft Teams kullanıcı profilinde bir kullanıcı tarafından kaldırılabilir.
 
-- **Profil fotoğraf değişikliklerini engelleme:** Microsoft [365 profil fotoğrafını değiştirmek için](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d)makale başına bir Outlook Web App Ilkesi ekleyerek Microsoft 365 * ' in tümünde fotoğraf değişiklikleri engellenebilir.
+- **Profil fotoğrafı değişikliklerini engelleme:** Microsoft 365 profil fotoğrafını değiştirmek için fotoğrafları kilitleme veya izinleri kısıtlama makale başına bir Outlook Web App ilkesi ekleyerek fotoğraf değişiklikleri tüm [Microsoft 365* için engellenmiş olabilir.](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_dep365-mso_o365b/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d)
 
-* Lütfen Microsoft ekipleri şu anda fotoğraf değişikliklerini engellemek için Outlook Web App ilkesini desteklemediğine, ancak ilk 2020 bu özellik için destek eklemeye planlandığına dikkat edin.
+*Microsoft Teams şu anda fotoğraf değişikliklerini engellemek için Outlook Web App ilkesini desteklemez, ancak 2020'nin başlarında bu özellik için destek eklemeyi planlıyor.
