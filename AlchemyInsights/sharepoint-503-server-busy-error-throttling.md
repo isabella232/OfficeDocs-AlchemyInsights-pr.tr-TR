@@ -1,8 +1,8 @@
 ---
-title: SharePoint Online azaltma
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
+title: SharePoint Online - Azaltma
+ms.author: v-smandalika
+author: v-smandalika
+ms.date: 01/05/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,20 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 21d0f8d0118d92562b425921742513157563b5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773867"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707578"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint Online azaltma
+# <a name="sharepoint-online-throttling"></a>SharePoint Online Azaltma
 
-**Önemli**: Bu benzeri görünmemiş zamanlarda, SharePoint Online ve OneDrive hizmetlerinin kullanılabilirlik düzeyinin her zaman yüksek olmasını sağlamaya yönelik adımlar atıyoruz. Daha fazla bilgi için lütfen [SharePoint Online Geçici Özellik Değişiklikleri](https://aka.ms/ODSPAdjustments) sayfasını ziyaret edin.
+SharePoint Online, SharePoint Online hizmetinin en iyi düzeyde performans ve güvenilirliğini sürdürmesi için kısıtlama kullanıyor. Kısıtlama işlemi, kaynakların aşırı kullanımını önlemek için kullanıcı eylemi veya eşzamanlı çağrı (betik veya kod ile) sayısını sınırlar. 
 
-**503 sunucusu meşgul**
+Azaltma hakkında daha fazla bilgi için bkz. [SharePoint Online'da](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)kısıtlanıyor veya engellenmiş olarak önleme.
 
-Kullanıcılar, SharePoint veya OneDrive sitelerine gitmeye çalışırken bir 503 sunucusu alabilir. 
+Bu hatanın azaltmayla ilgili olduğunu inanıyorsanız, İleti merkezine giderek kiracınız üzerinde etkin bakım olup [denetlemeniz gerekir.](https://portal.office.com/adminportal/home#/MessageCenter)
 
-Bu hata, SharePoint hizmeti içinde azaltma nedeniyle oluşabilir. SharePoint Online, SharePoint Online hizmetinin en iyi düzeyde performans ve güvenilirliğini sürdürmesi için kısıtlama kullanıyor. Kısıtlama işlemi, kaynakların aşırı kullanımını önlemek için kullanıcı eylemi veya eşzamanlı çağrı (betik veya kod ile) sayısını sınırlar. 
-
-Azaltma ile ilgili daha fazla bilgi için, [SharePoint Online 'da azaltma veya engellenmekten kaçının](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
-
-Bu hatanın azaltma konusunda ilgisiz olduğunu düşünüyorsanız, [ileti merkezine](https://portal.office.com/adminportal/home#/MessageCenter)giderek kiracınızda etkin bakım olup olmadığını denetleyebilirsiniz.
-
- Son olarak, oluşabilecek Danışma belgelerini/olaylarını denetlemek için [hizmet durumu](https://portal.office.com/adminportal/home#/servicehealth) sayfasını ziyaret ettiğinizden emin olun.
+ Son olarak, oluşan tüm [tavsiyeleri/olayları](https://portal.office.com/adminportal/home#/servicehealth) kontrol etmek için Hizmet Durumu sayfasını ziyaret edin.
 

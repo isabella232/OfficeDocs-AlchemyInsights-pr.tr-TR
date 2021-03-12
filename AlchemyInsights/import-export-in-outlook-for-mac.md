@@ -1,5 +1,5 @@
 ---
-title: İçeri aktarma-Mac için Outlook-in-Office
+title: import-export-in-outlook-for-mac
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,27 +14,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 7ce37e2ea3efbc762d5298311eac6054d238224c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667934"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708118"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Mac için Outlook 'ta içeri/dışarı aktarma 
+# <a name="importexport-in-outlook-for-mac"></a>Mac için Outlook'ta İçeri/Dışarı Aktarma 
 
-Dışarı aktarma
-1. **Araçlar** sekmesinde **dışarı aktar**'ı seçin.
-2. **Farklı kaydet** kutusunda, **Sık Kullanılanlar**'ın altında **indirmeler** klasörünü seçin ve **Kaydet**'i seçin.
-3. Dışarı aktarma işleminin tamamlandığını belirten bildirimi gördüğünüzde **, tamamlandı 'yı seçin.**
+Dışarı Aktar:
+1. Araçlar sekmesinde **Dışarı** Aktar'ı **seçin.**
+2. Farklı kaydet **kutusunda,** Sık **Kullanılanlar'ın** altında İndirilenler **klasörünü** seçin ve Kaydet'i **seçin.**
+3. Dışarı aktarma işleminin tamamlandı bildirimini gördüğünüzde Son'a **seçin.**
 
-Aktarılacağı
-1. **Araçlar** sekmesinde **içeri aktar**'ı seçin.
-2. **Windows için Outlook arşiv dosyasını (. pst)** seçin  >  **Continue**.
-3. Mac 'inizde. pst dosyasını bulun ve **Içeri aktar**'ı seçin.
-4. İçeri aktarma işlemi tamamlandığında **bitti**'yi seçin.
-5. Alınan öğeler **, bilgisayarımdaki gezinti bölmesinde görüntülenir.**
+İçeri aktar:
+1. Araçlar sekmesinde **İçeri** Aktar'ı **seçin.**
+2. **Windows için Outlook arşiv dosyası (.pst) Devam'ı**  >  **seçin.**
+3. Mac'inizin .pst dosyasını bulun ve İçeri Aktar'ı **seçin.**
+4. İçeri aktarma işlemi tamamlandığında Son'a **seçin.**
+5. Alınan öğeler gezinti bölmesinde Bilgisayarımda'nın **altında görüntülenir.**
 
-Mac için Outlook 'Ta tam Içeri ve dışarı aktarma yönergeleri için [Outlook e-postasını, kişilerini ve takvimini içeri ve dışarı](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)aktarma konusuna bakın. 
+Mac için Outlook'ta tam İçeri ve Dışarı Aktarma yönergeleri için bkz. Outlook e-postası, kişileri ve [takvimi içeri ve dışarı aktarma.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac) 
 
-Mac için Outlook 'un uygulama içi desteği almak üzere, Outlook 'u açın ve **Help**  >  **Destek hizmetlerine**yardım et 'i seçin. Sorunuzu ve Mac için Outlook destek ekibinin bir üyesini yazın. [Mac için Outlook 'ta desteğe başvurma](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Mac için Outlook ile ilgili sorunlar için uygulama içinde destek almak için Outlook'u açın ve De destekle İlgili  >  **Yardım'ı seçin.** Sorunlarınızı yazın; Mac için Outlook destek ekibinin bir üyesi size dokunur. [Mac için Outlook'ta de destek ile iletişime geçin](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)
