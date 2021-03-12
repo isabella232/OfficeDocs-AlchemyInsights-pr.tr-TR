@@ -1,5 +1,5 @@
 ---
-title: Uyglları portalı sorunları
+title: MyApps portal sorunları
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,54 +13,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
-ms.translationtype: MT
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917219"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708586"
 ---
-# <a name="myapps-portal-issues"></a>Uyglları portalı sorunları
+# <a name="myapps-portal-issues"></a>MyApps portal sorunları
 
-Uygulamalar portalında oturum açarken veya uygulamalarım portalında karşılaştığınız sorunları gidermek için, [Apps portalında sorun giderme](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)konusuna bakın.
+Uygulamalarım portalında oturum a açma veya kullanma ile ilgili sorunları gidermek için Bkz. Uygulamalarım portalıyla ilgili [sorunları giderme.](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
-**Uygulama erişimi panelinde beklediğim uygulamaları göremiyorum**
+**Uygulama erişim panelinde beklemem gereken uygulamaları göremiyorum**
 
-Hangi uygulamaların uygulama erişimi panelinde görünmediğini öğrenmek hakkında rehberlik için bkz:
+Beklediğiniz uygulamaların uygulama erişim panelinde neden görünmey olduğunu bulma konusunda yol gösterici bilgi için bkz:
 
-- [Access bölmesinde neden atandığım bir uygulamanın görünçalışmadığını bilmiyorum](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [Atadığı uygulamanın erişim panelinde neden görüne olmadığını bilmiyorum](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [Bir uygulamanın Access bölmesinde neden göründüini bilmiyorum](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [Erişim panelinde bir uygulamanın neden görüntüde olduğunu bilmiyorum](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Uygulama erişimi panelinde oturum açarken sorun yaşıyorum**
+**Uygulama erişim panelinde oturum a açmada sorunm var**
 
-Uygulama erişimi panelinde oturum açarken karşılaşılan sorunları gidermek için bkz:
+Uygulama erişim panelinde oturum açmayla ilgili sorunları gidermek için bkz:
 
-[Access paneli web sitesinde oturum açamıyorum](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+[Erişim paneli web sitesinde oturum açamaz](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Uygulama erişim bölmesi tarayıcı uzantısını kullanırken sorunlarla karşılaşıyorum**
+**Uygulama erişim paneli tarayıcı uzantısını kullanırken sorunm var**
 
-Uygulama erişimi panosu tarayıcı uzantısının kullanımıyla ilgili sorunları gidermek için bkz:
+Uygulama erişim paneli tarayıcı uzantısının kullanımıyla ilgili sorunları gidermek için bkz:
 
-[Uygulama erişim bölmesi tarayıcı uzantısını yüklerken bir hata görüyorum](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
+[Uygulama erişim paneli tarayıcı uzantısını yüklerken bir hatayla karşılaştım](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
 
-**Uygulama erişimi panelindeki bir özellikle ilgili sorunlar yaşıyorum**
+**Uygulama erişim panelindeki bir özellikle ilgili sorunlar var**
 
-Uygulama erişimi panelindeki belirli bir özellikle ilgili sorunları gidermek için bkz:
+Uygulama erişim panelinde belirli bir özellikle ilgili sorunları gidermek için bkz:
 
-- [Self Servis uygulama erişimini nasıl kullanacağınızı bilmiyorum](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
+- [Self servis uygulama erişimini kullanmayı bilmiyorum](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
 
-- [Self Servis uygulama erişimini kullanırken bir sorunla karşılaşıyorum](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
+- [Self servis uygulama erişimini kullanırken bir sorunla karşılaştım](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
     
-**My Apps Portal 'ı dağıtırken veya kullanırken sorun yaşıyorsanız**
+**Uygulamalarım portalını dağıtma veya kullanmada sorun mu var?**
 
-Uygps portalını dağıtırken veya kullanırken karşılaştığınız sorunları gidermek için bkz:
+Uygulamalarım portalını dağıtırken veya kullanırken karşılaşılan sorunları gidermek için bkz:
 
-- [Uygulamalarım portalında koleksiyonlar oluşturma](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
+- [Uygulamalarım portalında koleksiyon oluşturma](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
     
-- [Self servis uygulaması atamasını yapılandırma](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
+- [Self servis uygulama atamayı yapılandırma](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
      
-- [Uygulamalarım portalında Son Kullanıcı sorunlarını giderme](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+- [Uygulamalarım portalında son kullanıcı sorunlarını giderme](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
 
 

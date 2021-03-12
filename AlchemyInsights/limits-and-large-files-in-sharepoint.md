@@ -1,5 +1,5 @@
 ---
-title: SharePoint 'teki sınırlar ve büyük dosyalar
+title: SharePoint'te sınırlar ve büyük dosyalar
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: 568ac18e98e49524832c144164c2fef7915f73bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675786"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709198"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>SharePoint Online 'a yüklenebilecek dosyalar
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>SharePoint Online'a yüklen yüklenen dosyalar
 
-Dosya SharePoint Online 'a yüklenemediğinde, aşağıdakileri yapın:
+Dosya SharePoint Online'a yüklense bile şunların olduğundan emin olun:
   
-- Boyutu 15 GB 'den az.
+- Boyutu 15 GB'den küçük.
     
-- Dosya adı da içinde olmak üzere yolun tamamı 400 karakterden azdır.
+- Dosya adı da dahil olmak üzere yolun tamamı 400 karakterden azdır.
     
-- Dosya adı " \* : \< \> ? / \ | [geçersiz adlar](https://go.microsoft.com/fwlink/?linkid=866430)listesinde yok.
+- Dosya adı " \* : \< \> ? / \ | ve geçersiz adlar listesinde [değil.](https://go.microsoft.com/fwlink/?linkid=866430)
     
-Dosyayı OneDrive masaüstü uygulamasını kullanarak karşıya yüklemeyi deniyorsanız, [dosya ve klasörleri eşitlediğinizde](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734) veya [OneDrive eşitleme sorunlarını düzelttikten](https://go.microsoft.com/fwlink/?linkid=866431)sonra sınırlamalar ve sınırlamalar bölümüne bakın.
+Dosyayı OneDrive masaüstü uygulamasını kullanarak karşıya yüklemeye çalışıyorsanız, dosyaları ve klasörleri eşitlerken veya OneDrive eşitleme sorunlarını düzeltirken kısıtlamalara ve [sınırlamalara bakın.](https://go.microsoft.com/fwlink/?linkid=866431) [](https://go.microsoft.com/fwlink/p/?LinkID=717734)
   
 
