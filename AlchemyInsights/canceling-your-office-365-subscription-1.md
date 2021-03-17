@@ -1,10 +1,10 @@
 ---
-title: Microsoft 365 aboneliğiniz iptal ediliyor mu?
+title: Microsoft 365 aboneliğinizi iptal mi ediyorsunuz?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.date: ''
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 3d044424282eb03bc1a9469dafac0d9daf365171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757248"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837438"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Microsoft 365 aboneliğiniz iptal ediliyor mu?
+# <a name="canceling-your-microsoft-365-subscription"></a>Microsoft 365 aboneliğinizi iptal mi ediyorsunuz?
 
-Gittiğiniz için Üzgünüz ancak aboneliğinizi iptal etmek için seçenekleriniz şunlardır:
-  
-- **Kuruluş verilerinize bağlı olarak, geçerli aboneliklerinizin deneme abonelikleri olduğunu düşünüyoruz. Deneme abonelikleri ödeme gerektirmediğinden ve deneme süresi sona erdikten sonra herhangi bir yükümlülüğünüz olmadığından, deneme aboneliğini açıkça iptal etmeniz gerekmez.**
+Ne üzgünüz, aboneliğinizi iptal etme adımları:
 
-- Aboneliği iptal etme veya adım adım yönergeler için şu makaleye bakın: [aboneliğinizi Iptal etme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+1. Yönetim merkezinde Ürünlerinizi Faturala **sayfasına**  >  **[gidin](https://go.microsoft.com/fwlink/p/?linkid=842054)** ve  Ürünler sekmesini seçin.
+2. İptal etmek istediğiniz aboneliği bulun. Diğer **eylemler'i** (üç nokta) ve ardından Aboneliği iptal **et'i seçin.**
+3. Aboneliği **iptal etme** bölmesinde iptal etme nedenini seçin. İsteğe bağlı olarak, herhangi bir geri bildirim gönderin.
+4. **Kaydet**'i seçin.
+
+Aboneliği veya seçenekleri iptal etme hakkında daha fazla bilgi edinmek için bkz. [Aboneliğinizi iptal etme.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

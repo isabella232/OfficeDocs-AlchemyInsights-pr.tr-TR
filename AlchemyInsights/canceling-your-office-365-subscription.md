@@ -1,9 +1,9 @@
 ---
-title: Aboneliğinizi iptal etme
+title: Aboneliğiniz iptal mi ediyor?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 443623b83e220d4016448809770609110294d72f
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+- commerce
+ms.openlocfilehash: e69a91cda5f5df07a7ee429dce7145af366be464
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348685"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837402"
 ---
-# <a name="canceling-your-subscription"></a>Aboneliğinizi iptal etme
+# <a name="canceling-your-subscription"></a>Aboneliğiniz iptal mi ediyor?
 
-Gittiğiniz için Üzgünüz, ancak aboneliğinizi iptal etmek istiyorsanız, seçenekleriniz şunlardır:
+Üzgünüz, ancak aboneliğinizi iptal etmek için seçenekleriniz şunlardır:
   
-- Deneme müşterisiyseniz iptal edilecek birşey yok. Bir ödeme yöntemi belirtmediğiniz sürece deneme aboneliklerinin süresi otomatik olarak dolar.
-- 25 ' ten az atanmış lisansınız varsa, aboneliğinizi çevrimiçi iptal edebilirsiniz. **Billing** \> [Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfanıza gidin ve iptal etmek istediğiniz aboneliği bulun. **Diğer eylemler** 'i (üç nokta) ve ardından **aboneliği iptal et**'i seçin.
-- Kullanıcılara atanmış 25 ' ten fazla lisansınız varsa [aboneliğinizi iptal etmek için desteği arayın](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
+- 25'ten az atanmış lisansınız varsa, aboneliğinizi çevrimiçi olarak iptal edebilirsiniz. Ürünlerinizi  \> **[Faturala sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054)** gidin ve iptal etmek istediğiniz aboneliği bulun. Diğer **eylemler'i** (üç nokta) ve sonra aboneliği iptal **et'i seçin.**
+- Kullanıcılara atanmış 25'den fazla lisansınız varsa, [aboneliğinizi iptal etmek için desteği arayın.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
   
-**Geri ödeme: bir sonraki faturalama döngüsündeki eşit dağıtılmış kontör size iade edilecektir.**
+**Para iadesi: Herhangi bir prorated kredi bir sonraki fatura döngüsü içinde size iade edilir.**
 
 > [!NOTE]
-> İptal et seçeneğini göremiyorsanız, Ayrıntılar sayfasını görüntülemek için aboneliği seçin. **Abonelik ve ödeme ayarları** bölümünde **aboneliği iptal et**'i seçin.
+> İptal etme seçeneğini görmüyorsanız, ayrıntılar sayfasını görüntülemek için aboneliği seçin. Abonelik ve **ödeme ayarları bölümünde Aboneliği** iptal **et'i seçin.**
 
-Daha fazla bilgi edinmek için [aboneliğinizi iptal](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)edin.
+Daha fazla bilgi edinmek için bkz. [Aboneliğinizi iptal etme.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
