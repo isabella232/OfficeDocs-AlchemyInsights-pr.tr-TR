@@ -3,7 +3,7 @@ title: Birlikte yönetim
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681280"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896815"
 ---
 # <a name="co-management"></a>Birlikte yönetim
 
-**Manager 'dan Intune 'a geçiş önkoşulları**
+**Config Manager Karma'dan Intune'a geçişin önkoşulları**
 
-- [Bu makaleyi](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa)inceleyin.
-- [Kullanıcılarınıza bir Intune lisansı ekleyin](https://docs.microsoft.com/intune/licenses-assign).
-- Yardımcı yönetimi yapılandırırken [Edge tarayıcısını](https://www.microsoft.com/windows/microsoft-edge) kullanın.
+- Bu [makaleyi gözden geçirin.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Kullanıcılarınıza Intune lisansı ekleyin.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- Birlikte yönetim [yapılandıran Edge](https://www.microsoft.com/edge) tarayıcısını kullanın.
 
-**Intune tarafından yönetilen cihazlarda Yapılandırma Yöneticisi istemcisi nasıl yüklenir?**
+Burada, yollu, adım adım bir Ortak yönetim kurulum deneyimi [bulunabilir.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-[INTUNE MDM ile yönetilen Windows cihazlarına](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)bakın.
+**Intune tarafından yönetilen cihazlara Config Manager istemcisini yükleme**
 
-**MDM yetkilisini değiştirmek istiyorsam ne yapmalıyım?**
+[Intune MDM tarafından yönetilen Windows cihazlarına bakın.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-Bir destek durumu açılmadan MDM yetkilisi değiştirilebilir. MDM yetkilinizi değiştirmeye yardımcı olmak için lütfen aşağıdaki belgeleri gözden geçirin:
+**Yalnızca MDM yetkilisini değiştirmek istediğimde ne olacak?**
 
-- [MDM yetkilisini Configuration Manager 'dan Intune tek başına 'ya değiştirme](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [MDM yetkilisini Intune 'dan tek başına yapılandırma Manager 'a değiştirme](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+MDM Yetkili bir destek durumu açılmadan değiştirilebilir. MDM yetkilinizi değiştirme konusunda yardımcı olmak için lütfen aşağıdaki belgeleri gözden geçirin:
+
+- [MDM Yetkilisini Yapılandırma Yöneticisi'den Intune tek başına olarak değiştirme](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [MDM yetkilisini Intune tek başına yetkilisini Yapılandırma Yöneticisi olarak değiştirme](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

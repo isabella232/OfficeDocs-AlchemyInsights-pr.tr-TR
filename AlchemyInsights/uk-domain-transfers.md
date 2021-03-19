@@ -1,5 +1,5 @@
 ---
-title: . İngiltere etki alanı aktarımları
+title: .uk etki alanı aktarımları
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 42fa6189bc41c573fcb06fb41c9c6c4af82a0c8f
-ms.sourcegitcommit: 9604f7cec8bf18ae2d7e5915cab4671a3a04d316
+ms.openlocfilehash: 9b08d72834c1bbfd46e9724ecf9c564325493ba5
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598824"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896671"
 ---
-# <a name="uk-domain-transfers"></a>. İngiltere etki alanı aktarımları
+# <a name="uk-domain-transfers"></a>.uk etki alanı aktarımları
 
-Microsoft desteğine başvurun ve etki alanınızı yönetmek istediğiniz kayıt kaydedicisiyle eşleşmesi için bir **IP etiketi değişikliği** isteyin. Etiket değiştiğinde, etki alanı hemen yeni kayıt alanına aktarır. Ardından aktarımı tamamlamak için yeni kayıt ile çalışmanız, büyük olasılıkla aktarım ücretleri ödemek ve yeni kayıt alanınızla hesabınıza aktarılan etki alanını hesabınıza eklemek gerekir.
+Microsoft Desteği'ne başvurun ve **ileriye doğru** etki alanını yönetmek istediğiniz kayıt şirketiyle eşleşmesi için IPS Etiketi değişikliği isteğinde bulundurabilirsiniz. Etiket değişirse, etki alanı hemen yeni kayıt şirketine aktarılmaktadır. Aktarım işlemini tamamlamak için büyük olasılıkla aktarım ücretlerini ödemeniz ve aktarılan etki alanını yeni kayıt şirketiyle hesabınıza eklemek için yeni kayıt şirketiyle birlikte çalışmanız gerekir.
 
-Etki alanı aktarımları hakkında daha fazla bilgi için [Microsoft 'tan başka bir konağa etki alanı aktarma](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)konusuna bakın.
+Etki alanı aktarımları hakkında daha fazla bilgi için bkz. Microsoft'tan başka bir [ana bilgisayara etki alanı aktarma.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+
+Yeni kayıt şirketine ait IPS etiketini sağlamak için hazır https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ olun.
