@@ -1,29 +1,31 @@
 ---
-title: Onboarding makineleri ile ilgili sorunlar
+title: Uç Noktalar için Microsoft Defender'a yerleştirme makineleri ile ilgili sorunlar
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: 19b516dc21472e2c80a8b9046f802b329d15e4d6
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
-ms.translationtype: MT
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141838"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901587"
 ---
-# <a name="issues-with-onboarding-machines"></a>Onboarding makineleri ile ilgili sorunlar
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Uç Noktalar için Microsoft Defender'a yerleştirme makineleri ile ilgili sorunlar
 
-MDATP hizmetine onboarding makineleri ile ilgili sorunlar olabilir. Son kullanıcı makinesine erişebiliyorsanız, aşağıdaki adımları izleyin:
+Makinelerin MDE hizmetine alınmasıyla ilgili sorunlarınız olabilir. Son kullanıcı makinesine erişebiliyorsanız, şu adımları izleyin:
 
-1. [İstemci Bağlantı Çözümleyicisi](https://aka.ms/mdatpanalyzer) tanı aracını indirin.
-2. Ayıklayın ve MDATPAnalyzer.cmd çalıştırın.
-3. Analyzer aracının indirildiği klasör olan MDATPClientAnalyzerResult adlı klasördeki tanılama günlüğünü bulun.
-4. Bağlantı veya internet proxy ayarları sorunlarını bulmak için günlük dosyasını MDATPClientAnalyzer.txt gözden geçirin.
+1. [MDE Client Analyzer](https://aka.ms/betamdeanalyzer) tanılama aracının en son önizleme sürümünü indirin.
+2. **MDEClientAnalyzer.cmd**'ye sağ tıklayın ve "Yönetici olarak çalıştır" ı seçin.
+3. **MDEClientAnalyzer.htm**'de önerilen herhangi bir kılavuza uyun.
+4. Daha ayrıntılı günlükler için, **MDEClientAnalyzerResult** adlı oluşturulan alt klasörü inceleyin.
+5. Ek yönlendirme gerekiyorsa, [Uç Nokta desteği için Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support)'a başvurun ve analiz için elde edilen MDEClientAnalyzerResult.zip dosyasını sağlayın.
