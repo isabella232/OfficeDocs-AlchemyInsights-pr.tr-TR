@@ -2,7 +2,7 @@
 title: Office'i yükleme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,19 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 7f61ff7eb02371790ecb335841244eddb2bcbb2e
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: d2e11c59f3b47095e272a5c27446e584ed90c879
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707758"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200657"
 ---
 # <a name="how-to-install-office"></a>Office'i yükleme
 
-Office istemci uygulamalarını yüklemek için Microsoft 365 İş Ekstra Standart, İş için Microsoft 365 Uygulamaları veya Office 365 Eğitim gibi bir iş aboneliğiniz olduğundan emin olun.
+Office istemci uygulamalarını yüklemek için Microsoft 365 İş Standart, İş için Microsoft 365 Uygulamaları veya Office 365 Eğitim gibi bir iş aboneliğiniz olduğundan emin olun.
   
-*NOT: [Office Ev ve İş](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) bir [Ev için Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) ürünüdür ve iş aboneliğinin parçası değildir. Visio veya Project ile ilgili özel yönergeler için bkz. [Visio'yu Yükleme](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) veya [Project'i Yükleme](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
+> [!NOTE]
+> [Office Ev ve İş](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) bir [Office Ev](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia) ürünüdür ve bir iş aboneliğinin parçası değildir. Visio veya Project ile ilgili özel yönergeler için bkz. [Visio’yu Yükleme](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA) veya [Project’i Yükleme](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA).
 
 Kullanıcı hesaplarını oluşturun ve etki alanınızı ekleyin. Kullanıcıya [lisans atanmış](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) olduğundan emin olun.
 
