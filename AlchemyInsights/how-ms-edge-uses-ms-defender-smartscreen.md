@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge Microsoft Defender SmartScreen 'i nasıl kullanır?
+title: Microsoft Edge, Microsoft Defender SmartScreen'i nasıl kullanır?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003847"
 - "6897"
-ms.openlocfilehash: 2a08bd507c77e9735028b30f7bf7bc8f8f018cad
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8331"
+- "9004625"
+ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583722"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398641"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Microsoft Edge 'in Microsoft Defender SmartScreen 'i nasıl kullandığı
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Microsoft Edge, Microsoft Defender SmartScreen'i nasıl kullanır?
 
-Web üzerinde güvenli kalmasını sağlamak için Microsoft Edge, kimlik avı saldırılarını sürdürmek ve odaklanmış saldırılara karşı kötü amaçlı yazılım dağıtmak
+Web'de güvende olmak için Microsoft Edge, kimlik avı saldırılarını işleyen ve odaklanmış saldırılar aracılığıyla kötü amaçlı yazılımları dağıtan web sitelerine karşı Microsoft Defender SmartScreen'i erken uyarı sistemi olarak kullanır.
 
-Yöneticiler, Grup Ilkesi, Microsoft Intune veya mobil cihaz yönetimi (MDM) ayarlarını kullanarak Microsoft Defender SmartScreen 'i yapılandırabilir. Microsoft Defender SmartScreen 'i nasıl ayarladıklarını temel alarak, kullanıcılara bir uyarı sayfası gösterip siteye devam edebilir ya da siteyi tamamen engelleyebilirsiniz.
+Yöneticiler Grup İlkesi, Microsoft Intune veya mobil cihaz yönetimi (MDM) ayarlarını kullanarak Microsoft Defender SmartScreen'i yapılandırabilirsiniz. Microsoft Defender SmartScreen'i nasıl ayarlamış olduğunu temel alarak, kullanıcılara bir uyarı sayfası gösterebilir ve siteyi devamlarına veya siteyi tamamen engellemelerine izin veebilirsiniz.
 
-Daha fazla bilgi edinmek için Microsoft Defender SmartScreen ve [Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2132839) [için Microsoft Edge desteği](https://go.microsoft.com/fwlink/?linkid=2133081) konusuna bakın.
+Daha fazla bilgi edinmek için [Microsoft Defender SmartScreen ve Microsoft Defender](https://go.microsoft.com/fwlink/?linkid=2133081) Application Guard için Microsoft Edge [desteğine bakın.](https://go.microsoft.com/fwlink/?linkid=2132839)

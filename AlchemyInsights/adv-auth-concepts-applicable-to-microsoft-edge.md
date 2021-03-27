@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge için geçerli olan gelişmiş kimlik doğrulama kavramları
+title: Microsoft Edge için uygun gelişmiş kimlik doğrulama kavramları
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,27 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "9003931"
 - "6986"
-ms.openlocfilehash: 241d594fac6664dd1e85fd60e30a6344c432555e
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8329"
+- "9004625"
+ms.openlocfilehash: d469973c4f8605b00d32f6f625eb5fdd17e8f390
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573780"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398605"
 ---
-# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Microsoft Edge için geçerli olan gelişmiş kimlik doğrulama kavramları
+# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Microsoft Edge için uygun gelişmiş kimlik doğrulama kavramları
 
-Microsoft Edge için geçerli olan gelişmiş kimlik doğrulama kavramları aşağıda verilmiştir:
+Aşağıda, Microsoft Edge için geçerli olan gelişmiş kimlik doğrulama kavramları ve bilgileri ve bilgileri yermektedir:
 
-**Önleyici kimlik doğrulama**
+**Proaktif Kimlik Doğrulama**
 
-[Proactiveauthenabled](https://go.microsoft.com/fwlink/?linkid=2134621) ilkesini etkinleştirdiğinizde, Microsoft Edge, oturumu açık kullanıcılarla Microsoft hizmetlerini kullanarak kimlik doğrulama yapmayı dener. Düzenli aralıklarla, önleyici kimlik doğrulamayı yöneten yapılandırmayı içeren güncelleştirilmiş bir bildirimi denetlemek için bir çevrimiçi hizmet kullanacaktır.
+[ProactiveAuthEnabled](https://go.microsoft.com/fwlink/?linkid=2134621) ilkeyi etkinleştirseniz, Microsoft Edge Microsoft hizmetleri aracılığıyla oturum açık kullanıcıların önceden kimlik doğrulamasını yapmaya çalışır. Düzenli aralıklarla, Proaktif Kimlik Doğrulaması'nın geçerli olduğu yapılandırmayı içeren güncelleştirilmiş bir bildirim olup denetlemesi için çevrimiçi bir hizmet kullanır.
 
-Yararlar: önleyici kimlik doğrulaması, Office yeni sekme sayfası gibi temel hizmetlerin kimlik doğrulamasını sağlar. Ayrıca, Bing arama altyapısı olarak kullanılırsa, önleyici kimlik doğrulaması, adres çubuğunun performansını artırır ve işinizin ihtiyaçlarına göre kişiselleştirilmiş arama sonuçlarının oluşturulmasına yardımcı olur.
+Avantajlar: Proaktif Kimlik Doğrulama, Office Yeni Sekme Sayfası gibi önemli hizmetlerde kimlik doğrulamayı sağlar. Ayrıca, Bing arama motoru olarak kullanılıyorsa, Proaktif Kimlik Doğrulama adres çubuğunun performansını artırır ve işletmenizin ihtiyaçlarına göre kişiselleştirilmiş arama sonuçları üretmeye yardımcı olur.
 
-**NTLM kimlik doğrulaması için Windows Hello Creduı**
+**NTLM Kimlik Doğrulaması için Windows Hello CredUI**
 
-Web sitesi NTLM veya anlaşma mekanizması aracılığıyla Kullanıcı oturum açmaya çalıştığında çoklu oturum açma (SSO) kullanılamıyorsa, bu özellik kullanıcının işletim sistemi kimlik bilgilerini Web sitesiyle paylaşmasına ve Windows Hello Credentials Kullanıcı arabirimini kullanarak kimlik doğrulama sınamasını sağlamasına olanak tanır. Bu oturum açma akışı yalnızca Windows 10 ' da, yalnızca NTLM veya anlaşma sırasında SSO kullanmayan kullanıcılar için görünür.
+Bir web sitesi NTLM veya Görüşme mekanizması aracılığıyla kullanıcıda oturum açmaya çalıştığında çoklu oturum açma (SSO) kullanılamıyorsa, bu özellik kullanıcının işletim sistemi kimlik bilgilerini web sitesiyle paylaşmasına ve Windows Hello Cred UI kullanarak kimlik doğrulama zorluklarını karşılamasına olanak sağlar. Bu oturum açma akışı yalnızca Windows 10'da ve yalnızca NTLM veya Görüşme sırasında SSO almayan kullanıcılar için görüntülenir.
 
-**Otomatik olarak oturum açmak için kaydedilmiş parolaları kullanma**
+**Kaydedilen parolaları kullanarak otomatik olarak oturum açma**
 
-Microsoft Edge 'de parolaları kaydeden kullanıcılar, kimlik bilgilerini kaydetdikleri web sitelerinde otomatik oturum açmayı etkinleştirebilirler. Kullanıcılar edge://settings/passwords 'da bu özelliği açıp kapatabilir ve bunu [Parola Yöneticisi](https://go.microsoft.com/fwlink/?linkid=2134622) ilkelerinde yapılandırabilirsiniz.
+Microsoft Edge'de parolaları kaydeden kullanıcılar, kimlik bilgilerini kaydettilen web sitelerinde otomatik olarak oturum açma özelliğini etkinleştirebilirsiniz. Kullanıcılar bu özelliği aynı edge://settings/passwords veya devre dışı bırakır ve parola yöneticisi ilkelerde [yapılandırabilirsiniz.](https://go.microsoft.com/fwlink/?linkid=2134622)
