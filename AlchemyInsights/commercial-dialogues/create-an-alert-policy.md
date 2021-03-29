@@ -3,7 +3,7 @@ title: Uyarı ilkesi oluşturma
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 20a379a4e6ad7e9a14b1eaae21db1c8cee129cdc
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 0c2473b8682ba12d3d15e24dc0f2485a7ab8789f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483907"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403619"
 ---
 # <a name="create-an-alert-policy"></a>Uyarı ilkesi oluşturma
 
@@ -32,7 +32,7 @@ Bunu şu şekilde yapacaksınız:
 > [!NOTE]
 >  Tek bir etkinlik seçebilirsiniz, ancak ilkenin algılayanı iyileştirmek için koşullar ekleyin.
 6. İhtiyaçlarınızı karşılayacak sıklıkları tetikleyen uyarıyı seçin ve sonra da Sonraki'yi **seçin.**
-7. E-posta bildirimlerini gönder'i seçerek ve  uygun e-posta alıcılarını seçerek bu uyarıyı tetiklendiğinde insanlara bildirim göndermek mi **istediğinize karar verin.** **İleri**'yi seçin.
+7. E-posta bildirimlerini gönder'i seçerek ve  uygun e-posta alıcılarını seçerek bu uyarıyı tetiklendiğinde bildirilmesine **karar verin.** **İleri**'yi seçin.
 8. Bitirdikten sonra ayarları gözden geçirebilirsiniz. Evet'i seçerek ilkeyi hemen ve ardından **Son'a** seçerek **açabilirsiniz.**
 
 Daha fazla bilgi edinmek için Uyarı ilkesi ayarlarına bakın

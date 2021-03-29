@@ -1,5 +1,5 @@
 ---
-title: Windows 'da Microsoft Edge ilke ayarlarını yapılandırma
+title: Windows'da Microsoft Edge ilke ayarlarını yapılandırma
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,21 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583748"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402395"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Windows 'da Microsoft Edge ilke ayarlarını yapılandırma
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Windows'da Microsoft Edge ilke ayarlarını yapılandırma
 
-Microsoft Edge için ilke ayarlarını ve yönetilen güncelleştirmeleri yapılandırmak için Grup Ilkesi nesneleri (GPO 'Lar) kullanın. İlkeyi kayıt defterinden da temin edebilirsiniz; Bu, Microsoft Active Directory etki alanına ve (2) Windows 10 Pro ve kurumsal örnekleri için Microsoft Intune 'da kayıtlı bir Microsoft Active Directory etki alanına katılmış Windows cihazları (1) için uygundur.
+Microsoft Edge'de ilke ayarlarını ve yönetilen güncelleştirmeleri yapılandırmak için Grup İlkesi Nesneleri'ne (GPOS) tıklayın. Ayrıca, kayıt defteri aracılığıyla ilke de s sağlanmasını s sağlanması; Bu, Microsoft Active Directory etki alanına katılmış (1) Windows cihazları ve Microsoft Intune'da cihaz yönetimi için kayıtlı (2) Windows 10 Pro ve Enterprise örnekleri için uygun olacaktır.
 
-Microsoft Edge 'i GPO 'Lar kullanarak yapılandırmak için aşağıdakileri yapın:
+GPOs kullanarak Microsoft Edge'i yapılandırmak için, şunları yapın:
 
-1. Active Directory etki alanınızda grup Ilkesi merkezi deposu veya tek tek bilgisayarlardaki Ilke tanımı şablonu klasöründe, Microsoft Edge için kural ve ayarları ekleyen tüm Yönetim şablonlarını yükleyin.
-2. Ayarlamak istediğiniz belirli ilkeleri yapılandırın.
+1. Active Directory etki alanınız içinde Grup İlkesi Merkezi Deposu'na gidin veya tek tek bilgisayarlardaki İlke Tanımı şablon klasörüne gidin, Microsoft Edge için kurallar ve ayarlar eken tüm yönetim şablonlarını yükleyin.
+2. Ayarlamak istediğiniz belirli ilkeleri yapılandırarak.
 
-Daha fazla bilgi edinmek için [Windows 'Da Microsoft Edge ilke ayarlarını yapılandırma](https://go.microsoft.com/fwlink/?linkid=2135024)bölümüne bakın.
+Daha fazla bilgi edinmek için Bkz. [Windows'da Microsoft Edge ilke ayarlarını yapılandırma.](https://go.microsoft.com/fwlink/?linkid=2135024)
