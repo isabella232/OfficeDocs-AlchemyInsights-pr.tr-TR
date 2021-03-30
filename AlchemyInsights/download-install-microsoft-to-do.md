@@ -1,5 +1,5 @@
 ---
-title: Microsoft 'un Yapılacaklar
+title: Microsoft To Do’yu indirme ve yükleme
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003043"
 - "6109"
-ms.openlocfilehash: 83fdaa7a1e181f8429f57fbb9e6ad20642c74d79
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
-ms.translationtype: MT
+ms.openlocfilehash: c17c2db421d3210de01e402da502a9951fdefeb7
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823152"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401963"
 ---
-# <a name="how-to-download-and-install-microsoft-to-do"></a><span data-ttu-id="5ba71-102">Microsoft 'un Yapılacaklar</span><span class="sxs-lookup"><span data-stu-id="5ba71-102">How to download and install Microsoft To Do</span></span>
+# <a name="how-to-download-and-install-microsoft-to-do"></a><span data-ttu-id="0760a-102">Microsoft To Do’yu indirme ve yükleme</span><span class="sxs-lookup"><span data-stu-id="0760a-102">How to download and install Microsoft To Do</span></span>
 
-<span data-ttu-id="5ba71-103">Win32 için Microsoft to do uygulaması, iOS, Android ve Mac uygulaması uygun mağazadan indirilebilir.</span><span class="sxs-lookup"><span data-stu-id="5ba71-103">Microsoft To Do app for Win32, iOS, Android and Mac app can be download from appropriate Store.</span></span>
+<span data-ttu-id="0760a-103">Win32, iOS, Android ve Mac uyumlu Microsoft To Do uygulamalarını ilgili Mağazadan indirebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="0760a-103">Microsoft To Do app for Win32, iOS, Android and Mac app can be download from appropriate Store.</span></span>
 
-<span data-ttu-id="5ba71-104">Kiracınız için kısıtlı depolama erişimi varsa, lütfen [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/en-us/microsoft-store/distribute-offline-apps) çevrimdışı yükleyici için</span><span class="sxs-lookup"><span data-stu-id="5ba71-104">If you have restricted Store access for your tenant, please refer to [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/en-us/microsoft-store/distribute-offline-apps) for offline installer</span></span>
+<span data-ttu-id="0760a-104">Kiracınız için kısıtlı Mağaza erişiminiz varsa, çevrimdışı yükleyici için lütfen [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps) adresine başvurun</span><span class="sxs-lookup"><span data-stu-id="0760a-104">If you have restricted Store access for your tenant, please refer to [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps) for offline installer</span></span>
 
-<span data-ttu-id="5ba71-105">**İş** hesabınızı kullanarak Store 'dan bir uygulamayı indirmek için, uygulamanın şirketinizin **özel mağazasına** yayımlanması gerekir.</span><span class="sxs-lookup"><span data-stu-id="5ba71-105">To download an app from Store using your **Work** account, the app must be published to your company's **Private Store.**</span></span> <span data-ttu-id="5ba71-106">Daha fazla bilgi için lütfen [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span><span class="sxs-lookup"><span data-stu-id="5ba71-106">For more information, please refer to [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span></span>
+<span data-ttu-id="0760a-105">Mağazadan **İş** hesabınızı kullanarak bir uygulama indirmek için uygulamanın şirketinizin **Özel Mağazasında** yayımlanmış olması gerekir.</span><span class="sxs-lookup"><span data-stu-id="0760a-105">To download an app from Store using your **Work** account, the app must be published to your company's **Private Store.**</span></span> <span data-ttu-id="0760a-106">Daha fazla bilgi için lütfen [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability) adresine başvurun</span><span class="sxs-lookup"><span data-stu-id="0760a-106">For more information, please refer to [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span></span>
