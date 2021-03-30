@@ -1,5 +1,5 @@
 ---
-title: SharePoint dosyalarını veya klasörlerini paylaşma
+title: SharePoint veya OneDrive dosya veya klasörlerini paylaşma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779035"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408134"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>SharePoint dosyalarını veya klasörlerini paylaşma
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>SharePoint veya OneDrive dosya veya klasörlerini paylaşma
 
-SharePoint sitesinde depoladığınız dosyalar genellikle site izinleri olan herkes tarafından kullanılabilir, ancak başka şekilde siteye erişimi olmayan kişilerle belirli dosyaları veya klasörleri paylaşmak isteyebilirsiniz. Dosyaları ve klasörleri paylaştığınızda, kişilerin düzenleyebilmesini veya görüntülemesini sağlayın.
+SharePoint sitesinde depolasanız dosyalar genellikle site üzerinde izinleri olan herkes tarafından kullanılabilir, ancak belirli dosyaları veya klasörleri siteye başka bir şekilde erişimi olan kullanıcılarla paylaşmak istiyor olabilir. Dosyaları ve klasörleri paylaşırken, kişilerin bunları düzenlemesine mi yoksa yalnızca görüntülemesine mi izin vermenizi istediğinize karar veabilirsiniz. Daha fazla bilgi için bkz.:
 
-[SharePoint dosyalarını veya klasörlerini paylaşma](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[SharePoint dosya veya klasörlerini paylaşma](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[OneDrive dosya ve klasörlerini paylaşma](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
