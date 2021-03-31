@@ -1,24 +1,35 @@
 ---
-title: Karma Azure AD birleştirmesinde sorun giderme
+title: Hibrit Microsoft Azure AD katılımı sorunlarını giderme
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/06/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6162"
+- "6158"
 - "9003244"
-ms.openlocfilehash: 74791503e1ec876c2beb57d895c93ceac465a26a
-ms.sourcegitcommit: a96f029381c42d331b9ea64fa54061b7b96c4e52
-ms.translationtype: MT
+- "9003246"
+ms.openlocfilehash: 18d0ce6bdf3df96e07cc6607b9ae6142d548dabe
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46629979"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401927"
 ---
-# <a name="troubleshoot-hybrid-azure-ad-join"></a>Karma Azure AD birleştirmesinde sorun giderme
+# <a name="troubleshoot-hybrid-azure-ad-join"></a>Hibrit Microsoft Azure AD katılımı sorunlarını giderme
 
-Karma Azure Active Directory (AD) ile ilgili yaygın sorunları çözmek için [karma Azure AD katılma SSS](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq)bölümüne bakın.
+Kesinlikle Önerilir [Cihaz Kaydı Bağlantısını Test Et betiğini](https://docs.microsoft.com/samples/azure-samples/testdeviceregconnectivity/testdeviceregconnectivity/) kullanarak bir cihazın sistem hesabı altındaki Cihaz kaydı uç noktalarına erişebildiğinden emin olun.
+
+1. Cihaz kayıtlarını ilk kez ayarlıyorsanız, Microsoft Azure AD denetimindeki cihazlara nasıl erişeceğinizi öğrenmek için [Azure Active Directory’de cihaz yönetimine giriş](https://docs.microsoft.com/samples/azure-samples/testdeviceregconnectivity/testdeviceregconnectivity/) makalesini incelemeyi unutmayın.
+1. Cihazları doğrudan Microsoft Azure AD’ye kaydediyor ve bunları Intune’a kaydediyorsanız, ilk olarak [Intune’u yapılandırmayı](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) ve [lisans](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) edinmeyi unutmayın. 
+1. Microsoft Azure AD’de ve şirket içi AD’de işlem yapma yetkiniz olduğundan emin olun. Microsoft Azure AD’de yalnızca bir genel yönetici cihaz kayıtlarıyla ilgili ayarları yönetebilir. Ek olarak, şirket içi Active Directory’de otomatik kayıtlar ayarlıyorsanız, (mümkünse) Active Directory ve AD FS yöneticisi olmanız gerekir.
+
+Hibrit katılımla ilgili olası sorunları çözme konusunda daha fazla ayrıntı için bkz. [Hibrit Katılım Sorunlarını Giderme](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current). Hibrit Azure AD ile katılan ayarlama ve Microsoft Azure AD portalını kullanarak Cihazları Yönetme için bkz. [Hibrit Azure AD ile katılan (şirket içi etki alanına katılmış) cihazlar ayarlama](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan?WT.mc_id=Portal-Microsoft_Azure_Support) ve [Azure portal aracılığıyla cihazları yönetme](https://docs.microsoft.com/azure/active-directory/devices/device-management-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+
+Hibrit Azure Active Directory (AD) katılımıyla ilgili yaygın sorunları çözmek için bkz. [Hibrit Azure Active Directory katılımıyla ilgili SSS](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq).

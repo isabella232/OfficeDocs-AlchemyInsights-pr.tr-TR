@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams'de ilke atama
+title: Microsoft Teams’de ilkeler atama
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -11,17 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9466"
 - "9000730"
-ms.openlocfilehash: 9d413804c26dd6940060316394b1df6ff8e2b06b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+- "9000734"
+- "9466"
+- "10006"
+ms.openlocfilehash: 95941fec4951a0e5f01e4984b157d6760f542943
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037120"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401819"
 ---
-# <a name="assign-policies-in-microsoft-teams"></a>Microsoft Teams'de ilke atama
+# <a name="assign-policies-in-microsoft-teams"></a>Microsoft Teams’de ilkeler atama
 
-- Teams, kurumda ilkeleri kolayca yönetmek için, kullanıcılara ilke atamak için çeşitli yollar sunar. İlkeyi doğrudan kullanıcılara, bireysel olarak veya toplu işlem ataması aracılığıyla ölçeğinde veya kullanıcıların üyesi olduğu bir gruba attayın.  Şu anda, Microsoft Teams yönetim merkezini kullanan gruplara ilke ataması yalnızca belirli ilke türlerinde kullanılabilir. 
-- Kullanıcının her ilke türü için tek bir etkili ilkesi vardır. İlkelerin kullanıcılara uygulanma sıralarını gözden geçirmek için, hangi [ilkenin öncelikli olduğunu görmek için bkz.](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
-- Daha fazla bilgi için Bkz. [Microsoft Teams'de kullanıcılarınıza ilke atama.](https://docs.microsoft.com/microsoftteams/assign-policies)
+- Kuruluşunuzdaki ilkeleri kolayca yönetmeniz için Teams kullanıcılara ilkeler atayabileceğiniz çeşitli yöntemler sunar. İster tek tek ister toplu atama yoluyla geniş ölçekli olarak doğrudan kullanıcılara veya kullanıcıların üye olduğu gruba ilke atayın.  Şu anda, Microsoft Teams yönetim merkezi aracılığıyla gruplara ilke atama özelliği yalnızca belirli ilke türleri için kullanılabilir. 
+- Bir kullanıcı her bir ilke türü için bir geçerli ilkeye sahiptir. İlkelerin kullanıcılara uygulandığı sırayı gözden geçirmek için bkz. [Hangi ilke önceliklidir?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
+- Daha fazla bilgi için bkz. [Microsoft Teams’de kullanıcılarınıza ilkeler atama](https://docs.microsoft.com/microsoftteams/assign-policies).
