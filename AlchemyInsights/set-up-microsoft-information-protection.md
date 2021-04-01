@@ -1,5 +1,5 @@
 ---
-title: Microsoft Information Protection 'ı ayarlama
+title: Microsoft bilgi korumasını ayarlama
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004221"
 - "7429"
-ms.openlocfilehash: bde2c53eccb4ac687a064c3ab44c362d995e2fa6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
-ms.translationtype: MT
+- "9254"
+- "9000181"
+ms.openlocfilehash: 05ba48033cde51e3055c52d9501ea0a3f573f2a5
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679347"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440949"
 ---
-# <a name="set-up-microsoft-information-protection"></a>Microsoft Information Protection 'ı ayarlama
+# <a name="set-up-microsoft-information-protection"></a>Microsoft bilgi korumasını ayarlama
 
-Hassas bilgilerinizin korunduğundan emin olmak için bilgi koruma stratejinizi uygulayabileceğiniz beceriye genel bir bakış alın. Hassas bilgileri keşfede, sınıflandırmanıza, korumanıza, korumanıza, korumanıza "Microsoft Bilgi koruması kurulumu" Kılavuzu, bu aşamaların her birini tamamlamaya yönelik yönergeler sağlar.
+Hassas bilgilerinizin korunduğundan emin olmak için Bilgi Koruma stratejinize uygulayabileceğiniz özelliklere genel bir bakış elde edin. Hassas bilgileri keşfetme, sınıflandırma, koruma ve izleme işlemlerinden oluşan dört aşamalı bir yaşam döngüsü yaklaşımı kullanın. [Microsoft bilgi koruması kurulum kılavuzu](https://go.microsoft.com/fwlink/?linkid=2146619), bu aşamalardan her birini tamamlamak için gereken yönergeleri sağlar.

@@ -1,5 +1,5 @@
 ---
-title: EndPoint Manager - Güvenlik taban çizgisi
+title: EndPoint Manager - Güvenlik temelleri
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,29 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "10084"
 - "6700005"
-ms.openlocfilehash: d2a063fdc4929cbee5fef71bfb47ace8f2ba458f
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
-ms.translationtype: MT
+- "10064"
+- "9003771"
+ms.openlocfilehash: 36b480c7ed4715338fda056eafd69c511093e627
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421218"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440913"
 ---
-# <a name="endpoint-manager---security-baselines"></a>EndPoint Manager - Güvenlik taban çizgisi
+# <a name="endpoint-manager---security-baselines"></a>EndPoint Manager - Güvenlik temelleri
 
-Güvenlik taban çizgisi, ilgili güvenlik ekipleri tarafından önerilen güvenlik ayarlarını uygulamanıza yardımcı olan önceden yapılandırılmış Windows ayarları gruplarıdır. Bu taban çizgisi, yalnızca istediğiniz ayarları ve değerleri sunmak için özelleştirilebilir. Güvenlik taban çizgisi hakkında daha fazla bilgi için Bkz. [Intune'da Windows 10](https://docs.microsoft.com/mem/intune/protect/security-baselines)cihazlarını yapılandırmak için güvenlik taban çizgilerini kullanma.
+Güvenlik temelleri, konuyla ilgili güvenlik ekipleri tarafından önerilen güvenlik ayarlarını uygulamaya yardımcı olmak üzere önceden yapılandırılmış Windows ayarı gruplarıdır. Bu temel gruplar yalnızca istenen ayarları ve değerleri sunacak şekilde özelleştirilebilir. Güvenlik temelleri hakkında daha fazla bilgi için bkz. [Intune’da Windows 10 cihazlarını yapılandırmak için güvenlik temellerini kullanma](https://docs.microsoft.com/mem/intune/protect/security-baselines).
 
-Şu anda bu ürünlerin taban çizgilerini vardır:
+Şu anda aşağıdaki ürünler için güvenlik temelleri sağlanmıştır:
 
 - Windows MDM Güvenlik ayarları
-- EndPoint Güvenliği için Microsoft Defender
+- Uç nokta için Microsoft Defender Güvenliği
 - Microsoft Edge
 
-Taban çizgilerinin her biri düzenli olarak güncelleştirilir ve artımlı sürümlerde yayımlanır. Taban çizgisinin geçerli kılavuz çizgiye uygun olduğundan emin olmak için, her sürüm önceki sürümden ayarları ekler ve kaldırır. Uç Nokta Güvenliği'nin Güvenlik taban çizgisi konsolu, sürümden sürüme yapılan değişikliklerin görünür olmasıyla farklı sürümlerin karşılaştırmasına olanak sağlar.
+Bu temellerden her biri düzenli aralıklarla güncelleştirilir ve artımlı sürümlerde kullanıma sunulur. Temelin güncel yönergelere uyduğundan emin olmak için her sürüm önce sürümlerin ayarlarına yenilerini ekler veya bazılarını kaldırır. Uç Nokta Güvenliği’ndeki Güvenlik temelleri konsolu bir sürümden diğerine yapılan değişiklikleri görünür hale getirerek farklı sürümlerin karşılaştırılmasına olanak tanır.
 
-Temelin hangi sürümünün dağıtılacağı konusunda yol gösterici bilgi için, Microsoft Intune'da güvenlik temeli [profillerini yönetme makalelerine bakın.](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure)
+Güvenlik temelinin dağıtılacak olan sürümünü en etkili şekilde değiştirme yönergeleri için bkz. [Microsoft Intune’da güvenlik temeli profillerini yönetme](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
-Güvenlik temelini dağıttırdikten sonra, dağıtım durumunu izleyebilir ve ayarları cihaz temelinde gözden geçirebilirsiniz.
+Güvenlik temelini dağıttıktan sonra, dağıtımın durumunu izleyebilir ve tek tek cihazlara göre ayarları gözden geçirebilirsiniz.
 
-**Not:** Taban çizgilerinin raporlama verileri, ilk dağıtımdan bir cihaza 24 saat ve daha sonraki güncelleştirmeler için 6 saate kadar sürebilir. 
+**Not:** Güvenlik temellerine ilişkin raporlama verilerinin görüntülenmesi, bir cihaza ilk dağıtım yapıldıktan sonra 24 saat kadar ve sonraki güncelleştirmelerde 6 saat kadar sürebilir. 
 
-Taban çizgisi ayarının uygulamamalarının en yaygın nedeni, aynı ayarın farklı bir profilde kullanılıyor olmasıdır. Bu senaryo, Belirli bir cihaz için, Güvenlik Temeli profilinin Cihaz Durumu düğümünden seçerek araştırabilirsiniz. Ayrıntılar için [bkz. Güvenlik taban çizgilerine ilişkin çakışmaları çözme.](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines)
+Temel ayarının uygulanmamasının en yaygın nedeni, aynı ayarın farklı bir profilde kullanılıyor olmasıdır. Belirli bir cihazda bu senaryoyu araştırmak için, Güvenlik Temeli profilinin Cihaz Durumu düğümünden söz konusu cihaz seçilebilir. Ayrıntılar için bkz. [Güvenlik temelleri için çakışmaları çözme](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines).
