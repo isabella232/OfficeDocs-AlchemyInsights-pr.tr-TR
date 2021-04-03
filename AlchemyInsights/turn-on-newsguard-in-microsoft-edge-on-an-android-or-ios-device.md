@@ -1,5 +1,5 @@
 ---
-title: Android veya iOS cihazında Microsoft Edge 'de Gazeguard 'ı açma
+title: Android veya iOS cihazında Microsoft Edge'de NewsGuard'ı açma
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004028"
 - "7098"
-ms.openlocfilehash: 7c3cb0eecb2ce073637623062d6c15c7bac4c1c9
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8308"
+- "9004621"
+ms.openlocfilehash: 73e2cefe98185ff9f741e8d46b92ebcc8a5a499a
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678824"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505664"
 ---
-# <a name="turn-on-newsguard-in-microsoft-edge-on-an-android-or-ios-device"></a><span data-ttu-id="2115d-102">Android veya iOS cihazında Microsoft Edge 'de Gazeguard 'ı açma</span><span class="sxs-lookup"><span data-stu-id="2115d-102">Turn on NewsGuard in Microsoft Edge on an Android or iOS device</span></span>
+# <a name="turn-on-newsguard-in-microsoft-edge-on-an-android-or-ios-device"></a><span data-ttu-id="9ad35-102">Android veya iOS cihazında Microsoft Edge'de NewsGuard'ı açma</span><span class="sxs-lookup"><span data-stu-id="9ad35-102">Turn on NewsGuard in Microsoft Edge on an Android or iOS device</span></span>
 
-<span data-ttu-id="2115d-103">NewsGuard, ABD 'de Journalistic standartlarına ve saydamlığa sahip Web sitelerini assesses ve derecelendiren üçüncü taraf bir uzantıdır.</span><span class="sxs-lookup"><span data-stu-id="2115d-103">NewsGuard is a third-party extension that assesses and rates websites on journalistic standards of credibility and transparency in the US.</span></span> <span data-ttu-id="2115d-104">Bu uzantı Microsoft Edge 'de kullanılabilir ancak varsayılan olarak kapalıdır.</span><span class="sxs-lookup"><span data-stu-id="2115d-104">This extension is available in Microsoft Edge but is turned off by default.</span></span> <span data-ttu-id="2115d-105">Açıldığında, uzantı sitelere erişimi engellemeyecek ve gözatmayı kesintiye uğratmayacaktır.</span><span class="sxs-lookup"><span data-stu-id="2115d-105">When turned on, the extension will not prevent access to sites and will not interrupt browsing.</span></span>
+<span data-ttu-id="9ad35-103">NewsGuard, web sitelerini ABD'de güven ve saydamlık standartlarına göre değerlendiren ve değerlendiren üçüncü taraf bir uzantıdır.</span><span class="sxs-lookup"><span data-stu-id="9ad35-103">NewsGuard is a third-party extension that assesses and rates websites on journalistic standards of credibility and transparency in the US.</span></span> <span data-ttu-id="9ad35-104">Bu uzantı Microsoft Edge'de kullanılabilir ancak varsayılan olarak kapalıdır.</span><span class="sxs-lookup"><span data-stu-id="9ad35-104">This extension is available in Microsoft Edge but is turned off by default.</span></span> <span data-ttu-id="9ad35-105">Açık olduğunda, uzantı sitelere erişimi engellemez ve gözatmayı kesintiye uğratmaz.</span><span class="sxs-lookup"><span data-stu-id="9ad35-105">When turned on, the extension will not prevent access to sites and will not interrupt browsing.</span></span>
 
-<span data-ttu-id="2115d-106">NewsGuard 'ı açmak için aşağıdaki adımları tamamlayın:</span><span class="sxs-lookup"><span data-stu-id="2115d-106">To turn on NewsGuard, complete the below steps:</span></span>
-1. <span data-ttu-id="2115d-107">Select...</span><span class="sxs-lookup"><span data-stu-id="2115d-107">Select …</span></span><span data-ttu-id="2115d-108"> > **Ayarları**  >  **Haberler derecelendirmesi**.</span><span class="sxs-lookup"><span data-stu-id="2115d-108"> > **Settings** > **News rating**.</span></span>
-2. <span data-ttu-id="2115d-109">**Adres çubuğunda görüntü derecelendirmesini** aç.</span><span class="sxs-lookup"><span data-stu-id="2115d-109">Turn on **Display rating on the address bar**.</span></span>
+<span data-ttu-id="9ad35-106">NewsGuard'ı açmak için aşağıdaki adımları tamamlayın:</span><span class="sxs-lookup"><span data-stu-id="9ad35-106">To turn on NewsGuard, complete the below steps:</span></span>
+1. <span data-ttu-id="9ad35-107">Şu seçeneği seçin: ...</span><span class="sxs-lookup"><span data-stu-id="9ad35-107">Select …</span></span><span data-ttu-id="9ad35-108"> > **Ayarlar**  >  **Haberler derecelendirmesi.**</span><span class="sxs-lookup"><span data-stu-id="9ad35-108"> > **Settings** > **News rating**.</span></span>
+2. <span data-ttu-id="9ad35-109">Adres çubuğunda **Derecelendirmeyi göster'i açma.**</span><span class="sxs-lookup"><span data-stu-id="9ad35-109">Turn on **Display rating on the address bar**.</span></span>
