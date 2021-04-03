@@ -14,20 +14,27 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 963af6d056d1df07905970b8a45f7916cdb35469
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774731"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505730"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Silinmiş bir Microsoft 365 grubunu geri yükleme
 
-Silinen gruplar 30 gün boyunca korunur. Silinmiş bir grubu geri yüklemek için:
-  
-1. [Exchange Yönetim merkezinde](https://outlook.office365.com/ecp/), sol bölmedeki **Alıcılar** 'i seçin ve sonra da **gruplar**'ı seçin. Bir grup 30 günden daha önce silinirse, listede görünür ve durum sütununda silinecek Tarih listelenir.
+Silinen Microsoft 365 grubunu veya Microsoft Teams'i silme işleminin ardından 30 gün içinde geri yükleyebilirsiniz.
 
-2. Grubu seçin ve ardından komut çubuğunda **geri yükle** 'ye tıklayın veya Ayrıntılar bölmesinde "geri yüklemek Için buraya tıklayın" bağlantısına tıklayın.
+1. Microsoft 365 yönetim merkezinde oturum açma ve silinen grupları ve ekiplerin listesini yapmak [için, Microsoft 365 yönetim merkezine gidin.](https://aka.ms/RestoreDeletedGroup)
 
-Daha fazla bilgi için veya PowerShell kullanarak grupların nasıl geri yükleneceğini öğrenmek için, [Silinmiş bir Microsoft 365 grubunu geri yükleme](https://go.microsoft.com/fwlink/?linkid=867802)bölümüne bakın.
-  
+    **Not:** Kiracı yöneticisine veya gruplar yöneticisi rolüne atanan hesabı kullanarak oturum açın.
+
+1. Geri yüklenecek silinmiş Microsoft 365 grubunu/Teams'i seçin ve Geri Yükle **grubuna tıklayın.**
+
+    Çakışan bir SMTP adresi nedeniyle grup geri yüklenebilirse, çakışmaya neden olan nesneyi bulmak ve SMTP adresini kaldırmak için aşağıdaki komutu kullanın:
+
+    `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
+
+    **Not:** Bazı durumlarda, grubun ve tüm verilerin geri yüklenebilir olması 24 saat kadar sürebilir.
+
+    Daha fazla bilgi edinmek veya PowerShell kullanarak grupları geri yükleme hakkında bilgi edinmek için, [bkz. Silinmiş Microsoft 365 grubunu](https://go.microsoft.com/fwlink/?linkid=867802)geri yükleme.

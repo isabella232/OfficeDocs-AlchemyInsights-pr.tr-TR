@@ -1,5 +1,5 @@
 ---
-title: BitLocker kurtarma anahtarları
+title: Bitlocker kurtarma anahtarları
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685906"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505088"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>BitLocker Kurtarma anahtarlarına erişme
+# <a name="accessing-bitlocker-recovery-keys"></a>Bitlocker kurtarma tuşlarına erişme
 
-BitLocker ayarları Intune Endpoint Protection Ilkesini yapılandırırken, BitLocker kurtarma bilgilerinin Azure Active Directory 'de depolanması gerekip gerekmediği tanımlanır.
+Bitlocker ayarlarını Intune Uç Nokta Koruma İlkesi yapılandırarak Bitlocker kurtarma bilgisinin Azure Active Directory'de depolanmış olup olmadığını tanımlamak mümkündür.
 
-Bu ayar yapılandırılırsa, cihaz için depolanan kurtarma verileri Intune cihazlarındaki verilerin iki yolu nedeniyle bir Intune yöneticisine görünür olmalıdır:
+Bu ayar yapılandırılmışsa, Intune Devices blade'te cihaz kaydı verileri iki şekilde bir intune yöneticisi tarafından görülebilir:
 
-Cihazlar-Azure AD cihazları-> "aygıt" veya cihazlar-> tüm cihazlar-> "cihaz"-> kurtarma anahtarları
+Cihazlar - Azure AD cihazları -> "Cihaz" VEYA Cihazlar -> Tüm Cihazlar -> "Cihaz" -> Kurtarma anahtarları
 
-Alternatif olarak, cihaza yönetimsel erişim varsa, kurtarma anahtarı (parola) yükseltilmiş bir komut isteminden aşağıdaki komut çalıştırılarak görülebilir:
+Alternatif olarak, cihazın kendisine yönetim erişimi varsa, yükseltilmiş komut isteminden aşağıdaki komutu çalıştırarak kurtarma anahtarı (Parola) görülebilir:
 
 ```
 manage-bde -protectors c: -get
@@ -43,8 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Cihaz Intune 'da kaydolma öncesinde şifrelendiyse, kurtarma anahtarı, OOBE işlemi sırasında cihazda oturum açmak için kullanılan "Microsoft hesabı" (MSA) ile ilişkilendirilmiş olabilir. Öyleyse,  https://onedrive.live.com/recoverykey Bu MSA ile erişilmesi ve oturum açmak, kurtarma anahtarlarının depolandığı cihazları göstermelidir.
+Cihaz Intune'da şifrelenmeden önce şifrelenmişse, kurtarma anahtarı OOBE işlemi sırasında cihazda oturum a açmada kullanılan "Microsoft Hesabı" (MSA) ile ilişkilendirilmiş olabilir. Böyle bir durumda, MSA'ya erişme ve bu MSA ile oturum açma, kurtarma  https://onedrive.live.com/recoverykey anahtarlarının depolandığı cihazları gösterir.
  
-Cihaz, etki alanı tabanlı Grup İlkesi aracılığıyla yapılandırma sonucunda şifrelenmişse, kurtarma bilgileri şirket içi Active Directory 'de depolanabilir.
- 
+Cihaz, etki alanı tabanlı grup ilkesi aracılığıyla yapılandırma sonucunda şifrelenirse, kurtarma bilgileri şirket içi Active Directory'de depolanıyor olabilir.
+
+Kurtarma anahtarını Azure Active Directory'de depolamak için Uç Nokta koruma ilkesi yapılandırdınız ancak belirli bir cihaza yönelik anahtar karşıya yüklenmedi ise, mem konsolundan bu cihazın kurtarma anahtarını döndürerek karşıya yüklemenin tetiklenir. Ayrıntılar için bkz. [BitLocker kurtarma anahtarlarını döndürme.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 
