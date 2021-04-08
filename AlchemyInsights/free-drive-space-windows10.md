@@ -1,5 +1,5 @@
 ---
-title: Windows 10’da sürücüde yer açma
+title: Windows 10’da sürücüde boş alan oluşturma
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -22,26 +22,26 @@ ms.contentlocale: tr-TR
 ms.lasthandoff: 04/02/2021
 ms.locfileid: "51505376"
 ---
-# <a name="free-up-drive-space-in-windows-10"></a>Windows 10’da sürücüde yer açma
+# <a name="free-up-drive-space-in-windows-10"></a>Windows 10’da sürücüde boş alan oluşturma
 
-Windows’ta sürücüde yer açmak için iki seçenek vardır:
+Windows’da sürücüde boş alan oluşturmak için iki seçenek vardır:
 
-- Windows 10’da sürücüde yer açın.
-- Dış depolama cihazı kullanarak Windows 10 güncelleştirmeleri için yer açın.
+- Windows 10’da sürücüde boş alan oluşturun.
+- Dış depolama cihazı kullanarak Windows 10 güncelleştirmeleri için boş alan oluşturun.
 
-Disk Temizleme aracını kullandıktan sonra disk alanınız hala yetersizse, Temp klasörünüz Microsoft Store tarafından kullanılan uygulama (.appx) dosyalarıyla hızlı bir şekilde doluyor olabilir. Bu sorunu çözmek için, Microsoft Store’u sıfırlayın, Microsoft Store önbelleğini temizleyin ve ardından Windows Update sorun gidericisini çalıştırın. Bu adımlara geçmeden önce Microsoft Store’un kapalı olduğundan emin olun.
+Disk Temizleme aracını kullandıktan sonra disk alanınız hala yetersizse, Temp klasörünüz Microsoft Store tarafından kullanılan uygulama (.appx) dosyalarıyla hızlı bir şekilde doluyor olabilir. Bu sorunu çözmek için Microsoft Store’u sıfırlayın, Microsoft Store önbelleğini temizleyin ve ardından Windows Update sorun gidericisini çalıştırın. Bu adımlara geçmeden önce Microsoft Store’un kapalı olduğundan emin olun.
 
 **1. Adım: Microsoft Store’u sıfırlayın**
 
-**Not** Bu işlem, tercihleriniz veya oturum açma bilgileriniz dahil cihazdaki uygulama verilerini kalıcı olarak siler.
+**Not** Bu işlem, tercihleriniz ve oturum açma bilgileriniz dahil olmak üzere cihazdaki uygulama verilerini kalıcı olarak siler.
 
-1. **Başlat** > **Ayarlar** > **Uygulamalar** > **Uygulamalar ve özellikleri**’i seçin.
+1. **Başlat** > **Ayarlar** > **Uygulamalar** > **Uygulamalar ve özellikler**’i seçin.
 
 1. Uygulamalar listesinde Microsoft Store’u bularak seçin.
 
 1. **Gelişmiş seçenekler**’i seçin.
 
-1. Aşağı kaydırın, **Sıfırla**’yı ve ardından **Sıfırlamayı Onayla** yı seçin. 
+1. Aşağı kaydırın, **Sıfırla**’yı ve ardından **Sıfırlamayı Onayla** yı seçin.
 
 **2. Adım: Microsoft Store önbelleğini temizleyin**
 
