@@ -1,5 +1,5 @@
 ---
-title: OneDrive 'da 0x8004de40 hatasını düzeltme
+title: OneDrive 0x8004de40 hatasını düzeltme
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: b9bd6dff48f78063e3d47f5fe2f834f59eb9868a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0edb3e19b5dea240c9f2846dc503e65d92113cb7
+ms.sourcegitcommit: 477cce131dc4a3c212ab18a8763a50b2f3bb20b1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745150"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51649768"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>OneDrive 'da 0x8004de40 hatasını düzeltme
+# <a name="fix-0x8004de40-error-in-onedrive"></a>OneDrive 0x8004de40 hatasını düzeltme
 
-OneDrive ile bir 0x8004de40 hatası alıyorsanız:
+Windows 7 çalıştırıyorsanız ve bu hatayı alıyorsanız Windows'ta WinHTTP'da varsayılan güvenli protokol olarak [TLS 1.1 ve TLS 1.2'yi](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)etkinleştirmek için güncelleştirin.
 
-- Acitve dizin etki alanınıza bağlıyken etkilenen bilgisayarı yeniden başlatın.
-- Yeniden yükleme sorunu çözmezse, aboneliğinizi kaldırın ve cihazınızı Azure AD 'den yeniden katın. 
+Windows 10 çalıştırsanız ve OneDrive ile ilgili bir 0x8004de40 hatası alırsanız:
 
-**Not**: Bu adımları uygularken şirket ağınızda olmalısınız. Şirket altyapısına (örneğin, seyahat halindeyken) bağlanamadığınızda bu adımları kullanmayın. 
+- Acitve Dizini etki alanınıza bağlıyken etkilenen bilgisayarı yeniden başlatın.
+- Yeniden başlatma bu sorunu çöze çözeni, cihazınızı Azure AD'den açın ve yeniden başlatın. 
 
-- Yükseltilmiş bir komut istemi açın. 
-- Yükseltilmiş bir komut istemini açmak için- **Başlat**'a tıklayın, **komut istemi**'ne sağ tıklayın ve **yönetici olarak Run**'a tıklayın.
-- *Dsregcmd/Leave* yazın ve **ENTER**tuşuna basın.
-- Tamamlandığında *dsregcmd/Join* yazın ve **ENTER**tuşuna basın.
-- Tamamlandığında komut istemini kapatın.
-- Bilgisayarı yeniden başlatın ve OneDrive 'da oturum açın.
+**Not:** Bu adımları gerçekleştirirken şirket ağınıza bağlanabilirsiniz. Şirket altyapınıza bağlı değilken (örneğin seyahat ederken) bu adımları gerçekleştirin. 
+
+1. Başlat öğesini seçerek yükseltilmiş bir komut istemi  **açın,** Komut İstemi'ne sağ tıklayın ve ardından Yönetici olarak çalıştır **'ı seçin.**
+
+1. *dsregcmd /leave yazın ve* Enter tuşuna **basın.**
+
+1. Tamamlandığında, *dsregcmd /join yazın ve* Enter tuşuna **basın.**
+
+1. Tamamlandığında, komut istemini kapatın.
+
+1. Bilgisayarı yeniden başlatın ve OneDrive'da oturum açın.
