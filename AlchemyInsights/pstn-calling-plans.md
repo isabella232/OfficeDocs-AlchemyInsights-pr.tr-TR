@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662525"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692486"
 ---
 # <a name="pstn-calling-plans"></a>PSTN arama planları
 
@@ -28,4 +28,4 @@ Kullanıcılarınızın normal telefonları arayabilmesini istiyorsanız ve sesl
 
 - Kullanıcılarının **dakikalarını tüketmelerini** önlemek için [İletişim Kredisi](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization)’ni ayarlayın. [Burada](https://products.office.com/microsoft-teams/voice-calling) ücretleri görebilirsiniz. 
 
-- Daha fazla bilgi için, [Telefon Sistemi ve Arama Planları](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) veya [İletişim Kredisi Nedir?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits) konularına göz atın.
+- Daha fazla bilgi için [bkz. Microsoft Teams Phone ve Microsoft Teams Arama Planları](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) veya İletişim [Kredileri Nelerdir?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

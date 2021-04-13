@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge 'i kullanmaya başlama
+title: Microsoft Edge'i kullanmaya başlama
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004163"
 - "7280"
-ms.openlocfilehash: b41b54d6888e6cfed422d0c38d17bb86b24b187b
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+- "10908"
+- "9006389"
+ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679827"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692774"
 ---
-# <a name="start-using-microsoft-edge"></a>Microsoft Edge 'i kullanmaya başlama
+# <a name="start-using-microsoft-edge"></a>Microsoft Edge'i kullanmaya başlama
 
-Microsoft, Web tarayıcısının yeni nesil yeni Microsoft Edge 'i yayımlamıştır. Bu, Kmıum Open-Source Foundation üzerine kurulmuştur ve SharePoint ve OneDrive gibi Microsoft ürünleriyle çalışmak üzere iyileştirilmiştir.
+Microsoft, web tarayıcısının yeni nesil olan yeni Microsoft Edge'i yayınlandı. Chromium açık kaynak temel temel üzerine kurulur ve SharePoint ve OneDrive gibi Microsoft ürünleriyle çalışacak şekilde en iyi duruma edilmiştir.
 
-Google Chrome, Mozilla Firefox veya Safari ile ilgili sorunlar yaşıyorsanız, Microsoft Edge kullanmanızı öneririz.
+Google Chrome, Mozilla Firefox veya Safari ile ilgili sorunlar yaşıyorsanız Microsoft Edge'i öneririz.
 
-Büyük bir kuruluşun yöneticisiyseniz, başlamak için [Microsoft Edge kurulum kılavuzumuzu](https://go.microsoft.com/fwlink/?linkid=2142423) kullanın.
+Büyük bir kuruluşun yöneticisiyseniz, kullanmaya başlamanız için [Microsoft Edge kurulum kılavuzumızı](https://go.microsoft.com/fwlink/?linkid=2142423) kullanın.
 
-Microsoft Edge 'i tek seferde bir cihaza indirmek için, [Yeni Microsoft kenarına giriş](https://go.microsoft.com/fwlink/?linkid=2141049)bölümüne gidin.
+Microsoft Edge'i tek tek tek tek indirmek için, Yeni [Microsoft Edge ile tanışma 'ya gidin.](https://go.microsoft.com/fwlink/?linkid=2141049)
