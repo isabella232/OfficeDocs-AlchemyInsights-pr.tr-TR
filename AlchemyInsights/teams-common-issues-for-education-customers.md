@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43739456"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692414"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Eğitim müşterilerinin karşılaştığı Teams’le ilgili yaygın sorunlar
 
@@ -45,7 +46,7 @@ Uzaktan öğrenimi desteklemek için Teams’in dağıtımı konusunda yardıma 
     6. Skype Kurumsal yönetim merkezinde **sesli konferans**’a ve ardından **kullanıcılar**’a tıklayın.
     7. Söz konusu kullanıcıyı seçin, kullanıcının Varsayılan Ücretli Numarasının olduğunu doğrulayın.
 
-    Daha fazla bilgi için [Arama Planları](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)’na bakın veya lisans ile ilgili sorular hakkında yardım almak için Microsoft Commerce Faturalama ekibini arayın.
+    Daha fazla bilgi için [Microsoft Teams Çağrı Planları](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) kaynağına bakın veya lisans ile ilgili sorular hakkında yardım almak için Microsoft Commerce Faturalama ekibini arayın.
 
     Ek Kaynaklar
 
