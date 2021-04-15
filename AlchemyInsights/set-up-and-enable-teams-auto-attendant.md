@@ -1,8 +1,8 @@
 ---
-title: Kurulum ve otomatik Görevlisi kurulumu
+title: Teams Otomatik Katılımcısı'nı ayarlama ve etkinleştirme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: f5c76d14970f05710670657aed8b71887944cdf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d996c31668d463a5df7be45a3e16a0ecb0946d3c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801132"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787337"
 ---
-# <a name="set-up-a-cloud-auto-attendant"></a>Bulut otomatik Görevlisi ayarlama
+# <a name="set-up-a-cloud-auto-attendant"></a>Bulut otomatik katılımcısı ayarlama
 
-Otomatik zayıfladınız Şu anda belirli lisans gereksinimlerine sahip. [Bulut otomatik düzeltici tehliklerini](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) oluşturma ve ayarlama hakkında bilgi edinmek için. 
+Otomatik santrallerin şu anda belirli lisans gereksinimleri vardır. Teams [otomatik santralleri oluşturma ve ayarlama hakkında](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) bilgi edinmek için Bulut otomatik santralleri nedir? bilgi edinmek için bkz. 
 
 Daha fazla bilgi için bkz.:
 
-- Microsoft ekipleri ile [bulut otomatik Görevlisi ayarlayın](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) . 
-- Microsoft ekipleri ile [bulut çağrı kuyruğu oluşturun](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) . 
-- [Doğrudan ekipten otomatik Görevlisi ve arama kuyruğu çağrılarını yanıtlayın](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
+- Microsoft Teams [ile bir Bulut otomatik](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) katılımcısı ayarlayın. 
+- Microsoft Teams [ile bir Bulut arama](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) kuyruğu oluşturun. 
+- [Otomatik santral ve arama kuyruğu aramalarını doğrudan Teams'den yanıtla](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 

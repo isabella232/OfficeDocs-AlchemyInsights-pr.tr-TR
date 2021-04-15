@@ -1,8 +1,8 @@
 ---
-title: Son veri etkilenme
+title: En son verilere maruz kalma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28a45f9922dd53727d80707aed781f7497c7ab9c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693251"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789380"
 ---
-# <a name="recent-data-exposure"></a>Son veri etkilenme
+# <a name="recent-data-exposure"></a>En son verilere maruz kalma
 
-Microsoft, redaksiyonu gerçekleştiren bir veritabanı kimlik doğrulaması yapılmadan erişilebilir olduğu bir üçüncü taraf araştırmacı tarafından hazırlanmıştır. 31 Aralık 2019 tarihinde, Microsoft veritabanını güvenli hale getirdi.
+Microsoft, üçüncü taraf bir araştırmacı tarafından, microsoft destek verilerini barındıran veritabanının kimlik doğrulaması olmadan erişilebilir olduğunu fark etti. 31 Aralık 2019'da Microsoft, veritabanını güvenlik altına aldı.
 
-Müşterilerimizin gizliliği ve güvenliğine kararlıdır ve bu sorunun gelecekte gelecekte oluşmasını önleyen işlemler gerçekleşiyoruz. Verileri bu Redaksiyonu yapılmış veritabanında bulunan müşterilere bildirimler başladık. Daha fazla bilgi için, lütfen [son bilgi pozlaması ile Ilgili müşteri tanıma bilgilerine](https://aka.ms/privacyinfo)gidin.
+Müşterilerimizin gizliliği ve güvenliğine kararlıyız ve bu sorunun bundan sonra ortaya çıkmasını önlemek için bir işlem yapmak istiyoruz. Verileri bu tam işlemli veritabanında bulunan müşterilere bildirimmaya başladık. Daha fazla bilgi için lütfen yakın zamanda yapılan [bilgilerin maruz kalmayla ilgili Müşteri farkındalığı bilgilerine gidin.](https://aka.ms/privacyinfo)

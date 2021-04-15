@@ -1,8 +1,8 @@
 ---
-title: Fatura ekstrenizin kopyasını e-postada alma
+title: Fatura hesap bilgilerinizin kopyasını e-posta olarak alın
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,23 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 8bd05fe4876328e22bbd614a1e6b3ee95338c0ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4b6a5b7e1cff8f109af09009ba5887e8ab38a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693287"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789452"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a>Fatura ekstrenizin kopyasını e-postada alma
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Fatura hesap bilgilerinizin kopyasını e-posta olarak alın
 
 Dilerseniz fatura ekstrenizin kopyasını e-posta eki olarak da alabilirsiniz. Bu işlem hakkında bilmeniz gerekenler:
   
 - Bildirim alıcısı olarak listenen herkesin hem birincil hem de alternatif e-posta adresine ileti gönderilir.
 
-- İki ayrı e-posta alacaksınız: bir tane, faturanızı görüntülemek için yönetim merkezinde oturum açma yönergeleriyle ve ek olarak faturalandırma bildirimini içeren ikinci bir e-postanın hazır olduğunu size bildirin.
+- Size iki ayrı e-posta gönderilir: bunlardan biri faturanızı hazır olduğunu size haber eder. Bu e-postayı görüntülemek için Yönetim merkezinde oturum açma yönergelerini ve fatura bildirimini içeren ikinci bir e-postayı da ek olarak alabilirsiniz.
 
-Fatura ekstrenizi e-posta ile almak için:
+Fatura hesaplarınızı e-posta olarak almak için:
   
-1. Yönetim merkezinde **faturalandırma** \> [faturalandırma bildirimleri](https://go.microsoft.com/fwlink/p/?linkid=853212) sayfasına gidin.
+1. Yönetim merkezinde Fatura Faturalandırma **bildirimleri** \> [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=853212) gidin.
 
-2. **Faturalandırma bildirimini e-posta eki olarak alma**başlığı altında, iki durumlu düğmeyi **Açık**duruma getirin. Fatura ekstrelerini e-posta olarak almayı durdurmak isterseniz, iki durumlu düğmeyi **Kapalı** duruma getirebilirsiniz.
+2. Fatura **bildirimini e-posta eki olarak mı alısınız?** altında, iki durumlu düğmeyi Açık olarak **değiştirebilirsiniz.** Fatura ekstrelerini e-posta olarak almayı durdurmak isterseniz, iki durumlu düğmeyi **Kapalı** duruma getirebilirsiniz.
