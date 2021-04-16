@@ -1,8 +1,8 @@
 ---
-title: Etkinleştirme sorunu-hesap Mac 'te düzenlemeye izin vermiyor
+title: Etkinleştirme sorunu - Hesap Mac'te düzenlemeye izin vermiyor
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: b4304f73ccad60f84c5cc6111de1e425695898e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69ccee6d9a412370577becb9c563d32ea0bb4038
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748849"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796004"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Microsoft 365 uygulamalarının "hesabınız Mac 'te düzenlemeye izin vermiyor" iletisi
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Microsoft 365 uygulamalarını düzeltme "Hesabınız Mac'te düzenlemeye izin vermiyor" iletisi
 
-Bu iletiyi alırsanız, aşağıdakileri deneyin:
+Bu iletiyi alırsanız, şunları deneyin:
 
 - İstemci lisanslarına izin verilen bir aboneliğe sahip olduğunuzdan ve [kullanıcıya bir lisans atanmış olduğundan](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) emin olun. 
 - [Lisans kaldırma aracını](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193) indirip çalıştırın.

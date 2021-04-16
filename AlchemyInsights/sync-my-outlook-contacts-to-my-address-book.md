@@ -1,8 +1,8 @@
 ---
-title: Outlook kişilerimi adres defterime Eşitle
+title: Outlook kişilerimi adres defterime eşitleme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a2f381eefcaf4b09713749035f390f65c53727
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737397"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797561"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Outlook kişilerimi adres defterime Eşitle
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Outlook kişilerimi adres defterime eşitleme
 
-Outlook, kişilerinizi Android 'deki varsayılan Kişiler uygulamasına vermenize olanak tanır. Bu, arama veya metin iletisi aldığınızda bir kişinin adını görmenize ve tüm kişi bilgilerini doğrudan varsayılan Kişiler uygulamasında görüntülemenize olanak tanır.
+Outlook kişilerinizi Android'de varsayılan Kişiler uygulamasına dışarı aktarmanıza olanak sağlar. Bu, bir arama veya kısa mesajla bir kişinin adını görme ve tüm kişi bilgilerini doğrudan varsayılan Kişiler uygulamasında görüntülemeye olanak sağlar.
  
-**Bu özelliği etkinleştirmek için**:
+**Bu özelliği etkinleştirmek için:**
  
-1. Cihazınızda **Ayarlar**'a gidin.
+1. Aygıtınızda Ayarlar'a **gidin.**
 
-2. **Hesaplar**altında, kişileri eşitlemek istediğiniz hesaba dokunun.
+2. **Hesaplar'ın** altında, kişileri eşitlemek istediğiniz hesaba dokunun.
 
-3. **Kişileri Eşitle** kaydırıcısını açık olarak değiştirin.
+3. Kişileri **Eşitle kaydırıcısını** AÇıK olarak ayarlayın.
  
-Şirket içi posta kutuları için Microsoft 365, Outlook.com ve karma modern kimlik doğrulaması için iki yönlü bağlantı dışarı aktarma desteklenir. Çift yönlü destek, eklediğiniz yeni kişilerin veya düzenlediğiniz kişilerin aygıtınızla Outlook hesaplarınız arasında eşitlenmesini sağlar.
+Microsoft 365'te iki yol üzerinde kişi dışarı aktarma, Outlook.com ve şirket içi posta kutuları için karma modern kimlik doğrulaması destekler. İki yol sağlayan destek, ekleyt tüm yeni kişilerin veya düzende var olan kişilerin cihazınızla Outlook hesaplarınız arasında eşitlensini sağlar.
  
-Eski Exchange hesaplarında, bilgisayarınıza kaydedilecek kişilerinizi dışarı aktarabilirsiniz. **Kişileri Eşitle** etkinleştirildiğinde, Outlook 'ta kişilerinize yapılan yeni ekli kişiler ve düzenlemeler aygıtınızdaki Kişiler uygulamasına kaydedilir. Ancak, doğrudan cihazınızın Kişiler uygulamasında yapılan düzenlemeler Outlook 'a kaydedilmez. Şirket içi Exchange hesapları için Android için Outlook 'tan kişileri eklemeyi/düzenlemeyi desteklemediğine ve bu nedenle kişilerinizi farklı bir Outlook istemcisinden yönetmeniz gerekecektir.
+Eski Exchange hesapları için, kişilerinizi cihaza kaydedilebilir şekilde dışarı aktarabilirsiniz. Kişileri **Eşitle** özelliği etkinleştirildiğinde, yeni eklenen kişiler ve Outlook'ta kişilerinizi düzenlemeleri aygıtınızda Kişiler uygulamasına kaydedilir. Bununla birlikte, doğrudan cihazınızın Kişiler uygulamasında yapılan düzenlemeler Outlook'a kayded olmaz. Şirket içi Exchange hesapları için Android için Outlook'tan kişi eklemeyi/düzenlemeyi desteklemeyeceğiz, bu nedenle kişilerinizi farklı bir Outlook istemciden yönetmeniz gerekir.
  
-Şimdilik, GMAIL ve iCloud için iletişim eşitlemesi desteklenmez.
+Şu an için GMAIL ve iCloud için kişi eşitleme desteklemektedir.
  
-Bu eşitlenen kişileri kaldırmak isterseniz, **eşitleme kişilerinizi** istediğiniz zaman değiştirebilir ve adres defterinizden kaldırılacaktır.
+Eşitlenen bu kişileri kaldırmak istediğiniz zaman Kişileri Eşitle'yi değiştirebilirsiniz ve bu kişiler adres defterinizden kaldırılır. 

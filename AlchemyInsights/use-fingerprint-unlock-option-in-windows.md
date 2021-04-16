@@ -1,8 +1,8 @@
 ---
-title: Windows 10 ' da parmak izi kilidini kullanma seçeneğini kullanma
+title: Windows 10'da parmak izi kilidi açma seçeneğini kullanma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 99f037f62748c06d77b526e35f67b711885c4a1e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba1f2e7b0bb54e89178a320b8579b8d1bfdaff9a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795264"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796697"
 ---
-# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Windows 10 ' da parmak izi kilidini kullanma seçeneğini kullanma
+# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Windows 10'da parmak izi kilidi açma seçeneğini kullanma
 
-**Windows Hello parmak Izini etkinleştirme**
+**Windows Hello Parmak İzi Tanımayı Etkinleştirme**
 
-Parmak izinizi kullanarak Windows 10 ' un kilidini açmak için, en az bir parmağınızı ekleyerek (Windows 'un tanıyacağı konusunda izin vererek) Windows Hello parmak Izini ayarlamanız gerekir. 
+Windows 10'un kilidini parmak izinizi kullanarak açmak için windows hello parmak izi kilidini en az bir parmağınızı ekleyerek (Windows'un tanımasını öğrenmesine izin vererek) ayarlamanız gerekir. 
 
-1. **> hesap > oturum açma seçenekleri** 'ne gidin (veya [burayı](ms-settings:signinoptions?activationSource=GetHelp)tıklatın). Kullanılabilir oturum açma seçenekleri listelenir. Örneğin:
+1. Oturum açma **seçenekleri > Hesaplar ve > ayarlar'a gidin (veya** buraya [tıklayın).](ms-settings:signinoptions?activationSource=GetHelp) Kullanılabilir oturum açma seçenekleri listelenir. Örneğin:
 
     ![Oturum açma seçenekleri.](media/sign-in-options.png)
 
-2. **Windows Hello parmak izi**'ne tıklayın veya dokunun, ardından **Ayarla**'ya tıklayın. Windows Hello kurulumu **penceresinde başlayın 'ı tıklatın.** Parmak izi algılayıcısı etkinleştirilir ve parmağınızı algılayıcının üzerine yerleştirmenizi istenecektir:
+2. Windows Hello Parmak **İzi Tanıma'ya tıklayın veya** dokunun, ardından Ayarla **öğesine tıklayın.** Windows Hello kurulum penceresinde, Başla **'ya tıklayın.** Parmak izi algılayıcısı etkin hale gelecektir ve parmağınızı algılayıcıya şu şekilde koyabilirsiniz:
 
    ![Parmak izi algılayıcısı.](media/fingerprint-sensor.png)
 
-3. Parmağınızı izleyerek parmağınızı sürekli taramanızı ister. Bu tamamlandığında, oturum açmak için kullanmak isteyebileceğiniz başka parmağınızı ekleme seçeneğiniz olur. Windows 10 ' da bir sonraki oturum açışınızda, parmak izinizi kullanarak bunu yapabilirsiniz.
+3. Parmağınızı tekrar tekrar taramanızı soracak şekilde yönergeleri izleyin. Bu tamamlandığında, oturum açma için kullanmak istediğiniz diğer parmaklarınızı ekleme seçeneğiniz olur. Windows 10'da bir sonraki oturum açsanız, bu şekilde parmak izinizi kullanma seçeneğiniz olur.
 
-**Windows Hello Parmak Izi oturum açma seçeneği olarak kullanılamaz**
+**Windows Hello Parmak İzi Tanıma oturum açma seçeneği olarak kullanılamıyor**
 
-Windows Hello Parmak Izi **oturum açma seçeneklerinde**bir seçenek olarak gösterilmiyorsa, Windows 'un bilgisayarınıza bağlı parmak izi okuyucusunun/tarayıcısının farkında olmadığı veya sistem ilkesinin kullanımını engellediğini (ÖRNEĞIN, PC 'niz iş yeriniz tarafından yönetiliyorsa). Sorun gidermek için: 
+Oturum açma seçeneklerinde Windows Hello Parmak İzi İşareti seçeneği gösterilmiyorsa, Windows bilgisayarınıza bağlı herhangi bir parmak izi okuyucusu/tarayıcısı farkında değildir veya sistem ilkesi bunun kullanımını engellemektedir (örneğin, bilgisayarınız çalışma alanınız tarafından yönetiliyorsa). Sorun gidermek için: 
 
-1. Görev çubuğundaki **Başlat** düğmesini seçin ve **Cihaz Yöneticisi 'ni**arayın.
+1. Görev çubuğunda **Başlangıç** düğmesini seçin ve Cihaz **Yöneticisi'ni arayın.**
 
-2. **Aygıt Yöneticisi 'ni**açmak için tıklayın veya dokunun.
+2. Cihaz Yöneticisi'ni açmak için **öğesine tıklayın veya dokunun.**
 
-3. Aygıt Yöneticisi 'nde, Çift Ayraca tıklayarak biyometrik cihazları genişletin.
+3. Cihaz Yöneticisi'nde, Biyometrik cihazları köşeli çift ayraçlarına tıklayarak genişletin.
 
    ![Biyometrik cihazlar.](media/biometric-devices.png)
 
-4. Parmak izi tarayıcınız, Synaptics ILEDI tarayıcısı gibi bir biyometrik aygıt olarak listelenmelidir:
+4. Parmak izi tarayıcınız Synaptics WBDI tarayıcı gibi biyometrik bir cihaz olarak listelenmiş olmalı:
 
    ![Biyometrik cihazlar.](media/biometric-devices-expanded.png)
 
-5. Parmak izi tarayıcınız gösterilmiyorsa ve tarayıcı bilgisayarınızla tümleşikse, bılgısayar üreticisinin Web sitesine gidin. PC modelinizin teknik destek bölümünde, yükleyebileceğiniz bir tarayıcı için Windows 10 sürücüsü arayın.
+5. Parmak izi tarayıcınızın gösterilmezse ve tarayıcı bilgisayarınızla tümleşikse, bilgisayar üreticisinin web sitesine gidin. Bilgisayar modelinize uygun teknik destek bölümünde, yük makineniz olan bir tarayıcı için Windows 10 sürücüsü aratırsınız.
 
-6. Tarayıcı PC 'den ayrıdır (USB ile bağlı), sahip olduğunuz tarayıcı modeli için Windows 10 cihaz sürücüsü yazılımını bulmak için tarayıcı üreticisinin Web sitesine gidin.
+6. Tarayıcı pc'den ayrı ise (USB ile takılı) sahip olduğunuz tarayıcı modeline uygun Windows 10 cihaz sürücüsü yazılımını bulmak ve yüklemek için tarayıcı üreticisinin web sitesine gidin.

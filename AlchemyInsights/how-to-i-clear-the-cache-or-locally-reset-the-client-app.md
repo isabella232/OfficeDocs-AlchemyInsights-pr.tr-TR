@@ -1,8 +1,8 @@
 ---
-title: İstemciyi/uygulamayı yerel olarak sıfırlama/yenilemeyi nasıl temizlerim?
+title: Önbelleği nasıl temizlim veya istemciyi/uygulamayı yerel olarak nasıl sıfırlar/yenilerim?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: ef56e513ca04f8b51390d565c18aabd7908c2f7f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e48bc08ac8098d8783bdf884aaf618feb1967327
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780295"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795968"
 ---
-# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>İstemciyi/uygulamayı yerel olarak sıfırlama/yenilemeyi nasıl temizlerim?
+# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Önbelleği nasıl temizlim veya istemciyi/uygulamayı yerel olarak nasıl sıfırlar/yenilerim?
 
-Tamamlanmamış veya yanlış verileri görüyorsanız uygulamayı kapatıp yeniden açmayı deneyin.  
+Eksik veya yanlış veriler görüyorsanız, kapatmaya zorlamak ve uygulamayı yeniden açmak deneyin.  
 
-Bu işe yaramazsa, cihazdaki hesabı sıfırlamayı deneyebilirsiniz.
+Bu işe yaramadı mı? Hesabı cihazda sıfırlamayı deneyebilirsiniz.
  
-Uygulamayı açın, **Ayarlar**'a gidin, e-posta hesabını seçin ve **hesabı Sıfırla**'yı seçin.
+Uygulamayı açın, Ayarlar'a **gidin,** e-posta hesabını seçin ve Hesabı **Sıfırla'yı seçin.**
