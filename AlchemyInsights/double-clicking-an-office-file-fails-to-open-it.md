@@ -1,8 +1,8 @@
 ---
-title: Office dosyasını çift tıklatmak dosyayı açamaz
+title: Bir Office dosyasına çift tık başarısız olan dosya açamıyor
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2200002"
 - "161"
-ms.openlocfilehash: 9dc4196cd36c8682e4d047e8abad493be97ced3f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b9c563f7dd099bf3bad9018f69e2096816dd7290
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812099"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814825"
 ---
-# <a name="double-clicking-an-office-file-fails-to-open-it"></a>Office dosyasını çift tıklatmak dosyayı açamaz
+# <a name="double-clicking-an-office-file-fails-to-open-it"></a>Bir Office dosyasına çift tık başarısız olan dosya açamıyor
 
-Bir Office dosyasını çift tıklattıktan sonra, programın açık olduğunu ancak dosyanın kendisinin açık olmadığını görebilirsiniz. Veya şu hatayı alabilirsiniz: "komut programa gönderilirken bir sorun oluştu." Bunun birçok nedeni vardır, ancak en yaygın iki çözüm bulunmaktadır:
+Bir Office dosyasına çift tıklarsanız, programın açık olduğunu ama dosyanın kendisini açmadıyabilirsiniz. Ya da şu hatayı alabilirsiniz: "Komutu programa gönderirken bir sorun oluştu." Bunun birçok nedeni vardır, ancak en yaygın iki çözüm vardır:
 
-- Excel içinden, DDE seçeneğinin işaretlenmemiş olduğundan emin olun. Bu seçenek, yeni bir çalışma kitabı oluşturularak ve **gelişmiş > dosya > seçenekleri**seçilerek bulunabilir. **Genel** bölümünde, **dinamik VERI değişimi (DDE) kullanan diğer uygulamaları yoksay**seçeneğinin işaretini kaldırın.
+- Excel'in içinde, DDE seçeneğinin işaretsiz olduğundan emin olur. Bu seçenek, yeni bir çalışma kitabı oluşturarak ve sonra Dosya Seçenekleri > **Ve Gelişmiş > bulunabilir.** Genel **bölümünde,** Dinamik Veri Değişimi **(DDE) kullanan diğer uygulamaları yoksay'ın işaretini kaldırın.**
 
-- Varsayılan ayarları geri yüklemek için çevrimiçi onarım 'ı çalıştırabilirsiniz. Windows Başlat düğmesine tıklayın ve "Denetim Masası" nı arayın. **Denetim Masası**'nı açın ve programlar **> programlar ve Özellikler**'e gidin. Ardından **Microsoft Office [sürüm]** öğesine sağ tıklayın ve **Çevrimiçi onarım > Değiştir**'i seçin.
+- Varsayılan ayarları geri yüklemek için Çevrimiçi Onarım'i çalıştırın. Windows Başlat düğmesine tıklayın ve "Denetim Masası" ifadesini aratır. Denetim **Masası'nı açın** ve Programlar ve **Özellikler > gidin.** Ardından Microsoft **Office [Sürüm] üzerine sağ tıklayın ve Çevrimiçi** **Onarım'da > öğesini seçin.**
 
-Bu çözümlerden hiçbirisi işe yaramazsa, destek makalesinde daha eksiksiz bir çözüm listesi bulunabilir, bir [Office dosyasını çift tıklatarak açamaz](https://support.office.com/article/Double-clicking-an-Office-file-fails-to-open-it-1e9c0ad9-34c8-4440-a42e-d30186b29ed6).
+Bu çözümlerden hiçbiri işe yaramazsa, Office dosyasına çift tıklandıktan sonra dosya açılmaya çalışamaz. Destek makalesinde çözümlerin [daha eksiksiz bir listesi bulunabilir.](https://support.office.com/article/Double-clicking-an-Office-file-fails-to-open-it-1e9c0ad9-34c8-4440-a42e-d30186b29ed6)

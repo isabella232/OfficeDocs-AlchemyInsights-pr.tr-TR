@@ -2,7 +2,7 @@
 title: eBulma dışarı aktarma aracı
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,20 +15,20 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277945"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814608"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>EBulma dışarı aktarma aracı yüklenemiyor veya çalıştırılamıyor misiniz?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>eBulma Dışarı Aktarma Aracı'nı yükleye mi çalıştırasınız veya çalıştırasınız?
 
-Arama sonuçlarını indirmek için eBulma dışarı aktarma aracı 'nı yükleyemiyor veya çalıştıramıyorsanız, aşağıdakileri denetleyin:
+Arama sonuçlarını indirmek için eBulma Dışarı Aktarma Aracı'nı yükleye değil de çalıştırasanız, aşağıdaki kontrol edin:
   
-- Kullandığınız bilgisayar bu önkoşulları karşılar:
+- Kullanmakta olduğunuz bilgisayar şu önk önkulları karşılar:
 
-  - Windows 7 ve sonraki sürümlerin 32 veya 64-bit sürümleri
+  - Windows 7 ve sonraki sürümlerin 32 veya 64 bit sürümleri
 
   - Microsoft .NET Framework 4.7
 
@@ -42,10 +42,10 @@ Arama sonuçlarını indirmek için eBulma dışarı aktarma aracı 'nı yükley
 
     Google Chrome ve Mozilla Firefox gibi diğer tarayıcılar desteklenmez.
 
-- Kuruluşunuz, Azure 'da ** \* . blob.Core.Windows.net** (joker karakter, dışarı aktarma işiniz için benzersiz tanımlayıcıyı temsil eder) uç noktasına bağlanabilir.
+- Organizasyonunız Azure'daki **\* .blob.core.windows.net** uç noktasına bağlanabilirsiniz (joker karakter, dışarı aktarma işinin benzersiz bir tanımlayıcısını temsil eder).
 
-- Microsoft 365 güvenlik Uyumluluk Merkezi 'nde dışarı aktarma rolüne atanırsınız &amp; . Varsayılan olarak bu rol yalnızca eBulma Yöneticisi rol grubuna atanır. [EBulma Izinleri atama](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)konusuna bakın.
+- Microsoft 365 Güvenlik Uyumluluk Merkezi'nde Dışarı Aktarma &amp; rolüne atandık. Varsayılan olarak, bu rol yalnızca eBulma Yöneticisi rol grubuna atanır. Bkz. [eBulma izinleri atama.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-Daha fazla bilgi için bkz: [Içerik arama sonuçlarını dışarı aktarma](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Daha fazla bilgi için bkz. [İçerik Arama sonuçlarını dışarı aktarma.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 
-100K posta kutularını dışarı aktarıyorsanız, dışarı aktarma sonuçlarını indirmek için aşağıdaki PowerShell 'i kullanmanız gerekir:  [100 ' den fazla posta kutusu 'ndan sonuçları dışarı aktarma](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+100.000'den fazla posta kutusunu dışarı aktarıyorsanız, Sonuçları dışarı aktarma:  [100.000'den](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)fazla posta kutusundan sonuçları dışarı aktarma.

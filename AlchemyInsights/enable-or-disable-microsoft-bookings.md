@@ -2,21 +2,22 @@
 title: Microsoft Bookings’i etkinleştirme veya devre dışı bırakma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5499"
-ms.openlocfilehash: a010a75b50230541494908bbaa8257f721546054
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 05ee4c8a9e5c3f7b0827d50e2469915f4c1e86a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944648"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814068"
 ---
 # <a name="enable-or-disable-microsoft-bookings"></a>Microsoft Bookings’i etkinleştirme veya devre dışı bırakma
 

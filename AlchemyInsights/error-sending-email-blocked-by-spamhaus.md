@@ -1,8 +1,8 @@
 ---
-title: SpamHaus tarafından engellenen bir e-posta gönderilirken hata oluştu
+title: SpamHaus tarafından engellenen e-posta gönderme hatası
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +14,19 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: a0c2f4be0b2d8ba6fd3dadbdf306e6ce623ad380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b5ac1df0b6a07a475345235a8b4b555d6881147
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783823"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813744"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>E-posta gönderilirken hata oluştu: Istemci ana bilgisayarı Spamhaus kullanılarak engellendi
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>E-posta gönderme hatası: İstemci ana bilgisayarı Spamhaus kullanılarak engellendi
 
-İletiyi gönderen IP adresi, [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245)'in sahip olduğu bir engelleme listesinde yer alıyor. Spamhaus tarafından engellenmesi nedenleri, genel bir IP adresi ve Internet servis sağlayıcısı (ISS) ilkelerini paylaşan güvenliği aşılan hesaplar, güvenliği aşılan makineler içeriyor. Olası düzeltmeler:
+İletiyi gönderen IP adresi Spamhaus'un engellenenler [listesinde yer alıyor.](https://go.microsoft.com/fwlink/p/?linkid=123245) Güvenliği tehlikeye atılmış hesaplar, ortak IP adresini paylaşarak güvenliği tehlikeye makineler ve İnternet Servis Sağlayıcısı (ISS) ilkeleri Spamhaus'un engelleme nedenlerinden bazılarıdır. Olası düzeltmeler:
   
-- Kaynak e-posta sunucusunu kontrol ettiğiniz engellenen gelen iletilerde, nedeni belirlemeniz ve bloğu Spamhaus Web sitesinden kaldırmanız gerekir.
+- Kaynak e-posta sunucusunu kontrol etmek istediğiniz engellenen gelen iletiler için engelin nedenini belirlemeli ve engeli Spamhaus web sitesinden kaldırabilirsiniz.
 
-- Kaynak IP adresinin başka birine ait olduğu engellenen gelen iletiler için, adresin sahibinin, Spamhaus Web sitesinden engellemeyi kaldırması gerekmektedir. IP adresi Ilke engelleme listesinde (PBL) yer alıyorsa, sahibi farklı bir statik IP adresi atayabilir veya bu adresi PBL 'den kaldırabilir.
+- Kaynak IP adresinin başka birine ait olduğu engellenen gelen iletiler için adres sahibinin engeli Spamhaus web sitesinden kaldırması gerekir. IP adresi İlke Engelleme Listesi'de (PBL) yer alıyorsa, IP adresinin sahibi farklı bir statik IP adresi atayan veya adresi PBL'den kaldırabilir.
 
-- Microsoft 'a bağlı etki alanınızda engellenmiş giden iletiler için, iletiler üçüncü taraf bir hizmet üzerinden yönlendirildiyse bu hatayı alabilirsiniz. Engellenen IP adresi sahibini bulmak için bir WHOIS arama aracı kullanabilirsiniz.
+- İletiler bir üçüncü taraf hizmeti tarafından yönlendirildiyse, etki alanınıza bağlı olan engellenmiş giden iletiler için bu hatayı alabilirsiniz. Engellenmiş IP adresinin sahibini bulmak için WHOIS arama aracını kullanabilirsiniz.

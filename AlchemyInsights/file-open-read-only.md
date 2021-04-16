@@ -1,8 +1,8 @@
 ---
-title: Dosya salt okunur açılıyor
+title: Dosya açık salt okunur
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,43 +13,43 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745627"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813204"
 ---
-# <a name="file-open-read-only"></a>Dosya salt okunur açılıyor
+# <a name="file-open-read-only"></a>Dosya açık salt okunur
 
-Dosyaları açarken salt okunur olarak açıldığını görebilirsiniz. Bazı durumlarda bu, internet 'ten dosya açarken ve başka zamanlarda da değiştirilebilen bir ayardan kaynaklanıyor gibi ek güvenlik için. Burada, bir dosyanın salt okunur olarak açıldığı bazı senaryolar ve bunu değiştirmek için uygulayabileceğiniz bazı adımlar vardır.
+Dosyaları a açıyorken bunların salt okunur olarak aç olduğunu bulabilirsiniz. Bazı durumlarda, örneğin İnternet'te dosya aken ek güvenlik için bu olabilir ve diğer zamanlarda, değiştiril bir ayardan dolayı söz konusu olabilir. Burada, dosyanın salt okunur aç olduğu bazı senaryolar ve bunu değiştirmek için atabilirsiniz.
   
- **Virüsten koruma, kişilerin salt okunur açmasına neden oluyor**
+ **Virüsten koruma yazılımım salt okunur açılmasına neden oluyor**
   
-Bazı virüsten koruma programları, güvenli olmayabilecek dosyaların salt okunur olarak açılmasını koruyabilir. Bu ayarları ayarlamayı öğrenmek için virüsten koruma sağlayıcınızla iletişim kurmanız gerekebilir. Örneğin, BitDefender 'ın içinde uygulama dışlamaları ekleme hakkında içeriği vardır: [BitDefender denetim merkezinde uygulama veya süreç dışlamaları nasıl eklenir?](https://aka.ms/AA6098i)
+Bazı virüsten koruma programları, dosyaları salt okunur açarak güvenli olmayabilecek dosyalara karşı sizi koruyabilir. Bu ayarların nasıl ayarla ilgili olduğunu öğrenmek için virüsten koruma sağlayıcınıza danışın. Örneğin BitDefender'ın uygulama dışlamaları ekleme içeriğini burada bulunmaktadır: [Bitdefender Control Center'da](https://aka.ms/AA6098i)uygulama veya işlem dışlamaları ekleme.
   
- **Dosya özellikleri salt okunur olarak ayarlandı mı?**
+ **Dosya özellikleri salt okunur olarak mı ayarlanmış?**
   
-Dosya özelliklerini, dosyayı sağ tıklatıp Özellikler 'i seçerek denetleyebilirsiniz. Salt okunur özniteliği işaretliyse, işareti kaldırıp Tamam 'ı tıklatabilirsiniz.
+Dosyaya sağ tık tıklar ve Özellikler'i seçerek dosya özelliklerini kontrol edin. Salt okunur özniteliği işaretli olursa, işaretini kaldırarak Tamam'ı tıklatın.
   
  **İçerik korumalı görünümde**
   
-Internet 'ten ve güvenli olmayabilecek diğer konumlardan gelen dosyalar bilgisayarınıza zarar verebilecek virüs, solucan veya başka türde kötü amaçlı yazılımlar içerebilir. Bu, e-posta ekleri Bilgisayarınızı korumaya yardımcı olmak için, güvenli olmayabilecek konumlardan gelen dosyalar korumalı görünüm 'de açılır. Korumalı Görünüm 'ü kullanarak, bir dosyayı okuyabilir ve risklerini azaltırken içeriğini görebilirsiniz. Korumalı Görünüm ve ayarları değiştirme hakkında daha fazla bilgi için şu makaleye bakın: [Korumalı Görünüm nedir?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+İnternet ve güvenli olmayabilecek konumlardan alınan dosyalar virüs, solucan veya bilgisayarınıza zarar verecek başka bir tür kötü amaçlı yazılım içerebilir. E-posta ekleri veya indirdiğiniz dosyalar için de bu durum yaygındır. Bilgisayarınızın korunmasına yardımcı olmak için, güvenli olmayabilecek bu konumlardan gelen dosyalar Korumalı Görünüm'de açılır. Korumalı Görünüm'i kullanarak dosyayı okuyabilir ve içeriğini görebilir ve bu arada riski de azaltabilirsiniz. Korumalı görünüm ve ayarları değiştirme hakkında daha fazla bilgi için şu makaleye bakın: [Korumalı Görünüm nedir?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **OneDrive mı?**
+ **OneDrive dolu mu?**
   
-Dosya OneDrive 'da depolanıyorsa ve OneDrive depolama alanınız doluysa, size ayrılan alanınız gelene kadar belgeyi kaydedemezsiniz. Bildirim merkezinde OneDrive simgesine tıklayıp depolama alanını yönet 'i seçerek OneDrive 'daki boş alanınızı denetleyebilir ve Depolamayı Yönet 'i seçerek [https://onedrive.live.com](https://onedrive.live.com) , oturum açabilir, oturum açabilir ve ekranın sol alt kısmındaki kullanılan alanın miktarına bakabilirsiniz.
+Dosya OneDrive'da depolanıyorsa ve OneDrive depolama alanınız dolu ise, size gereken alan altında olana kadar belgeyi kaydedesiniz. OneDrive'da boş alanlarınızı kontrol etmek için bildirim merkezinde OneDrive simgesine tıklar ve Depolamayı yönet'i seçin veya 'a gidebilir, oturum açın ve ekranın sol alt köşesindeki kullanılan alan miktarını not [https://onedrive.live.com](https://onedrive.live.com) edin.
   
  **Office etkinleştirildi mi?**
   
-Office etkinleştirilmemişse veya aboneliğinizin süresi dolduysa salt okunur Işlevi azaltılmış olabilir. Office 'i etkinleştirme hakkında bilgi için bkz: [Office 'Teki Lisanssız ürün ve etkinleştirme hataları](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Office etkinleştirilmemişse veya aboneliğinizin süresi dolmuşsa, salt okunur Sınırlı İşlevsellik Modundayabilirsiniz. Office'i etkinleştirme hakkında bilgi için bkz. [Office'te Lisanssız Ürün ve etkinleştirme hataları.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
   
- **Tümü başarısız olursa...**
+ **Diğer her şey başarısız olursa...**
   
 - Bilgisayarı yeniden başlatmayı deneyin
     
 - Office güncelleştirmelerini yükleme
     
-- Office 'in çevrimiçi onarımını gerçekleştirme
+- Office'in Çevrimiçi onarımını gerçekleştirin
     
 
