@@ -1,8 +1,8 @@
 ---
-title: Masaüstü analizi sırasında erişim belirteci hatası doğrulanırken hata oluştu
+title: Desktop Analytics'e kabul edilirken erişim belirteci hatasını doğrulama hatası oluştu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12e5906ba8cbc76ba1fd99dde1cf76396c3a6942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783571"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813708"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a><span data-ttu-id="983dc-102">Masaüstü analitik ekleme sırasında "erişim belirteci doğrulanırken hata oluştu" hatası</span><span class="sxs-lookup"><span data-stu-id="983dc-102">"There was an error validating access token" error during Desktop Analytics onboarding</span></span>
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a><span data-ttu-id="697ab-102">Desktop Analytics ekleme sırasında "Erişim belirteci doğrulayla ilgili bir hata oluştu" hatası</span><span class="sxs-lookup"><span data-stu-id="697ab-102">"There was an error validating access token" error during Desktop Analytics onboarding</span></span>
 
-<span data-ttu-id="983dc-103">Bu hata normalde kimlik doğrulama belirtecinin süresi dolduğunda izlenir.</span><span class="sxs-lookup"><span data-stu-id="983dc-103">This error is normally observed when the authentication token expires.</span></span> <span data-ttu-id="983dc-104">Genellikle, sayfayı yenilemek belirteci yeniler.</span><span class="sxs-lookup"><span data-stu-id="983dc-104">Usually, refreshing the page refreshes the token.</span></span> <span data-ttu-id="983dc-105">Ancak, yerleşik masaüstü analizinde kullanılan hesaba herhangi bir koşullu erişim ilkesi uygulanmışsa bu sorun devam edebilir.</span><span class="sxs-lookup"><span data-stu-id="983dc-105">However, this issue can persist if there are any Conditional Access policies applied to the account being used to on-board Desktop Analytics.</span></span> <span data-ttu-id="983dc-106">Masaüstü Analizi ekleme için kullanılan hesabın oturum açma hataları olup olmadığını görmek için Azure portalında Azure AD oturum açma günlüklerini gözden geçirebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="983dc-106">You can review the Azure AD Sign In logs in the Azure Portal to see if there are any sign-in failures for the account being used for Desktop Analytics onboarding.</span></span>
+<span data-ttu-id="697ab-103">Bu hata normalde kimlik doğrulama belirtecin süresi dolduğunda gözlemlenir.</span><span class="sxs-lookup"><span data-stu-id="697ab-103">This error is normally observed when the authentication token expires.</span></span> <span data-ttu-id="697ab-104">Genellikle, sayfa yenilendiğinde belirteci yeniler.</span><span class="sxs-lookup"><span data-stu-id="697ab-104">Usually, refreshing the page refreshes the token.</span></span> <span data-ttu-id="697ab-105">Bununla birlikte, tahtada Desktop Analytics'e kullanılan hesaba uygulanmış herhangi bir Koşullu Erişim ilkesi varsa bu sorun kalıcı olabilir.</span><span class="sxs-lookup"><span data-stu-id="697ab-105">However, this issue can persist if there are any Conditional Access policies applied to the account being used to on-board Desktop Analytics.</span></span> <span data-ttu-id="697ab-106">Desktop Analytics ekleme için kullanılan hesapta herhangi bir oturum açma hatası olup kontrol etmek için Azure Portal'daki Azure AD Oturum Açma günlüklerini gözden geçirebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="697ab-106">You can review the Azure AD Sign In logs in the Azure Portal to see if there are any sign-in failures for the account being used for Desktop Analytics onboarding.</span></span>
 
-<span data-ttu-id="983dc-107">Koşullu erişim hakkında daha fazla bilgi için [koşullu erişim dağıtımınızı planlayın](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access)sayfasını ziyaret edin.</span><span class="sxs-lookup"><span data-stu-id="983dc-107">For more information about Conditional Access, visit [Plan your Conditional Access deployment](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).</span></span>
+<span data-ttu-id="697ab-107">Koşullu Erişim hakkında daha fazla bilgi için Koşullu Erişim [dağıtımınızı planlama .](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access)</span><span class="sxs-lookup"><span data-stu-id="697ab-107">For more information about Conditional Access, visit [Plan your Conditional Access deployment](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).</span></span>
