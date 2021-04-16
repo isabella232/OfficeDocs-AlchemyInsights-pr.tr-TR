@@ -1,8 +1,8 @@
 ---
-title: Office dağıtım aracı 'nı (ODT) kullanma hakkında sorular
+title: Office Dağıtım Aracı'nı (ODT) kullanma hakkında sorular
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,22 +10,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: c5b055989014b464d3136895702c8ea40e8eb701
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 20e0b6aa3c298ee0a4291c3da6ae46978177e81f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086176"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790352"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Office dağıtım aracı 'nı (ODT) kullanma hakkında sorular
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Office Dağıtım Aracı'nı (ODT) kullanma hakkında sorular
 
-Office dağıtım aracı 'nı [Microsoft Yükleme Merkezi](https://go.microsoft.com/fwlink/p/?LinkID=626065)'nden yükleyin.
+Microsoft İndirme Merkezi'nden Office [Dağıtım Aracı'nı indirin.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
   
-Dosyayı indirdikten sonra, Office dağıtım Aracı yürütülebilir (setupodt.exe) ve örnek yapılandırma dosyası (configuration.xml) içeren kendiliğinden ayıklanan yürütülebilir dosyayı çalıştırabilirsiniz.
+Dosyayı indirdikten sonra, Office Dağıtım Aracı yürütülebilir dosyasını (setup.exe) ve örnek bir yapılandırma dosyasını (yürütülebilir) içeren, otomatik olarak ayıklanan yürütülebilir dosyayı configuration.xml.
   
- **Kurumsal Ürünler için Microsoft 365 uygulamalarını istemci bilgisayarlardan dışlamak veya kaldırmak için:**
+ **Kurumsal ürünler için Microsoft 365 Uygulamalarını istemci bilgisayarlardan çıkarmak veya hariç tutmak için:**
   
-Kuruluş için Microsoft 365 uygulamalarını yüklerken belirli ürünleri dışlayabilirsiniz. Bunu yapmak için, Office 'i ODT ile yükleme adımlarını izleyin, ancak yapılandırma dosyanıza ExcludeApp öğesini ekleyin. Örneğin, bu yapılandırma dosyası Publisher dışında kurumsal ürünler için Microsoft 365 uygulamalarını yükler:
+Microsoft 365 Uygulamalarını kuruluş için yüklerken belirli ürünleri hariç tutabilirsiniz. Bunu yapmak için, ODT ile Office'i yükleme adımlarını izleyin, ancak yapılandırma dosyanıza ExcludeApp öğesini de dahil edin. Örneğin, bu yapılandırma dosyası Publisher dışındaki kurumsal ürünler için tüm Microsoft 365 Uygulamalarını yüklemektedir:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -36,6 +36,6 @@ Kuruluş için Microsoft 365 uygulamalarını yüklerken belirli ürünleri dı�
 </Add>
 ```
 
-[Office dağıtım aracına genel bakış](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
+[Office Dağıtım Aracı'nı genel bakış](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
   
 

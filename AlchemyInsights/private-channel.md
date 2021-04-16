@@ -2,7 +2,7 @@
 title: Özel kanal
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6812bd789e0769118cf940418e8edeae8a1c2355
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801825"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790424"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Microsoft ekiplerindeki özel kanallar
+# <a name="private-channels-in-microsoft-teams"></a>Microsoft Teams'de özel kanallar
 
-Microsoft ekiplerindeki özel kanallar, ekipleriniz içinde işbirliği için odaklanmış alanlar oluşturur. Ekipte yalnızca özel kanalın sahibi veya üyesi olan kullanıcılar kanala erişebilir. Zaten ekibin üyesi olmaları koşuluyla konuklar dahil herkes özel kanala üye olarak eklenebilir.
+Microsoft Teams'de özel kanallar, ekipleriniz içinde işbirliğine yönelik odaklanmış alanlar oluşturun. Ekipte yalnızca özel kanalın sahibi veya üyesi olan kullanıcılar kanala erişebilir. Zaten ekibin üyesi olmaları koşuluyla konuklar dahil herkes özel kanala üye olarak eklenebilir.
 
-Daha fazla bilgi edinmek için [Microsoft ekiplerde özel kanallarla](https://docs.microsoft.com/MicrosoftTeams/private-channels)başlayın. [Özel kanal oluşturma, üyelik](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) ve [özel kanal SharePoint siteleri](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)gibi bilgiler de buna dahildir.
+Daha fazla bilgi edinmek için, [Microsoft Teams'te özel kanallar ile çalışmaya başlama.](https://docs.microsoft.com/MicrosoftTeams/private-channels) Bu, özel kanal [oluşturma, üyelik ve özel kanal](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [SharePoint siteleri gibi bilgileri içerir.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
-**Yeni bir ekip sahibine mı ihtiyacınız var?**
+**Yeni bir ekip sahibi mi gerekiyor?**
 
-Özel kanal sahibiniz kuruluşunuzu bırakır veya gruptan kaldırılırsa, özel kanalın üyesi otomatik olarak özel kanal sahibi olacak şekilde yükseltilir.
+Özel kanal sahibiniz kuruluştan ayrılırsa veya gruptan çıkarılırsa, özel kanalın bir üyesi otomatik olarak özel kanal sahibi olarak yükseltilir.
 
-Yöneticiler ayrıca, özel kanallar oluşturabilbilecekleri ilkeler hakkında daha fazla bilgi edinmek için [Microsoft ekiplerde özel kanalların yaşam döngüsünü](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) yönetme kuralları
+Yöneticiler ayrıca, özel kanal oluşturacak olan kanalları yönetecek ilkeler hakkında daha fazla bilgi edinmek ve eKbulma veya yasal tabirleri için sorgular oluşturmanıza yardımcı olmak için [Microsoft Teams'de](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) özel kanalların yaşam döngüsünü yönetme makalesinde de yer almaktadır.

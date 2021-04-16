@@ -2,7 +2,7 @@
 title: Yeterli bellek yok
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2564"
 - "9000678"
-ms.openlocfilehash: 0729efa4c4662047c1a5103788ecf129bff2a4ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e717f355152bb58285d3c0e817d2e0c12907ba2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772606"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51791144"
 ---
 # <a name="there-isnt-enough-memory-to-complete-this-action"></a>Bu eylemi tamamlamak için yeterli bellek yok
 
-Bir Microsoft Excel dosyasıyla çalışırken, aşağıdaki iletilerden birini alırsınız:
+Bir Microsoft Excel dosyasıyla çalışıyorsanız, aşağıdaki iletilerden birini alırsınız:
 
-- Excel, kullanılabilir kaynaklarla bu görevi tamamlayamıyor. Daha fazla veri seçin veya diğer uygulamaları kapatın.
-- Bellek yetersiz
-- Tamamen görüntülemek için sistem kaynakları yetersiz
-- Bu eylemi tamamlamak için yeterli bellek yok. Daha fazla veri kullanmayı veya diğer uygulamaları kapatmayı deneyin. Bellek kullanılabilirliğini yükseltmek için: 
-    - Microsoft Excel 'in 64 bit sürümünü kullanma.
+- Excel bu görevi kullanılabilir kaynaklarla tamamamaz. Daha az veri seçin veya diğer uygulamaları kapatın.
+- Bellek Yetersiz
+- Tamamen Görüntülemek için yeterli Sistem Kaynağı Yok
+- Bu eylemi tamamlamak için yeterli bellek yok. Daha az veri kullanmayı veya diğer uygulamaları kapatmayı deneyin. Belleğin kullanılabilirliğini artırmak için şunları göz önünde önünde düşünün: 
+    - Microsoft Excel'in 64 bit sürümünü kullanma.
     - Cihazınıza bellek ekleme.
 
-Bu hataları gidermek için [Excel 'de "kullanılabilir kaynaklar" hatalarında nasıl sorun giderileceği](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)gerektiğini görün.
+Bu hataları gidermek için bkz. [Excel'de "kullanılabilir kaynaklar" hatalarını giderme.](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)

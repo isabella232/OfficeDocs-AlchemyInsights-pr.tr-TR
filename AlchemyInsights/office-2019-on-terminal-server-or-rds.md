@@ -1,8 +1,8 @@
 ---
-title: Terminal Server veya RDS üzerinde Office 2019
+title: Terminal Sunucusu veya RDS üzerinde Office 2019
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: 5454fad58411e9d86e19dfa83a1a553a2c2b05b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b61f0396c4698aaa54df74d6612d1a35d37f652
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754585"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51791000"
 ---
-# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>RDS, Terminal Server veya VDı 'da Office 2019 ' i paylaşılan kullanıma dağıtma
+# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Office 2019'un RDS, Terminal Sunucusu veya VDI'de paylaşılan kullanım için dağıtımı
 
-Office, başka herhangi bir Office planını kullanan RDS sunucusunda zaten yüklüyse kaldırın. Örneğin, **Denetim Masası**'na gidin  >  **Uninstall a program**. Sorunlarla karşılaşıyorsanız, [Microsoft destek ve Kurtarma Yardımcısı 'nı](https://aka.ms/SARA-OfficeUninstall-Alchemy)kullanarak kaldırın. 
+Office diğer Office planlarının herhangi birini kullanarak RDS sunucusuna zaten yüklenmişse kaldırın. Örneğin Denetim Masası Program **kaldırma**  >  **'ya gidin.** Sorun yaşıyorsanız, Microsoft Destek ve Kurtarma [Yardımcısı'nu kullanarak kaldırın.](https://aka.ms/SARA-OfficeUninstall-Alchemy) 
 
-Office 'i yüklemek için Office dağıtım aracı 'nı (ODT) kullanın. Ayrıntılı adımlar için [Office 2019 'ı dağıtma](https://docs.microsoft.com/deployoffice/office2019/deploy)konusuna bakın.
+Office'i yüklemek için Office Dağıtım Aracı'nı (ODT) kullanın. Ayrıntılı adımlar için [bkz. Office 2019'un Dağıtımı.](https://docs.microsoft.com/deployoffice/office2019/deploy)
 
-Etkinleştirme için, [Office 'in toplu etkinleştirme konusuna genel bakış](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office)konusuna bakın.
+Etkinleştirme için bkz. [Office'in toplu etkinleştirmeye genel bakış.](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office)
