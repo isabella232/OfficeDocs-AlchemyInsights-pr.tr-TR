@@ -1,40 +1,41 @@
 ---
-title: MIP SKD kullanma
+title: MIP SKD Kullanımı
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: cbd35b48bc7d9f0c7b254ae5b16aa118d29fe34c
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: 79da600622cc02a3c959a32c84a413bb262bdc4b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358686"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770975"
 ---
-# <a name="using-mip-skd"></a>MIP SKD kullanma
+# <a name="using-mip-skd"></a>MIP SKD Kullanımı
 
-MIP SDK'yı kullanmak için Office 365 aboneliğinizi ve istemci iş istasyonunu kurmak ve yapılandırmak için gereken birkaç adım vardır. Bu adımlar şunlardır:
+MIP SKD’yi kullanmak üzere Office 365 aboneliğiniz ve istemci iş istasyonunuzu kurmak ve yapılandırmak için atmanız gereken adımlar vardır. Söz konusu adımlar şunlardır:
 
-- Office 365 aboneliği için kaydolun.
+- Office 365 aboneliğine kaydolun.
 - Duyarlılık etiketlerini yapılandırın.
-- İstemci iş istasyonunu yapılandırın.
-- Azure Active Directory ile bir istemci uygulaması kaydedin.
-- Bilgi Koruma Entegrasyon Anlaşması (IPIA) isteyin.
-- Uygulamanızın gerekli çalışma süresine sahip olduğundan emin olun.
+- İstemci iş istasyonunuzu yapılandırın.
+- Azure Active Directory ile istemci başvurusu kaydı yapın.
+- Bilgi Koruması Entegrasyon Sözleşmesi (IPIA) talebinde bulunun.
+- Uygulamanızın gerekli çalışma zamanına sahip olduğundan emin olun.
 
-Tez adımları hakkında daha fazla bilgi için [MIP SDK'yı Kurulum ve Yapılandırma'ya](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)bakın.
+Bu adımlar hakkında daha fazla bilgi için bkz. [MIP SDK kurulumu ve yapılandırması](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
 
-Ek kaynaklar için bkz:
+Daha fazla kaynak için bkz.
 
-- [Microsoft Bilgi Koruma SDK Belgeleri](https://docs.microsoft.com/information-protection/develop/)
-- [Azure Bilgi Koruma Geliştirici Kılavuzu](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
-- [Microsoft Bilgi Koruma Yazılımı Geliştirme Kiti'ni Indirin](https://www.microsoft.com/download/details.aspx?id=57392)
+- [Microsoft Bilgi Koruması SDK Belgeleri](https://docs.microsoft.com/information-protection/develop/)
+- [Azure Information Protection Geliştirici Kılavuzu](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
+- [Microsoft Bilgi Koruması Yazılım Geliştirme Kitini İndirme](https://www.microsoft.com/download/details.aspx?id=57392)
 - [Microsoft Bilgi Koruması (MIP) SDK kurulumu ve yapılandırması](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
 - [MIP SDK için Azure Kod Örnekleri](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
