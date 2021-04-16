@@ -1,8 +1,8 @@
 ---
-title: Belgenizden parola kaldırma
+title: Belgeden parola kaldırma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001455"
 - "3466"
-ms.openlocfilehash: 4763b0115d43b7f524d24ebb9875f7b8cba28d96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7a8c0edcbd511e929bb618dfc51d79bb7b5b13e0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768231"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799433"
 ---
-# <a name="remove-a-password-from-a-word-document"></a><span data-ttu-id="3e858-102">Word belgesinden parola kaldırma</span><span class="sxs-lookup"><span data-stu-id="3e858-102">Remove a password from a Word document</span></span>
+# <a name="remove-a-password-from-a-word-document"></a><span data-ttu-id="c9322-102">Word belgelerinden parola kaldırma</span><span class="sxs-lookup"><span data-stu-id="c9322-102">Remove a password from a Word document</span></span>
 
-<span data-ttu-id="3e858-103">Özgün parolayı bildiğiniz sürece, bir belgeden parolayı kaldırmak basit bir işlemdir.</span><span class="sxs-lookup"><span data-stu-id="3e858-103">As long as you know the original password, removing a password from a document is a simple process.</span></span>
+<span data-ttu-id="c9322-103">Özgün parolayı bildiğiniz sürece, belgeden parolayı kaldırmak basit bir işlemdir.</span><span class="sxs-lookup"><span data-stu-id="c9322-103">As long as you know the original password, removing a password from a document is a simple process.</span></span>
 
-1. <span data-ttu-id="3e858-104">Belgeyi açın ve parolayı girin.</span><span class="sxs-lookup"><span data-stu-id="3e858-104">Open the document and enter the password.</span></span>
-2. <span data-ttu-id="3e858-105">**Dosya**  >  **bilgileri**'ne gidin  >  .**belge**  >  **şifrelemesini parolayla**korur.</span><span class="sxs-lookup"><span data-stu-id="3e858-105">Go to **File** > **Info** > **Protect Document** > **Encrypt with Password**.</span></span>
-3. <span data-ttu-id="3e858-106">Parola **kutusundaki**parolayı temizleyin ve **Tamam 'ı**seçin.</span><span class="sxs-lookup"><span data-stu-id="3e858-106">Clear the password in the **Password box**, and then select **OK**.</span></span>
+1. <span data-ttu-id="c9322-104">Belgeyi açın ve parolayı girin.</span><span class="sxs-lookup"><span data-stu-id="c9322-104">Open the document and enter the password.</span></span>
+2. <span data-ttu-id="c9322-105">Dosya Bilgileri **Parola**  >  **ile**  >  **Belge**  >  **Şifrelemeyi Koru 'ya gidin.**</span><span class="sxs-lookup"><span data-stu-id="c9322-105">Go to **File** > **Info** > **Protect Document** > **Encrypt with Password**.</span></span>
+3. <span data-ttu-id="c9322-106">Parola kutusunda parolayı **temizleyin ve Tamam'ı** **seçin.**</span><span class="sxs-lookup"><span data-stu-id="c9322-106">Clear the password in the **Password box**, and then select **OK**.</span></span>
