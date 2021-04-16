@@ -1,8 +1,8 @@
 ---
-title: Microsoft etki alanınızı yeniden adlandırma
+title: Onmicrosoft etki alanınızı yeniden adlandırma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: c74e4c761c331cbe26d14dbe67632d2bb24c7763
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701339"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810252"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a><span data-ttu-id="cd4ec-102">Onmicrosoft.com etki alanınızı yeniden adlandırma</span><span class="sxs-lookup"><span data-stu-id="cd4ec-102">Rename your onmicrosoft.com domain</span></span>
+# <a name="rename-your-onmicrosoftcom-domain"></a><span data-ttu-id="42583-102">Onmicrosoft.com etki onmicrosoft.com yeniden adlandırma</span><span class="sxs-lookup"><span data-stu-id="42583-102">Rename your onmicrosoft.com domain</span></span>
 
- <span data-ttu-id="cd4ec-103">**Kaydolduktan sonra bir Microsoft etki alanını yeniden adlandıramazsınız.**</span><span class="sxs-lookup"><span data-stu-id="cd4ec-103">**You can't rename the onmicrosoft domain after sign-up.**</span></span> <span data-ttu-id="cd4ec-104">Örneğin, seçtiğiniz ilk etki alanı  *fourthcoffee.onmicrosoft.com*ise, bunu  *fabrikam.onmicrosoft.com*olarak değiştiremezsiniz.</span><span class="sxs-lookup"><span data-stu-id="cd4ec-104">For example, if the initial domain you chose was  *fourthcoffee.onmicrosoft.com*, you can't change it to be  *fabrikam.onmicrosoft.com*.</span></span> <span data-ttu-id="cd4ec-105">Farklı bir onmicrosoft.com etki alanı kullanmak için Microsoft 365 ile yeni bir abonelik başlatmak gerekir.</span><span class="sxs-lookup"><span data-stu-id="cd4ec-105">To use a different onmicrosoft.com domain, you'd have to start a new subscription with Microsoft 365.</span></span>
+ <span data-ttu-id="42583-103">**Kaydoldikten sonra onmicrosoft etki alanını yeniden adlandırılamaz.**</span><span class="sxs-lookup"><span data-stu-id="42583-103">**You can't rename the onmicrosoft domain after sign-up.**</span></span> <span data-ttu-id="42583-104">Örneğin, seçtiğiniz ilk etki fourthcoffee.onmicrosoft.com *ise,* etki alanını etki alanı olarak *fabrikam.onmicrosoft.com.*</span><span class="sxs-lookup"><span data-stu-id="42583-104">For example, if the initial domain you chose was  *fourthcoffee.onmicrosoft.com*, you can't change it to be  *fabrikam.onmicrosoft.com*.</span></span> <span data-ttu-id="42583-105">Farklı bir etki onmicrosoft.com kullanmak için Microsoft 365 ile yeni bir abonelik başlatmanız gerekir.</span><span class="sxs-lookup"><span data-stu-id="42583-105">To use a different onmicrosoft.com domain, you'd have to start a new subscription with Microsoft 365.</span></span>
   
-<span data-ttu-id="cd4ec-106">*Contoso.com* gibi özel bir etki alanı kullanmak istiyorsanız, [size ait](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) veya [Microsoft 'tan bir tane satın](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)alabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="cd4ec-106">If you want to use a custom domain like  *contoso.com*  , you can [add one you own](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) or [buy one from Microsoft](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).</span></span>
+<span data-ttu-id="42583-106">contoso.com gibi özel bir *etki alanı* kullanmak için, sahibinizi [ekleyebilir](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) veya Microsoft'tan bir etki alanı [satın alabilirsiniz.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)</span><span class="sxs-lookup"><span data-stu-id="42583-106">If you want to use a custom domain like  *contoso.com*  , you can [add one you own](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) or [buy one from Microsoft](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).</span></span>
   
