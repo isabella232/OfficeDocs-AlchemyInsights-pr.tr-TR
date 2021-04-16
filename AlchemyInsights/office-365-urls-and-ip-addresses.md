@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 URL 'Leri ve IP adresleri
+title: Microsoft 365 URL'leri ve IP adresleri
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +15,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 5d7bdac820a29496d375259f3d64e0c2fa21728a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f16418ca2aa9c21e320b4263987621a0b1cfb50
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803013"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802619"
 ---
-# <a name="microsoft-365-urls-and-ip-address-ranges"></a>Microsoft 365 URL 'Leri ve IP adresi aralıkları
+# <a name="microsoft-365-urls-and-ip-address-ranges"></a>Microsoft 365 URL'leri ve IP adresi aralıkları
 
-Microsoft 365, *uç noktalar*denen belirli IP adresleri aracılığıyla Internet için bağlantı gerektirir.
-Erişilebilir olması gereken uç noktaların listesi için bkz: [Microsoft 365 URL 'leri ve IP adresi aralıkları](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+Microsoft 365 için uç noktalar olarak adlandırılan belirli IP adresleri üzerinden İnternet *bağlantısı gerekir.*
+Ulaşılabilir olması gereken uç noktaların listesi için [bkz. Microsoft 365 URL'leri ve IP adresi aralıkları](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
 
-Microsoft 365 IP adresi ve URL Web hizmeti, değişiklikleri değerlendirmeniz, yapılandırmanız ve güncel kalmanızı kolaylaştırmak için Microsoft 365 ağ trafiğini daha iyi belirleyip ayırt etmenize yardımcı olur. [Microsoft 365 IP adresi ve URL Web hizmeti](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)'ne bakın.
+Microsoft 365 IP Adresi ve URL web hizmeti, Microsoft 365 ağ trafiğini daha iyi tanımlamanıza ve ayırt ayırmanıza yardımcı olarak, değişiklikleri değerlendirmenizi, yapılandırmanızı ve güncel kalmanızı kolaylaştırır. Bkz. [Microsoft 365 IP Adresi ve URL web hizmeti.](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)

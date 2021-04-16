@@ -1,8 +1,8 @@
 ---
-title: Daha yeni bir sürüm kullanılabilir
+title: Daha yeni bir sürüm mevcuttur
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: a9e89f4c1548cb018cbb9c8f3063634ba35effa0
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: aa0d233209827b387a9ee23aaf828794ed3cfc90
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599004"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804293"
 ---
-# <a name="delete-the-office-document-cache"></a>Office belge önbelleğini silme
+# <a name="delete-the-office-document-cache"></a>Office Belge Önbelleğini Silme
 
-**Dosyanın daha yeni bir sürümünün** bulunduğunu bir Excel istemi aldıysanız, [Office belge önbelleğinizi silme](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d)konusundaki yönergeleri izleyerek Office belge önbelleği 'ni silmeyi deneyin. Sonra dosyayı yeniden açmayı deneyin.
+Dosyanın daha yeni bir **sürümünün** kullanılabilir olduğunu haber alan bir Excel istemi aldısanız, Office Belge Önbelleğinizi Silme altında verilen yönergeleri izleyerek Office Belge Önbelleği'ne [silmeyi deneyin.](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d) Sonra dosyayı yeniden açmaya deneyin.

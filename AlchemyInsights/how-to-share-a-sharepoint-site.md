@@ -1,8 +1,8 @@
 ---
-title: SharePoint sitesini paylaşma
+title: SharePoint sitesi paylaşma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3171"
-ms.openlocfilehash: c45b308492062e3e3938a4f85d5b6ce478933d97
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 456d3e610e24534503dec86dfc0f5e6180866ded
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703283"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51803492"
 ---
-# <a name="how-to-share-a-sharepoint-site"></a>SharePoint sitesini paylaşma
+# <a name="how-to-share-a-sharepoint-site"></a>SharePoint sitesi paylaşma
 
-Site sahibiyseniz, diğer kişilere site erişimine izin verebilir ve bunları sahip, Üyeler veya ziyaretçiler olarak ekleyebilirsiniz. ([Bir dosya veya klasörü paylaşmak mi istiyorsunuz?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))
+Site sahibiyseniz, onları sahip, üye veya ziyaretçi olarak ekleyerek diğer kişilerin siteye erişmesine izin veebilirsiniz. ([Bunun yerine bir dosya veya klasör paylaşmak ister misiniz?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))
 
-[Siteyi paylaşma](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)
+[Site paylaşma](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)

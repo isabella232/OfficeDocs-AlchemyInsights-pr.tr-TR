@@ -1,8 +1,8 @@
 ---
-title: Not defterini taşıma
+title: Not Defteri Taşıma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2495"
 - "9000580"
-ms.openlocfilehash: d6cc387f5d1cd8293ce85b65d4a0e5b024c71daf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38bfd961675dfb25170ba05c4aac52711eabb20e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703753"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51803636"
 ---
-# <a name="how-to-move-a-onenote-notebook"></a>OneNote Not defterini taşıma
+# <a name="how-to-move-a-onenote-notebook"></a>OneNote not defterini taşıma
 
-* OneNote Not defterini OneDrive 'a taşımak için **File**  >  **Share**  >  OneNote 2016 ' de dosya paylaşımı**Not defterleri taşıma** bölümüne gidin. Daha fazla bilgi için [OneNote Not defterini OneDrive 'A taşıma](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) konusuna bakın.
+* Bir OneNote not defterini OneDrive'a taşımak için,   >    >   OneNote 2016'da Not Defterlerini Dosya Paylaş Not Defterlerini Taşıma'ya gidin. Daha [fazla bilgi için bkz. OneNote not defterini OneDrive'a](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) taşıma.
 
-* Not defterlerini taşımaya hazırlanırken en iyi uygulamalar hakkında ek bilgi için [OneNote 'un en iyi uygulamalarını eşitleme](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices)konusuna bakın.
+* Not defterlerini taşımaya hazırken en iyi yöntemler hakkında ek bilgi için bkz. [OneNote eşitlemesi en iyi yöntemleri.](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices)
 
-* [Başkalarıyla paylaştığınız Windows Için OneNote Not defterini taşıma](https://support.office.com/article/Move-a-OneNote-for-Windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4) paylaşılan not defterlerini taşıma hakkında daha fazla bilgi sağlar.
+* [Başka kullanıcılarla paylaştığınız Windows için OneNote not defterini taşıma,](https://support.office.com/article/Move-a-OneNote-for-Windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4) paylaşılan not defterlerini taşıma hakkında daha fazla bilgi sağlar.
