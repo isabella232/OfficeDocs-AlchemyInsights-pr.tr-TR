@@ -1,8 +1,8 @@
 ---
-title: Kilitlenen Excel?
+title: Excel mi çök ediyor?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -11,30 +11,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 6010d4a6e745f17f330e883521bc8d76efe68097
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9322ebfcb2fd05359c55068ce847e934e389519b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359317"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804833"
 ---
-# <a name="frequent-excel-crashes"></a>Excel çöküyor sık?
+# <a name="frequent-excel-crashes"></a>Excel sık sık kilitleniyor mu?
 
-Bir hatalı eklentisi tarafından Excel'de sık kilitlenmelere neden olabilir. Excel eklentisi bu yönergeleri izleyerek devre dışı bırakabilirsiniz:
+Excel'de sık kilitlenmelere, hatalı bir eklenti neden olabilir. Aşağıdaki yönergeleri izleyerek Bir Excel eklentisini devre dışı abilirsiniz:
   
-1. **Dosya** \> **seçenekleri**, \> **Add-Ins**.
+1. Dosya  \> **Seçenekleri**, \> **Eklentiler'i seçin.**
 
-2. **Yönet** kutusunda, **COM eklentileri**seçin ve sonra **Git**' i tıklatın.
+2. Yönet **kutusunda** COM Eklentileri **öğesini seçin ve Git'e** **tıklayın.**
 
-3. Kullanılabilir eklentiler kutusunda devre dışı bırakmak istediğiniz eklentinin yanındaki onay kutusunu temizleyin ve sonra **Tamam**' ı tıklatın.
+3. Kullanılabilir Add-Ins kutusunda, devre dışı bırakmak istediğiniz eklentinin yanındaki onay kutusunu temizleyin ve Tamam'a **tıklayın.**
 
 > [!NOTE]
-> Excel başlatılırken çökerse, lütfen onu güvenli modda tuşuna basıp programı başlatırken Ctrl tutan başlatın.
+> Excel başlatma sırasında kilitleniyorsa, lütfen programı başlatma sırasında Ctrl tuşunu basılı tutarak Bu modu Güvenli modda başlatın.
   
 Hala sorun yaşıyorsanız, aşağıdaki makalelere bakın:
   
-- [Ben benim PC'de Office 2016 veya 2013 uygulamaları başlattığınızda bir "durduruldu çalışma" hatası alıyorum.](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [Bilgisayarımda Office 2016 veya 2013 uygulamalarını başlarken "çalışmayı durdurdu" hatası alıyorum](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
-- [Excel ile kilitlenen ve vermiyor sorunları nasıl giderilir](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [Excel'de kilitlenme ve yanıt verme sorunlarını giderme](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [Excel yanıt vermiyor, askıda kalıyor donuyor veya çalışmamaya başlıyor](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Excel yanıt vermiyor, takılıyor, donuyor veya çalışmayı durduruyor](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
