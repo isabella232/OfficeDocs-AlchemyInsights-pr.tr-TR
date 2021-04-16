@@ -2,7 +2,7 @@
 title: Silinmiş ortak klasörü geri yükleme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: bb7fe248714e9a7e7f4c48913b159b5c23132192
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5480389c3bf50cee9fe30f7ec8d8ff28ef694ca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774551"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809459"
 ---
 # <a name="restore-a-deleted-public-folder"></a>Silinmiş ortak klasörü geri yükleme
 
-**Silinmiş öğeleri ortak klasörden geri yüklemek için**:
+**Silinmiş öğeleri ortak klasörden geri yüklemek için:**
 
-- [Outlook 2016 'de posta olmayan ortak bir klasörden silinmiş öğeleri kurtaramıyorum](https://aka.ms/pfrec)konusuna bakın.
+- Bkz. [Outlook 2016'da](https://aka.ms/pfrec)posta dışında bir ortak klasörden silinmiş öğeleri kurtarasınız.
  
-**Silinmiş ortak klasörü geri yüklemek için (herhangi bir tür)**: 
+**Silinmiş bir ortak klasörü (her tür) geri yüklemek için:** 
 
 - Lütfen aşağıdaki EXO PowerShell komutunu kullanın:
 
-    İndeki
+    Söz dizimi:
 
      `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse  | ?{$_.Name -eq "\<name_of_deleted_public_Folder"};Set-PublicFolder $pf.identity -Path \<path where the folder will be restored>`
 
-    Örnek: aşağıdaki komut Subfolder1 'i geri yükler ve \Parent1 altına yerleştirir:
+    Örnek: Aşağıdaki komut Alt Klasör1'i geri yükle ve \Parent1 altına gelecektir:
 
     `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse | ?{$_.Name -eq "Subfolder1"};Set-PublicFolder $pf.identity -Path \Parent1`
 
-Daha fazla ayrıntı için [Silinmiş ortak klasörü geri yükleme](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) bölümüne bakın.
+Daha [fazla bilgi için bkz. Silinmiş bir ortak](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) klasörü geri yükleme.

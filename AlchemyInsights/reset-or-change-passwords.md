@@ -2,7 +2,7 @@
 title: Parolaları sıfırlama veya değiştirme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692171"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810216"
 ---
 # <a name="reset-or-change-passwords"></a>Parolaları sıfırlama veya değiştirme
 
-Kullanıcı, **Hesap**  >  [güvenliği & gizlilikle](https://portal.office.com/account/#security)kendi parolasını değiştirebilir.
+Bir kullanıcı Kendi parolasını Hesabım Güvenlik **ayarları ve gizlilik**&  >  [değiştirebilir.](https://portal.office.com/account/#security)
   
-Kullanıcı parolasını unuttuysanız, yönetici, **kullanıcıları**  >  [etkin kullanıcılara](https://portal.office.com/adminportal/home#/users)giderek parolayı sıfırlayabilir, kullanıcıları seçin ve **Parolayı Sıfırla**'yı tıklatın.
+Kullanıcı parolasını unuttuysanız, yönetici Kullanıcılar Etkin kullanıcılar seçeneğine gidip Parolayı sıfırla'ya tıklayın.   >  [](https://portal.office.com/adminportal/home#/users) 
   
-[Daha fazla bilgi edinmek](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)veya kullanıcıların unutulan parolalarını sıfırlamasını sağlamak Için buraya tıklayın.
+[Daha fazla bilgi edinmek veya kullanıcıların](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)unutulan parolaları sıfırlamasına izin etmek için buraya tıklayın.

@@ -1,29 +1,30 @@
 ---
-title: Exchange Yönetici Merkezi'nden silinen öğeleri kurtarma
+title: Exchange Yönetim Merkezi’nden silinen öğeleri kurtarma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: 88e55056456014fdac218b317bf4f4d60308478a
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: d6699e08a33a72b0c726c149829667cd57afb0a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493403"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809747"
 ---
-# <a name="recover-deleted-items-from-exchange-admin-center"></a>Exchange Yönetici Merkezi'nden silinen öğeleri kurtarma
+# <a name="recover-deleted-items-from-exchange-admin-center"></a>Exchange Yönetim Merkezi’nden silinen öğeleri kurtarma
 
-Exchange Yönetici Merkezi (EAC) içinde basitleştirilmiş ve [güncelleştirilmiş posta kutusu yönetimi deneyimi](https://admin.exchange.microsoft.com/#/mailboxes)içinde, kullanıcılara özel posta kutusunu seçebilir ve öğeleri kurtarabilirsiniz.
+Basitleştirilmiş ve [güncelleştirilmiş posta kutusu yönetimi deneyimiyle ](https://admin.exchange.microsoft.com/#/mailboxes), Exchange Yönetim Merkezi (EAC) içinde kullanıcılara ait posta kutusu ve kurtarma öğelerini seçebilirsiniz.
 
-1. **Alıcılar**altında **posta kutularını** seçin.
-2. E-postaları kurtarmak istediğiniz kullanıcıyı seçin.
-3. **Silinen öğeleri kurtar'ı**seçin.
-    - Eğer altında bakmak gerekebilir **... ** **silinen öğeleri kurtarmak**için daha fazla açılır.
-4. Kurtarmak için gereken öğeleri bulmak için filtre seçeneklerini kullanıcı.
+1. **Alıcılar** altında **posta kutularını** seçin.
+2. Gönderdiği e-postaları kurtarmak istediğiniz kullanıcıyı seçin.
+3. **Silinmiş öğeleri kurtar** seçeneğini belirleyin.
+    - **… diğer** açılır menüsüne bakarak **silinen öğeleri kurtar** seçeneğini aramanız gerekir.
+4. Kurtarmanız gereken öğeleri bulmak için filtreleme seçeneklerini kullanın.

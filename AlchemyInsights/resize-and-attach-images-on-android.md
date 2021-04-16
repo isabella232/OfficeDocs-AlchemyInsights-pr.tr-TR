@@ -1,8 +1,8 @@
 ---
-title: Android 'de resimleri yeniden boyutlandırma ve ekleme
+title: Android'de resimleri yeniden boyutlandırma ve ekleme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: 18ff3a111c07e28d7e62feb404623c1a974864f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa497883706055a3124f76d731399e39ca3f72f6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795696"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809531"
 ---
-# <a name="resize-and-attach-images-on-android"></a>Android 'de resimleri yeniden boyutlandırma ve ekleme
+# <a name="resize-and-attach-images-on-android"></a>Android'de resimleri yeniden boyutlandırma ve ekleme
 
-Bir e-postaya boyutu 1 MB 'ın üzerine bir resim eklediğinizde, iletide resimleri sıkıştırma/yeniden boyutlandırma seçeneğiniz vardır.
+Boyutu 1 MB'nin üzerinde olan bir resmi e-postaya iliştirmek için iletide resimleri sıkıştırma/yeniden boyutlandırma seçeneğiniz vardır.
  
-- Orijinalin kalmasını istiyorsanız, iletideki tüm resimler tam boyutuyla gönderilir.
+- Özgün belgeyi tutmayı seçerseniz, iletide yer alan tüm görüntüler tam boyutlu olarak gönderilir.
  
-- Yeniden boyutlandırmayı seçerseniz, iletideki tüm resimler sıkıştırılır.  Bu, daha sonra taslak düzenlemeye devam ederken eklenen resimleri içerir.
+- Yeniden boyutlandırmayı seçerseniz, iletideki TÜM resimler sıkıştırılır.  Buna, daha sonra bu taslağı düzenlerken eklenen resimler de dahildir.
  
-- Taslağı kaydeder ve daha sonra geri dönüp başka bir büyük resim eklerseniz, bu düzenleme oturumu sırasında seçtiğiniz tüm Taslaklar için tekrar size sorulur.
+- Taslağı kaydeder ve daha sonra geri döner ve başka bir büyük resim eklersanız, yeniden istenecek ve seçiminiz bu düzenleme oturumu sırasında tüm taslaklara uygulanacaktır.
  

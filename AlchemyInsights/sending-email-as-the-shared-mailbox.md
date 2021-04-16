@@ -1,8 +1,8 @@
 ---
-title: Paylaşılan posta kutusu olarak e-posta gönderme
+title: E-postayı paylaşılan posta kutusu olarak gönderme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,18 +14,18 @@ ms.custom:
 - "622"
 - "3500003"
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: 45468ed831f15585d68f2a7b02386f62b6cb3874
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0311a22e689f27868a2b0cd252af34926dad9902
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801240"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809171"
 ---
-# <a name="sending-email-as-the-shared-mailbox"></a>Paylaşılan posta kutusu olarak e-posta gönderme
+# <a name="sending-email-as-the-shared-mailbox"></a>E-postayı paylaşılan posta kutusu olarak gönderme
 
-Paylaşılan posta kutusunu oluşturduktan sonra, posta kutusunun üyesi olan kullanıcılar paylaşılan posta kutusu kimliği olarak e-posta gönderebilecektir (örneğin,  *info@contoso.com*  ). Yönergeler için bkz:
+Paylaşılan posta kutusunu oluşturduktan sonra, posta kutusunun üyesi olan kullanıcılar paylaşılan posta kutusu kimliği olarak e-posta gönderebilir (örneğin, posta kutusu *info@contoso.com).* Yönergeler için bkz:
   
 [Outlook 2016 ve Outlook 2013'te paylaşılan posta kutusunu açma ve kullanma](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   
-[Web üzerinde Outlook 'a paylaşılan posta kutusu ekleme](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+[Web üzerinde Outlook'a paylaşılan posta kutusu ekleme](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
   

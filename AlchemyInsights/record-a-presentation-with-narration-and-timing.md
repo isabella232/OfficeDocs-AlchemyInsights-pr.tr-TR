@@ -2,21 +2,22 @@
 title: Sunuyu anlatımı ve zamanlamasıyla kaydetme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5473"
-ms.openlocfilehash: 4c9c306328565cae8ca0d3b4f28d4e21fee506d2
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
+ms.openlocfilehash: f962afa92388ac27c786c4750b9e8e29ce219640
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43914962"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809855"
 ---
 # <a name="record-a-presentation-with-narration-and-timing"></a>Sunuyu anlatımı ve zamanlamasıyla kaydetme
 

@@ -1,8 +1,8 @@
 ---
-title: Güvenlik Varsayılanları
+title: Güvenlik varsayılanları
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: e0136705cb17e69c3b26bbf621ebb10852477eb9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d468335dbe2854bf31ef857866aac597807e0f7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740350"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809207"
 ---
-# <a name="security-defaults"></a>Güvenlik Varsayılanları
+# <a name="security-defaults"></a>Güvenlik varsayılanları
 
-Güvenlik Varsayılanları hakkında bilgi için [güvenlik Varsayılanları nelerdir?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)bölümüne bakın.
+Güvenlik varsayılanları hakkında bilgi için [bkz. Güvenlik varsayılanları nedir?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-Azure Active Directory 'deki güvenlik Varsayılanları (Azure AD) güvenli olmasını ve kuruluşunuzun korunmasına yardımcı olmasını kolaylaştırır. Güvenlik Varsayılanları, yaygın saldırılar için önceden yapılandırılmış güvenlik ayarlarını içerir.
+Azure Active Directory'de (Azure AD) güvenlik varsayılanları, güvenliğin daha kolay hale geliyor ve kuruma korumada yardımcı oluyor. Güvenlik varsayılanları, yaygın saldırılar için önceden yapılandırılmış güvenlik ayarları içerir.
 
-Microsoft, güvenlik varsayılanlarını herkesin kullanımına sunulmuştur. Amaç, tüm kuruluşların ek ücret ödemeden bir temel güvenlik düzeyinin etkinleştirildiğinden emin olmak için. Azure portalında güvenlik varsayılanlarını açabilirsiniz.
+Microsoft, herkes için güvenlik varsayılanları sağlar. Amaç, tüm kuruluşların, ek ücret ödemeden temel güvenlik düzeyine sahip olmasını sağlamaktır. Azure portalda güvenlik varsayılanlarını açın.

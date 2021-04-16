@@ -2,7 +2,7 @@
 title: Silinmiş formu geri yükleme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 6923c15c3cce90c98ae79181e978fba273ab6059
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48018accc23a504c34b5469c198d6f29929d25c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662453"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809495"
 ---
 # <a name="restore-a-deleted-form"></a>Silinmiş formu geri yükleme
 
-Microsoft Forms 'ta formu yanlışlıkla sildiyseniz, kurtarabilirsiniz. Silinen formun sahibi olarak Microsoft Forms 'ta oturum açın. **Geri dönüşüm**kutusu 'nu seçip kurtarmak istediğiniz formu seçip **geri yükle**'yi seçin. Yüklendikten sonra, **formlarıma dön sayfa** okunun
+Microsoft Forms'da bir formu kazayla sildikten sonra geri kurtarabilirsiniz. Silinmiş formun sahibi olarak Microsoft Forms'da oturum açın. Geri Dönüşüm **Kutusu'nu** seçin, kurtarmak istediğiniz formu seçin ve Geri Yükle'yi **seçin.** Geri yüklendiktan sonra **Formlarıma Dön sayfa okunu** seçin.
 
-Yalnızca formun sahibi kurtarabilir. Form sahibinin hesabı kiracıdan devre dışı bırakılmışsa veya kaldırıldıysa, yalnızca genel yönetici formu kurtarabilir. Genel yöneticinin geri yükleme gerçekleştirmek için bir Forms Lisansı olmalıdır. Yalnızca Kullanıcı hesabının, kiracı 'dan devre dışı bırakılmakta olan 30 gün içinde oluşturulan formlar geri yüklenebilir.
+Formu yalnızca sahibi kurtarabilirsiniz. Form sahibinin hesabı kiracıda devre dışı bırakılmış veya kaldırılmışsa, formu yalnızca Genel Yönetici kurtarabilirsiniz. Geri yükleme gerçekleştirmek için Genel Yöneticinin bir Forms lisansı olması gerekir. Yalnızca kullanıcı hesabının devre dışı bırakıldığı veya kiracıdan kaldırıldığı 30 gün içinde oluşturulan formlar geri yüklenebilir.
 
-Kiracının genel yöneticisiyseniz ve silinen veya devre dışı bırakılmış bir hesaptan bir formu kurtarmak istiyorsanız, şu URL 'de silinen veya devre dışı bırakılmış kullanıcının e-posta adresi [e-posta adresi] yerine bu URL 'yi koyun: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [e-posta adresi]** Örneğin, e-posta ADRESINIZ johndoe@contoso.com ise URL şöyle **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** olur: 
+Kiracının Genel Yöneticisi sizseniz ve silinmiş veya devre dışı bırakılmış bir hesaptan bir form kurtarmak için, [e-posta adresi] yerine şu URL'de silinen veya devre dışı bırakılmış kullanıcının e-posta adresini yazın: **https://forms.office.com/Pages/delegatepage.aspx?originalowner= [e-posta adresi]** Örneğin, e-posta adresiniz johndoe@contoso.com ise URL şöyle olabilir: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
 
-Kullanıcının silinen formlara erişim edindikten sonra, taşımak istediğiniz formu seçin ve ardından **diğer form eylemleri**  >  **Taşı**'yı seçin.
+Kullanıcının silinen formlarına erişiminiz olduktan sonra, taşımak istediğiniz formu seçin ve ardından Diğer Form Eylemleri Taşıma **öğesini**  >  **seçin.**
 
-Silindiği ve kullanıcının kuruluştan kaldırıldığı bir formu kurtarmak istiyorsanız, genel yönetici kullanıcıyı kurtarmayı seçebilir, söz konusu kullanıcının parolasını sıfırlayabilir ve bu kullanıcı olarak oturum açarak forma erişerek başka bir etkin kullanıcıya taşıyabilirsiniz. 
+Silinmiş olan ve kullanıcının kuruluştan kaldırıldığı bir formu kurtarmak için Genel Yönetici, o kullanıcının parolasını sıfırlamayı seçebilir ve daha sonra o kullanıcı olarak oturum açmış durumdayken forma erişarak başka bir etkin kullanıcıya taşımayı tercih eder. 

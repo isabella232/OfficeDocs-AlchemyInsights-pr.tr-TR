@@ -1,8 +1,8 @@
 ---
-title: Web Connector 'ı kullanarak yenileme düzgün çalışmıyor
+title: Web bağlayıcısı kullanarak yenileme düzgün çalışmıyor
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: fc7d748b8c3eb8753aeb29997eeb2fabea8c67cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a1e8ef98b72832db05f904ae82f4f8164f1a47
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749786"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809027"
 ---
-# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Web Connector 'ı kullanarak yenileme düzgün çalışmıyor
+# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Web bağlayıcısı kullanarak yenileme düzgün çalışmıyor
 
-[Web. Page](https://msdn.microsoft.com/library/mt260924.aspx) işlevini kullanan bir Web Bağlayıcısı betiğe sahipseniz ve veri kümenizi veya raporunuzu 18 Kasım 2016 ' dan sonra güncelleştirdiyseniz, yenilemenin düzgün çalışması için ağ geçidi kullanmanız gerekir.
+Web.Page işlevini kullanan bir web bağlayıcısı betiğiniz varsa ve [18](https://msdn.microsoft.com/library/mt260924.aspx) Kasım 2016'dan sonra veri kümenizi veya raporlarınızı güncelleştirmeniz gerekirse, yenilemenin düzgün çalışması için bir ağ geçidi kullan gerekir.
 
 Daha fazla bilgi için: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

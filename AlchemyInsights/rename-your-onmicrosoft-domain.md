@@ -1,8 +1,8 @@
 ---
-title: Microsoft etki alanınızı yeniden adlandırma
+title: Onmicrosoft etki alanınızı yeniden adlandırma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: c74e4c761c331cbe26d14dbe67632d2bb24c7763
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701339"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810252"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Onmicrosoft.com etki alanınızı yeniden adlandırma
+# <a name="rename-your-onmicrosoftcom-domain"></a>Onmicrosoft.com etki onmicrosoft.com yeniden adlandırma
 
- **Kaydolduktan sonra bir Microsoft etki alanını yeniden adlandıramazsınız.** Örneğin, seçtiğiniz ilk etki alanı  *fourthcoffee.onmicrosoft.com*ise, bunu  *fabrikam.onmicrosoft.com*olarak değiştiremezsiniz. Farklı bir onmicrosoft.com etki alanı kullanmak için Microsoft 365 ile yeni bir abonelik başlatmak gerekir.
+ **Kaydoldikten sonra onmicrosoft etki alanını yeniden adlandırılamaz.** Örneğin, seçtiğiniz ilk etki fourthcoffee.onmicrosoft.com *ise,* etki alanını etki alanı olarak *fabrikam.onmicrosoft.com.* Farklı bir etki onmicrosoft.com kullanmak için Microsoft 365 ile yeni bir abonelik başlatmanız gerekir.
   
-*Contoso.com* gibi özel bir etki alanı kullanmak istiyorsanız, [size ait](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) veya [Microsoft 'tan bir tane satın](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)alabilirsiniz.
+contoso.com gibi özel bir *etki alanı* kullanmak için, sahibinizi [ekleyebilir](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) veya Microsoft'tan bir etki alanı [satın alabilirsiniz.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)
   
