@@ -1,8 +1,8 @@
 ---
-title: Etki alanı veya e-posta gönderenini güvenli olarak işaretlemelisiniz mi gerekiyor?
+title: Etki alanını veya e-posta göndereni güvenli olarak işaretlemeniz mi gerekiyor?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002921"
 - "5673"
-ms.openlocfilehash: 0ea089b95ad7de25e77017196fb2db895d4d0178
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1c4c4d2fadaf75eda9b5b322aca35c32dfee8ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803265"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792152"
 ---
-# <a name="need-to-mark-a-domain-or-email-sender-safe"></a>Etki alanı veya e-posta gönderenini güvenli olarak işaretlemelisiniz mi gerekiyor?
+# <a name="need-to-mark-a-domain-or-email-sender-safe"></a>Etki alanını veya e-posta göndereni güvenli olarak işaretlemeniz mi gerekiyor?
 
-- Kuruluşunuzu istenmeyen posta, sızdırma ve sızdırma saldırılarına karşı açtığından **güvenli gönderen listelerinin kullanımı önerilmez** .
-- Bununla birlikte, iş gereksinimi varsa, bunun için **[posta akış kurallarını](https://docs.microsoft.com/microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365?view=o365-worldwide#recommended-use-mail-flow-rules)** kullanmanızı **öneririz** . Kılavuzumuz, Gönderen kimlik doğrulamasını garantiler (etki alanı göndermeyi doğrular.). **Not**: istenmeyen filtreleme özel durumları kuruluşunuzun güvenlik saldırılarına karşı açabildiğinden, güvenli gönderen listelerini kullanarak yanlış pozitif durumları yönetmeniz önerilmez. Kullanıcılarınız iletileri yanlışlıkla istenmeyen posta veya gereksiz e-posta olarak alıyorsa, lütfen **[iletileri ve dosyaları Microsoft 'A bildirin](https://protection.office.com/reportsubmission)**.
-- Gönderenler, istenmeyen posta önleme, sızma ve bir istenmeyen postayı devre dışı bırakabilir ve Gönderen kimlik **should be avoided** doğrulaması (SPF, CıKIM, DMARC) gibi Bu yöntem yalnızca geçici test için kullanılır.
+- Güvenli gönderen **listelerinin kullanılması önerilmez,** çünkü kuruluş istenmeyen posta, kimlik avı ve kimlik avı saldırılarına karşı açılır.
+- Bununla birlikte, bir iş gereksinimi varsa, **bunun için Posta** **[Akış Kuralları'nın kullanılması](https://docs.microsoft.com/microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365?view=o365-worldwide#recommended-use-mail-flow-rules)** önerilir. Kılavuzlarımız gönderen kimlik doğrulamasını (etki alanı göndermenin kimlik doğrulamasının kimlik doğrulaması olmadığını doğrular) sağlar. **Not:** İstenmeyen posta filtreleme özel durumları güvenlik saldırılarına karşı kurumlarınızı aç etkileyecer, bunun için güvenilir gönderen listeleri kullanarak hatalı pozitif sonuç yönetimine izin veririz. Kullanıcınız yanlışlıkla istenmeyen veya gereksiz e-posta olarak işaretlenmiş iletileri alırsa, lütfen İletileri ve **[dosyaları Microsoft'a rapor edin.](https://protection.office.com/reportsubmission)**
+- Outlook'ta Güvenilir Gönderenler, İzin verilen gönderenler listesi  veya istenmeyen posta önleme ilkelerde izin verilen etki alanı listesi, gönderenler tüm istenmeyen postayı, kimlik avını ve kimlik avını (SPF, DKIM, DMARC) atlayamalarından kaçınılmalıdır. Bu yöntem, yalnızca geçici test için en iyi yöntemdir.

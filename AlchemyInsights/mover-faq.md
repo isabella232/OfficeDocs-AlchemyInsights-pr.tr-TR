@@ -1,8 +1,8 @@
 ---
-title: Taşıyıcısı SSS
+title: Taşımacı SSS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "7999"
-ms.openlocfilehash: 585fdf68a71fdf00f69b3f3243515f3b2243f331
-ms.sourcegitcommit: 41ddd8e65e9bfdacb6d8a96e0d42426998ffd2d0
+ms.openlocfilehash: f4c32561640dc04a26740f8a2220399d85a197c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "50014958"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51793088"
 ---
-# <a name="mover-faq"></a>Taşıyıcısı SSS
+# <a name="mover-faq"></a>Taşımacı SSS
 
-Taşıyıcı hakkında bilgi için lütfen [taşıyıcı geçiş SSS bölümüne bakın](https://docs.microsoft.com/sharepointmigration/mover-migration-faq)
+Mover hakkında bilgi için bkz. [Mover Geçişi hakkında SSS](https://docs.microsoft.com/sharepointmigration/mover-migration-faq)

@@ -1,8 +1,8 @@
 ---
-title: Çevrimiçi ödeme gereçleri
+title: Çevrimiçi ödeme araç gereç üzerinden ücret tahsil etmek için birden çok deneme
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: c0e62b02dec50f3bb4e42c1775e9d04d4c3806d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c177c88b3df5846f824d69efa3eb8c112e430
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724671"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792728"
 ---
-# <a name="past-due-account"></a>Vadesi geçmiş hesap?
+# <a name="past-due-account"></a>Son hesabı geçmiş mi?
 
-Ödeme, kredi kartının süresinin dolduğu gibi birkaç nedenden ötürü reddedilemez. Ne zaman isterseniz **Bakiyeyi öde** özelliğini kullanarak kredi kartı bilgilerinizi değiştirebilir ve ödemeyi hemen yeniden gönderebilirsiniz.
+Kredi kartının süresinin dolmuş olması gibi birçok nedenle ödeme redded olabilir. Ne zaman isterseniz **Bakiyeyi öde** özelliğini kullanarak kredi kartı bilgilerinizi değiştirebilir ve ödemeyi hemen yeniden gönderebilirsiniz.
 
-1. Yönetim merkezinde **faturalandırma > [ürünleri & Hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=842054)**'ne gidin.
-Bekleyen bakiyeyle birlikte aboneliği bulun. **Faturalandırma** bölümünde, **aboneliğin son tarihi geçmiş bir ödemesi olduğundan**, tüm bekleyen bakiyeyi ödemek için **bakiyeyi kapatma** 'yı tıklatın.
-2. Kredi kartına sahipseniz, son kullanma tarihini değiştirebilir, başka bir kart seçebilir veya [Yeni bir kart ekleyebilirsiniz](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
-3. Kredi kartınızın sahibi değilseniz, farklı bir kredi kartı seçebilir veya [Yeni bir kart ekleyebilirsiniz](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
-4. Güncelleştirmelerinizi tamamladıktan sonra **Kaydet**'i tıklatın.
+1. Yönetim merkezinde Faturalama Ürünleri ve **hizmetleri [>'& gidin.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+Bekleyen bakiyenin olduğu aboneliği bulun. Faturalama **bölümünde,** Abonelikte süresi geçmiş bir ödeme  var öğesinin **yanında,** bekleyen bakiyenin tamamını ödemek için Bakiyeyi öde'ye tıklayın.
+2. Kredi kartı size aitse, son kullanma tarihini değiştirebilir, farklı bir kart kullanabilir veya [yeni bir kart eklersiniz.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)
+3. Kredi kartı size ait değilse farklı bir kredi kartı seçebilir veya yeni [bir kart eklersiniz.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)
+4. Güncelleştirmelerinizi tamamlandıktan sonra Kaydet'e **tıklayın.**
 
-**Not**: ödeme yapıldıktan sonra, geçen son bildirim kısa bir süre boyunca görünmeye devam edebilir. Lütfen destek vermeden önce en az **48 saat** bekleyin.
+**Not:** Ödeme yapıldıktan sonra, son tarihi geçen bildirim kısa bir süre için yine görünür durumda olabilir. Lütfen destek ile iletişime **geçemeden en az 48** saat bekleyin.
