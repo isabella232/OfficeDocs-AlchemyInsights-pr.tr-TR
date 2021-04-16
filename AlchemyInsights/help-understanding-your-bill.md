@@ -1,8 +1,8 @@
 ---
-title: Faturanızı anlamaya yardımcı olun
+title: Faturanızı anlamanıza yardımcı olur
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,23 +14,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: bf09bf13ae38f6fee0d8e9451504e26ea68c68e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fdd92779f009626afb8e9158e09c8254f089e42
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705463"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811620"
 ---
-# <a name="help-understanding-your-bill"></a>Faturanızı anlamaya yardımcı olun
+# <a name="help-understanding-your-bill"></a>Faturanızı anlamanıza yardımcı olur
 
-Aboneliğiniz için faturalandırıldı miktarı, lisans fiyatını satın alınan lisans sayısıyla ve gerekli vergiler/ücretler ile çarparak yansıtır.
+Aboneliğiniz için faturalandırılır tutar, satın alınan lisans sayısıyla çarpılan lisans fiyatını ve gereken vergileri/ücretleri yansıtılır.
   
-Faturalanmış tutar farklıysa, bunun birkaç nedeni olabilir:
+Faturalandıracak tutar beklenenden farklı olursa bunun birkaç nedeni olabilir:
   
-- Aboneliğiniz aboneliğinize eklenmiş veya aboneliğinizden kaldırılmış. Lisanslar orta dönemde değiştirildiğinde, bu aşağıdaki faturaya yansıtılır. Bu değişikliğin açıklaması olarak önceki hizmet dönemine yönelik bir iade veya yeniden faturalama görebilirsiniz.
+- Lisanslar aboneliğinize eklendi veya kaldırıldı. Lisanslar dönem ortasında değiştir olduğunda, bu bir sonraki faturaya yansır. Bu değişikliğin açıklaması olarak önceki hizmet dönemine yönelik bir iade veya yeniden faturalama görebilirsiniz.
 
 - Abonelik iptal edildi. İptal işleminden sonra alacaklar hariç kalan bakiyeyi içeren bir fatura alırsınız.
 
 - Aboneliğiniz yeni dönem için yenilendi ve lisans ücreti değişti.
 
-Faturalarınız hakkında daha fazla bilgi için bkz: [Faturanızı Anlama](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+Faturanız hakkında daha fazla bilgi için bkz. [Faturanızı anlama](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

@@ -1,8 +1,8 @@
 ---
-title: Outlook kişilerimi iOS kişiler uygulamama nasıl kaydederim?
+title: Outlook kişilerimi iOS kişiler uygulamama nasıl kaydedebilirim?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 2c787d41bd0c9226d35665f9394226e089049eb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34603d90799951a8b567f75036370aa25a33ab2e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781807"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811152"
 ---
-# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Outlook kişilerimi iOS kişiler uygulamama nasıl kaydederim?
+# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Outlook kişilerimi iOS kişiler uygulamama nasıl kaydedebilirim?
 
 Outlook kişilerini yerel adres defterinize kaydetmek için:
  
-1. **Cihaz ayarları**  >  **kişilerine** gidin ve **Varsayılan hesabın** **iCloud**'a ayarlandığını doğrulayın. Bu ayarın yalnızca cihazınıza birden çok hesap eklenirse kullanılabileceğini unutmayın. Cihaza bağlı bir hesap yoksa, Outlook Kişileriniz yerel olarak kaydedilir ancak diğer aygıtlarla eşitlenmez.
+1. Cihaz Ayarları **Kişileri'ne**  >   gidin ve Varsayılan **Hesabın** iCloud olarak **ayar olduğunu onaylayın.** Bu ayarın yalnızca cihazınıza birden fazla hesap eklenmişse kullanılabilir olduğunu unutmayın. Cihaza bağlı hesap yoksa, Outlook kişileriniz yerel olarak kaydedilir, ancak diğer cihazlarla eşitlanmaz.
  
-2. İOS için Outlook 'U açın ve sol gezintide ayarlar 'ı seçin, **hesabınızı seçin**'i seçin ve sonra da **kişileri kaydet** düğmesini açın.
+2. iOS için Outlook'u açın ve sol gezinti bölmesinde Ayarlar dişlilerini seçin, Hesap seçin öğesini seçin ve Kişileri Kaydet **iki durumlu** düğmeyi Açık olarak değiştirin.
  
-Kaydedilen kişiler iCloud hesabınızdaki kişilerin altına eklenecektir. Bu kişiler aynı iCloud hesabıyla oturum açan tüm aygıtlara eşitlenir. Aynı anda yalnızca bir cihazdan kişileri dışarı aktarabilirsiniz.
+Kaydedilen kişiler, iCloud hesabınızla ilgili kişilerin altına eklenir. Bu kişiler, aynı iCloud hesabıyla oturumlenen tüm cihazlarla eşitlenir. Kişileri bir defada yalnızca bir cihazdan dışarı aktarabilirsiniz.
  
-Bir kullanıcının kişi-dışarı aktarma özelliği açıksa, çakışmaları önlemek için hem iPad hem de iPhone bir arada kullanılamaz. Çoğaltmaların mutabaden ayrılması 24 saat sürebilir.
+Bir kullanıcının kişi dışarı aktarması açıksa, çakışmaları önlemek için hem iPad'in hem de iPhone'un devre dışı bırakılması gerekir. Yinelemelerin karşılıklı olarak uzlaştırması 24 saat sürebilir.

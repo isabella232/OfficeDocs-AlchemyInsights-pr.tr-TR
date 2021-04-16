@@ -1,8 +1,8 @@
 ---
-title: Dış Skype Kurumsal kullanıcılarıyla nasıl iletişim kurabilirim?
+title: Dış Skype Kurumsal kullanıcıleriyle nasıl iletişim kurabilirsiniz?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +13,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: f5e1e597067efff58872a5f0080bb18c42af648e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9580a1e9f850726210f403a5dc6c84cd9a7df196
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781879"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811296"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Skype Kurumsal ile dış iletişimlere izin verme 
 
-Skype Kurumsal kullanıcılarınızın kuruluşunuzun dışındaki kullanıcılarla iletişim kurmasına izin vermek istiyor musunuz? [Kullanıcıların dış Skype Kurumsal kullanıcılarıyla Iletişim kurmasına Izin verme](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)bölümüne bakın.
+Skype Kurumsal kullanıcılarının kuruluş dışındaki kullanıcılarla bağlantı kurmasına izin vermek istiyor musunuz? Bkz. [Kullanıcıların dış Skype Kurumsal kullanıcıları ile bağlantı kurmasına izin verme.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-Dış iletişimlerin düzgün çalışması için DNS kayıtlarınızın doğru ayarlanması gerekır. Sağlayıcınızda DNS kayıtlarını ayarlama konusunda belirli [yönergeler olup olmadığımdan emin olun](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) . 
+Dış iletişimlerin düzgün çalışması için DNS kayıtlarınızı doğru ayarlamış olun. [Sağlayıcınızla](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) DNS kayıtlarını ayarlama konusunda belirli yönergelerimiz olup yönergelerimiz olup kontrol edin. 
 
-Skype Kurumsal kullanıcılarınızın Skype tüketici kullanıcılarıyla iletişim kurmasına izin vermek istiyor musunuz? Bkz:
+Skype Kurumsal kullanıcılarının yalnızca Skype tüketici kullanıcıları ile bağlantı kurmalarını mı sağlamak istiyorsunuz? Bkz:
 
-- Skype Kurumsal [kullanıcılarına Skype kişileri eklemesine Izin verin](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+- [Skype Kurumsal kullanıcılarının Skype kişileri eklemesine izin verme.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
 
-- [Skype Kurumsal 'da kişi ekleyin](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
+- [Skype Kurumsal'da kişi ekleme](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
 
 
-Ekip kullanıcılarınızın kuruluşunuzun dışından kullanıcılarla iletişim kurmalarına (Skype Kurumsal kullanıcıları dahil) istiyorsanız, [Microsoft ekiplerde dış erişimi yönetme](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people)bölümünü gözden geçirin. 
+Teams kullanıcılarının kuruluş dışındaki kullanıcılarla (Skype Kurumsal kullanıcıları dahil) iletişim kuramalarını için, Microsoft Teams'de dış erişimi yönetme [incelemesini gözden geçirebilirsiniz.](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people) 

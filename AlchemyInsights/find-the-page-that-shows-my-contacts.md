@@ -2,7 +2,7 @@
 title: Kişilerimi gösteren sayfayı bulma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: 4b25ae4adb7411d721c4749e9e696b2f0dbcca1f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff3fca5a12c08314388fdb494c598c3e03d5db8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745294"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813024"
 ---
 # <a name="find-the-page-that-shows-my-contacts"></a>Kişilerimi gösteren sayfayı bulma
 
-E-postalarınızı ararken kişilerinizi aynı şekilde arayabilirsiniz.
+Kişilerinizi, e-postalarınızı aramakla aynı şekilde arayabilirsiniz.
  
-Büyüteç araması simgesine dokunun ve ardından kişi arama isteğinizi ekranınızın en üstündeki kutuya yazın. (**PROTIP**: odaklanmayı arama kutusuna getirmek için Büyüteç Camı üzerine iki kez dokunun.) Sonuçlarınız kişiler bölümünde görüntülenecektir.
+Büyüteç simgesine dokunun, ardından kişi arama isteğinizi ekran üst köşesindeki kutuya yazın. (**İpucu:** Odağı arama kutusuna getirmek için büyüteci iki kez dokunabilirsiniz.) Sonuçlarınız Kişiler bölümünde görünür.

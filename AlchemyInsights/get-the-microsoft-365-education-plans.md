@@ -2,21 +2,22 @@
 title: Microsoft 365 Eğitim planlarını alma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4979"
-ms.openlocfilehash: 78f4be0724324c8b328cdd82b4aae026f190198f
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
+ms.openlocfilehash: 52fa2cce9a47574ad4c44f512616c213c70fe378
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812711"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812088"
 ---
 # <a name="get-the-microsoft-365-education-plans"></a>Microsoft 365 Eğitim planlarını alma
 

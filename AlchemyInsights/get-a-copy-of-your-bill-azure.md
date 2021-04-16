@@ -1,8 +1,8 @@
 ---
-title: Faturanızın veya kullanımınızın bir kopyasına ihtiyacınız var
+title: Fatura veya Kullanım Faturanızı bir kopyasına mı ihtiyacınız var?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,69 +12,69 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 5ec935ddd9e273561886831e60c98ae1a542f9da
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808374"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812444"
 ---
-# <a name="get-a-copy-of-your-bill-or-usage"></a>Faturanızın veya kullanımınızın bir kopyasını alma
+# <a name="get-a-copy-of-your-bill-or-usage"></a>Fatura veya kullanımınızı bir kopyasını al
 
-**Azure faturaınızı indirin (. PDF)**
+**Azure faturanızı (.pdf) indirme**
 
-1. Azure portalında [abonelikler sayfasından](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) , [faturalara erişimi olan bir Kullanıcı](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) olarak aboneliğinizi seçin ve ardından **faturalar** 'ı seçin
-2. PDF faturanızın bir kopyasını görüntülemek için **Fatura indir** 'e tıklayın. **Mevcut değilse** , [son faturalandırma dönemi için neden fatura göremiyorum?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Faturanızın PDF 'sini ve ayrıntılı günlük kullanım dosyanızın bir kopyasını edinmek Için fatura dönemi 'Ne tıklayarak günlük kullanımınızı görüntüleyebilirsiniz (. CSV): [Fatura ve kullanım verilerini al](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. Azure portalda [Abonelikler sayfasından faturalara](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) erişimi olan bir kullanıcı olarak [aboneliğinizi seçin ve sonra da](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) **Faturalar'ı seçin**
+2. PDF **faturanın bir** kopyasını görüntülemek için Faturayı İndir'e tıklayın. Kullanılamıyor **olarak yazıyorsa** [bkz. Son faturalandırma dönemi için neden fatura göremiyorum?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. Ayrıca fatura döneminize tıklayarak günlük kullanımınızı da görüntüebilirsiniz Faturanızı PDF olarak almak ve ayrıntılı günlük kullanım dosyanizin ( bir kopyasını almak için). CSV): [Fatura ve kullanım verilerini alma](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Faturanızı e-postada (. PDF) alma**
+**Faturanızı e-postayla (.pdf) alın**
 
-1. [Abonelikler sayfasından](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)aboneliğinizi seçin. **Faturalar** 'ı, ardından **e-posta faturamı**
-2. Kabul **et 'e tıklayın ve** koşulları kabul edin. Sahip olduğunuz her aboneliğe sahip olmanız gerekecektir. Not: adımları uyguladıktan sonra bir e-posta alamazsanız, [profilinizdeki iletişim tercihlerinde](https://account.windowsazure.com/profile) e-posta adresinizin doğru olduğundan emin olun
-3. [Gelen kutunuza doğrudan gönderilen Azure faturaları](https://azure.microsoft.com/blog/azure-email-invoices/)
+1. Abonelikler sayfasından [aboneliğinizi seçin.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) **Faturalar'a ve sonra Faturamı** **e-posta ile gönder'e tıklayın**
+2. Kabul **et'e** tıklayın ve koşulları kabul et'e tıklayın. Sahibi olduğunuz her abonelik için katılmanız gerekir. Not: Adımları takipdikten sonra e-posta alasanız bile, profilinizde yer alan iletişim tercihlerinde e-posta [adresinizin doğru olduğundan emin olun](https://account.windowsazure.com/profile)
+3. [Doğrudan gelen kutunuza e-postayla gelen Azure faturaları](https://azure.microsoft.com/blog/azure-email-invoices/)
 
 **Günlük kullanımı anlama:**  
- [Microsoft Azure için Faturanızı Anlama](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
+ [Microsoft Azure faturanızı anlama](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Maliyetleri yönetme:** [Azure Faturalandırma ve maliyet yönetimiyle ilgili beklenmeyen maliyetleri önle](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Maliyetleri yönetme:** [Azure faturalama ve maliyet yönetimiyle beklenmeyen maliyetleri önleme](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Microsoft Müşteri Anlaşması (MCA)** :
+**Microsoft Müşteri Sözleşmesi (MCA)**:
 
-[Microsoft Müşteri sözleşmesine erişimi nasıl denetleyeceğinizi öğrenin mi?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
-[Microsoft Müşteri sözleşmeniz](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)varsa, kullanımı [Azure portalında](https://portal.azure.com/) indirebilirsiniz
+Microsoft  [Müşteri Sözleşmesi'ne erişimi denetlemeyi öğrenin.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
+Microsoft Müşteri [Sözleşmesi'ne sahipsanız Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement) [portalında](https://portal.azure.com/) kullanım indirme
 
-**Microsoft müşteri anlaşması faturalarını e-posta Ile alın** :
+**Microsoft Müşteri Sözleşmesi faturalarınızı e-posta ile alın:**
 
-Bir Microsoft Müşteri sözleşmeniz varsa, faturanızı bir e-postada alabilirsiniz. Tüm faturalama profili sahipleri, katkı sağlayanlar, okuyucular ve fatura yöneticileri faturayı e-posta ile alır. Okuyucular e-posta faturası tercihini güncelleştiremez
+Microsoft Müşteri Sözleşmesi'ne sahipsiniz, faturanızı e-postayla almayı kabul edin. Tüm ödeme profili Sahipleri, Katkıda Bulunanlar, Okuyucular ve Fatura yöneticileri faturayı e-postayla alır. Okuyucular e-posta fatura tercihini güncelleştire
 
-- **Maliyet yönetimi ve faturalamayı** arayın. **Faturalandırma profili** seçin. Ayarlar 'ın altında **Özellikler** 'i seçin
-- E-posta faturası altında **e-posta faturası tercihini Güncelleştir** 'i seçin. Kabul et 'i seçin. **Güncelleştir** 'e tıklayın
+- **Maliyet Yönetimi + Faturalama** için arama yapın. Bir ödeme **profili seçin.** Ayarlar'ın altında Özellikler'i **seçin**
+- Faturayı E-posta Olarak **Gönder'in altında E-posta fatura tercihini güncelleştir'i seçin.** Kabul'i seçin. **Güncelleştir'e tıklayın**
 
 **Kurumsal Sözleşme (EA)**
 
-Kullanım verilerini bir EA müşterisi olarak görüntülemek ve indirmek için, ücretleri görüntüle ilkesi etkinleştirilmiş bir Kurumsal Yönetici, hesap sahibi veya bölüm yöneticisi olmanız gerekir.
+Kullanım verilerini bir EA müşterisi olarak görüntülemek ve indirmek için, görünüm ücretleri ilkesi etkinleştirilmiş Kuruluş Yöneticisi, Hesap Sahibi veya Bölüm Yöneticisi olun.
 
-- Azure portalında oturum açın. **Maliyet yönetimi ve faturalamayı** arayın. Faturalandırma profili seçme
-- Kullanım + ücretleri 'ni seçin. İndirmek istediğiniz ay için Indir 'i seçin
+- Azure portalda oturum açın. **Maliyet Yönetimi + Faturalama** için arama yapın. Bir ödeme profili seçin
+- Kullanım + ücretler'i seçin. İndirmek istediğiniz ay için İndir'i seçin
 
 **MOSP Azure aboneliği**  
-[MOSP Azure aboneliği faturasını indir](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
+[MOSP Azure abonelik faturasını indirme](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
 
-**Sorun giderme: son faturalandırma dönemi için fatura göremiyor musunuz?**
+**Sorun giderme: Son faturalandırma dönemine göre faturayı göreemiyor musunuz?**
 
-Fatura görmeyemeyeceğiniz bazı olası nedenler:
+Fatura görmeyebilirsiniz, bunun bazı olası nedenleri vardır:
 
-- Aboneliğiniz olan ve ücretsiz bir deneme süreniz olan aylık bir kontörünüz varsa. Fatura yalnızca para borcu oluşturulur
-- Azure 'a abone olduğunuz günden 30 günden daha azdır
-- Fatura henüz oluşturulmaz. Faturalandırma döneminin sonuna kadar bekle
-- Hesap yöneticisi değilseniz, eski faturalar size uygun **olmayabilir: Microsoft, Azure** CSP müşterilerine kullanım raporları veya tüketim verileri sağlamaz. İş Ortağı Merkezi kullanım verileri iş ortaklarına
-- AGÇ [(Open-](https://azure.microsoft.com/offers/ms-azr-0111p/) Open) faturalama ve kullanımı hakkında daha fazla bilgi
+- Aboneliğinizin süresi aşmadı veya Ücretsiz Deneme sürümüne sahip olduğunuz aylık kredi tutarınız var. Fatura, yalnızca para ödemesi yapılan ödeme olduğunda oluşturulur
+- Azure'a abone olduğunuz günden 30 günden daha kısa bir süre
+- Fatura henüz oluşturulmadı. Faturalandırma döneminin sonuna kadar bekleyin
+- Hesap Yöneticisi değilseniz eski faturaları kullanamayabilirsiniz **Not:** Microsoft, Azure CSP müşterilerine kullanım raporları veya tüketim verileri sağlamaz. İş Ortağı Merkezi kullanım verileri iş ortağına yöneliktir
+- AIO (Açık Azure) faturalandırma ve kullanımı hakkında daha fazla bilgi edinin: [Açık Azure](https://azure.microsoft.com/offers/ms-azr-0111p/)
 
-**Önerilen belgeler**
+**Önerilen Belgeler**
 
-- [Neden bir fatura göremeyebilirsiniz?](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-- [Azure Faturalandırma faturanızı ve kullanım verilerinizi isteme/Indirme/görüntüleme](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Azure faturalarını doğrudan gelen kutunuza gönderin](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Faturayı neden göremesiniz?](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- [Azure fatura ve kullanım verilerinizi İstek/İndirme/Görüntüleme](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Azure faturalarını doğrudan gelen kutunuza e-postayla gönderme](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Ayrıntılı kullanım ücretlerini anlama](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support#csv)
-- [Faturanızın şartlarını anlama](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Fatura ödeme koşullarınızı anlama](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Azure CSP faturasını anlama](https://docs.microsoft.com/partner-center/azure-plan-lp?WT.mc_id=Portal-Microsoft_Azure_Support)

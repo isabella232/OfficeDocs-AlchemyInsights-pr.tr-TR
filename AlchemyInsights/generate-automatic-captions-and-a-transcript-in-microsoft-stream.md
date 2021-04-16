@@ -1,8 +1,8 @@
 ---
-title: Microsoft Stream 'de otomatik açıklamalı altyazı ve bir döküm oluşturma
+title: Microsoft Stream'de otomatik resim yazıları ve döküm oluşturma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 033c479cd31c5028b00b2ffe64d63fea2762f3fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707803"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812447"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Microsoft Stream 'de otomatik açıklamalı altyazı ve bir döküm oluşturma
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Microsoft Stream'de otomatik resim yazıları ve döküm oluşturma
 
-Akış otomatik konuşma tanıma teknolojisini kullanarak otomatik olarak resim yazıları oluşturabilir ve bir videonun konuşulan içeriğiyle birlikte kolayca gezinmek ve izlemek için bir kaydırma dökümü penceresi görüntüleyebilirsiniz.
+Stream, Otomatik Konuşma Tanıma teknolojisini kullanarak otomatik olarak açıklamalı altyazılar üretebilir ve bir videonun konuşulan içeriğiyle birlikte kolayca gezinmek ve bunu takip etmek için kaydırma metin dökümü penceresini görüntüebilirsiniz.
 
-- [Microsoft Stream videolarınız için otomatik açıklamalı altyazı ve bir dökümü oluşturma](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Microsoft Stream videolarınız için otomatik resim yazıları ve döküm oluşturma](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Microsoft Stream 'de video için kaydırma dökümü penceresi gösterme](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Microsoft Stream'de video için kaydırma döküm penceresini gösterme](https://docs.microsoft.com/stream/portal-configure-transcript-mode)

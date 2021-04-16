@@ -2,7 +2,7 @@
 title: USB yazıcı sorunlarını düzeltme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 042a8e3bb02046f41a5e81653b08058f0e6626b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677515"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812736"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>USB yazıcı bağlantı sorunlarını düzeltme
 
-USB yazıcınızın yeniden çalışmasını sağlamak için şu **sorun giderme adımlarını** deneyin:
+USB **yazıcınızın yeniden çalışmaya** devam etmek için şu sorun giderme adımlarını deneyin:
 
-1. Yazıcınızı kapatıp USB kablosunu hem PC 'nizden hem de yazıcıdan çıkarın.
-2. Hasar olmadığından emin olmak için kabloyu inceleyin.
-3. Kabloyu PC 'nize ve yazıcınıza takın.
+1. Yazıcınızı kapatın ve USB kablosunu hem bilgisayarınızdan hem de yazıcıdan çıkarın.
+2. Hasar olmadığını kontrol etmek için kabloyu kontrol edin.
+3. Kabloyu tekrar bilgisayarınıza ve yazıcınıza takın.
 
-Bu işe yaramazsa, **USB yazıcınızı kaldırıp yeniden yüklemeyi**deneyin:
+Bu işe yaramadı **mı, USB yazıcınızı kaldırıp yeniden yüklemeyi deneyin:**
 
-1. Ayarlarda yazıcı kaldırma:
+1. Ayarlar'da yazıcıyı kaldırın:
     1. Yazıcının USB kablosunu bilgisayarınızdan çıkarın.
-    2. **Başlat**  >  **ayarları**  >  **cihaz**  >  **yazıcıları & tarayıcılar**'ı seçin.
-    3. **Yazıcılar & tarayıcılar**altında, sorun gidermekte olduğunuz yazıcıyı seçin. **Cihazı kaldır**'ı seçin. Yazıcıyı tam olarak kaldırmak için yönergeleri izleyin.
-2. Üçüncü taraf yazıcı üreticisinin yazılımlarını kaldırın:
-    1. **Başlangıç**  >  **ayarları**  >  **uygulamalarını**seçin.
-    2. **Uygulamalar & Özellikler**altında, yazıcınızın üreticisinden yüklü herhangi bir yazılımı bulmak için KAYDıRıN (HP, Canon veya Epson gibi).
-    3. Yazılımı seçin ve **Kaldır**'ı seçin.
+    2. Başlangıç **Ayarları**  >  **Cihazlar**  >    >  **Yazıcılar ve tarayıcılar & seçin.**
+    3. Tarayıcıları **ve & altında,** sorun gidermeye devam etmek istediğiniz yazıcıyı seçin. Cihazı **kaldır'ı seçin.** Yazıcıyı tam olarak kaldırmak için yönergeleri izleyin.
+2. Herhangi bir üçüncü taraf yazıcı üreticisi yazılımını kaldırın:
+    1. Başlangıç **Ayarları**  >  **Uygulamaları'ı**  >  **seçin.**
+    2. Uygulamalar **ve & altında,** ekranı kaydırarak yazıcınızın üreticisinden (HP, Kural veya Epson gibi) yüklü yazılımları bulun.
+    3. Yazılımı seçin ve Kaldır'ı **seçin.**
 3. Yazıcınızı kapatıp yeniden başlatın.<br>
-    1. Yazıcınızı kapatıp güç kablosunu çıkarın. 30 saniye bekleyin. Yazıcınızı takın.
-    2. Yazıcınızın USB kablosunu bilgisayarınıza takın. Bilgisayarınızın takılı olduğunu bilgisayarınızın otomatik olarak kaydetmesi gerekir.
+    1. Yazıcınızı kapatıp güç kablosunu çıkarın. 30 saniye bekleyin. Yazıcınızı yeniden takın.
+    2. Yazıcınızın USB kablosunu tekrar bilgisayarınıza takın. Bilgisayarınız, cihazınızın takılı olduğunu otomatik olarak kaydetmeli.
 4. Yeniden yazdırmayı deneyin.

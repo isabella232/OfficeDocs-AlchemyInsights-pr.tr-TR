@@ -1,8 +1,8 @@
 ---
-title: Bluetooth yazıcısını düzelt
+title: Bluetooth yazıcısını düzeltme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "3483"
 - "9001214"
-ms.openlocfilehash: bd419ca63d659167d7deccf34ce303ce29775099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 26df4eca68b4e14bde56fc5015239ec0810beb0a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744934"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812916"
 ---
-# <a name="fix-bluetooth-printer-connection-issues"></a>Bluetooth yazıcı bağlantısı sorunlarını çözme
+# <a name="fix-bluetooth-printer-connection-issues"></a>Bluetooth yazıcı bağlantı sorunlarını düzeltme
 
-Bluetooth yazıcınızı yeniden çalışma
+Bluetooth yazıcınızın yeniden çalışmaya devam etmek için şu sorun giderme adımlarını deneyin:
 
 
-1. Bluetooth 'un açık olduğundan emin olun:
-    1. **Başlangıç**  >  **ayarları**  >  **aygıtlarını**  >  **Bluetooth & diğer cihazları**seçin.
-    2. Bluetooth tuşunu **açın.**
+1. Bluetooth'un açık olduğundan emin olmak için kontrol edin:
+    1. Başlangıç **Ayarları**  >  **Cihazlar** Bluetooth  >  **&**  >  **diğer cihazlar 'ı seçin.**
+    2. Bluetooth iki durumlu düğmeyi **Açık olarak açın.**
 2. Bluetooth sorun gidericisini çalıştırın. <br>
-    **Başlat**'ı seçin, **ayarlarda sorun giderme**yazın ve **ayarları sorun giderme** seçeneğini belirleyin. Menüden **Bluetooth 'u** seçin ve **sorun gidericiyi çalıştırın**.
+    **Başlat'ı** seçin, **sorun giderme ayarları** yazın ve ardından Sorun giderme ayarları **seçeneğini** belirtin. Menüden **Bluetooth'u** seçin ve **Sorun gidericiyi çalıştırın .**
 
-Bu işe yaramazsa Bluetooth yazıcınızı kaldırıp yeniden yüklemeyi deneyin:
+Bu işe yaramadı mı, Bluetooth yazıcınızı kaldırıp yeniden yüklemeyi deneyin:
 
-1. Ayarlarda yazıcı kaldırma:
-    1. **Başlat**  >  **ayarları**  >  **cihaz**  >  **yazıcıları & tarayıcılar**'ı seçin.
-    2. **Yazıcılar & tarayıcılar**altında, sorun gidermekte olduğunuz yazıcıyı seçin. **Cihazı kaldır**'ı seçin. Yazıcıyı tam olarak kaldırmak için yönergeleri izleyin.
-2. Üçüncü taraf yazıcı üreticisinin yazılımlarını kaldırın:
-    1. **Başlangıç**  >  **ayarları**  >  **uygulamalarını**seçin.
-    2. **Uygulamalar & Özellikler**altında, yazıcınızın üreticisinden yüklü herhangi bir yazılımı bulmak için KAYDıRıN (HP, Canon veya Epson gibi).
+1. Ayarlar'da yazıcıyı kaldırın:
+    1. Başlangıç **Ayarları**  >  **Cihazlar**  >    >  **Yazıcılar ve tarayıcılar & seçin.**
+    2. Tarayıcıları **ve & altında,** sorun gidermeye devam etmek istediğiniz yazıcıyı seçin. Cihazı **kaldır'ı seçin.** Yazıcıyı tam olarak kaldırmak için yönergeleri izleyin.
+2. Herhangi bir üçüncü taraf yazıcı üreticisi yazılımını kaldırın:
+    1. Başlangıç **Ayarları**  >  **Uygulamaları'ı**  >  **seçin.**
+    2. Uygulamalar **ve & altında,** ekranı kaydırarak yazıcınızın üreticisinden (HP, Kural veya Epson gibi) yüklü yazılımları bulun.
 3. Yazıcınızı kapatıp yeniden başlatın.
    1. Yazıcınızı kapatıp güç kablosunu çıkarın. 30 saniye bekleyin. 
    2. Yazıcınızın güç kablosunu yeniden takıp yazıcıyı açın.
-4. Yazıcınızı yeniden yükleme:
-    1. **Başlat**  >  **ayarları**  >  **cihaz**  >  **yazıcıları & tarayıcılar**'ı seçin.
-    2. Ekranın en üstündeki **yazıcı veya tarayıcı ekle** bağlantısını seçin ve yazıcınızı yeniden yüklemek için yönergeleri izleyin.
+4. Ayarlar'da yazıcınızı yeniden yükleyin:
+    1. Başlangıç **Ayarları**  >  **Cihazlar**  >    >  **Yazıcılar ve tarayıcılar & seçin.**
+    2. Ekranın en **üstünde Yazıcı veya tarayıcı** ekle bağlantısını seçin ve yazıcınızı yeniden yüklemek için yönergeleri izleyin.

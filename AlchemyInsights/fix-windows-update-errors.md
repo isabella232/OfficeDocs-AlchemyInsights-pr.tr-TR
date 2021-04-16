@@ -2,7 +2,7 @@
 title: Windows Update hatalarını düzeltme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: febef6e2def6d7b928ec8b21d07aa2e8d94d7d4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744682"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812664"
 ---
 # <a name="fix-windows-update-errors"></a>Windows Update hatalarını düzeltme
 
-Windows Update 'i indirip yüklerken hata kodu alırsanız, **güncelleştirme sorun gidericisi** sorunu çözmeye yardımcı olabilir.
+Windows Update'i indirir ve yüklerken bir hata kodu alırsanız, **Güncelleştirme Sorun Gidericisi** sorunu çözmeye yardımcı olabilir.
 
-- [Windows 10 için güncelleştirme sorun gidericisini indirme](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Sorun gidericiyi çalıştırın. İşiniz bittiğinde, cihazınızı yeniden başlatmak en iyi yöntemdir. Ardından [> ayarları başlat > & güvenlik > Windows Update](ms-settings:windowsupdate)'e giderek yeni güncelleştirmeleri denetleyin.
+- [Windows 10 için Güncelleştirme Sorun Gidericisi'ni indirin](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Sorun gidericiyi çalıştırın. Bitirdikten sonra, en iyisi cihazınızı yeniden başlatmaktır. Ardından, Windows Update'de Ayarlar ve Güncelleştirme [>'> Başlat'a & > gidin.](ms-settings:windowsupdate)
 
-Yine de çalışmazsa lütfen [Windows Update: SSS bölümüne](https://support.microsoft.com/help/12373/windows-update-faq) bakın.
+Bu bilgiler yine de işe yaramadı mı? Daha fazla bilgi için [lütfen Windows Update: SSS](https://support.microsoft.com/help/12373/windows-update-faq) bölümünü inceleyin.

@@ -1,8 +1,8 @@
 ---
-title: Uygulamaların görüntüleme dilini Düzeltme
+title: Uygulamaların görüntüleme dilini düzeltme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001477"
 - "3508"
-ms.openlocfilehash: afe98f78654ba84a33f1bc3de0cf97bd22ccdb05
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55b2ef2b47ce2451133341f7a58d7d3f3e114bfe
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730107"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812880"
 ---
-# <a name="fix-the-display-language-of-apps"></a>Uygulamaların görüntüleme dilini Düzeltme
+# <a name="fix-the-display-language-of-apps"></a>Uygulamaların görüntüleme dilini düzeltme
 
-Windows 10 ' da görüntüleme dilini değiştirdikten sonra, bazı uygulamalar bunları açtığınızda önceki dili kullanmaya devam edebilir. Bunun nedeni, bu dilin uygulamalarının yeni sürümlerinin mağazadan indirilmesidir. Bu sorunu çözmek için, otomatik güncelleştirmeyi bekleyebilir veya uygulamaların güncelleştirilmiş sürümünü el ile yükleyebilirsiniz.
+Windows 10'da görüntüleme dilini değiştirdikten sonra, bazı uygulamalar bunları aya yeniden açarken önceki dili kullanmaya devam ediyor olabilir. Bunun nedeni, uygulamanın bu dilin yeni sürümlerinin Mağaza'dan indirilmiş olmasıdır. Bu sorunu çözmek için otomatik güncelleştirmeyi bekleyebilir veya uygulamaların güncelleştirilmiş sürümünü el ile yükleyebilirsiniz.
 
-Güncelleştirmeyi el ile yüklemek için, **Microsoft Store** 'u açın ve sağ üst köşedeki **indirmeler ve güncelleştirmeler** 'e tıklayın. Ardından **güncelleştirmeleri al**'ı tıklatın. Güncelleştirme tamamlandıktan sonra dil değiştirilmediyseniz bilgisayarınızı yeniden başlatmayı deneyin.
+Güncelleştirmeyi el ile yüklemek için **Microsoft Store'u açın ve sağ** üst **köşedeki** İndirmeler ve güncelleştirmeler'e tıklayın. Ardından Güncelleştirmeleri **al 'a tıklayın.** Güncelleştirme tamamlandıktan sonra dil değişmezse bilgisayarınızı yeniden başlatmayı deneyin.
 
 ![Güncelleştirmeleri alın.](media/get-updates.png)
 
-Giriş ve görüntüleme dil ayarları hakkında daha fazla bilgi için [Windows 10 ' da giriş ve görüntü dil ayarlarınızı yönetme](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences)bölümüne bakın.
+Giriş ve görüntüleme dili ayarları hakkında daha fazla bilgi için bkz. [Windows 10'da](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences)giriş ve görüntüleme dili ayarlarınızı yönetme.
