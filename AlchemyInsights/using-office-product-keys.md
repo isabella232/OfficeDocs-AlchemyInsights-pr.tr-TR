@@ -2,7 +2,7 @@
 title: Office ürün anahtarlarını kullanma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3550"
-ms.openlocfilehash: 1000bae008ecb59fc31a9473c3ba1707e2b8ac31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16a86343f1c05a5094dc0dd5595c1299c9e44a26
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726518"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808082"
 ---
 # <a name="using-office-product-keys"></a>Office ürün anahtarlarını kullanma
 
-**Office ürün anahtarları**
+**Office Ürün Anahtarları**
 
-Office 'i yüklemek ve etkinleştirmek için ürün anahtarınızı değil Microsoft hesabınızı kullanın ve Project, Visio, Word, Excel ve Outlook gibi tek tek Microsoft 365 uygulamalarını satın almak için. Daha fazla bilgi için bkz: [Office ürün anahtarı için](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759?ui=en-US&rs=en-US&ad=US#bkmk_promptforpkey) sorma
+Office'i yüklemek ve etkinleştirmek ve Project, Visio, Word, Excel ve Outlook gibi tek tek satın alınan Microsoft 365 uygulamalarını yüklemek ve etkinleştirmek için ürün anahtarınızı değil Microsoft hesabını kullanın. Daha fazla bilgi için bkz. [Office benden ürün anahtarı mı istensin?](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759?ui=en-US&rs=en-US&ad=US#bkmk_promptforpkey)
 
-- Office satın alma bir ürün anahtarıyla geldiyse, [Office ürün anahtarınızı nereye gireceğimi](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)görün.
+- Satın aldığınız Office ürünü bir ürün anahtarıyla birlikte gelmişse, [bkz. Office ürün anahtarınızı nereye girsiniz.](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 
-- Office 365 ev veya kişisel ürün anahtarıyla ilgili yardım almak için, [Office ile ürün anahtarlarını kullanma](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759)konusuna bakın.
+- Office 365 Ev veya Bireysel ürün anahtarıyla ilgili yardım için [bkz. Office ile ürün anahtarlarını kullanma.](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759)
 
-**Office aboneliği etkinleştiriliyor** 
+**Office aboneliğini etkinleştirme** 
 
-- Bir perakende satış mağazasından Microsoft 365 aboneliği satın aldıysanız, [işletmeler Için microsoft 365 ürün anahtarınızı girin](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key).
+- Microsoft 365 aboneliğini bir perakende satış mağazasından satın yaptıysanız, bkz. [Microsoft 365 İş uygulamaları](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key)için ürün anahtarınızı girme .
 
-- Ürün anahtarını kullanmayı denediğinizde bir hata iletisi varsa, [iş Için Microsoft 365 ürün anahtarı Ile Ilgili sorunları görün mi?](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)
+- Ürün anahtarını kullanmada bir hata iletisiyle karşılaştıysanız bkz. [Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions) İş ürün anahtarıyla ilgili sorunlar mı var?
