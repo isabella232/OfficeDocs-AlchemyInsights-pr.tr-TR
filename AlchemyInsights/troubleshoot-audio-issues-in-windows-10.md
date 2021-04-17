@@ -1,8 +1,8 @@
 ---
-title: Windows 10 ' da ses sorunlarını giderme
+title: Windows 10'da ses sorunlarını giderme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,55 +12,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750363"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833311"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a><span data-ttu-id="7b74b-102">Windows 10 ' da ses sorunlarını giderme</span><span class="sxs-lookup"><span data-stu-id="7b74b-102">Troubleshooting audio issues in Windows 10</span></span>
+# <a name="troubleshooting-audio-issues-in-windows-10"></a><span data-ttu-id="d6ee0-102">Windows 10'da ses sorunlarını giderme</span><span class="sxs-lookup"><span data-stu-id="d6ee0-102">Troubleshooting audio issues in Windows 10</span></span>
 
-<span data-ttu-id="7b74b-103">**Ses sorun gidericisini çalıştırın**</span><span class="sxs-lookup"><span data-stu-id="7b74b-103">**Run the audio troubleshooter**</span></span>
+<span data-ttu-id="d6ee0-103">**Ses sorun gidericisini çalıştırma**</span><span class="sxs-lookup"><span data-stu-id="d6ee0-103">**Run the audio troubleshooter**</span></span>
 
-1.  <span data-ttu-id="7b74b-104">[Sorun giderme ayarlarını](ms-settings:troubleshoot)açın.</span><span class="sxs-lookup"><span data-stu-id="7b74b-104">Open the [Troubleshoot settings](ms-settings:troubleshoot).</span></span>
+1.  <span data-ttu-id="d6ee0-104">Sorun giderme [ayarlarını açın.](ms-settings:troubleshoot)</span><span class="sxs-lookup"><span data-stu-id="d6ee0-104">Open the [Troubleshoot settings](ms-settings:troubleshoot).</span></span>
 
-2.  <span data-ttu-id="7b74b-105">**Ses çalmayı**seçin  >  **sorun gidericiyi çalıştırın**.</span><span class="sxs-lookup"><span data-stu-id="7b74b-105">Select **Playing Audio** > **Run the troubleshooter**.</span></span>
+2.  <span data-ttu-id="d6ee0-105">Ses **Çalma Sorun**  >  **gidericisini çalıştır öğesini seçin.**</span><span class="sxs-lookup"><span data-stu-id="d6ee0-105">Select **Playing Audio** > **Run the troubleshooter**.</span></span>
 
-<span data-ttu-id="7b74b-106">**Varsayılan cihazı ayarlama**</span><span class="sxs-lookup"><span data-stu-id="7b74b-106">**Set the default device**</span></span>
+<span data-ttu-id="d6ee0-106">**Varsayılan cihazı ayarlama**</span><span class="sxs-lookup"><span data-stu-id="d6ee0-106">**Set the default device**</span></span>
 
-<span data-ttu-id="7b74b-107">Bir ses aygıtına USB veya HDMı kullanarak bağlanıyorsanız varsayılan olarak bu cihazı ayarlamanız gerekebilir:</span><span class="sxs-lookup"><span data-stu-id="7b74b-107">If you're connecting to an audio device using USB or HDMI, you might need to set that device as the default:</span></span>
+<span data-ttu-id="d6ee0-107">USB veya HDMI kullanarak bir ses cihazına bağlanıyorsanız, bu cihazı varsayılan olarak ayarlamanız gerekir:</span><span class="sxs-lookup"><span data-stu-id="d6ee0-107">If you're connecting to an audio device using USB or HDMI, you might need to set that device as the default:</span></span>
 
-1. <span data-ttu-id="7b74b-108">Ses **Başlat**  >  **Sound**'ı açın ve sonra da **Ses** 'ı seçin veya sonuç listesinden **sistem seslerini değiştirin** .</span><span class="sxs-lookup"><span data-stu-id="7b74b-108">Open **Start** > **Sound**, and then select **Sound** or **Change system sounds** from the list of results.</span></span>
+1. <span data-ttu-id="d6ee0-108">Ses **Başlat**  >  **öğesini** açın ve sonuç **listesinden** **Ses'i veya Sistem seslerini** değiştir'i seçin.</span><span class="sxs-lookup"><span data-stu-id="d6ee0-108">Open **Start** > **Sound**, and then select **Sound** or **Change system sounds** from the list of results.</span></span>
 
-2.  <span data-ttu-id="7b74b-109">**Kayıttan Yürüt** sekmesinde bir cihaz seçin, **Varsayılanı ayarla**'yı seçin ve sonra da **Tamam 'ı**seçin.</span><span class="sxs-lookup"><span data-stu-id="7b74b-109">On the **Playback** tab, select a device, select **Set Default**, and then select **OK**.</span></span>
+2.  <span data-ttu-id="d6ee0-109">Kayıttan **Yürütme sekmesinde** bir cihaz seçin, Varsayılanı **Ayarla'ya tıklayın** ve ardından Tamam'a **tıklayın.**</span><span class="sxs-lookup"><span data-stu-id="d6ee0-109">On the **Playback** tab, select a device, select **Set Default**, and then select **OK**.</span></span>
 
-<span data-ttu-id="7b74b-110">**Kabloları, sesi, hoparlörleri ve kulaklıkları denetleme**</span><span class="sxs-lookup"><span data-stu-id="7b74b-110">**Check cables, volume, speakers, and headphones**</span></span>
+<span data-ttu-id="d6ee0-110">**Kabloları, ses düzeyini, hoparlörleri ve kulaklıkları kontrol edin**</span><span class="sxs-lookup"><span data-stu-id="d6ee0-110">**Check cables, volume, speakers, and headphones**</span></span>
 
-1. <span data-ttu-id="7b74b-111">Hoparlör ve kulaklık bağlantılarınızı gevşek kablolar için denetleyin ve bunların doğru jaka bağlı olduğundan emin olun.</span><span class="sxs-lookup"><span data-stu-id="7b74b-111">Check your speaker and headphone connections for loose cables, and make sure they're connected to the correct jack.</span></span>
+1. <span data-ttu-id="d6ee0-111">Gevşek kablo olup olmadığını kontrol edin ve doğru jaka bağlı olduğundan emin olun.</span><span class="sxs-lookup"><span data-stu-id="d6ee0-111">Check your speaker and headphone connections for loose cables, and make sure they're connected to the correct jack.</span></span>
 
-2. <span data-ttu-id="7b74b-112">Güç ve ses düzeylerinizi kontrol edin ve tüm birim denetimlerini açmayı deneyin.</span><span class="sxs-lookup"><span data-stu-id="7b74b-112">Check your power and volume levels and try turning all the volume controls up.</span></span>
+2. <span data-ttu-id="d6ee0-112">Güç ve ses düzeylerinizi kontrol edin ve tüm ses denetimlerini yukarı doğru çevirmeyi deneyin.</span><span class="sxs-lookup"><span data-stu-id="d6ee0-112">Check your power and volume levels and try turning all the volume controls up.</span></span>
 
-3. <span data-ttu-id="7b74b-113">Bazı hoparlörler ve uygulamalar kendi ses denetimlerine sahiptir; doğru düzeylerde olduklarından emin olmak için Tümünü denetlemeniz gerekebilir.</span><span class="sxs-lookup"><span data-stu-id="7b74b-113">Some speakers and apps have their own volume controls; you might have to check them all to make sure they're at the right levels.</span></span>
+3. <span data-ttu-id="d6ee0-113">Bazı hoparlörler ve uygulamaların kendi ses denetimleri vardır; Doğru düzeylerde olduğundan emin olmak için hepsini denetlemelisiniz.</span><span class="sxs-lookup"><span data-stu-id="d6ee0-113">Some speakers and apps have their own volume controls; you might have to check them all to make sure they're at the right levels.</span></span>
 
-4. <span data-ttu-id="7b74b-114">Farklı bir USB bağlantı noktası kullanarak bağlanmayı deneyin.</span><span class="sxs-lookup"><span data-stu-id="7b74b-114">Try connecting using a different USB port.</span></span>
+4. <span data-ttu-id="d6ee0-114">Farklı bir USB bağlantı noktası kullanarak bağlanmayı deneyin.</span><span class="sxs-lookup"><span data-stu-id="d6ee0-114">Try connecting using a different USB port.</span></span>
 
-<span data-ttu-id="7b74b-115">**Not**: kulaklıklar prize takılıyken hoparlörleriniz çalışmayabilir.</span><span class="sxs-lookup"><span data-stu-id="7b74b-115">**Note**: Remember that your speakers may not work when headphones are plugged in.</span></span>
+<span data-ttu-id="d6ee0-115">**Not:** Kulaklık takılıyken hoparlörlerin çalışmay olduğunu unutmayın.</span><span class="sxs-lookup"><span data-stu-id="d6ee0-115">**Note**: Remember that your speakers may not work when headphones are plugged in.</span></span>
 
-<span data-ttu-id="7b74b-116">**Cihaz yöneticisini denetleme**</span><span class="sxs-lookup"><span data-stu-id="7b74b-116">**Check Device Manager**</span></span>
+<span data-ttu-id="d6ee0-116">**Cihaz Yöneticisi'ni denetleme**</span><span class="sxs-lookup"><span data-stu-id="d6ee0-116">**Check Device Manager**</span></span>
 
-<span data-ttu-id="7b74b-117">Sürücülerin güncel olduğundan emin olmak için:</span><span class="sxs-lookup"><span data-stu-id="7b74b-117">To make sure the drivers are up to date:</span></span>
+<span data-ttu-id="d6ee0-117">Sürücülerin güncel olduğundan emin olmak için:</span><span class="sxs-lookup"><span data-stu-id="d6ee0-117">To make sure the drivers are up to date:</span></span>
 
-1. <span data-ttu-id="7b74b-118">**Başlat**'ı seçin, **Cihaz Yöneticisi**yazın ve sonuç listesinden **Cihaz Yöneticisi 'ni** seçin.</span><span class="sxs-lookup"><span data-stu-id="7b74b-118">Select **Start**, type **Device Manager**, and then select **Device Manager** from the list of results.</span></span>
+1. <span data-ttu-id="d6ee0-118">Başlat **öğesini** seçin, **Cihaz Yöneticisi** yazın ve ardından sonuç **listesinden** Cihaz Yöneticisi'ni seçin.</span><span class="sxs-lookup"><span data-stu-id="d6ee0-118">Select **Start**, type **Device Manager**, and then select **Device Manager** from the list of results.</span></span>
 
-2. <span data-ttu-id="7b74b-119">**Ses, video ve oyun kumandası**altında ses kartınızı seçin, açın, **sürücü** sekmesini seçin ve **Sürücüyü Güncelleştir**'i seçin.</span><span class="sxs-lookup"><span data-stu-id="7b74b-119">Under **Sound, video, and game controllers**, select your sound card, open it, select the **Driver** tab, and select **Update Driver**.</span></span>
+2. <span data-ttu-id="d6ee0-119">Ses, **video ve oyun kumandaları altında** ses kartınızı seçin, açın, Sürücü sekmesini **seçin** ve Sürücüyü **Güncelleştir'i seçin.**</span><span class="sxs-lookup"><span data-stu-id="d6ee0-119">Under **Sound, video, and game controllers**, select your sound card, open it, select the **Driver** tab, and select **Update Driver**.</span></span>
 
-<span data-ttu-id="7b74b-120">**Not**: Windows yeni bir sürücü bulamazsa, cihaz üreticisinin Web sitesinde bir tane arayın ve yönergelerini izleyin.</span><span class="sxs-lookup"><span data-stu-id="7b74b-120">**Note**: If Windows doesn't find a new driver, look for one on the device manufacturer's website and follow their instructions.</span></span>
+<span data-ttu-id="d6ee0-120">**Not:** Windows yeni bir sürücü bulamazsa cihaz üreticisinin web sitesinden bir sürücü bulun ve yönergeleri izleyin.</span><span class="sxs-lookup"><span data-stu-id="d6ee0-120">**Note**: If Windows doesn't find a new driver, look for one on the device manufacturer's website and follow their instructions.</span></span>
 
-<span data-ttu-id="7b74b-121">**Sürücüyü yeniden yükleyin**</span><span class="sxs-lookup"><span data-stu-id="7b74b-121">**Reinstall the driver**</span></span>
+<span data-ttu-id="d6ee0-121">**Sürücüyü yeniden yükleyin**</span><span class="sxs-lookup"><span data-stu-id="d6ee0-121">**Reinstall the driver**</span></span>
 
-<span data-ttu-id="7b74b-122">Cihaz Yöneticisi aracılığıyla güncelleştiremıyorsanız veya üreticinin Web sitesinde yeni bir sürücü bulamıyorsanız, aşağıdaki adımları deneyin:</span><span class="sxs-lookup"><span data-stu-id="7b74b-122">If you can't update via Device Manager or find a new driver on the manufacturer's website, try these steps:</span></span>
+<span data-ttu-id="d6ee0-122">Cihaz Yöneticisi aracılığıyla güncelleştire değilken üreticinin web sitesinde yeni bir sürücü bulamıyorsanız şu adımları deneyin:</span><span class="sxs-lookup"><span data-stu-id="d6ee0-122">If you can't update via Device Manager or find a new driver on the manufacturer's website, try these steps:</span></span>
 
-1. <span data-ttu-id="7b74b-123">Aygıt Yöneticisi 'nde, ses sürücüsünü sağ tıklatın (veya basılı tutun) ve **Kaldır**'ı seçin.</span><span class="sxs-lookup"><span data-stu-id="7b74b-123">In Device Manager, right-click (or press and hold) the audio driver, and select **Uninstall**.</span></span> <span data-ttu-id="7b74b-124">Cihazınızı yeniden başlatın ve Windows sürücüyü yeniden yüklemeyi dener.</span><span class="sxs-lookup"><span data-stu-id="7b74b-124">Restart your device and Windows will attempt to reinstall the driver.</span></span>
+1. <span data-ttu-id="d6ee0-123">Cihaz Yöneticisi'nde ses sürücüsüne sağ tıklayın (veya basılı tutun) ve Kaldır öğesini **seçin.**</span><span class="sxs-lookup"><span data-stu-id="d6ee0-123">In Device Manager, right-click (or press and hold) the audio driver, and select **Uninstall**.</span></span> <span data-ttu-id="d6ee0-124">Cihazınızı yeniden başlatın; Windows sürücüyü yeniden yüklemeyi dener.</span><span class="sxs-lookup"><span data-stu-id="d6ee0-124">Restart your device and Windows will attempt to reinstall the driver.</span></span>
 
-2. <span data-ttu-id="7b74b-125">Sürücüyü yeniden yüklemek işe yaramazsa, Windows ile birlikte gelen genel ses sürücüsünü kullanmayı deneyin.</span><span class="sxs-lookup"><span data-stu-id="7b74b-125">If reinstalling the driver doesn't work, try using the generic audio driver that comes with Windows.</span></span> <span data-ttu-id="7b74b-126">Cihaz Yöneticisi 'nde, **sürücü yazılımını güncelleştirmek**için ses > sürücünüze sağ tıklayın (veya basılı tutun) sürücü yazılımını Güncelleştir bilgisayarımdaki  >  **Browse my computer for driver software**  >  **cihaz sürücüleri listesinden seçmeme izin ver**'i seçin, **yüksek tanımlı ses cihazı** **Next**</span><span class="sxs-lookup"><span data-stu-id="7b74b-126">In Device Manager, right-click (or press and hold) your audio driver > **Update driver software** > **Browse my computer for driver software** > **Let me pick from a list of device drivers on my computer**, select **High Definition Audio Device**, select **Next**, and follow the instructions to install it.</span></span>
+2. <span data-ttu-id="d6ee0-125">Sürücüyü yeniden yüklemek işe yaramadı mı? Windows ile birlikte gelen genel ses sürücüsünü kullanmayı deneyin.</span><span class="sxs-lookup"><span data-stu-id="d6ee0-125">If reinstalling the driver doesn't work, try using the generic audio driver that comes with Windows.</span></span> <span data-ttu-id="d6ee0-126">Cihaz Yöneticisi'nde ses sürücüne sağ tıklayın (veya basılı tutun) > Sürücü yazılımını güncelleştir Sürücü yazılımı için bilgisayarıma göz at Bilgisayarımda bulunan cihaz sürücüleri listesinden seçmeme izin ver, Yüksek Tanımlı Ses Cihazı 'ı seçin, Sonraki'yi seçin ve yüklemek için yönergeleri  >    >  izleyin.  </span><span class="sxs-lookup"><span data-stu-id="d6ee0-126">In Device Manager, right-click (or press and hold) your audio driver > **Update driver software** > **Browse my computer for driver software** > **Let me pick from a list of device drivers on my computer**, select **High Definition Audio Device**, select **Next**, and follow the instructions to install it.</span></span>
