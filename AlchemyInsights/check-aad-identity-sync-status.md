@@ -1,8 +1,8 @@
 ---
-title: AAD kimlik eşitleme durumunu denetleme
+title: AAD Kimlik Eşitleme Durumunu Denetleme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,22 +14,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: e06eab76adcdb2b99b8aaa738f677950fa1af16b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27847ac62e418869cc5074808e6ccab02671ea05
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793922"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817876"
 ---
-# <a name="check-aad-identity-sync-status"></a>AAD kimlik eşitleme durumunu denetleme
+# <a name="check-aad-identity-sync-status"></a>AAD Kimlik Eşitleme durumunu denetleme
 
-Eşitleme durumunu denetlemek kolaydır:
+Eşitleme durumunu kontrol etmek kolaydır:
   
-- Microsoft 365 Yönetim Merkezi 'nde oturum açın ve giriş sayfasında **DirSync durumu** 'nu seçin.
+- Microsoft 365 yönetim merkezinde oturum açma ve giriş sayfasında **DirSync** Durumu'u seçme.
 
-- Alternatif olarak, kullanıcılar \> etkin kullanıcılarına gidebilir ve etkin kullanıcılar sayfasında daha fazla \> Dizin eşitlemesi seçebilirsiniz.
+- Alternatif olarak, Kullanıcılar Etkin kullanıcılar'a gidebilir ve Etkin kullanıcılar sayfasında Diğer \> Dizin eşitlemesi'ne \> seçebilirsiniz.
 
-- Dizin eşitleme bölmesinde DirSync yönetimine git 'i seçin.
+- Dizin Eşitlemesi bölmesinde DirSync yönetimine git'i seçin.
 
-Dizin eşitlemeyle ilgili bir sorun varsa, bu sayfada hatalar listelenir. Karşılaşabileceğiniz farklı hatalar hakkında daha fazla bilgi için [bkz.](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors)
+Dizin eşitlemeniz ile ilgili bir sorun varsa, hatalar bu sayfada listelenir. Karşılaşabilirsiniz farklı hatalar hakkında daha fazla bilgi için bkz. [Dizin eşitleme hatalarını görüntüleme](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

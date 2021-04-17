@@ -1,8 +1,8 @@
 ---
-title: Ekiplerde Toplantı zamanlama
+title: Teams'de toplantı zamanlama
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: d75f3a1d83845609ff4a41788ce9dbf92fbfc3d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746923"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815995"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Ekiplerde Toplantı zamanlama
+# <a name="schedule-a-meeting-in-teams"></a>Teams'de toplantı zamanlama
 
-**Önemli** Toplantı oluştururken veya ekiplerde toplantı seçeneğini bulamıyorsanız, etkilenen kullanıcıların Microsoft ekipleri için desteklenen bir sürümde etkinleştirilmiş bir Exchange posta kutusu olduğundan emin olun. Exchange Online 'da önerilirken, çevrimiçi ve şirket Içi olarak yapılandırılmış OAuth ile Exchange Server 2016 CU3 veya üzeri bir sürümde Exchange Server. Daha fazla bilgi için [Exchange Online 'da Kullanıcı posta kutuları oluşturma](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) ve [Şirket içinde barındırılan posta kutuları gereksinimleri](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
+**Önemli** Toplantı oluşturma sorunlarınız varsa veya Teams'te toplantı seçeneğini bulamıyorsanız, etkilenen kullanıcı veya kullanıcılarında desteklenen bir Microsoft Teams sürümünde Exchange posta kutularının etkin olduğundan emin olun. Exchange Online önerilir, ancak Exchange Şirket İçi posta kutuları, OAuth'ın Çevrimiçi ile Şirket İçi arasında başarıyla yapılandırıldığında Exchange Server 2016 CU3 veya sonraki bir işletim sistemi üzerinde desteklemektedir. Daha fazla bilgi için [bkz. Exchange Online'da](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) kullanıcı posta kutuları oluşturma ve Şirket içinde [barındırılan posta kutuları için gereksinimler.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises) 
 
-1. Aşağıdakileri seçerek toplantı zamanlayabilirsiniz:
+1. Aşağıdakini seçerek bir toplantı zamanlarısiniz:
 
-    - **Schedule a meeting** Yazılı mesajlaşmada toplantı, yazılı mesajlaşmada Toplantı
+    - **Oluşturma kutusunun** altındaki bir sohbette toplantı planla simgesi, sohbette yer alan kişilerin toplantı rezervasyonlarını sağlar.
 
-    - Uygulamanın sol tarafındaki **Takvim** simgesi. Bir zamanlama formu açmak için sağ üst kısımdaki **Yeni Toplantı** veya takviminizde bir zaman aralığı seçin.
+    - **Uygulamanın** sol tarafındaki Takvim simgesi. Sağ üst **kısmında Yeni** toplantı'ya tıklayın veya takvimde bir zaman aralığı seçerek bir zamanlama formu açın.
 
-2. Outlook 'ta toplantı zamanlamaya benzer şekilde toplantınıza bir başlık verebilir, kişi davet edebilir ve toplantı ayrıntıları ekleyebilirsiniz.
+2. Outlook'ta toplantı zamanlamanıza benzer şekilde, toplantınıza bir başlık ekler, kişileri davet edin ve toplantı ayrıntılarını eklersiniz.
 
-3. Zamanlama formunun sağ tarafında, bir kanal veya kişi ekleyebilir ya da özel bir randevu zamanlamak için her ikisini de boş bırakabilirsiniz.
+3. Zamanlama formunun sağ tarafında bir kanal veya tek tek kişiler ekleyebilir ya da özel bir randevu zamanlaması için her ikisini de boş bırakabilirsiniz.
 
-Microsoft ekiplerde toplantılar oluşturma [ve zamanlama hakkında](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)daha fazla bilgi için bkz.
+Microsoft Teams'de toplantı oluşturma ve zamanlama hakkında daha fazla bilgi için bkz. [Teams'de toplantı zamanlama.](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)
 
-Toplantıların sınırları ve belirtimleri hakkında daha fazla bilgi için [Microsoft ekipleri Için sınırlamalar ve Özellikler](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)konusuna bakın.
+Toplantılarda sınırlar ve belirtimler hakkında daha fazla bilgi için bkz. [Microsoft Teams için sınırlar ve belirtimler.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)
 
-Özellikle temsilci zamanlama sorunları için, ekipler ve Exchange etkileşimleri sorunlarını giderme konusunda yardım almak için [Microsoft ekipleri ve Exchange Server etkileşim sorunlarını giderme](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)konusuna bakın.
+Özellikle temsilci zamanlama sorunlarında, Teams ve Exchange etkileşimlerinin giderilmesine yardımcı olmak için [bkz. Microsoft Teams ve Exchange Server etkileşim sorunlarını giderme.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

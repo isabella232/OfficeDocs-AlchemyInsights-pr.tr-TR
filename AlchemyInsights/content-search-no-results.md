@@ -1,8 +1,8 @@
 ---
-title: İçerik arama sonuç yok
+title: İçerik Arama Sonucu Yok
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0267286ca5967ee891e65343d49adf776f0322a6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680667"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816868"
 ---
-# <a name="no-results-from-content-searchexports"></a>Içerik arama/dışarı aktarma işleminden gelen sonuçlar yok
+# <a name="no-results-from-content-searchexports"></a>İçerik Arama/Dışarı Aktarma sonuçlarından sonuç yok
 
-Içerik arama/dışarı aktarma ile ilgili sorunlar, belirli bir yönetici tarafından ayarlanmış olan ve tüm yöneticilerle iletişim kurmayabilir.
+İçerik Arama/Dışarı Aktarma işlemiyle ilgili hiçbir veri döndürene sorunlar, belirli bir Yönetici tarafından kurulumu yapılan ve tüm Yöneticilere ile iletişim kurmadan dolayı belirli bir Uyumluluk Güvenlik Filtresi olabilir.
 
-Bunu çözmek için, bu soruna neden olabilecek uyumluluk güvenlik filtreleri olup olmadığını denetleyin:
-1. Güvenlik ve Uyumluluk Merkezi PowerShell 'e bağlanma
-2. Aşağıdaki komutu çalıştırarak:
+Bu sorunu çözmek için, soruna neden olacak herhangi bir Uyumluluk Güvenlik Filtresi olup olmadığını kontrol edin:
+1. Güvenlik ve Uyumluluk Merkezi Powershell'e bağlanma
+2. Aşağıdaki komutlar çalıştırın:
 <br>$org = "yourdomain.com"
-<br>Get-Karmaşıısecurityfilter-kuruluş $org
+<br>Get-ComplianceSecurityFilter -Organization $org

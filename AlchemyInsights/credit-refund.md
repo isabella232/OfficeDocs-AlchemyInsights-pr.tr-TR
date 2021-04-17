@@ -1,8 +1,8 @@
 ---
-title: Kontör/iade
+title: Kredi/para iadesi
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,25 +13,25 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 27f1b43c7e00114d51bb3f1c5769936b72635a21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e40dcf238ce4bc05c55c78e29c54fc260523bc2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746599"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815887"
 ---
-# <a name="creditrefund"></a>Kontör/iade
+# <a name="creditrefund"></a>Kredi/para iadesi
 
-**İptal**
+**İptal etme**
   
-Aboneliği iptal ettiğinizde, bir sonraki faturalama tarihinde ödenmesi gereken bir kontör içeren son fatura alırsınız. Bu, aboneliğin iptal edildiği tarihten itibaren, 30 gün kadar sürebilir.
+Aboneliği iptal ederken sonraki fatura tarihine kadar ödemesi gerekerek son faturayı alırsınız. Bu işlemi, aboneliğin iptal edildiği tarihten itibaren 30 gün kadar zaman alabilirsiniz.
   
-**Oturma değişikliği**
+**Seat Change**
   
-Abonelikler abonelikten çıkarıldığında, bu lisanlarda kullanılmayan saat bir sonraki faturada kontör olarak uygulanacaktır. Bu, lisansların kaldırıldığı tarihten 30 gün kadar sürebilir.
+Abonelikten lisans kaldırıldığı zaman, bu lisanslarda kullanılmayan süre sonraki faturada kredi olarak uygulanır. Bu tarihin lisansların kaldırıldığı tarihten itibaren 30 gün kadar zaman al.
 
-**Cihazınızdan**
+**Para iadesi**
 
 **Eşit dağıtılmış krediler bir sonraki fatura döngüsünde size iade edilir.**
 
-Daha fazla bilgi için bkz [.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide) 
+Daha fazla bilgi için [bkz. iptal ve para iadesi işlemi.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide) 

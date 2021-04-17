@@ -1,8 +1,8 @@
 ---
-title: Grup oluşturma
+title: Grupların oluşturulmasını denetleme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: fa3dd7798eb41164ca27a2dfe2a036e53bc3db0d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f6bbad8b8e3133567ffa5b83120da0c6f07f9b7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733239"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816724"
 ---
-# <a name="control-creation-of-microsoft-365-groups"></a>Microsoft 365 gruplarının oluşturulmasını denetleme
+# <a name="control-creation-of-microsoft-365-groups"></a>Microsoft 365 Gruplarının oluşturulmasını denetleme
 
-Varsayılan olarak, Şirket içindeki tüm kullanıcılar grup oluşturabilir. Gerekirse, bunu değiştirebilir ve şirketinizdeki bir grup kişiye Grup oluşturma hakkını atayabilirsiniz. Bu, herhangi bir Microsoft 365 hizmetinden (Outlook, takımlar, Planner vb.) Grup oluşturma konusunda etki olacağını unutmayın.
+Varsayılan olarak, şirket içindeki tüm kullanıcılar grup oluşturabilir. Gerekirse bunu değiştirebilir ve şirket içindeki bir dizi kişi için grup oluşturma hakkını atabileceksiniz. Bunun herhangi bir Microsoft 365 hizmetlerinden (Outlook, Teams, Planner vb.) grup oluşturma üzerinde etkili olduğunu unutmayın.
   
-Yönergeler: [Microsoft 365 grupları oluşturabileceğiniz kişileri yönetme](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
+Yönergeler: [Kimlerin Microsoft 365 Grupları oluştura kişilerini yönetme](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)

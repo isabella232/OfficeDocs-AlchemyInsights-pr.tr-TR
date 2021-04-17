@@ -2,7 +2,7 @@
 title: İletişim uyumluluğu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
-ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
+ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49875159"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817516"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Microsoft 365 'de iletişim uyumluluğu
+# <a name="communication-compliance-in-microsoft-365"></a>Microsoft 365'te iletişim uyumluluğu
 
-İletişim uyumluluğu, kuruluşların yönetimsel uyumluluk gereksinimlerini karşılamasına ve iletişim risklerini en aza indirmeye yardımcı olan yeni bir Microsoft 365 uyumluluk çözümüdür. Süper vizyon özelliğini temel alır ve yeni iyileştirmeler içerir:
+İletişim uyumluluğu, kuruluşların denetime uyumluluk gereksinimlerini karşılamalarına ve iletişim risklerini en aza indirmelerine yardımcı olan yeni bir Microsoft 365 uyumluluk çözümüdür. Bu özellik, Gözetim özelliğini temel alarak aşağıdakiler gibi yeni geliştirmeleri içerir:
 
-- Akıllı özelleştirilebilir şablonlar
+- Akıllı, özelleştirilebilir şablonlar
 - Esnek düzeltme iş akışları
-- Eylem yapılabilir Öngörüler
+- İşlem edilebilir içgörüler
 
-Şu anda [süper vizyon ilkelerini](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)kullanıyorsanız, yasal düzenleme ihtiyaçlarını karşılamak Için yeni iletişim uyumluluğunu kullanmanızı öneririz.
+Şu anda Gözetim ilkelerini [kullanıyorsanız,](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)mevzuatla ilgili ihtiyaçları karşılamak için yeni İletişim uyumluluğunu hemen kullanmalarını öneririz.
 
-İletişim uyumluluğunu ayarlamak için bkz: [iletişim uyumluluğunu yapılandırma](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+İletişim uyumluluğunu kurma için bkz. [İletişim uyumluluğunu yapılandırma.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
 
-İletişim uyumluluğunu araştırmak, gözden geçirmek ve görmek için bkz: [iletişim uyumluluğu uyarılarını araştırın ve düzeltin](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+İletişim uyumluluğunu araştırmak, gözden geçirmek ve düzeltmek için bkz. [İletişim uyumluluğu uyarılarını araştırma ve düzeltme](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
 
-İletişim uyumluluğu özelliğine genel bir bakış için [Microsoft 365 'de iletişim uyumluluğu](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)konusuna bakın.
+İletişim uyumluluğu özelliğine genel bir bakış için [bkz. Microsoft 365'te iletişim uyumluluğu.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
 
-Lisans gereksinimleri: iletişim ilkeleri tarafından izlenen kullanıcıların aşağıdakilerden birine sahip olması gerekir:
+Lisans gereksinimleri: İletişim ilkeleri tarafından izlenen kullanıcıların, aşağıdakilerden biri olmalıdır:
 
-- Microsoft 365 E5 uyumluluk lisansı
-- Gelişmiş uyumluluk eklentisi ile Office 365 Enterprise E3 lisansı
-- Office 365 Enterprise E5 aboneliği
+- Microsoft 365 E5 Uyumluluk lisansı
+- Gelişmiş Uyumluluk eklentili Office 365 Kurumsal E3 lisansı
+- Office 365 Kurumsal E5 aboneliği
 
-Yukarıdakilerden herhangi birine sahip değilseniz ve iletişim uyumluluğunu denemek istiyorsanız, **[Office 365 Enterprise E5 ' un deneme sürümüne kaydolun](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Yukarıdakilerden herhangi biri yoksa ve iletişim uyumluluğunu denemek için **[Office 365 Kurumsal E5 deneme sürümüne kaydolabilirsiniz.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
 > [!NOTE]
-> E-posta iletilerinin bir ilkede tam olarak işlenmesi 24 saate kadar sürebilir. Microsoft ekipleri, Yammer ve üçüncü taraf platformlardaki iletişim, bir ilkede tam işleme 48 saate kadar sürebilir.
+> E-posta iletilerinin bir ilkede tümüyle işlenmesi 24 saat kadar sürebilir. Microsoft Teams, Yammer ve üçüncü taraf platformlarda iletişimlerin ilkelerde tam olarak işlemesi 48 saate kadar sürebilir.

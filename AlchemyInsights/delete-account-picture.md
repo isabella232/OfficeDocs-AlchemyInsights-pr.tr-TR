@@ -2,7 +2,7 @@
 title: Hesap resmini silme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: 94d7c783b13632e9fcf0875785fdeab8b8951f93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7baa3267d62ae1bef64b9f7c91b5f8aedfcbc8e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730971"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815563"
 ---
-# <a name="delete-an-account-picture-in-windows-10"></a>Windows 10 ' da hesap resmini silme
+# <a name="delete-an-account-picture-in-windows-10"></a>Windows 10'da hesap resmini silme
 
-Windows, en son üç resim arasında geçiş yapmanızı sağlayacak şekilde tasarlanmıştır. Hesap resimlerinden birini silmeniz gerekirse:
+Windows, en son üç resminiz arasında geçiş yapmak için tasarlanmıştır. Hesap resimlerinizi silmeniz gerekirse:
 
-1. Dosya Gezgini 'ni görev çubuğundan açın. Görev çubuğunda Dosya Gezgini 'ni (klasör simgesi) görmüyorsanız **Başlat** 'ı seçin ve **Dosya Gezgini**yazın.
+1. Görev çubuğundan Dosya gezgini'ni açın. Görev çubuğunda Dosya gezgini'ni (klasör simgesi) görmüyorsanız Başlat'ı seçin **ve Dosya** gezgini **yazın.**
 
-2. C:\Users \\ *ad*\Appdata\roaming\microsoft\windows\accountresim. 
-    - *Adınızı* hesap adınızla değiştirin.
-    - Dosya Gezgini 'nde AppData klasörünü bulamıyorsanız, gizli olabilir. **Görünüm** ayarını seçin ve klasördeki tüm öğeleri göstermek Için **gizli öğeler** 'i seçin.
+2. C:\Users \\ *yourname*\AppData\Roaming\Microsoft\Windows\AccountPictures klasörüne gidin. 
+    - Adınızla *hesap* adınız değiştirin.
+    - AppData klasörünü Dosya Gezgini'nde bulamıyorsanız, klasör gizlenmiş olabilir. Görünüm **ayarını** seçin ve klasördeki **tüm öğeleri göstermek** için Gizli Öğeler onay kutusunu seçin.
 
-3. Artık kullanmak istemediğiniz hesap resmini silin.
+3. Artık kullanmak istediğiniz hesap resmini silin.
  
  

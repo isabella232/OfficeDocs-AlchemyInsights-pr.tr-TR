@@ -1,8 +1,8 @@
 ---
-title: DataProtection-BitLocker
+title: DataProtection - Bitlocker
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,44 +12,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
-ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
+ms.openlocfilehash: 8166a055d7a967faab83484619b443cc98239c7c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49778213"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815635"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>Intune ile BitLocker şifrelemesini etkinleştirme
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Intune ile Bitlocker şifrelemesini etkinleştirme
 
-Windows cihazlarında BitLocker şifreleme ayarlarını yapılandırmak için Intune Endpoint Protection Ilkesi kullanılabilir. Daha fazla bilgi için, [Intune kullanarak cihazları korumada Windows 10 (ve sonraki sürümler) ayarlarına](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)bakın.
+Intune Uç Nokta Koruma İlkesi, Windows cihazları için Bitlocker şifreleme ayarlarını yapılandırmak üzere kullanılabilir. Daha fazla bilgi için, Intune kullanarak cihazları korumak [için Windows 10 (ve sonrası) ayarlarına bakın.](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
 
-Endpoint Protection Ilkesine ek olarak, cihazlar için şifreleme durumunun ayrıntılı görünümünü sağlayan bir şifreleme raporu da vardır. Bu rapora **cihazlar > İzleyicisi** altındaki mem portalından erişilebilir ve sonra **yapılandırma** altında [şifreleme raporu](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)seçin.
+Uç Nokta Koruma İlkesi'ne ek olarak, cihazlar için şifreleme durumunun daha ayrıntılı bir görünümünü sağlayan bir Şifreleme Raporu da vardır. Bu rapora MEM portalında Cihazlar ve Monitör **altında > ve** sonra Yapılandırma altında Şifreleme [raporu'seçerek erişilebilir.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport) 
 
-BitLocker 'ın beklendiği şekilde etkinleştirilememesini veya BitLocker 'ı etkinleştirmek için kullanılan profilin bir hata durumunda olduğunu fark ederseniz, davranışın neden gerçekleştiğini daha iyi anlamak için lütfen şifreleme raporunu gözden geçirin.
+Bitlocker'ın beklendiği gibi etkinleştirilmemiş olduğunu veya Bitlocker'ı etkinleştirmek için kullanılan profilin hata durumunda olduğunu fark ederseniz, davranışın neden oluştuğunu daha iyi anlamak için lütfen şifreleme raporunu gözden geçirin.
 
-Raporu çeşitli şifreleme durumu değerleriyle birlikte yorumlama hakkında bilgi edinmek için [bkz.](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)
+Raporu çeşitli şifreleme durumu değerleri de içinde olmak üzere nasıl yorumlayacağız hakkında ayrıntılı bilgi için [bkz. Intune ile cihaz şifrelemeyi izleme.](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)
 
-Windows 10 çalıştıran yeni aygıtların, MDM ilkesi uygulaması olmadan tetiklenen otomatik BitLocker şifrelemesini desteklemediğini bilmelisiniz. Bu, varsayılan olmayan ayarlar yapılandırılırsa ilkenin uygulamasını etkileyebilir. Daha ayrıntılı bilgi için aşağıdaki SSS bölümüne bakın.
+Windows 10 çalıştıran birçok yeni cihaz, MDM ilkesi uygulaması olmadan tetiklenen otomatik Bitlocker şifrelemesini destekler. Varsayılan olmayan ayarlar yapılandırılmışsa bu durum ilke uygulamasını da etkiler. Daha ayrıntılı bilgi için aşağıdaki SSS bölümüne bakın.
 
-BitLocker sorunlarını giderme hakkında bilgi için [Microsoft Intune 'Da BitLocker Ilkelerinde sorun giderme](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)konusuna bakın.
+Bitlocker sorunlarını giderme hakkında daha fazla bilgi için [bkz. Microsoft Intune'da BitLocker ilkelerini giderme.](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)
  
  
 **SSS**
 
-S: Endpoint Protection Ilkesini kullanarak Windows 'un hangi sürümleri cihaz şifrelemesini destekliyor?<br>
-A: Intune Endpoint Protection Ilkesindeki ayarlar [BITLOCKER CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)kullanılarak uygulanır. Tüm Windows sürümleri veya derlemeleri BitLocker CSP 'yi desteklemez. <br><br>
+S: Uç Nokta Koruma İlkesi kullanılarak Windows desteği cihaz şifrelemenin hangi sürümleri?<br>
+Y: Intune Uç Nokta Koruma İlkesi'nin ayarları [Bitlocker CSP kullanılarak uygulanır.](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) Windows'un tüm sürümleri veya derlemeleri Bitlocker CSP'yi desteklemez. <br><br>
 
-S: Son Kullanıcı etkileşimi gerekmeden cihazlarda BitLocker nasıl etkinleştirilebilir?<br>
-A: gerekli önkoşulları karşıladığı için, Intune aracılığıyla BitLocker "sessiz şifrelemeyi" etkinleştirmeniz olasıdır. Aşağıdaki belgede sessiz şifrelemeyi etkinleştirmek için cihaz gereksinimleri ve örnek ilke ayarlarının ayrıntılarına bakın: [BitLocker şifrelemesini sessizce etkinleştirin](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+S: Bitlocker son kullanıcı etkileşimi gerektirmeden cihazlarda nasıl etkinleştirilebilir?<br>
+A: Gerekli önkulları karşılamız olduğu sürece, Intune aracılığıyla Bitlocker "Sessiz Şifreleme"yi etkinleştirmek mümkündür. Aşağıdaki belgede sessiz şifrelemeyi etkinleştirmek için cihaz gereksinimlerinin ayrıntılarına ve örnek ilke ayarlarına bakın: [BitLocker Şifrelemesi'ni Sessiz Olarak Etkinleştir.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices) <br><br>
 
-S: cihaz zaten şifreleme yöntemi ve şifreleme gücü (XTS-AES-128) için işletim sistemi varsayılan ayarları kullanılarak bir cihaz şifrelenmişse, farklı ayarlarla bir ilke uygulama yeni ayarlarla otomatik olarak yeniden şifrelemeyi tetikleyecektir.<br>
-Y: Hayır. Yeni şifre ayarlarını uygulamak için önce sürücünün şifresinin çözülmesi gerekir.<br><br>
-**Not:** Autopilot 'e Kaydolmakta olan cihazlar için, Intune ilkesi değerlendirilinceye kadar OOBE sırasında oluşacak Otomatik şifreleme tetiklenemez ve bu da işletim sistemi varsayılanları yerine ilke tabanlı ayarların kullanılmasına olanak tanır.
+S: Bir cihaz zaten şifreleme yöntemi ve şifreleme gücü için işletim sistemi varsayılan ayarları (XTS-AES-128) kullanılarak Bitlocker ile şifrelenirse, farklı ayarlara sahip bir ilke uygulama otomatik olarak yeni ayarlarla sürücünün yeniden şifrelenmesini tetikler mi?<br>
+Y: Hayır. Yeni şifreleme ayarlarını uygulamak için, önce sürücünün şifresinin çözülmesi gerekir.<br><br>
+**Not:** AutoPilot ile kaydolan cihazlar için, Intune ilkesi değerlendirilene kadar OOBE sırasında otomatik şifreleme tetiklanmaz ve bu da işletim sistemi varsayılanları yerine ilke tabanlı ayarların kullanılmalarına olanak tanır.
  
-S: Intune ilkesi uygulamasının bir sonucu olarak bir cihaz şifrelenmişse, bu ilke kaldırıldığında şifresi çözülür mi?<br>
-A: şifrelemeyle ilgili ilkenin kaldırılması, yapılandırılmış sürücülerin şifresinin çözülmesini sağlamaz.
+S: Intune ilkesi uygulamasının bir sonucu olarak bir cihaz şifrelenirse, bu ilke kaldırıldığı zaman bu şifre çözülecek mi?<br>
+Y: Şifrelemeyle ilgili ilkenin kaldırılması, yapılandırılan sürücülerin şifresinin çözülmesine neden OLMAZ.
  
-S: Intune uyumluluk Ilkesinde neden aygıtımın BitLocker 'ın etkin olmadığını gösterir, ancak olsa da?<br>
-A: Intune uyumluluk Ilkesindeki "BitLocker etkin" ayarı Windows cihaz durumu kanıtlama (DHA) istemcisini kullanır. Bu istemci yalnızca önyükleme sırasında cihaz durumunu ölçtüğünden. Bu nedenle, BitLocker şifrelemesi tamamlandığından bir cihaz yeniden başlatılıncaya kadar, DHA istemci hizmeti BitLocker 'ı etkin olduğu gibi bildirmeyecektir.
+S: Intune Uyumluluk İlkesi neden cihazımda Bitlocker etkin olmadığını gösteriyor?<br>
+A: Intune Uyumluluk İlkesi'nde "Bitlocker etkinleştirildi" ayarı, Windows Cihaz Sistem Durumu Attestation (DHA) istemcisini kullanır. Bu istemci yalnızca cihaz durumunu önyükleme zamanında ölçür. Dolayısıyla, Bitlocker şifrelemesi tamamlandıktan sonra bir cihaz yeniden başlatmamışsa DHA istemci hizmeti Bitlocker'ın etkin olduğunu bildirmez.
  
  

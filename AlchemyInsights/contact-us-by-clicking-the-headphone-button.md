@@ -2,7 +2,7 @@
 title: Kulaklık düğmesine tıklayarak bize ulaşın
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 329768f62c3da71b5454c7155e66509ae4c01df4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680920"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816976"
 ---
 # <a name="contact-us-by-clicking-the-headphone-button"></a>Kulaklık düğmesine tıklayarak bize ulaşın
 
-Microsoft desteğine başvurmak istiyorsanız, lütfen bu uygulamanın sol alt köşesindeki **bize ulaşın** seçeneğine tıklayın. Dışarı geçmiş penceresinin içinde, ürün ve sorun kategorisini seçtikten sonra doğru destek kanalına yönlendirilirsiniz.
+Microsoft Desteği ile iletişime geçebilirsiniz. Lütfen **bu** uygulamanın sol alt köşesindeki Bize ulaşın'a tıklayın. Dışarı uçan pencerenin içinde, ürün ve sorun kategorinizi seçtikten sonra doğru destek kanalına yönlendirilirsiniz.
 
-![Kulaklık simgesine tıklayarak bize ulaşın.](media/contact-us-headphone-icon.png)
+![Kulaklık simgesine tıklayarak bizimle iletişime geçin.](media/contact-us-headphone-icon.png)
 
-Bize bir kişi oturumu başlattıktan sonra da uygulamanın geri kalanıyla etkileşimde bulunabilirsiniz. Bize ulaşın paneli, uygulamanın içinde başka bir yere tıklayarak geçici olarak simge durumuna küçültülmüş olabilir. Aynı oturuma dönmek için **bize şimdi ulaşın** 'ı tıklatın.
+Bir Bize ulaşın oturumu başlattıktan sonra bile uygulamanın geri kalanıyla etkileşime devam edin. Bize ulaşın paneli, uygulamanın içinde başka bir yere tıklayarak geçici olarak simge durumuna küçültülmüş olabilir. Aynı oturuma dönmek için Bize tekrar **ulaşın'a tıklayın.**
