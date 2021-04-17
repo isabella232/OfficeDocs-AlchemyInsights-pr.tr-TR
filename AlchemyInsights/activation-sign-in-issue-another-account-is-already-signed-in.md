@@ -1,8 +1,8 @@
 ---
-title: Etkinleştirme/oturum açma sorunu-başka bir hesap zaten oturum açmış
+title: Etkinleştirme/oturum açma sorunu -başka bir hesap zaten oturum açık
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "3407"
 - "9001422"
-ms.openlocfilehash: 28cab94af5c3e57bce5a41d36c20a57ebfa825ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76eef6f89cc1cb4c26e9022c7048d23937e5af59
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697757"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822943"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a><span data-ttu-id="c5fc1-102">Microsoft 365 uygulamalarını düzeltme "Maalesef kuruluşunuzdaki başka bir hesap zaten oturum açmış" iletisi</span><span class="sxs-lookup"><span data-stu-id="c5fc1-102">Fixing the Microsoft 365 apps "Sorry, another account from your organization is already signed in" message</span></span>
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a><span data-ttu-id="cc627-102">Microsoft 365 uygulamalarını düzeltme "Üzgünüz, kuruluşun başka bir hesabı zaten oturum açık" iletisi</span><span class="sxs-lookup"><span data-stu-id="cc627-102">Fixing the Microsoft 365 apps "Sorry, another account from your organization is already signed in" message</span></span>
 
-<span data-ttu-id="c5fc1-103">Bu hatayı düzeltmek için aşağıdakileri deneyin:</span><span class="sxs-lookup"><span data-stu-id="c5fc1-103">To fix this error, try the following:</span></span>
+<span data-ttu-id="cc627-103">Bu hatayı düzeltmek için aşağıdakileri deneyin:</span><span class="sxs-lookup"><span data-stu-id="cc627-103">To fix this error, try the following:</span></span>
 
-1. <span data-ttu-id="c5fc1-104">Bir Office uygulamasını açın ve mevcut tüm kullanıcı hesaplarında [oturumu kapatın](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071).</span><span class="sxs-lookup"><span data-stu-id="c5fc1-104">Open an Office app, and [sign out](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) of any existing user accounts.</span></span>   
-2. <span data-ttu-id="c5fc1-105">Windows **ayarları**  >  **hesapları**  >  **e-posta & hesaplarını**kullanarak, etkilenen hesap dışındaki tüm iş hesaplarını kaldırın.</span><span class="sxs-lookup"><span data-stu-id="c5fc1-105">Using Windows **Settings** > **Accounts** > **Email & accounts**, remove all work accounts except the affected account.</span></span> 
-3. <span data-ttu-id="c5fc1-106">Windows **ayarları**  >  **hesaplarının**  >  **iş veya okul**'yı kullanma</span><span class="sxs-lookup"><span data-stu-id="c5fc1-106">Using Windows **Settings** > **Accounts** > **Access work or school**, disconnect all work accounts except the affected account.</span></span> 
-4. <span data-ttu-id="c5fc1-107">Office etkinleştirme durumunu sıfırlama.</span><span class="sxs-lookup"><span data-stu-id="c5fc1-107">Reset Office activation state.</span></span> <span data-ttu-id="c5fc1-108">[Nasıl yapıldığını öğrenin](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
-).</span><span class="sxs-lookup"><span data-stu-id="c5fc1-108">[Learn how](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+1. <span data-ttu-id="cc627-104">Bir Office uygulamasını açın ve mevcut tüm kullanıcı hesaplarında [oturumu kapatın](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071).</span><span class="sxs-lookup"><span data-stu-id="cc627-104">Open an Office app, and [sign out](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) of any existing user accounts.</span></span>   
+2. <span data-ttu-id="cc627-105">Windows Ayarları **Hesapları**  >  **E-&**  >  **hesapları kullanarak** etkilenen hesap dışındaki tüm iş hesaplarını kaldırın.</span><span class="sxs-lookup"><span data-stu-id="cc627-105">Using Windows **Settings** > **Accounts** > **Email & accounts**, remove all work accounts except the affected account.</span></span> 
+3. <span data-ttu-id="cc627-106">Windows Ayarları **Hesaplarını**  >  **Kullanma İş veya** okula erişim  >  **,** etkilenen hesap dışındaki tüm iş hesaplarının bağlantısını kes.</span><span class="sxs-lookup"><span data-stu-id="cc627-106">Using Windows **Settings** > **Accounts** > **Access work or school**, disconnect all work accounts except the affected account.</span></span> 
+4. <span data-ttu-id="cc627-107">Office etkinleştirme durumunu sıfırlama.</span><span class="sxs-lookup"><span data-stu-id="cc627-107">Reset Office activation state.</span></span> <span data-ttu-id="cc627-108">[Nasıl yapıldığını öğrenin](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+).</span><span class="sxs-lookup"><span data-stu-id="cc627-108">[Learn how](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).</span></span>
-5. <span data-ttu-id="c5fc1-109">Etkilenen Kullanıcı hesabını kullanarak [oturum açın](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) .</span><span class="sxs-lookup"><span data-stu-id="c5fc1-109">[Sign in](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) using the affected user account.</span></span> 
+5. <span data-ttu-id="cc627-109">[Etkilenen](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) kullanıcı hesabını kullanarak oturum açın.</span><span class="sxs-lookup"><span data-stu-id="cc627-109">[Sign in](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) using the affected user account.</span></span> 
 
-<span data-ttu-id="c5fc1-110">Daha fazla bilgi için, [Office 2013 'da "Üzgünüz, kuruluşunuzdaki başka bir hesap zaten bu bilgisayarda oturum açtı"](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)başlığına bakın.</span><span class="sxs-lookup"><span data-stu-id="c5fc1-110">For more information, see ["Sorry, another account from your organization is already signed in on this computer" in Office 2013](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).</span></span>
+<span data-ttu-id="cc627-110">Daha fazla bilgi için bkz. [Office 2013'te "Üzgünüz,](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)kuruluşun başka bir hesabı bu bilgisayarda oturum açık"</span><span class="sxs-lookup"><span data-stu-id="cc627-110">For more information, see ["Sorry, another account from your organization is already signed in on this computer" in Office 2013](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).</span></span>
 
-<span data-ttu-id="c5fc1-111">Mac için bkz. [Office Mac 2016 uygulamasında oturum açılamıyor](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).</span><span class="sxs-lookup"><span data-stu-id="c5fc1-111">For Mac, see [Can't sign in to an Office 2016 for Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).</span></span>
+<span data-ttu-id="cc627-111">Mac için bkz. [Office Mac 2016 uygulamasında oturum açılamıyor](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).</span><span class="sxs-lookup"><span data-stu-id="cc627-111">For Mac, see [Can't sign in to an Office 2016 for Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).</span></span>
