@@ -1,8 +1,8 @@
 ---
-title: SharePoint Online Takvim yer paylaşımı
+title: SharePoint Online takvim yer paylaşımı
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 052330e0cf84c2dbb1586803806b8d013e53dd12
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1cd18da6e7091153abeeadb83f6f9d95e615dea2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665522"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833491"
 ---
-# <a name="sharepoint-online-calendar-overlay"></a>SharePoint Online Takvim yer paylaşımı
+# <a name="sharepoint-online-calendar-overlay"></a>SharePoint Online takvim yer paylaşımı
 
-Hem SharePoint takvimleri aynı site koleksiyonunda olduğu sürece, başka bir SharePoint takvimini üst üste getirebilirsiniz. Exchange Online 'dan alınan bir SharePoint Online veya SharePoint Server takviminde Takvim yer paylaşımını kullanabilme özelliği desteklenmez.
+Her iki SharePoint takvimi de aynı site koleksiyonunda olduğu sürece, başka bir SharePoint takvimini yer paylaşımlı kullanabilirsiniz. SharePoint Online veya SharePoint Server takviminde Exchange Online'dan alınan takvim yer paylaşımını kullanma özelliği destek desteklemez.
 
-SharePoint Online, Microsoft 365 grup takvimleri ile modern bir deneyim sunmaktadır. Daha fazla bilgi edinmek için [Grup takvimi Web bölümünü kullanma](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce)konusuna bakın.
+SharePoint Online, Microsoft 365 grup takvimleriyle modern bir deneyim sunar. Daha fazla bilgi edinmek için [bkz. Grup takvimi web bölümünü kullanma.](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce)

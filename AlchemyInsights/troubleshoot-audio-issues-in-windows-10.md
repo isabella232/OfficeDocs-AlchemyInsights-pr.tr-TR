@@ -1,8 +1,8 @@
 ---
-title: Windows 10 ' da ses sorunlarını giderme
+title: Windows 10'da ses sorunlarını giderme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,55 +12,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750363"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833311"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a>Windows 10 ' da ses sorunlarını giderme
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Windows 10'da ses sorunlarını giderme
 
-**Ses sorun gidericisini çalıştırın**
+**Ses sorun gidericisini çalıştırma**
 
-1.  [Sorun giderme ayarlarını](ms-settings:troubleshoot)açın.
+1.  Sorun giderme [ayarlarını açın.](ms-settings:troubleshoot)
 
-2.  **Ses çalmayı**seçin  >  **sorun gidericiyi çalıştırın**.
+2.  Ses **Çalma Sorun**  >  **gidericisini çalıştır öğesini seçin.**
 
 **Varsayılan cihazı ayarlama**
 
-Bir ses aygıtına USB veya HDMı kullanarak bağlanıyorsanız varsayılan olarak bu cihazı ayarlamanız gerekebilir:
+USB veya HDMI kullanarak bir ses cihazına bağlanıyorsanız, bu cihazı varsayılan olarak ayarlamanız gerekir:
 
-1. Ses **Başlat**  >  **Sound**'ı açın ve sonra da **Ses** 'ı seçin veya sonuç listesinden **sistem seslerini değiştirin** .
+1. Ses **Başlat**  >  **öğesini** açın ve sonuç **listesinden** **Ses'i veya Sistem seslerini** değiştir'i seçin.
 
-2.  **Kayıttan Yürüt** sekmesinde bir cihaz seçin, **Varsayılanı ayarla**'yı seçin ve sonra da **Tamam 'ı**seçin.
+2.  Kayıttan **Yürütme sekmesinde** bir cihaz seçin, Varsayılanı **Ayarla'ya tıklayın** ve ardından Tamam'a **tıklayın.**
 
-**Kabloları, sesi, hoparlörleri ve kulaklıkları denetleme**
+**Kabloları, ses düzeyini, hoparlörleri ve kulaklıkları kontrol edin**
 
-1. Hoparlör ve kulaklık bağlantılarınızı gevşek kablolar için denetleyin ve bunların doğru jaka bağlı olduğundan emin olun.
+1. Gevşek kablo olup olmadığını kontrol edin ve doğru jaka bağlı olduğundan emin olun.
 
-2. Güç ve ses düzeylerinizi kontrol edin ve tüm birim denetimlerini açmayı deneyin.
+2. Güç ve ses düzeylerinizi kontrol edin ve tüm ses denetimlerini yukarı doğru çevirmeyi deneyin.
 
-3. Bazı hoparlörler ve uygulamalar kendi ses denetimlerine sahiptir; doğru düzeylerde olduklarından emin olmak için Tümünü denetlemeniz gerekebilir.
+3. Bazı hoparlörler ve uygulamaların kendi ses denetimleri vardır; Doğru düzeylerde olduğundan emin olmak için hepsini denetlemelisiniz.
 
 4. Farklı bir USB bağlantı noktası kullanarak bağlanmayı deneyin.
 
-**Not**: kulaklıklar prize takılıyken hoparlörleriniz çalışmayabilir.
+**Not:** Kulaklık takılıyken hoparlörlerin çalışmay olduğunu unutmayın.
 
-**Cihaz yöneticisini denetleme**
+**Cihaz Yöneticisi'ni denetleme**
 
 Sürücülerin güncel olduğundan emin olmak için:
 
-1. **Başlat**'ı seçin, **Cihaz Yöneticisi**yazın ve sonuç listesinden **Cihaz Yöneticisi 'ni** seçin.
+1. Başlat **öğesini** seçin, **Cihaz Yöneticisi** yazın ve ardından sonuç **listesinden** Cihaz Yöneticisi'ni seçin.
 
-2. **Ses, video ve oyun kumandası**altında ses kartınızı seçin, açın, **sürücü** sekmesini seçin ve **Sürücüyü Güncelleştir**'i seçin.
+2. Ses, **video ve oyun kumandaları altında** ses kartınızı seçin, açın, Sürücü sekmesini **seçin** ve Sürücüyü **Güncelleştir'i seçin.**
 
-**Not**: Windows yeni bir sürücü bulamazsa, cihaz üreticisinin Web sitesinde bir tane arayın ve yönergelerini izleyin.
+**Not:** Windows yeni bir sürücü bulamazsa cihaz üreticisinin web sitesinden bir sürücü bulun ve yönergeleri izleyin.
 
 **Sürücüyü yeniden yükleyin**
 
-Cihaz Yöneticisi aracılığıyla güncelleştiremıyorsanız veya üreticinin Web sitesinde yeni bir sürücü bulamıyorsanız, aşağıdaki adımları deneyin:
+Cihaz Yöneticisi aracılığıyla güncelleştire değilken üreticinin web sitesinde yeni bir sürücü bulamıyorsanız şu adımları deneyin:
 
-1. Aygıt Yöneticisi 'nde, ses sürücüsünü sağ tıklatın (veya basılı tutun) ve **Kaldır**'ı seçin. Cihazınızı yeniden başlatın ve Windows sürücüyü yeniden yüklemeyi dener.
+1. Cihaz Yöneticisi'nde ses sürücüsüne sağ tıklayın (veya basılı tutun) ve Kaldır öğesini **seçin.** Cihazınızı yeniden başlatın; Windows sürücüyü yeniden yüklemeyi dener.
 
-2. Sürücüyü yeniden yüklemek işe yaramazsa, Windows ile birlikte gelen genel ses sürücüsünü kullanmayı deneyin. Cihaz Yöneticisi 'nde, **sürücü yazılımını güncelleştirmek**için ses > sürücünüze sağ tıklayın (veya basılı tutun) sürücü yazılımını Güncelleştir bilgisayarımdaki  >  **Browse my computer for driver software**  >  **cihaz sürücüleri listesinden seçmeme izin ver**'i seçin, **yüksek tanımlı ses cihazı** **Next**
+2. Sürücüyü yeniden yüklemek işe yaramadı mı? Windows ile birlikte gelen genel ses sürücüsünü kullanmayı deneyin. Cihaz Yöneticisi'nde ses sürücüne sağ tıklayın (veya basılı tutun) > Sürücü yazılımını güncelleştir Sürücü yazılımı için bilgisayarıma göz at Bilgisayarımda bulunan cihaz sürücüleri listesinden seçmeme izin ver, Yüksek Tanımlı Ses Cihazı 'ı seçin, Sonraki'yi seçin ve yüklemek için yönergeleri  >    >  izleyin.  

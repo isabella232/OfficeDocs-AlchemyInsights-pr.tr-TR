@@ -1,8 +1,8 @@
 ---
-title: "Windows 10 ' da klavye ayarları "
+title: "Windows 10'da klavye ayarları "
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772823"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832987"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>Windows 10 ' da klavye ayarları
+# <a name="keyboard-settings-in-windows-10"></a>Windows 10'da klavye ayarları
 
 **Tür ayarları**
 
-Yazım denetimi, otomatik düzeltme, öneriler ve donanımınızın ve dokunmatik klavyenizin diğer yönleri ile ilgili Windows ayarlarını değiştirmek için, **> > ayarlar**'a gidin. 
+Donanım ve dokunmatik klavyenizin yazım denetimi, otomatik düzeltme, öneriler ve diğer yönleriyle ilgili Windows ayarlarını değiştirmek için Ayarlar > Cihazlar ve Yazma > **gidin.** 
 
 **Dil ve klavye ayarları**
 
-Windows dilinde hangi klavye veya giriş yönteminin kullanılacağı ile ilgili ayarları değiştirmek için, **> & dil > dili**'ne gidin. **Tercih edilen diller** listesinde dilleri seçin ve klavye veya giriş yöntemleri (IME 'ler) eklemek/kaldırmak için **Seçenekler** 'e tıklayın.
+Windows dilinin hangi klavye veya giriş yöntemiyle ilişkili ayarlarını değiştirmek için Ayarlar ve Saat > Dil & **Dil > gidin.** Tercih edilen diller **listesinden dilleri** seçin ve Klavye veya giriş yöntemleri (IM) eklemek/kaldırmak için Seçenekler'e tıklayın. 

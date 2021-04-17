@@ -2,21 +2,22 @@
 title: Arama kalitesi sorunlarını giderme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001224"
 - "5489"
-ms.openlocfilehash: 4d115188f86f5291507a94beb5218a5b3a2cefab
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: b52d50bfd703b9ef9c3fddd42f2a5793f5d7b918
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933558"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833275"
 ---
 # <a name="troubleshoot-call-quality-problems"></a>Arama kalitesi sorunlarını giderme
 

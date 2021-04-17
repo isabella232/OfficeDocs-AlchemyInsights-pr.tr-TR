@@ -1,8 +1,8 @@
 ---
-title: Apple Watch ile ilgili sorunlar
+title: Apple Watch ile ilgili sorun
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700043"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832294"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Apple Watch ile ilgili sorunlar
+# <a name="trouble-with-the-apple-watch"></a>Apple Watch ile ilgili sorun
 
-Apple Watch 'da Outlook 'U kullanırken sorun yaşıyorsanız, bazı sorun giderme adımları şunlardır: 
+Apple Watch'ta Outlook'u kullanırken sorun giderme adımlarıyla ilgili sorunlarınız varsa, şu adımları izleyin: 
 
-1. İPhone 'da gözcü uygulamasına gidin.
+1. iPhone'da Watch uygulamasına gidin.
 
-2. Outlook uygulamasına gidin.
+2. Sayfayı Outlook uygulamasına kaydırın.
 
-3. Kaldırmak için "Apple Watch 'da uygulamayı göster" seçeneğini **kapatın** .
+3. Kaldırmak için "Apple Watch'ta Uygulamayı Göster" iki durumlu **düğmesini KAPALı** olarak seçin.
 
-4. Watch 'da yeniden yüklemek için "Apple Watch 'ta uygulamayı göster" düğmesini **Açık** duruma getirin.
+4. Watch'ta yeniden yüklemek için  "Apple Watch'ta Uygulamayı Göster" iki durumlu düğmelerini AÇıK olarak seçin.
 
-5. Apple Watch 'da Outlook uygulamasını başlatın ve verilerin en son eşitlenmelerini bekleyin. 
+5. Apple Watch'ta Outlook uygulamasını başlatın ve verilerin en yeni sürüme eşitlenene kadar bekleyin. 
 
-Sorununuz çözülmemişse, destek ekibi de yardımcı olacaktır. **> & görüşler > desteğe başvurun**. 
+Sorun çözülmezse Destek ekibi size yardımcı olmaktan memnun olabilir. Ayarlar ve **Yardım >, Geri & ve de >'ye gidin.** 

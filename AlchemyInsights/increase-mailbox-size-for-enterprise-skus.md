@@ -1,8 +1,8 @@
 ---
-title: Kurumsal STB 'ler için posta kutusu boyutunu büyütme
+title: Kurumsal SU'lar için posta kutusu boyutunu artırma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 1af9775706a6e40aaed8f23b67a9329efe841090
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3e576a11e223917160c2f31d3d83c54329013879
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778243"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832150"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Posta kutunuzun boyutu zaten 100GB'A ise ne yapmalısınız?
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Posta kutunuz boyutunuz zaten 100 GB ise ne yapmak gerekir?
 
-E3 veya E5 planıyla, posta kutunuzun boyutu zaten 100 GB 'dır ve bu özelliği artırmanız gerekmez. Bunun yerine eski e-postaları silin veya bulutta depolamak için e-posta arşivlemeyi açın. 
+E3 veya E5 planıyla, posta kutusunun boyutu zaten 100 GB'dir ve bu boyutu artırmanın hiçbir yolu yoktur. Bunun yerine, eski e-postaları silin veya bulutta depolamak için e-posta arşivlemeyi açabilirsiniz. 
   
 E-posta arşivlemeyi etkinleştirmek için:
   
-1. Microsoft 365 Yönetim merkezinde, **Yönetim Merkezleri** \> **Exchange**'e gidin. 
+1. Microsoft 365 yönetim merkezinde Exchange Yönetim **merkezleri'ne** \> **gidin.** 
     
-2. **Alıcılar** \> **posta kutularını**seçin ve bir posta kutusu seçin. 
+2. Alıcılar **Posta** \> **Kutuları'ı seçin** ve bir posta kutusu seçin. 
     
-3. Ayrıntılar bölmesinde, **yerinde arşiv**'In altında **Etkinleştir**'i seçin. 
+3. Yerinde Arşiv altındaki ayrıntılar **bölmesinde Etkinleştir'i** **seçin.** 
     
-4. Birkaç dakika sonra, kullanıcının Outlook 'ta *yerinde arşiv* olarak adlandırılabilecek yeni bir klasör veya *çevrimiçi \<name\> Arşiv* gibi Outlook uygulamasında görünür. Kullanıcılarınız e-postayı arşive sürükleyip bırakabilir. 
+4. Birkaç dakika sonra, kullanıcınıza Web üzerinde Outlook'ta Yerinde  Arşiv adlı veya Çevrimiçi Arşiv - adlı Outlook uygulamasında yeni bir *klasör görüntülenir. \<name\>* Kullanıcınız e-postayı arşive sürükleyip bırakın. 
     
-Arşivleme için sınırsız miktarda depolama alanına erişebilirsiniz. Daha fazla bilgi [için bkz.](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving)
+Arşivleme için sınırsız miktarda depolama alanına erişsiniz. Daha fazla bilgi edinmek için [bkz. Sınırsız arşivlemeyi etkinleştirme.](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving)
   
 
