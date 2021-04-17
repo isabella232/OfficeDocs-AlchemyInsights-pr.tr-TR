@@ -1,8 +1,8 @@
 ---
-title: Anonim kullanıcıların ekip toplantılarına katılırsanız veya bunları engellemez
+title: Anonim kullanıcıların Teams toplantılarına katılmalarına izin verme veya engelleme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669916"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824779"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a><span data-ttu-id="26e50-102">Anonim kullanıcıların ekip toplantılarına katılırsanız veya bunları engellemez</span><span class="sxs-lookup"><span data-stu-id="26e50-102">Allow or prevent anonymous users from joining Teams meetings</span></span>
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a><span data-ttu-id="e753c-102">Anonim kullanıcıların Teams toplantılarına katılmalarına izin verme veya engelleme</span><span class="sxs-lookup"><span data-stu-id="e753c-102">Allow or prevent anonymous users from joining Teams meetings</span></span>
 
-<span data-ttu-id="26e50-103">Ekip yönetim merkezinde anonim toplantı birleştirme ayarlarını denetleyebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="26e50-103">You can control anonymous meeting join settings in the Teams Admin Center.</span></span>
+<span data-ttu-id="e753c-103">Teams Yönetim Merkezi'nde anonim toplantıya katılma ayarlarını kontrol edebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="e753c-103">You can control anonymous meeting join settings in the Teams Admin Center.</span></span>
 
-<span data-ttu-id="26e50-104">**Bu değişikliğin geçerlilik kazanması 24 saate kadar sürebilir.**</span><span class="sxs-lookup"><span data-stu-id="26e50-104">**It may take up to 24 hours for this change to take effect.**</span></span>
+<span data-ttu-id="e753c-104">**Bu değişikliğin etkiliksi 24 saate kadar sürebilir.**</span><span class="sxs-lookup"><span data-stu-id="e753c-104">**It may take up to 24 hours for this change to take effect.**</span></span>
 
-1.  <span data-ttu-id="26e50-105">[Takımlar yönetim merkezine](https://admin.teams.microsoft.com) gidin</span><span class="sxs-lookup"><span data-stu-id="26e50-105">Go to the [Teams admin center](https://admin.teams.microsoft.com)</span></span>
-2.  <span data-ttu-id="26e50-106">Sol **gezintide toplantı**   >   **toplantısı ayarları**'na gidin.</span><span class="sxs-lookup"><span data-stu-id="26e50-106">In the left navigation, go to  **Meetings**  >  **Meeting settings**.</span></span>
-3.  <span data-ttu-id="26e50-107">**Katılımcılar** **'ın altında anonim kullanıcılar toplantıya katılabilir**.</span><span class="sxs-lookup"><span data-stu-id="26e50-107">Under  **Participants**, turn on  **Anonymous users can join a meeting**.</span></span>
+1.  <span data-ttu-id="e753c-105">Teams yönetim [merkezine gitme](https://admin.teams.microsoft.com)</span><span class="sxs-lookup"><span data-stu-id="e753c-105">Go to the [Teams admin center](https://admin.teams.microsoft.com)</span></span>
+2.  <span data-ttu-id="e753c-106">Sol gezinti bölmesinde Toplantılar Toplantısı    >   **ayarları'ne gidin.**</span><span class="sxs-lookup"><span data-stu-id="e753c-106">In the left navigation, go to  **Meetings**  >  **Meeting settings**.</span></span>
+3.  <span data-ttu-id="e753c-107">Katılımcılar **altında,** Anonim kullanıcılar **toplantıya katılabilir'i açabilirsiniz.**</span><span class="sxs-lookup"><span data-stu-id="e753c-107">Under  **Participants**, turn on  **Anonymous users can join a meeting**.</span></span>

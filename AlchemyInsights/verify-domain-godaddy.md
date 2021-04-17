@@ -2,7 +2,7 @@
 title: GoDaddy ile etki alanınızı doğrulama
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 35ba58e3a28d57d490aee8eb91a8e77f20b14da4
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 248890e78f432015dbaa6eae712f42c96481afaa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816201"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824347"
 ---
-# <a name="verify-your-domain-with-godaddy"></a><span data-ttu-id="3fc41-102">GoDaddy ile etki alanınızı doğrulama</span><span class="sxs-lookup"><span data-stu-id="3fc41-102">Verify your domain with GoDaddy</span></span>
+# <a name="verify-your-domain-with-godaddy"></a><span data-ttu-id="3c9db-102">GoDaddy ile etki alanınızı doğrulama</span><span class="sxs-lookup"><span data-stu-id="3c9db-102">Verify your domain with GoDaddy</span></span>
 
-<span data-ttu-id="3fc41-103">Etki alanınızı doğrulamak için, etki alanı kayıt şirketinize bir TXT kaydı ekleyerek etki alanınızın sahip olduğunuzu doğrulayın.</span><span class="sxs-lookup"><span data-stu-id="3fc41-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="3c9db-103">Etki alanınızı doğrulamak için, etki alanının sahibi olduğunu doğrulamak için etki alanı kayıt şirketine bir TXT kaydı eklemeniz gerekir.</span><span class="sxs-lookup"><span data-stu-id="3c9db-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="3fc41-104">Öncelikle, [etki alanı ekleme Sihirbazı 'nı](https://admin.microsoft.com/Adminportal#/Domains) izleyerek **Ayarlar** \> **etki alanlarını**seçin ve sonra da **etki alanı ekleyin**.</span><span class="sxs-lookup"><span data-stu-id="3fc41-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="3c9db-104">İlk olarak, Ayarlar Etki [Alanları 'nı ve ardından](https://admin.microsoft.com/Adminportal#/Domains) Etki alanı **ekle'yi** \> seçerek Etki Alanı Ekle **sihirbazını izleyin.**</span><span class="sxs-lookup"><span data-stu-id="3c9db-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="3fc41-105">Adım adım yönergeler için [365 GoDaddy adresınde DNS kayıtları oluşturma](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) konusuna bakın.</span><span class="sxs-lookup"><span data-stu-id="3fc41-105">See [Create DNS records at GoDaddy for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) for step-by-step instructions.</span></span>
+<span data-ttu-id="3c9db-105">Adım [adım yönergeler için bkz. Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) için GoDaddy'de DNS kayıtları oluşturma.</span><span class="sxs-lookup"><span data-stu-id="3c9db-105">See [Create DNS records at GoDaddy for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) for step-by-step instructions.</span></span>
