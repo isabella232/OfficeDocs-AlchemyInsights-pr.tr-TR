@@ -1,8 +1,8 @@
 ---
-title: Fatura ve ödeme
+title: Faturalama ve ödeme
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,50 +12,50 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686050"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820414"
 ---
-# <a name="billing-and-payment"></a>Fatura ve ödeme
+# <a name="billing-and-payment"></a>Faturalama ve ödeme
 
-**Faturanızı faturalandırma**  >  [faturaları & ödemeler](https://go.microsoft.com/fwlink/p/?linkid=848039) sekmesinde bulabilirsiniz.  Varsayılan olarak, faturaların son 3 ayı gösterilir.  Eski faturaları görüntülemek için filtreyi ayarlayın.  Faturayı görüntülemek için **Fatura PDF 'Yi indir** bağlantısını tıklatın.
+Faturalarınızı Faturalar ve **ödemeler**  >  [& bulabilirsiniz.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Varsayılan olarak son 3 aylık faturalar gösterilir.  Eski faturaları görüntülemek için filtreyi ayarlayın.  Faturayı **görüntülemek için Fatura PDF'lerini** indir bağlantısına tıklayın.
 
-**Faturaları e-postayla alma**
+**Faturaları e-posta ile alma**
 
-**Faturalandırma**  >  [faturalandırma bildirimleri](https://go.microsoft.com/fwlink/p/?linkid=853212) sayfasında, bu özelliği açıp faturayı e-posta **on** eki olarak alacak kullanıcıları yönetebilirsiniz. Fatura, bildirim alıcıları listesindeki kullanıcıların e-posta adreslerine gönderilir. Liste tüm faturalama ve genel yöneticileri içerir.  Rolü değiştirerek, fatura bildirimlerini kimlerin görebileceğini yönetebilirsiniz.  Genel veya Fatura Yöneticisi rolünü kaldırmak, bu kullanıcıyı alıcı listesinden kaldırır ve genel veya Fatura Yöneticisi rolünü eklemek kullanıcıyı alıcı listesine ekler.
+Fatura **Faturalandırma** bildirimleri sayfasında, bu özelliği açmak ve faturayı e-posta eki olarak alacak  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) kullanıcıları yönetebilirsiniz.  Fatura, Bildirim alıcıları listesinde yer alan kullanıcıların e-posta adreslerine gönderilir. Listede tüm faturalama yöneticileri ve genel yöneticiler yer almaktadır.  Rolü değiştirerek fatura bildirimlerini kimlerin alan olduğunu yönetebilirsiniz.  Genel yönetici veya faturalama yöneticisi rolünün kaldırılması, o kullanıcının alıcı listesinden kaldırılmasını ve genel yöneticinin veya faturalama yöneticisinin rolünün de kaldırılması, onu alıcı listesine ekler.
 
-**Not**: iki ayrı e-posta alacaksınız: bir tane, faturanızın hazır olduğunu ve bir ek olarak faturalama bildirimini içeren ikinci bir e-postanın hazır olduğunu size bildirin.
+**Not:** İki ayrı e-posta alırsınız: bunlardan biri faturanızı hazır olduğunu size haber eder. Bu e-postayı görüntülemek için Yönetim merkezinde oturum açma yönergelerini ve fatura bildirimini içeren ikinci bir e-postayı da ek olarak alabilirsiniz.
 
-**Öde**
+**Ödeme**
 
-Kredi kartı veya banka hesabıyla ödeme yapıyorsanız, aboneliklerle ilişkili ödeme yöntemi, fatura oluşturulduktan birkaç gün sonra ücretlendirilecek. Ödeme başarısız olursa ödeme yönteminizi güncelleştirin veya değiştirin.
+Kredi kartı veya banka hesabıyla ödeme yapılacaksa, abonelikleriniz ile ilişkili ödeme yöntemi, fatura oluşturulduktan sonra birkaç gün içinde ücret tahsil edilecektir. Ödeme başarısız olursa ödeme yönteminizi güncelleştirin veya değiştirin.
 
-Yeni bir kart eklediyseniz ve eski kredi kartına hala reddetme uyarısı alıyorsanız, bu yeni kartı abonelikle ilişkilendirmeniz gerekebilir.
+Yeni kart eklediysanız ve hala eski kredi kartında reddetme bildirimi alıyorsanız, bu yeni kartı abonelikle ilişkilendirmeniz gerekiyor olabilir.
 
-1. Yönetim merkezinde **faturalandırma**  >  **faturaları & ödemeler**  >  [ödeme yöntemleri](https://go.microsoft.com/fwlink/p/?linkid=2018806) sayfasına gidin.
+1. Yönetim merkezinde Faturalar ve **ödemeler**  >  **&**  >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=2018806) gidin.
 
-2. Değiştirilecek ödeme yönteminin satırını seçin. Sağ bölmede tüm faturalama profilleri ve seçili ödeme yöntemini kullanan bireysel abonelikler listelenir.
+2. Değiştir tarihine kadar ödeme yönteminin satır seçin. Sağ bölmede, seçilen ödeme yöntemini kullanan tüm fatura profilleri ve tek tek abonelikler liste gösterilir.
 
-3. Sağ bölmede, **tüm öğeler için ödeme yöntemini değiştir**'i seçin.
+3. Sağ bölmede, Tüm öğeler **için ödeme yöntemini değiştir'i seçin.**
 
-4. Mevcut bir ödeme yöntemi kullanmak için, açılan listeden bir tane seçin ve **Değiştir**'i seçin.
+4. Mevcut bir ödeme yöntemini kullanmak için açılan listeden bir ödeme yöntemi seçin ve sonra da Değiştir öğesini **seçin.**
 
     > [!NOTE]
-    > Bir faturalandırma profiliyle ilişkili aboneliğiniz varsa, yalnızca bu bir kredi veya banka kartı kullanarak bunları ödeyebilirsiniz. **Ödeme yöntemleri** sayfasında listelenen Banka hesaplarınız varsa, bu kişiler açılan listede seçmemektedir.
+    > Bir fatura profiliyle ilişkilendirilmiş abonelikleriniz varsa, ödeme yapmak için yalnızca kredi kartı veya banka kartı kullanabilirsiniz. Ödeme yöntemleri sayfasında listelenen banka **hesaplarınız** varsa, bu hesaplar açılan listede kullanılamaz.
 
-5. Yeni bir ödeme yöntemi eklemek için **ödeme yöntemi ekle**'yi seçin.
+5. Yeni bir ödeme yöntemi eklemek için Ödeme yöntemi **ekle'yi seçin.**
 
-6. **Ödeme yöntemi ekle** bölmesinde hesap bilgilerini girip **Kaydet**'i seçin. Kiracınız ile aynı ülkedeki bir ödeme yöntemi kullanmanız gerekir.
+6. Ödeme yöntemi **ekle bölmesinde hesap** bilgilerini girin, ardından Kaydet'i **seçin.** Kiracınız ile aynı ülkede yer alan bir ödeme yöntemi kullan gerekir.
 
-7. Açılan listede yeni ödeme yöntemi zaten seçilidir. **Değiştir**'i seçin.
+7. Yeni ödeme yöntemi açılan listede zaten seçilidir. **Değiştir'i seçin.**
 
-Daha fazla bilgi edinmek için [ödeme yöntemlerini yönetme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)konusuna bakın.
+Daha fazla bilgi için [bkz. Ödeme yöntemlerini yönetme.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-**Faturalandırma sıklığı**
+**Ödeme sıklığı**
 
-Senetler, kullanıma alma sırasında seçilen faturalandırma frekansına bağlı olarak aylık veya yıllık olarak oluşturulur.  
+Faturalar, ödemede seçilen faturalandırma sıklığına bağlı olarak aylık veya yıllık olarak oluşturulur.  
 
-**Not**: lisans ekleme veya çıkarma gibi değişiklikler yapılırsa, yıllık faturalamayla siparişler bir kambiyo senedi alabilir. [Faturalandırma frekansını değiştirin](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Not:** Lisans ekleme veya kaldırma gibi değişiklikler yapılmışsa, yıllık faturalandırmayı olan siparişler, faturayı orta dönemde almalarını sağlar. [Faturalandırma sıklığınızı değiştirme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

@@ -1,8 +1,8 @@
 ---
-title: Faturalandırma
+title: Fatura dönemi kredi kartı
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: ce3cd7b592966399b5e79a8916e631cafcbb49fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d7b8246b32ea86ef7261cf01639a226e8662f39c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686014"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820378"
 ---
-# <a name="payment-methods-for-microsoft-for-business"></a>İş için ödeme yöntemleri
+# <a name="payment-methods-for-microsoft-for-business"></a>Microsoft İş için ödeme yöntemleri
 
-Microsoft 'tan bir Microsoft 365 İş aboneliği satın aldığınızda, bir kredi veya banka kartıyla ödeme yapabilirsiniz. Bazı ülkelerde veya bölgelerde banka hesabıyla ödeme yapabilirsiniz.
+Doğrudan Microsoft'tan bir iş için Microsoft 365 aboneliği satın alırken, kredi kartıyla veya banka kartıyla ödeme alabilirsiniz. Bazı ülkelerde veya bölgelerde, banka hesabıyla da ödemeebilirsiniz.
   
-Ödeme yönteminiz olarak bir kredi kartı kullanmayı seçerseniz, [ödeme yöntemlerini yönetme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)ve sorun giderme yöntemlerini öğrenebilirsiniz.
+Ödeme yönteminiz olarak kredi kartını kullanmayı seçerseniz, Ödeme yöntemlerini yönetme menüsünden nasıl yöneteceklerini ve sorun [gidereceklerini öğrenebilirsiniz.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
   
-Bu makalede, kredi kartınızın reddettiğiniz ve kartın kabul edilmesi için kredi kartı bilgilerini değiştirme hakkında bilgi içeren sorun giderme önerileri de yer alır.
+Bu makalede kredi kartınız reddedilenlere yönelik sorun giderme önerileri ve kredi kartının kabul edilsin üzere kredi kartı bilgilerini değiştirme hakkında bilgiler de yer alınmektedir.

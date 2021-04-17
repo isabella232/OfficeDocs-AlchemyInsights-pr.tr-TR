@@ -1,8 +1,8 @@
 ---
-title: Halen ödensin mi?
+title: Zaten ödediniz mi?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: 1e3915f2120b5ba017741dbb9bac42528db9cee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9192eaeeb35a1adc00658f9248bc3bb5d26ae022
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718029"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821539"
 ---
-# <a name="already-paid"></a>Halen ödensin mi?
+# <a name="already-paid"></a>Zaten ödediniz mi?
 
-Ödemeyi gönderdikten sonra bize şunları bildirin:
+Ödemeyi zaten gönderdiysiniz, bize şu şekilde haber velilisiniz:
   
-1. Yönetim merkezinde **faturalandırma** \> [abonelikleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
+1. Yönetim merkezinde Fatura Abonelikleri **sayfasına** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
 
-2. Bir abonelik seçin ve **faturanızda** bölümünde, **faturayı görüntüle**'yi seçin.
+2. Bir abonelik seçin ve Faturam **bölümünde Faturayı** Görüntüle'yi **seçin.**
 
-3. **Fatura Ayrıntıları** sayfasında, **ödenmemiş mı?** Gönderilen ödemeyle ilgili bilgileri girmeniz istenir.
+3. Fatura ayrıntıları **sayfasında Zaten** ödemiş **misiniz? 'ı seçin.** Gönderilen ödemeyle ilgili bilgileri girmeniz istenmektedir.
 
-4. Gerekli tüm bilgiler girildiğinde **Gönder**'i seçin.
+4. Tüm gerekli bilgiler girilirken Gönder'i **seçin.**

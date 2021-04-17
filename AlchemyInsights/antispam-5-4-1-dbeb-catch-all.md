@@ -1,8 +1,8 @@
 ---
-title: AntiSpam 5.4.1 VSEÇŞB yakala-tümü
+title: AntiSpam 5.4.1 DBEB catch-all
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: f9d613457ae33dc7e00f20391bbdff029500a123
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c6ce26a133428dc7351912d8250ef096dfc7521a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717381"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821467"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Hata kodu 550 5.4.1 geçiş erişimi reddedildi için teslim sorunlarını düzeltme
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Hata kodu 550 5.4.1 Geçiş Erişimi Reddedildi hata kodu için teslim sorunlarını düzeltme
 
-Bu sorun, Microsoft ağını girerken geri [sıçramasını önleyen bir e-posta adresinin geçerli olup olmadığını denetlemek için](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) görülür. Aşağıdakileri deneyin:
+Microsoft ağına girerken [geri dönüşleri önlemek için bir e-posta](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) adresinin geçerli olup olmadığını kontrol etmek bu soruna neden olur. Şunları deneyin:
 
-1. Sorunun tüm etki alanına mı yoksa tek bir e-posta adresine mi özgü olduğunu belirleme:
-    - Tüm etki alanı: bazen etki alanının eşitlenmesi gereklidir; [etki alanını iç öğesine ayarlamayı ve ardından yetkilendirmeli 'a geri dönün](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
-    - Tek e-posta adresi: bazen adresin eşitlenmesi gereklidir; SMTP proxy adresini değiştirip geri değiştirmek yardım edebilir.
-2. Sorunun bir gruba veya ortak klasöre özgü olup olmadığını belirleme. Bazı nesne türlerinde, nesnelerin Azure Active Directory 'de el ile oluşturulması gerekebilir.
+1. Sorunun bir etki alanının tamamına mı yoksa tek bir e-posta adresine mi özgü olduğunu belirleme:
+    - Tüm etki alanı: Bazen etki alanının eşitlenmesi gerekir; etki [alanını İç olarak ayarlamayı deneyin ve sonra Yetkili ayarına geri dönebilirsiniz.](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains)
+    - Tek e-posta adresi: Bazen adresin eşitlenmesi gerekir; smtp ara sunucu adresini değiştirmek ve sonra yeniden değiştirmek yardımcı olabilir.
+2. Sorunun bir gruba mı yoksa ortak klasöre mi özel olduğunu belirler. Bazı nesne türlerinde, nesnelerin Azure Active Directory'de el ile oluşturulmuş olması gerekebilir.
 
-Ek yardıma ihtiyacınız varsa, lütfen bir destek bileti açın ve sorunun kapsamını (göndermekte olduğunuz nesnenin türü de dahil olmak üzere) belirtin, böylece daha iyi yardımcı olabiliriz.
+Daha fazla yardım gerekirse, lütfen bir destek bileti açın ve size daha iyi yardımcı olmak için sorunun kapsamını (gönderirken hangi tür nesne dahil) belirtin.

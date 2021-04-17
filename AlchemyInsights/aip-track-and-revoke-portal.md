@@ -1,8 +1,8 @@
 ---
-title: 'AıP: portalı Izleme ve iptal etme'
+title: 'AIP: Portalı izleme ve iptal etme'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: af2deff6b1ac8531fca9020277265f1d9d958775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663173"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821611"
 ---
-# <a name="aip-track-and-revoke-portal"></a>AıP: portalı Izleme ve iptal etme
+# <a name="aip-track-and-revoke-portal"></a>AIP: Portalı izleme ve iptal etme
 
-Azure Information Protection 'ı kullanırken belgeleri izlemek ve iptal etmek için Azure portalında **belge izleme sitesini** kullanın. Office uygulamaları (Word, Excel ve PowerPoint) ve dosya Gezgini belgeleri izlemek ve iptal etmek için de kullanılabilir.
+Azure Information Protection **kullanırken belgeleri** izlemek ve iptal etmek için Azure Portal'daki belge izleme sitesini kullanın. Belgeleri izlemek ve iptal etmek için Office uygulamaları (Word, Excel ve PowerPoint) ve Dosya Gezgini de kullanılabilir.
 
-1. Belge izleme sitesinde **erişimi Iptal et**'e tıklayın. Belgeyi iptal etmek yetkili kullanıcılardan erişimi kaldırır; Belge silinmez.
+1. Belge izleme sitesinde, Erişimi iptal etme **'ye tıklayın.** Belgenin iptali yetkili kullanıcılardan erişimi kaldırır; belge silinmez.
 2. Office uygulamasında:
-    - İzlemek veya iptal etmek istediğiniz korumalı belgeyi açın.
-    - **Giriş** sekmesinin **koruma** grubunda, **> izle ve iptal et**'e tıklayın.
+    - İz izlemek veya iptal etmek istediğiniz korumalı belgeyi açın.
+    - Giriş **sekmesinin** Koruma **grubunda,** İzle ve İptal Et **>'e tıklayın.**
 
-- Belgeyi izleme ve iptal etme [hakkında daha fazla](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)bilgi için bkz.
+- Belgeyi izleme ve iptal etme hakkında ek bilgi için bkz. İzleme [ve İptal Etme.](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
 
-Belge izleme sitesini yönetmek için PowerShell kullanma hakkında bilgi için, aşağıdakilere bakın:
-- [Kullanıcı Kılavuzu: Azure bilgi koruması 'nı kullanırken belgelerinizi Izleme ve iptal etme](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
-- [Yönetim Kılavuzu: Azure bilgi koruması için belge izlemeyi yapılandırma ve kullanma](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
-- [Hak yönetimi kullanım lisansı](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
-- [Azure bilgi koruması abonelikleri ve özelliklerini gözden geçirme](https://azure.microsoft.com/pricing/details/information-protection)
-- [Azure bilgi koruması gereksinimleri](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Azure bilgi koruması için Hızlı Başlangıç Öğreticisi](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+Belge izleme sitesini yönetmek için PowerShell kullanma hakkında bilgi için, günlük bilgileri için aşağıdakilere bakın:
+- [Kullanıcı Kılavuzu: Azure Information Protection'i kullanarak belgelerinizi izleme ve iptal etme](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
+- [Yönetici Kılavuzu: Azure Information Protection için belge izlemeyi yapılandırma ve kullanma](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
+- [Hak Yönetimi kullanım lisansı](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
+- [Azure Information Protection aboneliklerini ve özelliklerini gözden geçirme](https://azure.microsoft.com/pricing/details/information-protection)
+- [Azure Information Protection gereksinimleri](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Azure Information Protection hızlı başlangıç öğreticisi](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
