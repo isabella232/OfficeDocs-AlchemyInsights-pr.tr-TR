@@ -1,8 +1,8 @@
 ---
-title: Microsoft ekipleri izinleri
+title: Microsoft Teams izinleri
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: e4acfcfdb65bbe5310f062f4f6cd21889159ec4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6ce1a6344c70f43f76164612bc55b95a61e97d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777732"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833779"
 ---
-# <a name="microsoft-teams-permissions"></a>Microsoft ekipleri izinleri
+# <a name="microsoft-teams-permissions"></a>Microsoft Teams izinleri
 
-Microsoft ekipleri iki kullanıcı rolü içerir: Owner ve member. Varsayılan olarak, yeni ekip oluşturan kullanıcıya sahip statüsü verilir. Ayrıca, sahipler ve Üyeler kanal için moderatör yeteneklerine sahip olabilir (denetleme ayarlanmışsa). Bir ekip mevcut bir Microsoft 365 grubundan oluşturulduysa, izinler devralınır. Daha fazla bilgi için bkz.:
+Microsoft Teams'de iki kullanıcı rolü vardır: sahip ve üye. Varsayılan olarak, yeni ekip oluşturan kullanıcıya sahip statüsü verilir. Ayrıca, sahipler ve üyeler kanal için moderatör yeteneklerine sahip olabilir (yönetim ayarlanmışsa). Mevcut bir Microsoft 365 Grubundan ekip oluşturulursa, izinler devralın. Daha fazla bilgi için bkz.:
 
-- [Microsoft ekiplerde ekip sahipleri ve üyeleri atama](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [Microsoft ekipleri uygulamaları izinleri ve değerlendirmeleri](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [Ekiplerde kanalların Konuk izinlerini ayarlama](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Microsoft Teams'de ekip sahiplerini ve üyeleri atama](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [Microsoft Teams uygulama izinleri ve dikkate alınacak noktalar](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [Teams'te kanallar için konuk izinlerini ayarlama](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

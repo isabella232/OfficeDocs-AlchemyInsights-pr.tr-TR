@@ -1,8 +1,8 @@
 ---
-title: Sorun giderme senaryoları-kutucuk hataları
+title: Yenileme senaryolarında sorun giderme - Döşeme Hataları
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: b7e0516dc48709e033efbbc57c198f98bdce7c99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5e71338da7bc9bdc1bc72c37479e5207fe32abf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690695"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834931"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Sorun giderme senaryoları-kutucuk hataları
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Yenileme senaryolarında sorun giderme - Döşeme Hataları
 
-Power BI hizmetinde kutucuk yenileme hatalarıyla karşılaşırsanız, yenilemenin Pano kutucuklarına yansıtılmasını için 10-15 dakika kadar bekleyin. Yine de görünmüyorsa, görselleştirmeyi panoya yeniden sabitleyin.
+Power BI hizmetinin içinde kutucuk yenileme hatalarıyla deneyiminiz varsa, yenilemenin pano kutucuklarına yansıt olması için lütfen 10-15 dakika kadar bekleyin. Hala göster görünmüyorsa, görseli panoya yeniden sabitleyin.
 
 Daha fazla bilgi için: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

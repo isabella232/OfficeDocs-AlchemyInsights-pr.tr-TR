@@ -1,29 +1,30 @@
 ---
-title: Birisi kuruluş hatanız için Takımlar'ı zaten ayarladı
+title: Zaten birisi kuruluşunuz için Teams kurdu hatası
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002343"
 - "5063"
-ms.openlocfilehash: 0aa2d68e737faba8b8558a1581e25bdb14e5a9ff
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
-ms.translationtype: MT
+ms.openlocfilehash: a22b8d7a64645b57eb813fb2cfc7c45cc90f556a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "44283068"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835327"
 ---
-# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>"Birisi kuruluşunuz için Takımlar zaten ayarladı" hatası
+# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>“Zaten birisi kuruluşunuz için Teams kurdu” hatası
 
-Takımlar'da "Birisi kuruluşunuz için Takımlar ayarladı" hatasını görüyorsanız, bunun nedeni şu olabilir:
+Teams’de “Zaten birisi kuruluşunuz için Teams kurdu” hatasını görüyorsanız, bu durum şundan kaynaklanıyor olabilir:
 
-1. Birisi senin için takımlar kurmuş. Davet için e-postanızı kontrol edin veya etki alanı kimlik bilgilerinizin yer aldığı özel/gizli bir web tarayıcısında Takımlar'da oturum açmayı [https://teams.microsoft.com](https://teams.microsoft.com) deneyin.
+1. Zaten birisi kuruluşunuz için Teams kurdu. E-postanızda davet olup olmadığını kontrol edin veya etki alanı kimlik bilgilerinizle özel/gizli bir web tarayıcı üzerinde Teams’de oturum açmayı deneyin[https://teams.microsoft.com](https://teams.microsoft.com).
 
-2. Hem iş hem de kişisel hesaba bağlı olan e-posta adresinize kaydolmaya çalışıyorsunuz. Örneğin, Contoso.com hem Microsoft Hizmet Hesabınız (Live ID) hem de iş hesabınız (Active Directory) için kullanılır. Bu durumda, yeni bir özel/gizli tarayıcı penceresinde Takımlar oluşturmaya çalışın ve kişisel oturum açma yerine oturum açmanın "İş veya Okul" sürümünü seçin. Bu işe yaramazsa, ücretsiz bir Takımlar hesabı oluşturmak için bunların bağlantısını açmanız gerekir. Bunu yapabilmeniz için lütfen sayfada "Oturum kurmak için farklı bir adres veya telefon numarası kullanmak istiyorum" adımları izleyin, [Microsoft hesabınızın e-posta adresini veya telefon numarasını değiştirin.](https://support.microsoft.com/help/12407)
+2. Hem iş hem de özel hesabınıza bağlanmış bir e-posta adresiyle oturum açmaya çalışıyorsunuz. Örneğin, Contoso.com hem Microsoft Hizmet Hesabınız (Live ID) hem de iş hesabınız (Active Directory) için kullanılıyor. Bu durum geçerliyse, yeni bir özel/gizli tarayıcı penceresinde Teams oluşturmayı deneyin ve oturum açma sürümünüzde kişisel yerine “İş veya Okul”u seçin. Böyle yapmak işe yaramazsa bağımsız bir Teams hesabı oluşturmak için bunların bağlantısını kaldırmanız gerekir. Bunun için lütfen sayfa üzerinde "Oturum açmak için farklı bir adres veya telefon numarası kullanmak istiyorum" altındaki [Microsoft hesabınız için e-posta adresi veya telefon numarasını değiştirme](https://support.microsoft.com/help/12407) adımlarını takip edin.
 
-3. Geçerli iş adresinizi ücretsiz bir kiracıya kaydetmeye çalışıyorsunuz. Bu durumda, bunun burada başarısız olması beklenir ve kuruluşunuzun kiracısını bu adresle kullanmanız gerekir. [Burada](https://products.office.com/microsoft-teams/group-chat-software)herhangi bir kişisel kullanım için kişisel e-posta adresi ile ücretsiz bir Takımlar hesabı oluşturabilirsiniz.
+3. Geçerli iş adresinizi bağımsız bir kiracıya kaydetmeye çalışıyorsunuz.  Bu durum geçerliyse burada başarısız olması beklenir ve bu adresle kuruluşunuzun kiracısını kullanmanız gerekir. Kişisel kullanım için kişisel e-posta adresinizle [buradan](https://products.office.com/microsoft-teams/group-chat-software) bağımsız bir Teams hesabı oluşturabilirsiniz.

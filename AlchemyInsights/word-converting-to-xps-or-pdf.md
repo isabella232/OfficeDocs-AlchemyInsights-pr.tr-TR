@@ -1,8 +1,8 @@
 ---
-title: Word-XPS veya PDF 'ye dönüştürme
+title: Word - XPS veya PDF'ye Dönüştürme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 252194c9c193f2e19b0727435b7ff8e294fa6545
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fe4b99b480de199e531cec22015a5fe00453d82
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794859"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834211"
 ---
-# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Word belgesini XPS veya PDF 'ye dönüştürme sorunlarını çözme
+# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Word belgesini XPS veya PDF'ye dönüştürme sorunlarını çözme
 
-İşte sık karşılaşılan sorunlar için bazı çözümler. 
+Sık karşılaşılan sorunlar için bazı çözümler burada vemektedir. 
 
-**Word belgesini PDF veya XPS olarak dışarı aktarmak veya kaydetmek için:**
+**Word belgesini PDF veya XPS olarak dışarı aktarma veya kaydetme:**
 
-1. Word belgenizde **Dosya**  >  **dışarı aktar**'ı seçin PDF/XPS oluştur  >  **belge**  >  **PDF/XPS oluştur**.
+1. Word belgesinde, Dosya Dışarı Aktarma  >    >  **PDF/XPS Belgesi PDF/XPS**  >  **Oluştur Oluştur'a tıklayın.**
 
-2. **PDF veya XPS olarak Yayımla** penceresinde dosyanızın bulunduğu konuma gidin, dilerseniz dosya adını değiştirin ve **Yayımla**'yı seçin.
+2. PDF **veya XPS Olarak** Yayımla penceresinde dosyanız için konuma göz atabilir, ekleyebilirsiniz dosya adını değiştirebilir ve sonra da Yayımla'yı **seçebilirsiniz.**
 
-**Word tarafından oluşturulan PDF dosyasındaki resim kalitesini artırmak için:**
+**Word tarafından oluşturulan bir PDF dosyasında resim kalitesini artırmak için:**
 
-1. Word belgenizde **Dosya**  >  **dışarı aktar**'ı seçin PDF/XPS oluştur  >  **belge**  >  **PDF/XPS oluştur**.
+1. Word belgesinde, Dosya Dışarı Aktarma  >    >  **PDF/XPS Belgesi PDF/XPS**  >  **Oluştur Oluştur'a tıklayın.**
 
-2. **PDF veya XPS olarak Yayımla** penceresinde **Options**  >  **görüntü kalitesi için**seçenekler 'i seçin. İstediğiniz diğer seçenekleri ayarlayın ve **Tamam**'ı seçin. 
+2. PDF veya **XPS Olarak Yayımla penceresinde** Resim kalitesi için **Seçenekler En** İyi Duruma  >  **Getirme'yi seçin.** Istediğiniz diğer seçenekleri belirleyin ve Tamam'ı **seçin.** 
 
 **Word tarafından oluşturulan bir PDF dosyasına erişilebilirlik etiketleri eklemek için:**
  
-1. Word belgenizde **Dosya**  >  **dışarı aktar**'ı seçin PDF/XPS oluştur  >  **belge**  >  **PDF/XPS oluştur**.
+1. Word belgesinde, Dosya Dışarı Aktarma  >    >  **PDF/XPS Belgesi PDF/XPS**  >  **Oluştur Oluştur'a tıklayın.**
 
-2. **PDF veya XPS olarak Yayımla** penceresinde, **Options**  >  **Erişilebilirlik için seçenekler belge yapısı etiketleri**'ni seçin. İstediğiniz diğer seçenekleri ayarlayın ve **Tamam**'ı seçin.
+2. PDF veya **XPS Olarak Yayımla penceresinde** Erişilebilirlik için **Seçenekler Belge**  >  **yapısı etiketleri'ni seçin.** Istediğiniz diğer seçenekleri belirleyin ve Tamam'ı **seçin.**
 
-Office dosyalarını XPS veya [PDF 'ye dönüştürme](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110)seçenekleri hakkında daha fazla bilgi için bkz.
+Office dosyalarını XPS veya PDF'ye dönüştürme seçenekleri hakkında daha fazla bilgi için bkz. PDF veya [XPS'i kaydetme veya PDF'ye dönüştürme.](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110)

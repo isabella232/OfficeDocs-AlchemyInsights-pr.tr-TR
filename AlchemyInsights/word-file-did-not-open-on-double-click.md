@@ -1,8 +1,8 @@
 ---
-title: Word dosyası çift tıklama
+title: Çift tıklatmada Word dosyası açmdı
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 15ace133c344020e0056eff32d77911a9c23d376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794823"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834139"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Yanlış uygulamada açılmış veya açılmamış Word belgesi
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word belgesi yanlış uygulamada açıldı veya açılmadı
 
-Aşağıdaki önerilerden birini deneyin:
+Şu önerilerden birini deneyin:
 
-**Varsayılan olarak Word 'Ü seçme**
+**Word'i varsayılan olarak seçme**
 
-- Belgeyi sağ tıklatın, **birlikte Aç**'ı ve sonra **Word 'ü** seçin
+- Belgeye sağ tıklayın, Birlikte **aç'ı ve** sonra **Word'u seçin**
 
-**Hızlı onarım 'ı çalıştırmak**
+**Hızlı Onarım'a gerek yok**
 
-1. **Denetim masası > programlar ve özellikler >**.
+1. Programlar ve **Özellikler'> Denetim masasına > gidin.**
 
-2. Onarmak istediğiniz Office ürününü seçin ve sonra da **Değiştir**'i seçin.
+2. Onarmak istediğiniz Office ürününü ve sonra Değiştir'i **seçin.**
 
-3. **Hızlı onarım** seçeneğini belirleyip **Onar**'ı seçin.
+3. Hızlı Onarım **seçeneğini belirleyin** ve sonra Onar'ı **seçin.**
 
 **Kullanmadığınız Office sürümlerini kaldırma**
 
-1. **Denetim masası > bir programı kaldırın**ve kaldırmak istediğiniz Office sürümünü seçin.
+1. Denetim **Masası'> Program Kaldır'a** gidin ve kaldırmak istediğiniz Office sürümünü seçin.
 
-2. **Kaldır**'ı tıklatın.
+2. **Kaldır'a tıklayın.**
 
 3. Bilgisayarınızı yeniden başlatın.
 
-**Office dosya uzantıları 'nı Office 'te açılacak şekilde ayarlamak için bu sorun gidericiyi çalıştırın**
+**Office dosya uzantılarını Office'te açılacak şekilde ayarlamak için bu sorun gidericiyi çalıştırın**
 
-1. Bu sorun gidericiyi çalıştırın: https://aka.ms/diag_officefile .
+1. Şu sorun gidericiyi çalıştırın: https://aka.ms/diag_officefile .
 
-2. Tarayıcınıza bağlı olarak, sorun gidericiyi masaüstünüzde **açın** veya **kaydedin** ve **çalıştırın** .
+2. Tarayıcınıza bağlı olarak Sorun **gidericiyi** **masaüstünüze** açın veya kaydedin ve ardından **Çalıştır'ı** seçin.

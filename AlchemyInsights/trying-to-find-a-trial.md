@@ -1,8 +1,8 @@
 ---
-title: Deneme mi bulmaya çalışıyor?
+title: Deneme bulmaya mı çalışıyorsunuz?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 37670ede6c60292282c16a8da3a888c10e96bc76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658394"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834715"
 ---
-# <a name="trying-to-find-a-trial"></a>Deneme mi bulmaya çalışıyor?
+# <a name="trying-to-find-a-trial"></a>Deneme bulmaya mı çalışıyorsunuz?
 
-Yeni bir hizmet denemek istiyorsanız, Microsoft 365 Yönetim merkezinde deneme için kullanılabilen Aboneliklerin listesini bulabilirsiniz.
+Yeni bir hizmet denemek için Microsoft 365 yönetim merkezinde deneme olarak kullanılabilen aboneliklerin listesini bulabilirsiniz.
   
-1. Yönetim merkezinde **faturalandırma** \> [satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfasına gidin.
+1. Yönetim merkezinde Faturalama Satın Alma **hizmetleri** \> [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=868433) gidin.
 
-2. Gereksinimlerinizi karşılayan aboneliği seçin ve  **ücretsiz deneme alın**'ı seçin.
+2. İhtiyaçlarınızı karşılayacak aboneliği seçin ve ardından Ücretsiz deneme edin **'i seçin.**
 
     > [!NOTE]
-    > Tüm abonelikler deneme olarak bulunmaz. Aboneliğin üstündeyken **ücretsiz deneme** düğmesini görmezseniz, bu, deneme anlamına gelir.
+    > Aboneliklerin tüm abonelikleri deneme olarak kullanılamaz. Aboneliğin üzerine fareyle **imleci bıraktığınızda** Ücretsiz denemeyi al düğmesini görmüyorsanız, deneme sağlanmaz.
   
-3. Güvenlik önlemi olarak ek doğrulama sağlamak için bir kredi kartı veya başka bir ödeme yöntemi girmeniz istenebilir. Bu ücretsiz deneme için ücret ödemezsiniz. Ödeme bilgilerinizi dosyada tutacağız ve onayınız olmadan hiçbir satın alma için kullanmayacaktır.
+3. Güvenlik önlemi olarak, ek doğrulama sağlamak için kredi kartı veya başka bir ödeme yöntemi girmeniz istenebilir. Bu ücretsiz deneme için ücret ödemezsiniz. Ödeme bilgilerinizi bir dosyada tutarız ve sizin onayınız olmadan hiçbir alışveriş için kullanmayız.
 
-4. **Şimdi deneyin**'i seçin.
+4. Şimdi **deneyin'i seçin.**

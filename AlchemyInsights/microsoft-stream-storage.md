@@ -1,8 +1,8 @@
 ---
-title: Microsoft Akış deposu
+title: Microsoft Stream Depolama Alanı
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: 448052dba14e42d21ec965c9b38d85a498ac4b82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ee4c331cf706574df5a52ed66c72b775e2eed1d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675318"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833959"
 ---
-# <a name="microsoft-stream-storage"></a>Microsoft Akış deposu
+# <a name="microsoft-stream-storage"></a>Microsoft Stream Depolama Alanı
 
-Microsoft Stream kiracıları, 500 GB depolama alanı ve Lisanslı Kullanıcı başına ek 0,5 GB depolama alanı alır.
-Depolama hakkında daha fazla bilgi için bkz:
+Microsoft Stream kiracıları 500 GB depolama alanı ve lisanslı kullanıcı başına 0,5 GB ek depolama alanı sabit bir ayırma alır.
+Depolama hakkında daha fazla ayrıntı için bkz:
 
-- [Microsoft Akış depolamaya genel bakış](https://docs.microsoft.com/stream/license-overview#storage)
-- [Microsoft Stream 'e depolama alanı ekleme](https://docs.microsoft.com/stream/storage-add-on)
-- [Microsoft Stream 'de kotalar ve sınırlamalar](https://docs.microsoft.com/stream/quotas-and-limitations)
+- [Microsoft Stream Depolaması'ne Genel Bakış](https://docs.microsoft.com/stream/license-overview#storage)
+- [Microsoft Stream'e depolama alanı ekleme](https://docs.microsoft.com/stream/storage-add-on)
+- [Microsoft Stream'de kotalar ve sınırlamalar](https://docs.microsoft.com/stream/quotas-and-limitations)

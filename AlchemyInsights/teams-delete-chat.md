@@ -1,8 +1,8 @@
 ---
-title: 'Ekipler: sohbeti silme'
+title: 'Teams: Sohbeti silme'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000743"
 - "2680"
-ms.openlocfilehash: d22877d1777df432a1c9b5420c4fce73d291c994
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9ff0fcc734361d733deb37ca0db55689b2ac85c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736857"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835111"
 ---
-# <a name="delete-a-chat-in-microsoft-teams"></a>Microsoft ekiplerinde sohbet silme
+# <a name="delete-a-chat-in-microsoft-teams"></a>Microsoft Teams'de sohbeti silme
 
-Tek tek kullanıcıların mesajları nasıl düzenleyebileceğini veya silebileceğini öğrenmek için [ekiplerde gönderilmiş Iletileri düzenleyin veya silin](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263). 
+Tek tek kullanıcıların iletileri nasıl düzenleyemez veya silebilirleri hakkında daha fazla bilgi edinmek için, Teams'de gönderilmiş [bir iletiyi düzenleme veya silme işlemlerini görüntüleme.](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263) 
 
-Silme seçenekleri aşağıdakileri içerir:
+Silme seçenekleri şunlardır:
 
-- Kullanıcılar ekiplerin herhangi bir yerine kendi iletilerini silebilir.
-- Ekip sahipleri, kullanıcıların kiralamalarını düzenleyebilir veya silebilir ya da genel kanallarda nakledilen tüm iletileri silemez.
-- Kullanıcılar özel sohbet iş parçacıklarını gizleyebilir veya kapatabilir (sohbet simgesine tıkladığınızda görünen iş parçacıkları).
+- Kullanıcılar Teams'te herhangi bir yerde kendi iletilerini silebilir.
+- Ekip sahipleri, kullanıcıların kiracılarında düzenleme veya silme ya da genel kanallarda gönderilen tüm iletiyi silebilir.
+- Kullanıcılar özel sohbet dizilerini (Sohbet simgesine tıklarsanız görünen iş parçacığı) gizleyebiliyor veya sesini kapatabilirsiniz.
 
-**Not:** Özel sohbet iş parçacıklarını silme özelliği hala gözden geçirilmektedir ve [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33535006-delete-private-chat-threads)'da izlenebilir. 
+**Not:** Özel sohbet dizilerini silme özelliği hala incelemededir ve [UserVoice'ta iz kullanılabilir.](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33535006-delete-private-chat-threads) 

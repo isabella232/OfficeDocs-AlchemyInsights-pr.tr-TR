@@ -1,8 +1,8 @@
 ---
-title: Bir dış monitör ayarlama
+title: Tek bir dış monitör ayarlama
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773939"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835543"
 ---
-# <a name="set-up-one-monitor"></a>Bir monitör ayarlama
+# <a name="set-up-one-monitor"></a>Tek monitör ayarlama
 
-**BILGISAYARıNıZıN proje ayarlarını denetleme**
+**Bilgisayarınızın proje ayarlarını denetleme**
 
-1. Aşağıdaki tuşlara aynı anda basarak proje ayarlarınızı açın: Windows tuşu (Windows logo başlangıç düğmesi) + P.
-2. Tercihlerinize bağlı olarak yalnızca **Çoğalt**, **Genişlet**veya **ikinci ekran**'i seçin.
+1. Aynı anda aşağıdaki tuşlara basarak proje ayarlarınızı açın: Windows tuşu (Windows logo Başlangıç düğmesi) + P.
+2. Tercihlerinize bağlı **olarak Çoğalt**, Genişlet **veya Yalnızca** ikinci ekran'ı seçin. 
 
-**Not:** Bilgisayarınızda yalnızca bir ekran bağlantı noktası varsa (HDMı veya VGA gibi), birden çok monitör ayarlamak için bir takma istasyonu veya USB bağdaştırıcısı gerekir.
+**Not:** Bilgisayarınızın tek bir ekran bağlantı noktası varsa (HDMI veya VGA gibi), birden çok monitör ayarlamak için bir takma birimine veya USB bağdaştırıcısına ihtiyacınız vardır.
 
-Ayrıca, birden çok monitör ayarlayabiliyorsanız, bilgisayarınız birden çok monitörle uyumlu olmayabilir. Daha fazla bilgi için bilgisayarınızın özgün belgelerini denetleyin.
+Ayrıca, bir monitör kurabilirsiniz ancak birden çok monitör ayarlayamayabilirsiniz, bilgisayarınız birden çok monitörle uyumlu değildir. Daha fazla bilgi için bilgisayarınızın özgün belgelerini kontrol edin.
