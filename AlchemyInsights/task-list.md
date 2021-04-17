@@ -1,8 +1,8 @@
 ---
-title: Görev listesi
+title: Görev Listesi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5780"
 - "9002971"
-ms.openlocfilehash: 93721f193c20c1a8bec3c7344aefcac192c987cf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b691b9a5136c0307a739064a2b36407e349a720b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659114"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829504"
 ---
-# <a name="task-list"></a><span data-ttu-id="710db-102">Görev listesi</span><span class="sxs-lookup"><span data-stu-id="710db-102">Task List</span></span>
+# <a name="task-list"></a><span data-ttu-id="de862-102">Görev Listesi</span><span class="sxs-lookup"><span data-stu-id="de862-102">Task List</span></span>
 
-<span data-ttu-id="710db-103">SharePoint görev listesi, projenin parçası olan görevler koleksiyonunu görüntüler.</span><span class="sxs-lookup"><span data-stu-id="710db-103">A SharePoint task list displays a collection of tasks that are part of a project.</span></span> <span data-ttu-id="710db-104">SharePoint görev listesini oluşturduktan sonra, görevleri ekleyebilir, görevlere kaynak atayabilir, görevlerin ilerleme durumunu güncelleştirebilir ve görev bilgilerini zaman çizelgesinde görüntülenen çubuklarla görüntüleyebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="710db-104">After you create a SharePoint task list, you can add tasks, assign resources to tasks, update the progress on tasks, and view the task information on bars that are displayed along a timeline.</span></span> <span data-ttu-id="710db-105">[Görev listesi oluşturma ve yönetme](https://support.microsoft.com/office/466ad207-46fd-4c77-9af1-41bc23cec21a)konusuna bakın.</span><span class="sxs-lookup"><span data-stu-id="710db-105">See [Create and manage a task list](https://support.microsoft.com/office/466ad207-46fd-4c77-9af1-41bc23cec21a).</span></span>  
+<span data-ttu-id="de862-103">SharePoint görev listesinde, projenin parçası olan görev koleksiyonu görüntülenir.</span><span class="sxs-lookup"><span data-stu-id="de862-103">A SharePoint task list displays a collection of tasks that are part of a project.</span></span> <span data-ttu-id="de862-104">SharePoint görev listesini oluşturduklardan sonra, görevler ekleyebilir, görevlere kaynak atayabilirsiniz, görevlerde ilerleme durumu güncelleştirebilir ve zaman çizelgesi boyunca görüntülenen çubuklarda görev bilgilerini görüntüebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="de862-104">After you create a SharePoint task list, you can add tasks, assign resources to tasks, update the progress on tasks, and view the task information on bars that are displayed along a timeline.</span></span> <span data-ttu-id="de862-105">Bkz. [Görev listesi oluşturma ve yönetme.](https://support.microsoft.com/office/466ad207-46fd-4c77-9af1-41bc23cec21a)</span><span class="sxs-lookup"><span data-stu-id="de862-105">See [Create and manage a task list](https://support.microsoft.com/office/466ad207-46fd-4c77-9af1-41bc23cec21a).</span></span>  
 
--   <span data-ttu-id="710db-106">Görev listesi henüz modern Kullanıcı arabiriminde gösterilecek şekilde oluşturulmadı, bu nedenle lütfen görev listeleri için klasik [deneyimi kullanmaya devam](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)edin</span><span class="sxs-lookup"><span data-stu-id="710db-106">Task list is not yet built to show up in modern user interface, so please continue to use classic experience for task lists, see [Maximize use of modern lists and libraries](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).</span></span>
--   <span data-ttu-id="710db-107">SharePoint ile Eşitle özelliği, proje yöneticisinin Microsoft SharePoint kullanıcılarıyla. mpp proje dosyasını paylaşmasına olanak tanır.</span><span class="sxs-lookup"><span data-stu-id="710db-107">The Sync with SharePoint feature lets a Project Manager share an .mpp project file with Microsoft SharePoint users.</span></span> <span data-ttu-id="710db-108">Yeni veya var olan sitenin bulunduğu üst site koleksiyonundaki SharePoint sahipler grubunun (veya en az tasarımcı izinlerine sahip) bir parçası olmalıdır.</span><span class="sxs-lookup"><span data-stu-id="710db-108">The Project Manager must be part of the SharePoint Owners group (or at the least have designer permissions) on the parent site collection where the new or existing site resides.</span></span> <span data-ttu-id="710db-109">[Project Professional 'Dan SharePoint görevleri listesiyle eşitleme](https://docs.microsoft.com/office/troubleshoot/project/sync-with-tasks-from-project)konusuna bakın.</span><span class="sxs-lookup"><span data-stu-id="710db-109">See [Sync with SharePoint tasks list from Project Professional](https://docs.microsoft.com/office/troubleshoot/project/sync-with-tasks-from-project).</span></span>
+-   <span data-ttu-id="de862-106">Görev listesi henüz modern kullanıcı arabiriminde göstermek üzere yerleşik değildir, bu nedenle lütfen görev listeleri için klasik deneyimi kullanmaya devam edin. Bkz. Modern listelerin ve kitaplıkların en üst düzeyde kullanımını en üst [düzeye çıkarma](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).</span><span class="sxs-lookup"><span data-stu-id="de862-106">Task list is not yet built to show up in modern user interface, so please continue to use classic experience for task lists, see [Maximize use of modern lists and libraries](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).</span></span>
+-   <span data-ttu-id="de862-107">SharePoint ile Eşitleme özelliği, Project Manager'ın bir .mpp proje dosyasını Microsoft SharePoint kullanıcılarının paylaşmalarını sağlar.</span><span class="sxs-lookup"><span data-stu-id="de862-107">The Sync with SharePoint feature lets a Project Manager share an .mpp project file with Microsoft SharePoint users.</span></span> <span data-ttu-id="de862-108">Proje Yöneticisi, yeni veya var olan sitenin bulunduğu üst site koleksiyonunda SharePoint Sahipleri grubunun bir parçası (veya en azından tasarımcı izinlerine sahip) olmalıdır.</span><span class="sxs-lookup"><span data-stu-id="de862-108">The Project Manager must be part of the SharePoint Owners group (or at the least have designer permissions) on the parent site collection where the new or existing site resides.</span></span> <span data-ttu-id="de862-109">Bkz. [Project Professional'dan SharePoint görev listesiyle eşitleme.](https://docs.microsoft.com/office/troubleshoot/project/sync-with-tasks-from-project)</span><span class="sxs-lookup"><span data-stu-id="de862-109">See [Sync with SharePoint tasks list from Project Professional](https://docs.microsoft.com/office/troubleshoot/project/sync-with-tasks-from-project).</span></span>

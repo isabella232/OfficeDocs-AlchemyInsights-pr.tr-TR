@@ -1,8 +1,8 @@
 ---
-title: Ekipte QoS uygulama ve arama kalitesini izleme
+title: Teams'de QoS'i uygulama ve çağrı kalitesini izleme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 5dd11506607227dae144565dac387c671b2ca6b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667970"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829252"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a><span data-ttu-id="82715-102">Ekipte QoS uygulama ve arama kalitesini izleme</span><span class="sxs-lookup"><span data-stu-id="82715-102">Implement QoS and monitor call quality in Teams</span></span>
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a><span data-ttu-id="2cdaf-102">Teams'de QoS'i uygulama ve çağrı kalitesini izleme</span><span class="sxs-lookup"><span data-stu-id="2cdaf-102">Implement QoS and monitor call quality in Teams</span></span>
 
-<span data-ttu-id="82715-103">Çağrı analitiği ve çağrı kalitesi panosu, Microsoft ekiplerde arama kalitesi sorunlarını gidermenize yardımcı olmak için kullanılabilir.</span><span class="sxs-lookup"><span data-stu-id="82715-103">Call Analytics and the Call Quality Dashboard can be used to help troubleshoot call quality issues in Microsoft Teams.</span></span> <span data-ttu-id="82715-104">Hizmet kalitesi (QoS), çağrı Analizi ve çağrı kalitesi panosu (CQD) hakkında daha fazla bilgi edinmek için [bkz.](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)</span><span class="sxs-lookup"><span data-stu-id="82715-104">To learn more about Quality of Service (QoS), Call Analytics, and the Call Quality Dashboard (CQD), see [Implement QoS and Monitor Call Quality in Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos).</span></span> 
+<span data-ttu-id="2cdaf-103">Arama Analizi ve Arama Kalitesi Panosu, Microsoft Teams'te arama kalitesi sorunlarını gidermeye yardımcı olmak için kullanılabilir.</span><span class="sxs-lookup"><span data-stu-id="2cdaf-103">Call Analytics and the Call Quality Dashboard can be used to help troubleshoot call quality issues in Microsoft Teams.</span></span> <span data-ttu-id="2cdaf-104">Hizmet Kalitesi (QoS), Çağrı Kalitesi Panosu (CQD) hakkında daha fazla bilgi edinmek için bkz. [Microsoft Teams'te QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)Uygulama ve Arama Kalitesini İzleme.</span><span class="sxs-lookup"><span data-stu-id="2cdaf-104">To learn more about Quality of Service (QoS), Call Analytics, and the Call Quality Dashboard (CQD), see [Implement QoS and Monitor Call Quality in Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos).</span></span> 

@@ -2,7 +2,7 @@
 title: Excel çalışma kitabını paylaşma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 7691ef33408b8aa4acc7f641699f7696785e8fe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38422d44e584c68db1913198228b0091869a87b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739305"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828460"
 ---
-# <a name="collaborate-on-excel-documents"></a><span data-ttu-id="bf227-102">Excel belgelerinde işbirliği yapma</span><span class="sxs-lookup"><span data-stu-id="bf227-102">Collaborate on Excel documents</span></span>
+# <a name="collaborate-on-excel-documents"></a><span data-ttu-id="58c92-102">Excel belgeleri üzerinde işbirliği yapma</span><span class="sxs-lookup"><span data-stu-id="58c92-102">Collaborate on Excel documents</span></span>
 
-<span data-ttu-id="bf227-103">Excel belgelerindeki iş arkadaşlarınızla işbirliği yapmak için **birlikte yazma özelliğini**kullanın.</span><span class="sxs-lookup"><span data-stu-id="bf227-103">To collaborate with colleagues on Excel documents, use the **co-authoring feature**.</span></span> 
+<span data-ttu-id="58c92-103">İş arkadaşlarınızla Excel belgeleri üzerinde işbirliği yapmak **için birlikte yazma özelliğini kullanın.**</span><span class="sxs-lookup"><span data-stu-id="58c92-103">To collaborate with colleagues on Excel documents, use the **co-authoring feature**.</span></span> 
 
-<span data-ttu-id="bf227-104">Paylaşma ve birlikte yazma senaryoları hakkında sık sorulan soruların yanıtlarını, ayrıca [birlikte yazma ile birlikte Excel çalışma kitaplarında birlikte çalışmak](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)için, bu özelliği etkinleştirme ve kullanma hakkında bilgi edinin.</span><span class="sxs-lookup"><span data-stu-id="bf227-104">Learn about enabling and using this feature, in addition to seeing answers to frequently asked questions about sharing and co-authoring scenarios, at [Collaborate on Excel workbooks at the same time with co-authoring](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span></span>
+<span data-ttu-id="58c92-104">Bu özelliği etkinleştirme ve kullanma hakkında bilgi edinmek ve bunun yanı sıra, paylaşma ve birlikte yazma senaryoları hakkında sık sorulan soruların yanıtlarını, Birlikte yazma özelliğiyle [Excel](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)çalışma kitaplarında aynı anda birlikte çalışma makalesinde görme.</span><span class="sxs-lookup"><span data-stu-id="58c92-104">Learn about enabling and using this feature, in addition to seeing answers to frequently asked questions about sharing and co-authoring scenarios, at [Collaborate on Excel workbooks at the same time with co-authoring](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span></span>

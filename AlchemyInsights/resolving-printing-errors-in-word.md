@@ -1,8 +1,8 @@
 ---
-title: Word 'de yazdırma hatalarını çözme
+title: Word'de yazdırma hatalarını çözme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: de1f6e6f78c0100b994db3fdb759054cdb7f8bf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8adda2a4a2c9a41d67747a68eb9eeafb1bf2ae34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720882"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828712"
 ---
-# <a name="resolving-print-failures-in-word"></a><span data-ttu-id="13da0-102">Word 'de yazdırma hatalarını çözme</span><span class="sxs-lookup"><span data-stu-id="13da0-102">Resolving print failures in Word</span></span>
+# <a name="resolving-print-failures-in-word"></a><span data-ttu-id="36804-102">Word'de yazdırma hatalarını çözme</span><span class="sxs-lookup"><span data-stu-id="36804-102">Resolving print failures in Word</span></span>
 
-<span data-ttu-id="13da0-103">Word 'de yazdırırken hatalar alıyorsanız, sorunun belirli bir belgeyle ilgili olup olmadığını belirlemek için yeni bir test belgesinden yazdırmayı deneyin.</span><span class="sxs-lookup"><span data-stu-id="13da0-103">If you are receiving errors when printing in Word, try printing from a new test document to determine if your problem is related to a specific document.</span></span>
+<span data-ttu-id="36804-103">Word'de yazdırırken hata alıyorsanız, sorun belgenin belirli bir belgeyle ilgili olup olmadığını belirlemek için yeni bir test belgeden yazdırmayı deneyin.</span><span class="sxs-lookup"><span data-stu-id="36804-103">If you are receiving errors when printing in Word, try printing from a new test document to determine if your problem is related to a specific document.</span></span>
 
-- <span data-ttu-id="13da0-104">Test belgesinden yazdırabiliyorsanız ancak yine de orijinal belgenizi yazdıramıyorsanız, özgün belgeniz hasar görmüş olabilir.</span><span class="sxs-lookup"><span data-stu-id="13da0-104">If you can print from the test document but still can't print your original document, your original document may be damaged.</span></span> <span data-ttu-id="13da0-105">[Word 'de bozuk belgelerde sorun giderme](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows)yönergelerini izleyin.</span><span class="sxs-lookup"><span data-stu-id="13da0-105">Follow the instructions in [How to troubleshoot damaged documents in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span></span>
-- <span data-ttu-id="13da0-106">Yine de yazdıramıyorsanız, sorunu tanılamak ve çözmek için [Word 'de yazdırma hatalarını giderme](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) yönergelerini izleyin.</span><span class="sxs-lookup"><span data-stu-id="13da0-106">If you still can't print, follow the instructions in [Troubleshoot print failures in Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) to diagnose and fix the issue.</span></span>
+- <span data-ttu-id="36804-104">Test belgeden yazdırabilirsiniz ancak yine de özgün belgenizi yazdırasanız, özgün belgeniz zarar görebilir.</span><span class="sxs-lookup"><span data-stu-id="36804-104">If you can print from the test document but still can't print your original document, your original document may be damaged.</span></span> <span data-ttu-id="36804-105">Word'de zarar [görmüş belgelerin sorunlarını giderme konusunda verilen yönergeleri izleyin.](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows)</span><span class="sxs-lookup"><span data-stu-id="36804-105">Follow the instructions in [How to troubleshoot damaged documents in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span></span>
+- <span data-ttu-id="36804-106">Yine de yazdıramazsanız, sorunu tanılamak ve düzeltmek için [Word'de](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) yazdırma hatalarında sorun giderme konusunda verilen yönergeleri izleyin.</span><span class="sxs-lookup"><span data-stu-id="36804-106">If you still can't print, follow the instructions in [Troubleshoot print failures in Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) to diagnose and fix the issue.</span></span>
