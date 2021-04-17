@@ -1,8 +1,8 @@
 ---
-title: Kontör/iade
+title: Kredi/para iadesi
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,25 +13,25 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 27f1b43c7e00114d51bb3f1c5769936b72635a21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e40dcf238ce4bc05c55c78e29c54fc260523bc2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746599"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815887"
 ---
-# <a name="creditrefund"></a><span data-ttu-id="1308e-102">Kontör/iade</span><span class="sxs-lookup"><span data-stu-id="1308e-102">Credit/refund</span></span>
+# <a name="creditrefund"></a><span data-ttu-id="080ef-102">Kredi/para iadesi</span><span class="sxs-lookup"><span data-stu-id="080ef-102">Credit/refund</span></span>
 
-<span data-ttu-id="1308e-103">**İptal**</span><span class="sxs-lookup"><span data-stu-id="1308e-103">**Cancellation**</span></span>
+<span data-ttu-id="080ef-103">**İptal etme**</span><span class="sxs-lookup"><span data-stu-id="080ef-103">**Cancellation**</span></span>
   
-<span data-ttu-id="1308e-104">Aboneliği iptal ettiğinizde, bir sonraki faturalama tarihinde ödenmesi gereken bir kontör içeren son fatura alırsınız.</span><span class="sxs-lookup"><span data-stu-id="1308e-104">When cancelling a subscription, you will receive a final invoice with a credit due on the next billing date.</span></span> <span data-ttu-id="1308e-105">Bu, aboneliğin iptal edildiği tarihten itibaren, 30 gün kadar sürebilir.</span><span class="sxs-lookup"><span data-stu-id="1308e-105">This can take up to 30 days to receive from the date the subscription was cancelled.</span></span>
+<span data-ttu-id="080ef-104">Aboneliği iptal ederken sonraki fatura tarihine kadar ödemesi gerekerek son faturayı alırsınız.</span><span class="sxs-lookup"><span data-stu-id="080ef-104">When cancelling a subscription, you will receive a final invoice with a credit due on the next billing date.</span></span> <span data-ttu-id="080ef-105">Bu işlemi, aboneliğin iptal edildiği tarihten itibaren 30 gün kadar zaman alabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="080ef-105">This can take up to 30 days to receive from the date the subscription was cancelled.</span></span>
   
-<span data-ttu-id="1308e-106">**Oturma değişikliği**</span><span class="sxs-lookup"><span data-stu-id="1308e-106">**Seat Change**</span></span>
+<span data-ttu-id="080ef-106">**Seat Change**</span><span class="sxs-lookup"><span data-stu-id="080ef-106">**Seat Change**</span></span>
   
-<span data-ttu-id="1308e-107">Abonelikler abonelikten çıkarıldığında, bu lisanlarda kullanılmayan saat bir sonraki faturada kontör olarak uygulanacaktır.</span><span class="sxs-lookup"><span data-stu-id="1308e-107">When licenses are removed from a subscription, the unused time on these licenses will be applied as a credit on the next bill.</span></span> <span data-ttu-id="1308e-108">Bu, lisansların kaldırıldığı tarihten 30 gün kadar sürebilir.</span><span class="sxs-lookup"><span data-stu-id="1308e-108">This can take up to 30 days to receive from the date the licenses are removed.</span></span>
+<span data-ttu-id="080ef-107">Abonelikten lisans kaldırıldığı zaman, bu lisanslarda kullanılmayan süre sonraki faturada kredi olarak uygulanır.</span><span class="sxs-lookup"><span data-stu-id="080ef-107">When licenses are removed from a subscription, the unused time on these licenses will be applied as a credit on the next bill.</span></span> <span data-ttu-id="080ef-108">Bu tarihin lisansların kaldırıldığı tarihten itibaren 30 gün kadar zaman al.</span><span class="sxs-lookup"><span data-stu-id="080ef-108">This can take up to 30 days to receive from the date the licenses are removed.</span></span>
 
-<span data-ttu-id="1308e-109">**Cihazınızdan**</span><span class="sxs-lookup"><span data-stu-id="1308e-109">**Refund**</span></span>
+<span data-ttu-id="080ef-109">**Para iadesi**</span><span class="sxs-lookup"><span data-stu-id="080ef-109">**Refund**</span></span>
 
-<span data-ttu-id="1308e-110">**Eşit dağıtılmış krediler bir sonraki fatura döngüsünde size iade edilir.**</span><span class="sxs-lookup"><span data-stu-id="1308e-110">**Any prorated credit will be returned to you within the next billing cycle.**</span></span>
+<span data-ttu-id="080ef-110">**Eşit dağıtılmış krediler bir sonraki fatura döngüsünde size iade edilir.**</span><span class="sxs-lookup"><span data-stu-id="080ef-110">**Any prorated credit will be returned to you within the next billing cycle.**</span></span>
 
-<span data-ttu-id="1308e-111">Daha fazla bilgi için bkz [.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="1308e-111">For more information, see [cancellation and refund process](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide).</span></span> 
+<span data-ttu-id="080ef-111">Daha fazla bilgi için [bkz. iptal ve para iadesi işlemi.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="080ef-111">For more information, see [cancellation and refund process](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide).</span></span> 

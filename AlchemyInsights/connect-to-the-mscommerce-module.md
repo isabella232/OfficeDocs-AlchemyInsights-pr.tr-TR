@@ -2,7 +2,7 @@
 title: MSCommerce modülüne bağlanma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 41dd044d99d14f25ea15699bfb74f7c37e3928c1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e77c6a329ac99a4cea4f143dcb3c661b6a518e35
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713258"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817048"
 ---
-# <a name="connect-to-the-mscommerce-module"></a><span data-ttu-id="ee985-102">MSCommerce modülüne bağlanma</span><span class="sxs-lookup"><span data-stu-id="ee985-102">Connect to the MSCommerce module</span></span>
+# <a name="connect-to-the-mscommerce-module"></a><span data-ttu-id="eeb5b-102">MSCommerce modülüne bağlanma</span><span class="sxs-lookup"><span data-stu-id="eeb5b-102">Connect to the MSCommerce module</span></span>
 
-<span data-ttu-id="ee985-103">AllowSelfServicePurchase ilkesini görüntüleyebilmeniz veya ayarlamadan önce MSCommerce modülüne bağlanmanız gerekir.</span><span class="sxs-lookup"><span data-stu-id="ee985-103">You must be connected to the MSCommerce module before you can view or set the AllowSelfServicePurchase policy.</span></span>  
+<span data-ttu-id="eeb5b-103">AllowSelfServicePurchase ilkesi görüntülemeden veya ayarlaymadan önce MSCommerce modülüne bağlı olun.</span><span class="sxs-lookup"><span data-stu-id="eeb5b-103">You must be connected to the MSCommerce module before you can view or set the AllowSelfServicePurchase policy.</span></span>  
 
-<span data-ttu-id="ee985-104">MSCommerce modülüne bağlanmak için, PowerShell komut isteminde (PS C: \) aşağıdaki komutu girin:</span><span class="sxs-lookup"><span data-stu-id="ee985-104">To connect to the MSCommerce module, at the PowerShell prompt (PS C:\), enter the following command:</span></span>
+<span data-ttu-id="eeb5b-104">MSCommerce modülüne bağlanmak için PowerShell istemine (PS C: \) ), aşağıdaki komutu girin:</span><span class="sxs-lookup"><span data-stu-id="eeb5b-104">To connect to the MSCommerce module, at the PowerShell prompt (PS C:\), enter the following command:</span></span>
 
 `Connect-MSCommerce`
 
-<span data-ttu-id="ee985-105">Bu, oturum açma iletişim kutusunu açar.</span><span class="sxs-lookup"><span data-stu-id="ee985-105">This will open a sign-in dialog.</span></span> <span data-ttu-id="ee985-106">Oturum açmak için Kullanıcı adınızı ve parolanızı girin.</span><span class="sxs-lookup"><span data-stu-id="ee985-106">Enter your username and password to sign-in.</span></span>
+<span data-ttu-id="eeb5b-105">Bu, oturum açma iletişim kutusunu açar.</span><span class="sxs-lookup"><span data-stu-id="eeb5b-105">This will open a sign-in dialog.</span></span> <span data-ttu-id="eeb5b-106">Oturum açma için kullanıcı adınızı ve parolanızı girin.</span><span class="sxs-lookup"><span data-stu-id="eeb5b-106">Enter your username and password to sign-in.</span></span>
 
-<span data-ttu-id="ee985-107">**Not:** &nbsp; &nbsp; Oturum açmak için kullanılan hesabın şirket veya faturalandırma Yöneticisi olması gerekir.</span><span class="sxs-lookup"><span data-stu-id="ee985-107">**NOTE:**&nbsp;&nbsp;The account used to sign in must be a Company or Billing Administrator.</span></span>
+<span data-ttu-id="eeb5b-107">**NOT:** &nbsp; &nbsp; Oturum a giriş için kullanılan hesap Şirket veya Fatura Yöneticisi olmalı.</span><span class="sxs-lookup"><span data-stu-id="eeb5b-107">**NOTE:**&nbsp;&nbsp;The account used to sign in must be a Company or Billing Administrator.</span></span>
