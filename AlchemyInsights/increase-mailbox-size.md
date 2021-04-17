@@ -1,8 +1,8 @@
 ---
-title: Posta kutusu boyutunu büyütme
+title: Posta kutusu boyutunu artırma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +13,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: fb5662363a385e2fbbae852df77d80b6317698fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756194"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830233"
 ---
-# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Posta kutusu boyutunu büyütmek için abonelikleri değiştirme
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Posta kutusu boyutunu artırmak için abonelikleri değiştirme
 
-Posta kutunuzun boyutu zaten 100 GB olarak
+Posta kutunuz boyutunuz zaten 100 GB ise bu boyutu artırmanın hiçbir yolu yoktur.
   
-Posta kutusu boyutu 50 GB ise, [office 365 Kurumsal E3](https://products.office.com/business/office-365-enterprise-e3-business-software) veya [Office 365 Kurumsal E5](https://products.office.com/business/office-365-enterprise-e5-business-software)'e geçerek 100 Bu Farklı bir aboneliğe geçiş adımları şunlardır:
+Posta kutusunun boyutu 50 GB ise, [Office 365 Kurumsal E3 veya Office 365](https://products.office.com/business/office-365-enterprise-e3-business-software) Kurumsal E5'e geçerek bu boyutu 100 [GB'a artırabilirsiniz.](https://products.office.com/business/office-365-enterprise-e5-business-software) Farklı bir aboneliğe geçiş yapmak için gereken adımlar:
   
-1. Microsoft 365 Yönetim **merkezinde,** \> **[Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
+1. Microsoft 365 yönetim merkezinde Ürünlerinizi  Faturalandırma \> **[sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054)** gidin.
 
-2. Yükseltme yapmak istediğiniz aboneliği seçin.
+2. Yükseltmek istediğiniz aboneliği seçin.
 
-3. Abonelik Ayrıntıları sayfasında **Yükselt**'i seçin.
+3. Abonelik ayrıntıları sayfasında Yükselt'i **seçin.**
 
-4. Yükseltme yapmak istediğiniz planı bulun ve **Yükselt** düğmesini seçin.
+4. Yükseltmek istediğiniz planı bulun ve ardından Yükselt **düğmesini** seçin.
 
-5. İhtiyacınız olan lisans sayısını girin, her ay mı yoksa tüm yıl için mi ödeme yapmak istediğinizi seçin ve ardından **kullanıma al**'ı seçin.
+5. Size gereken lisans sayısını girin, aylık veya yıllık ödemeyi seçin, sonra da **Ödeme'yi seçin.**
 
-Daha fazla [bilgi için bkz.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
+Diğer ayrıntılar için [bkz. Farklı bir plana yükseltme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 
-[Yerinde Arşivi destekleyen bir aboneliğiniz](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)varsa, bir arşiv posta kutusunu etkinleştirerek ek bir e-posta depolama alanı da alabilirsiniz. Arşiv posta kutusu size ek depolama alanı sağlar ve hem birincil hem de arşiv posta kutusundaki iletileri taşıya, kopyalamanızı ve aramanızı sağlar. Arşiv posta kutusunu etkinleştirme adımları için [Arşiv posta kutusunu etkinleştirme](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)konusuna bakın.
+Yerinde arşivi destekleyen [bir Aboneliğiniz varsa,](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)bir arşiv posta kutusunu etkinleştirerek ek e-posta depolama alanı da elde edebilirsiniz. Arşiv posta kutusu size ek depolama alanı sağlar ve hem birincil hem de arşiv posta kutusunda iletileri taşımanızı, kopyalamanızı ve aramanızı sağlar. Arşiv posta kutusunu etkinleştirme adımları için bkz. Arşiv posta [kutusunu etkinleştirme.](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)

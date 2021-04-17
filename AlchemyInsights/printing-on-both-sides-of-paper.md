@@ -1,8 +1,8 @@
 ---
-title: Kağıdın her iki tarafına yazdırma
+title: Kağıdın her iki tarafına da yazdırma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,29 +14,29 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: be8796538e538971b0950d89f88784790829c2e5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4c8acbd3e9bd74763e6dea1721dc87333b4b6d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801897"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831502"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Kağıdın her iki tarafına da yazdırma (çift yönlü yazdırma)
 
-**Yazıcımın çift yönlü yazdırma özelliği var mı?**
+**Yazıcım çift yönlü yazdırma özelliği var mı?**
 
-Yazıcınızın Özellik Özeti veya Kılavuzu, "çift yönlü yazdırma" olarak da bilinen, kağıdın her iki tarafına de yazdırma olanağı olup olmadığını size söylemelisiniz. Microsoft Office kullanıyorsanız, Word veya Excel gibi bir Office uygulamasını açmak, **dosya > yazdırmaya**gitme, doğru yazıcının seçildiğinden emin olma ve Ayarlar bölümündeki özelliği arama Örneğin: 
+Yazıcınızın özellik özeti veya el kitabı, "çift yönlü yazdırma" olarak da bilinen kağıdın her iki tarafına da yazdırma özelliğinin olup olmadığını size söylemeli. Microsoft Office'iniz varsa, bunu bulmanın bir diğer yolu da Word veya Excel gibi bir Office uygulamasını açmak, Dosya **>** Yazdır'a gidip doğru yazıcının seçili olduğundan emin olmak ve Ayarlar bölümünde ilgili özelliği bulmaktır. Örneğin: 
 
 ![Yazıcı ayarları](media/print-settings.png)
 
-**Microsoft Office 'te çift yönlü yazdırma**
+**Microsoft Office'te çift yönlü yazdırma**
 
-Yazıcınız iki yüze de yazdıramıyorsa, Office uygulamasında **dosya > Yazdır** 'a gittiğinizde, yukarıdaki örnekte gösterildiği gibi "Iki yüze de Yazdır" seçeneğini görürsünüz.  İstediğiniz çift yönlü yazdırma türünü seçin (uzun kenarından çevirin veya kısa kenarından çevirin) ve **Yazdır** 'ı tıklatarak çıktıyı başlatın.
+Yazıcınız her iki tarafta da yazdırılabilirse, Office uygulamasında Dosya **>** Yazdır'a giderseniz, yukarıdaki örnekte gösterildiği gibi "İki Kenarda Yazdır" seçeneğini de görebilirsiniz.  İstediğiniz çift yönlü yazdırma türünü seçin (uzun kenarında çevir veya kısa kenarından çevir) ve **yazdır'ı** tıklatın ve çıktıyı başlatmak için Yazdır'ı tıklatın.
 
-**Herhangi bir uygulamadan çift yönlü yazdırma**
+**Herhangi bir uygulamada çift yönlü yazdırma**
 
-Birçok uygulamalarda yazdırırken, aşağıdakine benzer bir genel yazdırma iletişim kutusu görürsünüz: 
+Birçok uygulama yazdırılırken aşağıdakine benzer genel bir yazdırma iletişim kutusu görüntülenir: 
 
 ![Yazdır iletişim kutusu](media/print-dialog.png)
 
-Doğru yazıcının seçili olduğundan emin olun ve ardından **Tercihler** 'e tıklayarak Yazıcı Tercihleri penceresini açın. Yazıcı, çift yönlü yazdırma yeteneğine sahipse, geçerli yazdırma işi için bunu etkinleştirme özelliği bu pencerede gösterilir.
+Doğru yazıcının seçili olduğundan emin olun ve ardından **Tercihler'e** tıklarsanız yazıcı tercihleri penceresini açın. Yazıcı çift yönlü yazdırma özelliğine sahipse, geçerli yazdırma işinin bu özelliği etkinleştirme özelliği bu pencerede gösterilir.

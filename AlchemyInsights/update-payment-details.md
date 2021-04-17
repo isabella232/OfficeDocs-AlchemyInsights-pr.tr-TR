@@ -2,21 +2,22 @@
 title: Kredi kartı bilgilerini güncelleştirin
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720085"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830341"
 ---
 # <a name="update-credit-card-information"></a>Kredi kartı bilgilerini güncelleştirin
 
@@ -40,4 +41,4 @@ ms.locfileid: "43720085"
 
 Sayfa yükleme konusunda sorun yaşıyorsanız, web sayfasını başka bir tarayıcıda açmayı ya da Microsoft Edge'in InPrivate penceresi veya Google Chrome'un gizli penceresi gibi özel bir tarayıcı penceresinde açmayı deneyin. 
 
-Daha fazla bilgi için bkz. [İş için Microsoft 365’te kredi kartı veya banka hesabını ekleme, güncelleştirme ya da kaldırma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ve [Kredi kartı ve banka hesabı sorunlarını giderme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Daha fazla bilgi için bkz. [Ödeme yöntemlerini yönetme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

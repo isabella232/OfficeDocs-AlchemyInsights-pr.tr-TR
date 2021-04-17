@@ -1,8 +1,8 @@
 ---
-title: Not defteri eksik
+title: Not Defteri Eksik
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fafb3377ce7b09a87f9cf5458db56f00e4387d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667178"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831682"
 ---
-# <a name="recover-missing-notebook"></a>Eksik Not defterini kurtar
+# <a name="recover-missing-notebook"></a>Eksik Not Defterini Kurtarma
 
-OneDrive 'daki Not defteri yanlışlıkla silinmişse, [OneDrive 'da silinen dosyaları veya klasörleri geri yükleme](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f) konusundaki adımları izleyerek uygulamayı kurtarabilirsiniz
+OneDrive'daki not defteri yanlışlıkla silinmişse, [OneDrive'da](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f) silinen dosya veya klasörleri geri yükleme'de yer alan adımları kullanarak not defterini kurtarabilirsiniz
 
-Silinmiş bir OneDrive 'ı [geri yükleme](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) konusundaki adımları izleyerek, 30 gün Içinde silinen OneDrive 'da Not defterini kurtarabilirsiniz.
+Silinmiş OneDrive'ı geri yükleme'de adımları takip eden ve varsayılan olarak 30 gün içinde silinmiş bir [OneDrive'daki](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) not defterini kurtarabilirsiniz
 
-OneNote, beklediğinizden farklı bir hesap kullanıyor olabilir. Kişisel Microsoft hesabınızın yanı sıra iş veya okul hesabı hesabınız varsa, tüm not defterlerinizi görüntülemek için diğer hesabınızı eklemeniz gerekir ( [OneNote 'Ta hesap ekleme](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)yönergelerine bakın.
+OneNote beklediğinizden farklı bir hesap kullanıyor olabilir. Kişisel Microsoft hesabınızla birlikte iş veya okul tarafından sağlanan bir hesabınız varsa, tüm not defterlerinizi görüntülemek için diğer hesabı eklemeniz gerekir [(OneNote'ta](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)Hesap Ekleme yönergelerine bakın).

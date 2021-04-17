@@ -1,8 +1,8 @@
 ---
-title: SharePoint Otomatik Özet e-postası
+title: SharePoint Otomatik Özet E-postası
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751191"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831214"
 ---
-# <a name="sharepoint-auto-digest-email"></a>SharePoint Otomatik Özet e-postası
+# <a name="sharepoint-auto-digest-email"></a>SharePoint Otomatik Özet E-postası
 
-SharePoint otomatik Haberler Özeti, şirketinizdeki kullanıcılara, henüz okumadığınız en son haber gönderileri hakkında otomatik e-posta gönderir.
+SharePoint Otomatik Haberler Özeti, henüz okumamış olduğu en son Haberler gönderileri hakkında şirketinize otomatik e-posta gönderir.
 
-Daha fazla bilgi için lütfen ziyaret edin [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+Daha fazla bilgi için lütfen şu ziyaret edin: [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- Microsoft 365 yol haritası KIMLIĞI:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- Zamanlama: kullanıcıları, Temmuz 'da **(** daha önce Temmuz 'dan tüm müşteriler **Ağustos**
-- Dağıtma: Kullanıcı düzeyi dağıtma
-- Denetim türü: Kullanıcı denetimi, * * PowerShell aracılığıyla yönetici denetimi (çok yakında)
+- Microsoft 365 Yol Haritası Kimliği:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Zamanlama: Temmuz ortasında  (daha önce Haziran ortasından ve Ağustos ayının ortasına **kadar olan)** tüm müşteriler için hedeflenen sürüm müşterileri .
+- Roll-out: User level roll-out
+- Denetim Türü: Kullanıcı denetimi, **PowerShell üzerinden yönetici denetimi (çok yakında)
