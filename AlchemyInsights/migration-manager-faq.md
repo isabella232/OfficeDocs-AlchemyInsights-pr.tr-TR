@@ -2,7 +2,7 @@
 title: Geçiş Yöneticisi SSS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5669"
-ms.openlocfilehash: e9e88acdfde517487f509956c99e496a983d3527
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ee4191464e70164795ff4049597b25b794f8d7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674310"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829792"
 ---
 # <a name="migration-manager-faq"></a>Geçiş Yöneticisi SSS
 
-- [Geçiş Yöneticisi hakkında sık sorulan soruları](https://docs.microsoft.com/sharepointmigration/mm-faqs)görün.
+- Geçiş [Yöneticisi ile ilgili Sık Sorulan Sorular'a bakın.](https://docs.microsoft.com/sharepointmigration/mm-faqs)

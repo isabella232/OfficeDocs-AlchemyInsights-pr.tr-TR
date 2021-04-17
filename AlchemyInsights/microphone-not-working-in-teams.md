@@ -1,8 +1,8 @@
 ---
-title: Mikrofon ekiplerde çalışmıyor
+title: Teams'de mikrofon çalışmıyor
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003568"
 - "6654"
-ms.openlocfilehash: 20aea78deaa63091183ca72380903ba6aa6c98cd
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
-ms.translationtype: MT
+ms.openlocfilehash: 32461b94abb4d7caf80096a1d36f414801e52cfc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365021"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830017"
 ---
-# <a name="microphone-isnt-working-in-teams"></a>Mikrofon ekiplerde çalışmıyor
+# <a name="microphone-isnt-working-in-teams"></a>Teams'de mikrofon çalışmıyor
 
-Aşağıdakileri yaparak sorun gidermeye başlayın:
+Sorun gidermeye başlamak için şunları yapın:
 
-- Windows ve ekip güncelleştirmelerinin denetlenmesi.
-- Mikrofonu kullanan diğer tüm uygulamaları kapatın.
-- Mikrofonun düzgün çalışıp çalışmadığını denetlemek için bir test araması yapın.
+- Windows ve Teams güncelleştirmelerini denetleme.
+- Mikrofon kullanan diğer tüm uygulamaları kapatma.
+- Mikrofon düzgün çalış çalışsa da çalışıı kontrol etmek için bir test çağrısı yapma.
 
-Ayrıntılar ve daha fazla sorun giderme adımı için [mikrofonum ekiplerde çalışmıyor](https://support.microsoft.com/office/666d1123-9dd0-4a31-ad2e-a758b204f33a).
+Ayrıntılar ve daha fazla sorun giderme adımı [için bkz. Mikrofonum Teams'de çalışmıyor.](https://support.microsoft.com/office/666d1123-9dd0-4a31-ad2e-a758b204f33a)

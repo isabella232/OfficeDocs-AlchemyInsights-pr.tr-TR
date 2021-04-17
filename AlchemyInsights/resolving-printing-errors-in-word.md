@@ -1,8 +1,8 @@
 ---
-title: Word 'de yazdırma hatalarını çözme
+title: Word'de yazdırma hatalarını çözme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: de1f6e6f78c0100b994db3fdb759054cdb7f8bf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8adda2a4a2c9a41d67747a68eb9eeafb1bf2ae34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720882"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828712"
 ---
-# <a name="resolving-print-failures-in-word"></a>Word 'de yazdırma hatalarını çözme
+# <a name="resolving-print-failures-in-word"></a>Word'de yazdırma hatalarını çözme
 
-Word 'de yazdırırken hatalar alıyorsanız, sorunun belirli bir belgeyle ilgili olup olmadığını belirlemek için yeni bir test belgesinden yazdırmayı deneyin.
+Word'de yazdırırken hata alıyorsanız, sorun belgenin belirli bir belgeyle ilgili olup olmadığını belirlemek için yeni bir test belgeden yazdırmayı deneyin.
 
-- Test belgesinden yazdırabiliyorsanız ancak yine de orijinal belgenizi yazdıramıyorsanız, özgün belgeniz hasar görmüş olabilir. [Word 'de bozuk belgelerde sorun giderme](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows)yönergelerini izleyin.
-- Yine de yazdıramıyorsanız, sorunu tanılamak ve çözmek için [Word 'de yazdırma hatalarını giderme](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) yönergelerini izleyin.
+- Test belgeden yazdırabilirsiniz ancak yine de özgün belgenizi yazdırasanız, özgün belgeniz zarar görebilir. Word'de zarar [görmüş belgelerin sorunlarını giderme konusunda verilen yönergeleri izleyin.](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows)
+- Yine de yazdıramazsanız, sorunu tanılamak ve düzeltmek için [Word'de](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) yazdırma hatalarında sorun giderme konusunda verilen yönergeleri izleyin.
