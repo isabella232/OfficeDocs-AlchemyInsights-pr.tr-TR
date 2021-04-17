@@ -1,8 +1,8 @@
 ---
-title: Masaüstü analitik hesabınızı kapatma
+title: Desktop Analytics hesabını kapatma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a7550e651db1ea0b4e4a7c4f6fc43964b8d9bb09
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725643"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827092"
 ---
-# <a name="working-with-desktop-analytics"></a>Masaüstü analizi ile çalışma
+# <a name="working-with-desktop-analytics"></a>Masaüstü Analizi ile çalışma
 
-Masaüstü analizi hakkında sorabilirsiniz. Sorunuzu yeniden ifade ederseniz daha hassas bir cevap ile yardım alabilirsiniz.
+Desktop Analytics hakkında bilgi istiyor gibi görünüyor. Sorularınızı yeniden ifade edersiniz, daha hassas bir yanıt için size yardımcı olabiliriz.
 
-- [Masaüstü analizi nedir?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [Masaüstü analizlerini ayarlama](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Masaüstü Analizi nedir?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Desktop Analytics'i ayarlama](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
 - [Sık Sorulan Sorular](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [Masaüstü analizinde sorun giderme](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [Masaüstü Analizi sorunlarını giderme](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

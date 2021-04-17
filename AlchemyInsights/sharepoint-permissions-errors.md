@@ -1,8 +1,8 @@
 ---
-title: SharePoint izinleri hataları
+title: SharePoint izin hataları
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: e2685734657cb9e9e8c43cd19ac024b795dcd49b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 051d0d002394b4685b044f2ed15057f5f26b3024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653416"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826615"
 ---
-# <a name="sharepoint-permissions-errors"></a>SharePoint izinleri hataları
+# <a name="sharepoint-permissions-errors"></a>SharePoint izin hataları
 
-Bu iletilerden birini isteyen birçok senaryo vardır. En sık, Kullanıcı veya yönetici izinleri yanlış yapılandırılmış veya hiç yapılandırılmamış. 
+Bu iletilerden birini istenen birçok senaryo vardır. En sık, kullanıcı veya yönetici izinleri yanlış yapılandırıldı veya hiç yapılandırılmadı. 
 
-Daha fazla bilgi için,[SharePoint Online ve OneDrive iş 'te "erişim engellendi," "Bu siteye erişmek için" veya "Kullanıcı dizinde bulunamadı" hatalarını](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)inceleyin.
+Daha fazla bilgi için lütfen SharePoint Online ve OneDrive İş'te " Erişim[Reddedildi", "Bu siteye](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)erişim iznine ihtiyacınız var" veya "Kullanıcı dizinde bulunamadı" hatalarına bakın.

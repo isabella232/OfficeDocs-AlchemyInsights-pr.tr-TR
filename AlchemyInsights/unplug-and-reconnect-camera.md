@@ -1,8 +1,8 @@
 ---
-title: Kamerayı sökme ve yeniden bağlama
+title: Kamerayı çıkarın ve yeniden bağlayın
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 8cd57e5df85717cb7814f7652f3a8cecaed2e031
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 9c733c69b1430c9a5439caf99cf8f6fddff60ef5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365258"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827740"
 ---
-# <a name="unplug-and-reconnect-camera"></a>Kamerayı sökme ve yeniden bağlama
+# <a name="unplug-and-reconnect-camera"></a>Kamerayı çıkarın ve yeniden bağlayın
 
-Üzgünüz, bu işe yaramadı. Kamera dış kameradır, cihazı sökme ve yeniden bağlanma size yardımcı olabilir.
+Üzgünüz, bu işe yaramadı. Kamera bir dış kamera ise, cihazın tekrar bağlanıp yeniden bağlanmasında yardımcı olabilir.
 
-Bu yerleşik bir kameradır, bilgisayarınızı yeniden başlatmak size yardımcı olabilir.
+Bu yerleşik bir kamera ise bilgisayarınızı yeniden başlatmak yardımcı olabilir.

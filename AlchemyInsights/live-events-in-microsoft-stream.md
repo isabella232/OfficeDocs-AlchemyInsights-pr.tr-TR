@@ -1,8 +1,8 @@
 ---
-title: Microsoft Stream 'de canlı etkinlikler
+title: Microsoft Stream'de canlı etkinlikler
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001511"
 - "3571"
-ms.openlocfilehash: ee67c5ccd7c8745785ef8a04bab535cbb6416995
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef42a8156a1c120b23f89969d9debd1c25c49309
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675534"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825571"
 ---
-# <a name="live-events-in-microsoft-stream"></a>Microsoft Stream 'de canlı etkinlikler
+# <a name="live-events-in-microsoft-stream"></a>Microsoft Stream'de canlı etkinlikler
 
-Kuruluş genelinde Microsoft Stream kullanarak canlı etkinlikler oluşturabilirsiniz. Şirket genelinde etkinlikler, liderlik güncellemeleri ve daha fazlası gibi çeşitli senaryolar için canlı etkinlikler zamanlayabilir, üretebilir ve teslim edebilirsiniz.
+Kuruluş genelinde Microsoft Stream'i kullanarak canlı etkinlikler oluşturabilirsiniz. Şirket genelindeki etkinlikler, liderlik güncelleştirmeleri ve daha fazlası gibi çok çeşitli senaryolarda canlı etkinlikler zaman programları, üretme ve teslim edilebilir.
 
-- [Microsoft Stream 'de canlı etkinlik oluşturma](https://docs.microsoft.com/stream/live-create-event)
-- [Microsoft ekipleri Live olaylarýný kullanmaya başlama](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
-- [Microsoft Stream 'de canlı akış için kodlayıcılar yapılandırma](https://docs.microsoft.com/stream/live-encoder-setup)
+- [Microsoft Stream'de canlı etkinlik oluşturma](https://docs.microsoft.com/stream/live-create-event)
+- [Microsoft Teams canlı etkinlikleri ile çalışmaya başlama](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
+- [Microsoft Stream'de canlı akış için kodlayıcıları yapılandırma](https://docs.microsoft.com/stream/live-encoder-setup)

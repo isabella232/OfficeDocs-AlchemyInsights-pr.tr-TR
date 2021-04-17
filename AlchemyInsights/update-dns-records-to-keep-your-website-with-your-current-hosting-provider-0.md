@@ -2,7 +2,7 @@
 title: DNS kayıtlarını güncelleştirerek web sitenizi geçerli barındırma sağlayıcınızla koruma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 1d8654bc2dfb9063d0203992d624285eb646027d
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 89bce2aa5931c0c20706efabd42d2351be43938b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815805"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827560"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>DNS kayıtlarını güncelleştirerek web sitenizi geçerli barındırma sağlayıcınızla koruma
 
-1. Microsoft 365 Yönetim merkezinde **, etki**  >  [alanları](https://admin.microsoft.com/Adminportal#/Domains) sayfasında, etki alanları listesinde, Web siteniz için kullandığınız etki alanını seçin.
+1. Microsoft 365 yönetim merkezinde Kurulum Etki Alanları sayfasına gidin ve etki alanları listesinde web siteniz için kullanmakta olduğunu  >  [](https://admin.microsoft.com/Adminportal#/Domains) etki alanını seçin.
 
 2. **+ Yeni özel kayıt** 'ı seçin ve aşağıdakileri girin:
 

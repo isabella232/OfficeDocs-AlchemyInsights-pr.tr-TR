@@ -2,7 +2,7 @@
 title: Teams Yönetim Merkezi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670384"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826399"
 ---
 # <a name="teams-admin-center"></a>Teams Yönetim Merkezi
 
@@ -32,5 +32,5 @@ Teams Yönetim Merkezi’nde kullanıcılar gösterilmiyorsa aşağıdakileri de
 
 - Son 24 saat içinde kullanıcı oluşturdunuz veya lisans atadınız mı? Destek bileti açmadan önce lütfen en az 24 saat beklediğinizden emin olun.
 - Uygun lisansları atadığınızı doğrulayın.
-- Şirket içi bir Active Directory 'niz varsa, [yerel Active Directory 'Nizde proxyAddresses alanında msRTCSIP-primaryuseradresinin veya SIP adresinin değerinin benzersiz olduğunu ve biçimin](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) , [Microsoft 365 Yönetim Merkezi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)'nde kullanıcının**adı** ile eşleştiğini doğrulayın.
-- Skype Kurumsal sunucu dağıtımını korumak ve kullanıcıların şirket içi ve çevrimiçi şirket içinde olmasını istiyorsanız: Skype Kurumsal sunucusu denetim masasında **"ekiplerle kurumsal ve Skype Kurumsal Çevrimiçi**
+- Şirket içi Active Directory'niz varsa, yerel Active Directory'nizin [ProxyAddresses alanında msRTCSIP-PrimaryUserAddress veya SIP](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) adresinin değerinin benzersiz olduğunu ve sip biçimiyle eş şifresinin olduğunu **doğrulayın:** [Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)yönetim merkezinden kullanıcının kullanıcı adı.
+- Skype Kurumsal Sunucu dağıtımını tutmak ve kullanıcıların şirket içinde ve Çevrimiçi sürümde oturum sahibi olacak şekilde sahip olmak için: Skype Kurumsal Sunucu Denetim Masası'nda "Teams ve Skype Kurumsal Çevrimiçi Sürüm ile karma **kurulum"** yönergelerini izleyin ve kullanıcıları Çevrimiçi olarak hareket ettirin.
