@@ -1,8 +1,8 @@
 ---
-title: Active Directory eşitlenmiyor
+title: Active Directory eşitli değil
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697649"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822871"
 ---
-# <a name="active-directory-not-syncing"></a>Active Directory eşitlenmiyor
+# <a name="active-directory-not-syncing"></a>Active Directory eşitli değil
 
-"Son eşitleme yok" gibi eşitleme hataları alıyorsanız veya Office Admin portalında Dizin eşitleme durumunun "en son 3 gün önce eşitlendi" ifadesinin olduğunu fark ederseniz, "en fazla 3 gün önce eşitlendi  
+"Yakın zamanda eşitleme yok" gibi eşitleme hataları alıyorsanız veya Office yönetici portalında dizin eşitleme durumunun "Son eşitleme 3 gün önce" olduğunu söylüyorsa, AADConnect'in eşitlemeyi gerçekleştirmek için yanlış ayarlara veya yetersiz izinlere sahip olması olabilir.  
 
-Hızlı ayarlar 'ı kullanarak AADConnect 'in yeniden yüklenmesi sorunu hemen çözebilir:
+Hızlı ayarları kullanarak AADConnect'in yeniden yüklenmesi sorunu hızla çözebilir:
 
-1. [AADConnect 'in en son sürümünü indirin](https://go.microsoft.com/fwlink/?LinkId=615771).
+1. [AADConnect'in en son sürümünü indirin.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Hızlı yükleme yönergelerini izleyin](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Hızlı yükleme yönergelerini izleyin.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-AADConnect hizmet hesapları hakkında daha fazla bilgi için [Azure AD Connect: hesaplar ve izinler](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)bölümüne bakın.
+AADConnect hizmet hesapları hakkında daha fazla bilgi için bkz. [Azure AD Connect: Hesaplar ve izinler.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)

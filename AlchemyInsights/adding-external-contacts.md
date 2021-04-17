@@ -2,7 +2,7 @@
 title: Dış kişileri ekleme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: 9156ca73831e6c286fc616f9303309dc05d3232c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb29d04fe8de94af863ae062a76a158ae2f5b4d8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697073"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822151"
 ---
-# <a name="enable-external-communications-and-add-contacts"></a>Dış iletişimleri etkinleştirme ve kişi ekleme
+# <a name="enable-external-communications-and-add-contacts"></a>Dış iletişimi etkinleştirme ve kişi ekleme
 
-Skype Kurumsal 'da, kişi listenize kişi ekleyerek bunları tek bir tıklama Eklediğiniz her kişiye kişi gruplarınızın birinde veya birkaçında üyelik atanır. Daha fazla bilgi için [Skype Kurumsal 'da kişi ekleme bölümüne](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) bakın. 
+Skype Kurumsal'da, yalnızca bir tık uzakta olması için kişileri Kişiler listeniz'e ekleyebilirsiniz. Eklediğiniz her kişiye kişi gruplarınızın birinde veya birkaçında üyelik atanır. Daha [fazla bilgi için Skype Kurumsal'da kişi ekleme'yi](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) gözden geçirme. 
 
-Kiracı yöneticinizin [dış Iletişimlere Izin verme](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)adımlarını izlediğinizden emin olun.
+Kiracı yöneticinizin Dış iletişimlere izin ver adımlarını [izle olduğundan emin olun.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-Yalnızca kullanıcılarınızın Skype tüketici kullanıcılarıyla iletişim kurmasına izin vermek istiyor musunuz? Skype Kurumsal [kullanıcılarına Skype kişileri ekleme](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)konusuna bakın. 
+Kullanıcılarınızı yalnızca Skype tüketici kullanıcılarının iletişim kurmalarını mı sağlamak istiyorsunuz? Bkz. [Skype Kurumsal kullanıcılarının Skype kişileri eklemesine izin verme.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 

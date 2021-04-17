@@ -1,8 +1,8 @@
 ---
-title: Gelişmiş sorgu en iyi yöntemleri
+title: Gelişmiş arama sorgusu en iyi yöntemleri
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: 418408223696a9f9141af46ab57542f7a3927340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8469e712d68a15f51503081c8bb283713173adde
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696677"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821755"
 ---
-# <a name="advanced-hunting-query-best-practices"></a>Gelişmiş sorgu en iyi yöntemleri
+# <a name="advanced-hunting-query-best-practices"></a>Gelişmiş arama sorgusu en iyi yöntemleri
 
-Ayrıntılı öneriler ve yönergeler için lütfen ayrıntılı [sorgu en iyi yöntemlerini](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) görün:
+Aşağıdakilerle ilgili ayrıntılı öneriler ve [kılavuz bilgiler için lütfen Gelişmiş](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) arama sorgusu en iyi yöntemleri makalesine bakın:
 - Sorgu performansını iyileştirme.
-- Sorgu ipuçları ve diğer.
-- Komut satırlarını içeren sorgular.
+- Sorgu ipuçları ve pitfalls.
+- Komut satırlarıyla sorgular.
 
 

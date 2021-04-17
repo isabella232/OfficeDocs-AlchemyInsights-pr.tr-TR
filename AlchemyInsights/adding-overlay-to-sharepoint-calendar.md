@@ -1,8 +1,8 @@
 ---
-title: SharePoint takvimine yer paylaşımı ekleme
+title: SharePoint takvimine Yer Paylaşımı ekleme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 62db9568f228d0a14413c1678b47cfb09a3d25c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f105c2e6035f7ac49c669d1196b688ab20ce34a7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663389"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822079"
 ---
-# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>SharePoint takvimine yer paylaşımı ekleme
+# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>SharePoint takvimine Yer Paylaşımı ekleme
 
-SharePoint takvimleri, bazen Microsoft 365 grup takvimleri ile karıştırıldıkları klasik liste türleridir.
+SharePoint Takvimleri, bazen Microsoft 365 Grup Takvimleriyle karıştırılmış klasik liste türleridir.
  
-Sitenizde bir SharePoint takvimi kullanıyorsanız, kendi Exchange takviminizi kullanarak birleştirilmiş bir takvim görünümü oluşturabilirsiniz. Alternatif olarak, SharePoint takvimleri aynı site koleksiyonunda olduğu sürece başka bir SharePoint takvimini de üst üste getirebilirsiniz.
+Sitenize SharePoint takvimi kullanıyorsanız, kendi Exchange takviminizi üzerine yer paylaşımlı olarak yer paylaşımlı olarak kullanarak birleştirilmiş bir takvim görünümü oluşturabilirsiniz. Alternatif olarak, her iki SharePoint takvimi de aynı site koleksiyonunda olduğu sürece başka bir SharePoint takvimini yer paylaşımlı olarak kullanabilirsiniz.
  
-Klasik bir SharePoint takvimine bir kaplama eklemek için, [SharePoint takvimini Exchange veya SharePoint 'ten bir takvimle birlikte kaplayan](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)adımları izleyin.
+Klasik bir SharePoint takvimine Yer Paylaşımı eklemek için, SharePoint takvimini Exchange veya SharePoint'den gelen takvimle yer paylaşımlı [paylaşma'daki adımları izleyin.](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)
