@@ -1,8 +1,8 @@
 ---
-title: Site için dış Paylaşımı açma veya kapatma
+title: Site için dış paylaşımı açma veya kapatma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 24d170132070008b9c78aca39a0208f028e639b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd1c3dd013d5f1f823555e3cd4aa6e0dcdac1b62
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797172"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834679"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a><span data-ttu-id="864ec-102">Site için dış Paylaşımı açma veya kapatma</span><span class="sxs-lookup"><span data-stu-id="864ec-102">Turn external sharing on or off for a site</span></span>
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a><span data-ttu-id="c2883-102">Site için dış paylaşımı açma veya kapatma</span><span class="sxs-lookup"><span data-stu-id="c2883-102">Turn external sharing on or off for a site</span></span>
 
-<span data-ttu-id="864ec-103">Bir sitenin (daha önce "site koleksiyonu" denen) dış paylaşım ayarını değiştirmek için genel veya SharePoint Yöneticisi olmanız gerekir.</span><span class="sxs-lookup"><span data-stu-id="864ec-103">You must be a global or SharePoint admin to change the external sharing setting for a site (previously called a "site collection").</span></span> <span data-ttu-id="864ec-104">Site sahiplerinin bu ayarı değiştirmesine izin verilmez.</span><span class="sxs-lookup"><span data-stu-id="864ec-104">Site owners are not allowed to change this setting.</span></span> 
+<span data-ttu-id="c2883-103">Bir sitenin (daha önce "site koleksiyonu" olarak adlandırılan) dış paylaşım ayarını değiştirmek için genel yönetici veya SharePoint yöneticisi olmak gerekir.</span><span class="sxs-lookup"><span data-stu-id="c2883-103">You must be a global or SharePoint admin to change the external sharing setting for a site (previously called a "site collection").</span></span> <span data-ttu-id="c2883-104">Site sahiplerinin bu ayarı değiştirmesine izin verilmez.</span><span class="sxs-lookup"><span data-stu-id="c2883-104">Site owners are not allowed to change this setting.</span></span> 
 
-<span data-ttu-id="864ec-105">Daha fazla bilgi için, [site için dış Paylaşımı açma veya kapatma](https://docs.microsoft.com/sharepoint/change-external-sharing-site)konusuna bakın.</span><span class="sxs-lookup"><span data-stu-id="864ec-105">For more information, see [Turn external sharing on or off for a site](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span></span>
+<span data-ttu-id="c2883-105">Daha fazla bilgi için [bkz. Site için dış paylaşımı açma veya kapatma.](https://docs.microsoft.com/sharepoint/change-external-sharing-site)</span><span class="sxs-lookup"><span data-stu-id="c2883-105">For more information, see [Turn external sharing on or off for a site](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span></span>
