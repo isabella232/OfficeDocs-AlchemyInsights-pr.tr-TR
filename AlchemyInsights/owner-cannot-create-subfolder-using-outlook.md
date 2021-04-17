@@ -1,8 +1,8 @@
 ---
-title: Sahip, Outlook kullanarak alt klasör oluşturamaz
+title: Sahip Outlook'u kullanarak alt klasör oluşturamaz
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665738"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836155"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Sahip, Outlook kullanarak alt klasör oluşturamaz
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Sahip Outlook'u kullanarak alt klasör oluşturamaz
 
-**Outlook kullanan ortak klasör sahiplerinin alt klasörlerini oluşturmakla ilgili bir sorun var. Sorun yakında düzeltilecektir.**
+**Ortak klasör sahiplerinin Outlook kullanarak alt klasör oluşturması sorunu devam ediyor. Sorun yakında giderilecek.**
 
-Bu arada, aşağıdaki geçici çözümlerden birini kullanın:
+Bu sırada, aşağıdaki geçici çözümlerden birini kullanın:
 
-1. MAC için Outlook 'U kullanarak sorun yalnızca masaüstü Windows için Outlook 'U (tüm sürümler) etkilediğdeyken alt klasörü oluşturmak için
-2. EXO kabuğu veya EAC kullanarak alt klasörü oluşturma
-3. Kullanıcıya, soruna neden olan klasördeki DefaultPublicFolderMailbox/Efekt\tüm  
-    - *Set-Mailbox Kullanıcı1 DefaultPublicFolderMailbox PubMBX3*
-4. Saat bekle, Outlook istemcisini yeniden başlatın
+1. Alt klasörü oluşturmak için MAC için Outlook'u kullanın, bu sorun yalnızca Masaüstü için Outlook pencerelerini etkiler (tüm sürümler)
+2. Yöneticinin EXO Shell veya EAC kullanarak alt klasör oluşturmasını
+3. Kullanıcıda DefaultPublicFolderMailbox/EffectivePublicFolderMailbox'i, soruna neden olan klasörün İçerik Posta Kutusu'dan başka bir posta kutusuyla değiştirme  
+    - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*
+4. Bir saat bekleyin, Outlook istemcisini yeniden başlatın

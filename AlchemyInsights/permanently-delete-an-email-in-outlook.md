@@ -1,8 +1,8 @@
 ---
-title: Outlook 'ta e-postayı kalıcı olarak silme
+title: Outlook'ta e-postayı kalıcı olarak silme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771705"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836119"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>Outlook 'ta e-postayı kalıcı olarak silme
+# <a name="permanently-delete-an-email-in-outlook"></a>Outlook'ta e-postayı kalıcı olarak silme
 
-- Gelen kutusu görünümünden, bir iletiye uzun basın ve çöp tenekesi simgesini görürsünüz. İletiyi silmek için bu simgeye dokunun.
+- Gelen kutusu görünümünden, bir iletiye uzun basın; çöp kutusu simgesini görürsünüz. İletiyi silmek için bu simgeye dokunun.
 
-- "Sil" seçeneğini de "Sil" seçeneğini de (**Ayarlar-> çekme seçenekleri**) olarak ayarlayabilirsiniz; ardından parmağınızı kullanarak silmek istediğiniz postayı çekin. 
+- "Sil" seçeneğini çekme seçeneği olarak da değiştirebilirsiniz ( Ayarlar **-> Çekme Seçenekleri**); ardından parmağınızı kullanarak silmek istediğiniz postayı çekin. 
 
-- Açık bir e-posta görünümünden ileti silmek için ekranınızın üst kısmındaki çöp tenekesi simgesine dokunun. Silinmiş iletiler çöp klasörünüze taşınacak. 
+- Açık bir e-posta görünümünden bir iletiyi silmek için ekrannizin üst kısmında bulunan çöp kutusu simgesine dokunun. Silinmiş iletiler Çöp Kutusu klasörünüze taşınır. 
 
 **E-postayı kalıcı olarak silmek için**
 
-- Çöp klasörüne posta görünümünden erişin, hesap simgesine (3 satır) dokunun ve çöp klasörüne dokunun.
+- Posta görünümünden çöp klasörüne erişin, hesap simgesine (3 satır) dokunun ve çöp kutusu klasörüne dokunun.
 
-- Tek tek e-postaları silin veya birden çok e-postayı işaretleyip buradan silin; kalıcı olarak silinir.
+- Tek tek e-postaları silin veya birden çok e-postayı işaretlemek ve buradan silmek; bunlar kalıcı olarak silinir.

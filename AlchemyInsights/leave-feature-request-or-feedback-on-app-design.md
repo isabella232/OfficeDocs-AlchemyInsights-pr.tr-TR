@@ -1,8 +1,8 @@
 ---
-title: Uygulama tasarımında özellik isteği veya görüşlerinizi bırakma
+title: Uygulama tasarımı hakkında bir özellik isteği veya geri bildirim bırakma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90f6ff6915029df2f26ebb5ffab8000932eb468e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676542"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836551"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Uygulama tasarımında özellik isteği veya görüşlerinizi bırakma
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Uygulama tasarımı hakkında bir özellik isteği veya geri bildirim bırakma
 
-Outlook 'ta çalışmaya devam ediyoruz. *UserVoice* , görüş alabileceğiniz ve diğer kişilerin fikirlerinde oy alabileceğiniz bir forumdur.  
+Outlook üzerinde çalışmaya devam ettiyken düşüncelerinizi paylaştığınız için teşekkür ederiz. *UserVoice,* geri bildirim bırakarak başkalarının fikirlerine oy veren bir forumdur.  
 
-Bizimle çıkmak için: 
+Bize bir fikir bırakmak için: 
 
-**> yardım & görüşler > fikir önerin > fikir önerin** 
+**Settings > Help & Feedback > Suggest a feature > Post an idea** 
 
-**Adınızın/e-postanızın nasıl görüntüleneceğini dikkate alma.**
+**Adınıza/e-postanıza ne kadar dikkat edin?**
 
-Var olan bir özellik isteğine açıklama eklediğinizde, uygulama sizin adınızı veya e-posta adresinizi uygulamada ayarladığınız birincil hesabınızdan otomatik olarak doldurur. Hangi adın görüntüleyeceğini seçmek için **Yeni** bir özellik isteği göndermeniz gerekir. 
+Var olan bir özellik isteğine açıklama eklerken, uygulama, uygulamada ayarlanmış birincil hesabınızla adınız veya e-posta adresinizi otomatik olarak hesaplar. Hangi adın görüntüleceklerini seçmek için, Yenİ bir özellik **isteği** göndermeniz gerekir. 
 
-İsteğin gönderilmesi basit bir 3 adımlı bir işlemdir. Üçüncü ve son sayfasında, e-posta adresiniz (gerekli) ve adınız için bir çizgi görürsünüz. Burada, adınızın nasıl görüntüleneceğini seçebilir veya fikri anonim olarak gönderebilirsiniz. 
+İstek gönderme, basit bir 3 adımlık bir işlemdir. Üçüncü ve son sayfada, e-posta adresiniz (gerekli) için bir satır ve adınız için bir satır görünür. Burada, adınıza ne şekilde görüntü sunulacaklarını seçebilir veya fikri anonim olarak gönderesiniz. 
 
-**Not:** Bu sayfada otomatik olarak hangi e-posta adresinin doldurulduğunu de değiştirmeniz gerekebilir. Adınız e-posta istemcinizin ayarları içinde belirli bir yolla ayarlanmışsa, görüşler gönderimi anonim olarak değiştirildiğinde ayarlarınız geçersiz kılınabilir. 
+**Not:** Bu sayfada otomatik olarak doldurulan e-posta adresini de değiştirebilirsiniz. Adınız e-posta istemcinizin ayarları içinde belirli bir şekilde ayarlanmışsa, geri bildirim gönderisini anonim olarak değiştirmek ayarlarınız tarafından geçersiz kılınabilir. 

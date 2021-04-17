@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 Apps iletisi-ilişkili Office lisansları bulunamadı
+title: Microsoft 365 uygulamaları iletisi - İlişkili Office lisansları bulundu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802797"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836227"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 Apps iletisi-ilişkili Office lisansları bulunamadı
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 uygulamaları iletisi - İlişkili Office lisansları bulundu
 
 Bu hatayı düzeltmek için aşağıdakileri deneyin:
 
@@ -39,10 +39,10 @@ Sorun devam ederse şu adımları deneyin:
 
 - Office etkinleştirme durumunu sıfırlama. Bkz. [Kuruluşlar için Microsoft 365 Uygulamaları etkinleştirme durumunu sıfırlama](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Güvenlik duvarınızın, virüsten koruma yazılımınızın ve proxy ayarlarınızın Microsoft 365 uygulamalarının Internet 'e erişimini engellemediğini onaylamak için bunları denetleyin. 
+- Güvenlik duvarınızı, virüsten koruma yazılımınızı ve ara sunucu ayarlarınızı kontrol edin ve Microsoft 365 uygulamalarının İnternet erişimini engellemelerini engellemelerini onaylayın. 
 
 Ek sorun giderme çözümleri için bkz:
 
 [Office’te Lisanssız Ürün ve etkinleştirme hataları](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Microsoft 365 URL 'Leri ve IP adresi aralıkları](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Microsoft 365 URL'leri ve IP adresi aralıkları](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
