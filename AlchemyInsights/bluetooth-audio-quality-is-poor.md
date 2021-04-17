@@ -2,7 +2,7 @@
 title: Bluetooth ses kalitesi düşük
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: d53c31eaeda83fd84e21fbd536ad4178dece3c0a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcd5cad153ae521065e3dee211c850b0db6fd7f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685402"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820126"
 ---
-# <a name="fix-bluetooth-audio-quality-issue"></a>Bluetooth ses kalitesi sorununu çözme
+# <a name="fix-bluetooth-audio-quality-issue"></a>Bluetooth ses kalitesi sorununa düzeltme
 
-Bluetooth cihazınız bağlıysa ancak ses kalitesi zayıf olduğunda, aşağıdakileri deneyin:
+Bluetooth cihazınız bağlı ancak ses kalitesi düşükse, şunları deneyin:
 
-- Sesin Bluetooth aygıtından çalınmasını sağlayın. **Başlangıç**  >  **ayarları**  >  **sistem**  >  **sesini**seçin. **Çıkış aygıtınızı seçin**altında, Bluetooth ses aygıtını seçin.
-- Bluetooth ile dosya paylaşımı gibi Bluetooth kullanan diğer şeyleri duraklatın. Daha fazla bilgi için [Windows 10 ' da ses sorunlarını düzeltme](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems)konusuna bakın.
-- En iyi kalitede ses elde etmek için Bluetooth cihazı için stereo 'nın seçildiğini doğrulayın. Bunu yapmak için: 
-    1. Görev çubuğunun sağ tarafında **birim**'i seçin ve ardından bir kayıttan yürütme cihazı seçmek için köşeli çift ayraç simgesini seçin.
-    2. Bluetooth aygıtını seçin ve **stereo** seçeneğinin seçili olduğundan emin olun. (Düşük sesle kalite seçeneği **eller serbest**.)
-    3. Bir seçenek olarak stereo kullanılamıyorsa, cihaz **ayarları**  >  **Devices**  >  **Bluetooth & diğer cihazlar**'i kaldırın ve sonra cihazı yeniden ekleyin. Ardından, stereo 'nın seçildiğinden emin olmak için **Ses** paneli 'ni yeniden kontrol edin.
+- Bluetooth cihazından ses çalmasını kontrol edin. Başlangıç **Ayarları Sistem**  >  **Sesi**  >    >  **'ne tıklayın.** Çıkış **cihazınızı seçin öğesinin** altında Bluetooth ses cihazını seçin.
+- Bluetooth üzerinden dosya paylaşımı gibi Bluetooth kullanıyor olabileceğiniz diğer şeyleri duraklatın. Daha fazla bilgi için [bkz. Windows 10'daki ses sorunlarını düzeltme.](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems)
+- En iyi ses kalitesini elde etmek için Bluetooth cihazı için stereonın seçili olduğunu doğrulayın. Bunu yapmak için: 
+    1. Görev çubuğunun sağ tarafında Ses Düzeyi öğesini **seçin** ve ardından bir kayıttan yürütme cihazı seçmek için köşeli çift ayraç simgesini seçin.
+    2. Bluetooth cihazını seçin ve Stereo seçeneğinin **seçili** olduğundan emin olun. (Düşük ses kalitesi seçeneği Ellerinizi **Serbest seçeneğidir.)**
+    3. Stereo seçenek olarak kullanılamıyorsa, Ayarlar Cihazlar Bluetooth ve diğer & cihazlarda cihazı yeniden  >    >  ekleyin. Ardından, **stereo'nın seçili** olduğundan emin olmak için Ses paneli'ni yeniden kontrol edin.
 

@@ -1,8 +1,8 @@
 ---
-title: Takvim Izinleri
+title: Takvim İzinleri
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: cfee520e26587c0a649c08084853c31232d027f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bbd49134bd4a4451649b76bb5f60b19065910cae
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748813"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819928"
 ---
-# <a name="calendar-permissions"></a>Takvim Izinleri
+# <a name="calendar-permissions"></a>Takvim İzinleri
 
-Kullanıcılar kendi takvim Izinlerini Web üzerinde veya başka istemcilerde Outlook 'ta değiştirebilir, ancak bir yönetici olarak araştırmanız gerekebilir.  
-Exchange PowerShell cmdlet 'i ile kullanıcının takviminde izin gösterilir:
+Kullanıcılar Web üzerinde Outlook'la veya diğer istemcilerle kendi Takvim İzinlerini değiştirebilir, ancak bir yönetici olarak sizin de araştırmanız gerekir.  
+Exchange PowerShell cmdlet'iyle kullanıcının takviminde izinler size gösterir:
 
 `Get-MailboxFolderPermission <SMTPAddress>:\Calendar | FT -a`
 
-Daha fazla bilgi görmek için aşağıdakilere bakın:
+Daha fazla bilgi için aşağıdakilere bakın:
 
 - [Get-MailboxFolderPermission](https://docs.microsoft.com/powershell/module/exchange/get-mailboxfolderpermission?view=exchange-ps)
 
@@ -34,9 +34,9 @@ Daha fazla bilgi görmek için aşağıdakilere bakın:
 
 - [Add-MailboxFolderPermission](https://office.visualstudio.com/DefaultCollection/MAX/_queries/query/Add-MailboxFolderPermission)
 
-Takvim Izinlerinde Takvim paylaşımı 'nda kullanılır, Outlook takvimini paylaşma hakkında daha fazla bilgi için şu makalelere bakın:
+Takvim İzinleri takvimlerin paylaşımında kullanılır; Outlook takvimini paylaşma hakkında daha fazla bilgi için şu makalelere bakın:
 
 - [Outlook takvimini başkalarıyla paylaşma](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [İş için Web üzerinde Outlook 'ta Takviminizi paylaşma](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Web üzerinde Outlook İş'te takviminizi paylaşma](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
-Takvim Izniyle ilgili sorunları gidermek için [destek ve Kurtarma Yardımcısı](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) aracını kullanabilirsiniz.
+Takvim İzni sorunlarını gidermek için Destek ve [Kurtarma Yardımcısı aracını kullanabilirsiniz.](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f)

@@ -1,8 +1,8 @@
 ---
-title: Internet 'e bağlanamıyorum
+title: İnternet'e bağlanamıyor
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 50e901a0bb6e6b4abefbb3aa8946c40fb11dfc99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794282"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819460"
 ---
-# <a name="fix-network-connection"></a>Ağ bağlantısını Düzeltme
+# <a name="fix-network-connection"></a>Ağ bağlantısını düzeltme
 
-Ağ bağlantısı sorunlarını çözmek için öncelikle ağ sorun gidericisini çalıştırmayı deneyin. 
+Ağ bağlantısı sorunlarını çözmek için, önce Ağ sorun gidericisini çalıştırmayı deneyin. 
 
-1. [Sorun giderme ayarlarını açın](ms-settings:troubleshoot).
+1. [Sorun giderme ayarlarını açın.](ms-settings:troubleshoot)
 
-2. **Internet bağlantıları**altında **sorun gidericiyi çalıştırın**öğesini seçin.
+2. İnternet **Bağlantıları'nın** altında **Sorun gidericiyi çalıştır öğesini seçin.**
 
-Wi-Fi bağlantısı kullanıyorsanız, cihazınız için Wi-Fi ' ın açık olduğundan (fiziksel Wi-Fi anahtarı dahil) ve bu uçak modunun açık olmadığından emin olun.
+Wi-Fi bağlantısı kullanıyorsanız, cihazınız için Wi-Fi açık (tüm fiziksel Wi-Fi anahtarı da dahil) ve bu uçuş modunun açık olmadığını kontrol edin.
 
-Ethernet bağlantısı kullanıyorsanız, kablonun bilgisayarınıza ve yönlendiricinizin veya modeminizin sıkıca sıkıca takıldığından emin olun.
+Ethernet bağlantısı kullanıyorsanız, kablonun bilgisayarınıza, yönlendiricinize veya modeme sağlam bir şekilde takıldığından emin olun.
 
-Bu işe yaramazsa BILGISAYARıNıZı, modeminizi ve yönlendiricinizi (varsa) yeniden başlatmayı deneyin:
+Bu işe yaramadıktan sonra bilgisayarınızı, modem bilgisayarınızı ve yönlendiricinizi (varsa) yeniden başlatmayı deneyin:
 
-1. Modeminizi ve yönlendiricinizi kapatıp çıkarın. Modeminizin pil yedeklemesi varsa, gücü tamamen kapatmak için pili kaldırmanız gerekir.
+1. Modeminiz ve yönlendiricinizin gücünü çıkarın. Modeminiz pil yedeği varsa, gücü tamamen kapatmak için pili kaldırmanız gerekir.
 
-2. 30 saniye kadar bekleyin. Pilden çıkardınız, yeniden yerleştirin.
+2. Yaklaşık 30 saniye bekleyin. Pili modemten kaldırdıysanız tekrar takın.
 
-3. Modem ve yönlendiricinin güç kablosunu takın.
+3. Modem ve yönlendirici için güç kablosunu takın.
 
-4. Modemin ve yönlendiricinin tam olarak açılmasını beklerken bilgisayarınızı yeniden başlatın: **Start**  >  **Power**  >  **restart**'ı başlatın.
+4. Modemin ve yönlendiricinin tam olarak açık olması için beklerken bilgisayarınızı yeniden başlatın: Güç Yeniden  >  **Başlatma'ya**  >  **tıklayın.**
 
 **Gelişmiş sorun giderme**
 
-Daha gelişmiş sorun giderme adımları için [Windows 'Ta Wi-Fi bağlantı sorunlarını düzeltme](https://support.microsoft.com/help/10741?ocid=SMC10741%2F)konusuna bakın. 
+Daha gelişmiş sorun giderme adımları için [bkz. Windows Wi-Fi sorunlarını giderme.](https://support.microsoft.com/help/10741?ocid=SMC10741%2F) 
 
-Daha fazla teknik sorun giderme adımını kullanma konusunda deneyimli değilseniz [bize başvurun](https://support.microsoft.com/contactus).
+Daha teknik sorun giderme adımlarını kullanasanız bile Bize [Ulaşın.](https://support.microsoft.com/contactus)

@@ -1,8 +1,8 @@
 ---
-title: Ortak klasörlere erişilemiyor
+title: Ortak klasörlere erişem yok
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812567"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819532"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook ortak klasörlere bağlanamıyor
 
-Bazı kullanıcılar için ortak klasör erişimi çalışmıyorsa, aşağıdakileri deneyin:
+Ortak klasör erişimi bazı kullanıcılarda çalışmıyorsa, şunları deneyin:
 
-EXO PowerShell 'e bağlanın ve sorunlu Kullanıcı hesabındaki DefaultPublicFolderMailbox parametresini çalışan bir kullanıcı hesabındaki parametreyle eşleşecek şekilde yapılandırın.
+EXO PowerShell'e bağlanın ve sorun kullanıcı hesabında DefaultPublicFolderMailbox parametresini, çalışan bir kullanıcı hesabıdaki parametreyle eş olacak şekilde yapılandırın.
 
-Örnekteki
+Örnek: 
 
-Get-posta kutusu WorkingUser | ft defaultpublicfoldermailbox, efekt
+Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
-Set-Mailbox ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
+Set-Mailbox User -DefaultPublicFolderMailbox \<value from previous command>
 
-Değişikliğin geçerlilik kazanması için en az bir saat bekleyin.
+Değişikliğin etkili olacak şekilde değişmesi için en az bir saat bekleyin.
 
-Sorun devam ederse, Outlook 'U kullanarak ortak klasör erişimi sorunlarını gidermek için lütfen [Bu yordamı](https://aka.ms/pfcte) izleyin.
+Sorun devam ederse Outlook'u kullanarak [ortak klasör](https://aka.ms/pfcte) erişimi sorunlarını gidermek için lütfen bu yordamı izleyin.
  
-**Hangi kullanıcıların Outlook kullanan ortak klasörlere erişebileceğini denetlemek için**:
+**Outlook'u kullanarak ortak klasörlere hangi kullanıcıların eriş erişeni kontrol etmek için:**
 
-1.  Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true veya $false kullanma  
+1.  <mailboxname>Set-CASMailbox -PublicFolderClientAccess $true veya $false  
       
-    $true: Outlook 'ta kullanıcıların ortak klasörlerine erişmesine Izin verme  
+    $true: Kullanıcıların Outlook'ta ortak klasörlere erişmesine izin verme  
       
-    $false: Outlook 'ta ortak klasörlere Kullanıcı erişimini önleyin. Bu, varsayılan değerdir.  
+    $false: Outlook'ta kullanıcının ortak klasörlere erişimini engelin. Bu, varsayılan değerdir.  
         
-2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Not** Bu yordam yalnızca Windows için Outlook masaüstü ile bağlantıları denetleyebilir. Bir Kullanıcı OWA veya Mac için Outlook kullanarak ortak klasörlere erişmeye devam edebilir.
+**Not** Bu yordam, yalnızca Windows istemcileri için Outlook masaüstü ile bağlantıları kontrol eder. Bir kullanıcı OWA veya Mac için Outlook kullanarak ortak klasörlere erişmeye devam ediyor olabilir.
  
-Daha fazla bilgi için, [Outlook 'Ta ortak klasörlerin denetlenen bağlantıları Için destek duyurun](https://aka.ms/controlpf).
+Daha fazla bilgi için [bkz. Outlook'ta Denetimli Ortak Klasörlere Denetimli Bağlantılar için Destek Duyurma.](https://aka.ms/controlpf)

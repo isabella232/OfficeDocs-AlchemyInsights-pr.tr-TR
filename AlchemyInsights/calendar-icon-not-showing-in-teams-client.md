@@ -2,21 +2,22 @@
 title: Teams istemcisinde takvim simgesi gösterilmiyor
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001219"
 - "4375"
-ms.openlocfilehash: 21692639fb746b2e5aab3dfc8894293d5dc890ac
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 6a3f02b69d160c7dce68ed03df59c0d7d1f32f0f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932381"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819973"
 ---
 # <a name="calendar-icon-not-showing-in-teams-client"></a>Teams istemcisinde takvim simgesi gösterilmiyor
 

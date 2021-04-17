@@ -2,7 +2,7 @@
 title: Microsoft hesabı ile yerel hesap arasında hesap türünü değiştirme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 2a353d83e341119b900d900c8c4a83bfba582f6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 488615dfb6bc1316c1d76d50e37737034b569113
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681532"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818452"
 ---
-# <a name="change-the-account-type-that-you-sign-in-with"></a>Oturum açarken kullandığınız hesap türünü değiştirme
+# <a name="change-the-account-type-that-you-sign-in-with"></a>Oturum a açma ile oturum açma hesap türünü değiştirme
 
-Windows 10 ' da oturum açarken kullandığınız hesap türünü aşağıdaki şekilde değiştirebilirsiniz:
+Windows 10'da oturum a açın ve hesap türünü şu şekilde değiştirebilirsiniz:
 
-1. Bilgilerinizi **Başlangıç**  >  **ayarları**  >  **hesapları**  >  **'nı**seçin.
-2. Bir e-posta adresine bağlı olmayan bir yerel hesap kullanıyorsanız ancak bir Microsoft hesabı kullanmak istiyorsanız, **bunun yerine Microsoft hesabıyla oturum aç**'ı seçin.
-3. Bir e-posta adresine bağlı bir Microsoft hesabı kullanıyorsanız ancak yerel bir hesap kullanmak istiyorsanız, **bunun yerine yerel hesapla oturum aç**'ı seçin.
-4. Gerekirse, parolanızı girin ve **İleri**'yi seçin.
-5. Cihazınızı yeniden başlatın. Bir sonraki oturum açışınızda, geçiş yaptığınız hesap görüntülenecektir.
+1. Ayarları **Başlat**  >    >  **Hesapları Bilgileriniz** öğesini  >  **seçin.**
+2. E-posta adresine bağlı olmayan ancak Bir Microsoft hesabı kullanmak istediğiniz yerel bir hesap kullanıyorsanız, bunun yerine Microsoft hesabıyla oturum **açın öğesini seçin.**
+3. Bir e-posta adresine bağlı olan ancak yerel bir hesap kullanmak istediğiniz bir Microsoft hesabı kullanıyorsanız, Bunun yerine Yerel bir hesap ile **oturum açın öğesini seçin.**
+4. Gerekirse, parolanızı girin ve Ardından Sonraki öğesini **seçin.**
+5. Cihazınızı yeniden başlatın. Bir sonraki oturum açsanız, geçişte olacağınız hesap gösterilir.

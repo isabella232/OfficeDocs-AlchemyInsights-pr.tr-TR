@@ -2,7 +2,7 @@
 title: Fatura adresinizi değiştirme
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,30 +14,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 09de8ad5c7251822c7b3ad33bce991c6b4ca7883
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4addf495f0879376ee7b40e2c57ac6e72aa41455
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714456"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818236"
 ---
 # <a name="change-your-billing-address"></a>Fatura adresinizi değiştirme
 
-Faturanız veya faturanız üç adres içerir.
+Faturanız üç adres içerir.
 
-**Ödeme yöntemi için fatura adresini değiştirme**
+**Ödeme yönteminin fatura adresini değiştirme**
 
-1. Yönetim merkezinde **faturalandırma > [ödeme yöntemlerine](https://go.microsoft.com/fwlink/p/?linkid=2018806)** gidin.
+1. Yönetim merkezinde Fatura ve **Ödeme > [gidin.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 2. Değiştirmek istediğiniz kredi kartını veya banka hesabını seçin.
-3. **Ödeme yöntemi ayrıntıları** sayfasında **Düzenle**'yi tıklatın.
-4. Fatura adresinizi güncelleştirip **kaydet > kaydet**'e tıklayın.
+3. Ödeme yöntemi **ayrıntıları sayfasında Düzenle'ye** **tıklayın.**
+4. Fatura adresinizi güncelleştirin ve ardından Bitti **kaydet'> tıklayın.**
 
-Adres ve bildirim değişiklikleri hakkında daha fazla bilgi için [Microsoft 365 iş için fatura adreslerinizi değiştirme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)konusuna bakın.
+Adres ve bildirim değişiklikleri hakkında daha fazla bilgi için [bkz. Microsoft 365 İş'te fatura adreslerinizi değiştirme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
 
-**Faturalandırma hesabı bilgilerini değiştirme**
+**Fatura hesabı bilgilerini değiştirme**
 
-1. Yönetim merkezinde **faturalandırma > [Fatura hesaplarına](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)** gidin.
-2. **Faturalandırma hesabı bilgilerini düzenle**'yi seçin.
-3. Faturalandırma hesabı bilgilerini güncelleştirip **kaydet >**'i tıklatın.
+1. Yönetim merkezinde Faturalama ve **Faturalama > [gidin.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
+2. Fatura **hesabı bilgilerini düzenle'yi seçin.**
+3. Fatura hesabı bilgilerini güncelleştirin ve ardından Bitti olarak **Kaydet'> tıklayın.**
 
-**Not**: ülkeyi/bölgeyi değiştiremezsiniz. Bu alanın değiştirilmesi gerekirse, yeni bir kiracı satın almanız gerekir.
+**Not:** Ülke/Bölge'nin ayarlarını değiştiremezsiniz. Bu alanın değişmesi gerekirse yeni bir kiracı satın alırsanız.
