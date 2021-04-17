@@ -1,8 +1,8 @@
 ---
-title: Anonim kullanıcıların ekip toplantılarına katılırsanız veya bunları engellemez
+title: Anonim kullanıcıların Teams toplantılarına katılmalarına izin verme veya engelleme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669916"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824779"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Anonim kullanıcıların ekip toplantılarına katılırsanız veya bunları engellemez
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Anonim kullanıcıların Teams toplantılarına katılmalarına izin verme veya engelleme
 
-Ekip yönetim merkezinde anonim toplantı birleştirme ayarlarını denetleyebilirsiniz.
+Teams Yönetim Merkezi'nde anonim toplantıya katılma ayarlarını kontrol edebilirsiniz.
 
-**Bu değişikliğin geçerlilik kazanması 24 saate kadar sürebilir.**
+**Bu değişikliğin etkiliksi 24 saate kadar sürebilir.**
 
-1.  [Takımlar yönetim merkezine](https://admin.teams.microsoft.com) gidin
-2.  Sol **gezintide toplantı**   >   **toplantısı ayarları**'na gidin.
-3.  **Katılımcılar** **'ın altında anonim kullanıcılar toplantıya katılabilir**.
+1.  Teams yönetim [merkezine gitme](https://admin.teams.microsoft.com)
+2.  Sol gezinti bölmesinde Toplantılar Toplantısı    >   **ayarları'ne gidin.**
+3.  Katılımcılar **altında,** Anonim kullanıcılar **toplantıya katılabilir'i açabilirsiniz.**

@@ -1,8 +1,8 @@
 ---
-title: Intune ve cihaz eylemleri
+title: Intune ve Cihaz Eylemleri
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "7084"
 - "6700008"
-ms.openlocfilehash: ac8b489bc0f1799c13b7861ceb69dfc320cfc297
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 497844ebfea8850337407f2b0edfffd7b5b779e0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982569"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824095"
 ---
-# <a name="intune-and-device-actions"></a>Intune ve cihaz eylemleri
+# <a name="intune-and-device-actions"></a>Intune ve Cihaz Eylemleri
 
-Intune yöneticilerin uzaktan cihaz eylemlerini çalıştırmasına olanak tanır. Intune portalında bu uzak eylemleri kullanarak, cihazları yeniden başlatabilir, Passcodes 'i sıfırlayabilir, kesilen veya çalınan cihazları bulabilir ve daha fazlasını yapabilirsiniz. Daha fazla bilgi edinmek için [cihaz eylemi portalını](https://docs.microsoft.com/mem/intune/remote-actions/) gözden geçirin.
+Intune, yöneticilere cihaz eylemlerini uzaktan çalıştırma olanağı sunar. Intune portalında bu uzak eylemleri kullanarak cihazları yeniden başlatabilir, geçiş kodunu sıfırlayabilirsiniz, kayıp veya çalınmış cihazları bulabilirsiniz ve daha fazlasını gerçekleştirebilirsiniz. Daha fazla [bilgi edinmek için Cihaz Eylemi portalını](https://docs.microsoft.com/mem/intune/remote-actions/) gözden geçirme.

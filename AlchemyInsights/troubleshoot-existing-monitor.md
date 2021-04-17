@@ -1,8 +1,8 @@
 ---
-title: Var olan monitörde sorun giderme
+title: Mevcut monitörde sorun giderme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: 2dc9a24c1d0d808e26733738cedbc32d513926a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c4d2bb64b6b5ea79d4cd585e2be85c3c17e0f76f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690731"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824599"
 ---
-# <a name="troubleshoot-an-existing-monitor"></a>Var olan monitörde sorun giderme
+# <a name="troubleshoot-an-existing-monitor"></a>Mevcut monitörde sorun giderme
 
-Monitörde sorun gidermek için bu çözümleri deneyin. 
+Monitörle ilgili sorunları gidermek için aşağıdaki çözümleri deneyin. 
 
-**Monitörünüzün görünümünü yenileyin:**
+**Monitör ekranınızı yenileyin:**
 
-Aynı anda aşağıdaki tuşlara basın: Windows tuşu + CTRL + SHIFT + B. Bu, Grafik sürücünüzün iletişimini yenileyecektir. Monitörleriniz anlık olarak yanıp sönecektir ve birkaç saniye sonra geri döner.
+Şu tuşlara aynı anda basın: Windows Tuşu + Ctrl + Shift + B. Bu, grafik sürücüyle iletişimi yeniler. Monitörler kısa bir süre yanıp söner ve birkaç saniye sonra geri döner.
 
-**Monitör donanımında sorun giderme:**
+**Monitör donanımıyla ilgili sorunları giderme:**
 
-1. Bilgisayarınızı izleyicisine bağlayan kabloyu çıkarın ve takın.
-2. Gerekli olmayan aygıtların bilgisayarınızdan (bağdaştırıcılar veya noktaları gibi) bağlantılarını kesin.
+1. Bilgisayarınızı monitörünüze bağlayan kabloyu çıkarın ve yeniden takın.
+2. Bilgisayarınızdan (bağdaştırıcılar veya takma cihazları gibi) gerekli olmayan cihazların bağlantısını kesin.
 
-**Yakın zamanda bilgisayarınıza bir güncelleştirme yüklediyseniz, görüntü sürücünüzü geri alabilirsiniz:**
+**Yakın zamanda bilgisayarınıza bir güncelleştirme yüklemişsiniz, ekran sürücülerinizi geri yükleyebilirsiniz:**
 
-1. **Başlat**'ı seçin, **Cihaz Yöneticisi**yazın ve sonuçlardan **Cihaz Yöneticisi 'ni** seçin.
-2. **Görüntü bağdaştırıcıları** bölümünü genişletin, görüntü bağdaştırıcınızı sağ tıklatın ands **özellikleri**seçin.
-3. **Sürücü** sekmesine gidin ve **sürücüye geri dön**öğesini seçin. <br>
-Not: Bu kullanılamaz veya gri görüntüleniyorsa, sonraki adıma geçmek için aşağıdaki seçeneklerden **Hayır** 'ı seçin.
-4. Bu değişikliklerin yürürlüğe geçmeden bilgisayarınızı yeniden başlatmanız gerekebilir.
+1. Başlat **öğesini** seçin, **cihaz yöneticisi yazın** ve **sonuçlardan Cihaz Yöneticisi'ni** seçin.
+2. Görüntü **bağdaştırıcıları bölümünü genişletin,** ekran bağdaştırıcınıza sağ tıklayın ve Özellikler'i **seçin.**
+3. Sürücü sekmesine **gidin** ve Sürücüye Geri **Dön öğesini seçin.** <br>
+Not: Bu seçenek kullanılamıyorsa veya gri renkte  gösterilirse, sonraki adıma taşımak için aşağıdaki seçeneklerden Hayır'ı seçin.
+4. Bu değişikliklerin etkili olması için bilgisayarınızı yeniden başlatmanız gerekiyor olabilir.
 
-**Görüntü sürücünüzü kaldırın ve yeniden yükleyin:**
+**Ekran sürücülerinizi kaldırın ve yeniden yükleyin:**
 
-1. **Başlat**'ı seçin, **Cihaz Yöneticisi**yazın ve sonuçlardan **Cihaz Yöneticisi 'ni** seçin.
-2. **Görüntü bağdaştırıcıları** bölümünü genişletin, görüntü bağdaştırıcınızı sağ tıklatın ands **Cihazı kaldır**'ı seçin. 
-3. **Bu cihaz için sürücü yazılımını sil** 'in yanındaki kutuyu seçin ve **Kaldır**'ı seçin.<br>
-Not: Bu aşamada bilgisayarınızı yeniden başlatmanız istenebilir. Yeniden başlatmadan önce kalan yönergeleri yazdığınızdan emin olun.
-4. Cihaz Yöneticisi 'Ni yeniden açın.
-5. **Görüntü bağdaştırıcıları** bölümünü genişletin, görüntü bağdaştırıcınızı sağ tıklatın ve **Sürücüyü Güncelleştir**'i seçin.
-6. **Sürücü yazılımını Güncelleştir için otomatik olarak ara** öğesini seçin ve yükleme yönergelerini izleyin.
+1. Başlat **öğesini** seçin, **cihaz yöneticisi yazın** ve **sonuçlardan Cihaz Yöneticisi'ni** seçin.
+2. Görüntü **bağdaştırıcıları bölümünü genişletin,** ekran bağdaştırıcınıza sağ tıklayın ve Cihazı **kaldır'ı seçin.** 
+3. Bu cihaz için sürücü yazılımını **sil'in yanındaki kutuyu seçin ve kaldır'ı** **seçin.**<br>
+Not: Bu aşamada bilgisayarınızı yeniden başlatmanız istenebilirsiniz. Yeniden başlatmadan önce kalan yönergeleri not edin.
+4. Cihaz Yöneticisi'ni yeniden açın.
+5. Görüntü **bağdaştırıcıları bölümünü genişletin,** ekran bağdaştırıcınıza sağ tıklayın ve Sürücüyü **Güncelleştir'i seçin.**
+6. Sürücü **yazılımını otomatik olarak güncelleştir'i seçin** ve yükleme yönergelerini izleyin.

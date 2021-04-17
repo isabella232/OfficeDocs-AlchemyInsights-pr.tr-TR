@@ -1,8 +1,8 @@
 ---
-title: Bu dosyayı neden düzenleyemiyorum?
+title: Bu dosyayı neden düzenley bilmiyorum?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5634"
-ms.openlocfilehash: 7510871335fbb6fafc7b27423a89e44bcac76ec1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6597a0665b165eafe92baca99b0061111f333e6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664586"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824167"
 ---
-# <a name="why-cant-i-edit-this-file"></a>Bu dosyayı neden düzenleyemiyorum?
+# <a name="why-cant-i-edit-this-file"></a>Bu dosyayı neden düzenley bilmiyorum?
 
-Belge, çalışma sayfası veya sunu düzenlemeye karşı kilitliyse ve Windows masaüstü uygulamalarında düzenlenemıyorsanız, dosya başka birisi tarafından düzenleniyor olabilir ya da dosya kullanıma alınmış olabilir.
+Belge, çalışma sayfası veya sunu düzenlemeye karşı kilitlenmişse ve Windows masaüstü uygulamalarında düzenlenemezse, dosya başka biri tarafından düzenlenmiş veya dosya kullanıma alınmış olabilir.
 
-[Dosyayı neden düzenleyemeyeceğiniz](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)nedenlerinden bazılarına hızlı bir bakış yapın.
+Dosyayı düzenleyemayabilecek [nedenlere hızla göz atabilirsiniz.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)

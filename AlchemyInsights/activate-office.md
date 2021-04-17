@@ -1,8 +1,8 @@
 ---
-title: Office 'i etkinleştirme
+title: Office'i etkinleştirme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 89af7e4b-9b49-4c50-a604-21003ad30004
-ms.openlocfilehash: 86be2685a37744bf29ca4fb1221e57906b597368
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5e8b0c5cf948c1a903c178856dad0c524624e7d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698522"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823159"
 ---
-# <a name="activate-office"></a>Office 'i etkinleştirme
+# <a name="activate-office"></a>Office'i etkinleştirme
 
-İş veya okul hesabınızı kullanarak Office 'i etkinleştirebilirsiniz. Office ['i etkinleştirmek için](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx)bu makaledeki adımları kullanın.
+İş veya okul hesabınızla oturum açın ve Office'i etkinleştirebilirsiniz. Office'i etkinleştirmek için bu makaledeki adımları kullanın: [Office'i etkinleştirme.](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx)
   

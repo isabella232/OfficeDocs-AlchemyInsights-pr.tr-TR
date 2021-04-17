@@ -1,8 +1,8 @@
 ---
-title: Çoklu coğrafi konum
+title: Multi-Geo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: 5e0b5f32fd2cb60ceae708cf9df62f78fb374322
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0fea960e68eb66d0d14423caa4a6a66f82d9c423
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702347"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825247"
 ---
-# <a name="microsoft-365-multi-geo"></a>Microsoft 365 çoklu coğrafi bölge
+# <a name="microsoft-365-multi-geo"></a>Microsoft 365 Multi-Geo
 
-Microsoft 365 çoklu coğrafi bölge ile kuruluşunuz, Microsoft 365 iletişim durumunu mevcut kiracınızdaki birden çok coğrafi bölge ve/veya ülkede genişletebilir. Daha fazla bilgi için aşağıdaki bağlantılara bakın.
+Microsoft 365 Multi-Geo ile, microsoft 365 iletişim durumu bilginizi mevcut kiracınız içinde birden çok coğrafi bölgeye ve/veya ülkeye genişletin. Daha fazla bilgi için aşağıdaki bağlantılara bakın.
 
-- [Microsoft 365 çoklu coğrafi bölge](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
-- [Microsoft 365 çoklu coğrafi bölge planı](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
-- [Çoklu coğrafi konum yapılandırma](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)
+- [Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
+- [Microsoft 365 Multi-Geo için planlama](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
+- [Multi-Geo'ya Yapılandırma](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)

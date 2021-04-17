@@ -1,8 +1,8 @@
 ---
-title: Uygulamanız hangi Android sürümüne çalışıyor?
+title: Uygulamanız hangi Android sürümünü destekliyor?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: e3e4f3bb248959b3826438578c5ae274ac04992f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773075"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824203"
 ---
-# <a name="what-version-of-android-does-your-app-support"></a>Uygulamanız hangi Android sürümüne çalışıyor?
+# <a name="what-version-of-android-does-your-app-support"></a>Uygulamanız hangi Android sürümünü destekliyor?
 
-En iyi performans için, Uygulamam, Android sürüm 5,0 ve üzeri ile tüm cihazlarda çalışır.
+En iyi performans için uygulamamız Android sürüm 5.0 ve üzerini olan tüm cihazlarda çalışır.
 
-Android IŞLETIM kutunuzda güncel değilseniz ancak hala işletim sisteminin aygıtınızla uyumlu olmadığı hakkında bildirimler alıyorsanız, lütfen Play Store uygulamasının önbelleğini ve verilerini temizlemeyi deneyin.
+Android işletim işletim sisteminizin güncel olup olmadığını hala işletim sistemi ile uyumlu olmadığını ifade ediyorsanız lütfen Play Store uygulamasının önbelleğini ve verilerini temizlemeyi deneyin.
 
 Bunu yapmak için: 
 
-1. Android telefonunuzda veya tabletinizde **Ayarlar** 'ı ve ardından **uygulamalar** veya **uygulamalar**'ı açın.
+1. Android telefon veya tabletinizde Ayarlar'ı **ve** ardından Uygulamalar veya **Uygulamalar'ı** **açın.**
 
-2. Ekranın üst kısmında **diğer** 'e dokunun (Bu da üç nokta veya üç dikey nokta olabilir) ve sonra da **sistemi gösterir**. 
+2. Ekranın üst kısmında Diğer'e **(bu** da bir üç nokta veya üç dikey nokta olabilir) ve sonra Sistemi göster öğesine **dokunun.** 
 
-3. Aşağı kaydırın ve **Google Play Services**'a dokunun. 
+3. Aşağı kaydırın ve **Google Play hizmetleri'ne dokunun.** 
 
-4. **Depolama** 'ya dokunun ve sonra **önbelleği temizleyin**. 
+4. **Depolama'ya ve** sonra Önbelleği **Temizle'ye dokunun.** 
 
-5. **Alanı Yönet** 'e ve ardından **tüm verileri temizle**'ye dokunun. 
+5. Alanı **Yönet'e ve** ardından tüm **Verileri temizle öğesine dokunun.** 
 
-6. **Google Play Store**öğesini açın. 
+6. Google **Play Store'u açın.** 
 
-7. 5 dakika bekleyin ve yeniden deneyin. 
+7. 5 dakika bekleyin ve sonra yeniden deneyin. 

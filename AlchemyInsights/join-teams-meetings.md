@@ -1,8 +1,8 @@
 ---
-title: Ekip toplantılarına katılma
+title: Teams toplantılarına katılma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: a27c6ac118608a6f4ce85b38c2ddaa2bd8f80b4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772931"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824023"
 ---
-# <a name="join-a-meeting-in-teams"></a>Ekipte toplantıya katılma
+# <a name="join-a-meeting-in-teams"></a>Teams'de toplantıya katılma
 
-Bir ekip toplantısına katılmak için önce toplantı ilkelerini ayarlayın, ardından kullanıcıları tercih edilen cihazlarından katılmaları için yönlendirin:
+Bir Teams toplantısına katılmak için önce toplantı ilkelerini ayarlayın, ardından kullanıcıları tercih ettiği cihazlardan katılmaları için yönlendirin:
 
-- Toplantıya [katılımcı veya konuklar](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests)olarak katılabilirler. 
+- Toplantıya kimlerin katılımcı veya konuk olarak katılabileceklerini kontrol eden [toplantı ilkelerini ayarlayın.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) 
 
-- İlke değişiklikleri yapmak için Microsoft ekipleri [PowerShell cmdlet 'lerini](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) kullanın.    
+- İlke değişiklikleri yapmak için Microsoft [Teams PowerShell cmdlet'lerini](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) kullanın.    
 
-**Not:** İlke değişikliklerinin geçerlilik kazanması 24 saate kadar sürebilir.
+**Not:** İlke değişikliklerinin etkiliksi 24 saate kadar sürebilir.
