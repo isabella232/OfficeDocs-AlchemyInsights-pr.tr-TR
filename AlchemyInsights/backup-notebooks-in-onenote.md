@@ -1,31 +1,32 @@
 ---
-title: OneNote'ta yedek not defterleri
+title: OneNote'ta not defterlerini yedekleme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000567"
 - "4500"
-ms.openlocfilehash: c6426ecf66089043fedb76baed4358b12b340388
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.openlocfilehash: fa45fbaca4727d3e14cc28b62bcd4c3b20824283
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44283374"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820558"
 ---
-# <a name="backup-notebooks-in-onenote"></a><span data-ttu-id="4d758-102">OneNote'ta yedek not defterleri</span><span class="sxs-lookup"><span data-stu-id="4d758-102">Backup notebooks in OneNote</span></span>
+# <a name="backup-notebooks-in-onenote"></a><span data-ttu-id="4ffa8-102">OneNote'ta not defterlerini yedekleme</span><span class="sxs-lookup"><span data-stu-id="4ffa8-102">Backup notebooks in OneNote</span></span>
 
-<span data-ttu-id="4d758-103">OneNote tüm çalışmalarınızın yedeklerini saklayabilir, ancak bu şu anda Web için OneNote'ta mümkün değildir.</span><span class="sxs-lookup"><span data-stu-id="4d758-103">OneNote can keep backups of all of your work, but that's not currently possible in OneNote for the web.</span></span> <span data-ttu-id="4d758-104">OneNote 2016 masaüstü uygulamasında bunu nasıl yapacağınız hakkında ayrıntılı adımlar için, [notları yedekten yedekle](https://support.office.com/article/back-up-notes-f58b34b0-611d-435e-87fa-7942a1767af4#id0eaabaaa=2016,_2013,_2010) ve [geri yükleme](https://support.microsoft.com/office/restore-notes-from-a-backup-5daf9cb0-6769-4998-a5de-f044fdd0d831)'ye bakın.</span><span class="sxs-lookup"><span data-stu-id="4d758-104">For detailed steps on how to do this in the OneNote 2016 desktop app, see [Back up notes](https://support.office.com/article/back-up-notes-f58b34b0-611d-435e-87fa-7942a1767af4#id0eaabaaa=2016,_2013,_2010) and [Restore notes from a backup](https://support.microsoft.com/office/restore-notes-from-a-backup-5daf9cb0-6769-4998-a5de-f044fdd0d831).</span></span>
+<span data-ttu-id="4ffa8-103">OneNote tüm çalışmalarınızı yedekler ancak web için OneNote'ta bu mümkün değildir.</span><span class="sxs-lookup"><span data-stu-id="4ffa8-103">OneNote can keep backups of all of your work, but that's not currently possible in OneNote for the web.</span></span> <span data-ttu-id="4ffa8-104">OneNote 2016 masaüstü uygulamasında bunu nasıl yapacağıma ilişkin [](https://support.office.com/article/back-up-notes-f58b34b0-611d-435e-87fa-7942a1767af4#id0eaabaaa=2016,_2013,_2010) ayrıntılı adımlar için bkz. Notları yedekleme ve Notları [yedekten geri yükleme](https://support.microsoft.com/office/5daf9cb0-6769-4998-a5de-f044fdd0d831).</span><span class="sxs-lookup"><span data-stu-id="4ffa8-104">For detailed steps on how to do this in the OneNote 2016 desktop app, see [Back up notes](https://support.office.com/article/back-up-notes-f58b34b0-611d-435e-87fa-7942a1767af4#id0eaabaaa=2016,_2013,_2010) and [Restore notes from a backup](https://support.microsoft.com/office/5daf9cb0-6769-4998-a5de-f044fdd0d831).</span></span>
 
-1. <span data-ttu-id="4d758-105">OneNote 2016 masaüstü uygulamasında **Dosya > Seçenekleri'ni**tıklatın.</span><span class="sxs-lookup"><span data-stu-id="4d758-105">In OneNote 2016 desktop app, click **File > Options**.</span></span>
-2. <span data-ttu-id="4d758-106">OneNote Seçenekleri iletişim kutusunda\*\* Yedekleme& kaydet\*\*'yi tıklatın.</span><span class="sxs-lookup"><span data-stu-id="4d758-106">In the OneNote Options dialog box, click\*\* Save & Backup\*\*.</span></span>
-3. <span data-ttu-id="4d758-107">Sağda, **Kaydet'in**altında **Yedek Klasör > Değiştir'i**tıklatın.</span><span class="sxs-lookup"><span data-stu-id="4d758-107">On the right, under **Save**, click **Backup Folder > Modify**.</span></span>
-4. <span data-ttu-id="4d758-108">**Klasörü Seç** iletişim kutusunda yedek klasörünüze gidin.</span><span class="sxs-lookup"><span data-stu-id="4d758-108">In the **Select Folder** dialog box, go to your backup folder.</span></span>
-5. <span data-ttu-id="4d758-109">Yeni konumu kabul etmek için **Seç'i** tıklatın ve sonra **Tamam'ı**tıklatın.</span><span class="sxs-lookup"><span data-stu-id="4d758-109">Click **Select** to accept the new location, and then click **OK**.</span></span>
+1. <span data-ttu-id="4ffa8-105">OneNote 2016 masaüstü uygulamasında Dosya Dosya **Seçenekleri'> tıklayın.**</span><span class="sxs-lookup"><span data-stu-id="4ffa8-105">In OneNote 2016 desktop app, click **File > Options**.</span></span>
+2. <span data-ttu-id="4ffa8-106">OneNote Seçenekleri iletişim kutusunda\*\* Yedeklemeyi Kaydet\*\* &\*\* seçeneğine tıklayın.</span><span class="sxs-lookup"><span data-stu-id="4ffa8-106">In the OneNote Options dialog box, click\*\* Save & Backup\*\*.</span></span>
+3. <span data-ttu-id="4ffa8-107">Sağ tıklayın, Kaydet **altında, Yedekleme** Klasörü **ve Değiştir> tıklayın.**</span><span class="sxs-lookup"><span data-stu-id="4ffa8-107">On the right, under **Save**, click **Backup Folder > Modify**.</span></span>
+4. <span data-ttu-id="4ffa8-108">Klasör **Seç iletişim** kutusunda yedekleme klasörünüze gidin.</span><span class="sxs-lookup"><span data-stu-id="4ffa8-108">In the **Select Folder** dialog box, go to your backup folder.</span></span>
+5. <span data-ttu-id="4ffa8-109">**Seç'e** tıklayın ve yeni konumu kabul etmek için Tamam'a **tıklayın.**</span><span class="sxs-lookup"><span data-stu-id="4ffa8-109">Click **Select** to accept the new location, and then click **OK**.</span></span>
 
-<span data-ttu-id="4d758-110">Windows 10 için OneNote ile not defterleriniz OneDrive'da veya SharePoint'te depolanır.</span><span class="sxs-lookup"><span data-stu-id="4d758-110">With OneNote for Windows 10, your notebooks are stored either on OneDrive or on SharePoint.</span></span> <span data-ttu-id="4d758-111">OneNote'un tüm sürümleri, not defterlerinizin önbelleğe alınmış bir kopyasını cihazınızda tutar, böylece çevrimdışı yken bile bunlara erişebilirsiniz ve bağlandığınızda tüm değişiklikler eşitlenir.</span><span class="sxs-lookup"><span data-stu-id="4d758-111">All versions of OneNote keep a cached copy of your notebooks on your device, so you can access them even while you’re offline, and all the changes will sync when you are connected.</span></span>
+<span data-ttu-id="4ffa8-110">Windows 10 için OneNote'la, not defterleri OneDrive'da veya SharePoint'te depolanır.</span><span class="sxs-lookup"><span data-stu-id="4ffa8-110">With OneNote for Windows 10, your notebooks are stored either on OneDrive or on SharePoint.</span></span> <span data-ttu-id="4ffa8-111">OneNote'un tüm sürümleri, çevrimdışıyken bile not defterlerine erişmek için bunların önbelleğe alınmış bir kopyasını aygıtınızda depolar ve bağlandıktan sonra tüm değişiklikler eşitler.</span><span class="sxs-lookup"><span data-stu-id="4ffa8-111">All versions of OneNote keep a cached copy of your notebooks on your device, so you can access them even while you’re offline, and all the changes will sync when you are connected.</span></span>
