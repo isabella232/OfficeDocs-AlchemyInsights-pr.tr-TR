@@ -1,27 +1,26 @@
 ---
-title: Microsoft Teams'i ilk kez mi kullanıyorsunuz?
+title: Microsoft Teams'i ayarlama
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
-ms.translationtype: HT
+ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509165"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786221"
 ---
-# <a name="new-to-microsoft-teams"></a>Microsoft Teams'i ilk kez mi kullanıyorsunuz?
+# <a name="set-up-microsoft-teams"></a>Microsoft Teams'i ayarlama
 
- [Microsoft Teams’i Kullanmaya Başlama](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start) konusunu gözden geçirin. Buradaki Microsoft Teams BT Yöneticisi Eğitim Videolarını, Destelerini ve diğer bilgileri gözden geçirmeyi unutmayın.
+[Microsoft Teams kurulum kılavuzu,](https://aka.ms/teamsguidance) hem ekip hem de özel iletişim için mesajlaşma, aramalar ve sesli veya görüntülü toplantılar aracılığıyla gerçek zamanlı konuşmalar yapan ekip çalışma alanlarını ayarlama konusunda kuruma rehberlik sağlar. Ağ Planlayıcısı aracını ve Teams yönetim merkezi içindeki Teams danışmanını kullanarak, kuruluş ağ gereksinimlerini belirlemeyle ilgili yönergeler alırsınız. Dağıtımınız tamamlandığında, kılavuz Teams'i kullanmaya başlamanız için yararlı kaynaklar içerir.
 
-COVID-19 virüsünden dolayı Uzaktan Çalışanları (WFH) desteklemek için Teams dağıtımında yardıma ihtiyacınız varsa lütfen [Microsoft Teams kullanarak uzaktan çalışanları destekleme](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams) konusunu gözden geçirin. Ayrıca Microsoft 365 FastTrack Programı kapsamında dağıtım yardımı almaya uygun olabilirsiniz. İstek göndermek için lütfen [FastTrack Merkezi](https://www.microsoft.com/fasttrack)’ni ziyaret edin.
-
-**Önemli**: Son zamanlarda Teams kullanımında artış olduğundan, bir kullanıcıya Teams lisansı atadığınızda kullanıcının tamamen hazır olması 24 saat kadar sürebilir. O zamana kadar bu kullanıcılara Teams ilkeleri atanamaz, kullanıcılar arama ve sesli konferans gibi bazı Teams özelliklerine erişemez.
+Daha fazla bilgi için lütfen [Microsoft Teams ile Çalışmaya Başlama makalesi'ne bakın.](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)

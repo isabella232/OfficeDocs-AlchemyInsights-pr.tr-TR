@@ -1,31 +1,32 @@
 ---
-title: Site/liste şablondüğmesini kaydet kullanılamıyor veya eksik
+title: Site/liste şablonu kaydet düğmesi kullanılamıyor veya eksik
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: 90ff4b0d84f9d27ea9662014545fb7045a720aea
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: a7dadd6fed2d6623c60e66a6ac564b6160be5aa5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358537"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789308"
 ---
-# <a name="save-sitelist-template-button-not-available-or-missing"></a>Site/liste şablondüğmesini kaydet kullanılamıyor veya eksik
+# <a name="save-sitelist-template-button-not-available-or-missing"></a>Site/liste şablonu kaydet düğmesi kullanılamıyor veya eksik
 
-Bir siteyi şablon olarak kaydetme özelliği, modern İletişim veya Ekip Siteleri ile desteklenmez. Şablonları kullanma hakkında daha fazla bilgi için, [SharePoint sitesini şablon olarak kaydet, indir ve yükleyin.](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template)
+Siteyi şablon olarak kaydetme özelliği, modern İletişim veya Ekip Siteleri ile desteklanmaz. Şablonları kullanma hakkında daha fazla bilgi için [bkz. SharePoint sitesini şablon olarak kaydetme, indirme ve karşıya yükleme.](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template)
 
-Yöneticilerin şablon özelliklerini etkinleştirmek için Özel Komut Dosyasına İzin Vermeleri gerekir. Ayrıntılı adımlar, örnekler ve dikkat edilmesi gerekenler için bkz:
+Yöneticilerin şablon özelliklerini etkinleştirmek için Özel Betiklere İzin Vermeleri gerekir. Ayrıntılı adımlar, örnekler ve dikkate alınacak noktalar için bkz:
 
-- [Özel komut dosyasına izin verme veya engelleme](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Özel betiklere izin verme veya engelleme](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Şablon komutu olarak kaydet sitesi desteklenmez ve SharePoint Server Yayımlama Altyapısını kullanan sitelerde sorunlara neden olabilir.
+- Siteyi şablon olarak kaydet komutu desteklenmiyor ve SharePoint Server Yayımlama Altyapısı kullanan sitelerde sorunlara neden olabilir.
 
 
