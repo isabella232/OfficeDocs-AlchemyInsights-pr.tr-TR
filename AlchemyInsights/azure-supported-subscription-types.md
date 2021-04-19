@@ -1,8 +1,8 @@
 ---
-title: Desteklenen Abonelik türleri
+title: Desteklenen abonelik türleri
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,53 +12,53 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: 46bc60435c3f8477e9f274d90c39d0f1c6a523c6
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: dcf5855bff8725ea746196c1f07d689ce1797f8c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807983"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820702"
 ---
-# <a name="supported-subscription-types"></a>Desteklenen Abonelik türleri
+# <a name="supported-subscription-types"></a>Desteklenen abonelik türleri
 
-Devam etmek için lütfen desteklenen abonelik türlerini gözden geçirin.
+Daha fazla bilgi için lütfen desteklenen abonelik türlerini gözden geçin.
 
-[Desteklenen Abonelik türleri](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
+[Desteklenen abonelik türleri](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
 
-**Fatura sahipliğini aktarma**
+**Fatura sahipliğini aktar**
 
-Aboneliğinizi aktarmak istediğiniz aboneliği içeren faturalandırma hesabının [Hesap Yöneticisi](https://ms.portal.azure.com/) olarak Azure portalı
+Azure [portal'da, aktarımını](https://ms.portal.azure.com/) istediğiniz aboneliğin olduğu fatura hesabının Hesap Yöneticisi olarak
 
-- **Maliyet yönetimi + faturalamayla** arama yapın. Sol bölmeden **abonelikler** 'i seçin. Erişime bağlı olarak, bir faturalandırma kapsamı ve ardından **abonelikler** veya **Azure abonelikleri** 'ni seçmeniz gerekebilir.
-- Aktarmak istediğiniz aboneliğin faturalama sahibini aktarma seçeneğini belirleyin
-- Aboneliğin yeni sahibi olacak hesabın faturalama yöneticisi olan bir kullanıcının e-posta adresini girin ve ardından **aktarım isteği gönder** 'i seçin
-- Kullanıcı, aktarım isteğinizi gözden geçirmeniz için yönergeler içeren bir e-posta alır. Aktarım isteğini onaylamak için kullanıcı e-postadaki bağlantıyı seçer ve yönergeleri izler.
+- **Maliyet Yönetimi + Faturalama**'da arama yapın. Sol **bölmeden** Abonelikler'i seçin. Erişime bağlı olarak, bir faturalama kapsamı ve ardından **Abonelikler** veya **Azure abonelikleri**'ni seçmeniz gerekebilir.
+- Aktarımını istediğiniz abonelik için Fatura sahipliğini aktar'ı seçin
+- Aboneliğin yeni sahibi olacak hesabın faturalama yöneticisi olan kullanıcının e-posta adresini girin ve aktarım isteği **gönder'i seçin**
+- Kullanıcı, aktarım isteğinizi incelemek üzere yönergeler içeren bir e-posta alır. Aktarım isteğini onaylamak için kullanıcı, e-postadaki bağlantıyı seçer ve yönergeleri izler.
 
-Not: aboneliğinizin fatura sahipliğini başka bir Azure AD kiracısındaki bir kullanıcının hesabına aktarırsanız, abonelikteki kaynakları yönetmek için tüm [rol tabanlı erişim denetimi (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) atamaları kalıcı olarak kaldırılır. Yalnızca yeni sahibin abonelikteki kaynakları yönetme erişimi olur. Daha fazla bilgi için, [başka bir Azure AD kiracısındaki bir kullanıcıya abonelik aktarma](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support)konusuna bakın.
+Not: Aboneliğinizin fatura sahipliğini başka bir Azure AD kiracısında kullanıcının hesabına aktarıyorsanız, abonelikte kaynakları yönetmeye yönelik tüm rol tabanlı erişim [denetimi (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) atamaları kalıcı olarak kaldırılır. Abonelikteki kaynakları yönetme erişimi, yalnızca yeni sahipte bulunur. Daha fazla bilgi için [bkz. Başka bir Azure AD kiracısı üzerinden kullanıcıya abonelik aktarma.](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Aboneliğin sahipliğini aktarma**
+**Aboneliğin Sahipliğini Aktarma**
 
-Aboneliğin kaynaklarını yönetmek için abonelik sahipliği aktarma önkoşulları rol tabanlı Access (RBAC) erişimleri kaybolur. Kiracıya var olan bir aboneliği ekleme hakkında daha fazla bilgi için [Azure Active Directory 'ye Azure aboneliği ilişkilendirme veya ekleme](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support)konusuna bakın.
+Abonelik Sahipliği Aktarım önkoşulları, abonelikte kaynakları yönetmek için rol tabanlı erişim (RBAC) erişimi kaybeder. Var olan bir aboneliği bir kiracıya ekleme hakkında daha fazla bilgi için bkz. Azure aboneliğini [Azure Active Directory'ye ilişkilendirme veya ekleme.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-- Geçerli fatura döngüden mevcut bir bekleyen tutarla abonelik transferi yeni hesaptaki yeni ödeme gerecini aktarmayacaktır. Yeni hesaptaki kullanıcıların kullanabildiği tek bilgi, aboneliğiniz için geçen ayın maliyetidir. Kalan kullanım ve faturalandırma geçmişi abonelikle aktarılmaz.
-- Kurumsal Sözleşme (EA) aboneliklerinin fatura sahipliğini aktarma Şu anda yalnızca Kurumsal Sözleşme portalında desteklenmektedir
-- Visual Studio, BizSpark, Microsoft Iş ortağı ağı gibi kredi yönelimli bir aboneliği aktarmak, yeni bir kullanıcıya
-- Sanal makineler, diskler ve Web siteleri gibi tüm kaynaklar yeni hesaba başarıyla aktarılır. Aşağıdaki kaynaklar çapraz kiracı aboneliği aktarımında etkilenebilir:
+- Mevcut faturalandırma döneminden devreden bir miktarla Abonelik Aktarımı yeni hesapta yeni ödeme aracına aktarlanmaz. Yeni hesapta kullanıcılara kullanılabilen tek bilgi, aboneliğinizin geçen ayki maliyetidir. Kullanım ve faturalama geçmişinin kalan kalanı abonelikle birlikte aktarlanmaz.
+- Kurumsal Sözleşme (EA) aboneliklerinin fatura sahipliğini aktarma şu anda yalnızca Kurumsal Sözleşme Portalında desteklenmemektedir
+- Visual Studio, BizSpark, Microsoft İş Ortağı Ağı gibi kredi odaklı bir aboneliği yeni bir kullanıcıya aktarmak için, aktarım isteğini kabul etmek için Visual Studio/Microsoft iş ortağı ağı lisansının olması gerekir
+- Sanal Makineler, diskler ve web siteleri gibi tüm kaynaklar yeni hesaba başarıyla aktarıldı. Aşağıdaki kaynaklar kiracılar arası abonelik aktarımında etkilenebilir:
 
-**Azure AD etki alanı Hizmetleri**
+**Azure AD Etki Alanı Hizmetleri**
 
-Azure Anahtar Kasası
+Azure Anahtar Kasaları
 
-- [SQL ilişkili kullanıcılar ve veritabanları](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) , özellikle de müşteri Azure Active Directory ile ilgili kimlik doğrulama kullandığında etkilenebilir
-- Azure Active Directory kimlik doğrulamasıyla yapılandırılan **uygulama hizmetleri** etkilenebilir
-- **Visual Studio ekibi** Azure abonelikleri 'ne bağlı hizmetler, bağlı Azure aboneliği iptal edildiğinde geçici olarak erişimi kaybedebilir
+- [Sql ile ilgili kullanıcılar ve veritabanları,](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) özellikle de müşterinin Azure Active Directory ile ilgili bir kimlik doğrulaması kullandığında etki etki
+- Azure Active Directory kimlik doğrulamasıyla yapılandırılan **Uygulama** Hizmetleri etki etki olabilir
+- **Visual Studio Ekibi** Azure aboneliklerine bağlı hizmet hesapları, bağlı Azure aboneliği iptal edilirken erişimi geçici olarak kaybedebilir
 
-**Önerilen belgeler**
+**Önerilen Belgeler**
 
-Faturalama sahipliği kabul edildikten sonraki adımlar:
+Fatura sahipliğini kabul etme adımları:
 
-- Fatura sahipliğini korumak, ancak aboneliğinizin türünü değiştirmek için, bkz: [Azure aboneliğinizi başka bir teklife geçme](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Visual Studio, Microsoft Iş ortağı ağı (MPN) ve siz kullandıkça öde dev/test abonelikleri aktarılıyor](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- Fatura sahipliğini korumak ancak aboneliğinizin türünü değiştirmek için, bkz: [Azure aboneliğinizi başka bir teklife değiştirme](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Visual Studio, Microsoft İş Ortağı Ağı (MPN) ve Kullandıkça öde Geliştirme/Test aboneliklerini aktarma](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
 - [Kurumsal Sözleşme (EA) aboneliklerinin fatura sahipliğini aktarma](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
-- [Sahiplik aktarma SSS](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
-- [Aktarım sahipliği sorunlarını giderme](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
+- [Sahiplik Aktarma hakkında SSS](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
+- [Sahiplik aktarma ile ilgili sorunları giderme](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)

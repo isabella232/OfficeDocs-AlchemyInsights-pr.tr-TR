@@ -1,23 +1,24 @@
 ---
-title: Eşitleme iş bürünme
+title: Eşitleme aktarım hızını denetleme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5839"
-ms.openlocfilehash: 675d218123731df656b75af11189ec1699762f54
-ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
+ms.openlocfilehash: 6e45f55efac556d2d9c4f1ebd837db61dfa5422f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708426"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816688"
 ---
-# <a name="control-sync-throughput"></a>Eşitleme iş bürünme
+# <a name="control-sync-throughput"></a>Eşitleme aktarım hızını denetleme
 
-Eşitleme uygulaması trafiğini denetlemeniz gerekiyorsa, mümkünolduğunda ağ hizmet kalite (QoS) ilkelerinizi veya Windows QoS ilkelerinizi kullanmanızı öneririz. Kullanıcılarınızın kullanımına sunabileceğiniz ağ ayarları hakkında daha fazla bilgi için [Bkz. OneDrive sync uygulaması yükleme veya indirme oranını değiştir.](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)
+Eşitleme uygulaması trafiğini denetlemeniz gerekirse mümkün olduğunda ağ hizmet kalitesi (QoS) ilkelerinizi veya Windows QoS ilkelerinizi kullanmanızı öneririz. Kullanıcılarınıza açık olacak ağ ayarları hakkında bilgi için bkz. OneDrive eşitleme uygulamasının karşıya yükleme [veya indirme oranını değiştirme.](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)

@@ -1,24 +1,25 @@
 ---
-title: Office uygulamalarında abonelik doğrulanamadı bildirimi
+title: Microsoft 365 uygulamaları abonelik bildirimini doğrulayamadım
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 7a1823ed1080f0dc7adcf19b40b8e28256415ba5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788794"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816472"
 ---
-# <a name="couldnt-verify-subscription-notice-in-office-apps"></a>Office uygulamalarında "Abonelik doğrulanamadı" bildirimi
+# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Microsoft 365 uygulamalarına ait "Abonelik doğruemedi" bildirimi
 
 - [Abonelik durumunuzun](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) geçerli olduğunu, etkilenen kullanıcıya [geçerli bir lisans atanmış olduğunu](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) ve bu kullanıcının İnternete bağlı olduğunu doğrulayın.
 
@@ -28,7 +29,7 @@ ms.locfileid: "43788794"
 
 - [Etkinleştirme Sorun Gidericisi](https://aka.ms/SARA-OfficeActivation-Alchemy)’ni çalıştırıp bilgisayarınızı yeniden başlatın.
 
-- Etkilenen makinede [Office etkinleştirme durumunu sıfırlayın](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Etkilenen makinede [Office etkinleştirme durumunu sıfırlayın](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Ayrıntılı yönergeler için bkz: 
 

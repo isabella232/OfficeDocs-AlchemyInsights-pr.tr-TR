@@ -1,8 +1,8 @@
 ---
-title: Azure 'da faturanızın bir kopyasını indirin veya Isteyin
+title: Azure'da faturamı indirme veya Faturanın kopyasını talep edin
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6863"
-ms.openlocfilehash: 76f5bd17b93e10bf2325ab1c027b15acf741e90e
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: b92613cc9a2d9a653c1e321fb566c99e383fe8bc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922121"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820882"
 ---
-# <a name="download-or-request-a-copy-of-my-bill-in-azure"></a>Azure 'da faturanızın bir kopyasını indirin veya Isteyin
+# <a name="download-or-request-a-copy-of-my-bill-in-azure"></a>Azure'da faturamı indirme veya Faturanın kopyasını talep edin
 
-Bir aboneliğin faturasını indirmek için bir hesap yöneticisi rolüne sahip olmanız gerekir. Sahip, katılımcı veya okuyucu rollerine sahip olan kullanıcılar, hesap yöneticisi izin verdiyse, faturasını indirebilir. Daha fazla bilgi için bkz [.](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access#opt-in)
+Faturasını indirmek için, aboneliğin hesap yöneticisi rolüne sahip olmak gerekir. Hesap yöneticisi izin verdiyseniz, sahibi, katkıda bulunan veya okuyucu rolüne sahip olan kullanıcılar faturasını indirebilir. Daha fazla bilgi için bkz. [Kullanıcıların faturaları indirmesine izin verme.](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access#opt-in)
 
-**Azure faturaınızı indirin (. PDF)**
+**Azure faturanızı (.pdf) indirme**
 
-1. Azure portalında [abonelikler sayfasından](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) , [faturalara erişimi olan bir Kullanıcı](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) olarak aboneliğinizi seçin ve ardından **faturalar** 'ı seçin
-2. PDF faturanızın bir kopyasını görüntülemek için **Fatura indir** 'e tıklayın. **Mevcut değilse** , [son faturalandırma dönemi için neden fatura göremiyorum?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Faturanızın PDF 'sini ve ayrıntılı günlük kullanım dosyanızın bir kopyasını edinmek Için fatura dönemi 'Ne tıklayarak günlük kullanımınızı görüntüleyebilirsiniz (. CSV): [Fatura ve kullanım verilerini al](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
+1. Azure portalda [Abonelikler sayfasından faturalara](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) erişimi olan bir kullanıcı olarak [aboneliğinizi seçin ve sonra da](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) **Faturalar'ı seçin**
+2. PDF **faturanın bir** kopyasını görüntülemek için Faturayı İndir'e tıklayın. Kullanılamıyor **olarak yazıyorsa** [bkz. Son faturalandırma dönemi için neden fatura göremiyorum?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. Ayrıca fatura döneminize tıklayarak günlük kullanımınızı da görüntüebilirsiniz Faturanızı PDF olarak almak ve ayrıntılı günlük kullanım dosyanizin ( bir kopyasını almak için). CSV): [Fatura ve kullanım verilerini alma](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Diğer kişilerin abonelik faturasını yüklemelerine izin verme**
+**Diğer kullanıcıların abonelik faturanızı indirmesine izin verme**
 
-1. Aboneliğin hesap yöneticisi olarak [Azure portalında](https://portal.azure.com/) oturum açın.
-2. Maliyet yönetimi ve faturalamayı arayın.
-3. Sol taraftaki **faturaları** seçin.
-4. Azure aboneliğinizi seçin ve ardından **Diğerlerinin fatura yüklemelerine Izin ver 'e** tıklayın.
-5. Sayfanın üst kısmında **Açık** ve **Kaydet** 'i seçin.
+1. Abonelik için hesap yöneticisi olarak [Azure portalında](https://portal.azure.com/) oturum açın.
+2. Maliyet Yönetimi + Faturalama için arama yapın.
+3. Sol **taraftan** Faturalar'ı seçin.
+4. Azure aboneliğinizi seçin ve Ardından Başkalarının faturayı **indirmesine izin ver 'e tıklayın.**
+5. Sayfanın **üst** **kısmından On'ı** ve ardından Kaydet'i seçin.

@@ -1,8 +1,8 @@
 ---
-title: Azure 'da ödeme bilgilerini değiştirme
+title: Azure'da ödeme bilgilerini değiştirme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,47 +12,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6813"
-ms.openlocfilehash: c46f1cd65ae5a07a4aab33c641ebfcb7ef6fd42d
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 3366603742560817eb722bd90c04fba2935bb110
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808133"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820738"
 ---
-# <a name="change-payment-information-in-azure"></a>Azure 'da ödeme bilgilerini değiştirme
+# <a name="change-payment-information-in-azure"></a>Azure'da ödeme bilgilerini değiştirme
 
-Azure portalında hesap yöneticisi olarak, yeni kredi kartı ekleyebilir, varolan bir kredi kartını güncelleştirebilir veya kullanmadığınız kredi kartını silebilirsiniz. [Microsoft Müşteri Sözleşmesi](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)için, ödeme yöntemleri [faturalandırma profilleriyle](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)ilişkilendirilir. Yalnızca Azure için kaydolan Kullanıcı ödeme yöntemini güncelleştirebilir.
+Azure portalında, Hesap Yöneticisi olarak yeni bir kredi kartı ekleyebilir, var olan bir kredi kartını güncelleştirebilirsiniz veya kullanmadınız bir kredi kartını silebilirsiniz. [Microsoft Müşteri Sözleşmesi için](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)ödeme yöntemleri fatura [profilleriyle ilişkilendirildi.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile) Ödeme yöntemini yalnızca Azure'a oturum alan kullanıcı güncelleştirebilirsiniz.
 
-**Azure aboneliğine yeni kredi veya banka kartı ekleme**
+**Azure Aboneliğine yeni Kredi kartı veya Banka kartı ekleme**
 
-1. [Hesap Yöneticisi](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)olarak [Azure portalında](https://portal.azure.com/) oturum açın. **Maliyet yönetimi ve faturalamayla** ara
-2. Kredi veya banka kartını eklemek istediğiniz aboneliği seçin. **Ödeme yöntemlerini** seçin
-3. Sol üst köşede, kart eklemek için + simgesini seçin. Sağ tarafta bir kredi kartı formu görüntülenir. Kredi veya banka kartı bilgilerini girin 4.To bu kartı etkin ödeme yönteminiz yapın, formun üst kısmındaki Bu sayfamı etkinleştir 'in yanındaki kutuyu işaretleyin. Bu kart, seçili abonelikle aynı kartı kullanan tüm abonelikler için etkin ödeme gereci olacak. **İleri** 'yi seçin 5.to **farklı bir kredi kartı kullanın** , etkin ödeme yöntemini oluşturmak istediğiniz kartın yanındaki kutuyu işaretleyin.
-6. **etkin ayarla** 'ya tıklayın
+1. Hesap Yöneticisi olarak [Azure portalında](https://portal.azure.com/) [oturum açın.](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) Maliyet Yönetimi **+ Faturalama'da arama**
+2. Kredi kartı veya banka kartı eklemek istediğiniz Aboneliği seçin. Ödeme **yöntemlerini seçin**
+3. Kart eklemek için sol üst köşedeki + öğesini seçin. Sağlarda bir kredi kartı formu görünür. Bu kartı etkin ödeme yönteminiz yapmak 4.To kredi kartı veya banka kartı ayrıntılarını girin, formun üstünde Bu benim etkin ödeme yöntemimi gir'in yanındaki kutuyu işaretleyin. Bu kart, seçili abonelikle aynı kartı kullanan tüm abonelikler için etkin ödeme aracı olur. Farklı  5.To **bir kredi kartı kullanmak için Sonraki'yi** seçin, etkin ödeme yöntemini yapmak istediğiniz kartın yanındaki kutuyu işaretleyin.
+6.Etkin **ayarla'ya tıklayın**
 
-**Mevcut kredi veya banka kartını güncelleştirme/değiştirme/kaldırma**
+**Mevcut Kredi kartını güncelleştirme/Değiştirme/Kaldırma**
 
-1. [Hesap Yöneticisi](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)olarak [Azure portalında](https://portal.azure.com/) oturum açın. **Maliyet yönetimi + faturalamayla** arama yapın.
-2. **ödeme yöntemlerini** seçin. Düzenlemek istediğiniz kredi veya banka kartına tıklayın. Sağ tarafta kredi kartı formu görüntülenir. kredi veya banka kartı ayrıntılarını güncelleyin. **Kaydet** 'i seçin.
-4.To **kaldırmak** istediğiniz kartın yanındaki kutuyu Işaretleyin. **Sil** 'e tıklayın.
+1.Hesap Yöneticisi olarak [Azure portalında](https://portal.azure.com/) [oturum açın.](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) Maliyet Yönetimi **+ Faturalama'da arama.**
+2.Ödeme **yöntemlerini seçin.** Düzenlemek istediğiniz kredi kartına veya banka kartına tıklayın. Sağ 3'te bir kredi kartı formu görüntülenir.Kredi kartı veya banka kartı ayrıntılarını güncelleştirin. **Kaydet**'i seçin.
+4.To **için,** kaldırmak istediğiniz 5 kartın yanındaki kutuyu işaretleyin.Sil'e **tıklayın**
 
-_Not_ : diğer etkin Microsoft abonelikleri ile ilişkiliyse kredi kartınızı kaldıramazsınız. Microsoft ile kullandığınız tüm etkin aboneliklerden kredi kartını kaldırmanız ve yeniden denemeniz gerekir.
+_Not:_ Kredi kartınız diğer etkin Microsoft abonelikleriyle ilişkili ise kartı kaldıraasınız. Microsoft'la olan tüm etkin aboneliklerin kredi kartını kaldırmanız ve yeniden denemenizi gerekir.
 
-Daha fazla bilgi: [ödeme yöntemlerini güncelleştirme, değiştirme veya kaldırma](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
+Daha fazla bilgi: [Ödeme yöntemlerini güncelleştirme, değiştirme veya kaldırma](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Ödeme sorunlarını giderme**
 
-Sorununuzu çözüp çözmediğine bakmak için [ödeme sorunlarını giderme/hata senaryolarını](https://support.microsoft.com/help/4505172/troubleshooting-payment-issues) inceleyin.
+Sorununuzu çöz olup çözülmezse görmek için Ödeme sorunlarını [giderme/hata](https://support.microsoft.com/help/4505172/troubleshooting-payment-issues) senaryoları konularına bakın.
 
-Kartın finans kurumunuz tarafından reddedilmesi nedeniyle kartta bekleyen bir ödeme varsa, lütfen sorunu çözmek için **finans kurumunuzda** bize ulaşın. Aşağıdaki işaretçileri kullanın:
+Kredi kartının mali kurumunuz tarafından reddedilmiş olduğu için kartta bekleyen bir  ödeme varsa, sorunu çözmek için lütfen mali kurumunuzla iletişime geçene kadar yardım edin. Aşağıdaki işaretçileri kullanın:
 
-- Kartta Uluslararası hareketin etkinleştirilip etkinleştirilmediğini görmek için banka ile iletişim yapmanız gerekebilir
-- Kartın bakiyeyi kapatmak için kredi limiti varsa
-- Kartta yinelenen ödeme etkinleştirilmişse
+- Kartta uluslararası işlem etkinleştirildiğinden kontrol etmek için bankaya bakarak kontrol etmek zorundaysanız
+- Bakiyeyi dengelemek için kartta kredi sınırı varsa
+- Kartta yinelenen ödeme etkinleştirildiyse
 
-**Önerilen belgeler**
+**Önerilen Belgeler**
 
-- [Faturalandırmanın kurulumu](https://azure.microsoft.com/pricing/invoicing/)
-- [Ödeme yöntemini değiştir-SSS](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Faturalandırma profili için ödeme yöntemini değiştirme](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
-- [Microsoft Müşteri sözleşmesine erişimi denetleme](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+- [Faturalamayı ayarlama](https://azure.microsoft.com/pricing/invoicing/)
+- [Ödeme yöntemini değiştir- SSS](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Ödeme profili için ödeme yöntemini değiştirme](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
+- [Microsoft Müşteri Sözleşmesi'ne erişimi denetleme](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)

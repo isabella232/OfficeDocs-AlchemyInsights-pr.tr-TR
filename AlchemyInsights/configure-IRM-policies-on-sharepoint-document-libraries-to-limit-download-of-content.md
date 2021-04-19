@@ -1,25 +1,26 @@
 ---
-title: İçerik karşıdan yüklemeyi sınırlamak için SharePoint belge kitaplıklarında IRM ilkelerini yapılandırın
+title: SharePoint belge kitaplıklarında IRM ilkelerini içerik indirmeyi sınırlamak için yapılandırma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5712"
-ms.openlocfilehash: 5260448fb16a015bf76e4467d732855015c84113
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: d54125d735db7c169b2e5b0394675dd65b62f8f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507858"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817228"
 ---
-# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>İçerik karşıdan yüklemeyi sınırlamak için SharePoint belge kitaplıklarında IRM ilkelerini yapılandırın
+# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>SharePoint belge kitaplıklarında IRM ilkelerini içerik indirmeyi sınırlamak için yapılandırma
 
-SharePoint Online'da, liste ve kitaplık düzeyindeki dosyalara IRM koruması uygulanır. Kuruluşunuz IRM korumasını kullanabiliyor, önce Hak Yönetimi'ni ayarlamanız gerekir. IRM, kullanım kısıtlamalarını şifrelemek ve atamak için Azure Bilgi Koruması'ndan Azure Hakları Yönetimi hizmetine güvenir.
+SharePoint Online'da IRM koruması dosyalara liste ve kitaplık düzeyinde uygulanır. Kuruluşun IRM korumasını kullanamadan önce Hak Yönetimi'nin ayarlanmış olması gerekir. IRM, kullanım kısıtlamalarını şifrelemek ve atamak için Azure Information Protection'ın Azure Hak Yönetimi hizmetini kullanır.
 
-- [İçerik karşıdan yüklemeyi sınırlamak için SharePoint belge kitaplıklarında IRM ilkelerini yapılandırın.](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
+- [İçerik indirmeyi sınırlamak için SharePoint belge kitaplıklarında IRM ilkelerini yapılandırabilirsiniz.](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)

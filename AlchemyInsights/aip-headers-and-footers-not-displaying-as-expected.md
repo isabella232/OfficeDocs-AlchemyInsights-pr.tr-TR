@@ -1,44 +1,45 @@
 ---
-title: 'AIP: Üstbilgi ve altbilgi beklendiği gibi görüntüleniyor'
+title: 'AIP: Üstbilgiler ve altbilgiler beklendiği gibi görüntülenmiyor'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 418362beea221a7cb9d8fd4be6cfc0f28022093d
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
+ms.openlocfilehash: 5f50fc1d38618017bca61b4e9290d9893983534e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493408"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821719"
 ---
-# <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: Üstbilgi ve altbilgi beklendiği gibi görüntüleniyor
+# <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: Üstbilgiler ve altbilgiler beklendiği gibi görüntülenmiyor
 
-Beklendiği gibi görüntülenmeden görsel işaretlerle ilgili sorunlar yaşıyorsanız, aşağıdaki yönergeleri görüntüleyin:
+Görsel işaretlerin beklendiği gibi görüntülenmesiyle ilgili sorunlar yaşıyorsanız, aşağıdaki yönergeleri izleyin:
 
-1. [Görsel işaretler uygulandığında](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied)gözden geçirdiğinizden emin olun.
-2. Office etiketlemesi için, [Office 365 içerik işaretleme ve şifreleme uyguladığında](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption)gözden geçirin.
-3. Varolan üstbilgi/altbilgi kaldırmak istiyorsanız, [diğer etiketleme çözümlerinden üstbilgi ve altlıkları kaldırın'ı](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions)gözden geçirin.
+1. Görsel işaretler uygulandığında [incelemeyi gözden geçirmeyi sağlar.](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied)
+2. Office etiketlemesi için, [Office 365 içerik işaretleme ve şifrelemesi uygulamanın ne zaman uygulandığını gözden geçirebilirsiniz.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption)
+3. Var olan üst bilgileri/alt bilgileri kaldırmak için, Diğer etiket çözümlerinden üst bilgileri [ve alt bilgileri kaldırma'ya bakın.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions)
 
-Sorun yaşamaya devam ediyorsanız, Azure Bilgi Koruması istemci günlüklerini toplayın ve dışa aktarılan günlükleri bu bilete takın.
+Sorun hala yaşıyorsanız, Azure Information Protection istemci günlüklerini toplayın ve dışarı aktarıldı günlükleri bu bilete iliştirin.
 
-**Azure Bilgi Koruması günlüklerini dışa aktarma**
+**Azure Information Protection günlüklerini dışarı aktarma**
 
-1. Office belgesini açın veya Outlook'ta yeni bir e-posta oluşturun.
-2. **Koruma/Duyarlılık**  >  **Yardım ve geri bildirim'i**tıklatın.
-3. **Günlükleri Dışa**Aktar'ı tıklatın.
-4. Günlükleri seçtiğiniz konuma kaydedin ve bu hizmet isteğine takın.
+1. Bir Office belgesi açın veya Outlook'ta yeni e-posta oluşturun.
+2. **Koru/Duyarlılık Yardımı ve geri**  >  **bildirim'e tıklayın.**
+3. Günlükleri Dışarı **Aktar 'a tıklayın.**
+4. Günlükleri tercih konumunuzla kaydedin ve bunları bu hizmet isteğine iliştirin.
 
-Daha fazla bilgi için bkz:
+Ek bilgi için bkz:
 
-- [Azure Bilgi Koruması için görsel işaretler için etiket nasıl yapılandırılabilen](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
-- [Azure Bilgi Koruması belgelerini gözden geçirin](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Azure Bilgi Koruması Gereksinimleri](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Azure Bilgi Koruması için hızlı başlangıç öğreticisi](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [Azure Bilgi Koruması istemcisi indirin](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Azure Information Protection'da görsel işaretlere uygun etiketi yapılandırma](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
+- [Azure Information Protection belgelerini gözden geçirme](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Azure Information Protection gereksinimleri](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Azure Information Protection hızlı başlangıç öğreticisi](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Azure Information Protection istemcisini indirin](https://www.microsoft.com/download/details.aspx?id=53018)

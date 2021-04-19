@@ -2,25 +2,26 @@
 title: Vergi muafiyeti için başvurma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 91b34fb686206bd3b5e215bb5ed7cb7847028929
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
-ms.translationtype: HT
+ms.openlocfilehash: 0bc705cd595268b14a169d002859706cae404ebb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286936"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821314"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Vergi muafiyeti için başvurma
 
-Lütfen şu belgeleri hazırlayın. Vergi muafiyeti durumunu oluşturmak için [hizmet isteği başlatmanız](https://docs.microsoft.com/office365/admin/contact-support-for-business-products) gerekebilir.
+Lütfen şu belgeleri hazırlayın. Vergi muafiyeti durumunu oluşturmak için [hizmet isteği başlatmanız](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) gerekebilir.
 
 - **Birleşik Devletler** - Lütfen **Satış Vergisi Muafiyeti Sertifikası**’nı hazır bulundurun.
 
@@ -32,4 +33,4 @@ Lütfen şu belgeleri hazırlayın. Vergi muafiyeti durumunu oluşturmak için [
 
 - **Porto Riko** - Lütfen **Certificado de Compras Exentas** belgesini hazır bulundurun.
 
-Daha fazla bilgi için bkz. [Vergi Bilgileri](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide).
+Daha fazla bilgi için bkz. [Vergi Bilgileri](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).

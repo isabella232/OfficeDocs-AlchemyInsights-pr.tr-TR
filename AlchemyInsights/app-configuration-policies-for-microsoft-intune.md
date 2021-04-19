@@ -2,24 +2,35 @@
 title: Microsoft Intune için Uygulama Yapılandırma ilkeleri
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 6f7c5f7cc3dc47ca8f5899ef96c5aafa8505342b
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+- "9003770"
+- "6709"
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423978"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821350"
 ---
 # <a name="app-configuration-policies-for-microsoft-intune"></a>Microsoft Intune için Uygulama Yapılandırma ilkeleri
 
-Microsoft Intune'daki uygulama yapılandırma ilkeleri, iOS veya Android uygulamaları için yapılandırma ayarları sağlar. Bu yapılandırma ayarları, bir uygulamanın özelleştirilmesine izin verir. Yapılandırma ilkesi desteği işletim sistemi sürümleri ve uygulamaları ile sınırlıdır.
+Microsoft Intune için uygulama yapılandırma ilkeleri, iOS ve Android uygulamalarına yönelik yapılandırma ayarları sağlamak için kullanılır. Bu yapılandırma ayarları uygulamanın özelleştirilmesine olanak tanır. Hangi işletim sistemi sürümlerinin ve hangi uygulamaların yapılandırma ilkeleri kullanımını desteklediği konusunda sınırlamalar olabileceğini unutmayın.
 
-Daha fazla ayrıntı [için Microsoft Intune için Uygulama yapılandırma ilkelerine](https://docs.microsoft.com/intune/app-configuration-policies-overview)bakın.
+Ayrıntılı bilgi için lütfen aşağıdaki belgeleri inceleyin:
+
+[Microsoft Intune için uygulama yapılandırma ilkeleri](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[Yönetilen iOS cihazları için uygulama yapılandırma ilkeleri ekleme](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[Yönetilen Android cihazları için uygulama yapılandırma ilkeleri ekleme](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[Cihaz kaydı olmadan yönetilen uygulamalar için uygulama yapılandırma ilkeleri ekleme](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)

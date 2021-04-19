@@ -1,8 +1,8 @@
 ---
-title: Azure 'da aboneliği iptal etme
+title: Azure'da aboneliği iptal etme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: f85608446c8b230753dccd06ee5b5ea36aed7802
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807938"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819604"
 ---
-# <a name="cancel-subscription"></a>Aboneliği iptal et
+# <a name="cancel-subscription"></a>Aboneliği İptal Et
 
-Aboneliğe yalnızca hesap yöneticisi veya sahibi hemen ihtiyacınız yoksa Azure portalında Azure aboneliğinizi iptal edebilirsiniz. Aşağıdaki adımları izleyin.
+Abonelikte yalnızca Hesap Yöneticisi veya Sahip Artık aboneliğe ihtiyacınız yoksa Azure portalda Azure aboneliğinizi iptal edebilirsiniz. Aşağıdaki adımları izleyin.
 
-1. [Azure portalında abonelikler sayfasından](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)aboneliğinizi seçin.
+1. [Azure portalında Abonelikler sayfasından aboneliğinizi seçin.](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
 2. İptal etmek istediğiniz aboneliği seçin.
-3. **Genel bakış** 'ı seçin ve ardından **aboneliği iptal et** 'i seçin.
+3. Genel Bakış **'ı** ve ardından Aboneliği iptal **et'i seçin.**
 
-**Aboneliğimi iptal edersem ne olur?**
+**Aboneliğimi iptaldikten sonra ne olur?**
 
-İptal ettikten sonra faturalandırma hemen durdurulur. Bununla birlikte, bu işlem için portalda gösterilecek 10 dakika kadar sürebilir. Bir fatura döneminin ortasında iptal ederseniz, dönem bittikten sonra son faturayı normal fatura tarihinizi gönderiyoruz.
+siz iptal edildikten sonra, faturalama hemen durdurulur. Ancak iptalin portalda 10 dakika içinde gösterebilirsiniz. Bir faturalandırma döneminin ortasında iptal edersiniz, dönem sona erdikten sonra normal fatura tarihinize son faturayı göndeririz.
 
-İptal edildikten sonra hizmetleriniz devre dışı bırakılır. Bu, sanal makinelerinizin geçersiz olduğu anlamına gelir, geçici IP adresleri serbest bırakılır ve depolama alanı salt okunurdur.
+siz iptal ettikten sonra hizmetleriniz devre dışı bırakılır. Bu, sanal makinenizin ayrılmış, geçici IP adreslerinin serbest bırak olduğu ve depolamanın salt okunur olduğu anlamına gelir.
 
-Aboneliğiniz iptal edildikten sonra, Microsoft, verilerinizi kalıcı olarak silmeden önce 30-90 gün önce bekler Verileri saklamak için size ücret vermiyoruz. Daha fazla bilgi edinmek için bkz: [Microsoft Güven Merkezi-verilerinizi yönetme](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409).
+Aboneliğiniz iptal edildikten sonra, verilerinize erişmeniz veya fikirlerinizi değiştirmeniz durumunda Microsoft, verilerinizi kalıcı olarak silmeden önce 30 - 90 gün bekler. Verileri tutma ücretiz yok. Daha fazla bilgi edinmek için [bkz. Microsoft Güven Merkezi - Verilerinizi yönetme .](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409)
 
-**Azure aboneliğini iptal etme**
+**Azure Aboneliğini İptal Et**
 
-- [Aboneliği kimlerin iptal edebilir?](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#who-can-cancel-a-subscription)
-- [Aboneliğin ardından ne olur](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#what-happens-after-i-cancel-my-subscription)
+- [Aboneliği kimler iptal edebilir?](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#who-can-cancel-a-subscription)
+- [Abonelik sonrasında ne olur?](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#what-happens-after-i-cancel-my-subscription)
 
-**Önerilen belgeler**
+**Önerilen Belgeler**
 
-- [Aboneliği yeniden etkinleştir](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#reactivate-subscription)
-- [Aboneliği Değiştir](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Aboneliği yeniden etkinleştirme](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#reactivate-subscription)
+- [Aboneliği değiştir](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
