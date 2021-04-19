@@ -1,30 +1,31 @@
 ---
-title: SPFx Sayfaları ve Web Parçaları ile Yardım
+title: SPFx Sayfaları ve Web Bölümleri ile ilgili yardım
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: ce8842f1ea52501bde125812d7ed864f71a9e7f1
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 168cf7c9fbe2d1ce6c0463092770719cdc63d45c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44569795"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811548"
 ---
-# <a name="help-with-spfx-pages-and-web-parts"></a>SPFx Sayfaları ve Web Parçaları ile Yardım
+# <a name="help-with-spfx-pages-and-web-parts"></a>SPFx Sayfaları ve Web Bölümleri ile ilgili yardım
 
-SPFx yalnızca Microsoft geliştirici desteği ile desteklenir. SharePoint ürün ekibi, geliştirici topluluğuna çeşitli kanallardan yanıt verir.
+SPFx yalnızca Microsoft geliştirici desteği aracılığıyla destekler. SharePoint ürün ekibi çeşitli kanallarda geliştirici topluluğuna yanıt verir.
 
-- [Programlama soruları](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) **GitHub sp-dev-docs** veya **Stack Overflow**gönderilebilir.
-- [Dokümantasyon hataları](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) **GitHub'a**gönderilebilir.
-- [Örnek uygulama hataları](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) **GitHub'a**gönderilebilir.
-- [Özellik istekleri](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests) UserVoice'a gönderilebilir.
+- [Programlama soruları](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) GitHub geliştirme belgelerine veya Stack **Overflow'a gönderebilirsiniz.** 
+- [Belge hataları](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) **GitHub'a gönderebilirsiniz.**
+- [GitHub'a](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) örnek uygulama **hataları gönderebilirsiniz.**
+- [Özellik istekleri](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests)  UserVoice'a gönderebilirsiniz.
 
-Daha fazla geliştirici kaynağı için [Destek & geri bildirimine](https://docs.microsoft.com/sharepoint/dev/support-feedback) bakın
+Daha fazla geliştirici kaynağı için destek  [ve geri & bakın](https://docs.microsoft.com/sharepoint/dev/support-feedback)

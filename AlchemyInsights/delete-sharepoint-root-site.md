@@ -2,7 +2,7 @@
 title: SharePoint kök sitesini silme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5727"
-ms.openlocfilehash: d33029b6fe333b38cee7dba66ba4a5044248f174
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 849c5c58ab4688130d71baffac8fe39eddf92f18
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50714307"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815491"
 ---
 # <a name="delete-the-sharepoint-root-site"></a>SharePoint kök sitesini silme
 
 SharePoint kök sitesini silme  **işlemi desteklenmemektedir.**
 
 1.  Kök site zaten silinmişse, kullanıcılar siteye erişmeye çalışırken 404 Dosya Bulunamadı hatasıyla deneyimler.
-2.  Çözmek için, Silinmiş siteler sayfasına gidip kök siteyi [](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) seçin ve Geri Yükle'ye tıklayın.
-3.  Kök siteyi silmek yerine, kök [site geri yüklendiktan](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site)  sonra yeni SharePoint Yönetim Merkezi'nde siteyi değiştir'i kullanın.
+2.  Bu sorunu çözmek için, Silinmiş siteler sayfasına gidip [](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) kök siteyi seçin ve Geri Yükle'ye tıklayın.
+3.  Kök siteyi silmek yerine, kök [site geri](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site)  yüklendiktan sonra yeni SharePoint Yönetim Merkezi'nde siteyi değiştir'i kullanın.
 
-Daha fazla bilgi için bkz. [Kök sitenizi modernleştirme](https://docs.microsoft.com/sharepoint/modern-root-site)
+Daha fazla bilgi için [bkz. Kök sitenizi modernleştirme](https://docs.microsoft.com/sharepoint/modern-root-site)

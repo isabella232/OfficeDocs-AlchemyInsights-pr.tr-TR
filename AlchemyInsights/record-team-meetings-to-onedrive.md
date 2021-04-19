@@ -1,8 +1,8 @@
 ---
-title: Ekip için ekip kayıtları toplantısı
+title: Teams Toplantı Kayıtları ile OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003835"
 - "6853"
-ms.openlocfilehash: 04fcefaa0965129ba577af85615e762fb32ca64c
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
+ms.openlocfilehash: 9a0b610ed3101cef90c9685f5ca34c6245e86ae9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807678"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810288"
 ---
-# <a name="teams-meeting-recordings-to-onedrive"></a>Ekip için ekip kayıtları toplantısı
+# <a name="teams-meeting-recordings-to-onedrive"></a>Teams Toplantı Kayıtları ile OneDrive
 
-Microsoft ekiplerin toplantı kayıtlarını kaydetmek için yeni bir yöntemi vardır. Klasik Microsoft akışından [Yeni akışa](https://docs.microsoft.com/stream/streamnew/new-stream)geçişin ilk aşaması olarak, bu yöntem Microsoft OneDrive Iş ve SharePoint 'Teki kayıtları Microsoft 365 'da depolar ve birçok avantaj sunar.  
+Microsoft Teams'de toplantı kayıtlarını kaydetmeye için yeni bir yöntem vardır. Klasik Microsoft Stream'den yeni Stream'e geçişin ilk aşaması [olarak,](https://docs.microsoft.com/stream/streamnew/new-stream)bu yöntem kayıtları Microsoft 365'te Microsoft OneDrive İş ve SharePoint'te depolar ve birçok avantaj sunar.  
 
-- [OneDrive Iş ve SharePoint için Toplantı kaydı seçeneğini ayarlama](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
-- [Stream kullanmaya devam etmek için OneDrive Iş ve SharePoint oturumunuzu geri alma](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
+- [OneDrive İş ve SharePoint için toplantı kaydı seçeneğini ayarlama](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
+- [Stream'i kullanmaya devam etmek için OneDrive İş ve SharePoint'i devre dışı bırakma](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
 - [Sık sorulan sorular](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#frequently-asked-questions)

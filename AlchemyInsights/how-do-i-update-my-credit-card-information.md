@@ -2,10 +2,11 @@
 title: Kredi kartı bilgilerimi nasıl güncelleştirebilirim?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,23 +14,19 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 1ff40dad69c2bf30d56118065eecc83e91b79be1
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: be4d2c8959421b13c00a049cf4cc6b5b1a22ca3c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787930"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810972"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Kredi kartı bilgilerimi nasıl güncelleştirebilirim?
 
-1. Microsoft 365 yönetim merkezinde **Faturalama** \> [Ödeme yöntemleri](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
+1. Yönetim merkezinde Faturalar ve **ödemeler**  >  **&**  >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=2018806) gidin.
+2. Güncelleştirilen ödeme yönteminin satırına seçin. Sağ bölmede Düzenle öğesini **seçin.**
+3. Kredi kartının veya banka kartının adı, fatura adresi veya son kullanma tarihi gibi ödeme yöntemi bilgilerinizi güncelleştirin ve ardından Kaydet'i **seçin.**
 
-2. **Ödeme yöntemleri** sayfasında, güncelleştirilecek kredi kartını veya banka hesabını seçin.
-
-3. Kredi kartı veya banka hesabı bilgilerini değiştirmek için **Ödeme ayrıntılarını düzenle**'yi seçin.
-
-4. Kredi kartı veya banka hesabı bilgilerinizi (kredi kartının veya banka hesabının adı, fatura adresi, telefon numarası veya son kullanma tarihi) gerektiği gibi güncelleştirin, sonra **Kaydet** > **Bitti**’yi seçin.
-
-Daha fazla bilgi edinmek için bkz. [Kredi kartı veya banka hesabı ekleme, güncelleştirme veya kaldırma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Daha fazla bilgi için [bkz. Ödeme yöntemlerini yönetme.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **Not**: Aboneliği başka bir yönetici satın aldıysa aboneliğin kredi kartı veya banka hesabı bilgilerini güncelleştiremezsiniz. Kredi kartının süresi dolmak üzereyse ve diğer yönetici kart bilgilerini güncelleştiremiyorsa abonelik için farklı bir kredi kartı veya yeni bir banka hesabı ekleyerek hizmet kesintisini önleyebilirsiniz.

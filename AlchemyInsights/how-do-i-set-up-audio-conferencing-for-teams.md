@@ -2,9 +2,10 @@
 title: Teams için sesli konferansı nasıl ayarlarım?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,31 +13,31 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709959"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811080"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Sesli Konferans
 
-Microsoft Teams’te Sesli Konferansı açmak veya ayarlamak için yardıma ihtiyacınız mı var? Bu kullanıcı yeni mi oluşturuldu?  Öyleyse, ayarların geçerlilik kazanması için 2-24 saat beklemeniz gerekir.
+Microsoft Teams için Sesli Konferansı açma veya [ayarlama ile ilgili yardıma mı ihtiyacınız var?](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)  Kullanıcı yakın zamanda oluşturuldu mu? Ayar açıksa, ayarların etkilik için birkaç saat süreniz gerekir.
 
-Kullanıcının Sesli Konferans için lisanslandırıldığını ve Varsayılan Ücretli Numara sahibi olduğunu doğrulamak için:
+Lisanslar [satın alınsa,](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)kullanıcının Microsoft 365 Sesli Konferans lisansına sahip olduğunu ve Varsayılan Ücretli Numaraya sahip olduğunu doğrulayın.
 
 1. [Etkin Kullanıcılar](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)’a gidip söz konusu kullanıcıyı seçin.
 
 2. Yönetim merkezi sürümüne bağlı olarak, **Lisanslar ve Uygulamalar**’ı seçin veya **Ürün lisansları**’nda **Düzenle**’ye tıklayın.
 
-3. Kullanıcının **Sesli Konferans, Microsoft Teams** ve **Skype Kurumsal Çevrimiçi (Plan 2)** için seçili lisanslarının olduğunu doğrulayın.
+3. Kullanıcının Microsoft **365** Sesli Konferans, Microsoft Teams ve Skype Kurumsal Çevrimiçi **Sürüm (Plan 2)** için lisansları seçmiş olduğunu onaylayın. Microsoft **365 Sesli Konferans** lisansı yoksa, önce lisans [ekle'yi satın](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) alırsanız.
 
-4. **Yönetim merkezleri**’nin altında **Tümünü göster**’e tıklayın, ardından **Teams**’e tıklayın.
+4. Kullanıcı **Yönetim merkezlerinde** **Tümünü göster**’e tıklayın, ardından **Teams**’e tıklayın.
 
-5. **Microsoft Teams yönetim merkezi**’nde **Eski portal**’a tıklayın.
+5. **Microsoft Teams yönetim merkezinde** **Eski portal**’a tıklayın.
 
 6. **Skype Kurumsal yönetim merkezinde** **sesli konferans**’a tıklayın, ardından **kullanıcılar**’a tıklayın.
 
 7. Söz konusu kullanıcıyı seçin, kullanıcının **Varsayılan Ücretli Numarasının** olduğunu doğrulayın.
 
-Daha fazla bilgi için [Arama Planları](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)’na bakın veya lisans ile ilgili sorular hakkında yardım almak için Microsoft Commerce Faturalama ekibini arayın.
+Microsoft Sesli Konferans lisansı satın alma ile ilgili daha fazla **yardıma ihtiyacınız varsa Microsoft** Fatura Desteğini [arayın.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)

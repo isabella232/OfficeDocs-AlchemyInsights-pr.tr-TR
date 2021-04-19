@@ -1,8 +1,8 @@
 ---
-title: Neden yazılım güncelleştirmeleri dağıtılmıyor?
+title: Yazılım güncelleştirmeleri neden dağıtlanmİ değil?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461981"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805706"
 ---
-# <a name="why-software-updates-are-not-being-deployed"></a>Neden yazılım güncelleştirmeleri dağıtılmıyor?
+# <a name="why-software-updates-are-not-being-deployed"></a>Yazılım güncelleştirmeleri neden dağıtlanmİ değil?
 
-Yazılım güncelleştirmelerini Windows 10 güncelleştirmesi halkası aracılığıyla yapılandırdıysanız ancak güncelleştirmeler dağıtılmadığı takdirde aşağıdakileri gözden geçirin:  
+Windows 10 güncelleştirme halkası aracılığıyla yazılım güncelleştirmelerini yapılandırdıysanız ancak güncelleştirmeler dağıtılamazsanız aşağıdakini gözden geçirin:  
 
-- Windows Hizmetleri 'ni,  **yarı yıllık bir kanal**  sürümü türünden daha sıkı, daha sık sürüm türüne dönüştürme  
-- **Kalite güncelleştirmesi** ve **Özellik Güncelleştirmesi**için erteleme dönemini denetleyin. Erteleme dönemi 180 gün süreyle yapılan güncelleştirmelerden gecikmeye yol açabilir.
+- Windows hizmet türünü Yarı Yıllık  **Kanal sürüm türünden**  daha katı, daha sık yayınlanan bir sürüm türüne değiştirmeyi göz önünde bulundurarak  
+- Kalite güncelleştirmesi ve Özellik güncelleştirmesi **için erteleme** dönemini **kontrol edin.** Erteleme süresi, güncelleştirmelerde 180 gün kadar gecikmeye neden olabilir.

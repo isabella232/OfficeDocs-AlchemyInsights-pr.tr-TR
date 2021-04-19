@@ -1,8 +1,8 @@
 ---
-title: OneDrive veya SharePoint 'te dosya sorunlarını karşıya yükleme sorunlarını giderme
+title: OneDrive veya SharePoint'e dosya yükleme sorunlarını giderme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4447"
-ms.openlocfilehash: b4b4e1e3603d7a2758c027c957961ae2651fbfe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: f53002cfd8c8437cefe181e48e644cc55f76b568
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800124"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808955"
 ---
-# <a name="troubleshoot-upload-file-issues-to-onedrive-or-sharepoint"></a>OneDrive veya SharePoint 'te dosya sorunlarını karşıya yükleme sorunlarını giderme
+# <a name="troubleshoot-upload-file-issues-to-onedrive-or-sharepoint"></a>OneDrive veya SharePoint'e dosya yükleme sorunlarını giderme
 
-[Dosyalarınızı OneDrive 'a yüklemeyi](https://support.office.com/article/upload-and-save-files-and-folders-to-onedrive-a5710114-6aeb-4bf5-a336-dffa7cc0b77a)öğrenin. 
+Dosyalarınızı [OneDrive'a nasıl yükley ola öğrenin.](https://support.office.com/article/upload-and-save-files-and-folders-to-onedrive-a5710114-6aeb-4bf5-a336-dffa7cc0b77a) 

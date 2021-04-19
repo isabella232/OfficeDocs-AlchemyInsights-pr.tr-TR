@@ -1,24 +1,25 @@
 ---
-title: Office uygulamalarında ürün devre dışı bırakıldı bildirimi
+title: Microsoft 365 uygulamaları ürünün devre dışı bırakıldı bildirimi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1906"
-ms.openlocfilehash: d9e036b2b2157b4283992389a1fb741fddc15755
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: ce04d7e30a7c46312d06eb1e2a15e267a93a8494
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43785395"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800558"
 ---
-# <a name="product-deactivated-notice-in-office-apps"></a>Office uygulamalarında "Ürün devre dışı bırakıldı" bildirimi
+# <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Microsoft 365 uygulamalarında "Ürün devre dışı bırakıldı" bildirimi
 
 - Hizmetle ilgili bilinen sorunlar olup olmadığını görmek için [Hizmet Durumu sayfasını](https://docs.microsoft.com/office365/enterprise/view-service-health) gözden geçirin.
 
@@ -30,7 +31,7 @@ ms.locfileid: "43785395"
 
 - [Etkinleştirme Sorun Gidericisi](https://aka.ms/SARA-OfficeActivation-Alchemy)’ni çalıştırıp bilgisayarınızı yeniden başlatın.
 
-- Etkilenen makinede [Office etkinleştirme durumunu sıfırlayın](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Etkilenen makinede [Office etkinleştirme durumunu sıfırlayın](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Ayrıntılı yönergeler için bkz: 
 
