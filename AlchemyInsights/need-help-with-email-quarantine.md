@@ -1,26 +1,27 @@
 ---
-title: E-posta karantinası ile ilgili yardıma mı ihtiyacınız var?
+title: E-posta karantinada yardıma mı ihtiyacınız var?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: 24a836365b03da4f85e6b8f0a24304d4af9efa29
-ms.sourcegitcommit: 43acdecef129bfffc8bbe8ebb08fdd581b238a03
+ms.openlocfilehash: b824e4fe12788848ff09cd7f0c6c5a43563fd5c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44281244"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836335"
 ---
-# <a name="need-help-with-email-quarantine"></a>E-posta karantinası ile ilgili yardıma mı ihtiyacınız var?
+# <a name="need-help-with-email-quarantine"></a>E-posta karantinada yardıma mı ihtiyacınız var?
 
-- **Karantinadan gelen e-posta iletilerini görüntülemek ve yayınlamak**için [Office 365 Güvenlik & Uyumluluk Merkezi'ndeki Karantina sayfasına](https://protection.office.com/quarantine)gidin. Ayrıntılı talimatlar [burada](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).
-- İleti hatalı **bir şekilde karantinaya alındıysa (yanlış pozitif)** Karantina sayfasında mesajı bulduktan sonra "İletileri analiz için Microsoft'a bildir" seçeneğini tıklayın. 
-- İletinin "karantina nedeni" alanı altında **karantinaya alınmasının nedenini** bulun.
-- **Karantinadaki kayıp e-postalar mı?** Karantinaya alınan bazı e-postalar son kullanıcılar tarafından yayınlanamaz. Bunlar, yüksek güven e-postaları, kötü amaçlı yazılım veya bir aktarım eylemi tarafından sınıflandırılan olası iletilerdir. Yöneticiler [bu iletileri görüntüleyebilir, yayınlayabilir veya silebilir.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide) 
+- **E-posta iletilerini karantinadan görüntülemek ve serbest** bırakmak [için, Office 365](https://protection.office.com/quarantine)Güvenlik ve Uyumluluk Merkezi'nde Karantina & gidin. Ayrıntılı yönergeler [burada.](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages)
+- İleti hatalı olarak karantinaya alındıktan **sonra (hatalı** pozitif sonuç) ise, Karantina sayfasında iletiyi budikten sonra "İletileri çözümleme için Microsoft'a bildir" seçeneğine tıklayın. 
+- İletinin **"karantina nedeni" alanı** altında karantinaya alınmasının nedenini bulun.
+- **Karantinada e-postalar eksik mi?** Karantinaya alınmış bazı e-postalar son kullanıcılar tarafından yayım olamaz. Bunlar büyük olasılıkla, yüksek güvene sahip kimlik avı e-postaları, kötü amaçlı yazılım veya aktarım eylemi tarafından sınıflandırılmış iletilerdir. Yöneticiler bu [iletileri görüntüleme, sürüm veya silebilir.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide) 

@@ -2,21 +2,22 @@
 title: Ödemeniz reddedildi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
-ms.translationtype: HT
+ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43161074"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829072"
 ---
 # <a name="your-payment-was-declined"></a>Ödemeniz reddedildi
 
@@ -24,20 +25,31 @@ Microsoft, fatura tarihinden sonraki 3-4 hafta içinde kartınızdan ücret alma
 
 **Önemli**: Yeni kredi kartı eklediyseniz ve hata eski kredi kartı üzerinden reddetme bildirimi alıyorsanız yeni kartı abonelikle ilişkilendirmeniz gerekebilir.
 
-1. **Faturalama > [Ürünler ve hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** bölümüne gidin.
+**Tüm ürünler için ödeme yöntemini değiştir**
 
-2. Yeni kart veya banka hesabıyla ödemek istediğiniz aboneliği seçin. **Faturalama** bölümü altında, ödeme yönteminin yanında **Düzenle**’ye tıklayın.
+1. Yönetim merkezinde Faturalar ve **ödemeler**  >  **&**  >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=2018806) gidin.
 
-3. Geçerli ödeme yönteminin yanındaki **Değiştir**’e tıklayın.
+2. Değiştir tarihine kadar ödeme yönteminin satır seçin. Sağ bölmede, seçilen ödeme yöntemini kullanan tüm fatura profilleri ve tek tek abonelikler liste gösterilir.
 
-4. Açılır menüden alternatif bir ödeme yöntemi seçin ya da yeni bir ödeme yöntemi ekleyin.
+3. Sağ bölmede, Tüm öğeler **için ödeme yöntemini değiştir'i seçin.**
 
-**Ödeme yöntemini güncelleştirme veya yeni bir ödeme yöntemi ekleme**
+4. Mevcut bir ödeme yöntemini kullanmak için açılan listeden bir ödeme yöntemi seçin ve sonra da Değiştir öğesini **seçin.**
 
-1. **Faturalama > Faturalar ve Ödemeler > [Ödeme yöntemleri](https://go.microsoft.com/fwlink/p/?linkid=2018806)** sayfasına gidin.
+    > [!NOTE]
+    > Bir fatura profiliyle ilişkilendirilmiş abonelikleriniz varsa, ödeme yapmak için yalnızca kredi kartı veya banka kartı kullanabilirsiniz. Ödeme yöntemleri sayfasında listelenen banka **hesaplarınız** varsa, bu hesaplar açılan listede kullanılamaz.
 
-2. **Ödeme yöntemi ekle**’ye tıklayın, kartı ya da güncelleştirilecek banka hesabını seçin ve **Düzenle**’ye tıklayın.
+5. Yeni bir ödeme yöntemi eklemek için Ödeme yöntemi **ekle'yi seçin.**
 
-3. Ödeme yöntemi bilgilerinizi (kartın veya banka hesabının adı, fatura adresi, telefon numarası veya son kullanma tarihi) güncelleştirin ve ardından **Kaydet**’e tıklayın.
+6. Ödeme yöntemi **ekle bölmesinde hesap** bilgilerini girin, ardından Kaydet'i **seçin.** Kiracınız ile aynı ülkede yer alan bir ödeme yöntemi kullan gerekir.
 
-4. Aboneliklerinizi ödeme şeklinizi bu yeni ödeme yöntemiyle değiştirmeyi unutmayın. Daha fazla bilgi için [Ödeme yöntemi ekleme, güncelleştirme veya kaldırma](https://go.microsoft.com/fwlink/?linkid=2118133) bölümüne bakın. 
+7. Yeni ödeme yöntemi açılan listede zaten seçilidir. **Değiştir'i seçin.**
+
+**Ödeme yöntemi ayrıntılarını güncelleştirme**
+
+1. Yönetim merkezinde Faturalar ve **ödemeler**  >  **&**  >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=2018806) gidin.
+
+2. Güncelleştirilen ödeme yönteminin satırına seçin. Sağ bölmede Düzenle öğesini **seçin.**
+
+3. Kredi kartının veya banka kartının adı, fatura adresi veya son kullanma tarihi gibi ödeme yöntemi bilgilerinizi güncelleştirin ve ardından Kaydet'i **seçin.**
+
+Daha fazla bilgi için [bkz. Ödeme yöntemlerini yönetme.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

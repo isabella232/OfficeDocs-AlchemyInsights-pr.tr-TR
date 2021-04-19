@@ -1,26 +1,27 @@
 ---
-title: DNS kayıtlarını NameCheap'de güncelleştirin
+title: NameCheap'da DNS kayıtlarını güncelleştirme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5810"
-ms.openlocfilehash: 4c6c640741a04a02fda3df8e64e90b98ad84eac4
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 036a570db0dd4153be34eafabb2f8864041d3ee0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650434"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834535"
 ---
-# <a name="update-dns-records-at-namecheap"></a>DNS kayıtlarını NameCheap'de güncelleştirin
+# <a name="update-dns-records-at-namecheap"></a>NameCheap'da DNS kayıtlarını güncelleştirme
 
-DNS kayıtlarınızı güncellemenize yardımcı olmak için aşağıdaki bağlantıları kullanın
+DNS kayıtlarınızı güncelleştirmenize yardımcı olmak için aşağıdaki bağlantıları kullanın
 
-- [NameCheap'de DNS kayıtları oluşturma](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap?view=o365-worldwide)
+- [NameCheap'da DNS kayıtları oluşturma](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap?view=o365-worldwide)
 - [Office 365'te özel DNS kayıtlarını ekleme veya düzenleme](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

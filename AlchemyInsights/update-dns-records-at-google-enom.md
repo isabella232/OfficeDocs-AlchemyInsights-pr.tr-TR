@@ -1,26 +1,27 @@
 ---
-title: Google'da DNS kayıtlarını güncelleştir (eNom)
+title: Google'da (eNom) DNS kayıtlarını güncelleştirme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5821"
-ms.openlocfilehash: a680c4822d50588110e2f248a847158bc53a04b9
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: ae76d919bf1a0285e31d53e87219a0a204bb42e9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708109"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827596"
 ---
-# <a name="update-dns-records-at-google-enom"></a>Google'da DNS kayıtlarını güncelleştir (eNom)
+# <a name="update-dns-records-at-google-enom"></a>Google'da (eNom) DNS kayıtlarını güncelleştirme
 
 DNS kayıtlarınızı güncelleştirmenize yardımcı olmak için aşağıdaki bağlantıları kullanın.
 
-- [Google'da DNS kayıtları oluşturma (eNom](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-for-domain-managed-by-google-enom?view=o365-worldwide)
+- [Google'da (eNom) DNS kayıtları oluşturma](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-for-domain-managed-by-google-enom?view=o365-worldwide)
 - [Office 365'te özel DNS kayıtlarını ekleme veya düzenleme](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

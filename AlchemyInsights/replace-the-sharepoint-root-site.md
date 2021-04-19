@@ -1,29 +1,31 @@
 ---
-title: SharePoint Root Sitesini Değiştirme
+title: SharePoint Kök Sitesini Değiştirme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 33ee85c305aa9daae0028ad2c0c79a003f9dc017
-ms.sourcegitcommit: 505a576cc0e2b20f8ea5ce0a2f26763a11463918
+ms.openlocfilehash: 5984179a3de72752772ec198623f339949344e6e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44493565"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826795"
 ---
-# <a name="replace-the-sharepoint-root-site"></a>SharePoint Root Sitesini Değiştirme
-Kök sitenizi mevcut bir siteyle modernize etmek istiyorsanız veya yalnızca kök site düzeyinde farklı bir siteye sahip olmak istiyorsanız, siteleri değiştirmeyi (takas etmeyi) seçebilirsiniz.
+# <a name="replace-the-sharepoint-root-site"></a>SharePoint Kök Sitesini Değiştirme
+Kök sitenizi var olan bir siteyle modernleştirmek veya yalnızca kök site düzeyinde farklı bir siteye sahip olmak için arıyorsanız, siteleri değiştirmeyi (değiştirme) seçebilirsiniz.
 
-1. Yeni SharePoint yönetici merkezini kullanarak [Etkin Siteler'e](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true)gidin.
+1. Yeni SharePoint yönetim merkezini kullanarak Etkin [Siteler'e gidin.](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true)
 2. Değiştirmek istediğiniz kök sitesini seçin.
-3. **Siteyi Değiştir'i**seçin.
-4. Değiştirilecek varolan sitenin url'sini sağlayın. **Not:** Sitenin yedek kök site olarak kullanılabilip kullanılmaması konusunda bilgilendirilirsiniz.
+3. Siteyi **değiştir'i seçin.**
+4. Var olan sitenin URL'sini girin ve bu sitenin URL'sini girin. **Not:** Bu sitenin yeni bir kök site olarak kullanıp kullanılaymay olduğu size bildirildi.
 
-Gereksinimler hakkında daha fazla bilgi için [bkz.](https://docs.microsoft.com/sharepoint/modern-root-site)
+Gereksinimlerle ilgili daha fazla bilgi için bkz. [Kök sitenizi modernleştirme](https://docs.microsoft.com/sharepoint/modern-root-site).
+

@@ -2,26 +2,30 @@
 title: Teams bildirimleri
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: fd7fdf16dc5c1636b1096ef62604e354e12c784e
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: 281ddc7d729a8749084925b85568d441bf8e7502
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944518"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830998"
 ---
-# <a name="teams-notifications"></a>Teams bildirimleri
+# <a name="teams-notifications-faq"></a>Teams bildirimleri SSS
 
-Teams masaüstü uygulamasında bildirimlere erişmenin ve bunları yönetmenin birden çok yolu vardır. Bildirim ayarlarınızı daha da özelleştirmek için üst kısımda, Teams’in sağ köşesindeki profil resminizi seçin, sonra da **Ayarlar > Etkinlik Bildirimleri**’ne gidin. Orada hangi bildirimleri alacağınızı ve bu bildirimlerin nerede gösterileceği ayrıntılı olarak ayarlayabilirsiniz. 
 
-iOS ve Android uygulamalarında bildirimleri özelleştirmek için **Diğer > Ayarlar > Bildirimler**’e dokunun.
+- Bildirimler kullanıcılar [tarafından ayarlanır ve](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d)Yöneticiler, kullanıcıların adına bildirim ayarlarını değiştiremez. Teams Masaüstü Uygulaması'nda, Teams'in sağ üst köşesindeki profil resminizi seçin ve ardından Ayarlar ve etkinlik>gidin
 
-Daha fazla bilgi için bkz. [Bildirimler hakkında bilmeniz gereken altı şey](https://support.microsoft.com/tr-TR/office/six-things-to-know-about-notifications-abb62c60-3d15-4968-b86a-42fea9c22cf4) vey [Teams'de bildirimleri yönetme](https://support.office.com/article/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).
+- [Teams mobil uygulamaları için bildirim sorunlarını giderme](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c).
+
+- Bildirimleri dört şekilde edinebilirsiniz: Etkinlik akışı, Sohbet, Başlık bildirimleri ve E-posta. Bir süre Teams'de etkin değilken kaçırdığınız etkinlik e-postası gönderilir. Daha [fazla bilgi için bildirimler hakkında bilmek gereken](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4) altı şey'e bakın
+
+Teams bildirimleri hakkında daha fazla bilgi için [bkz. Teams'de bildirimleri yönetme.](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA)

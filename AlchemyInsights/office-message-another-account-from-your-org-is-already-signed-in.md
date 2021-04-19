@@ -1,24 +1,25 @@
 ---
-title: 'Office uygulamaları iletisi: Ne yazık ki kuruluşunuzdaki başka bir hesap zaten oturum açtı'
+title: Microsoft 365 uygulamaları iletisi - Üzgünüz, kurumdan başka bir hesap zaten oturum açık
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 5c5dfd24ccb3e31ce56db8be4f4aebcf60bfcb69
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
-ms.translationtype: HT
+ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183285"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836263"
 ---
-# <a name="office-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Office uygulamaları iletisi: Ne yazık ki kuruluşunuzdaki başka bir hesap zaten oturum açtı
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 uygulamaları iletisi - Üzgünüz, kurumdan başka bir hesap zaten oturum açık
 
 Bu hatayı düzeltmek için aşağıdakileri deneyin:
 
@@ -31,6 +32,8 @@ Bu hatayı düzeltmek için aşağıdakileri deneyin:
 - Hesabınızı eklemek veya bağlamak için **+** simgesine tıklayın. Kimlik bilgilerinizi girin ve işlemin tamamlanmasını bekleyin.
 
 - Office uygulamasını başlatın ve gerekirse yeniden oturum açın. 
+
+**İpucu** Windows makinelerde sizin için birçok genel Office oturum açma sorunlarını tanılayabilir ve otomatik olarak düzeltebiliriz. Otomatik aracımızı kullanmak için  **[Office 365 Destek ve Kurtarma Yardımcısını](https://aka.ms/SaRA-OfficeSignInScenario)** indirip çalıştırın.
 
 Sorun devam ederse şu adımı deneyin: 
 
