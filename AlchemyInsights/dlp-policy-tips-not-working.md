@@ -1,5 +1,5 @@
 ---
-title: DLP Ilkesi Ipuçları çalışmıyor
+title: DLP İlkesi İpuçları çalışmıyor
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679605"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952212"
 ---
-# <a name="dlp-policy-tip-issues"></a>DLP Ilkesi Ipucu sorunları
+# <a name="dlp-policy-tip-issues"></a>DLP İlkesi İpucu sorunları
 
 **Önemli**: Bu benzeri görünmemiş zamanlarda, SharePoint Online ve OneDrive hizmetlerinin kullanılabilirlik düzeyinin her zaman yüksek olmasını sağlamaya yönelik adımlar atıyoruz. Daha fazla bilgi için lütfen [SharePoint Online Geçici Özellik Değişiklikleri](https://aka.ms/ODSPAdjustments) sayfasını ziyaret edin.
 
-**DLP İlkesi ipuçları**
+Tam zorlama modunda Güvenlik ve Uyumluluk Merkezi'nde DLP ilkenize & ilke ipuçlarını yapılandırmak için, şunları yapın:
 
-**DLP ilkelerini**kullanırken, kullanıcılara **ilke ipuçları**ile ilke ihlali bildirilebilir. Yöneticiler, DLP ilkesini sınarken veya ilke tam zorlama modundayken görüntülenecek ilke ipuçlarını yapılandırabilir.
-  
-Tam zorlama modunda güvenlik ve Uyumluluk Merkezi 'ndeki DLP ilkenizin ilke ipuçlarını yapılandırmak için aşağıdakileri yapın:
-  
-- [Buradaki](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)ADıMLARı kullanarak DLP kuralında ilke ipuçlarının **etkinleştirildiğinden** emin olun.
+- DLP kuralında ilke **ipuçlarının** etkinleştirildiğinden emin olun. Adımlar için bkz. [E-posta bildirimleri gönderme ve DLP ilkeleriyle ilgili ilke ipuçlarını gösterme.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-- Bu [makalede özetlenen](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)kuralı **tetikleyecek şekilde** **içeriğinizin eşleştiğinden** emin olun.
+İçeriğinizin, Hassas bilgi türü varlık tanımlarında belirtilen kuralı tetiklemesi için [gerekenle eşlendiğinden emin olma.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- İlke ipuçları hem OWA hem de Outlook 'ta görüntülenir. Ancak, **Outlook 2013 veya üstünü**kullanırken, ilke ipuçları yalnızca belirli koşullarda görüntülenir. Bu koşullar burada listelenmiştir: [Ilke ipuçlarını görüntülemek Için Outlook 2013 veya üzeri Için desteklenen koşullar](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+İlke ipuçları hem OWA'da hem de Outlook'ta görüntülenir. Bununla birlikte, Outlook 2013 veya sonraki bir kullanıyorsanız, ilke ipuçları yalnızca belirli koşullarda görüntülenir. Belirli koşullar listesi için, İlke [İpuçları'nın görüntülenmesi için bkz. Outlook 2013 veya sonraki bir yıl için desteklenen koşullar](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-DLP İlkesi ipuçları hakkında ek bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-  
+DLP İlkesi ipuçları hakkında bilgi için bkz. [DLP İlkesi İpuçları Başvurusu ve](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) DLP İlkesi ipuçları için Destek [Matrisi.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)

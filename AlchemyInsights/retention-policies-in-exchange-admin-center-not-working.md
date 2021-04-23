@@ -1,5 +1,5 @@
 ---
-title: Exchange Yönetim merkezinde bekletme Ilkeleri çalışmıyor
+title: Exchange Yönetim Merkezi'nde Bekletme İlkeleri çalışmıyor
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,55 +13,35 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740530"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952248"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Exchange Yönetim merkezinde bekletme Ilkeleri
+# <a name="retention-policies-in-exchange-admin-center"></a>Exchange Yönetim Merkezi'nde Bekletme İlkeleri
 
-Aşağıda belirtilen ayarlar için otomatik denetimler 'in çalıştırılmasını istiyorsanız, bu sayfanın en üstündeki geri düğmesini < seçin ve ardından bekletme ilkeleriyle ilgili sorun olan kullanıcının e-posta adresini girin.
+Aşağıda adı geçen ayarlar için otomatik denetimleri çalıştırmamızı istemiyorsanız, bu sayfanın en üstünde yer alan geri düğmesini < seçin ve ardından bekletme ilkeleriyle ilgili sorunları olan kullanıcının e-posta adresini girin.
 
- **Sorun:** Exchange Yönetim merkezinde yeni oluşturulan veya güncelleştirilen bekletme ilkeleri posta kutularına veya öğeler arşiv posta kutusuna taşınmaz veya silinir. 
-  
- **Kök nedenler:**
-  
-- Bu, **yönetilen klasör Yardımcısı 'nın** kullanıcının posta kutusunu işlemediği için olabilir. Yönetilen klasör Yardımcısı, bulut tabanlı kuruluşunuzdaki her posta kutusunu yedi günde bir kez işlemeye çalışır. Bir bekletme etiketini değiştirir veya posta kutusuna farklı bir bekletme ilkesi uygularsanız, yönetilen klasör Yardımcısı 'Nın posta kutusunu işlemesini bekleyebilirsiniz veya belirli bir posta kutusunu işlemek üzere yönetilen klasör Yardımcısı 'nı başlatmak için Start-ManagedFolderAssistant cmdlet 'ini çalıştırabilirsiniz. Bu cmdlet 'i çalıştırmak, bekletme ilkesi veya bekletme etiketi ayarlarını sınamak veya sorun gidermek için kullanışlıdır. Daha fazla bilgi için [yönetilen klasör Yardımcısı 'Nı çalıştırmayı](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist)ziyaret edin.
-    
-  - **Çözüm:** Belirli bir posta kutusunun yönetilen klasör Yardımcısı 'nı başlatmak için aşağıdaki komutu çalıştırarak:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+Exchange Yönetim Merkezi'nde bekletme ilkeleri posta kutularına veya arşiv posta kutusuna taşınmıyor olan öğelere uygulanmıyorsa, bekletme ilkeleriyle ilgili sorunlarınız varsa, şunları kontrol edin:
 
-- **RetentionHold** , posta kutusunda **etkinleştirilmişse** da bu olabilir. Posta kutusu bir RetentionHold üzerine yerleştirilmişse, bu süre içinde posta kutusundaki bekletme ilkesi işlenmeyecektir. RetentionHold ayarında daha fazla bilgi için [bkz.](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)
-    
-    **Çözümlerden**
-    
-  - [Exo PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)'teki belirli bir posta kutusundaki RetentionHold ayarının durumunu denetleyin:
-    
-  ```
-  Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
-  ```
+**Kök Nedenler:**
 
-  - Belirli bir posta kutusunda RetentionHold **devre dışı bırakmak** için aşağıdaki komutu bırakın:
-    
-  ```
-  Set-Mailbox -RetentionHoldEnabled $false
-  ```
+- **Yönetilen Klasör Yardımcısı** kullanıcının posta kutusunu işlemedi. Yönetilen Klasör Yardımcısı, bulut tabanlı kuruluşta her posta kutusunu yedi günde bir işlemeyi çalışır.
 
-  - Şimdi, yönetilen klasör Yardımcısı 'nı yeniden çalıştırarak:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+  **Çözüm:** Yönetilen Klasör Yardımcısı'nın çalıştırın.
 
- **Not:** Posta kutusu 10 MB 'den küçükse, yönetilen klasör Yardımcısı posta kutusunu otomatik olarak işlemez.
+- **Posta kutusunda RetentionHold** **etkinleştirildi.** Posta kutusu bir RetentionHold'a yerleştirilmişse, posta kutusunda bekletme ilkesi bu süre boyunca işlenmez.
+
+  **Çözüm:** Bekletme Bekletme ayarının durumunu denetleme ve gerektiğinde güncelleştirme. Ayrıntılar için bkz. Posta [Kutusu Bekletme.](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)
  
-Exchange Yönetim merkezinde bekletme ilkeleri hakkında daha fazla bilgi için bkz:
+**Not:** Posta kutusu 10 MB'den küçükse, Yönetilen Klasör Yardımcısı posta kutusunu otomatik olarak işlemez.
+ 
+Exchange Yönetim Merkezi'nde bekletme ilkeleri hakkında daha fazla bilgi için bkz:
+
 - [Bekletme etiketleri ve bekletme ilkeleri](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Posta kutularına bekletme ilkesi uygulama](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Bekletme etiketlerini ekleme veya kaldırma](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Posta kutusuna yerleştirilen bekletme türlerini tanımlama](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+
+- [Posta kutularına bekletme ilkesi uygulama veya](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) Bekletme etiketleri ekleme veya [kaldırma](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+
+- [Posta kutusuna yerleştirilen tutma türünü belirleme](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
