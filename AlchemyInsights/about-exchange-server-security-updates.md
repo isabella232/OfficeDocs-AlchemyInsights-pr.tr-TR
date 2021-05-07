@@ -1,5 +1,5 @@
 ---
-title: Exchange Server Güvenlik güncelleştirmeleri hakkında
+title: Yeni Exchange Server hakkında
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726547"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233482"
 ---
-# <a name="about-exchange-server-security-updates"></a>Exchange Server Güvenlik güncelleştirmeleri hakkında
+# <a name="about-exchange-server-updates"></a>Yeni Exchange Server hakkında
 
-Microsoft, Exchange Server şirket içi için bir dizi kritik güvenlik güncelleştirmesi yayımladı. Etkilenen sunucu sürümleri Exchange Server 2010, 2013, 2016 ve 2019'un tüm güncelleştirme düzeyleridir. Exchange Online etkilenmez, ancak Karma yapılandırmadan dolayı bazı şirket içi Exchange sunucularınız varsa, bunlar potansiyel olarak zayıf kalır.
+Microsoft, genellikle Salı Exchange Server (Güvenlik Güncelleştirmeleri) veya üç aylık (Toplu Güncelleştirmeler) güncelleştirmeleri yayımlar. Yayımlanan en son güncelleştirmelerin duyurularını görmek için ekip Exchange [bakın.](https://aka.ms/ehlo)
 
-Düzeltmelerin konumu için lütfen şu duyuruya bakın: [Yayınlandı: Mart 2021 Exchange Server Güvenlik Güncelleştirmeleri](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Exchange Sunucularının envanterini Exchange Server Durum Denetleyicisi [betikini (GitHub, en son sürümü kullanın) kullanın.](https://aka.ms/ExchangeHealthChecker) Bu betiği çalıştırarak, Exchange Sunuculardan herhangi biri güncelleştirmelerin (CU ve SU'lar) arkasında yer alır.
 
-**Önemli notlar:**
+- En son Toplu Güncelleştirme'ye güncelleştirmek için Güncelleştirme [Exchange'e](https://aka.ms/ExchangeUpdateWizard) gidin ve şu anda çalışan CU'nızı ve hedef CU'nizi seçin. Ortamınız **için yol tarifleri almak** için Adımları bana söyle'yi seçin.
 
-Güncelleştirmeleri el ile yüklüyorsanız, önemli bilgiler için lütfen güncelleştirme KB makalelerinin "Bilinen sorunlar" bölümünü okuyun. Güvenlik güncelleştirmeleri yükseltilmiş CMD/PowerShell isteminden çalıştır must bekli!
-
-Sorun giderme bilgilerini burada [güncelleştirmeyi öğrenebilirsiniz.](https://aka.ms/exupdatefaq)
+- Yeni güncelleştirmeleri yüklemesi sırasında veya sonrasında hatalarla Exchange Server, bkz. Toplu ve Güvenlik güncelleştirmelerinin başarısız yüklemelerini [Exchange.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)

@@ -1,5 +1,5 @@
 ---
-title: Kullanıcının posta kutusu oluşturuluyor
+title: Kullanıcı posta kutunuz oluşturulacak
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -11,15 +11,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 5e4903019f4ab1ec478ec8fb13bcfc6f4ed9f884
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ac93b93639a518a66d45f644bbd80a61c23c62
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796272"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261828"
 ---
-# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Kullanıcı posta kutusu oluşturma işlemi uzun sürüyor
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Kullanıcı posta kutusu oluşturma işlemi uzun zaman alıyor
 
-Yeni posta kutusu kullanıma hazır hale gelmesi 24 saate kadar sürebilir.
+Yeni posta kutusunun kullanıma hazır hale gelmeden önce 24 saat kadar sürebilir.
   
-Kullanıcının posta kutusu bir saatten uzun süredir "hazırlanmışsa", kullanıcıdan Exchange lisansını kaldırmayı ve yeniden eklemeyi deneyin veya [desteğe başvurun](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).
+Kullanıcının posta kutusu bir saatten uzun bir süredir "Hazırlanıyor" olarak devam ediyorsa, kullanıcının Exchange lisansını kaldırmayı ve yeniden eklemeyi deneyin veya destekle [iletişime geçin.](/microsoft-365/admin/contact-support-for-business-products?tabs=online)

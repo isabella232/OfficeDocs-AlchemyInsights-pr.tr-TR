@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125689"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233554"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Eklentiler için eklentileri Microsoft 365 Uygulamaları
 
 Merkezi Dağıtım, eklentilerin, kuruluş içindeki kullanıcılara Office dağıtımı için önerilen yoldur. Eklentileri dağıtmak için aşağıdaki adımları izleyin:
 
-**Not:** Kullanıcılara eklentileri yüklemek Office için bkz. Office programlarında [eklentileri görüntüleme, yönetme Office yükleme.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Ayrıca, Mağaza eklentilerinin ayrı Office satın alımının etkinleştirildiğinden emin olun. 
+**Not:** Kullanıcılara eklentileri yüklemek Office için bkz. Office programlarında [eklentileri görüntüleme, yönetme Office yükleme.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Ayrıca, Mağaza eklentilerinin ayrı Office satın alımının etkinleştirildiğinden emin olun. Ayrıntılar için [bkz. tüm istemcilerde Office Store'Office indirmelerini](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)engelleme (Outlook).
 
 1. Merkezi Dağıtım kullanarak ortamının eklentilerin dağıtımıyla ilgili gereksinimleri karşı olduğundan emin olun. Ayrıntılar için bkz. [Gereksinimler](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements).
 2. Tümleştirilmiş **Ayarlar**  >  **Eklentilerin** dağıtımı  >  **için** Microsoft 365 Yönetim Merkezinde Uygulamaları edinin'e gidin. 

@@ -12,36 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1372"
 - "3100005"
-ms.assetid: ''
-ms.openlocfilehash: daf79f8d75ccdff8ad54f0f307648a5832a6bb71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f84a86331ffe714ffb5154d55608a91725a2fbfb
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662228"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233626"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint ve OneDrive denetim günlükleri
+# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint günlüklerini OneDrive ve denetleme
 
-## <a name="sharepoint-classic-audit-logs"></a>SharePoint klasik denetim günlükleri
+* [Birleşik Denetim Günlüğünü açma/kapatma](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
-SPO eski denetim Birleşik denetim günlüğüne (sürekli) geçirildi. Tüm SPO eski denetim raporları artık sürekli kalacak ve eski denetim sinyalleri sürekli olarak geçirilir.
-
-Anahtar değişiklikleri:
-
-* Kırpma özelliği yetenek olarak kullanılamaz.
-* Denetlenecek belirli olayları seçme kullanılamaz. Varsayılan olarak sağlanan denetlenen olayların tam listesi için [Bu belgeye](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) başvurun.
-* **Özelleştirilmiş raporlar** 'ın altındaki **konum** seçeneği kullanılamaz.
-* **Belge olaylarını açma veya indirme** seçeneği kullanılamaz.
-
-[Site koleksiyonu için denetim ayarlarını yapılandırma](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
-
-## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>Uyumluluk için SharePoint ve OneDrive modern denetim günlükleri
-
-* [Birleşik denetim günlüğünü açma/kapatma](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
-
-SharePoint veya OneDrive 'da ek yapılandırma gerekmez.
-
-Dosya (lar), klasör, Kullanıcı (lar), izinler:
+Dosya/klasörler, kullanıcılar, izinler etkinliğini kontrol etmek için denetim günlüğü aramalarını kullanın:
 
 * [Dosya ve sayfa etkinlikleri](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
 * [Klasör etkinlikleri](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
@@ -49,4 +31,6 @@ Dosya (lar), klasör, Kullanıcı (lar), izinler:
 * [Eşitleme etkinlikleri](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
 * [Site yönetimi etkinlikleri](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Bu olayları geri alma hakkında daha fazla bilgi için [denetim günlüğünde arama](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)konusuna bakın.
+Bu olayları alma hakkında daha fazla bilgi için bkz. [Denetim günlüğünde arama.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
+
+SPO'nun eski denetimi Birleşik Denetim Günlüğü'ne (UAL) geçirildi. Tüm SPO'nun eski denetim raporları UAL aracılığıyla destek sağlar ve eski denetim sinyalleri UAL'a geçirildi. Daha fazla bilgi için [bkz. Site koleksiyonu için denetim verilerini yapılandırma.](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)

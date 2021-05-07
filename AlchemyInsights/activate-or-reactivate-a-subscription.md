@@ -13,36 +13,36 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: f486846cb3fd509785a99c70f3dbbcf7dcbed242
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: d8cba59f38760edd9ebb693bd5d5e63576966ae3
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286798"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261694"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aboneliği etkinleştirme veya yeniden etkinleştirme
 
 **Aboneliği etkinleştirme**
 
-- Kullanıcılara hizmet erişimi vermek için onlara lisans atayın. Nasıl yapılacağını öğrenmek için [kullanıcılara lisans atama](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)konusuna bakın.
-- Size atanmış bir lisansınız varsa, [Hesabım sayfasından](https://portal.office.com/account/#installs)indirebileceğiniz uygulamaları bulabilirsiniz. Bu sayfada, size atanmış olan lisanslar temelinde indirebileceğiniz uygulamalar listesi sağlanır.
-- Office uygulamalarını indirdiyseniz, iş veya okul hesabınızla uygulamalarda oturum açmanız gerekebilir. Bunu herhangi bir Office uygulamasında (Word, Excel vb.), **Dosya**  >  **Office hesabını** tıklatarak (en alttaki) yapabilirsiniz. **Kullanıcı bilgileri**'Nin altında **Hesap değiştir**'i seçin. Daha fazla bilgi [için bkz.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
+- Kullanıcılara hizmet erişimi vermek için onlara lisans atayın. Nasıl olduğunu öğrenmek için [bkz. Kullanıcılara lisans atama](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Size atanmış bir lisansınız zaten varsa, hesabım sayfasından indirebilirsiniz [uygulamaları bulabilirsiniz.](https://portal.office.com/account/#installs) Bu sayfada, atanmış olan lisanslara göre indirmeniz için gerek kullanılabilen uygulamaların listesi yer almaktadır.
+- Office uygulamalarını Office, iş veya okul hesabınızla uygulamalarda oturum açmanız gerekiyor olabilir. Bunu herhangi bir Office uygulamasında (Word, Excel, vb.) Dosya Hesabı'Office   >   (altta) tıklayarak yapabilirsiniz. Kullanıcı **Bilgileri'nin** altında Hesap **Değiştir'i seçin.** Daha fazla bilgi için [bkz. Office yükleme.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
 
 **Aboneliği yeniden etkinleştirme**
 
-Aboneliğinizin süresi dolarsa, Microsoft tarafından devre dışı bırakılmıştır veya bir abonelik teriminin ortasında iptal ettiyseniz, bunu Yönetim merkezinde yeniden etkinleştirebilirsiniz.
+Aboneliğinizin süresi dolduğunda, Microsoft tarafından devre dışı bırakıldı ise veya abonelik süresinin ortasında aboneliğinizi iptal ettiyseniz yönetim merkezinde yeniden etkinleştirebilirsiniz.
   
-1. Yönetim **merkezinde,**  >  [Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
-2. **Ürünler** sekmesinde, yeniden etkinleştirmek istediğiniz aboneliği bulun.
-3. **Diğer eylemler** (üç nokta) ve ardından **Bu aboneliği yeniden etkinleştir**'i seçin.
+1. Yönetim merkezinde Ürünlerinizi Faturalandırma   >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
+2. Ürünler **sekmesinde,** yeniden etkinleştirmek istediğiniz aboneliği bulun.
+3. Diğer **eylemler (üç** nokta) seçeneğini, ardından Bu aboneliği **yeniden etkinleştir'i seçin.**
     > [!IMPORTANT]
-    > Bu aboneliği kullanılabilir eylem olarak **yeniden etkinleştir** 'i görmüyorsanız, aboneliğinizi yeniden etkinleştirmek için [desteğe çağrı](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) yapın.
-4. **Aboneliği yeniden etkinleştir** bölmesinde mevcut bir ödeme yöntemi seçin veya **ödeme yöntemi ekle**'yi seçin.
-5. **Yeniden etkinleştir**'i seçin.
+    > Kullanılabilir bir eylem olarak bu **aboneliği yeniden etkinleştir'i** görmüyorsanız, [aboneliğinizi yeniden etkinleştirmek](/microsoft-365/admin/contact-support-for-business-products) için Desteği arayın.
+4. Bu aboneliği **yeniden etkinleştir bölmesinde mevcut bir** ödeme yöntemini seçin veya Ödeme yöntemi ekle öğesini **seçin.**
+5. Yeniden **Etkinleştir'i seçin.**
 
 Daha fazla bilgi için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Ürün anahtarıyla yeni bir aboneliği etkinleştirme**
 
-1. Ürün anahtarınızla yeni bir Microsoft 365 aboneliğini etkinleştirmek için, [Office ürün anahtarınızı nereye gireceğiniz](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)bölümüne bakın.
-2. Microsoft 365 ürün anahtarınızı girip komut istemlerini izleyerek aboneliğinizi etkinleştirin. Etkinleştirme ile ilgili sorun yaşıyorsanız, [yaygın ürün anahtarı hatalarının ve çözümlerin](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)bu listesine bakın.
+1. Ürün anahtarınızla yeni Microsoft 365 bir abonelik etkinleştirmek için bkz. Ürün [anahtarınızı Office girme](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+2. Microsoft 365 ürün anahtarınızı girip komut istemlerini izleyerek aboneliğinizi etkinleştirin. Etkinleştirmeyle ilgili sorunlarız varsa, bu sık karşılaşılan ürün [anahtarı hataları ve çözümleri listesine bakın.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

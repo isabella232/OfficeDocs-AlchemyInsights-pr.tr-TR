@@ -1,5 +1,5 @@
 ---
-title: FastTrack ile rehberli Office 365 kurulum işlemi
+title: FastTrack Office 365 ile kılavuzlu kurulum işlemi
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6939"
-ms.openlocfilehash: 563d6c252740f577d9093febf2985f3cb65662e1
-ms.sourcegitcommit: c0b8e17c8696632e321e69b617aaff2958201e9b
+- "9419"
+ms.openlocfilehash: 4b8006959728192ba97fd1770f0caa71aaf7ca53
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194619"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233770"
 ---
-# <a name="guided-office-365-setup-process-with-fasttrack"></a>FastTrack ile rehberli Office 365 kurulum işlemi
+# <a name="guided-office-365-setup-process-with-fasttrack"></a>FastTrack Office 365 ile kılavuzlu kurulum işlemi
 
-Office 365 FastTrack yardımı için uygunsanız portal aracılığıyla yardım talep edebilirsiniz. Bir iş ortağından kendi kendine yardım veya rehberlik arıyorsanız, Office 365 kurulum sihirbazlarımız veya yetkin iş ortağımız bu süreçte size yardımcı olabilir.
+FastTrack yardımı için Office 365, portal aracılığıyla yardım talep edebilirsiniz. Bir iş ortağının kendi kendine yönlendirmeli yardım veya kılavuzluk Office 365, kurulum sihirbazlarımız veya yetkin iş ortağımız bu süreçte size yardımcı olabilir.
 
-1. FastTrack portalı aracılığıyla yardım almak için, [FastTrack Portalında](https://go.microsoft.com/fwlink/?linkid=2125443) oturum açın ve Microsoft 365 formuyla Yardım İsteği'ne ulaşmak için adımları izleyin.
+- FastTrack portalı üzerinden yardım almak için, [FastTrack Portalı'ta](https://go.microsoft.com/fwlink/?linkid=2125443) oturum açın ve Aşağıdaki adımları takip edin ve Destek için Microsoft 365 tamamlayın.
 
     > [!NOTE]
-    > Oturum a açma sorunlarınız varsa veya ek yardıma ihtiyacınız varsa, e-postayı [ftcrfa@microsoft.com.](mailto:ftcrfa@microsoft.com)
+    > Oturum a açma sorunlarınız varsa veya ek yardıma ihtiyacınız varsa, [ftcrfa@microsoft.com.](mailto:ftcrfa@microsoft.com)
 
-2. Office 365 için kendi kendine kullanım yardımı için, Kurulum [kılavuzuna bakın.](https://go.microsoft.com/fwlink/?linkid=2125827)
-3. Çözüm sağlayıcısı bulmak için çözüm [sağlayıcısını bulmaya bakıyorum.](https://go.microsoft.com/fwlink/?linkid=2125918)
+- Kendi kendine yönlendirmeli yardım için Office 365 [kılavuzuna bakın.](https://go.microsoft.com/fwlink/?linkid=2125827)
+- Çözüm sağlayıcısı bulmak için [bkz. Çözüm sağlayıcısını arıyorum](https://go.microsoft.com/fwlink/?linkid=2125918).
