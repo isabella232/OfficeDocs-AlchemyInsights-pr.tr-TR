@@ -12,23 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006484"
 - "11070"
-ms.openlocfilehash: 787f0e713cc95b590bc494868d5098a25131ac56
-ms.sourcegitcommit: d33ab8c73d8af51da782094fb8f8abf7626f4df3
-ms.translationtype: MT
+ms.openlocfilehash: 5329a1cadf5ca38e479040fe1f400129e51e783f
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52125521"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261576"
 ---
-# <a name="issues-with-sharepoint-on-windows-7-machines"></a><span data-ttu-id="db8d8-102">7 makinede SharePoint Windows sorunları</span><span class="sxs-lookup"><span data-stu-id="db8d8-102">Issues with SharePoint on Windows 7 machines</span></span>
+# <a name="issues-with-sharepoint-on-windows-7-machines"></a><span data-ttu-id="5434d-102">7 makinede SharePoint Windows sorunları</span><span class="sxs-lookup"><span data-stu-id="5434d-102">Issues with SharePoint on Windows 7 machines</span></span>
 
-<span data-ttu-id="db8d8-103">SharePoint veya OneDrive üzerinde çalışırken Windows 7 makinede hata alırsanız, bunlar TLS 1.0/1.1'in kullanımdan kullanım dışı olmasıyla ilgili olabilir.</span><span class="sxs-lookup"><span data-stu-id="db8d8-103">If you receive errors on Windows 7 machines while working on SharePoint or OneDrive, they might be related to the deprecation of TLS 1.0/1.1.</span></span> <span data-ttu-id="db8d8-104">Daha fazla bilgi için bkz.:</span><span class="sxs-lookup"><span data-stu-id="db8d8-104">For more information, see:</span></span>
+<span data-ttu-id="5434d-103">SharePoint veya OneDrive üzerinde çalışırken Windows 7 makinede hata alırsanız, bunlar TLS 1.0/1.1'in kullanımdan kullanım dışı olmasıyla ilgili olabilir.</span><span class="sxs-lookup"><span data-stu-id="5434d-103">If you receive errors on Windows 7 machines while working on SharePoint or OneDrive, they might be related to the deprecation of TLS 1.0/1.1.</span></span> <span data-ttu-id="5434d-104">Daha fazla bilgi için bkz.:</span><span class="sxs-lookup"><span data-stu-id="5434d-104">For more information, see:</span></span>
 
-- [<span data-ttu-id="db8d8-105">Office 365 ve Office 365 GCC'de TLS 1.2'ye hazırlanma</span><span class="sxs-lookup"><span data-stu-id="db8d8-105">Preparing for TLS 1.2 in Office 365 and Office 365 GCC</span></span>](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
+[<span data-ttu-id="5434d-105">SharePoint veya 7 üzerinden OneDrive bağlantı Windows 8 kimlik doğrulama hataları</span><span class="sxs-lookup"><span data-stu-id="5434d-105">Authentication errors when connecting to SharePoint or OneDrive from Windows 8 or 7</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-windows7)
 
-- <span data-ttu-id="db8d8-106">Windows 7 SP1/Windows 8 istemcilerinin TLS1.2'yi etkinleştirilmiş olması gerekir.</span><span class="sxs-lookup"><span data-stu-id="db8d8-106">Windows 7 SP1/Windows 8 clients must have TLS1.2 enabled.</span></span> <span data-ttu-id="db8d8-107">Daha fazla bilgi için [bkz. İstemcinin TLS 1.2](https://review.docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support) desteğine sahip olmayan kimlik doğrulama hataları oluşuyor</span><span class="sxs-lookup"><span data-stu-id="db8d8-107">For more information, see [Authentication errors occur when client doesn't have TLS 1.2 support](https://review.docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)</span></span>
-
-- <span data-ttu-id="db8d8-108">KB3140245 yükleyin ve kayıt defteri değerini oluşturun.</span><span class="sxs-lookup"><span data-stu-id="db8d8-108">Install KB3140245 and create the registry value.</span></span> <span data-ttu-id="db8d8-109">Daha fazla bilgi için bkz. Windows'da WinHTTP'da varsayılan güvenli protokol olarak [TLS 1.1 ve TLS 1.2'yi](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392) etkinleştirmek için Windows</span><span class="sxs-lookup"><span data-stu-id="db8d8-109">For more information, see [Update to enable TLS 1.1 and TLS 1.2 as default secure protocols in WinHTTP in Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)</span></span>
-
-- <span data-ttu-id="db8d8-110">Windows 7 SP1/Windows 8 istemcilerinin en son TLS şifreleme paketlerinin yüklü olduğundan emin olması gerekir.</span><span class="sxs-lookup"><span data-stu-id="db8d8-110">Windows 7 SP1/Windows 8 clients must ensure latest TLS cipher suites are installed.</span></span> <span data-ttu-id="db8d8-111">Daha fazla bilgi için [bkz. Microsoft Güvenlik Danışmanlığı 3042058.](https://docs.microsoft.com/security-updates/SecurityAdvisories/2015/3042058)</span><span class="sxs-lookup"><span data-stu-id="db8d8-111">For more information, see [Microsoft Security Advisory 3042058](https://docs.microsoft.com/security-updates/SecurityAdvisories/2015/3042058).</span></span> 
 
 
