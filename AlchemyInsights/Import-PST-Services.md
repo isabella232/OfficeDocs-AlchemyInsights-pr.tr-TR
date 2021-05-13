@@ -14,27 +14,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664082"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470292"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 Içeri aktarma hizmeti
+# <a name="microsoft-365-import-service"></a>Microsoft 365 İçeri aktarma hizmeti
 
-Microsoft 365 Içeri aktarma hizmeti, birden çok PST dosyasını Exchange Online posta kutularına toplu olarak almanıza olanak tanır.
+Arama Microsoft 365 Hizmeti, posta kutularına birden çok PST dosyasını toplu olarak içeri Exchange Online sağlar.
 
-Içeri aktarma hizmetine erişmek ve içeri aktarma işlemini başlatmak için:
+İçeri Aktarma hizmetine erişmek ve içeri aktarma işlemini başlatmak için:
 
-1. [Güvenlik & Uyumluluk Merkezi](https://protection.office.com) 'ne gidin ve kuruluşunuzdaki yönetici hesabının kimlik bilgilerini kullanarak oturum açın.
+1. Güvenlik ve [Uyumluluk & gidin](https://protection.office.com) ve kuruluşta yönetici hesabının kimlik bilgilerini kullanarak oturum açın.
 
-2. **Güvenlik & Uyumluluk Merkezi**'nin sol bölmesinde, **> veri**yönetimi
+2. Güvenlik ve Uyumluluk Merkezi'nin **sol &,** Bilgi yönetimi ve İçeri **Aktarma > tıklayın.**
 
-3. **Içeri aktar** sayfasında, **yeni içeri aktarma işi**'ne tıklayın.
+3. İçeri Aktar **sayfasında,** Yeni içeri aktarma **işi 'ne tıklayın.**
 
-4. Sihirbazdaki adımları tamamlamak için, lütfen bu [adım adım yönergeleri](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)izleyin.
+4. Sihirbazda adımları tamamlamak için bu [adım adım yönergeleri izleyin.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)
 
-**Önemli**: güvenlik & Uyumluluk Merkezi 'Ndeki **içeri aktarma** sayfasına erişmek için  [uygun izinler](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)atanmıştır.
+**Önemli:** Güvenlik ve **Uyumluluk** Merkezi'nde & sayfasına erişmek için, size [uygun izinler atanmıştır.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
 
-Yalnızca bir PST posta kutunuza aktarmak istiyorsanız, [Bu makaleye](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)bakın.
+Yalnızca posta kutunuza bir PST içeri aktarma işlemi yapmak için bu [makaleye bakın.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
