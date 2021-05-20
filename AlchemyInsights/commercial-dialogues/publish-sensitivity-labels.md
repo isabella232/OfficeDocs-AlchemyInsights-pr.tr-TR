@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 4a5fd418e59e9aa56522e9cef17bb72e6c8b8bd8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0fb43292dfa446c829dd41c8513c05285fbd79e0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748257"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539736"
 ---
 # <a name="publish-sensitivity-labels"></a>Duyarlılık etiketlerini yayımlama
 
-Duyarlılık etiketlerini yayımlamak için aşağıdaki adımları uygulayın:
+Duyarlılık etiketlerini yayımlamak için aşağıdaki adımları izleyin:
 
-1. Office **365 Güvenlik & Uyumluluk Merkezi'> Duyarlılık > seçin.**
-2. Duyarlılık **etiketleri sayfasında,** Etiket ilkeleri **sekmesine** tıklayın.
-3. Etiket **yayımla'ya tıklayın.**
-4. Yayımlayacak **duyarlılık etiketlerini seçin'e tıklayın.** 
-5. Uygulamalarda ve hizmetlerde kullanılabilir hale almak istediğiniz etiketleri seçin ve Ekle'ye **tıklayın.**
+1. Sınıflandırma **Office 365 Duyarlılık & için Güvenlik > Ve >'yi seçin.**
+2. Duyarlılık **etiketleri sayfasında** Etiket ilkeleri **sekmesine** tıklayın.
+3. Etiketleri **yayımla 'ya tıklayın.**
+4. Yayımlayacak **duyarlılık etiketlerini seç 'e tıklayın.** 
+5. Uygulamalar ve hizmetlerde kullanılabilir hale eklemek istediğiniz etiketleri seçin ve Ekle'ye **tıklayın.**
 > [!IMPORTANT]
-> Bir alt etiket seçersiniz, bunun üst etiketini de seçmeniz gerekir.
-6. Seçili etiketleri gözden geçirme. Herhangi bir değişiklik yapmak için Düzenle'ye **tıklayın;** aksi takdirde, Sonraki'ne **tıklayın.**
+> Bir alt etiket seçerek etiketin üst etiketini de seçmeye devam etmek gerekir.
+6. Seçili etiketleri gözden geçirme. Değişiklik yapmak için Düzenle **;** aksi takdirde, Sonraki **'ne tıklayın.**
 7. İlke ayarlarını yapılandırmak için istemleri izleyin.
-8. Farklı kullanıcılar veya konumlar için farklı ilke ayarlarına ihtiyacınız varsa bu adımları yineler. Örneğin, bir grup kullanıcı için ek etiketler veya kullanıcıların alt kümesi için farklı bir varsayılan etiket istiyor olabilir.
-9. Bir kullanıcı veya konum için çakışmaya neden olacak birden fazla etiket ilkesi oluşturabilirseniz, ilke siparişlerini gözden geçirebilirsiniz ve gerekirse bunları yukarı veya aşağı hareket ettirin. Etiket ilkesi sıralamalarını değiştirmek için Diğer eylemler için **...** seçeneğini ve ardından Yukarı taşı veya Aşağı  **taşı'ya seçin.**
+8. Farklı kullanıcılar veya konumlar için farklı ilke ayarlarına ihtiyacınız varsa bu adımları yineler. Örneğin, bir kullanıcı grubu için ek etiketler veya kullanıcı alt kümesi için farklı bir varsayılan etiket istiyor olabilir.
+9. Kullanıcı veya konumla çakışmaya neden olacak birden çok etiket ilkesi oluşturmanız gerekiyorsa, ilke siparişlerini gözden geçirin ve gerekirse bunları yukarı veya aşağı sürükleyin. Etiket ilkesi sıralamalarını değiştirmek için, üç noktayı (diğer eylemler) ve sonra da Yukarı taşı veya Aşağı **taşı'ya seçin.** 
 
-Sihirbazı tamamlayarak etiket ilkesi otomatik olarak yayımlar.
+Sihirbazın tamamlanması etiket İlkesini otomatik olarak yayımlar.
 
