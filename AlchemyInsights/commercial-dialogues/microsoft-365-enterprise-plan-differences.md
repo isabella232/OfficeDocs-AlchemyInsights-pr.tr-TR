@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748517"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539772"
 ---
 # <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Kurumsal plan farklılıkları
 
-Microsoft 365 Kurumsal E5, Microsoft 365 Kurumsal E3'in tüm özelliklerinin yanı sıra aşağıdakiler gibi gelişmiş güvenlik önlemleri içerir:
+Microsoft 365 Kurumsal E5, E3'te Microsoft 365 Kurumsal özelliklerine ek olarak aşağıdakiler gibi gelişmiş güvenlik önlemleri içerir:
 
-- Gelişmiş Tehdit Koruması (ATP)
+- Tehdit koruması
 - Gelişmiş Veri Yönetimi
 - Müşteri Kasası
-- Microsoft 365 Bulut Uygulaması Güvenliği
+- Microsoft 365 Bulut Uygulamaları Güvenliği
 - Gelişmiş eKeşif
 - Hak Yönetimi Hizmetleri
 - Azure Anahtar Kasası
 
-Microsoft 365 Kurumsal E5, aşağıdakiler gibi güçlü çözümleme ve ses özellikleriyle de birlikte gelir:
+Microsoft 365 Kurumsal E5, şu tür güçlü analizler ve ses özellikleriyle birlikte gelir:
 
 - Canlı Panolar
-- Power BI ile raporlar
+- Raporlar Power BI
 - Modern Ses
 - Sesli Konferans
 - Çevrimiçi Toplantılar
 
-Microsoft 365 Kurumsal E5 hakkında daha fazla bilgi edinmek veya deneme aboneliğine kaydolmak için bkz. [Microsoft 365 aboneliğini](https://go.microsoft.com/fwlink/?linkid=2099673)deneme veya satın alma.
+E5 aboneliğinizi deneme Microsoft 365 Kurumsal hakkında daha fazla bilgi edinmek veya bir deneme aboneliğine kaydolmak için bkz. [Microsoft 365 satın alma.](https://go.microsoft.com/fwlink/?linkid=2099673)
 
-Kurumsal planlarda özellikleri karşılaştırmak için Bkz. [Kurumsal planlarını karşılaştırma.](https://go.microsoft.com/fwlink/?linkid=2097200)
+Bu planlar arasında Enterprise karşılaştırmak için bkz. [Enterprise karşılaştırma](https://go.microsoft.com/fwlink/?linkid=2097200).
 
-Görüşleriniz bizim için çok önemli, lütfen görüntülenen soruya Evet/Hayır'ı seçin ve sonra da deneyiminizi yorumlayın.
+Görüşleriniz için teşekkür ederiz, bu nedenle lütfen görüntülenen soruda Evet/Hayır'ı seçin ve ardından deneyiminizi yorum edin.

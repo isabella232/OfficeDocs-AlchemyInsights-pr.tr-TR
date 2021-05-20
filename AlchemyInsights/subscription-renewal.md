@@ -14,21 +14,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: f0b1244204b082e8c8e2fc7581af600526b40ec4
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: bb9750e7a2357254485c938da447b8f3579a77f5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286870"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539988"
 ---
-# <a name="subscription-recurring-billing"></a>Abonelik yinelenen Faturalaması
+# <a name="subscription-recurring-billing"></a>Abonelik yinelenen ödeme
 
-Aylık veya yıllık aboneliğinizin ne zaman faturalanıp faturalanmadığını öğrenmek istiyorsanız ( **Yinelenen faturalandırma** açıksa) veya süresi dolduğunda ( **Yinelenen faturalandırma** kapalıysa), aşağıdaki adımları kullanın:
+Aylık veya yıllık aboneliğinizin ne zaman faturalandırıldını  (Yinelenen faturalama açıksa) veya süresi  dolduğunda (Yinelenen faturalama kapalı ise) bilgi almak için aşağıdaki adımları kullanın:
   
-1. Yönetim **merkezinde,** \> [Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
-2. **Ürünler** sekmesinde, hakkında daha fazla bilgi edinmek istediğiniz aboneliği bulun. **Abonelik durumu** sütununda yenileme veya son kullanma tarihi gösterilir.
-3. Değişiklik yapmak için **diğer eylemler** 'i (üç nokta) ve ardından **yinelenen faturalamayı Düzenle**'yi seçin.
-4. **Yinelenen faturalamayı Düzenle** bölmesinde **Açık**, **Açık, Yenile**veya **Kapat**'ı seçin.
+1. Yönetim merkezinde Ürünlerinizi Faturalandırma  \> [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
+2. Ürünler **sekmesinde,** daha fazla bilgi almak istediğiniz aboneliği bulun. Abonelik **durumu sütununda** yenileme veya son kullanma tarihi görüntülenir.
+3. Değişiklik yapmak için üç noktayı (diğer eylemler) ve sonra Yinelenen faturalamayı **düzenle'yi seçin.**
+4. Yinelenen **faturalamayı düzenle bölmesinde,** Aç **, bir** kez **yenile veya Kapalı'ya** **tıklayın.**
 5. **Kaydet**'i seçin.
 
-Daha fazla bilgi edinmek için bkz. [Yinelenen fatura özelliğini kapatma veya açma](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Daha fazla bilgi edinmek için bkz. [Yinelenen fatura özelliğini kapatma veya açma](/microsoft-365/commerce/subscriptions/renew-your-subscription).

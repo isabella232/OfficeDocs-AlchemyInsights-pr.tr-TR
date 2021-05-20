@@ -1,5 +1,5 @@
 ---
-title: ATP hakkında bilgi
+title: Office 365 için Microsoft Defender hakkında bilgi Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403583"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539808"
 ---
-# <a name="learn-about-atp"></a>ATP hakkında bilgi
+# <a name="learn-about-microsoft-defender-for-office-365"></a>Office 365 için Microsoft Defender hakkında bilgi Office 365
 
-İşte Office 365 Gelişmiş Tehdit Koruması (ATP) hakkında bazı bilgiler:
+İşte windows için Microsoft Defender hakkında bazı Office 365:
 
-**ATP nedir?**
+**Microsoft Defender for Office 365?**
 
-ATP, kuruluşları bilinmeyen kötü amaçlı yazılımlara ve virüslere karşı güçlü sıfır gün koruması sağlayarak korumaya yardımcı olan bulut tabanlı bir e-posta filtreleme hizmetidir. Kuruluşların gerçek zamanlı olarak zararlı bağlantılardan korunmasına yönelik özellikler içerir.
+Microsoft Defender for Office 365, kuruluşları bilinmeyen kötü amaçlı yazılımlara ve virüslere karşı güçlü sıfır günlük koruma sağlayarak korumaya yardımcı olan bulut tabanlı bir e-posta filtreleme hizmetidir. Kuruluşları gerçek zamanlı olarak zararlı bağlantılardan korumaya yönelik özellikler içerir.
 
-**ATP'yi nasıl etkinleştirim?**
+**Microsoft Defender For Office 365'i nasıl etkinleştirim?**
 
-Güvenli Ekler, Güvenli Bağlantılar ve kimlik avı önleme ATP özelliğinin bir parçasıtır. Kurumsal E5, Eğitim A5 ve Microsoft 365 İş yerleşik ATP özellikleri içerir. Diğer tüm planlar için eklenti ATP aboneliği gerekir. Office 365 ATP tarafından korunmaları için uygun lisansları kullanıcılarınıza atamanız gerekir. Bu özel özellikle erişmek için genel yönetici veya güvenlik yöneticisi izinlerine sahip olmak gerekir. Lisansları son kullanıcılarınıza toplu olarak uygulama hakkında daha fazla bilgi edinmek için bkz. İşletmeler için [Office 365'te](https://go.microsoft.com/fwlink/?linkid=2093435)kullanıcılara lisans atama.
+Kasa Ekler, Kasa Bağlantıları ve kimlik avı önleme özellikleri, Kimlik avı için Microsoft Defender'ın bir Office 365 vardır. Enterprise E5, Eğitim A5 ve Microsoft 365 İş özellikleri için yerleşik Microsoft Defender Office 365 içerir. Diğer tüm planlar, bir abonelik için Microsoft Defender Office 365 gerektirir. Microsoft Defender tarafından korunması gereken uygun lisansları kullanıcılara atamanız ve bu lisansların Office 365. Bu özel özellikle erişmek için genel yönetici veya güvenlik yöneticisi izinlerine sahip olmak gerekir. Son kullanıcılarınıza toplu lisans uygulama hakkında daha fazla bilgi edinmek için bkz. [Office 365 İş'te kullanıcılara lisans atama](https://go.microsoft.com/fwlink/?linkid=2093435).
 
-**ATP'yi nasıl yönetebilirim veya bu konuda daha fazla bilgi nasıl öğrenebilirim?**
+**Bu konuda daha fazla bilgi edinmek Office 365 Microsoft Defender'ı nasıl yönetirim?**
 
 a. [Kurulum'a gidin.](https://go.microsoft.com/fwlink/p/?linkid=2075721)
-b. Oturum **açma ve güvenlik altında, gelişmiş** tehditlere karşı **Korumayı** artır seçeneğini bulun ve Ardından Görüntüle'yi [seçin.](https://go.microsoft.com/fwlink/?linkid=2109302)
+b. Oturum **açma ve güvenlik altında, gelişmiş** **tehditlere karşı korumayı artır seçeneğini** bulun ve ardından Görüntüle öğesini [seçin.](https://go.microsoft.com/fwlink/?linkid=2109302)

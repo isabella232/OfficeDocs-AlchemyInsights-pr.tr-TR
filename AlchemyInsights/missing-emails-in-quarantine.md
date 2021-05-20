@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 43f9a1f03084bf9adab706b3f77eff1d1db888ca
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 563f76f624f428a46894268b478cf05eb757b497
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831754"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539844"
 ---
 # <a name="missing-emails-in-quarantine"></a>Karantinada e-postalar eksik"
 
-Yöneticiler bu [iletileri görüntüde veya sürümde ilebilir veya silebilir.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
+Yöneticiler bu [iletileri görüntüde veya sürümde ilebilir veya silebilir.](/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
 Güvenlik ve Uyumluluk & açmak için, [https://protection.office.com](https://protection.office.com/) gidin. Karantina sayfasını doğrudan açmak için, [https://protection.office.com/quarantine](https://protection.office.com/quarantine) gidin.  
 
 Aşağıdaki değerlere göre arama yapabilirsiniz:  
 
-- **İleti Kimliği:** İletinin genel benzersiz tanımlayıcısıdır. Listeden bir ileti seçersiniz,  **görüntülenen**  Ayrıntılar açılır bölmesinde  **İleti**  Kimliği değeri gösterilir. Yöneticiler, iletileri ve [karşılık gelen](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) İleti Kimliği değerlerini bulmak için ileti izleme kullanabilir.
+- **İleti Kimliği:** İletinin genel benzersiz tanımlayıcısıdır. Listeden bir ileti seçersiniz,  **görüntülenen**  Ayrıntılar açılır bölmesinde  **İleti**  Kimliği değeri gösterilir. Yöneticiler, iletileri ve [karşılık gelen](/microsoft-365/security/office-365-security/message-trace-scc) İleti Kimliği değerlerini bulmak için ileti izleme kullanabilir.
 - **Gönderen e-posta** adresi: Tek bir gönderenin e-posta adresi.
 - **Alıcı e-posta** adresi: Tek bir alıcının e-posta adresi.
 - **Konu:** İletinin konusunun tamamını kullanın. Arama büyük/harfe duyarlı değildir.
 
-Arama ölçütlerini girdikten sonra, sonuçları filtrelemek ![ için Yenile ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide)  düğmesini Yenile'yi tıklatın.  
+Arama ölçütlerini girdikten sonra, sonuçları filtrelemek ![ için Yenile ](/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide)  düğmesini Yenile'yi tıklatın.
 
 Karantinada iletileri ve dosyaları görüntülemek ve yönetmek için kullanabileceğiniz cmdlet'ler:
-- [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
-- [Export-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
-- [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
-- [Preview-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): Bu cmdlet'in yalnızca iletilere yönelik olduğunu unutmayın; SharePoint Online, OneDrive İş veya Teams için ATP'den gelen kötü amaçlı yazılım dosyaları için değildir.
-- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)
+- [Delete-QuarantineMessage](/powershell/module/exchange/delete-quarantinemessage)
+- [Export-QuarantineMessage](/powershell/module/exchange/export-quarantinemessage)
+- [Get-QuarantineMessage](/powershell/module/exchange/get-quarantinemessage)
+- [Preview-QuarantineMessage](/powershell/module/exchange/preview-quarantinemessage): Bu cmdlet'in yalnızca iletilere yönelik olduğunu, SharePoint Online, OneDrive İş veya Office 365 için Microsoft Defender'dan gelen kötü amaçlı yazılım dosyalarına yönelik Teams.
+- [Release-QuarantineMessage](/powershell/module/exchange/release-quarantinemessage)

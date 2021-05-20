@@ -1,5 +1,5 @@
 ---
-title: 975, Microsoft 'a bir yanlış önemsiz posta göndermek ister misiniz?
+title: 975 Hatalı pozitif bir istenmeyen postayı Microsoft'a bildirmeniz mi iyi olur?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 8225382e88184db1e2a8b76201946a4647a0f4d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f523ac9230e5fdc8aff35c90a9d0f8aadd35e66a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692351"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540420"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Microsoft 'a bir yanlış önemsiz posta göndermek ister misiniz?
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Hatalı pozitif bir istenmeyen postayı Microsoft'a bildirmeniz mi iyi olur?
 
-Yönetici olarak, sızdırma veya istenmeyen posta iletisinin neden teslim edildiğini belirlemenin en iyi yolu, örneğin Microsoft 'a [gönderilenler Gezgini](https://protection.office.com/reportsubmission) Bunu oluşturmak için, kullanıcılarınızın [rapor ileti eklentisi](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)aracılığıyla doğrudan Microsoft 'a raporlayabilsin.
+Yönetici olarak, kimlik avı veya istenmeyen posta iletisi teslim nedenini belirlemenin en iyi yolu, örneği Gönderiler Gezgini'nde [Microsoft'a göndermektir.](https://protection.office.com/reportsubmission) Bunu kolaylaştırmak için, kullanıcılarınızı Rapor İletisi eklentisinde doğrudan Microsoft'a [bildirmelerine izin veebilirsiniz.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
-[Microsoft 365 istenmeyen posta filtrelerini atlamaya](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)karar verirseniz dikkatli olun.
+İstenmeyen posta filtrelerini [atlayarak geçiş Microsoft 365 tavsiye ediyoruz.](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-**Biliyor muydunuz?**: artık doğrudan [Ileti izleme](https://protection.office.com/messagetrace) ve E5/ATP planından örnek gönderebilirsiniz [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
+**Biliyor mmusunuz?**: Artık doğrudan [İleti](https://protection.office.com/messagetrace) izleme ve Office 365 için E5/Microsoft Defender'dan örnekler gönderebilirsiniz Plan 2 müşterileri Threat Explorer'dan örnekler [gönderebilirsiniz.](/microsoft-365/security/office-365-security/threat-explorer)
