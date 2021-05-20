@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286978"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542805"
 ---
 # <a name="subscription-status"></a>Abonelik durumu
 
-Abonelik durumu, son kullanma tarihi ve lisans sayısı, Microsoft 365 yönetim merkezinin **Ürünler** sayfanızda bulunabilir.
+Abonelik durumu, son kullanma tarihi ve lisans sayısı yönetim merkezinin **Ürünler** Microsoft 365 bulunabilir.
 
-1. Yönetim **merkezinde,**  >  [Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
-2. **Ürünler** sekmesinde, varsayılan olarak tüm abonelikler 'i ve bunların durumunu (etkin, süresi dolmuş, devre dışı veya silinmiş) görürsünüz. Tüm aboneliklerin alt kümesini görmek için filtre simgesini seçin ve ardından görmek istediğiniz **abonelik durumunu** seçin.
-3. Süresi dolmuş veya devre dışı bırakılmış bir aboneliği yeniden etkinleştirmek için **diğer eylemler** 'i (üç nokta) ve ardından **Bu aboneliği yeniden etkinleştir**'i seçin
-4. **Ürünler** sayfanızda aşağıdaki bilgiler de görüntülenir:
-    - Kullanıcılara atanan lisans sayısı, **atanan lisanslar** sütununda görüntülenir.
-    - Aboneliğin içerdiği toplam lisans sayısı, **satın alınan miktar** sütununda görüntülenir.
-    - **Abonelik durumu** sütununda sona erme veya yenileme tarihi.
-    - Ödeme için kullanılan ödeme yöntemi **, ödeme tarihi sütununda görüntülenir** .
-    - Her abonelikle ilişkilendirilmiş faturalandırma hesabı **faturalandırma hesabı** sütununda görüntülenir.
-5. Sütun eklemek veya kaldırmak için **sütun Seç**'i seçin.
+1. Yönetim merkezinde Ürünlerinizi Faturalandırma   >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
+2. Ürünler **sekmesinde,** varsayılan olarak tüm abonelikleri ve bunların durumunu (Etkin, Süresi Doldu, Devre Dışı Bırakıldı veya Silindi) görebilirsiniz. Tüm aboneliklerin alt kümesini görmek için filtre simgesini seçin ve sonra da **görmek istediğiniz** Abonelik durumunu seçin.
+3. Süresi dolan veya devre dışı bırakılmış bir aboneliği yeniden etkinleştirmek için üç noktayı (diğer eylemler) ve ardından Bu aboneliği **yeniden etkinleştir'i seçin.**
+4. Ürünleriniz **sayfasında** aşağıdaki bilgiler de görüntülenir:
+    - Kullanıcılara atanan lisans sayısı Atanan **lisanslar sütununda** görüntülenir.
+    - Satın alınan miktar sütununda, aboneliğe dahil edilen toplam **lisans sayısı gösterilir.**
+    - Abonelik durumu sütunundaki süre sonu **veya yenileme** tarihi.
+    - Her abonelik için ödeme yapmak için kullanılan ödeme yöntemi Ödeme yöntemi **sütununda** görüntülenir.
+    - Her abonelikle ilişkili faturalandırma hesabı, Fatura **hesabı sütununda** görüntülenir.
+5. Sütunları eklemek veya kaldırmak için Sütunları seç **öğesini seçin.**

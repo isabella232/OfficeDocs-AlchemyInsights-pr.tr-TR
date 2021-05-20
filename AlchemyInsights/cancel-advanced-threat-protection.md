@@ -1,5 +1,5 @@
 ---
-title: Gelişmiş tehdit korumasını iptal etme
+title: Gelişmiş Tehdit Koruması'nın iptal edilmesi
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 0919862f1954058d2d891abb35d91a19ee948933
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416291"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543525"
 ---
-# <a name="cancel-advanced-threat-protection"></a>Gelişmiş tehdit korumasını iptal etme
+# <a name="cancel-advanced-threat-protection"></a>Gelişmiş Tehdit Koruması'nın iptal edilmesi
 
-Yöneticiler, Microsoft 365 Yönetim merkezinde kuruluşlarının Gelişmiş tehdit koruması aboneliğini iptal edebilir.
+Yöneticiler, yönetim merkezinde kendi kuruluşları için Gelişmiş Tehdit Koruması Microsoft 365 iptal edebilir.
 
-1. **Billing**  >  [Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
-2. **Ürünler** sekmesinde, iptal etmek Istediğiniz Gelişmiş tehdit koruması planını bulun. **Diğer eylemler** 'i (üç nokta) ve ardından **aboneliği iptal et**'i seçin.
-3. **Aboneliği Iptal et** bölmesinde iptal ettiğiniz bir neden seçin. İsterseniz, geri bildirimde bulunun.
+1. Ürünlerinizi **Faturalandırma**  >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
+2. Ürünler **sekmesinde,** iptal etmek istediğiniz Gelişmiş Tehdit Koruması planını bulun. Üç noktayı (diğer eylemler) ve ardından Aboneliği iptal **et'i seçin.**
+3. Aboneliği **iptal et** bölmesinde iptal etme nedenini seçin. İsteğe bağlı olarak, herhangi bir geri bildirim gönderin.
 4. **Kaydet**'i seçin.
 
-Geri **ödeme:** Bir sonraki faturalama döngüsündeki eşit dağıtılmış kontör size iade edilecektir.
+**Para iadesi:** Prorated krediler bir sonraki fatura döngüsünde size iade edilir.
 
-Daha fazla bilgi edinmek için [aboneliğinizi iptal](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)edin.
+Daha fazla bilgi edinmek için bkz. [Aboneliğinizi iptal etme.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

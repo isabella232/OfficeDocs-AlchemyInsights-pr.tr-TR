@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: d90645758100e3ff29d77dd09848b36f33c3f526
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233410"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543669"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Duyarlılık etiketi oluşturma
 
@@ -30,8 +30,8 @@ ms.locfileid: "52233410"
 
     Otomatik etiketleme hakkında daha fazla bilgi edinmek için [bkz. otomatik olarak içeriğe duyarlılık etiketi uygulama.](https://go.microsoft.com/fwlink/?linkid=2105837)
 
-1. Daha fazla etiket oluşturmak için bu adımları yinele. Öte yandan, bir alt etiket oluşturmak istemeden önce üst etiketi seçin, Diğer eylemler için **...** seçeneğini ve ardından Alt etiket ekle **öğesini seçin.**
+1. Daha fazla etiket oluşturmak için bu adımları yinele. Öte yandan, bir alt etiket oluşturmak için önce üst etiketi seçin, üç noktayı (diğer eylemler) ve ardından Alt etiket **ekle'yi seçin.**
 
 1. Size gereken tüm etiketleri oluşturduktan sonra, bu etiketlerin siparişlerini gözden geçirin ve gerekirse, bunları yukarı veya aşağı taşıma. 
     
-    Etiketin sıralamalarını değiştirmek için Diğer eylemler için **...** **seçeneğini ve** ardından Yukarı taşı veya Aşağı **taşı'ya seçin.** 
+    Etiketin sıralamalarını değiştirmek için, üç noktayı (diğer eylemler) ve sonra da Yukarı taşı veya Aşağı **taşı'ya seçin.** 

@@ -1,5 +1,5 @@
 ---
-title: Teams Outlook eklenti
+title: Teams Outlook eklentiyi paylaşma (Teams'te Paylaş, Şimdi Toplantı Toplantı, Teams toplantı Teams nıza katılma)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835039"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542769"
 ---
-# <a name="teams-outlook-add-in"></a>Teams Outlook eklenti
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook ekleme (Teams'da paylaş, Şimdi toplantı, Yeni Teams toplantısı, Teams katılma)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Eksik Teams Outlook eklentisinde sorun gidermek için
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Eksik hata Teams Outlook gidermek için
 
-1. Yönetici Portalında Hizmet Tanılama'yı çalıştırın. 
-2. Hizmet Tanılama, sorun olmadığını gösteriyorsa, [Microsoft Destek](https://aka.ms/SaRA-TeamsAddInScenario)ve Kurtarma Yardımcısı Teams Outlook Eklenti Senaryosu'nu indirip çalıştırarak etkilenen kullanıcı makinelerinden istemci sorunlarını tanılar  >  **ve düzeltin.**
+1. Kullanıcının en son eklentiyi etkinleştirmek için doğru ilkelere sahip olduğunu doğrulayan "Outlook eksik" tanılamasını Teams Outlook çalıştırın. Tanılamaya erişmek için, **arama kutusuna Diag: Teams Eklentileri Eksik Outlook** yazın.
 
-Eksik bir Teams Outlook eklentisini el ile gidermek için, Teams eklentinizin listede görünmesine neden olacak olası faktörlerin listesini gözden geçirebilirsiniz. Daha fazla bilgi için bkz. Windows için [Outlook'ta Teams Toplantısı eklentisinde göster yok.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
+1. Hizmet Tanılama aracı sorun olmadığını gösteriyorsa, [Microsoft](https://aka.ms/SaRA-TeamsAddInScenario)Makine Hizmetleri ve Eklenti Senaryosu'Destek ve Kurtarma Yardımcısı çalıştırarak etkilenen kullanıcı makinelerini tanı Teams Outlook  >  **ve düzeltin.**
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Başka biri adına Teams toplantısı zamanlama sorunlarını gidermek için (Temsilci)
+Eksik bir eklentide Teams Outlook gidermek için, eklentinizin listede Teams neden olacak olası faktörlerin listesini gözden geçirebilirsiniz. Daha fazla bilgi Teams için bkz. Outlook [için Windows eklentisinde göster yok.](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
-Başka bir kişinin adına Teams toplantısı zamanlaması için bkz. [Microsoft Teams ve Exchange Server etkileşim sorunlarını giderme.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Başka biri adına toplantı Teams sorunlarını gidermek için (Temsilci)
+
+Başka birinin adına Teams toplantı zamanlaması için bkz. Etkileşim sorunlarını [Microsoft Teams Exchange Server giderme](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).

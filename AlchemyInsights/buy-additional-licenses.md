@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "530"
 - "1400007"
-ms.openlocfilehash: 7994f7bb94720b1929790f587a9506c5e3dea469
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 2df9278e13ca497c7ab71bb458c672031313759f
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232315"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543561"
 ---
 # <a name="buy-additional-licenses"></a>Ek lisans satın alma
 
-**Bunun nasıl olduğunu** gösteren videoyu izleyin: [Lisans satın alma](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+**Bunun nasıl yapl** olduğunu gösteren videoyu izleyin: [Lisans satın alma](https://go.microsoft.com/fwlink/p/?linkid=2154857)
 
-1. Yönetim merkezinde Ürünlerinizi Faturala   >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
-2. Ürünler **sekmesinde,** lisans satın almak istediğiniz aboneliği bulun. Diğer **eylemler'i** (üç nokta) ve ardından Lisans satın **al'ı seçin.**
-3. Toplam **lisanslar** kutusuna **Yeni miktar** altında, bu abonelik için istediğiniz toplam lisans sayısını girin. Örneğin, 100 lisansınız varsa ve 25 lisans daha eklemek istiyorsanız, 125 girin.
+1. Yönetim merkezinde Ürünlerinizi Faturalandırma   >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
+2. Ürünler **sekmesinde,** lisans satın almak istediğiniz aboneliği bulun. Üç noktayı (diğer eylemler) ve ardından Lisans satın **al'ı seçin.**
+3. Toplam **lisans kutusuna** Yeni **miktar'ın** altında, bu abonelik için istediğiniz toplam lisans sayısını girin. Örneğin, 100 lisansınız varsa ve 25 lisans daha eklemek istiyorsanız, 125 girin.
 4. **Kaydet**'i seçin.
 
-Daha fazla bilgi edinmek için lisans [satın alma veya kaldırma bkz.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+Daha fazla bilgi edinmek için [bkz. Lisans satın alma veya kaldırma](/microsoft-365/commerce/licenses/buy-licenses).
 
-**Ek Kaynaklar**
+**Ek kaynaklar**
 
-- [Microsoft 365 İş'te kullanıcılara lisans atama](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+[Microsoft 365 İş'te kullanıcılara lisans atama](/microsoft-365/admin/manage/assign-licenses-to-users)

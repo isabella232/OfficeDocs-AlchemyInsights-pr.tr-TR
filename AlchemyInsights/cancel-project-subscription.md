@@ -1,5 +1,5 @@
 ---
-title: Proje aboneliğini iptal etme
+title: Project aboneliğini iptal etme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: c87f6ea32fa758d7b7779a77897b338edc0308e8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416507"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543417"
 ---
-# <a name="cancel-project-subscription"></a>Proje aboneliğini iptal etme
+# <a name="cancel-project-subscription"></a>Project aboneliğini iptal etme
 
-Yöneticiler, Microsoft 365 Yönetim merkezinde kuruluşlarının proje aboneliğini iptal edebilir.
+Yöneticiler, Project merkezinde kendi kuruluşları için Microsoft 365 iptal edebilir.
 
-1. **Billing** \> [Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
-2. **Ürünler** sekmesinde, iptal etmek istediğiniz proje aboneliğini bulun. **Diğer eylemler** 'i (üç nokta) ve ardından **aboneliği iptal et**'i seçin.
-3. **Aboneliği Iptal et** bölmesinde iptal ettiğiniz bir neden seçin. İsterseniz, geri bildirimde bulunun.
+1. Ürünlerinizi **Faturalandırma** \> [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
+2. Ürünler **sekmesinde,** iptal etmek Project Abonelik'i bulun. Üç noktayı (diğer eylemler) ve ardından Aboneliği iptal **et'i seçin.**
+3. Aboneliği **iptal et** bölmesinde iptal etme nedenini seçin. İsteğe bağlı olarak, herhangi bir geri bildirim gönderin.
 4. **Kaydet**'i seçin.
 
-Geri **ödeme:** Bir sonraki faturalama döngüsündeki eşit dağıtılmış kontör size iade edilecektir.
+**Para iadesi:** Prorated krediler bir sonraki fatura döngüsünde size iade edilir.
 
-Daha fazla bilgi edinmek için [aboneliğinizi iptal](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)edin.
+Daha fazla bilgi edinmek için bkz. [Aboneliğinizi iptal etme.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

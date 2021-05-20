@@ -1,5 +1,5 @@
 ---
-title: SharePoint, OneDrive ve Microsoft ekipleri için ATP
+title: SharePoint, OneDrive için Office 365 için Microsoft Defender Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 3d02ded959114675847831690b4d4a3ebcf0e137
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d2ed7bc4c7d99cd01dadc12e38762903d6d8ab3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715581"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543597"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>SharePoint, OneDrive ve Microsoft ekipleri için ATP
+# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>SharePoint, OneDrive için Office 365 için Microsoft Defender Microsoft Teams
 
-Gelişmiş tehdit korumasını etkinleştirmek için şu adımları izleyin:
+Microsoft Defender for Office 365'u etkinleştirmek için şu Office 365:
 
-1. [https://protection.office.com](https://protection.office.com)Genel yönetici veya güvenlik yöneticisi hesabıyla gidin ve oturum açın.
+1. Genel yönetici [https://protection.office.com](https://protection.office.com) veya güvenlik yöneticisi hesabıyla gidin ve oturum açın.
 
-2. Gezinti bölmesinde **tehdit yönetimi**'nin altında, **ilke** \> **güvenli ekleri**'ni seçin.
+2. Tehdit yönetimi altındaki sol gezinti bölmesinde **İlke ve**  \> **Ekler'i Kasa seçin.**
 
-3. **SharePoint, OneDrive ve Microsoft ekipleri IÇIN ATP 'Yi aç**'ı seçin.
+3. Office 365, **OneDrive ve SharePoint OneDrive için Defender'ı Microsoft Teams öğesini seçin.**
 
-4. Kötü amaçlı dosyaları algılamadığımdan bildirim almak için [etkinlik uyarısı Ilkesi oluşturun](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) .
+4. [Kötü amaçlı dosyalar algılayana](/microsoft-365/compliance/create-activity-alerts) kadar bildirim almak için bir etkinlik uyarısı ilkesi oluşturun.
 
-Eksiksiz yönergeler için bu [konuya](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)bakın.
+Tüm yönergeler için bu [E-posta, Kasa, SharePoint, OneDrive için](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)Ekleri açma Microsoft Teams.
 
-**Not**: tasarıma göre, ATP, SharePoint Online, OneDrive Iş veya Microsoft ekipte her dosyayı taramaz. Dosyalar, kötü amaçlı dosyaları belirlemek için paylaşım etkinliğini, Konuk etkinliğini ve tehdit sinyallerini kullanan bir süreç tarafından zaman uyumsuz olarak taranır. Daha fazla bilgi için bu [konuya](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)bakın.
+**Not:** Tasarım olarak, Office 365 için Microsoft Defender SharePoint Online, OneDrive İş veya Microsoft Teams'de tek tek dosyaları Microsoft Teams. Dosyalar, kötü amaçlı dosyaları tanımlamak için paylaşım etkinliği, konuk etkinliği ve tehdit sinyallerini kullanan bir işlem tarafından zaman uyumsuz olarak taranır. Daha fazla bilgi için [bkz. Kasa, Dosya SharePoint OneDrive ekleri Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
