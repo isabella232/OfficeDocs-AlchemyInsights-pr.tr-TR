@@ -1,5 +1,5 @@
 ---
-title: Mac için ekip eklentisi
+title: Teams için bir eklenti
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
+- "6166"
 - "9003233"
-ms.openlocfilehash: 1e5f6d66386398ad8600f9383f9f7a1dcf0ce69f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9002573"
+ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
+ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670348"
+ms.lasthandoff: 05/20/2021
+ms.locfileid: "52582090"
 ---
-# <a name="teams-add-in-for-mac"></a>Mac için ekip eklentisi
+# <a name="teams-add-in-for-mac"></a>Teams için bir eklenti
 
-Mac işletim sistemi kullanıcıları için eksik bir ekip eklentisi sorunlarını gidermek için aşağıdaki adımları izleyin:
+Mac işletim sistemi Teams eksik hatayla ilgili sorunları gidermek için şu adımları izleyin:
 
-**Adım 1:** Şirket Içi karma Exchange 'niz varsa (2016 CU3 veya üstü gerekliyse) karma modern kimlik doğrulamasının doğru yapılandırıldığını onaylamak için Test-HMA.ps1 aracı 'nı kullanın. Daha fazla bilgi için [iOS ve Android Için Outlook 'Ta karma modern kimlik doğrulama kurulumunu doğrulama](https://aka.ms/AA980zq)konusuna bakın.  
+**1. Adım:** Karma Kimlik Exchange Şirket İçi (2016 CU3 veya sonrası gerekli) kullanıyorsanız, Karma Modern Kimlik Doğrulaması'nın doğru yapılandırıldığından emin olmak için Test-HMA.ps1 aracını kullanın. Daha fazla bilgi için [bkz. iOS](https://aka.ms/TestHMAEAS)ve Android için Outlook Karma Modern Kimlik Doğrulama kurulumu doğrulama.  
 
-**Not** UPN adres biçimini kullanın (örneğin, [username@contoso.com](mailto:username@contoso.com)), etkialanı \ KullanıcıAdı. Exchange Online posta kutularına sahip kullanıcılar için bunu yapın.
+**Not** ETKIalanı\kullanıcıadı değil UPN [adres biçimini (örneğin, username@contoso.com)](mailto:username@contoso.com)kullanın. Bu, e-posta kutusu Exchange Online alın.
 
-**Adım 2:** Kullanıcının **Araçlar**  >  **hesaplar**... Mac için Outlook 'ta, hesabı bulup seçin. Listelenen kullanıcı adının UPN biçiminde olduğunu doğrulayın (örneğin, [username@contoso.com](mailto:username@contoso.com)).
+**2. Adım:** Kullanıcının Araçlar Hesapları   >  ... oturum Mac için Outlook hesabı bulup seçin. Listelenen kullanıcı adlarının UPN biçiminde olduğunu [](mailto:username@contoso.com)onaylayın (örneğin, username@contoso.com).
 
-**Adım 3:** Kullanıcının lisanslı bir Microsoft ekipleri kullanıcısı olduğunu onaylayın. Kullanıcı, Mac için Office 365 aboneliğini, ürün sürümü 16,24 veya sonrasını kullanıyor olmalıdır.
+**3. Adım:** Kullanıcının lisanslı bir kullanıcı olduğunu Microsoft Teams onaylayın. Kullanıcının Mac için Office 365, ürün sürümü 16.24 veya sonraki bir sürümünü kullanıyor olması gerekir.

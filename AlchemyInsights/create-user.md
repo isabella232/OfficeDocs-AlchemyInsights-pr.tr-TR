@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: 742ff857141d08031302fdcff7e49b3eef90e0f7
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 800baae2d748708d8cb7a5fb0e73fce5dcf455cb
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747030"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569767"
 ---
 # <a name="create-user"></a>Kullanıcı oluşturma
 
 **DUYURU:**
 
-- [4 Ocak 2021'den](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) itibaren WebView oturum açma desteği Google tarafından kullanımdan silinecek. Uygulamalarınızı, Google'ın uyumluluğu test etme [kılavuzuna uyarak etkilendiğini](https://go.microsoft.com/fwlink/?linkid=2157323) test edin.
-- Kullanıcılarınızı tüketici Google hesaplarıyla oturum aken sistem web görünümü veya sistem tarayıcısını kullanmaya emin olun. Daha fazla bilgi için, [yalnızca Chrome tarayıcısını kullanarak uygulamada oturum açma sorunlarına bakın.](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
+- [4 Ocak 2021'den](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) itibaren WebView oturum açma desteği Google tarafından kullanımdan silinecek. Uygulamalarınızın, Google'ın uyumluluğu test [etme kılavuzuna](https://go.microsoft.com/fwlink/?linkid=2157323) göre etkilendiğini test edin.
+- Kullanıcılarınızı tüketici Google hesaplarıyla oturum aken sistem webview veya sistem tarayıcısını kullanmaya emin olun. Daha fazla bilgi için [bkz. Yalnızca Chrome tarayıcısını kullanarak](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)uygulamada oturum açma sorunları .
 
 **Azure AD dizinimde yeni bir kullanıcı oluşturamıyor**
 
-1. Yeni bir standart kullanıcı oluşturma yetkisine sahip olduğunuzdan emin olmak. Yalnızca Azure Active Directory'de (AD) Genel yönetici veya Kullanıcı yöneticisi rolü yeni bir standart kullanıcı oluşturabilir. Bu rollerden birisinde değilseniz, bir yöneticiden sizi bu rollerden birini eklemesi veya sizin için yeni kullanıcı hesabı oluşturması için sorun.
-1. Kullanıcı adının Azure AD'niz içinde doğrulanmış bir etki alanında olduğundan emin olun. Azure AD'sinde doğrulanmış özel etki alanı adları yoksa, *.onmicrosoft.com ile sona eren Azure AD başlangıç etki alanınızı kullanabilirsiniz.
-1. Kullanıcı adının şirket içi AD'nizin Azure AD'sinde şirket dışından olmayan bir etki alanında olduğundan emin olun. Kullanıcılar şirket içi şirket dışından şirket dışından gelen etki alanı adlarına sahip olarak buluta ek kullanılamaz.
-1. Yeni kullanıcıya atamak istediğiniz kullanıcı adının başka bir kullanıcı veya kişide yer alamaması gerekir. Kullanıcı adları Azure AD genelinde benzersiz olmalıdır.
-1. [Azure AD'niz için Azure AD rollerine](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) ve yöneticilerine bakın.
+1. Yeni standart kullanıcı oluşturma yetkinizin olduğundan emin olmak. Yalnızca Genel yönetici veya Kullanıcı yöneticisi rolü Azure Active Directory (AD) yeni bir standart kullanıcı oluşturabilir. Bu rollerden biri değilseniz, bir yöneticiden sizi bu rollerden birini eklemesi veya sizin için yeni kullanıcı hesabı oluşturması için bir yöneticiden izin isteme.
+1. Kullanıcı adının Azure AD'niz içinde doğrulanmış bir etki alanında olduğundan emin olun. Azure AD'sinde doğrulanmış özel etki alanı adları yoksa *.onmicrosoft.com ile sona eren Azure AD ilk etki onmicrosoft.com.
+1. Kullanıcı adının şirket içi AD'niz tarafından Azure AD ile şirket dışında bir etki alanında olduğundan emin olun. Kullanıcılar şirket içinde şirket dışından şirket dışından alınan etki alanı adlarına sahip olarak buluta ek olamaz.
+1. Başka hiçbir kullanıcının veya kişinin, yeni kullanıcıya atamak istediğiniz kullanıcı adına zaten sahip olduğundan emin olmak. Kullanıcı adları, Azure AD genelinde benzersiz olmalıdır.
+1. Bkz. [Azure AD'niz için](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) Azure AD rolleri ve yöneticileri.
 1. Azure [AD'nizin](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) etki alanı adlara bakın.
-1. Eylemi [kimin ve ne](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) zaman gerçekleştirmiş olduğu gibi, yakın zamanda oluşturulmuş veya silinmiş bir kullanıcı hakkında daha ayrıntılı bilgi görmek için Denetim günlüklerini gözden geçirebilirsiniz.
-1. Yeni kullanıcı ekleme hakkında daha fazla bilgi için [Bkz. Azure AD'niz içinde yeni kullanıcı oluşturmak için Azure portalını kullanma.](/azure/active-directory/active-directory-users-create-azure-portal)
-1. [Azure AD yönetim rolleri](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): Azure Active Directory'de yönetici rolü izinleri
-1. Yeni kullanıcı oluşturmak [için Azure AD PowerShell'i de kullanabilirsiniz.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
+1. Eylemi [kimin ne zaman](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) gerçekleştirmiş olduğu gibi yakın zamanda oluşturulan veya silinen bir kullanıcı hakkında daha ayrıntılı bilgi görmek için Denetim günlüklerini gözden geçirebilirsiniz.
+1. Yeni kullanıcı ekleme hakkında daha fazla bilgi için [bkz. Azure AD'niz içinde](/azure/active-directory/active-directory-users-create-azure-portal)yeni kullanıcı oluşturmak için Azure portalını kullanma.
+1. [Azure AD yönetim rolleri](/azure/active-directory/active-directory-assign-admin-roles): Etki alanı içinde yönetici Azure Active Directory
+1. Yeni kullanıcı [oluşturmak için Azure AD PowerShell'i de kullanabilirsiniz.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
