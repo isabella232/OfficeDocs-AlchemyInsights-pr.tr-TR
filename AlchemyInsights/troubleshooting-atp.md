@@ -1,5 +1,5 @@
 ---
-title: Office 365 için Microsoft Defender sorunlarını giderme
+title: Windows için Microsoft Defender sorun giderme Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801466"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545288"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a><span data-ttu-id="3951e-102">Office 365 için Microsoft Defender sorunlarını giderme</span><span class="sxs-lookup"><span data-stu-id="3951e-102">Troubleshooting Microsoft Defender for Office 365</span></span>
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a><span data-ttu-id="97ca2-102">Windows için Microsoft Defender sorun giderme Office 365</span><span class="sxs-lookup"><span data-stu-id="97ca2-102">Troubleshooting Microsoft Defender for Office 365</span></span>
 
-- <span data-ttu-id="3951e-103">İleti tesliminde gecikmeler fark ediyor musunuz?</span><span class="sxs-lookup"><span data-stu-id="3951e-103">Do you notice delays in message delivery?</span></span> <span data-ttu-id="3951e-104">ATP güvenli ekler ilkemizin ilkesindeki [dinamik teslim](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) seçeneğini kullanın.</span><span class="sxs-lookup"><span data-stu-id="3951e-104">Use the [Dynamic Delivery](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) option in your ATP Safe Attachments policy.</span></span> <span data-ttu-id="3951e-105">Bu, alıcıları kötü niyetli dosyalardan korurken ileti gecikmelerinden korunmanıza yardımcı olur.</span><span class="sxs-lookup"><span data-stu-id="3951e-105">This will help avoid message delays while protecting recipients from malicious files.</span></span>
+- <span data-ttu-id="97ca2-103">**İleti teslimi sırasında gecikme olduğunu fark ediyor musunuz?**</span><span class="sxs-lookup"><span data-stu-id="97ca2-103">**Do you notice delays in message delivery?**</span></span> <span data-ttu-id="97ca2-104">Ekler için [Microsoft Defender'da](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) Dinamik Teslim Office 365 Kasa kullanın.</span><span class="sxs-lookup"><span data-stu-id="97ca2-104">Use the [Dynamic Delivery](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) option in your Microsoft Defender for Office 365 Safe Attachments policy.</span></span> <span data-ttu-id="97ca2-105">Bu, alıcıları kötü amaçlı dosyalardan korurken ileti gecikmelerini önlemeye yardımcı olur.</span><span class="sxs-lookup"><span data-stu-id="97ca2-105">This will help avoid message delays while protecting recipients from malicious files.</span></span>
 
-- <span data-ttu-id="3951e-106">Yanlış pozitif durumları veya yanlış negatifleri Microsoft 'a bildirmek mı istiyorsunuz?</span><span class="sxs-lookup"><span data-stu-id="3951e-106">Do you want to report false positives or false negatives to Microsoft?</span></span> <span data-ttu-id="3951e-107">Dosyaları Analize göndermek için bu [bağlantıyı](https://www.microsoft.com/wdsi/filesubmission/) kullanın.</span><span class="sxs-lookup"><span data-stu-id="3951e-107">Use this [link](https://www.microsoft.com/wdsi/filesubmission/) to submit files for analysis.</span></span>
+- <span data-ttu-id="97ca2-106">**Hatalı pozitif veya yanlış negatifleri Microsoft'a bildirmeyi istiyor musunuz?**</span><span class="sxs-lookup"><span data-stu-id="97ca2-106">**Do you want to report false positives or false negatives to Microsoft?**</span></span> <span data-ttu-id="97ca2-107">Gönderiler [Gezgini'ni kullanın.](https://protection.office.com/reportsubmission)</span><span class="sxs-lookup"><span data-stu-id="97ca2-107">Use [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span>
 
-- <span data-ttu-id="3951e-108">Kuruluşunuzdaki alıcılar arasında gönderilen iç e-posta için güvenli bağlantılar korumasını etkinleştirebileceğiniz biliyor muydunuz?</span><span class="sxs-lookup"><span data-stu-id="3951e-108">Did you know that you can enable Safe Links protection for internal email sent between recipients within your organization?</span></span> <span data-ttu-id="3951e-109">Şu adımları izleyin:</span><span class="sxs-lookup"><span data-stu-id="3951e-109">Follow these steps:</span></span>
+<span data-ttu-id="97ca2-108">-\*\* Kuruluş içindeki alıcılar arasında gönderilen iç e-Kasa için Bağlantılar korumasını etkinleştirebilirsiniz?\*\* Şu adımları izleyin:</span><span class="sxs-lookup"><span data-stu-id="97ca2-108">-\*\* Did you know that you can enable Safe Links protection for internal email sent between recipients within your organization?\*\* Follow these steps:</span></span>
 
-  1. <span data-ttu-id="3951e-110">[https://protection.office.com](https://protection.office.com)Genel yönetici veya güvenlik yöneticisi hesabıyla gidin ve oturum açın.</span><span class="sxs-lookup"><span data-stu-id="3951e-110">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
+  1. <span data-ttu-id="97ca2-109">Genel yönetici [https://protection.office.com](https://protection.office.com) veya güvenlik yöneticisi hesabıyla gidin ve oturum açın.</span><span class="sxs-lookup"><span data-stu-id="97ca2-109">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
 
-  2. <span data-ttu-id="3951e-111">Gezinti bölmesinde **tehdit yönetimi** 'nin altında **ilkeye** göre \> **güvenli bağlantılar** 'ı seçin.</span><span class="sxs-lookup"><span data-stu-id="3951e-111">In the left navigation pane under **Threat management** , choose **Policy** \> **Safe Links** .</span></span>
+  2. <span data-ttu-id="97ca2-110">Tehdit yönetimi altındaki sol gezinti bölmesinde **İlke ve** **Bağlantılar'ı** \> **Kasa seçin.**</span><span class="sxs-lookup"><span data-stu-id="97ca2-110">In the left navigation pane under **Threat management**, choose **Policy** \> **Safe Links**.</span></span>
 
-  3. <span data-ttu-id="3951e-112">**Tüm kuruluş bölümü için geçerli olan ilkelerde** ilkeyi seçin ve **Düzenle** 'ye tıklayın.</span><span class="sxs-lookup"><span data-stu-id="3951e-112">In the **Policies that apply to the entire organization** section, select the policy and click **Edit** .</span></span>
+  3. <span data-ttu-id="97ca2-111">Kuruluşun **tamamına uygulanacak ilkeler bölümünde,** ilkeyi seçin ve Düzenle'ye **tıklayın.**</span><span class="sxs-lookup"><span data-stu-id="97ca2-111">In the **Policies that apply to the entire organization** section, select the policy and click **Edit**.</span></span>
 
-  4. <span data-ttu-id="3951e-113">**Ayarlar** 'ın altında, **kuruluş içinde gönderilen Iletilere güvenli bağlantılar uygulayın** .</span><span class="sxs-lookup"><span data-stu-id="3951e-113">Under **Settings** , enable **Apply safe links to messages sent within the organization** .</span></span>
+  4. <span data-ttu-id="97ca2-112">Daha **Ayarlar** altında, **Kuruluş içinde gönderilen iletilere güvenli bağlantılar uygula 'ya tıklayın.**</span><span class="sxs-lookup"><span data-stu-id="97ca2-112">Under **Settings**, enable **Apply safe links to messages sent within the organization**.</span></span>
