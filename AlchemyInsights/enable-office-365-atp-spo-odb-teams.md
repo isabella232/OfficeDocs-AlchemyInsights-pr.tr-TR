@@ -1,5 +1,5 @@
 ---
-title: SharePoint, OneDrive ve Microsoft ekipleri için Office 365 ATP 'yi etkinleştirme
+title: OFFICE 365, ONEDRIVE ve SharePoint için ATP'yi Microsoft Teams
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: dd367176f8d6f38f1f94ae6627229234f15c81ff
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801095"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543948"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>SharePoint Online, OneDrive ve Microsoft ekipleri için Office 365 için Microsoft Defender 'ı etkinleştirme
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>SharePoint Online, OneDrive ve Office 365 için Microsoft Defender'ı Microsoft Teams
 
-1. Gidin https://protection.office.com ve oturum açın.
-2. **Tehdit yönetimi**  >  **ilkesi**  >  **güvenli ekleri** 'ni seçin.
-3. **SharePoint, OneDrive ve Microsoft ekipleri IÇIN ATP 'Yi aç** 'ı seçip **Kaydet** 'i tıklatın.
-4. Öner Genel yönetici veya SharePoint Online yöneticisi olarak, [set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet 'Ini **Disallowın, tedfiledownload** parametresini *true* olarak ayarlanmış şekilde çalıştırın.
-5. Öner Algılanan dosyalar için [uyarıları ayarlayın](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) .
+1. Gidin https://protection.office.com ve oturum açma.
+2. Ekleri **Tehdit Yönetimi**  >  **İlkesi**  >  **Kasa seçin.**
+3. SharePoint, **OneDrive ve Microsoft Teams için Office 365 Defender'ı aç'ı** seçin ve kaydet'e **tıklayın.**
+4. (Önerilen) Genel yönetici veya SharePoint Online yöneticisi olarak [Set-SPOTenant](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet'ini **DisallowInfectedFileDownload** parametresi true olarak *ayarlanmış olarak çalıştırın.*
+5. (Önerilen) [Algılanan dosyalar için](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) uyarılar ayarlayın.
 
 > [!NOTE]
-> ATP, SharePoint Online, OneDrive veya Microsoft ekipte her dosyayı tarayacak. Dosyalar, paylaşım ve konuk etkinliği olaylarını kullanan bir süreç aracılığıyla, kötü amaçlı dosyaları tanımlayan akıllı buluşsal yöntemleri ve tehdit sinyalleriyle birlikte zaman uyumsuz olarak taranır. [SharePoint, OneDrive ve Microsoft ekipleri Için ATP 'yi](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)inceleyin.
+> Office 365 için Microsoft Defender, SharePoint Online, OneDrive veya Microsoft Teams'de tek tek dosyaları taramaz. Dosyalar zaman uyumsuz olarak, kötü amaçlı dosyaları tanımlamak için akıllı heuristler ve tehdit işaretleriyle birlikte paylaşım ve konuk etkinliği olaylarını kullanan bir işlem aracılığıyla taranır. Bkz. [Office 365, SharePoint için Microsoft Defender OneDrive ve Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

@@ -1,5 +1,5 @@
 ---
-title: Office 365 için Microsoft Defender sorunlarını giderme
+title: Windows için Microsoft Defender sorun giderme Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801466"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545288"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Office 365 için Microsoft Defender sorunlarını giderme
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Windows için Microsoft Defender sorun giderme Office 365
 
-- İleti tesliminde gecikmeler fark ediyor musunuz? ATP güvenli ekler ilkemizin ilkesindeki [dinamik teslim](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) seçeneğini kullanın. Bu, alıcıları kötü niyetli dosyalardan korurken ileti gecikmelerinden korunmanıza yardımcı olur.
+- **İleti teslimi sırasında gecikme olduğunu fark ediyor musunuz?** Ekler için [Microsoft Defender'da](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) Dinamik Teslim Office 365 Kasa kullanın. Bu, alıcıları kötü amaçlı dosyalardan korurken ileti gecikmelerini önlemeye yardımcı olur.
 
-- Yanlış pozitif durumları veya yanlış negatifleri Microsoft 'a bildirmek mı istiyorsunuz? Dosyaları Analize göndermek için bu [bağlantıyı](https://www.microsoft.com/wdsi/filesubmission/) kullanın.
+- **Hatalı pozitif veya yanlış negatifleri Microsoft'a bildirmeyi istiyor musunuz?** Gönderiler [Gezgini'ni kullanın.](https://protection.office.com/reportsubmission)
 
-- Kuruluşunuzdaki alıcılar arasında gönderilen iç e-posta için güvenli bağlantılar korumasını etkinleştirebileceğiniz biliyor muydunuz? Şu adımları izleyin:
+-** Kuruluş içindeki alıcılar arasında gönderilen iç e-Kasa için Bağlantılar korumasını etkinleştirebilirsiniz?** Şu adımları izleyin:
 
-  1. [https://protection.office.com](https://protection.office.com)Genel yönetici veya güvenlik yöneticisi hesabıyla gidin ve oturum açın.
+  1. Genel yönetici [https://protection.office.com](https://protection.office.com) veya güvenlik yöneticisi hesabıyla gidin ve oturum açın.
 
-  2. Gezinti bölmesinde **tehdit yönetimi** 'nin altında **ilkeye** göre \> **güvenli bağlantılar** 'ı seçin.
+  2. Tehdit yönetimi altındaki sol gezinti bölmesinde **İlke ve** **Bağlantılar'ı** \> **Kasa seçin.**
 
-  3. **Tüm kuruluş bölümü için geçerli olan ilkelerde** ilkeyi seçin ve **Düzenle** 'ye tıklayın.
+  3. Kuruluşun **tamamına uygulanacak ilkeler bölümünde,** ilkeyi seçin ve Düzenle'ye **tıklayın.**
 
-  4. **Ayarlar** 'ın altında, **kuruluş içinde gönderilen Iletilere güvenli bağlantılar uygulayın** .
+  4. Daha **Ayarlar** altında, **Kuruluş içinde gönderilen iletilere güvenli bağlantılar uygula 'ya tıklayın.**

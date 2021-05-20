@@ -1,5 +1,5 @@
 ---
-title: SPF 'yi ayarlama
+title: SPF'yi ayarlama
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,17 +12,19 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 6059ca011f3b9dd1d4045a0e90d391cae495bc72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e2a8fbbc979d0079321e68e808eda7c37694995
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798972"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544670"
 ---
-# <a name="set-up-spf"></a>SPF 'yi ayarlama
+# <a name="set-up-spf"></a>SPF'yi ayarlama
 
-Özel etki alanınızla gönderilen giden e-postayı doğrulamak için özel etki alanınızla bir gönderen Ilke çerçevesi (SPF) kullanabilmeniz için DNS kayıtlarınızı güncelleyin. Bu, diğerlerinin, etki alanınızla gönderilmiş gibi "sızdırmaya neden" olmasını engellemeye yardımcı olur.
+Dns kayıtlarınızı güncelleştirin; böylelikle, özel etki alanınıza gönderilen giden e-postayı doğrulamak için özel etki alanınız ile Sender Policy Framework'i (SPF) kullanabilirsiniz. Bu, başkalarının e-postayı etki alanınız yoluyla gönderilmiş gibi "yanınıza göndermesini" önlemeye yardımcı olur.
   
-- [Yanıltlığa engel olma](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [SPF'yi, sanallık engellemeye yardımcı olacak şekilde ayarlama](/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
-- [Tüm DNS kayıtlarını ayarlamaya yardımcı olun](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [SPF kayıtlarının sorunlarını giderme](/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing#SPFTroubleshoot)
+
+- [Tüm DNS kayıtlarını ayarlama yardımı](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

@@ -1,5 +1,5 @@
 ---
-title: 2491 ' Kiracı veya Kullanıcı geçersiz kıldığı için e-posta iletilerini '
+title: 2491 'Kimlik Avı Kiracı veya kullanıcı geçersiz kılma nedeniyle teslim edildi' ilkesinden gelen e-posta iletilerini uyarı
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,29 +11,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 5b5faa08542cb5878107f10afb34427f636562ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b373423cf3e63b76a62465dd62076c023580e94
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728631"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544598"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>E-posta iletilerini, kiracı veya Kullanıcı geçersiz kıldığı için
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>'Kimlik Avı Kiracı veya kullanıcı geçersiz kılma nedeniyle teslim edildi' ilkesinden gelen e-posta iletilerini uyarı
 
-Office 365 ATP P1 ve P2 lisansları ile "Kiracı veya Kullanıcı geçersiz kılma nedeniyle teslim edildi Bu uyarıyı aldıysanız, şu adımları araştırmalısınız:
+Microsoft Defender'ın P1 ve P2 lisansları olan kiracılara "Kimlik Avı Kiracı veya kullanıcı geçersiz kılma nedeniyle teslim edildi" adlı varsayılan bir uyarı ilkesi Office 365 alınmış. Bu uyarıyı aldıysanız, şu adımları araştırabilirsiniz:
 
-1. Uyarı iletisinden, güvenlik & Uyumluluk Merkezi 'ndeki **Uyarılar** sayfasına gitmek Için **uyarıyı görüntüle** 'ye tıklayın.
+1. Uyarı iletisinde, **Uyarıyı Görüntüle'ye** **tıklar ve** Güvenlik ve Uyumluluk Merkezi'& gidin.
 
-2. **İleti listesini görüntüleme** veya **Explorer 'da iletileri görüntüleme**seçeneğini görmek için uyarıyı seçin. Bu seçeneklerin her ikisi de ileti KIMLIĞINI içeren iletinin ayrıntılarına götürür. Tehdit Gezgini bağlantısının uyarı ölçütleriyle eşleşen iletilere otomatik olarak filtrelendirilecektir. Tehdit Gezginindeki Tarih filtresini ayarlamanız gerekebilir.
+2. İleti listesini görüntüleme veya İletileri **Explorer'da görüntüleme seçeneğini** **görmek için uyarıyı seçin.** Bu seçeneklerin her ikisi de sizi İleti Kimliğini içeren iletinin ayrıntılarına götürmektedir. Tehdit Gezgini bağlantısı, uyarı ölçütlerine uyan iletileri otomatik olarak filtrelemektedir. Threat Explorer'da tarih filtresini ayarlamanız gerekiyor olabilir.
 
-El ile yapılandırılmış bir geçersiz kılma nedeniyle kimlik avı iletisi teslim edildi:
+Kimlik avı iletisi elle yapılandırılan geçersiz kılma nedeniyle teslim edildi:
 
-- Kullanıcının verdiği bir göndereni veya etki alanı.
+- Kullanıcı tarafından ayarlanmış izin verilen bir gönderen veya etki alanı.
 
-- Yönetici tarafından istenmeyen posta önleme ilkesinde ayarlanan bir kişi veya etki alanı.
+- İstenmeyen posta önleme ilkesinde yönetici tarafından ayarlanmış, izin verilen bir gönderen veya etki alanı.
 
-- Bağlantı filtresi ilkesinde izin verilen bir IP adresi.
+- Bağlantı filtresi ilkesinde izin verilen IP adresi.
 
-- Uygulamasında iletilere izin verecek şekilde yapılandırılmış bir posta akış kuralı (taşıma kuralı olarak da bilinir).
+- İletilere izin verecek şekilde yapılandırılmış bir posta akışı kuralı (aktarım kuralı olarak da bilinir).
 
-İletinin yanlış şekilde bir şekilde işaretlendiğini düşünüyorsanız, ileti örneklerini Microsoft 'a göndermek için Outlook [rapor iletisi eklentisini](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) kullanın.
+İletinin yanlışlıkla kimlik avı olarak işaretlenen bir ileti [](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) olduğunu inanıyorsanız, Microsoft'Outlook ileti örnekleri göndermek için Rapor İletisi eklentinizi kullanın.
