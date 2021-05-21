@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: c55550529aff28fd13c8329bc1f2303e04cf1316
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1869cff3a5ef80a90d36a7d40199c14011cd87a0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747888"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543777"
 ---
 # <a name="create-a-sensitivity-label"></a>Duyarlılık etiketi oluşturma
 
 Duyarlılık etiketi oluşturmak için aşağıdaki adımları izleyin:
 
-1. **[Office 365](https://sip.protection.office.com/)** Güvenlik ve Uyumluluk &'ne > Duyarlılık > gidin.
-2. Yeni **duyarlılık etiket sihirbazını** başlatmak için + **Etiket oluştur'a** tıklayın. Şifreleme ayarları ve otomatik etiketleme hakkında [](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels) daha fazla bilgi için, sırasıyla duyarlılık etiketlerinde şifreleme kullanarak içeriğe erişimi kısıtlama ve içeriğe otomatik olarak duyarlılık etiketi uygulama [hakkında](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)daha fazla bilgi için bkz.
-3. Daha fazla etiket oluşturmak için bu adımları yineler. Bununla birlikte, bir alt etiket oluşturmak için önce üst etiketi seçin, Diğer eylemler için **...** seçeneğine tıklayın ve ardından Alt etiket ekle'ye **tıklayın.**
-4. Size gereken tüm etiketleri oluşturulduğunda, bunların siparişlerini gözden geçirin ve gerekirse, yukarı veya aşağı hareket ettirin. Etiketin sıralamalarını değiştirmek için, Diğer eylemler **için ...** öğesini ve ardından Yukarı taşı veya **Aşağı** **taşı'yı tıklatın.** 
+1. Güvenlik ve **[Uyumluluk Office 365 Merkezi & Sınıflandırma](https://sip.protection.office.com/) > Duyarlılık > gidin.**
+2. Yeni **duyarlılık etiketi sihirbazını** başlatmak için + **Etiket oluştur'a** tıklayın. Şifreleme ayarları ve otomatik etiketleme hakkında [](/microsoft-365/compliance/encryption-sensitivity-labels) daha fazla bilgi için, sırasıyla [](/microsoft-365/compliance/apply-sensitivity-label-automatically)Duyarlılık etiketlerinde şifreleme kullanarak içeriğe erişimi kısıtlama ve İçeriklere otomatik olarak duyarlılık etiketi uygulama.
+3. Daha fazla etiket oluşturmak için bu adımları yinele. Öte yandan, bir alt etiket oluşturmak için önce üst etiketi seçin, üç noktayı (diğer eylemler) ve ardından Alt etiket **ekle'yi seçin.**
+4. Size gereken tüm etiketleri oluşturduktan sonra, bu etiketlerin siparişlerini gözden geçirin ve gerekirse, bunları yukarı veya aşağı taşıma. Etiketin sıralamalarını değiştirmek için, üç noktayı (diğer eylemler) ve sonra da Yukarı taşı veya Aşağı **taşı'ya seçin.**  

@@ -1,10 +1,11 @@
 ---
 title: Aboneliğinizi yeniden etkinleştirme
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -14,37 +15,32 @@ ms.custom:
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: 83f4c28ae26267e71af5488484330df53e08d1bd
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
-ms.translationtype: HT
+ms.openlocfilehash: bde53301b351359012394304a2236f526a478a32
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160872"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544454"
 ---
 # <a name="reactivate-your-subscription"></a>Aboneliğinizi yeniden etkinleştirme
 
-Aboneliğinizin süresi dolduysa, Microsoft tarafından devre dışı bırakıldıysa veya abonelik döneminiz sona ermeden siz iptal ettiyseniz yönetim merkezinde aboneliğinizi yeniden etkinleştirebilirsiniz. 
+Aboneliğinizin süresi dolduysa, Microsoft tarafından devre dışı bırakıldıysa veya abonelik döneminiz sona ermeden siz iptal ettiyseniz yönetim merkezinde aboneliğinizi yeniden etkinleştirebilirsiniz.
 
-1. Yönetim merkezinde **Faturalama > [Ürünler ve hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
+1. Yönetim merkezinde Ürünlerinizi Faturalandırma   >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
+2. Ürünler **sekmesinde,** yeniden etkinleştirmek istediğiniz aboneliği bulun. Üç noktayı (diğer eylemler) ve ardından Bu aboneliği **yeniden etkinleştir'i seçin.**
+3. Bu **aboneliği yeniden etkinleştir bölmesinde,** açılan listeden bir ödeme yöntemi seçin veya Ödeme yöntemi ekle **öğesini seçin.**
+4. **Kaydet**'i seçin.
 
-2. **Ürünler ve hizmetler** sayfasında, yeniden etkinleştirmek istediğiniz aboneliği bulun.  **Faturalama** bölümünde, **Şimdi yeniden etkinleştir**’e tıklayın.  **Kartlar** görünümündeyseniz **Ad** ve **Kullanılabilir miktar** arasındaki üç nokta simgesine tıklayın ve sonra menüdeki **Yeniden etkinleştir**’e tıklayın. **Not**: Aradığınız aboneliği görmüyorsanız sayfanın üst kısmındaki **Abonelik durumu** filtresini **Tümü** olarak değiştirmeniz gerekebilir.
-
-3. Ödeme ayrıntılarınızı onaylayın.  Mevcut ödeme bilgilerinizi de burada güncelleştirebilirsiniz.  Ödeme yönteminizi girmeyi tamamladığınızda, **Yeniden Etkinleştir**’e tıklayın.
-
-Daha fazla bilgi edinmek için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Daha fazla bilgi edinmek için bkz. [Aboneliğinizi yeniden etkinleştirme](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Abonelik yenilemeyi yönetme**
 
-Aylık veya yıllık faturalamayı yönetmek için Yinelenen faturalamayı açabilir veya kapatabilirsiniz.
+Aylık veya yıllık faturalamayı yönetmek için **Yinelenen fatura** özelliğini açabilir veya kapatabilirsiniz.
 
-1. Yönetim merkezinde **Faturalama > [Ürünler ve Hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
+1. Yönetim merkezinde Ürünlerinizi Faturalandırma   >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
+2. Ürünler **sekmesinde,** değiştirmek istediğiniz aboneliği seçin.
+3. Abonelik ayrıntıları sayfasında, Abonelik ve ödeme **ayarları altında, Yinelenen** faturalamayı **düzenle'yi seçin.**
+4. Yinelenen faturalama **ayarlarını düzenle bölmesinde Aç** , Aç'ı **seçin, ancak bir kez yenile 'yi** veya **Kapat'ı seçin.** 
+5. **Kaydet**'i seçin.
 
-2. Yinelenen faturalamayı yönetmek istediğiniz aboneliği seçin. 
-
-3. Faturalama altındaki Yinelenme tarihi veya Sona erme tarihi’nin yanında **düzenle**’ye tıklayın.
-
-4. Yinelenen faturalama ayarları bölmesinde **Kapat**’ı seçerek bu özelliği kapatın. Yinelenen faturalama önceden kapatıldıysa, açmak için **Aylık** veya **Bir kez**’e tıklayın. 
-
-5. **Değişikliği gönder**’e tıklayın.
-
-Daha fazla bilgi için bkz. [Yinelenen faturalamayı kapatma veya açma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Daha fazla bilgi için bkz. [Yinelenen faturalamayı kapatma veya açma](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

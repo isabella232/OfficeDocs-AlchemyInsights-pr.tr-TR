@@ -1,35 +1,33 @@
 ---
 title: Abonelik artık etkin değil
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789250"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544274"
 ---
 # <a name="subscription-no-longer-active"></a>Abonelik artık etkin değil
 
-[Bir Microsoft uygulaması açıldığında abonelik bildirimi görünüyorsa](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB) aboneliğinizi yeniden etkinleştirmeniz gerekiyor olabilir.
+Bir [Microsoft uygulaması açıldığında](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) bir abonelik bildirimi görünürse, büyük olasılıkla aboneliğinizi yeniden etkinleştirmeniz gerekir.
 
 **Aboneliği yeniden etkinleştirme**
 
-1. Yönetim merkezinde **Faturalama > [Ürünler ve Hizmetler](https://go.microsoft.com/fwlink/p/?linkid=842054)** sayfasına gidin.
+1. Yönetim merkezinde Ürünlerinizi Faturalandırma   >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
+2. Ürünler **sekmesinde,** yeniden etkinleştirmek istediğiniz aboneliği bulun. Üç noktayı (diğer eylemler) ve ardından Bu aboneliği **yeniden etkinleştir'i seçin.**
+3. Bu **aboneliği yeniden etkinleştir bölmesinde,** açılan listeden bir ödeme yöntemi seçin veya Ödeme yöntemi ekle **öğesini seçin.**
+4. **Kaydet**'i seçin.
 
-2. Ürünler ve hizmetler sayfasında yeniden etkinleştirmek istediğiniz aboneliği bulun.
-
-3. Faturalama bölümünde **Şimdi yeniden etkinleştir**’e tıklayın.  Kartlar görünümündeyseniz, Ad ile Kullanılabilir miktar arasındaki üç noktaya tıklayın ve menüden Yeniden etkinleştir’i seçin. **Not**: Aradığınız aboneliği görmüyorsanız sayfanın üst kısmındaki Abonelik durumu filtresini **Tümü** olarak değiştirmeniz gerekebilir.
-
-4. Mevut ödeme bilgilerinizi güncelleştirmek için ödeme ayrıntılarınızı onaylayın. Ödeme yönteminizi girmeyi tamamladığınızda **Yeniden etkinleştir**’e tıklayın.
-
-Daha fazla bilgi için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Daha fazla bilgi edinmek için bkz. [Aboneliğinizi yeniden etkinleştirme](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

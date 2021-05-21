@@ -1,26 +1,27 @@
 ---
-title: Microsoft Defender ATP kötü amaçlı bir öğeyi kaçırdı
+title: Microsoft Defender ATP bir öğeyi atla
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3203"
 - "9001221"
-ms.openlocfilehash: 52cc44fb25ca18ecd8cfeec29846ab0f469193f5
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
+ms.openlocfilehash: c06e9b017170fd23b12b11cf0aac98b2bf53db0d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198337"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544056"
 ---
-# <a name="microsoft-defender-atp-missed-a-malicious-item"></a>Microsoft Defender ATP kötü amaçlı bir öğeyi kaçırdı
+# <a name="microsoft-defender-atp-missed-a-malicious-item"></a>Microsoft Defender ATP bir öğeyi atla
 
-- Kötü amaçlı dosyayı [Microsoft Defender Yanıt Portalı'nda](https://www.microsoft.com/wdsi/filesubmission/)çözümlenmek üzere Microsoft'a gönderin. 
-- Oturum açmışsanız, [Microsoft Defender Yanıt Portalı'ndaki](https://www.microsoft.com/wdsi/submissionhistory)bir dosyanın gönderim geçmişini bulun.
-- Daha fazla bilgi için [bkz.](https://docs.microsoft.com/windows/security/threat-protection/intelligence/submission-guide)
+- Kötü amaçlı dosyayı Microsoft Defender Yanıt Portalı'nın [çözümlemesi için Microsoft'a gönderin.](https://www.microsoft.com/wdsi/filesubmission/) 
+- Oturum açıksa, Microsoft Defender Yanıt Portalı'nden bir dosyanın gönderme [geçmişini bulun.](https://www.microsoft.com/wdsi/submissionhistory)
+- Daha fazla bilgi için [bkz. Çözümleme için dosya gönderme.](/windows/security/threat-protection/intelligence/submission-guide)

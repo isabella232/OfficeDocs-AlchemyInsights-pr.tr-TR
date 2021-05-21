@@ -1,29 +1,31 @@
 ---
 title: Microsoft aboneliğinizi iptal etme
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 0bc16dac8daf6219fcd3507e1f47d1d62a0961d2
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707848"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543345"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Microsoft aboneliğinizi iptal etme
 
-1. [Hizmetler ve abonelikler](https://account.microsoft.com/services/)’e gidin ve aboneliğinizi satın alırken kullandığınız Microsoft hesabıyla oturum açın.
+Yöneticiler, yönetim merkezinde kuruluşlarının aboneliğini Microsoft 365.
 
-2. Aboneliğinizi bulun ve **Yönet**’e tıklayın. **Yönet** yerine **Yinelenen faturayı etkinleştir** seçeneğini görüyorsanız Sorun Giderme bölümüne atlayın; aksi takdirde 3. adımdan devam edin.
+1. Ürünlerinizi **Faturalandırma** \> [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
+2. Ürünler **sekmesinde,** iptal etmek istediğiniz aboneliği bulun. Üç noktayı (diğer eylemler) ve ardından Aboneliği iptal **et'i seçin.**
+3. Aboneliği **iptal et** bölmesinde iptal etme nedenini seçin. İsteğe bağlı olarak, herhangi bir geri bildirim gönderin.
+4. **Kaydet**'i seçin.
 
-3. Sonraki sayfada, aboneliğinizin türüne bağlı olarak **İptal**’e veya **Yükselt veya İptal Et**’e tıklayın.
-
-4. İptal etme işlemine devam etmek için sayfadaki yönergeleri izleyin.
+**Para iadesi:** Prorated krediler bir sonraki fatura döngüsünde size iade edilir.
