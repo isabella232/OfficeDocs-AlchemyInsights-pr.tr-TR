@@ -13,32 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: 36af769b67f8c9aa4b8d17e9f4f3f3b82c8a8534
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
-ms.translationtype: HT
+ms.openlocfilehash: b9369b2c2ca31f7d2fceac37ef1e2252b82e933b
+ms.sourcegitcommit: 0c104e2bd34ccc09bcea389e470692e92bcf1f8f
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402463"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52657949"
 ---
 # <a name="configure-endpoint-dlp"></a>Uç nokta DLP’sini yapılandırma
 
-Microsoft Uç nokta DLP’si, Windows 10 cihazlarında DLP koruma ve izleme özelliğini hassas bilgilere kadar genişletmenize olanak sağlar. Cihazlar cihaz yönetimine eklendikten sonra, öğeler üzerinde koruyucu eylemler uygulamak amacıyla DLP ilkeleri oluşturabilirsiniz. Hassas öğelerle ilgili etkinlikleri izlemek için Etkinlik Gezgini kullanılabilir. Daha fazla bilgi için bkz. [Cihazları cihaz yönetimine ekleme](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management).  
+Microsoft Uç nokta DLP’si, Windows 10 cihazlarında DLP koruma ve izleme özelliğini hassas bilgilere kadar genişletmenize olanak sağlar. Cihazlar cihaz yönetimine eklendikten sonra, öğeler üzerinde koruyucu eylemler uygulamak amacıyla DLP ilkeleri oluşturabilirsiniz. Hassas öğelerle ilgili etkinlikleri izlemek için Etkinlik Gezgini kullanılabilir. Daha fazla bilgi için bkz. [Cihazları cihaz yönetimine ekleme](/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management).  
 
 Uç nokta DLP’sini kullanmaya başlamak için:
 
-- Uygun SKU/abonelik lisansına sahip olduğunuzdan emin olun. Daha fazla bilgi için bkz. [SKU/abonelik lisansı](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing).
-- Cihaz yönetimini etkinleştirmek, katılım sayfasına erişmek veya cihaz izlemeyi etkinleştirmek/devre dışı bırakmak için gerekli izinleri kontrol edin. Daha fazla bilgi için bkz. [İzinler](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
-- Aşağıdaki cihaz ekleme yordamını izleyerek cihazları Cihaz yönetimine ekleyin. M365 Uyumluluk **Ayarları** altında Cihaz Ekleme (önizleme) seçeneği bulunmuyorsa, yukarıda bahsedilen uygun lisansa ve izinlere sahip olduğunuzu onaylayın. Daha fazla bilgi için bkz. [Cihazları ekleme](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
-- Hassas öğelerinizi korumak için DLP ilkeleri oluşturun. Bilgi için bkz. [Uç nokta DLP ilkesi senaryoları](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios &preserve-view=true).
+- Uygun SKU/abonelik lisansına sahip olduğunuzdan emin olun. Daha fazla bilgi için bkz. [SKU/abonelik lisansı](/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing).
+- Cihaz yönetimini etkinleştirmek, katılım sayfasına erişmek veya cihaz izlemeyi etkinleştirmek/devre dışı bırakmak için gerekli izinleri kontrol edin. Daha fazla bilgi için bkz. [İzinler](/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
+- Aşağıdaki cihaz ekleme yordamını izleyerek cihazları Cihaz yönetimine ekleyin. Daha fazla bilgi için bkz. [Cihazları ekleme](/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
+- Hassas öğelerinizi korumak için DLP ilkeleri oluşturun. Bilgi için bkz. [Uç nokta DLP ilkesi senaryoları](/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios).
 
-Microsoft Uç nokta DLP’si hakkında daha fazla bilgi için bkz. [Microsoft 365 uç noktada veri kaybını önleme (önizleme) özelliği hakkında bilgi edinin](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
+Microsoft Uç nokta DLP’si hakkında daha fazla bilgi için bkz. [Microsoft 365 uç noktada veri kaybını önleme (önizleme) özelliği hakkında bilgi edinin](/microsoft-365/compliance/endpoint-dlp-learn-about).
 
 **Destek gerekirse, Önemli Veri Toplama adımları:**
 
-1. MDATP Client Analyzer Preview aracını [https://aka.ms/betamdatpanalyzer](https://aka.ms/betamdatpanalyzer "https://aka.ms/betamdatpanalyzer") adresinden indirin
-2. Aracı cmd penceresinden Yönetici olarak çalıştırın:
-3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t
-4. “İzlemeleri toplamak için gereken dakika sayısını girin:” istemi göründüğünde, senaryoyu çalıştırmak için gereken dakika sayısını girin
-5. Senaryoyu çalıştırın
+1. İstemci [Çözümleyicisi MDATP Önizlemesi'ne indirin.](https://aka.ms/betamdatpanalyzer)
+1. Aracı cmd penceresinden Yönetici olarak çalıştırın:
 
-Destek temsilcisine verilecek Zip dosyası çıkışını toplayın.
+    **MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t**
+
+1. İzlemeleri toplamak **için dakika sayısını girin:** ile sorulsa, senaryoyu çalıştırmak için gereken dakika sayısını girin.
+1. Senaryoyu çalıştırın.
+
+Destek temsilcisine vermek için Zip dosyası çıkışını toplayın.
