@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573766"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696906"
 ---
 # <a name="disable-chat"></a>Sohbeti devre dışı bırakma
 
@@ -26,7 +26,7 @@ Hangi sohbet ve kanal mesajlaşma özelliklerinin kullanılabilir olduğunu dene
 
 - **Toplantı:** Teams merkezinde Toplantı ilkeleri [-](https://admin.teams.microsoft.com/) Sohbet ayarı Toplantılarda sohbete izin **ver 'e gidin.** Özel toplantı ilkeleri oluşturma hakkında daha fazla bilgi için bkz. İlke altında toplantı ilkelerini Teams ve [Toplantılarda](/microsoftteams/meeting-policies-in-teams) [sohbete izin verme](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings).
 
-- **M*eskitme:** Teams merkezinde Mesajlaşma ilkeleri'ne gidin [](https://admin.teams.microsoft.com/)ve Sohbeti Açık veya **Kapalı olarak** **değiştirin.** Özel ileti ilkeleri ve kullanıcılara ilke atama hakkında daha fazla bilgi için bkz. [Teams.](/microsoftteams/messaging-policies-in-teams)
+- **Mesajlaşma:** Teams merkezinde Mesajlaşma ilkeleri'ne [gidin](https://admin.teams.microsoft.com/)ve Sohbeti Açık veya **Kapalı olarak** **değiştirin.** Özel ileti ilkeleri ve kullanıcılara ilke atama hakkında daha fazla bilgi için bkz. [Teams.](/microsoftteams/messaging-policies-in-teams)
 
 - **Öğrenciler**: Öğrenci için sohbeti devre dışı bırakmak için, toplantılarda sohbete izin verme ve Eğitim için Teams ilkeler ve ilke paketlerinde bire bir sohbete izin verme [seçeneklerine bakın.](/microsoftteams/policy-packages-edu)
 

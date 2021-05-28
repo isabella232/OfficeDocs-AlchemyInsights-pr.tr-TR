@@ -1,5 +1,5 @@
 ---
-title: 1:1 arama kaydı
+title: Bire bir arama kaydı
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733869"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696978"
 ---
-# <a name="11-call-recording"></a>1:1 arama kaydı
+# <a name="11-call-recording"></a>Bire bir arama kaydı
 
-Yöneticilerin, kullanıcıların 1:1 arama kaydetmelerine izin vermeye devam etmek için hemen harekete geçleri gerekir.
- 
-12 Nisan 2021'den itibaren, yeni bir Teams Arama İlkesi *seçeneği AllowCloudRecordingForCalls'u zorlamaya başlayacağız.* 
+Bir **aramada** Kaydı Başlat düğmesi gri görüntüye sahipse, etkiyi alan kullanıcının ilke ayarlarını değiştirmeniz gerekir.   
 
-Şu anda 1:1 arama kaydı özellikleri, Teams Toplantı *İlkeleri'nin AllowCloudRecording* seçeneği tarafından denetlenmektedir. Kullanıcılarının Teams Toplantıları kaydetmesine izin veriliyorsa, bire bir aramaları da kaydedebilirsiniz.
+31 Mayıs 2021'den başlayarak, *AllowCloudRecordingForCalls* için yeni bir Çağrı Teams zorlamaya başlayacağız. Bu değişiklikten önce, 1:1 arama kaydı Toplantı İlkesi'ne göre *AllowCloudRecording* Teams denetlenir. Bu değişiklik İleti Merkezi gönderisinde belgelenmektedir: [(Güncelleştirildi) 1:1 Arama kaydı ilkesi giriş.](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)  
 
-Tüm kullanıcıların bire bir arama kaydetmelerini engellemeyi tercih ederseniz herhangi bir işlem yapmaya gerek yok. *AllowCloudRecordingForCalls* arama ilkesi seçeneği varsayılan $False kullanılabilir.
+*AllowCloudRecordingForCalls*   arama ilkesi seçeneği varsayılan olarak **$False** olarak ayarlanır. Tüm kullanıcıların bire bir arama kaydetmelerini engellemeyi tercih ederseniz herhangi bir işleme gerek yok.  
 
-Bu değişiklik, şu İleti Merkezi Gönderisinde belgelenmektedir: [(Güncelleştirildi) 1:1](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Arama kaydı ilkesine giriş Teams Arama İlkesi Seçeneğini ayarlamak için [Teams PowerShell'i kullanasınız.](https://docs.microsoft.com/microsoftteams/teams-powershell-install)
+Bire bir aramalarda tüm kullanıcılar için arama kaydını etkinleştirmek üzere Teams PowerShell'i kullanarak aşağıdaki cmdlet'i çalıştırın: 
 
-**Bire bir aramalarda** arama kaydını etkinleştirmek için: Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-**Bire bir aramalarda** arama kaydını devre dışı bırakmak için: Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+Alternatif olarak, yeni bir ilke oluşturabilir ve **-AllowCloudRecordingForCalls** $true bu ilkeyi ayarlayarak kullanıcılarınıza atabilirsiniz.  
 
+Daha fazla bilgi için [bkz. 1:1 Arama Kaydı İlkesi Denetimleri (Neredeyse!) Burada.](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668)

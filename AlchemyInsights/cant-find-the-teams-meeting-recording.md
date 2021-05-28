@@ -1,5 +1,5 @@
 ---
-title: Teams Toplantı Kaydını Bulamıyorum
+title: Teams toplantı kaydını bulamıyorum
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294378"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696956"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Teams Toplantı Kaydını Bulamıyorum
+# <a name="cant-find-the-teams-meeting-recording"></a>Teams toplantı kaydını bulamıyorum
 
-Teams Toplantı Kaydını bulamıyor veya bulamıyorsanız, aşağıdaki Sorun Giderme belgelerine bakın:
+Bir toplantı kaydını bulamaz veya Teams, önce yukarıdaki kutuya **Diag: Eksik** Kayıt yazarak Eksik Toplantı Kaydı Tanılama'yı çalıştırın. 
 
-[Teams toplantı kaydı sorunlarını giderme - Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Kayıtlar, kiracının nasıl yapılandır OneDrive ve kaydın bir Kanal toplantısına yönelik olup SharePoint Stream, Kanal veya Kanal aramalarında bulunur. Toplantı kaydını el ile bulma yönergeleri için bkz: 
 
-Toplantı Kaydınız, kiracının nasıl yapılandırıldıksına bağlı olarak Stream, OneDrive veya SharePoint'te bulunur.
+[Sorun 2: Toplantı kaydı bağlantısı sohbet penceresinde görünmüyor](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Toplantı Kaydını bulma yönergeleri için bkz:
-
-**[Sorun 2: Toplantı kaydı bağlantısı sohbet penceresinde görünmüyor](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+Daha fazla bilgi için [bkz. Toplantı kayıtlarıyla ilgili sorunlar](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues).
