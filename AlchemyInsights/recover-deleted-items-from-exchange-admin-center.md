@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: d6699e08a33a72b0c726c149829667cd57afb0a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: bf44c6f283a52fdcef2f231143177dc880b06d8a
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809747"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694760"
 ---
 # <a name="recover-deleted-items-from-exchange-admin-center"></a>Exchange Yönetim Merkezi’nden silinen öğeleri kurtarma
 
@@ -28,3 +28,5 @@ Basitleştirilmiş ve [güncelleştirilmiş posta kutusu yönetimi deneyimiyle ]
 3. **Silinmiş öğeleri kurtar** seçeneğini belirleyin.
     - **… diğer** açılır menüsüne bakarak **silinen öğeleri kurtar** seçeneğini aramanız gerekir.
 4. Kurtarmanız gereken öğeleri bulmak için filtreleme seçeneklerini kullanın.
+
+Daha fazla bilgi için [bkz. Silinen iletileri kurtarmak için yeni EAC kullanma.](/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages)
