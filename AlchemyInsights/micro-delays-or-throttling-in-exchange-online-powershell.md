@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "5106"
-ms.openlocfilehash: 680df9e6e2404ff6b60b17d6ac88e202e9a7bb25
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 204e0248bc2f07f14fa789d1d2999495910ee034
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830053"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702146"
 ---
 # <a name="micro-delays-or-throttling-in-exchange-online-powershell"></a>Exchange Online PowerShell’de küçük gecikmeler veya azaltmalar
 
-Exchange Online’da betikler ve cmdlet’ler çalıştırırken "Küçük bir gecikme uygulandı" uyarıları veya gecikmeler görebilirsiniz. İşte bununla ilgili iki öneri:
+Exchange Online’da betikler ve cmdlet’ler çalıştırırken "Küçük bir gecikme uygulandı" uyarıları veya gecikmeler görebilirsiniz. Bunu çözmek için birkaç önerimiz var:
 
-- REST API’yi temel alan ve çok daha yüksek performans gösteren CMDlet’lerin bulunduğu [Exchange Online v2 PowerShell modülünü](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps) kullanmak isteyebilirsiniz. Sık kullanılan birçok Get- CMDlet betiği için bu harika bir çözüm olabilir.
-- Henüz v2 modülünün kapsamında olmayan CMDlet’leri kullanmanız gerekirse, Exchange Online’da beklenen PowerShell azaltma sınırlarını aşmanın açıklandığı [Office 365’te çok fazla sayıda kullanıcı için PowerShell cmdlet’leri çalıştırma](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#) konusuna bakın.
+- Kiracınızı PowerShell azaltma ilkelerini rahatlatk için lütfen tanılama yöntemlerimizi çalıştırın. Bu çözüm sorunu en çok çözer.
+- Sorun yine de çözülmezse, REST API'sini temel alan ve önemli ölçüde performansa sahip cmDlet'leri içeren Exchange Online [v2 PowerShell](/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps&preserve-view=true)modülünü kullanın. Sık kullanılan birçok Get- CMDlet betiği için bu harika bir çözüm olabilir.
+- v2 modülünde yer almayan CMDlet'leri kullanmak zorundaysanız, lütfen Office 365'ta çok sayıda kullanıcı için [PowerShell cmdlet'lerini](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#)çalıştırma 'ya bakın. Bu cmdlet'ler, Exchange Online'te PowerShell azaltma sınırlarını aşmayı ele Exchange Online.
