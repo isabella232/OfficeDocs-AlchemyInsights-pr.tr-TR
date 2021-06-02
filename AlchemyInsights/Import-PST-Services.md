@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470292"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721656"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 İçeri aktarma hizmeti
 
-Arama Microsoft 365 Hizmeti, posta kutularına birden çok PST dosyasını toplu olarak içeri Exchange Online sağlar.
-
 İçeri Aktarma hizmetine erişmek ve içeri aktarma işlemini başlatmak için:
 
-1. Güvenlik ve [Uyumluluk & gidin](https://protection.office.com) ve kuruluşta yönetici hesabının kimlik bilgilerini kullanarak oturum açın.
+1. [M365 Uyumluluk Merkezi'ne gidin](https://compliance.microsoft.com/)ve kuruluşta yönetici hesabının kimlik bilgilerini kullanarak oturum açın.
 
-2. Güvenlik ve Uyumluluk Merkezi'nin **sol &,** Bilgi yönetimi ve İçeri **Aktarma > tıklayın.**
+1. M365 Uyumluluk Merkezi'nin sol bölmesindeki **Çözümler'in altında Bilgi** yönetimi İçeri **Aktar'ı**  >  **seçin.**
 
-3. İçeri Aktar **sayfasında,** Yeni içeri aktarma **işi 'ne tıklayın.**
+1. İçeri Aktar **sayfasında Yeni** içeri aktarma **işi'ne tıklayın.**
 
-4. Sihirbazda adımları tamamlamak için bu [adım adım yönergeleri izleyin.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)
+1. Sihirbazda adımları tamamlamak için bkz. Ağ karşıya yükleme kullanarak kuruluş PST dosyalarını [içeri aktarma ve Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
 
-**Önemli:** Güvenlik ve **Uyumluluk** Merkezi'nde & sayfasına erişmek için, size [uygun izinler atanmıştır.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
+İçeri Aktar **sayfasına** erişmek için, size uygun izinlerin atanmış olduğundan emin olun. Daha fazla bilgi için [bkz. PST dosyalarını içeri yüklemek için ağ karşıya yükleme kullanma.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
-Yalnızca posta kutunuza bir PST içeri aktarma işlemi yapmak için bu [makaleye bakın.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+Bir PST dosyasını posta kutunuza içeri aktarmak için bkz. E-postaları, kişileri ve [takvimi Outlook .pst dosyasından içeri aktarma.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+
+İçeri aktarmayla ilgili bir sorun varsa PST içeri aktarma [işlerini etkileyen sorunlar 'a bakın.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+
