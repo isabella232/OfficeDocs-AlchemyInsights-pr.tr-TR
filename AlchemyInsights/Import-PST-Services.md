@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470292"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721656"
 ---
-# <a name="microsoft-365-import-service"></a><span data-ttu-id="dd459-102">Microsoft 365 İçeri aktarma hizmeti</span><span class="sxs-lookup"><span data-stu-id="dd459-102">Microsoft 365 Import service</span></span>
+# <a name="microsoft-365-import-service"></a><span data-ttu-id="1dd5f-102">Microsoft 365 İçeri aktarma hizmeti</span><span class="sxs-lookup"><span data-stu-id="1dd5f-102">Microsoft 365 Import service</span></span>
 
-<span data-ttu-id="dd459-103">Arama Microsoft 365 Hizmeti, posta kutularına birden çok PST dosyasını toplu olarak içeri Exchange Online sağlar.</span><span class="sxs-lookup"><span data-stu-id="dd459-103">The Microsoft 365 Import service lets you to bulk-import multiple PST files to Exchange Online mailboxes.</span></span>
+<span data-ttu-id="1dd5f-103">İçeri Aktarma hizmetine erişmek ve içeri aktarma işlemini başlatmak için:</span><span class="sxs-lookup"><span data-stu-id="1dd5f-103">To access the Import service and start the import process:</span></span>
 
-<span data-ttu-id="dd459-104">İçeri Aktarma hizmetine erişmek ve içeri aktarma işlemini başlatmak için:</span><span class="sxs-lookup"><span data-stu-id="dd459-104">To access the Import service and start the import process:</span></span>
+1. <span data-ttu-id="1dd5f-104">[M365 Uyumluluk Merkezi'ne gidin](https://compliance.microsoft.com/)ve kuruluşta yönetici hesabının kimlik bilgilerini kullanarak oturum açın.</span><span class="sxs-lookup"><span data-stu-id="1dd5f-104">Go to the [M365 Compliance Center](https://compliance.microsoft.com/), and sign in using the credentials for an administrator account in your organization.</span></span>
 
-1. <span data-ttu-id="dd459-105">Güvenlik ve [Uyumluluk & gidin](https://protection.office.com) ve kuruluşta yönetici hesabının kimlik bilgilerini kullanarak oturum açın.</span><span class="sxs-lookup"><span data-stu-id="dd459-105">Go to the [Security & Compliance Center](https://protection.office.com) and sign in using the credentials for an administrator account in your organization.</span></span>
+1. <span data-ttu-id="1dd5f-105">M365 Uyumluluk Merkezi'nin sol bölmesindeki **Çözümler'in altında Bilgi** yönetimi İçeri **Aktar'ı**  >  **seçin.**</span><span class="sxs-lookup"><span data-stu-id="1dd5f-105">In the left pane of the M365 Compliance Center under **Solutions**, select **Information governance** > **Import**.</span></span>
 
-2. <span data-ttu-id="dd459-106">Güvenlik ve Uyumluluk Merkezi'nin **sol &,** Bilgi yönetimi ve İçeri **Aktarma > tıklayın.**</span><span class="sxs-lookup"><span data-stu-id="dd459-106">In the left pane of the **Security & Compliance Center**, click **Information governance > Import**.</span></span>
+1. <span data-ttu-id="1dd5f-106">İçeri Aktar **sayfasında Yeni** içeri aktarma **işi'ne tıklayın.**</span><span class="sxs-lookup"><span data-stu-id="1dd5f-106">On the **Import** page, select **New import job**.</span></span>
 
-3. <span data-ttu-id="dd459-107">İçeri Aktar **sayfasında,** Yeni içeri aktarma **işi 'ne tıklayın.**</span><span class="sxs-lookup"><span data-stu-id="dd459-107">On the **Import** page, click **New import job**.</span></span>
+1. <span data-ttu-id="1dd5f-107">Sihirbazda adımları tamamlamak için bkz. Ağ karşıya yükleme kullanarak kuruluş PST dosyalarını [içeri aktarma ve Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)</span><span class="sxs-lookup"><span data-stu-id="1dd5f-107">To complete the steps in the wizard, see [Use network upload to import your organization's PST files to Microsoft 365](/compliance/use-network-upload-to-import-pst-files).</span></span>
 
-4. <span data-ttu-id="dd459-108">Sihirbazda adımları tamamlamak için bu [adım adım yönergeleri izleyin.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)</span><span class="sxs-lookup"><span data-stu-id="dd459-108">To complete the steps in the wizard, follow these [step-by-step instructions](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md).</span></span>
+<span data-ttu-id="1dd5f-108">İçeri Aktar **sayfasına** erişmek için, size uygun izinlerin atanmış olduğundan emin olun.</span><span class="sxs-lookup"><span data-stu-id="1dd5f-108">To access the **Import** page, make sure you have been assigned the appropriate permissions.</span></span> <span data-ttu-id="1dd5f-109">Daha fazla bilgi için [bkz. PST dosyalarını içeri yüklemek için ağ karşıya yükleme kullanma.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)</span><span class="sxs-lookup"><span data-stu-id="1dd5f-109">For more info, see [Using network upload to import PST files](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).</span></span>
 
-<span data-ttu-id="dd459-109">**Önemli:** Güvenlik ve **Uyumluluk** Merkezi'nde & sayfasına erişmek için, size [uygun izinler atanmıştır.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)</span><span class="sxs-lookup"><span data-stu-id="dd459-109">**Important**: To access the **Import** page in the Security & Compliance Center, you have be assigned  [the appropriate permissions](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md).</span></span>
+<span data-ttu-id="1dd5f-110">Bir PST dosyasını posta kutunuza içeri aktarmak için bkz. E-postaları, kişileri ve [takvimi Outlook .pst dosyasından içeri aktarma.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)</span><span class="sxs-lookup"><span data-stu-id="1dd5f-110">If you want to import a PST to your mailbox, see [Import email, contacts, and calendar from an Outlook .pst file](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
 
-<span data-ttu-id="dd459-110">Yalnızca posta kutunuza bir PST içeri aktarma işlemi yapmak için bu [makaleye bakın.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)</span><span class="sxs-lookup"><span data-stu-id="dd459-110">If you just want to import a PST to your mailbox, see [this article](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
+<span data-ttu-id="1dd5f-111">İçeri aktarmayla ilgili bir sorun varsa PST içeri aktarma [işlerini etkileyen sorunlar 'a bakın.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)</span><span class="sxs-lookup"><span data-stu-id="1dd5f-111">If you're having a problem with an import, see [Issues that affect PST import jobs](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).</span></span>
+
