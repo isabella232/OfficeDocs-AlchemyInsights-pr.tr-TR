@@ -1,5 +1,5 @@
 ---
-title: 1048 5.7.750 hizmeti kullanılamıyor. İstemcinin kayıtlı olmayan etki alanlarından gönderilmesini engellediği
+title: 1048 5.7.750 Hizmet kullanılamıyor. İstemcinin kaydı olmayan etki alanlarından göndermesi engellendi
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,17 @@ ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: 731aa2e155ba3fdaaca7fed9dd51b3e4a3f20f29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5879c5996a28e8e9e61c696c51e7c590d1245ba1
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664262"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774271"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="edfb8-103">5.7.750 istemcisinin kayıtlı olmayan etki alanından gönderilmesini engellediği</span><span class="sxs-lookup"><span data-stu-id="edfb8-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="5fd00-103">5.7.750 İstemcinin kaydı olmayan etki alanı göndermesi engellendi</span><span class="sxs-lookup"><span data-stu-id="5fd00-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
 
-<span data-ttu-id="edfb8-104">Hata, kiracınızda sağlanmayan (kabul edilen etki alanları ve doğrulanmış) etki alanlarından büyük bir ileti gönderildiğinde oluşur.</span><span class="sxs-lookup"><span data-stu-id="edfb8-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in your tenant (added as accepted domains and validated).</span></span>
+<span data-ttu-id="5fd00-104">Bu hata, kiracınıza sağlanmadı olarak (kabul edilen etki alanları olarak eklenmiştir ve doğrulanmış olarak eklenmiştir) etki alanlarından büyük miktarda ileti gönder oluştuğunda oluşur.</span><span class="sxs-lookup"><span data-stu-id="5fd00-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in your tenant (added as accepted domains and validated).</span></span>
 
-<span data-ttu-id="edfb8-105">Bu hatadan kaçınmak için, sertifika etki alanının sağlanan etki alanı olduğu veya tüm gönderen etki alanlarını temin edebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="edfb8-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+<span data-ttu-id="5fd00-105">Bu hatadan kaçınmak için, sertifikanın etki alanı sağlanan bir etki alanı olan sertifika tabanlı bir posta akış bağlayıcısı kullanabilir veya tüm gönderen etki alanlarını sağabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="5fd00-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+
+<span data-ttu-id="5fd00-106">Daha fazla bilgi için, Exchange Online'ta hata kodları [5.7.700 ile 5.7.750 arasında](https://go.microsoft.com/fwlink/?linkid=2164955)olan kodlar için e-posta teslim Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="5fd00-106">For more information, see [Fix email delivery issues for error codes 5.7.700 through 5.7.750 in Exchange Online](https://go.microsoft.com/fwlink/?linkid=2164955).</span></span>
