@@ -1,5 +1,5 @@
 ---
-title: Sharepoint Online PowerShell
+title: SharePoint PowerShell bağlanamıyor
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
-ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
+ms.openlocfilehash: ceb14ac484508480c771dd8406bc56220d7541ec
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52774379"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52931031"
 ---
-# <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
+# <a name="sharepoint-powershell-unable-to-connect"></a>SharePoint PowerShell bağlanamıyor
 
-SharePoint Online'da PowerShell veya Betikler ile mi çalışıyorsunuz? Daha fazla bilgi için aşağıdaki bağlantıları ziyaret edin.
-- [SharePoint Online Yönetim Kabuğu ile çalışmaya başlama](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Bağlan multifactor authentication (MFA) ile SPO PowerShell'e alma](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint Düzenleri ve Uygulamaları (PnP),](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) SPO üzerinde karmaşık yönetim eylemleri gerçekleştirmeniz için size olanak sağlayan bir PowerShell komutları kitaplığı içerir.
+SharePoint Online PowerShell modülüne bağlanırken sorun ediyorsanız, bkz. Çevrimiçi Yönetim Kabuğu'SharePoint [hatalar.](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)

@@ -11,22 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001688"
+- "1300023"
 - "3754"
-ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+- "4531"
+ms.openlocfilehash: 0da512379e5a2f6ccb773e18c465e545c0660560
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822871"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52930995"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory eşitli değil
 
-"Yakın zamanda eşitleme yok" gibi eşitleme hataları alıyorsanız veya Office yönetici portalında dizin eşitleme durumunun "Son eşitleme 3 gün önce" olduğunu söylüyorsa, AADConnect'in eşitlemeyi gerçekleştirmek için yanlış ayarlara veya yetersiz izinlere sahip olması olabilir.  
+"Yakın zamanda eşitleme yok" gibi eşitleme hataları alıyorsanız veya Office yönetim portalında dizin eşitleme durumunun "Son eşitleme 3 gün önce" olarak açıklanmış olduğunu fark ederseniz, AADConnect'in yanlış ayarları veya eşitlemeyi gerçekleştirmek için yetersiz izinleri olabilir.  
 
 Hızlı ayarları kullanarak AADConnect'in yeniden yüklenmesi sorunu hızla çözebilir:
 
 1. [AADConnect'in en son sürümünü indirin.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Hızlı yükleme yönergelerini izleyin.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
+2. [Hızlı yükleme yönergelerini izleyin.](/azure/active-directory/hybrid/how-to-connect-install-express)
 
-AADConnect hizmet hesapları hakkında daha fazla bilgi için bkz. [Azure AD Connect: Hesaplar ve izinler.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)
+Azure AD Connect, Windows Server 2012 veya sonraki sürümlerde yüklü olmalıdır. Etki alanına katılmış olması gereken bu sunucu, etki alanı denetleyicisi veya üye sunucu olabilir. Azure AD Önkoşullarının tam listesi Bağlan önkoşulları için Azure [AD](/azure/active-directory/hybrid/how-to-connect-install-prerequisites)Önkoşulları'Bağlan.
+
+AADConnect hizmet hesapları hakkında daha fazla bilgi için bkz. [Azure AD Bağlan: Hesaplar ve izinler.](/azure/active-directory/hybrid/reference-connect-accounts-permissions)
