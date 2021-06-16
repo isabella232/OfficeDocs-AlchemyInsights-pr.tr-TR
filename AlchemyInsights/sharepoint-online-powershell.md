@@ -1,5 +1,5 @@
 ---
-title: Sharepoint Online PowerShell
+title: SharePoint PowerShell bağlanamıyor
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
-ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
+ms.openlocfilehash: ceb14ac484508480c771dd8406bc56220d7541ec
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52774379"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52931031"
 ---
-# <a name="sharepoint-online-powershell"></a><span data-ttu-id="cb9e0-102">Sharepoint Online PowerShell</span><span class="sxs-lookup"><span data-stu-id="cb9e0-102">Sharepoint Online PowerShell</span></span>
+# <a name="sharepoint-powershell-unable-to-connect"></a><span data-ttu-id="b2129-102">SharePoint PowerShell bağlanamıyor</span><span class="sxs-lookup"><span data-stu-id="b2129-102">Sharepoint PowerShell unable to connect</span></span>
 
-<span data-ttu-id="cb9e0-103">SharePoint Online'da PowerShell veya Betikler ile mi çalışıyorsunuz?</span><span class="sxs-lookup"><span data-stu-id="cb9e0-103">Working with PowerShell or Scripts within Sharepoint Online?</span></span> <span data-ttu-id="cb9e0-104">Daha fazla bilgi için aşağıdaki bağlantıları ziyaret edin.</span><span class="sxs-lookup"><span data-stu-id="cb9e0-104">Visit the links below for more information.</span></span>
-- [<span data-ttu-id="cb9e0-105">SharePoint Online Yönetim Kabuğu ile çalışmaya başlama</span><span class="sxs-lookup"><span data-stu-id="cb9e0-105">Getting started with SharePoint Online Management Shell</span></span>](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [<span data-ttu-id="cb9e0-106">Bağlan multifactor authentication (MFA) ile SPO PowerShell'e alma</span><span class="sxs-lookup"><span data-stu-id="cb9e0-106">Connect to SPO PowerShell with multifactor authentication (MFA)</span></span>](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- <span data-ttu-id="cb9e0-107">[SharePoint Düzenleri ve Uygulamaları (PnP),](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) SPO üzerinde karmaşık yönetim eylemleri gerçekleştirmeniz için size olanak sağlayan bir PowerShell komutları kitaplığı içerir.</span><span class="sxs-lookup"><span data-stu-id="cb9e0-107">[SharePoint Patterns and Practices (PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) contains a library of PowerShell commands that allows you to perform complex management actions towards SPO.</span></span>
+<span data-ttu-id="b2129-103">SharePoint Online PowerShell modülüne bağlanırken sorun ediyorsanız, bkz. Çevrimiçi Yönetim Kabuğu'SharePoint [hatalar.](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)</span><span class="sxs-lookup"><span data-stu-id="b2129-103">If you're having issues connecting to SharePoint Online PowerShell module, see [Errors when connecting to SharePoint Online Management Shell](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell).</span></span>
