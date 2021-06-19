@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge 'de Office 365 eBulma dışarı aktarma aracı 'Nı etkinleştirme
+title: eK Office 365 Bulma Dışarı Aktarma Aracı'nı başka bir Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583675"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023195"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Microsoft Edge 'de Office 365 eBulma dışarı aktarma aracı 'Nı etkinleştirme
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>eK Office 365 Bulma Dışarı Aktarma Aracı'nı başka bir Microsoft Edge
 
-Microsoft Edge 'de varsayılan olarak ClickOnce desteği artık etkin değildir. Microsoft Office 365 eBulma dışarı aktarma aracı 'nı kullanmaya devam etmek için, aşağıdaki şekilde Microsoft Internet Explorer kullanmanız veya Kmıum tabanlı Microsoft Edge 'de ClickOnce desteği seçeneğini etkinleştirmeniz gerekir:
+Destek ClickOnce, artık bu Microsoft Edge etkinleştirilmez. Microsoft Office 365 eBulma Dışarı Aktarma Aracı'nı kullanmaya devam etmek için, Microsoft Internet Explorer'ı kullanmalı veya ClickOnce tabanlı Chromium'de Microsoft Edge seçeneği şunlardır:
 
-1. Edge://flags/#edge-tıklatın.
-1. **ClickOnce desteği** seçeneği için, değeri **varsayılan** veya **devre dışı bırakılmış** olarak **değiştirin.**
-1. Tarayıcı penceresinin en altında **Yeniden Başlat**'ı tıklatın. Değişiklik, Microsoft Edge 'i yeniden başlattıktan sonra geçerli olacaktır.
+1. Diğer'e edge://flags/#edge-click-once.
+1. En iyi **ClickOnce seçeneği için** varsayılan veya Devre Dışı olan değeri **Etkin** **olarak** **değiştirebilirsiniz.**
+1. Tarayıcı penceresinin alt kısmında Yeniden Başlat'a **tıklayın.** Değişiklik, siz bu değişikliği yeniden başlattıktan sonra Microsoft Edge.
 
-Daha fazla bilgi edinmek için, [Microsoft Edge 'de Office 365 eBulma verme aracı 'Nı kullanma](https://go.microsoft.com/fwlink/?linkid=2111611)konusuna bakın.
+Daha fazla bilgi edinmek için [bkz. Office 365'de eBulma Dışarı Aktarma Aracı'nı Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2111611)
