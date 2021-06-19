@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge 'de Office 365 eBulma dışarı aktarma aracı 'Nı etkinleştirme
+title: eK Office 365 Bulma Dışarı Aktarma Aracı'nı başka bir Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583675"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023195"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a><span data-ttu-id="7e257-102">Microsoft Edge 'de Office 365 eBulma dışarı aktarma aracı 'Nı etkinleştirme</span><span class="sxs-lookup"><span data-stu-id="7e257-102">Enable Office 365 eDiscovery Export Tool in Microsoft Edge</span></span>
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a><span data-ttu-id="2e470-102">eK Office 365 Bulma Dışarı Aktarma Aracı'nı başka bir Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="2e470-102">Enable Office 365 eDiscovery Export Tool in Microsoft Edge</span></span>
 
-<span data-ttu-id="7e257-103">Microsoft Edge 'de varsayılan olarak ClickOnce desteği artık etkin değildir.</span><span class="sxs-lookup"><span data-stu-id="7e257-103">Support for ClickOnce is no longer enabled in Microsoft Edge by default.</span></span> <span data-ttu-id="7e257-104">Microsoft Office 365 eBulma dışarı aktarma aracı 'nı kullanmaya devam etmek için, aşağıdaki şekilde Microsoft Internet Explorer kullanmanız veya Kmıum tabanlı Microsoft Edge 'de ClickOnce desteği seçeneğini etkinleştirmeniz gerekir:</span><span class="sxs-lookup"><span data-stu-id="7e257-104">To continue using the Microsoft Office 365 eDiscovery Export Tool, you'll need to use Microsoft Internet Explorer or enable the ClickOnce Support option in Chromium-based Microsoft Edge, as follows:</span></span>
+<span data-ttu-id="2e470-103">Destek ClickOnce, artık bu Microsoft Edge etkinleştirilmez.</span><span class="sxs-lookup"><span data-stu-id="2e470-103">Support for ClickOnce is no longer enabled in Microsoft Edge by default.</span></span> <span data-ttu-id="2e470-104">Microsoft Office 365 eBulma Dışarı Aktarma Aracı'nı kullanmaya devam etmek için, Microsoft Internet Explorer'ı kullanmalı veya ClickOnce tabanlı Chromium'de Microsoft Edge seçeneği şunlardır:</span><span class="sxs-lookup"><span data-stu-id="2e470-104">To continue using the Microsoft Office 365 eDiscovery Export Tool, you'll need to use Microsoft Internet Explorer or enable the ClickOnce Support option in Chromium-based Microsoft Edge, as follows:</span></span>
 
-1. <span data-ttu-id="7e257-105">Edge://flags/#edge-tıklatın.</span><span class="sxs-lookup"><span data-stu-id="7e257-105">Go to edge://flags/#edge-click-once.</span></span>
-1. <span data-ttu-id="7e257-106">**ClickOnce desteği** seçeneği için, değeri **varsayılan** veya **devre dışı bırakılmış** olarak **değiştirin.**</span><span class="sxs-lookup"><span data-stu-id="7e257-106">For the **ClickOnce Support** option, change the value from **Default** or **Disabled** to **Enabled**.</span></span>
-1. <span data-ttu-id="7e257-107">Tarayıcı penceresinin en altında **Yeniden Başlat**'ı tıklatın.</span><span class="sxs-lookup"><span data-stu-id="7e257-107">At the bottom of the browser window, click **Restart**.</span></span> <span data-ttu-id="7e257-108">Değişiklik, Microsoft Edge 'i yeniden başlattıktan sonra geçerli olacaktır.</span><span class="sxs-lookup"><span data-stu-id="7e257-108">The change will take effect after you restart Microsoft Edge.</span></span>
+1. <span data-ttu-id="2e470-105">Diğer'e edge://flags/#edge-click-once.</span><span class="sxs-lookup"><span data-stu-id="2e470-105">Go to edge://flags/#edge-click-once.</span></span>
+1. <span data-ttu-id="2e470-106">En iyi **ClickOnce seçeneği için** varsayılan veya Devre Dışı olan değeri **Etkin** **olarak** **değiştirebilirsiniz.**</span><span class="sxs-lookup"><span data-stu-id="2e470-106">For the **ClickOnce Support** option, change the value from **Default** or **Disabled** to **Enabled**.</span></span>
+1. <span data-ttu-id="2e470-107">Tarayıcı penceresinin alt kısmında Yeniden Başlat'a **tıklayın.**</span><span class="sxs-lookup"><span data-stu-id="2e470-107">At the bottom of the browser window, click **Restart**.</span></span> <span data-ttu-id="2e470-108">Değişiklik, siz bu değişikliği yeniden başlattıktan sonra Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="2e470-108">The change will take effect after you restart Microsoft Edge.</span></span>
 
-<span data-ttu-id="7e257-109">Daha fazla bilgi edinmek için, [Microsoft Edge 'de Office 365 eBulma verme aracı 'Nı kullanma](https://go.microsoft.com/fwlink/?linkid=2111611)konusuna bakın.</span><span class="sxs-lookup"><span data-stu-id="7e257-109">To learn more, see [Use the Office 365 eDiscovery Export Tool in Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).</span></span>
+<span data-ttu-id="2e470-109">Daha fazla bilgi edinmek için [bkz. Office 365'de eBulma Dışarı Aktarma Aracı'nı Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2111611)</span><span class="sxs-lookup"><span data-stu-id="2e470-109">To learn more, see [Use the Office 365 eDiscovery Export Tool in Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).</span></span>
