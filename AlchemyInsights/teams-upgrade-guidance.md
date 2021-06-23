@@ -1,5 +1,5 @@
 ---
-title: Ekip Yükseltme Kılavuzu
+title: Teams kılavuzu
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333948"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095420"
 ---
-# <a name="microsoft-teams-upgrade"></a><span data-ttu-id="da436-102">Microsoft ekipleri yükseltme</span><span class="sxs-lookup"><span data-stu-id="da436-102">Microsoft Teams upgrade</span></span>
+# <a name="microsoft-teams-upgrade"></a><span data-ttu-id="720f9-102">Microsoft Teams yükseltme</span><span class="sxs-lookup"><span data-stu-id="720f9-102">Microsoft Teams upgrade</span></span>
 
-<span data-ttu-id="da436-103">**Önemli**: Skype Kurumsal Çevrimiçi 'Tan yalnızca ekipler modunda yükselttiyseniz, ancak henüz hazır olmadığınız hakkında daha fazla bilgi edinmek için destek tanılaması kullanarak bunu düzeltmenize yardımcı olabiliriz.</span><span class="sxs-lookup"><span data-stu-id="da436-103">**Important**: If you have been upgraded from Skype for Business Online to Microsoft Teams in Teams Only mode, but find you aren’t ready yet, we can help fix this for you using a support diagnostic.</span></span> <span data-ttu-id="da436-104">Yeni yönetim merkezini en üstteki sağ tarafta **Yeni bir yönetim merkezi**yazan yeni yönetim merkezini kaydırarak kullandığınızdan emin olun.</span><span class="sxs-lookup"><span data-stu-id="da436-104">Make sure you are using the new Admin Center by sliding the toggle in the top right that says **new Admin Center**to the right.</span></span> <span data-ttu-id="da436-105">Yeni yönetim merkezini kullanarak, **Yardım gerekiyor?** pencere öğesini tıklatın, "**ekip yükseltme**" yazın ve sonra da tanılama 'yı çalıştırmak için istemleri izleyin.</span><span class="sxs-lookup"><span data-stu-id="da436-105">Using the new Admin Center, click the **Need Help?** widget, type "**Teams Upgrade**", then follow the prompts to run the diagnostic.</span></span>
+<span data-ttu-id="720f9-103">Teams'i kullanmaya yeni başlıyor, Skype Kurumsal ile birlikte Teams kullanıyor veya yükseltmeye hazır olun, başarıyla devam etmek için ihtiyacınız olan her şeye sahip olmak Teams.</span><span class="sxs-lookup"><span data-stu-id="720f9-103">Whether you’re just getting started with Teams, already using Teams alongside Skype for Business, or ready to upgrade, we want to ensure you have everything you need to navigate a successful journey to Teams.</span></span> <span data-ttu-id="720f9-104">Daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.</span><span class="sxs-lookup"><span data-stu-id="720f9-104">For more information please visit the links below.</span></span>
 
-<span data-ttu-id="da436-106">Ekiplerle çalışmaya başlamanızı, Skype Kurumsal ile birlikte ekip kullanmakta veya yükseltmeye hazır hale geldiğinizde, başarılı bir yolculuğuna gitmek için ihtiyacınız olan her şeyi ekiplere almanızı istiyoruz.</span><span class="sxs-lookup"><span data-stu-id="da436-106">Whether you’re just getting started with Teams, already using Teams alongside Skype for Business, or ready to upgrade, we want to ensure you have everything you need to navigate a successful journey to Teams.</span></span> <span data-ttu-id="da436-107">Daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.</span><span class="sxs-lookup"><span data-stu-id="da436-107">For more information please visit the links below.</span></span>
+[<span data-ttu-id="720f9-105">Yeni yükseltmenize Microsoft Teams başlama</span><span class="sxs-lookup"><span data-stu-id="720f9-105">Getting started with your Microsoft Teams upgrade</span></span>](/MicrosoftTeams/upgrade-start-here)
 
-[<span data-ttu-id="da436-108">Microsoft ekipleri yükseltmenizi kullanmaya başlama</span><span class="sxs-lookup"><span data-stu-id="da436-108">Getting started with your Microsoft Teams upgrade</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[<span data-ttu-id="720f9-106">Yükseltmenizi planlama</span><span class="sxs-lookup"><span data-stu-id="720f9-106">Plan for your upgrade</span></span>](/MicrosoftTeams/upgrade-plan-journey)
 
-[<span data-ttu-id="da436-109">Yükseltme planı</span><span class="sxs-lookup"><span data-stu-id="da436-109">Plan for your upgrade</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[<span data-ttu-id="720f9-107">Bir Microsoft Teams birlikte Skype Kurumsal anlıyoruz</span><span class="sxs-lookup"><span data-stu-id="720f9-107">Understand Microsoft Teams and Skype for Business coexistence</span></span>](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[<span data-ttu-id="da436-110">Microsoft ekipleri ve Skype Kurumsal birlikte bir arada bulunma 'i anlama</span><span class="sxs-lookup"><span data-stu-id="da436-110">Understand Microsoft Teams and Skype for Business coexistence</span></span>](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[<span data-ttu-id="720f9-108">Skype Kurumsal Online'dan Teams'e yükseltmeyi gerçekleştirme</span><span class="sxs-lookup"><span data-stu-id="720f9-108">Performing the upgrade from Skype for Business Online to Teams</span></span>](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[<span data-ttu-id="da436-111">Skype Kurumsal Çevrimiçi sürüm 'den ekiplere yükseltme gerçekleştirme</span><span class="sxs-lookup"><span data-stu-id="da436-111">Performing the upgrade from Skype for Business Online to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[<span data-ttu-id="da436-112">Skype Kurumsal 'dan ekip 'a yükseltme gerçekleştirme</span><span class="sxs-lookup"><span data-stu-id="da436-112">Performing the upgrade from Skype for Business on-premises to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[<span data-ttu-id="720f9-109">Şirket içi Skype Kurumsal şirket içi yükseltmeyi Teams</span><span class="sxs-lookup"><span data-stu-id="720f9-109">Performing the upgrade from Skype for Business on-premises to Teams</span></span>](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[<span data-ttu-id="da436-113">PowerShell ile ekip yükseltme için Skype Kurumsal Çevrimiçi sürüm durumunu denetleme</span><span class="sxs-lookup"><span data-stu-id="da436-113">Check the status of Skype for Business Online to Teams upgrade with PowerShell</span></span>](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[<span data-ttu-id="720f9-110">PowerShell ile yükseltmeyi Skype Kurumsal için Teams Online'ın durumunu denetleme</span><span class="sxs-lookup"><span data-stu-id="720f9-110">Check the status of Skype for Business Online to Teams upgrade with PowerShell</span></span>](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
