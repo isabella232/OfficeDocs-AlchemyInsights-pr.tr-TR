@@ -1,5 +1,5 @@
 ---
-title: SMTP kimlik doğrulama sorunlarını çözme
+title: SMTP kimlik doğrulamasını ve sorun gidermeyi etkinleştirme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826435"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077671"
 ---
-# <a name="solving-smtp-authentication-issues"></a>SMTP kimlik doğrulama sorunlarını çözme
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>SMTP kimlik doğrulamasını ve sorun gidermeyi etkinleştirme
 
-SMTP e-postası göndermeye çalışırken 5.7.57 veya 5.7.3 hataları alıyor ve bir istemci veya uygulamayla kimlik doğrulama hatası alıyorsanız, denetlemeniz gereken birkaç şey vardır:
+Bir posta kutusu için SMTP kimlik doğrulamasını etkinleştirmek veya Microsoft 365 ile bir cihaz veya uygulamanın kimlik doğrulaması gerçekleştirerek e-posta geçişi gerçekleştirerek geçiş yapmaya çalışmanız sırasında 5.7.57 veya 5.7.3 veya 5.7.139 kodlu "İstemci kimliği doğrulanmadı", "Kimlik doğrulaması başarısız" veya "SmtpClientAuthentication" hatası alıyorsanız, sorunu çözmek için şu üç eylemi gerçekleştirin:
 
-- Kimliği doğrulanmış SMTP gönderimi kiracınız veya kullanmaya istediğiniz posta kutusunda devre dışı bırakılmış olabilir (her iki ayarı da kontrol edin). Daha fazla bilgi için bkz. [Kimliği doğrulanmış istemci SMTP gönderimi etkinleştirme veya devre dışı bırakma.](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission)
+1. Güvenlik [varsayılanlarını hayır olarak etkinleştir'i](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) seçenek tarak Azure **güvenlik varsayılanlarını devre** dışı **bırak.**
 
-- Kiracınız [için Azure Güvenlik Varsayılanları'nın](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) etkinleştirildiğinden emin olun; etkinleştirilirse, temel kimlik doğrulamasını kullanan SMTP kimlik doğrulaması (eski olarak da bilinir; kullanıcı adı ve parola kullanır) başarısız olur.
+    a. Güvenlik yöneticisi, Koşullu Erişim yöneticisi veya genel yönetici olarak Azure portalında oturum açın.<BR/>
+    b. Azure Active Directory > **göz atabilirsiniz.**<BR/>
+    c. Güvenlik **varsayılanlarını yönet'i seçin.**<BR/>
+    d. Güvenlik **varsayılanlarını etkinleştir ayarını Hayır** olarak **ayarlayın.**<BR/>
+    e. **Kaydet**'i seçin.
+
+2. [Lisanslı posta kutusuna İstemci SMTP](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) gönderimi'ni etkinleştirin.
+
+    a. Arama Microsoft 365 yönetim merkezi, Etkin **Kullanıcılar'a gidin** ve kullanıcısı seçin.<BR/>
+    b. Posta sekmesine gidin ve E-posta **uygulamaları'nın altında E-posta** uygulamalarını **yönet'i seçin.**<BR/>
+    d. Kimliği Doğrulanmış **SMTP'nin işaretli** olduğundan (etkinleştirildiğinden) emin olun.<BR/>
+    e. Değişiklikleri **kaydet'i seçin.**<BR/>
+
+3. [Lisanslı posta kutusunda Multi-Factor Authentication'ı (MFA)](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) devre dışı bırakma.
+
+    a. Gezinti Bölmesi'Microsoft 365 yönetim merkezi ve sol gezinti menüsünde Kullanıcılar Etkin **Kullanıcılar'ı**  >  **seçin.**<BR/>
+    b. **Multi-factor authentication öğesini seçin.**<BR/>
+    c. Kullanıcıyı seçin ve **Multi-Factorauth özelliğini devre dışı bırakma.**<BR/>

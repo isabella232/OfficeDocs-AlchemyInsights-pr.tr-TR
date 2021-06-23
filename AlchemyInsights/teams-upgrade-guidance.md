@@ -1,5 +1,5 @@
 ---
-title: Ekip Yükseltme Kılavuzu
+title: Teams kılavuzu
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333948"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095420"
 ---
-# <a name="microsoft-teams-upgrade"></a>Microsoft ekipleri yükseltme
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams yükseltme
 
-**Önemli**: Skype Kurumsal Çevrimiçi 'Tan yalnızca ekipler modunda yükselttiyseniz, ancak henüz hazır olmadığınız hakkında daha fazla bilgi edinmek için destek tanılaması kullanarak bunu düzeltmenize yardımcı olabiliriz. Yeni yönetim merkezini en üstteki sağ tarafta **Yeni bir yönetim merkezi**yazan yeni yönetim merkezini kaydırarak kullandığınızdan emin olun. Yeni yönetim merkezini kullanarak, **Yardım gerekiyor?** pencere öğesini tıklatın, "**ekip yükseltme**" yazın ve sonra da tanılama 'yı çalıştırmak için istemleri izleyin.
+Teams'i kullanmaya yeni başlıyor, Skype Kurumsal ile birlikte Teams kullanıyor veya yükseltmeye hazır olun, başarıyla devam etmek için ihtiyacınız olan her şeye sahip olmak Teams. Daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
 
-Ekiplerle çalışmaya başlamanızı, Skype Kurumsal ile birlikte ekip kullanmakta veya yükseltmeye hazır hale geldiğinizde, başarılı bir yolculuğuna gitmek için ihtiyacınız olan her şeyi ekiplere almanızı istiyoruz. Daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
+[Yeni yükseltmenize Microsoft Teams başlama](/MicrosoftTeams/upgrade-start-here)
 
-[Microsoft ekipleri yükseltmenizi kullanmaya başlama](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Yükseltmenizi planlama](/MicrosoftTeams/upgrade-plan-journey)
 
-[Yükseltme planı](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Bir Microsoft Teams birlikte Skype Kurumsal anlıyoruz](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Microsoft ekipleri ve Skype Kurumsal birlikte bir arada bulunma 'i anlama](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Skype Kurumsal Online'dan Teams'e yükseltmeyi gerçekleştirme](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Skype Kurumsal Çevrimiçi sürüm 'den ekiplere yükseltme gerçekleştirme](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[Skype Kurumsal 'dan ekip 'a yükseltme gerçekleştirme](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Şirket içi Skype Kurumsal şirket içi yükseltmeyi Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[PowerShell ile ekip yükseltme için Skype Kurumsal Çevrimiçi sürüm durumunu denetleme](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[PowerShell ile yükseltmeyi Skype Kurumsal için Teams Online'ın durumunu denetleme](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
