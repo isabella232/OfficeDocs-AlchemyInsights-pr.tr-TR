@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 İş planları ve fiyatları
+title: İş Microsoft 365 karşılaştırma
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,13 +14,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: dc8bb60741e4f426173e14b05800eeacad3412d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03d2ca7d82257034cf4e7e0bf3520da2762233c6
+ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790820"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53104586"
 ---
-# <a name="compare-microsoft-365-for-business"></a><span data-ttu-id="30a0b-102">Microsoft 365 İş'i karşılaştırma</span><span class="sxs-lookup"><span data-stu-id="30a0b-102">Compare Microsoft 365 for business</span></span>
+# <a name="compare-microsoft-365-for-business"></a><span data-ttu-id="2c438-102">İş Microsoft 365 karşılaştırma</span><span class="sxs-lookup"><span data-stu-id="2c438-102">Compare Microsoft 365 for business</span></span>
 
-<span data-ttu-id="30a0b-103">İşletmeler için Microsoft 365'te üç farklı plan vardır.</span><span class="sxs-lookup"><span data-stu-id="30a0b-103">There are three different plans available with Microsoft 365 for business.</span></span> <span data-ttu-id="30a0b-104">[Microsoft 365 İş planlarını ve fiyatlarını karşılaştırın.](https://products.office.com/compare-all-microsoft-office-products?tab=2)</span><span class="sxs-lookup"><span data-stu-id="30a0b-104">[Compare Microsoft 365 for business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>  
+<span data-ttu-id="2c438-103">İş için planlarla birlikte Microsoft 365 planlar vardır.</span><span class="sxs-lookup"><span data-stu-id="2c438-103">There are different plans available with Microsoft 365 for business.</span></span> <span data-ttu-id="2c438-104">Özellikler ve fiyatlandırma hakkında bilgi için bkz. [İş Microsoft 365 planlarını karşılaştırma.](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products)</span><span class="sxs-lookup"><span data-stu-id="2c438-104">For information on features and pricing, see [Compare Microsoft 365 for business plans](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products).</span></span>  
