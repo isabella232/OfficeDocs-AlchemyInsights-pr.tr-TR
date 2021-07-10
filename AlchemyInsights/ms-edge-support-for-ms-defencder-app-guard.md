@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge 'in Microsoft Defender Application Guard desteği
+title: Microsoft Edge desteği Microsoft Defender Application Guard
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584007"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346082"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge 'in Microsoft Defender Application Guard desteği
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge desteği Microsoft Defender Application Guard
 
-Windows 10 ve Microsoft Edge için tasarlanan Application Guard, kullanıcının güvenilmeyen bir sitede, ana bilgisayar işletim sisteminden ayrılan yalıtılmış, Hyper-V etkinleştirilmiş bir kapsayıcının içinden gezinmesini sağlayan donanım yalıtımı yaklaşımı kullanır.
+Kimlik için Microsoft Defender, yöneticilerin şirket içi kimlik tehditlerini belirley, algıla ve araştırıldığı merkezi bir konum sağlar. 
 
-Kuruluş Yöneticisi güvenilen Web sitelerinin, bulut kaynaklarının ve iç ağların listesini tanımlar. Kullanıcı listede bulunmayan bir siteyi ziyaret ettiğinde, Microsoft Edge siteyi kapsayıcıda açar. Bu, site zararlı olmaya devam etmiyorsa, ana bilgisayarın korumalı kalması ve saldırganın kurumsal verilere kullanılamayacağı anlamına gelir.
+Tüm ortam [önkoşullarından memnun](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) olduğunu doğrulamak için Kimlik için Microsoft Defender kurulum kılavuzunu kullanın; bir örnek oluşturun, Active Directory'ye bağlanin ve algılayıcınızı yükleyin. 
 
-Kapsayıcıdaki uzantıların yüklemesi, Microsoft Edge sürüm 81 itibariyle desteklenir ve bir ilkeyle denetlenebilir. ExtensionInstallForcelist ilkesinde kullanılan updateURL adresi, Application Guard tarafından kullanılan ağ yalıtımı ilkelerine nötr kaynak olarak eklenmelidir.
-
-Daha fazla bilgi için [Microsoft Defender Application Guard Için Microsoft Edge desteği](https://go.microsoft.com/fwlink/?linkid=2134229)konusuna bakın.
+Bitirdikten sonra, kullanıcıların kimlikleri izlenir ve kuruluş güvenliğinizi tehlikeye atan her türlü kötü amaçlı eyleme karşı hemen işlem atabilirsiniz.
