@@ -1,5 +1,5 @@
 ---
-title: Grup sitesini silme
+title: Grup Sitesini Silme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "567"
 - "5200006"
+- "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 6087240b0615d4d0d6fcfdbbb77fdc15dbafd289
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49b727ea5d08fff3101b3ab1d00631aaaa74f400
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745843"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532131"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Microsoft 365 grubuna ait bir SharePoint sitesini silme
+# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Bir SharePoint grubuna ait siteyi Microsoft 365 silme
 
-Grup bağlantılı bir site silindiğinde, Outlook posta kutusu ve takvimi ve tüm ekip kanallarıyla birlikte grubu ve tüm kaynakları silinir.
+Grup bağlantılı bir sitenin silinmesi, site posta kutusu ve takvim ve diğer tüm Outlook de içinde olmak üzere grubu ve tüm Teams siler.
   
-Önemli
+Önemli:
 
-- 93 gündür silinmiş siteleri kurtarabilirsiniz. Silinen gruplar 30 gün içinde geri yüklenmelidir. Silinen siteleri doğrudan SharePoint Yönetim merkezinden [görüntüleyip geri yükleyebilirsiniz](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) . [ **Silinen grupları**görüntülemek ve geri yüklemek](https://outlook.office.com/people/group/deleted)için **grupları yönet**'i seçin ve sonra da **silindi**'i seçin.
-- Site bir bekletme ilkesinin parçasıysa, site [güvenlik & uyumluluk Yönetim merkezinden](https://protection.office.com/?rfr=AdminCenter#/retention)kaldırılana kadar bunu silemeyebilirsiniz. Daha fazla bilgi için [bekletme Ilkelerine genel bakış](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)konusuna bakın.
+- Silinen siteleri 93 gün içerisinde kurtarabilirsiniz. Silinen grupların 30 gün içinde geri yüklenebilir. [Silinmiş siteleri doğrudan Yönetim Merkezi'nde](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) görüntü SharePoint geri yükleyebilirsiniz. Silinen [grupları görüntülemek ve geri yüklemek için **Grupları**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups)Yönet'i **ve** ardından Silinmiş öğesini **seçin.**
+- Site bir bekletme ilkesi kapsamında ise, site Güvenlik ve Uyumluluk Yönetim Merkezi'den kaldırılana kadar & [silemezsiniz.](https://protection.office.com/?rfr=AdminCenter#/retention) Daha fazla bilgi için bkz. [Bekletme İlkeleri'ne Genel Bakış.](/microsoft-365/compliance/retention-policies)
   
-Daha fazla bilgi için [Yeni SharePoint Yönetim merkezinde siteleri yönetme](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)bölümüne bakın.
+Daha fazla bilgi için [bkz. Yeni yönetim merkezinde SharePoint.](/sharepoint/manage-sites-in-new-admin-center)

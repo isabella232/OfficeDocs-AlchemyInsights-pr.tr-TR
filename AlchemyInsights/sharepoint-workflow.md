@@ -1,5 +1,5 @@
 ---
-title: SharePoint 'te Iş akışlarıyla sorun giderme
+title: İş Akışlarında Sorun Giderme SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800268"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586954"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>SharePoint 'te Iş akışlarıyla sorun giderme
+# <a name="troubleshoot-workflows-in-sharepoint"></a>İş Akışlarında Sorun Giderme SharePoint
 
-**SharePoint 'te Iş akışlarını sorun giderme ve hataları ayıklama**
+**SharePoint'te İş Akışlarında Sorun Giderme ve Hata Ayıklama**
 
-[SharePoint iş akışı doğrulama hatalarında sorun giderme](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) ve [SharePoint iş akışlarını ayıklama](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)bölümüne bakın.
+Daha fazla bilgi için bkz.:
 
-**Power otomatikleştirmek**
+- [İş akışı SharePoint hatalarını giderme](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [Hata ayıklama SharePoint iş akışları](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- [ShowScopeDebugInfo ile SharePoint 2013 İş Akışı sorun giderme verileri toplama](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
-İş akışlarıyla çalışmaya başladıysanız klasik SharePoint iş akışı çözümleri yerine [Power otomatikleştirmeyi](https://docs.microsoft.com/power-automate/modern-approvals) kullanmayı düşünebilirsiniz.
+**Power Automate**
 
-Daha fazla bilgi için [SharePoint iş akışları devre dışı bırakma](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)konusuna bakın.
+İş akışlarıyla yeni başlıyorsanız, klasik iş akışı çözümleri [yerine Power Automate'i](/power-automate/modern-approvals) SharePoint göz önünde bulundurabilirsiniz.
+
+Daha fazla bilgi için [bkz. SharePoint iş akışlarını kullanma](/alchemyinsights/sharepoint-workflows-retiring).
