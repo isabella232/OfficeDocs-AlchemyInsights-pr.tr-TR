@@ -13,27 +13,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bda32b55be9c2fa671376e73b06aadfbe976363
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779071"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630197"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Denetim günlüklerinde gelen kutusu kuralı etkinliğini belirleme
 
-Gelen kutusu kuralı olaylarını görüntülemek (gelen kutusu kurallarını değiştirmek ve silmek) için Microsoft 365 güvenlik & Uyumluluk Merkezi 'nde denetim günlüğü aramasını kullanabilirsiniz.
+Gelen kutusu kuralı olaylarını (gelen kutusu kurallarını oluşturma Microsoft 365 değiştirme ve silme) görüntülemek için Microsoft 365 & Güvenlik ve Uyumluluk Merkezi'nde denetim günlüğü aramalarını kullanabilirsiniz.
 
-1. [Microsoft 365 güvenlik & Uyumluluk Merkezi](https://protection.office.com/)'nde oturum açın.
+1. [Uyumluluk Merkezi'Microsoft 365 oturum açma.](https://protection.office.com/)
 
-2. **Search**  >  **Denetim günlüğü aramasını** ara sayfasına gidin.
+2. Arama Denetimi **günlüğü**  >  **araması sayfasına** gidin.
 
-3. **Başlangıç tarihi** ve **bitiş tarihi** alanlarında tarih aralığını seçin.
+3. Başlangıç tarihi ve Bitiş **tarihi alanlarında tarih** **aralığını** seçin.
 
-4. **Exchange posta kutusu aktiviteleri**altında, **Aktiviteler** alanının **Yeni-inboxrule**ile ayarlandığını doğrulayın
+4. Posta **kutusu Exchange altında,** Etkinlikler  alanını Yeni Gelen Kutusu Olarak ayarlandığnı **doğrulayınRule Oluşturma/değiştirme/etkinleştirme/devre dışı bırakma gelen kutusu kuralı.**
 
-5. **Ara**'ya tıklayın.
+5. **Arama'ya tıklayın.**
 
-Sonuçlarda bir denetim kaydı seçin. Ayrıntılar açılır listesinde, **ek bilgi**'yi tıklatın. Gelen kutusu kuralı ayarları hakkında bilgi **Parametreler** alanında görüntülenir.
+Sonuçlarda, bir denetim kaydı seçin. Ayrıntılar uç bilgisinde, Daha Fazla **Bilgi'ye tıklayın.** Gelen kutusu kuralı ayarları hakkında bilgiler Parametreler **alanında** görüntülenir.
 
-Daha fazla bilgi için bkz: [kullanıcının gelen kutusu kuralı oluşturup oluşturmayacağınızı belirleme](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Daha fazla bilgi için [bkz. Kullanıcının gelen kutusu kuralı oluşturma olup olmadığını belirleme](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

@@ -1,5 +1,5 @@
 ---
-title: Güvenlik & Uyumluluk Merkezi 'nde birleştirilmiş bekletme ilkeleri
+title: Güvenlik ve Uyumluluk Merkezi'nde & ilkeleri
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669231"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630161"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Güvenlik & Uyumluluk Merkezi 'nde birleştirilmiş bekletme ilkeleri
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Güvenlik ve Uyumluluk Merkezi'nde & ilkeleri
 
-Bekletme ilkeleri, bekletme ve silme ayarlarını kullanarak kuruluşunuzun içeriğini yönetmenizi sağlar. Office 365 güvenlik & Uyumluluk Merkezi 'nde veya Microsoft 365 Uyumluluk Merkezi 'nde Birleşik bekletme ilkeleri oluşturabilirsiniz. 
+Bekletme ilkeleri, bekletme ve silme ayarlarını kullanarak kuruluş içeriklerini yönetmenize izin sağlar. Birleşik bekletme ilkelerini, Office 365 Güvenlik & Merkezi'nde veya Uyumluluk Merkezi'Microsoft 365 oluşturabilirsiniz. 
 
-1. [Güvenlik & Uyumluluk Merkezi](https://go.microsoft.com/fwlink/p/?linkid=2077143)'nde, bilgi yönetimi **Information governance**  >  **bekletme**  >  **+ Oluştur**'u seçin. <br/>
-    [Microsoft 365 Uyumluluk Merkezi](https://go.microsoft.com/fwlink/p/?linkid=2077149)'nde, **ilkeler**  >  **verileri > bekletme > + yeni bekletme ilkesi** 'ni seçin.
-2. **Ad**, **Ayarlar**ve **konum seçin**.
-3. Ayarlarınızı gözden geçirin ve sonra **Bu Ilkeyi oluştur** veya **daha sonra da kaydet**'i seçin.  
+1. Güvenlik ve [Uyumluluk & altında, Bilgi](https://go.microsoft.com/fwlink/p/?linkid=2077143)yönetimi Bekletme   >    >  **+Oluştur öğesini seçin.** <br/>
+    Uyumluluk [Merkezi'Microsoft 365 İlkeler](https://go.microsoft.com/fwlink/p/?linkid=2077149) **Verileri'>** Bekletme > + Yeni  >  **bekletme ilkesi'ne seçin.**
+2. Add **Name**, **Ayarlar**, and **Choose locations**.
+3. Ayarlarınızı gözden geçirerek Bu ilkeyi **oluştur'a veya Daha sonrası** **için kaydet'e tıklayın.**  
       
-Exchange e-postası, OneDrive, SharePoint ve takımlar içeriği gibi içerikler için bekletme ilkeleri hakkında daha fazla bilgi için, [bekletme Ilkelerine genel bakış](https://go.microsoft.com/fwlink/?linkid=2127785)konusuna bakın.  
+E-posta, Exchange e-posta, OneDrive, e-SharePoint gibi içeriklerin bekletme ilkeleri Teams için bkz. Bekletme ilkelerine [genel bakış](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-Exchange Yönetim Merkezi 'nde ve güvenlik & Uyumluluk Merkezi 'nde bekletme ilkelerini yan yana kullanıyorsanız, [eski özellikler yerine bekletme Ilkesi kullanmak](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features)için bu öneriye bakın.  
+Bekletme ilkelerini Exchange yönetim merkezinde ve Güvenlik & Uyumluluk Merkezi'nde yan yana kullanıyorsanız, eski özellikler yerine bekletme ilkesi kullanma [önerisine bakın.](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features)  
     
-Ekip bekletmesi hakkında belirli bilgiler için [ekiplerde bekletme ilkeleri](https://docs.microsoft.com/microsoftteams/retention-policies)bölümüne bakın.
+Bekletmeyi koruma hakkında Teams için [bkz.](/microsoftteams/retention-policies)Teams.

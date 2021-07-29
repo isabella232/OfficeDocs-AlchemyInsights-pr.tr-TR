@@ -1,5 +1,5 @@
 ---
-title: 1488-gerçekleştirme-eBulma ve içerik aramaları
+title: 1488-perform-eKovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668534"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630233"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Içerik aramalarını ve eBulma aramalarını gerçekleştirme
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>İçerik Aramaları ve eBulma aramaları gerçekleştirme
 
-**İçerik araması gerçekleştirmek için**:
+**İçerik araması yapmak için:**
 
-1. [Güvenlik & Uyumluluk Merkezi](https://protection.office.com) 'ne gidin ve oturum açın.
-2. **> içerik araması**'nı tıklatın.
-3. Yeni arama oluşturmak için **Yeni arama** 'yı tıklatın.
-4. Anahtar sözcükler ve içerik konumları dahil olmak üzere gerekli arama koşullarını girin.
-5. Aramayı adlandırmak için **kaydet & kaydet** 'i tıklatın, başlatın ve sonra sonuçları önizleyin.
+1. Uyumluluk Merkezi'Microsoft 365 gidin ve oturum açma.
+2. Arama **ve İçerik > öğesini seçin.**
+3. Yeni **bir arama oluşturmak** için Yeni arama'ya seçin.
+4. Anahtar sözcükler ve içerik konumları da dahil olmak üzere gerekli arama koşullarını girin.
+5. Arama **için & çalıştır'ı** seçerek arama adını yazın, başlatarak sonuçların önizlemesini görüntüdenin.
 
 > [!NOTE]
-> **M365 Uyumluluk Merkezi**'Nde, **çözümler** altında **eBulma** 'ı Genişlet 'i seçin ve istediğiniz eBulma aracını seçin.
+> Uyumluluk **Microsoft 365 çözümlerini**  >  **kullanarak** **eBulma'ya genişletin** ve istediğiniz eBulma aracınızı seçin.
 
-İçerik aramaları, sonuçları verme ve verileri tutmak amacıyla eBulma durumları oluşturma hakkında ayrıntılı yönergeler için [Içerik arama](https://docs.microsoft.com/microsoft-365/compliance/content-search) ve [eBulma durumları](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)konusuna bakın.
+İçerik aramaları, sonuçları dışarı aktarma ve verileri tutmak için eBulma [](/microsoft-365/compliance/content-search) örnekleri oluşturma hakkında ayrıntılı yönergeler için bkz. İçerik Arama ve [eBulma örnekleri.](/microsoft-365/compliance/ediscovery-cases)
 
-**Daha fazla bilgi**:
+**Daha fazla bilgi:**
 
-- Microsoft 365 ['de eBulma araçları](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)hakkında daha fazla bilgi için bkz.
-- EBulma aramaları ve [gereksinimleri ve sınırlamaları](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) [Için gereken izinlerden](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) eBulma aramaları gerçekleştirmek için gereken izinler, gereksinimler ve sınırlamalar hakkında bilgi edinin.
-- EBulma sorunlarını giderirken, [eBulma sorunlarını giderme](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) ve [kısmen dizinlenen öğeleri araştırma](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)konularına bakın.
+- EBulma araçları hakkında daha fazla bilgi için Microsoft 365 [bkz. eBulma](/microsoft-365/compliance/ediscovery).
+- eBulma aramaları, gereksinimler ve sınırlar için gereken izinler, gereksinimler ve sınırlar ile [eBulma](/microsoft-365/compliance/assign-ediscovery-permissions) aramaları için gereken izinler [konusunda bilgi edinebilirsiniz.](/microsoft-365/compliance/limits-for-content-search)
+- eBulma sorunlarını gidermeye devam ediyorsanız, [bkz. eBulma Sık](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) karşılaşılan sorunları giderme ve [kısmen dizine](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)alan öğeleri inceleme .
