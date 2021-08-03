@@ -1,8 +1,10 @@
 ---
-title: Office 365 için Microsoft Defender'ı satın alma
+title: Microsoft Defender'ı satın Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,26 +12,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: 6317ba5b9ba4513d6d92e06b449778aa7614fe28
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 3ad512ae86f68fbaa05501c44de3428e4446e862
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707866"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685574"
 ---
-# <a name="purchase-microsoft-defender-for-office-365"></a>Office 365 için Microsoft Defender'ı satın alma
+# <a name="purchase-microsoft-defender-for-office-365"></a>Microsoft Defender'ı satın Office 365
 
-Office 365 için Microsoft Defender, Microsoft 365 E5, Office 365 E5, Office 365 A5 ve Microsoft 365 İş Ekstra gibi belirli aboneliklere dahildir. Aboneliğiniz Office 365 için Microsoft Defender'ı dahil etmese, belirli bir aboneliğe eklenti olarak [Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) için Microsoft Defender'ı satın alabilirsiniz. Microsoft 365 yönetim merkezinden satın almak için:
+Office 365 için Microsoft Defender, abonelikler, abonelikler Microsoft 365 E5, Office 365 E5, Office 365 A5 gibi Microsoft 365 İş Ekstra. Aboneliğiniz web için Microsoft Defender'ı Office 365, belirli bir aboneliğe eklenti olarak Office 365 için [Microsoft Defender'ı](/microsoft-365/security/office-365-security/office-365-atp) satın alabilirsiniz. Bir e-Microsoft 365 yönetim merkezi:
 
-1. Yönetim merkezinde Fatura Satın Alma **hizmetleri**  >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=868433) gidin.
-2. Hizmetleri satın alma **sayfasının** en altındaki  Eklentiler bölümünde, Office 365 için Microsoft Defender eklentisini bulun ve Ayrıntılar'ı **seçin.**
+1. Yönetim merkezinde Faturalama Satın Alma **hizmetleri**  >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=868433) gidin.
+2. Hizmet satın alma sayfasının **en** altındaki  Eklentiler bölümünde, Hizmetler için Microsoft Defender'ı Office 365 Ayrıntılar'ı **seçin.**
 3. Ürün ayrıntıları sayfasında Satın Al'ı **seçin.**
-4. Gerekirse diğer sipariş bilgilerini de tamamlayın. Bu bilgiler, eklentinin sahip olduğu aboneliği ve eklentiyi kullanan kullanıcıların sayısını içerebilir. Bitirdikten sonra Şimdi **bitir'i seçin.**
-5. Gerekirse sipariş ve fiyatlandırma bilgilerini gözden geçirerek Sonraki'yi **seçin.**
-6. Bir ödeme yöntemi seçin veya yeni bir yöntem ekleyin, ardından Sipariş Yönetici **Giriş'e**  >  **Git'i seçin.**
+4. Gerekirse diğer tüm sipariş bilgilerini tamamla. Bu bilgiler, eklentinin sahip olduğu aboneliği ve eklentiyi kullanan kullanıcı sayısını içerebilir. Bitirdikten sonra, Şimdi bitir **'i seçin.**
+5. Gerekirse, sipariş ve fiyatlandırma bilgilerini gözden geçirerek Sonraki öğesini **seçin.**
+6. Bir ödeme yöntemi seçin veya yeni bir yöntem ekleyin, ardından Sipariş Yeri **Yönetici**  >  **Giriş'e Git 'i seçin.**
 
-Kullanıcılara lisans atamak için bkz. [Kullanıcılara lisans atama.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
+Kullanıcılara lisans atamak için bkz. [Kullanıcılara lisans atama](/microsoft-365/admin/manage/assign-licenses-to-users).
 
-Daha fazla lisans satın almak veya lisansları kaldırmak için bkz. [Lisans satın alma veya kaldırma](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Daha fazla lisans satın almak veya lisansları kaldırmak için bkz. [Lisans satın alma veya kaldırma](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

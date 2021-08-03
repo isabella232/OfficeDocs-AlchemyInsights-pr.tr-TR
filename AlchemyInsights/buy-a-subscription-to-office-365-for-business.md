@@ -1,8 +1,10 @@
 ---
-title: Ücretsiz denemenizden işletmeler için Microsoft 365 aboneliği satın alın
+title: Ücretsiz deneme aboneliğinizi Microsoft 365 kurumsal abonelik satın alma
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,32 +12,33 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: e4e2024031ea539ae5107569481eb30e20649067
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: b45615a13d566c4c66b55bc989971864890ded9c
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416208"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686078"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Ücretsiz denemeniz için Microsoft 365 aboneliği satın alın
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Ücretsiz deneme aboneliğinizi Microsoft 365 abonelik satın alma
 
-Microsoft 365 'i denediniz ve artık satın almaya hazırsınız. Deneme sürümünüzden Microsoft 365 satın alırken iki seçeneğiniz vardır:
+Bu Microsoft 365 denedin ve artık satın almak için hazırsın. Deneme sürümünüzden satın alırken Microsoft 365 iki seçeneğiniz vardır:
   
  **Deneme planınızla aynı planı satın alın**
   
-1. Yönetim **merkezinde,** \> [Ürünler](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin.
-2. **Ürünler** sekmesinde, Satın almak istediğiniz aboneliği seçin.
-3. Abonelik Ayrıntıları sayfasında, **Lisans** bölümünde, **ücretli aboneliği satın al**'ı seçin ve kullanıma alma adımlarını izleyin.
+1. Yönetim merkezinde Ürünlerinizi Faturalandırma  \> [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
+2. Ürünler **sekmesinde,** satın almak istediğiniz aboneliği seçin.
+3. Abonelik ayrıntıları sayfasındaki Lisans bölümünde, **Ücretli** aboneliği şimdi satın **al 'ı** seçin ve çıkış yapmak için adımları izleyin.
  
-**Farklı bir abonelik satın alın**
+**Farklı bir abonelik satın alma**
   
-1. Yönetim merkezinde **faturalandırma** \> [satın alma hizmetleri](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfasına gidin.
-2. Satın almak istediğiniz aboneliği bulun, **satın al**'ı seçin ve kullanıma alma adımlarını izleyin.
+1. Yönetim merkezinde Faturalama Satın Alma **hizmetleri** \> [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=868433) gidin.
+2. Satın almak istediğiniz aboneliği bulun, Satın **Al'ı** seçin ve çıkış yapmak için adımları izleyin.
 
-Daha fazla bilgi edinmek için [ücretsiz deneme sürenizi satın alın](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).
+Daha fazla bilgi edinmek için [ücretsiz deneme sürümünden abonelik satın alma bkz.](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
 
 **Sorun giderme**
 

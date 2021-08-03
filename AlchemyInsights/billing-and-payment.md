@@ -3,6 +3,8 @@ title: Faturalama ve ödeme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820414"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686906"
 ---
 # <a name="billing-and-payment"></a>Faturalama ve ödeme
 
@@ -52,10 +55,10 @@ Yeni kart eklediysanız ve hala eski kredi kartında reddetme bildirimi alıyors
 
 7. Yeni ödeme yöntemi açılan listede zaten seçilidir. **Değiştir'i seçin.**
 
-Daha fazla bilgi için [bkz. Ödeme yöntemlerini yönetme.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Daha fazla bilgi için [bkz. Ödeme yöntemlerini yönetme.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **Ödeme sıklığı**
 
 Faturalar, ödemede seçilen faturalandırma sıklığına bağlı olarak aylık veya yıllık olarak oluşturulur.  
 
-**Not:** Lisans ekleme veya kaldırma gibi değişiklikler yapılmışsa, yıllık faturalandırmayı olan siparişler, faturayı orta dönemde almalarını sağlar. [Faturalandırma sıklığınızı değiştirme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Not:** Lisans ekleme veya kaldırma gibi değişiklikler yapılmışsa, yıllık faturalandırmayı olan siparişler, faturayı orta dönemde almalarını sağlar. [Faturalandırma sıklığınızı değiştirme](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
