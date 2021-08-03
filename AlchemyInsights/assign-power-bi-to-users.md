@@ -3,6 +3,8 @@ title: Kullanıcılara Power BI atama
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, sinakassaw
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9002564"
 - "4964"
-ms.openlocfilehash: 85e6105483a6b493753cdea48262d3e3a2141a50
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
-ms.translationtype: HT
+ms.openlocfilehash: c14734e848ebd381d76a985d93d04a7be4b51e45
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601808"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688202"
 ---
 # <a name="assign-power-bi-to-users"></a>Kullanıcılara Power BI atama
 
@@ -30,4 +33,4 @@ ms.locfileid: "50601808"
 5. Atamak veya kaldırmak için **Uygulamaları ve hizmetleri açın veya kapatın** seçeneğine tıklayın.
 6. **Ata**’ya ve **Kapat**’a tıklayın.
 
-Daha fazla lisans satın almak veya lisansları kaldırmak için bkz. [Lisans satın alma veya kaldırma](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Daha fazla lisans satın almak veya lisansları kaldırmak için bkz. [Lisans satın alma veya kaldırma](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

@@ -3,6 +3,8 @@ title: Microsoft Açık Lisans Programı
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviwer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: bbe0ee6718e470e5d1d309a6e87f5312ef806599
-ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
+ms.openlocfilehash: 61d2c00657cb6f5f7955adf04142d0b072050557
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51217953"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688886"
 ---
 # <a name="microsoft-open-license-program"></a>Microsoft Açık Lisans Programı
 
-Microsoft 365 İş'i [bir Microsoft Açık](https://go.microsoft.com/fwlink/p/?LinkID=613298)Lisans Programı aracılığıyla satın aldıysanız, ürün anahtarınızı şu şekilde bulur ve etkinleştirirsiniz.
+microsoft açık Microsoft 365 programı aracılığıyla işletmeler [için](https://go.microsoft.com/fwlink/p/?LinkID=613298)Microsoft 365 satın aldıysanız, ürün anahtarınızı nasıl bulup etkinleştir o şekilde bulur ve etkinleştirirsiniz.
 
-1. Microsoft 365 iş ortağından anahtar satındikten sonra, microsoft'tan gelen kutunuzda etkinleştirme bağlantısı içeren bir e-posta olup denetlemeniz gerekir.
-
-    > [!NOTE]
-    > Bu e-posta toplu lisans sözleşmesinde çevrimiçi yönetici olarak listelenen kişiye gönderilir. Kimin çevrimiçi yönetici olarak belirlen olduğundan emin değilseniz, Microsoft 365 iş ortağınıza sorun.
-1. İş veya okul hesabınızla oturum açmak, Açık lisans sözleşmesi kabul etmek ve aboneliği yenilemek için e-postada yer alan bağlantıyı izleyin. Adım adım kılavuz için, Çevrimiçi Hizmetleri Etkinleştirme: [Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkId=618100)Aboneliği PDF kılavuzunu indirin.
+1. Bir iş ortağından anahtar satın Microsoft 365, Microsoft'tan gelen etkinleştirme bağlantısı içeren bir e-postayı kontrol edin.
 
     > [!NOTE]
-    > Toplu lisanslama müşterileri, Toplu Lisanslama Hizmeti Merkezi'nde [abonelikleri etkinleştirmeyi de seçebilir.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Nasıl olduğunu öğrenmek için, Toplu Lisanslama Hizmeti [Merkezi'nde Active Online Services pdf kılavuzunu indirin.](https://go.microsoft.com/fwlink/p/?LinkId=618096)
+    > Bu e-posta toplu lisans sözleşmesinde çevrimiçi yönetici olarak listelenen kişiye gönderilir. Kimin çevrimiçi yönetici olarak atan olduğundan emin değilseniz iş ortağınıza Microsoft 365.
+1. İş veya okul hesabınızla oturum açmak, Açık lisans sözleşmenizi kabul etmek ve aboneliği yenilemek için e-postada yer alan bağlantıyı izleyin. Adım adım kılavuz için Çevrimiçi Hizmetleri Etkinleştirme: Çevrimiçi Hizmetleri Etkinleştirme PDF Microsoft 365 [indirin.](https://go.microsoft.com/fwlink/p/?LinkId=618100)
+
+    > [!NOTE]
+    > Toplu lisanslama müşterileri Toplu Lisanslama Hizmeti Merkezi'nde [abonelikleri etkinleştirmeyi de seçebilir.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Nasıl olduğunu öğrenmek için Toplu Lisanslama Hizmeti [Merkezi'nde Active Online Services](https://go.microsoft.com/fwlink/p/?LinkId=618096)PDF kılavuzunu indirin.

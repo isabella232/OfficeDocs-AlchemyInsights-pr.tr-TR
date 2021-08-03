@@ -3,6 +3,7 @@ title: Aboneliği askıya alma veya duraklatma
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 1a4c9016335bc045569ac6a17627b8cce4e78dc5
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: ae36b1500e48e9a12547daa27d5b1d035d8b2ba5
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544526"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687734"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Aboneliği askıya alma veya duraklatma
 
-Aboneliğinizi geçici olarak askıya almak veya duraklatmak için yönetim merkezinde aboneliği Microsoft 365 edebilirsiniz.
+Aboneliğinizi geçici olarak askıya almak veya duraklatmak için, abonelik iptal işlemini Microsoft 365 yönetim merkezi.
 
 1. Yönetim merkezinde Ürünlerinizi Faturalandırma   >  **[sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054)** gidin.
 2. Ürünler **sekmesinde,** iptal etmek istediğiniz aboneliği bulun. Üç noktayı (diğer eylemler) ve ardından Aboneliği iptal **et'i seçin.**

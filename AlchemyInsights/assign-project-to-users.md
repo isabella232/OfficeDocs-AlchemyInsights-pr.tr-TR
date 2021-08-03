@@ -3,6 +3,8 @@ title: Kullanıcılara Project atama
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, micurn
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9002424"
 - "5103"
-ms.openlocfilehash: c33253871ea45682351c9f3d15a9ab0e129666a5
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
-ms.translationtype: HT
+ms.openlocfilehash: 4938f3e20f5540091ee0b255e7b3f752c07d13fd
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601772"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688598"
 ---
 # <a name="assign-project-to-users"></a>Kullanıcılara Project atama
 
@@ -30,4 +33,4 @@ ms.locfileid: "50601772"
 5. Atamak veya kaldırmak için **Uygulamaları ve hizmetleri açın veya kapatın** seçeneğine tıklayın.
 6. **Ata**’ya ve **Kapat**’a tıklayın.
 
-Daha fazla lisans satın almak veya lisansları kaldırmak için bkz. [Lisans satın alma veya kaldırma](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Daha fazla lisans satın almak veya lisansları kaldırmak için bkz. [Lisans satın alma veya kaldırma](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

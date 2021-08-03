@@ -1,5 +1,5 @@
 ---
-title: Bir sağlayıcıya bir telefon numarası eklemek mi istiyorsunuz?
+title: Bir sağlayıcıdan bir Telefon Microsoft'a taşımanız mı gerekiyor?
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,19 +11,21 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c1e5837034130f7d03220d28c1da1fa619b6fe64
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712168"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689426"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Mevcut numaraları Teams’e taşıma
 
-Şu anda telefon hizmet sağlayıcınız veya operatörünüz varsa ve kullanıcılarınız veya hizmetleriniz için zaten telefon numaralarınız varsa, bu telefon numaralarını Microsoft Teams’e aktarmak için "taşıma emri" oluşturmanız gerekir.
+Şu anda telefon hizmet sağlayıcınız veya operatörünüz varsa ve kullanıcılarınız veya hizmetleriniz için zaten telefon numaralarınız varsa, bu telefon numaralarını Microsoft Teams’e aktarmak için "taşıma emri" oluşturmanız gerekir.  
 
-- Taşımanın nasıl tamamlanacağını öğrenmek için bkz. [Telefon numaralarını Teams’e aktarma](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams). 
+Yeni bir bağlantı noktası talimatı oluşturmak veya mevcut bir talimatı kontrol etmek için şu adımları izleyin: 
 
-- Telefon numarası yönetimi hakkında yol göstermesi için bkz. [Kuruluşunuzun telefon numaralarını yönetme](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). 
+1. Teams [numaraları sayfasını açmak](https://admin.teams.microsoft.com/phone-numbers) için Telefon gidin. 
 
-Daha fazla bilgi için bkz. [Taşıma Emrine Genel Bakış](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  
+1. Telefon **numarası desteği bağlantısı al'ı seçin.** 
+
+Doğrudan telefon numarası desteğine gitmek için numara [Telefon Merkezi'ne bakın.](https://pstnsd.powerappsportals.com/)  
