@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "7265"
-ms.openlocfilehash: 7c4c9d1a76f395dfb2f831d555199b76c354ca57
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 1faa9f69942d39b8d78c8f3e1316f93b52eeede6408dfabc89d0f7fe38b86fb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583956"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923151"
 ---
 # <a name="rbac-rules"></a>RBAC kuralları
 
-İzin hatasını alırsanız: 
+İzin hatası alırsanız: 
 
-- **Nesne kimliğine sahip istemci kapsam üzerinde eylem gerçekleştirme yetkisine sahip değil (kod: Authorizationbaşarısız oldu)**: bir kaynak oluşturmaya çalıştığınızda, şu anda seçili kapsamda kaynağa yazma izni olan bir rol atanmış bir kullanıcıyla oturumunuz açık olup olmadığını denetleyin. Örneğin, kaynak grubundaki sanal makineleri yönetmek için kaynak grubunda (veya üst kapsamda) [sanal makine katılımcısı](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) rolüne sahip olmanız gerekir. Yerleşik rollerin izinlerinin listesi için, [Azure kaynakları Için yerleşik rollere](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support)bakın.
-- **Destek isteği oluşturmak için izniniz** yok: bir destek bileti oluşturmaya veya güncelleştirmeye çalıştığınızda, şu anda Microsoft. support/supportticket/Write iznine sahip bir rol atanmış olan bir kullanıcı ile oturumunuz açık olup olmadığını denetleyin; Örneğin, bu [katılımcı desteği](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor).
-- **Daha fazla rol ataması oluşturulamaz (kod: roleatamasayısı)**: rol atamayı denediğinizde, bunun yerine gruplara roller atayarak rol atamalarının sayısını azaltmayı deneyin. Azure, abonelik başına en çok **2000** rol atamasını destekler.
+- Nesne kimliği bulunan istemci, kapsam **(kod: AuthorizationFailed)** üzerinden eylem gerçekleştirmek için yetkilendirmeye sahip değildir: Kaynak oluşturmaya denemiş durumdayken, seçili kapsamda kaynak üzerinde yazma iznine sahip bir role atanmış bir kullanıcıyla oturum açanın. Örneğin, bir kaynak grubunda sanal makineleri yönetmek için, kaynak grubunda (veya üst kapsamda) [Sanal](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) Makine Katılımcısı rolünüz olması gerekir. Her bir yerleşik rolün izinlerinin listesi için bkz. [Azure kaynakları için yerleşik roller](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support).
+- Destek isteği oluşturma izniniz **yok:** Destek bileti oluşturmak veya güncelleştirmek için, şu anda Microsoft.Support/supportTickets/write iznine sahip, Destek İsteği Katılımcısı . [](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor)
+- Artık rol ataması oluşturulamıyor **(kod: RoleAssignmentLimitExceeded)**: bir rol atamayı deneerek, bunun yerine gruplara roller ataarak rol atamalarının sayısını azaltmayı deneyin. Azure, abonelik başına **2000'e** kadar rol atamalarını destekler.
 
-Azure RBAC rolleriyle ilgili daha fazla bilgi için [Azure RBAC rollerine](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support)bakın.
+Azure RBAC rolleri hakkında daha fazla ayrıntı için bkz. [Azure RBAC rolleri.](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support)

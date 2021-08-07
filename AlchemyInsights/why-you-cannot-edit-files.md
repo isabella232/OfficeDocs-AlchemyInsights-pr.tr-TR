@@ -1,5 +1,5 @@
 ---
-title: Dosyalar düzenlemeye karşı kilitlenmiş
+title: Dosyalar düzenlemeye karşı kilitlendi
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,26 +14,26 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907830"
 ---
-# <a name="why-cant-i-edit-files"></a>Dosyaları neden düzenleyemiyorum?
+# <a name="why-cant-i-edit-files"></a>Dosyaları neden düzenley bilmiyorum?
 
-[Dosyayı neden düzenleyemeyeceğiniz](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)nedenlerinden bazılarına hızlı bir bakış yapın.
+Dosyayı düzenleyemayabilecek [nedenlere hızla göz atabilirsiniz.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)
 
-Düzenleme **, gerekli** veya **doğrulama** sütunları veya meta verileri içeren kitaplıklarınız varsa veya **taslak öğesi güvenliği** **yalnızca düzenleyebilecek** veya yalnızca kitaplığın sürüm ayarlarında **öğeleri onaylayabilecek** kullanıcılar olarak ayarlandığında:
+Onay **kutusunu,** Gerekli veya Doğrulama  sütunlarını veya meta verilerini içeren kitaplıklarınız varsa veya Taslak  Öğe Güvenliği değeri kitaplığın Sürüm belgesinde Yalnızca düzenleyen kullanıcılar veya Yalnızca öğeleri onaylayan kullanıcılar Ayarlar olarak ayarlanmışsa:  
 
-- SharePoint belge kitaplıkları için, bu öğeler salt okunur olarak eşitlenir.
+- Belge SharePoint için, bu öğeler salt okunur olarak eşitlenir.
 
-- OneDrive kitaplıkları için, OneDrive, eşitleme durumunun yanında bir kilit simgesi (OneDrive dosyası kilitli simgesi) gösterecektir ve belirtilen ayarlar kaldırılıncaya kadar Kullanıcı Kitaplığı eşitleyemeyecektir. 
+- OneDrive kitaplıkları için, OneDrive eşitleme durumunun yanında bir kilit simgesi ( OneDrive dosyası kilitli simgesi ) gösterilir ve kullanıcı sözü geçen ayarlar kaldırılana kadar kitaplığı eşitlemek mümkün olmayacaktır. 
 
-Word veya Excel 'In kilitli dosyaları hakkında daha fazla bilgi için lütfen aşağıdaki makalelere başvuru yapın.
+Word veya Excel kilitli dosyalarıyla ilgili daha fazla bilgi için lütfen aşağıdaki makalelere bakın.
 
-- [Office dosyasını düzenlerken "karşıya yükleme başarısız oldu" veya "otomatik olarak kaydedilemedi" hatası aldım](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
+- [Office dosyasını düzenlerken "Karşıya yükleme başarısız" veya "Otomatik olarak kaydedilemedi" hatası alıyorum](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
 - [Excel dosyası başka bir kullanıcı tarafından düzenlemeye karşı kilitlenmiş](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 

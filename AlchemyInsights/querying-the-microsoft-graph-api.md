@@ -1,5 +1,5 @@
 ---
-title: Microsoft Graph API 'YI sorgulama
+title: Microsoft Graph API'sini sorgulama
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,95 +12,95 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7846"
-ms.openlocfilehash: 527e88c7b3cb1cc4f5535e3b0d2bc4d8d1163336
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: eda5d8d1d76d0d87312b1441aeae89d8e250abe0e8b613d4a43fcc2345a6f021
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974689"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923259"
 ---
-# <a name="querying-the-microsoft-graph-api"></a>Microsoft Graph API 'YI sorgulama
+# <a name="querying-the-microsoft-graph-api"></a>Microsoft Graph API'sini sorgulama
 
-Bu konu, hala Azure AD grafik API 'sini kullanan geliştiriciler için de geçerlidir. Ancak, tüm dizin, kimlik ve erişim yönetimi senaryolarınız için Microsoft Graph kullanmanız **kesinlikle** önerilir.
+Bu konu, Hala Azure AD Graph API kullanan geliştiriciler için de geçerlidir. Bununla birlikte, **tüm dizin,** kimlik ve erişim yönetimi senaryolarınız Graph Microsoft Graph'i kullanmanız kesinlikle önerilir.
 
 **Kimlik doğrulama veya yetkilendirme sorunları**
 
-- Uygulamanız Microsoft Graph 'ı aramak için **belirteçleri edinemiyorsanız** , bu konuda daha belirli yardım ve destek almak için **erişim belirteci (kimlik doğrulama) alma hakkında sorun** seçin.
-- Uygulamanız Microsoft Graph 'ı ararken **401 veya 403 yetkilendirme hataları** alıyorsa, bu konuda daha ayrıntılı yardım almak için **erişim reddedildi hatasını alma (yetkilendirme)** Microsoft Graph API kategorisini seçin.
+- Uygulamanız Microsoft  Graph'i aramak için belirteç alamasa da, bu konuda daha özel yardım ve destek almak için Microsoft Graph erişim belirteci **(Kimlik Doğrulama)** kategorisi alma ile ilgili sorun'u seçin.
+- Uygulamanız Microsoft Graph'u arayarak arama sırasında **401 veya 403** yetkilendirme hatası alıyorsa, bu konuda daha özel yardım ve destek almak için Erişim reddedildi hatası **(Yetkilendirme)** Microsoft Graph API'si kategorisini seçin.
 
-**Microsoft Graph 'ı kullanmak istiyorum, ancak nereden başlayacağınızdan emin değil**
+**Microsoft Graph'i kullanmak istiyorum ama nereden başlayacağımı bilmiyorum**
 
-Microsoft Graph hakkında daha fazla bilgi edinmek için bkz:
+Microsoft Graph hakkında daha fazla bilgi için bkz:
 
-- [Microsoft Graph 'a genel bakış](https://docs.microsoft.com/graph/overview)
-- [Microsoft Graph 'ta kimlik ve erişim yönetimine genel bakış](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
-- [Microsoft Graph uygulamalarını oluşturmaya başlarken](https://docs.microsoft.com/graph/)
-- **Microsoft Graph Explorer** -kiracınızdaki veya bir tanıtım kiracısındaki Microsoft Graph API 'lerini test edin
+- [Microsoft Graph'a genel bakış](https://docs.microsoft.com/graph/overview)
+- [Microsoft Graph'ta Kimlik ve Erişim Yönetimi'ne genel Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [Microsoft Graph uygulamalarını Graph başlarken](https://docs.microsoft.com/graph/)
+- **Microsoft Graph Explorer** - Kiracınız veya tanıtım Graph API'leri test etmek
 
-**Microsoft Graph 'ı kullanmak istiyorum, ancak ihtiyacım olan v 1.0 Dizin API 'Lerini destekliyor mu?**
+**Microsoft Graph'i kullanmak istiyorum ama gereken v1.0 dizin API'lerini destekliyor mu?**
 
-Microsoft Graph, dizin, kimlik ve erişim yönetimi için önerilen API 'dır. Ancak, Azure AD Graph ve Microsoft Graph 'ta mümkün olduğunca birkaç boşluk vardır. Seçiminize yardımcı olmak için en güncel farklılıkları vurgulayan aşağıdaki makaleleri gözden geçirin:
+Microsoft Graph dizin, kimlik ve erişim yönetimi için önerilen API'dir. Bununla birlikte, Azure AD ad ve Microsoft Graph'da mümkün olan şeyler arasında hala birkaç Graph. Seçiminize yardımcı olacak en güncel farkları vurgulayan aşağıdaki makaleleri gözden geçirin:
 
-- [Azure AD grafiği ile Microsoft Graph arasındaki kaynak türü farklılıkları](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
-- [Azure AD Graph ve Microsoft Graph arasındaki özellik farklılıkları](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
-- [Azure AD ve Microsoft Graph arasındaki yöntem farklılıkları](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+- [Azure AD abonelikleri ile Microsoft Graph arasındaki kaynak türü Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [Azure AD aboneliği ile Microsoft Graph arasındaki özellik Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- [Azure AD ile Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
-***Kullanıcı* nesnesini sorgulıyorum, özelliklerinin çoğu eksik**
+**Kullanıcı nesnesini *sorgula* kullanılırken, özelliğin bir çoğu eksik**
 
-`GET https://graph.microsoft.com/v1.0/users` Microsoft Graph, döndürülecek varsayılan *Kullanıcı* özellikleri kümesini otomatik olarak seçtiği için, yalnızca 11 özellik verir. Başka *Kullanıcı* özelliklerine ihtiyaç duyarsanız, uygulamanızın ihtiyaç duyduğu özellikleri seçmek için $Select kullanın. Önce **Microsoft Graph Explorer** 'da deneyin.
+`GET https://graph.microsoft.com/v1.0/users`Microsoft otomatik olarak, sonuç olarak Graph varsayılan kullanıcı özellikleri kümesi seçerken yalnızca 11 *özellik* döndürür. Diğer kullanıcı özelliklerine *ihtiyacınız* varsa, $select özellikleri seçmek için Diğer Özellikler'i kullanın. İlk olarak **Microsoft Graph Explorer'da** deneyin.
 
-**Bazı Kullanıcı özelliği değerleri, ayarladığım bilinmekle aynı şekilde *null***
+**Bazı kullanıcı özelliği *değerlerinin ayar* olduğunu bilse bile null**
 
-En büyük olasılık açıklaması, uygulamaya kullanıcının verilmesinden kaynaklanır *. Readbasıc. All* izni. Bu, uygulamanın daha önce ayarlamış olsalar bile tüm diğer özellikleri null olarak döndürmesinin, sınırlı Kullanıcı özellikleri kümesini okumasına olanak tanır. Uygulama *kullanıcısına* izin vermeyi deneyin.
+Bunun en olası açıklaması, uygulamaya *User.ReadBasic.All izni verilmiş olmasıdır.* Bu, uygulamanın sınırlı bir kullanıcı özellikleri kümesi okumasine olanak sağlar ve daha önce ayarlanmış olsalar bile diğer tüm özellikleri null olarak döndürür. Bunun yerine *User.Read.All iznini uygulamayı* deneyin.
 
-Daha fazla bilgi için [Microsoft Graph Kullanıcı izinleri](https://docs.microsoft.com/graph/permissions-reference#user-permissions)konusuna bakın.
+Daha fazla bilgi için [bkz. Microsoft Graph izinleri görüntüleme](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
 
-**İsteklerim 'deki verileri filtrelemek için OData sorgu parametrelerini kullanırken sorun yaşıyorum**
+**İsteklerimde verileri filtrelemek için OData sorgu parametrelerini kullanırken sorunm var**
 
-Microsoft Graph, çok sayıda OData sorgu parametresini destekleirken, bu parametrelerin çoğu Microsoft Graph 'ta Dizin Hizmetleri ( *Directoryobject*'den devralan kaynaklar) tarafından tam olarak desteklenmez. Microsoft Graph 'ta, Azure AD grafiğinde bulunan sınırlamalar da korunur:
+Microsoft Graph çok çeşitli OData sorgu parametrelerini desteklerken, bu parametrelerin birçoğu Microsoft Graph'te dizin hizmetleri *(dizinObject'den* devralan kaynaklar) tarafından tam olarak Graph. Azure AD'de var olan aynı sınırlamalar, Microsoft Graph'nin çoğu bölümünde Graph:
 
-1. **Desteklenmiyor**: *null* veya *olmayan* null değerleri $Count, $Search ve $Filter
-2. **Desteklenmiyor**: belirli özelliklerde $Filter (hangi özelliklere filtre uygulanamayacak kaynak konularına bakın)
-3. **Desteklenmiyor**: sayfalandırma, filtreleme ve aynı anda sıralama
-4. **Desteklenmiyor**: ilişkide filtreleme. Örneğin, İngiltere grubunun İngiltere 'deki tüm üyelerini bulun.
-5. **Kısmi destek**: *kullanıcıya* $OrderBy (yalnızca DisplayName ve UserPrincipalName) ve *Grup*
-6. **Kısmi destek**: $Filter (tek bir nesnenin ilişkilerini yalnızca *EQ* *,* *StartsWith*, *and ve* Limited *)* desteği, $Expand (tek nesnenin ilişkilerini genişletme tüm ilişkileri döndürür, ancak nesnelerin ilişkilerinin bir koleksiyonunu genişletme sınırlıdır)
+1. **Desteklenmiyor: $count,**$search ve $filter *null veya null* olmayan *değerlerle ilgili*
+2. **Desteklenmiyor: bazı**$filter hakkında daha fazla bilgi (hangi özelliklerin filtrelenebilir olduğuyla ilgili kaynak konularına bakın)
+3. **Desteklenmiyor:** aynı anda hem diskte hem filtreleme hem de sıralama
+4. **Desteklenmiyor:** bir ilişkiye göre filtreleme. Örneğin - Birleşik Krallık'ta olan mühendislik grubunun tüm üyelerini bulun.
+5. **Kısmi destek:**$orderby *(yalnızca* displayName ve userPrincipalName) ve *grupla* ilgili destek
+6. **Kısmi destek:**$filter (yalnızca *eq*,  *ile* başlar , veya ve ve sınırlı ) desteği, $expand (tek bir nesnenin ilişkilerini genişletmek tüm ilişkileri döndürür, ancak nesnelerin ilişki koleksiyonunu genişletmek sınırlıdır)
 
-Daha fazla bilgi [için bkz.](https://docs.microsoft.com/graph/query-parameters)
+Daha fazla bilgi için [bkz. Yanıtları sorgu parametreleriyle özelleştirme.](https://docs.microsoft.com/graph/query-parameters)
 
-**Aradığım API çalışmıyor-daha fazla testi nasıl yapabilirim?**
+**Çağrı yapacağım API çalışmıyor, nereden daha fazla test yapabilirim?**
 
-**Microsoft Graph Explorer** -kiracınızdaki veya bir gösteri kiracısındaki Microsoft Graph API 'lerini test edin ve Microsoft Graph Explorer 'daki **örnek sorguları** inceleyin.
+**Microsoft Graph Explorer** - Kiracı Graph veya tanıtım kiracısı olarak Microsoft Graph API'lerini test edin ve Microsoft Graph Explorer'daki örnek sorgulara göz atabilirsiniz. 
 
-**Verileri sorgulıyorum ancak tamamlanmamış bir veri kümesi aldığımda**
+**Verileri sorgula kullanılırken eksik bir veri kümesi geliyor gibi görünüyor**
 
-Bir koleksiyonu sorgulamakta ( *Kullanıcılar* gibi), Microsoft Graph sunucu tarafı sayfa sınırlarını kullanır, böylece sonuçlar her zaman varsayılan sayfa boyutuyla döndürülür. Uygulamanız her zaman hizmetten gelen koleksiyonlar aracılığıyla Page 'i beklemelidir.
+Bir koleksiyonu (kullanıcılar gibi) sorgularsanız, Microsoft Graph sunucu tarafı sayfa sınırlarını kullanır ve böylece sonuçlar her zaman varsayılan sayfa boyutuyla döndürülür. Uygulama her zaman hizmetten döndürülen koleksiyonlar boyunca sayfayı atlar.
 
 Daha fazla bilgi için bkz.:
 
-- [Microsoft Graph en iyi uygulamalar](https://docs.microsoft.com/graph/best-practices-concept)
-- [Uygulamanızda Microsoft Graph verilerini sayfalama](https://docs.microsoft.com/graph/paging)
+- [Microsoft Graph yöntemleri](https://docs.microsoft.com/graph/best-practices-concept)
+- [Microsoft'u Graph verileriyle çevrimiçi olarak çevrimiçi çalışma](https://docs.microsoft.com/graph/paging)
 
-**Uygulamam çok yavaş ve aynı zamanda daraltıldı. Hangi geliştirmeleri yapabilirim?**
+**Uygulamam çok yavaş ve aynı zamanda kısıtlanıyor. Hangi geliştirmeleri ben sağlarim?**
 
-Senaryonuza bağlı olarak, uygulamanızı daha iyi hale getirmek için ve bazı durumlarda hizmet tarafından daraltıldı (çok fazla arama yaparken) daha ucuz bir dizi farklı seçenek vardır.
+Senaryonıza bağlı olarak, uygulamanızı daha iyi performans ortaya çıkarmanız için ve bazı durumlarda (çok fazla arama yaparken) hizmet tarafından azaltmaya daha az az neden olan çeşitli seçenekler vardır.
 
 Daha fazla bilgi için şu makalelere bakın:
 
-- [Microsoft Graph en iyi uygulamalar](https://docs.microsoft.com/graph/best-practices-concept)
-- [İstekleri toplu işleme](https://docs.microsoft.com/graph/json-batching)
-- [Delta sorgusunda değişiklikleri izleme](https://docs.microsoft.com/graph/delta-query-overview)
-- [Web kancaları aracılığıyla değişiklikleri öğrenin](https://docs.microsoft.com/graph/webhooks)
-- [Azaltma Kılavuzu](https://docs.microsoft.com/graph/throttling)
+- [Microsoft Graph yöntemleri](https://docs.microsoft.com/graph/best-practices-concept)
+- [Toplu istekler](https://docs.microsoft.com/graph/json-batching)
+- [Değişiklik sorgusu aracılığıyla değişiklikleri izleme](https://docs.microsoft.com/graph/delta-query-overview)
+- [Web'ler aracılığıyla değişikliklerle ilgili bilgi al](https://docs.microsoft.com/graph/webhooks)
+- [Azaltma kılavuzu](https://docs.microsoft.com/graph/throttling)
 
-**Hatalar ve bilinen sorunlar hakkında daha fazla bilgiyi nerede bulabilirim?**
+**Hatalar ve bilinen sorunlar hakkında daha fazla bilgiyi nereden bulamıyorum?**
 
 - [Microsoft Graph hata yanıtı bilgileri](https://docs.microsoft.com/graph/errors)
 - [Microsoft Graph ile ilgili bilinen sorunlar](https://docs.microsoft.com/graph/known-issues)
 
-**Hizmet kullanılabilirliği ve bağlantısının durumunu nereden denetleyebilirim?**
+**Hizmet kullanılabilirliği ve bağlantısının durumunu nereden kontrol olabilirim?**
 
-Microsoft Graph aracılığıyla erişilebilecek temel hizmetlerin hizmet kullanılabilirliği ve bağlantısı, Microsoft Graph 'ın genel kullanılabilirliğini ve performansını etkileyebilir.
+Microsoft Graph aracılığıyla erişilebilen temel hizmetlerin hizmet kullanılabilirliği ve bağlantısı, Microsoft Graph'nin genel kullanılabilirliğini ve performansını etkileyebilir.
 
-- Azure Active Directory hizmeti durumu için, [Azure durum sayfasında](https://azure.microsoft.com/status/)listelenen **güvenlik + kimlik** hizmetlerinin durumunu denetleyin.
-- Microsoft Graph 'a katkıda bulunan Office Hizmetleri için, [Office hizmet durumu panosunda](https://portal.office.com/adminportal/home#/servicehealth)listelenen hizmetlerin durumunu denetleyin.
+- Hizmet Azure Active Directory durumu için, Azure durum **sayfasında listelenen Güvenlik + Kimlik** hizmetlerinin durumunu kontrol [edin.](https://azure.microsoft.com/status/)
+- Microsoft Office bir hizmet Graph daha fazla bilgi için Hizmet Durumu Panosu'Office [listelenen hizmetlerin durumunu kontrol edin.](https://portal.office.com/adminportal/home#/servicehealth)

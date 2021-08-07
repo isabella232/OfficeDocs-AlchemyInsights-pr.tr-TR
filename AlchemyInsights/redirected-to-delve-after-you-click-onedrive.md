@@ -1,5 +1,5 @@
 ---
-title: OneDrive İş Web OneDrive, Delve'e yeniden yönlendirilmesi
+title: OneDrive İş Web OneDrive yönlendirmelerini Delve
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 96f23585f7cbce672842f6330ba79816f24dbc41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 295dea987cd14ea848d2bf802f57429642d554b9661dc4dbfc805a447b7d0ede
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800009"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923007"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>OneDrive'a tık olduktan sonra Delve'e yeniden yönlendirildi
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>OneDrive'Delve tıklandıktan sonra yeniden yönlendirildi
 
 Ayrıntılı Sorun Giderme [Kılavuzumıza bakın.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-Bu sorunu çözmek için, yöneticinin kullanıcılara Kendi Sitelerim sitelerini oluşturma iznini vermi gerekir. Bunun nedeni, OneDrive İş sayfasının Sitelerim'de oluşturulmuştur.
+Bu sorunu çözmek için, yöneticinin kullanıcılara Kendi Sitelerim sitelerini oluşturma iznini vermi gerekir. Bunun nedeni, OneDrive İş Sitem'de oluşturulmuştur.
 
 Bu hakkı vermek için şu adımları izleyin:
 
-1. SharePoint yönetim merkezinde kullanıcı profilleri **'ne tıklayın.**
+1. Yönetim SharePoint, kullanıcı **profilleri 'ne tıklayın.**
 
 2. Kişiler bölümünde **Kullanıcı** İzinlerini Yönet **'e tıklayın.**
 
@@ -35,4 +35,4 @@ Bu hakkı vermek için şu adımları izleyin:
 
 4. Kullanıcı, kullanıcı veya grup ekledikten sonra eklenen kullanıcı, kullanıcı veya grubun seçili olduğundan  emin olun, izinler bölümüne ilerleyin ve Sonra Kişisel Site Oluştur (kişisel depolama alanı, haber akışı ve takip edilen içerik için **gereklidir)** öğesinin yanındaki onay kutusunu seçin.
 
-5. **Tamam'a** tıklayın ve siteyi oluşturmak için kullanıcının OneDrive sayfasına göz attırtır.
+5. **Tamam'a** tıklayın ve ardından kullanıcının siteyi oluşturmak OneDrive sayfayı gözattırabilir.

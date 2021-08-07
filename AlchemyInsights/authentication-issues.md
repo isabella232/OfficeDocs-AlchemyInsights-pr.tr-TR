@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
-ms.translationtype: HT
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019528"
 ---
 # <a name="authentication-issues"></a>Kimlik doğrulama sorunları
 
@@ -75,14 +75,14 @@ Koşullu erişimle ilgili daha fazla bilgi için bkz :
 - [MSAL kullanarak koşullu erişim zorluklarının üstesinden gelme](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Azure Active Directory koşullu erişimi için geliştirici kılavuzu](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Azure Active Directory Authentication Library (ADAL) ve Azure AD Graph API (AAD Graph) desteğinin sonu_* _
+***Azure Active Directory Authentication Library (ADAL) ve Azure AD Graph API (AAD Graph) için destek sonu***
 
 - 30 Haziran 2020'den itibaren Azure Active Directory Authentication Library (ADAL) ve Azure AD Graph API'ye (AAD Graph) artık yeni özellikler eklemeyeceğiz. Teknik destek ve güvenlik güncellemeleri sağlamaya devam edeceğiz, ancak artık özellik güncellemeleri sunmayacağız.
 - 30 Haziran 2022'den itibaren, ADAL ve AAD Grafiği için desteği sona erdireceğiz ve artık teknik destek veya güvenlik güncellemeleri sunmayacağız.
     - Mevcut işletim sistemi sürümlerinde ADAL kullanan uygulamalar bu süreden sonra çalışmaya devam edecek ancak herhangi bir teknik destek veya güvenlik güncellemesi almayacaktır.
     - Bu süreden sonra AAD Graph kullanan uygulamalar artık AAD Graph uç noktasından yanıt alamayabilir.
 
-_ *ADAL Geçişi**
+**ADAL Geçişi**
 
 En son özelliklere ve güvenlik güncellemelerine sahip olan [Microsoft Kimlik Doğrulama Kitaplığı'na (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview) güncelleme yapmanızı öneririz. Bu öneri, Microsoft'un uygulamalarını destek sonu son tarihine kadar MSAL'a geçirmesi bağlamındadır. Microsoft uygulamalarının MSAL'a geçişinin amacı, uygulamaların MSAL'ın devam eden güvenlik ve özellik iyileştirmelerinden yararlanmasını sağlamaktır.
 

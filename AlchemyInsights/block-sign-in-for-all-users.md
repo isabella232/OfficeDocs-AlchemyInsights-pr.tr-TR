@@ -1,5 +1,5 @@
 ---
-title: Tüm kullanıcılar için oturum açmayı engelle
+title: Tüm kullanıcılar için oturum açmasını engelle
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003536"
 - "6445"
-ms.openlocfilehash: b1596fdf463413a5b6714c48f4097e9552948070
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 90d29fe284e70959e8e2c85e15667269517dc9c3eaf75688bc4750d8767fa2fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807756"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019276"
 ---
-# <a name="block-sign-in-for-all-users"></a>Tüm kullanıcılar için oturum açmayı engelle
+# <a name="block-sign-in-for-all-users"></a>Tüm kullanıcılar için oturum açmasını engelle
 
-Herkesin Office 'te oturum açmasını engellemek için aşağıdaki adımları izleyin:
+Herkesin e-Office engellemek için şu adımları izleyin:
 
-1. Yönetim merkezinde, [ **Kullanıcılar**  >  **etkin kullanıcılarına**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)gidin.
-2. **Görünen ad** 'nın yanındaki işaretleyin işaretini tıklatarak tüm kullanıcıları seçin. Oturum açtığınız yönetici hesabının işaretini kaldırın.
-3. **"..."** **Export Users**  >  **Oturum açma ve oturum açma durumunu Düzenle** 'yi seçin ve ardından kullanıcıların oturum açmasını **Engelle** 'yi seçin. Yeni kaydolma hemen engelleniyor. Kullanıcı daha önce oturumduysa, Kullanıcı 60 dakika içinde tüm Microsoft hizmetlerinden otomatik olarak imzalanır.
+1. Yönetim merkezinde Kullanıcılar Etkin [ **kullanıcılar'a**  >  **gidin.**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+2. Görünen Ad'ın yanındaki onay işaretine tıklayarak tüm **kullanıcıları seçin.** Oturum açtığınız yönetici hesabının işaretini kaldırmış olun.
+3. Kullanıcıları Dışarı Aktar: Oturum **açma durumunu düzenle'nin** yanındaki **"..."** seçeneğine tıklayın, ardından Kullanıcıların  >  oturum **açmasını engelle öğesini seçin.** Yeni oturum açmalar hemen engellenir. Bir kullanıcı zaten oturum alaştırmışsa, 60 dakika içinde kullanıcının tüm oturum Microsoft hizmetleri otomatik olarak açılır.

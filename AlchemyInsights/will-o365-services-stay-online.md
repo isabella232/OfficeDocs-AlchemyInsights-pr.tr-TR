@@ -1,5 +1,5 @@
 ---
-title: Office 365 Hizmetleri çevrimiçi kalacak mı?
+title: Bu Office 365 çevrimiçi kalacak mı?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680338"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036872"
 ---
-# <a name="will-office-365-services-stay-online"></a>Office 365 Hizmetleri çevrimiçi kalacak mı?
+# <a name="will-office-365-services-stay-online"></a>Bu Office 365 çevrimiçi kalacak mı?
 
-Evet. Bu hizmetleri esnekliği aklınızda geliştirdik. Hizmetlerin her biri aynı anda birden çok örnek çalıştırır, böylece bir örnekte sorunlar olsa da müşterilerimiz etkilenmez. Her hizmet de bulunur; dolayısıyla bir sorun bir hizmetle birlikte gelirse bir hizmetle birlikte gelmeyecektir. Son olarak, sorunların hizmette basamaklandırmasını engellemeye yardımcı olmak için her hizmetin kodunda koruyucular oluşturulmuştur.
+Evet. Bu hizmetleri, daha da iyi bir şekilde geliştirdik. Hizmetlerin her biri aynı anda birden fazla örnek çalıştırmaktadır, dolayısıyla bir örnekte sorun olsa bile müşterilerimiz etkilenmez. Her hizmet de içerir, dolayısıyla bir hizmetle ilgili bir sorun ortaya çıkarsa, diğer hizmetlere yayılmaz. Son olarak, hizmette basamaklı sorunları önlemeye yardımcı olmak için her hizmetin kodunda korumalar yerleşik olarak bulundu.
 
-Hizmetlerimizi kararlı tutma çabalarımız hakkında daha fazla bilgi edinmek için, [bulut hizmetleriyle kurumsal iş devamlılık yönetimi (EBCM)](https://go.microsoft.com/fwlink/?linkid=2124377)konusuna bakın.
+Hizmetlerimizden tutarlı tutma çabalarımız hakkında daha fazla bilgi edinmek için, Enterprise hizmetleriyle iş sürekliliği [yönetiminin (EBCM) nasıl çalıştığını öğrenin.](https://go.microsoft.com/fwlink/?linkid=2124377)
 
-Görüşleriniz bizim  / için bir göz atın, lütfen görüntülenen soruya **Hayır** Evet 'i seçin ve deneyiminizi yapın.
+Görüşleriniz için teşekkür ederiz, bu nedenle lütfen görüntülenen **soruda** Evet /  Hayır'ı seçin ve ardından deneyiminizi yorum edin.

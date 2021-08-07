@@ -9,34 +9,34 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 779db68e3018476f64da78678766b81cc0656cad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796740"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908370"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePoint ve OneDrive 'da Kullanıcı izinleri
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a>Kullanıcı izinleri SharePoint OneDrive
 
-Kuruluşunuzdaki bir kullanıcı SharePoint veya OneDrive 'a erişemiyorsa, SharePoint ve OneDrive içeren bir lisansa sahip olduklarından emin olun. 
+Bir kullanıcı e-postanıza veya e-postanıza SharePoint OneDrive, kullanıcı lisanslarında SharePoint lisans OneDrive. 
   
-1. [Microsoft 365 Yönetim Merkezi 'Nde etkin kullanıcılar sayfasına](https://portal.office.com/adminportal/home#/users) gidin ve kullanıcıyı seçin. 
+1. Çalışma sayfasında [Etkin kullanıcılar sayfasına gidin Microsoft 365 yönetim merkezi](https://portal.office.com/adminportal/home#/users) kullanıcısı seçin. 
     
-2. **Ürün lisanslarının**altında, lisans atanmış ve **SharePoint Online** 'ın seçildiğinden emin olun. 
+2. Ürün lisansları **altında, bir lisans** atan olduğundan ve Çevrimiçi SharePoint **seçildiğinden** emin olun. 
     
- Kullanıcıya SharePoint sitesine erişme izni vermek için: 
+ Kullanıcıya sitenin erişim izni SharePoint için: 
   
-1. Siteyi Web tarayıcısında açın.
+1. Siteyi bir web tarayıcısında açın.
     
-2. Site bir Microsoft 365 grubuna aitse, sağ üstteki ayarlar simgesine tıklayın ve ardından **Site izinleri**'ne tıklayın. **Kişileri davet et**'e tıklayın ve Microsoft 365 grubuna üye eklemeyi veya yalnızca siteyi paylaşmayı seçin. 
+2. Site bir site Microsoft 365, sağ üstteki Ayarlar Simgesi'ne ve sonra Da Site **izinleri'ne tıklayın.** Kişileri **davet et** seçeneğine tıklayın ve grup üyelerini Microsoft 365 veya yalnızca siteyi paylaşmayı seçin. 
     
-    İletişim sitesi için, siteyi sağ üst tarafta **Paylaş** 'ı tıklatın, kişinin adını girin ve izin düzeyini (okuma, düzenleme veya tam denetim) seçin. 
+    İletişim sitesi için, **sağ üst** köşedeki Siteyi paylaş'a tıklayın, kişinin adını girin ve izin düzeyini seçin (Okuma, Düzenleme veya Tam Denetim). 
     
-    Klasik ekip sitesi için sağ üst köşedeki **Paylaş** 'a tıklayın. Davet etmek istediğiniz kişinin adını girin veya kuruluşunuzdaki herkesle paylaşmak için herkesi yazın. **Paylaş**'a tıklayın.
+    Klasik bir ekip sitesi için sağ **üst köşedeki** Paylaş'a tıklayın. Davet etmek istediğiniz kişinin adını girin veya herkesle paylaşmak için Herkes yazın. Paylaş **'a tıklayın.**
     
 > [!NOTE]
-> Bir sitenin üyesiyseniz ancak sahibi değilseniz, siteye kişileri davet edebilirsiniz, ancak davetiniz site sahibi tarafından onaylanabilir veya reddedilmiş bir erişim isteği oluşturur. 
+> Bir sitenin üyesiyseniz ancak sahibi değilseniz, kişileri siteye davet edebilirsiniz, ancak davetiniz bir erişim isteği oluşturacak ve bu istek site sahibi tarafından onaylanabilecek veya reddedilen bir erişim isteği oluşturacak. 
   
-[Bir dosya veya klasörü kullanıcıyla paylaşmayı öğrenme](https://go.microsoft.com/fwlink/?linkid=533408)
+[Kullanıcıyla dosya veya klasör paylaşmayı öğrenin](https://go.microsoft.com/fwlink/?linkid=533408)
   
 

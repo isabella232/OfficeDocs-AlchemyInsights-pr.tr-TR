@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aff548db493087e16629e81f5da9990a00c53e510bc5f92743dee393956d9c1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834139"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036584"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word belgesi yanlış uygulamada açıldı veya açılmadı
 
@@ -31,19 +31,19 @@ ms.locfileid: "51834139"
 
 1. Programlar ve **Özellikler'> Denetim masasına > gidin.**
 
-2. Onarmak istediğiniz Office ürününü ve sonra Değiştir'i **seçin.**
+2. Onarmak Office ürüne ve sonra Değiştir'e **seçin.**
 
 3. Hızlı Onarım **seçeneğini belirleyin** ve sonra Onar'ı **seçin.**
 
 **Kullanmadığınız Office sürümlerini kaldırma**
 
-1. Denetim **Masası'> Program Kaldır'a** gidin ve kaldırmak istediğiniz Office sürümünü seçin.
+1. Denetim **Masası'> Program Kaldır'a** gidin ve Office istediğiniz Program sürümünü seçin.
 
 2. **Kaldır'a tıklayın.**
 
 3. Bilgisayarınızı yeniden başlatın.
 
-**Office dosya uzantılarını Office'te açılacak şekilde ayarlamak için bu sorun gidericiyi çalıştırın**
+**Dosya uzantılarının farklı bir Office ayarlamak için bu sorun gidericiyi Office**
 
 1. Şu sorun gidericiyi çalıştırın: https://aka.ms/diag_officefile .
 

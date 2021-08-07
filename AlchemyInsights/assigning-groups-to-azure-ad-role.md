@@ -1,5 +1,5 @@
 ---
-title: Azure AD rolüne Grup atama
+title: Azure AD rolüne grup atama
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "7898"
 - "9003230"
-ms.openlocfilehash: feca81fe785bc45e47f6faa876230b5c7701713d
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
-ms.translationtype: MT
+ms.openlocfilehash: 563b1a7c93c9ca64fdea51c57b70fd2132750c4ad8ee15de0c65c9668c9c3c56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885401"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036260"
 ---
-# <a name="assigning-groups-to-azure-ad-role"></a>Azure AD rolüne Grup atama
+# <a name="assigning-groups-to-azure-ad-role"></a>Azure AD rolüne grup atama
 
-Azure AD rolüne sahip bir Azure AD grubunu bir Azure AD rolüne atamak için aşağıdaki adımları uygulayın:
+Azure AD'de yetkili kaynağı olan bir Azure AD grubunu bir Azure AD rolüne atamak için, aşağıdaki adımları izleyin:
 
-1. Yeni Grup oluşturma-yeni grup oluşturmak Için:
+1. Yeni grup oluşturma - Yeni grup oluşturmak için:
 
-    a. **Ayrıcalıklı rol yöneticisi** veya **genel yönetıcı** izinleriyle Azure AD Yönetim Merkezi 'nde oturum açın.
-    b. **Tüm gruplar > yeni grup > Için Azure Active Directory > gruplar**'ı seçin.
+    a. Ayrıcalıklı rol yöneticisi veya genel yönetici izinleri ile Azure AD **yönetim** **merkezinde oturum** açın.
+    b. Yeni **Azure Active Directory > tüm gruplar > Grupları Seç > seçin.**
     c. Grubu oluşturun.
 
-2. Rolü Grup oluşturma sırasında veya Grup oluşturulduktan sonra gruba atayın.
+2. Rol, grup oluşturma sırasında veya grup oluşturulduktan sonra gruba attayn.
 
-    a. Gruba, Grup oluşturma sırasında bir rol atamak için, **Azure AD rollerini Değiştir grubuna** ve grubu oluşturmaya geçebilirsiniz.
-    b. Oluşturulduktan sonra gruba rol atamak için, yeni oluşturulan grubun **atanan roller** sekmesine gidin ve rolü gruba atayın.  
+    a. Grup oluşturma sırasında gruba rol atamak için, Iki durumlu **Azure AD** rollerini açıp gruba atanabilir ve grubu oluşturun.
+    b. Oluşturulduktan sonra gruba rol atamak için, yeni  oluşturulan grubun Atanan roller sekmesine gidin ve rolü gruba attayabilirsiniz.  
 
 **Azure AD rolüne atanmış bir grubun üyeliğini yönetme**
 
-Ayrıcalıkların yükseltilmesini önleyerek, varsayılan olarak yalnızca ayrıcalıklı rol yöneticileri ve genel Yöneticiler role atanmış bir grubun üyeliğini değiştirebilir. Ancak, bu tür bir grubun sahibini atamayı seçebilir ve bu göreve temsilci atarsınız.
+Ayrıcalık yükseltmelerini engellemek için, varsayılan olarak yalnızca ayrıcalıklı rol yöneticileri ve genel yöneticiler bir role atanmış olan grubun üyeliğini değiştirebilir. Bununla birlikte, böyle bir gruba sahip atamayı ve bu göreve temsilci atamayı seçebilirler.
 
-Azure AD rollerine bulut grupları atama hakkında daha fazla bilgi için bkz: [bulut grubuna ad rolleri atama](https://docs.microsoft.com/azure/active-directory/roles/groups-concept). Bulut gruplarına atanan rollerle ilgili sorun giderme hakkında daha fazla bilgi için, [bulut gruplarına atanan rollerle Ilgili sorun giderme](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting)konusuna bakın.
+Bulut gruplarını Azure AD rollerine atama hakkında daha fazla ayrıntı için [bkz. Bulut Grubuna AD rolleri atama.](https://docs.microsoft.com/azure/active-directory/roles/groups-concept) Bulut gruplarına atanmış rollerle ilgili sorun giderme hakkında daha fazla ayrıntı için [bkz. Bulut gruplarına atanan rollerle ilgili sorunları giderme.](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting)
 
 
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020104"
 ---
 # <a name="understand-billing-amount"></a>Fatura miktarını anlama
 
@@ -52,7 +52,7 @@ Yalnızca Azure Ücretsiz Hesabı'nın dahil olduğu hizmetleri dağıtırsanız
 
 Hesap başına bir Azure Ücretsiz Hesap aboneliği sınırı vardır.
 
-**Azure Ücretsiz Hesabı Kurumsal Sözleşme (EA) müşterileri ile nasıl çalışır?**  
+**Azure Ücretsiz Hesap, Kurumsal Anlaşma (EA) müşterileri ile nasıl çalışır?**  
 
 Bu teklif EA müşterileri tarafından kullanılamaz. Bununla birlikte, bir müşterinin Ücretsiz Hesabı varsa ve daha sonra EA katmanına dönüştürülürse, Ücretsiz Hesap avantajları, Ücretsiz Hesap kayıttan sonraki 12 ay boyunca devam eder.
 

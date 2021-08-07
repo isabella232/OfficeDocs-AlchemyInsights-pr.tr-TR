@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge'de açılır pencereleri engelleme
+title: Yeni pencerede açılan pencereleri Microsoft Edge
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7093"
 - "9004596"
 - "8220"
-ms.openlocfilehash: da0a46efdb7dd7cd393dc69daddecaf5f915f513
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 629463e6fbd1f1b794ba04b7707d7ab9ece55ea9851352211fcaeed41ea9279d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896995"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019312"
 ---
-# <a name="block-pop-up-windows-in-microsoft-edge"></a>Microsoft Edge'de açılır pencereleri engelleme
+# <a name="block-pop-up-windows-in-microsoft-edge"></a>Yeni pencerede açılan pencereleri Microsoft Edge
 
-1. Şu yere **gidin: ... (Ayarlar ve daha fazlası)**  >  **Ayarlar**  >  **Site izinleri**.
-2. Açılır **pencereleri ve yönlendirmeleri seçin.**
-3. Engelle **'i açma.**
+1. ... **(Ayarlar ve daha fazlası)**  >  **Ayarlar**  >  **Site izinleri**.
+2. Açılır **menüler ve yönlendirmeler'i seçin.**
+3. **Engelle'ye açma.**

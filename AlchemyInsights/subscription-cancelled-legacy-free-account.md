@@ -1,5 +1,5 @@
 ---
-title: Abonelik iptal edildi-eski-ücretsiz hesap
+title: Abonelik iptal edildi - Eski - Ücretsiz Hesap
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6847"
-ms.openlocfilehash: 36755f68e45d3a0099c0e378e166bff82362e490
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: e2cedead6e93fa7303e5d54b8d79fda14ae2cb9987a17986c6327ac78189c4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573883"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999224"
 ---
-# <a name="subscription-cancelled---legacy---free-account"></a>Abonelik iptal edildi-eski-ücretsiz hesap
+# <a name="subscription-cancelled---legacy---free-account"></a>Abonelik iptal edildi - Eski - Ücretsiz Hesap
 
-Azure Kontörünün süresi dolduğundan aboneliğiniz devre dışı bırakıldı.
+Azure kredisi süresi dolduğunda aboneliğiniz devre dışı bırakılır.
 
-**Azure Kontörü kullanım süresi doldu**
+**Azure kredisi süresi doldu**
 
-Bir Azure Ücretsiz hesabına kaydolduktan sonra, 30 gün ve 12 aylık ücretsiz hizmet için Azure kredilerini $200 sağlayan ücretsiz deneme aboneliği alırsınız. 30 günlük sonunda, Azure aboneliğinizi devre dışı bırakır. Aboneliğiniz, aboneliğinize dahil olan kontör ve ücretsiz hizmetlerin ötesinde kullanım ücretlerini yanlışlıkla görmesini engellemek için devre dışı bırakılmıştır. Azure hizmetleri 'ni kullanmaya devam etmek için [aboneliğinizi yükseltmeniz](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription)gerekir. Yükseltmeden sonra, aboneliğiniz 12 aylık ücretsiz hizmetlere erişebilir. Ücretsiz hizmetlerin ve miktarların ötesine kullanım için ücretlendirilirsiniz.
+Bir Azure ücretsiz hesabı için kaydolsanız, size 30 gün 12 aylık ücretsiz hizmetler için Azure kredisi olarak 200 ABD Doları sağlayan bir Ücretsiz Deneme aboneliği elde edin. 30 günün sonunda, Azure aboneliğinizi devre dışı bırakacak. Aboneliğinize dahil edilen kredi ve ücretsiz hizmetlerin ötesinde yanlışlıkla kullanım ücretlerine karşı sizi korumak için aboneliğiniz devre dışı bırakılır. Azure hizmetlerini kullanmaya devam etmek için [aboneliğinizi yükseltmeniz gerekir.](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription) Yükseltme işleminin ardından, aboneliğinizin 12 ay boyunca ücretsiz hizmetlere erişimi devam ediyor. Yalnızca ücretsiz hizmetlerin ve miktarların ötesindeki kullanım ücretlerini tahsil edersiniz.
 
-Aboneliğinizi güncelleştirmek için aşağıdaki adımları uygulayın:
+Aboneliğinizi yükseltmek için aşağıdaki adımları uygulayın:
 
-1. [Azure portalında](https://portal.azure.com/)oturum açın.
-2. **Abonelikleri** arayın.
-3. Azure Ücretsiz hesabına kaydolduğunuzda oluşturulan aboneliği seçin.
-4. Aboneliğe genel bakış bölümünde, komut çubuğunda **aboneliği Yükselt** düğmesini tıklatın. Aboneliği Yükselt düğmesini görmüyorsanız, sayfanın en üstündeki yükseltme başlığını tıklatın.
-5. Hesabınız için bir ödeme yönteminiz yoksa, bir tane eklemeniz istenir.
-6. Kimliğinizi doğrulamak için bir telefon numarası girmeniz gerekebilir.
+1. [Azure portalında oturum açın.](https://portal.azure.com/)
+2. Abonelikler'i **ara.**
+3. Azure ücretsiz hesabına kayıt olurken oluşturulan aboneliği seçin.
+4. Aboneliğe genel bakış bilgisinde, **komut çubuğunda aboneliği** yükselt düğmesine tıklayın. Yükseltme aboneliği düğmesini görmüyorsanız, sayfanın en üstünde yükseltme başlığına tıklayın.
+5. Hesabınız için bir ödeme yönteminiz yoksa bir tane eklemeniz istenir.
+6. Kimliğinizi doğrulamak için bir telefon numarası girmeniz gerekiyor olabilir.
 7. Aboneliğiniz için bir ad yazın.
-8. **Yükselt**'e tıklayın.
+8. Yükselt **'e tıklayın.**

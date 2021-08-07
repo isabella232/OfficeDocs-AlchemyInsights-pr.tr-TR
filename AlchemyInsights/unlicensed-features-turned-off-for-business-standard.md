@@ -1,5 +1,5 @@
 ---
-title: Lisanslı olmayan özellikler Iş standart kullanıcıları için kapalıdır
+title: Lisanssız özellikler İş Standart kullanıcıları için kapalı
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 2fd5d03c287c81201d0d68cd718afef46db7a2f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9dd07f2914aa78ef17ef889ced9a5de849f4c6d8175866b8ed4a41cbd28b9510
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658025"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908586"
 ---
-# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Lisanslı olmayan özellikler Iş standart kullanıcıları için kapalıdır
+# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Lisanssız özellikler İş Standart kullanıcıları için kapalı
 
-Bazı Microsoft 365 Business Standard kullanıcıları ve kuruluşları, şu anda kendileri için lisanslandıkları sırada kullanılabilir özelliklere sahiptir. Bu özellikler, sınıflandırma, etiketleme ve koruma (CLP) ve dijital hak yönetimi (DRM) için aşağıdaki ayarları içerir:
+Bazı Microsoft 365 İş Standart kullanıcılar ve kuruluşlar, şu anda bu kullanıcılara lisansına sahip olan özelliklerden daha fazla özellik sunuyor. Bu özellikler Sınıflandırma, Etiketleme ve Koruma (CLP) ve Dijital Hak Yönetimi (DRM) ile ilgili aşağıdaki ayarları içerir:
     
-30 Haziran 2020 itibariyle, Microsoft Excel, Microsoft Word, Microsoft PowerPoint ve Microsoft Outlook 'taki bu kullanıcılar için ek özellikler kapalıdır.
+30 Haziran 2020'den bu kullanıcılara Microsoft Excel, Microsoft Word, Microsoft PowerPoint ve Microsoft Outlook'te ek özellikler Outlook.
 
-Etkileyen kullanıcının lisans türünü, bu özellikleri içeren bir lisans olarak değiştirmeyi düşünebilirsiniz. 
+Efekti efekti yapılan kullanıcının lisans türünü bu özellikleri içeren bir lisansla değiştirmeyi göz önünde bulundurarak. 
 
-Daha fazla bilgi için [Microsoft 365 Business Standard kullanıcılarına verilen lisanssız Özellikler](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)
+Daha fazla bilgi için [bkz. Kullanıcılara verilen lisanssız Microsoft 365 İş Standart.](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)
