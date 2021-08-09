@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820306"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060084"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Bitlocker kurtarma anahtarlara erişme
 
-Bitlocker ayarları Intune Uç Nokta Koruma İlkesi yapılandırılamazken, Bitlocker kurtarma bilgisinin Azure Active Directory'de depo gerekip depo gerek olmadığını tanımlamak mümkündür.
+Bitlocker ayarları Intune Kurtarma Endpoint Protection yapılandırılamazken, Bitlocker kurtarma bilgisinin daha önce depolanmış olup olmadığını Azure Active Directory.
 
 Bu ayar yapılandırılmışsa, Intune Cihaz Blade'sinde cihaz kaydı verileri iki şekilde bir intune yöneticisi tarafından görülebilir:
 
@@ -47,5 +47,5 @@ Cihaz Intune'da işlenmeden önce şifrelenmişse, kurtarma anahtarı OOBE işle
  
 Etki alanı tabanlı grup ilkesi aracılığıyla yapılandırma sonucunda cihaz şifrelenirse, kurtarma bilgileri şirket içi Active Directory'de depolanıyor olabilir.
 
-Kurtarma anahtarını Azure Active Directory'de depolamak üzere yapılandırılmış Uç Nokta koruma ilkesi yapılandırdınız ancak belirli bir cihazın anahtarı karşıya yüklenmedi ise, bu cihaz için kurtarma anahtarını MEM konsolundan döndürerek karşıya yüklemenin tetiklenir. Ayrıntılar için bkz. [BitLocker kurtarma anahtarlarını döndürme.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
+Kurtarma anahtarını Azure Active Directory'de depolamak için uç nokta koruma ilkesi yapılandırdınız ancak belirli bir cihazın anahtarı karşıya yüklenmedi ise, bu cihaz için kurtarma anahtarını MEM konsolundan döndürerek karşıya yüklemenin tetiklenir. Ayrıntılar için bkz. [BitLocker kurtarma anahtarlarını döndürme.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 

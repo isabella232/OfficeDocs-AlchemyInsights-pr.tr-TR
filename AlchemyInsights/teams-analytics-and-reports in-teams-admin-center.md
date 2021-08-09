@@ -1,5 +1,5 @@
 ---
-title: Teams Yönetim Merkezi'nde Teams Analizi ve Raporları
+title: Teams Teams Yönetim Merkezi'nde Çözümlemeler ve Raporlar
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001501"
 - "3558"
-ms.openlocfilehash: 9eed4a489b7308cbd1cb10d102a672831ae27b05
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cc421e64d02f58a0264db5467b9473abe2b398dcca39eebe2f072a0f283276f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826327"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909099"
 ---
-# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams Yönetim Merkezi'nde Teams Analizi ve Raporları
+# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams Teams Yönetim Merkezi'nde Çözümlemeler ve Raporlar
 
-Teams Yönetim **Merkezi'nde kullanıcı etkinliği,** cihaz kullanımı ve canlı etkinlik kullanımı gibi bir dizi kullanım ve etkinlik raporu bulunmaktadır. Ayrıntılar için [bkz. Microsoft Teams analiz ve raporlama](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference).
+Teams Yönetim **Merkezi'nde** kullanıcı etkinliği, cihaz kullanımı ve canlı etkinlik kullanımı da içinde olmak üzere bir dizi kullanım ve etkinlik raporu bulunmaktadır. Ayrıntılı bilgi için [bkz. Microsoft Teams ve raporlama .](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference)
 
-**Lütfen unutmayın:** Microsoft 365 Yönetim merkezinde ek Teams Kullanım ve Etkinlik raporları bulunmaktadır. Bkz. [Teams raporlarını Raporlar panosunda görüntüleme.](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard)
+**Lütfen unutmayın:** Merkezi'Teams Kullanım ve Etkinlik raporları için ek Microsoft 365 Yönetici vardır. Bkz. [Raporlar Teams raporları görüntüleme.](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard)
 
-Aramalar veya çağrı kalitesiyle ilgili  raporlama veya çözümlemeler arıyorsanız **ilgili** belgeler için bkz. Microsoft Teams'de [QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) Uygulama ve Arama Kalitesini İzleme.
+Aramalar veya çağrı kalitesiyle ilgili  raporlama veya çözümlemeler arıyorsanız **ilgili** belgeler için [Microsoft Teams QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) Uygulama ve Çağrı Kalitesini İzleme'ye bakın.
 
