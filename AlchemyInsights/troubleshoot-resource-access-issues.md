@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1750"
 - "9000076"
-ms.openlocfilehash: 720dc31dc4db98714e5f8aa7a6ce95d83b6b0229
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 02208d52b478b382119bd6634709f52dfc0a27f4e0eb251bcfdb4d96d47dac82
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664910"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093042"
 ---
 # <a name="troubleshoot-resource-access-issues"></a>Kaynak erişim sorunlarını giderme
 
-Intune 'un kurumsal altyapı ve kaynaklara erişimini sağlamak için Intune 'un desteklediği profil türleri hakkında daha fazla bilgi için bkz:
+Intune'un kullanıcıların şirket altyapısına ve kaynaklarına erişimini etkinleştirmek için desteklediği profil türleri hakkında bilgi için bkz:
 
-- [Intune kullanarak aygıtlara e-posta ayarları ekleme](https://docs.microsoft.com/intune/email-settings-configure)
-- [Intune 'DAKI VPN sunucularına bağlanmak IÇIN VPN profilleri oluşturma](https://docs.microsoft.com/intune/vpn-settings-configure)
-- [Microsoft Intune 'da cihazlarınıza Wi-Fi ayarlarını ekleme ve kullanma](https://docs.microsoft.com/intune/wi-fi-settings-configure)
-- [Microsoft Intune 'da kimlik doğrulama için sertifikaları kullanma](https://docs.microsoft.com/intune/certificates-configure)
+- [Intune kullanarak cihazlara e-posta ayarları ekleme](https://docs.microsoft.com/intune/email-settings-configure)
+- [Intune'da VPN sunucularına bağlanmak için VPN profilleri oluşturma](https://docs.microsoft.com/intune/vpn-settings-configure))
+- [Mobil cihazlarda Wi-Fi ayarları ekleme ve Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
+- [E-Microsoft Intune'de kimlik doğrulaması için sertifikaları kullanma](https://docs.microsoft.com/intune/certificates-configure)
 
-Intune cihaz profilleri hakkında daha fazla bilgi için [Microsoft Intune 'daki cihaz ilkeleriyle ve profillerle ilgili soruların ve yanıtların](https://docs.microsoft.com/intune/device-profile-troubleshoot)bakın.
+Intune cihaz profilleri hakkında daha fazla bilgi için, bu bağlantıda cihaz ilkeleri ve profillerle ilgili sık [sorulan sorular ve Microsoft Intune.](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-Kaynak erişim profilleriyle ilgili ek sorun giderme bilgileri için [Microsoft Intune 'Da yaygın hata kodları ve açıklamalar](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems)bölümüne bakın.
+Kaynak erişimi profilleri hakkında ek sorun giderme bilgileri için bkz. Kaynak profilinde sık [karşılaşılan hata kodları ve Microsoft Intune.](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems)

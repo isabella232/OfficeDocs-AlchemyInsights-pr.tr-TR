@@ -1,5 +1,5 @@
 ---
-title: Yöneticiler için Office Application Guard
+title: Yöneticiler için Office Koruması
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004584"
 - "8187"
-ms.openlocfilehash: 4d1f136cc57b100084dd5ac137828ececb1a03b0
-ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
+ms.openlocfilehash: 6d0fc347172257be489313e0874f064620d93e8cd24ccc74520954e7427bcd95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50093125"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970135"
 ---
-# <a name="application-guard-for-office-for-admins"></a>Yöneticiler için Office Application Guard
+# <a name="application-guard-for-office-for-admins"></a>Yöneticiler için Office Koruması
 
-Office için Application Guard, Microsoft 365 E5 veya Microsoft 365 E5 Mobility + Security lisansı olan kuruluşlar tarafından kullanılabilir. Bu kuruluşlarda yer alan kullanıcıların Geçerli Kanal veya Aylık Kurumsal Kanal'daki kuruluşlar için Microsoft 365 uygulamalarını kullanıyor olması gerekir.
+Application Guard for Office; Mobil Kullanım + Güvenlik Microsoft 365 E5 Microsoft 365 E5 kuruluşlar tarafından kullanılabilir. Bu kuruluşlarda kullanıcıların Geçerli Kanalda Microsoft 365 Aylık Kanal'daki kuruluş için Kullanıcı Hakları uygulamalarını kullanıyor Enterprise gerekir.
 
 > [!NOTE]
-> Office için Application Guard, önce cihazda Microsoft Defender Application Guard 'ın (MDAG) etkinleştirilmesini gerektirir. MDAG'yi birden çok cihaza dağıtmak için Bkz. [Microsoft Defender Application Guard'ı yükleme hazırlığı.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard)
+> Uygulama Koruması Office, önce Microsoft Defender Application Guard (MDAG) uygulamasının etkinleştirilmesi gerekir. MDAG'yi birden çok cihaza dağıtmak için bkz. Birden [fazla cihaza MDAG Microsoft Defender Application Guard.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard)
 
-Önkullar, kurulum, sınırlamalar ve Office için Application Guard sorunlarını giderme hakkında ayrıntılı bilgi için bkz:
+Uygulama Koruması için önkullar, kurulum, sınırlamalar ve sorun giderme hakkında ayrıntılı bilgi Office bkz:
 
 - [SSS: Office için Application Guard](https://support.microsoft.com/office/application-guard-for-office-9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
-- [Office için Application Guard'i ayarlama](https://docs.microsoft.com/microsoft-365/security/office-365-security/install-app-guard)
+- [Uygulama Koruması'nın ayarları Office](https://docs.microsoft.com/microsoft-365/security/office-365-security/install-app-guard)

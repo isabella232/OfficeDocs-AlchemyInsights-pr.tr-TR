@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: bb29d04fe8de94af863ae062a76a158ae2f5b4d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 92d776675c2c70bfb651ce09e0f2d7b815366f22a87f2e468964fa4971d275f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822151"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934925"
 ---
 # <a name="enable-external-communications-and-add-contacts"></a>Dış iletişimi etkinleştirme ve kişi ekleme
 
-Skype Kurumsal'da, yalnızca bir tık uzakta olması için kişileri Kişiler listeniz'e ekleyebilirsiniz. Eklediğiniz her kişiye kişi gruplarınızın birinde veya birkaçında üyelik atanır. Daha [fazla bilgi için Skype Kurumsal'da kişi ekleme'yi](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) gözden geçirme. 
+Skype Kurumsal'da, yalnızca bir tık uzakta olması için kişileri Kişiler listeniz'e ekleyebilirsiniz. Eklediğiniz her kişiye kişi gruplarınızın birinde veya birkaçında üyelik atanır. Daha [fazla bilgi için Kişi ekleme Skype Kurumsal'i](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) gözden geçirme. 
 
 Kiracı yöneticinizin Dış iletişimlere izin ver adımlarını [izle olduğundan emin olun.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-Kullanıcılarınızı yalnızca Skype tüketici kullanıcılarının iletişim kurmalarını mı sağlamak istiyorsunuz? Bkz. [Skype Kurumsal kullanıcılarının Skype kişileri eklemesine izin verme.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
+Kullanıcılarınızı yalnızca kendi tüketici kullanıcılarınızı mı Skype istiyor musunuz? Bkz. [Kullanıcıların Skype Kurumsal kişi eklemesine Skype.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 

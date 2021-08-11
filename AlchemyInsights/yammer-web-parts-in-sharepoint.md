@@ -1,5 +1,5 @@
 ---
-title: SharePoint 'te Yammer Web bölümleri
+title: Yammer web bölümlerini SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5475"
 - "9002494"
-ms.openlocfilehash: d8b4043bb2889429a18c477505e7eca662943051
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a252dab703e639c7c11fe6aead1db04aeecfe54bc6d52bcd4a28433aed4701d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664370"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970351"
 ---
-# <a name="yammer-web-parts-in-sharepoint"></a>SharePoint 'te Yammer Web bölümleri
+# <a name="yammer-web-parts-in-sharepoint"></a>Yammer web bölümlerini SharePoint
 
-Yammer konuşmaları ve Yammer vurgulamaları Web bölümleri modern ve klasik SharePoint sayfalarındaki işbirliğini geliştirir. Daha fazla bilgi için [Yammer konuşmaları](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations)  ve  [Yammer vurgulamaları](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights)konusuna bakın.    
+Yammer Konuşmalar ve Yammer Öne Çıkanlar web bölümleri, modern ve klasik tasarımlı sayfalarda SharePoint geliştirin. Daha fazla bilgi için [Bkz. Yammer Konuşmalar ve](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations) [Önemli Yammer.](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights)    
 
-Modern Yammer konuşmaları Web Bölümü yeni Yammer deneyimine güncellendi ve hedeflenen sürüm kiracıları için kullanılabilir. GA dağıtımı başladı. Yeni özellikler, herhangi bir gönderiyle (sorular, yoklamalar, Praise) bir görüşme başlatabilmek ve en iyi yanıtları doğrudan SharePoint 'ten işaretlemektir. Daha fazla bilgi için bkz [.](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq)
+Modern Yammer Konuşmaları web bölümü yeni sürüm deneyimine Yammer ve Hedefli Sürüm kiracıları için kullanılabilir. GA rulosu başlatıldı. Yeni özellikler arasında herhangi bir gönderiyle konuşma başlatabilme (Sorular, Anketler, Anketler, Takdir) ve doğrudan anketlerden en iyi yanıtları SharePoint. Daha fazla bilgi için [bkz. Müşteri Yammer hakkında yeni bilgiler ve SSS.](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq)
 
- Hangi Web Bölümü ve yapılandırmasının size uygun olduğunu anlamak için [SharePoint Online 'Da Yammer Web bölümü kullanma](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)konusuna bakın.  
+ Size en uygun web bölümünü ve yapılandırmayı anlamak için [bkz. SharePoint Online'da Yammer web bölümü kullanma.](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)  
 
-**SharePoint sunucusuyla Web bölümlerini kullanma**  
+**SharePoint Server ile web bölümlerini kullanma**  
 
 Web bölümleri, şirket içi ortamlardaki modern ve klasik sayfalarda kullanılabilir.
 
-- Modern sayfalar hakkında daha fazla bilgi için, [SharePoint Server 2019 ' deki modern bir sayfaya Yammer akışı ekleme](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019)konusuna bakın. 
-- Klasik sayfalar hakkında daha fazla bilgi için, [SharePoint Servers 2013, 2016 ve 2019 ile klasik bir sayfaya Yammer akışı ekleme](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019)konusuna bakın.
+- Modern sayfalar hakkında daha fazla bilgi için bkz. Yammer sayfasında modern sayfaya yeni [bir akış SharePoint Server 2019.](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019) 
+- Klasik sayfalar hakkında daha fazla bilgi için bkz. [Yammer Servers 2013, 2016 ve 2019'da SharePoint](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019)haber akışı ekleme.
 
-**Yammer ekleme**  
+**Yammer Katıştır**  
 
-Ekleme yapılandırmasını sınamak için ekleme yapılandırması aracını kullanın. Gelecekte eklenecek bir güncelleştirme yeni Yammer deneyimini etkinleştirecek. Daha fazla bilgi için [Yammer ekleme yapılandırma aracına](https://aka.ms/YammerEmbedConfigureTool)bakın. Yammer embed bileşenini daha iyi anlamak için, [akışa ekleme](https://aka.ms/YammerDevDocs)konusuna bakın.
+Ekleme kullanımını test etmek için Ekleme Yapılandırması aracını kullanın. Ekle'ye gelecek bir güncelleştirme, yeni kullanıcı deneyimini Yammer sağlayacaktır. Daha fazla bilgi için [Bkz. Yammer Yapılandırma aracını kullanma](https://aka.ms/YammerEmbedConfigureTool). Ekle bileşeninin nasıl Yammer için bkz. [Ekleme Akışı.](https://aka.ms/YammerDevDocs)
 
 **Bilinen sorunlar ve sınırlamalar**
 
-- Yeni Yammer URL 'Lerinde grup kimlikleri kullanılamaz. URL 'lerden grup kimliklerini veya diğer kimlikleri almak için klasik moda dönün.
-- Özel (Gelişmiş) etki alanları desteklenmez.
-- Yammer embed mobil için iyileştirildi. En iyi deneyim için Yammer konuşmaları Web Bölümü ile modern sayfaları kullanın.
-- Özel Temalar, Yammer konuşmaları Web bölümünün görünümünü ve kullanılabilirliğini etkileyebilir. Sorunları raporlamak için bir destek durumu açın.
+- Grup Kimlikleri, değiştirilmiş olan yeni Yammer URL'lerde kullanılamaz. Grup kimliklerini veya diğer KIMLIKleri URL'lerden almak için klasik moda geri dönebilirsiniz.
+- Özel (ilgili) etki alanları desteklenmiyor.
+- Yammer Ekleme, mobil cihazlar için en iyi duruma değildir. En iyi deneyimi Yammer Konuşmalar web bölümü ile modern sayfaları kullanın.
+- Özel temalar, konuşmalar web bölümü Yammer ve kullanılabilirliğini etkileyebilir. Sorunları bildirmesi için bir destek durumu açın.
