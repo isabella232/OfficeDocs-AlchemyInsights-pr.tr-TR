@@ -1,5 +1,5 @@
 ---
-title: Uygulama proxy yapılandırması
+title: Uygulama Ara Sunucusu Yapılandırması
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7800"
-ms.openlocfilehash: 0b782705afa8eab338687590baff90de4e17ccb9
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 835bfc59f77b31dc9a37c98db911505e2c7a758b37406dfc4da2d139afa61db5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885531"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951585"
 ---
-# <a name="app-proxy-configuration"></a>Uygulama proxy yapılandırması
+# <a name="app-proxy-configuration"></a>Uygulama Ara Sunucusu Yapılandırması
 
-1. Şirket içi uygulamalarınızı buluta göstermek için Azure AD 'de bir uygulama proxy uygulaması yapılandırmayı öğrenmek için, [uygulama proxy uygulaması yapılandırma](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to)konusuna bakın.
-2. Çoklu oturum açma (SSO), kullanıcılarınızın birden çok kez kimlik doğrulamadan bir uygulamaya erişmesine olanak tanır. Tek kimlik doğrulamanın Bulutta Azure Active Directory karşısında gerçekleşmesini sağlar ve hizmet veya bağlayıcının, uygulamadaki ek kimlik doğrulama sorunlarını tamamlaması için kullanıcıyı taklit etmesine olanak tanır. Daha fazla bilgi edinmek için, [uygulama proxy uygulamasında çoklu oturum açmayı yapılandırma](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to)konusuna bakın.
-3. Yeni uygulama proxy uygulaması oluştururken sık karşılaşılan sorunları gidermek için [Bu makaleyi](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) kullanın.
-4. Uygulamanıza arka uç kimlik doğrulamayı ayarlarken sorun yaşıyorsanız, [uygulama ara sunucusunun Kerberos kısıtlı temsilci yapılandırmalarını gidermeniz](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) veya sorununuzu çözmek Için [uygulamayı pingaccess ile yapılandırma](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) konusunda rehberlik izlemeniz gerekebilir.
+1. Uygulama Ara Sunucusu uygulamasını Azure AD'de şirket içi uygulamalarınızı buluta açık olacak şekilde yapılandırmayı anlamak için [bkz. Uygulama](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to)Ara Sunucusu uygulamasını yapılandırma.
+2. Çoklu oturum açma (SSO), kullanıcılarının bir uygulamaya birden çok kez kimlik doğrulama yapmadan erişmelerine olanak sağlar. Bu özellik, tek kimlik doğrulamasının bulutta Azure Active Directory izin verir ve hizmet veya Bağlayıcı'nın, uygulamanın ek kimlik doğrulama zorluklarını tamamlaması için kullanıcının kimliğine bürünmelerine olanak sağlar. Daha fazla bilgi edinmek için bkz. Uygulama Ara Sunucusu [uygulamasında çoklu oturum açma nasıl yapılandırılır.](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to)
+3. Yeni [bir uygulama ara](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) sunucusu uygulaması oluştururken karşılaşılan yaygın sorunları gidermek için bu makaleyi kullanın.
+4. Uygulamanıza arka uç kimlik doğrulamasını ayarlarken sorun ediyorsanız, sorununuzu çözmek için Uygulama Ara Sunucusu için [Kerberos'un](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) kısıtlanmış temsilci yapılandırmalarını gidermeniz veya [PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) ile uygulama yapılandırma yönergelerini izlemeniz gerekir.

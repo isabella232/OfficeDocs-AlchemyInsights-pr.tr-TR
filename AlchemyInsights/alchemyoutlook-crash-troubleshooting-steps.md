@@ -1,5 +1,5 @@
 ---
-title: Alchemy-Outlook kilitlenmesi sorun giderme adımları
+title: Alchemy - Outlook sorun giderme adımları
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 01179dde29cd07256a5f6e0ece539c5c02c25dfd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69c606e0987b5025a5c1e7340159ec06afe4b8e084c61615778a90114f9b4ecb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718677"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933701"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook kilitlenme sorunlarını giderme adımları
 
-Outlook masaüstü kilitlenme sorunları yaşıyorsanız, aşağıdaki üç adımdan sonra bu makalede listelenen tüm bilgileri izleyerek başlayın: [Outlook 'un kilitlenmesine veya yanıt vermemesine neden olan sorunları giderme.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Outlook masaüstü kilitlenme sorunlarıyla ilgili sorunlarız varsa, başlangıç olarak aşağıdaki üç adımı izleyin. Bu adımların hepsi bu makalede ayrıntılı olarak listelenmiştir: Outlook kilitlenmesine veya yanıt vermesine neden olan [sorunları giderme.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-Adım 1: eklentilerle ilgili olası sorunları Inceleyin.
+1. Adım: Eklentilerle ilgili olası sorunları araştırın.
   
-Adım 2: etkilenen makinede Outlook 'u onarın ve Outlook başlatma hatalarında sorun gidermek için [destek ve Kurtarma Yardımcısı aracını](https://aka.ms/SaRA-OutlookWontStart) çalıştırabilirsiniz.
+2. Adım: Outlook makinede [Destek ve Kurtarma Yardımcısı](https://aka.ms/SaRA-OutlookWontStart) hataları gidermek için Outlook'i onarın ve çalıştırın.
   
-Adım 3: yeni bir Outlook profili oluşturun veya etkilenen makinede [Outlook profil aracı](https://aka.ms/SaRA-OutlookSetupProfile) 'nı çalıştırmayın.
+3. Adım: Yeni bir Outlook profili oluşturun veya [etkilenen Outlook profili aracını](https://aka.ms/SaRA-OutlookSetupProfile) çalıştırın.
   
-Sorun bir güncelleştirmeden sonra ortaya çıktıysa ve yukarıdaki adımlar işe yaramıyorsa önceki sürümlerden birine geri dönmeniz gerekebilir. [Office 2016 tıkla-çalıştırmayı önceki bir sürümüne nasıl geri dönebilirim?](https://support.microsoft.com/help/2770432)
+Sorun bir güncelleştirmeden sonra ortaya çıktıysa ve yukarıdaki adımlar işe yaramıyorsa önceki sürümlerden birine geri dönmeniz gerekebilir. Bkz. [Office 2016 Tıkla-Çalıştır'ın önceki bir sürümüne geri dönme](https://support.microsoft.com/help/2770432).
   

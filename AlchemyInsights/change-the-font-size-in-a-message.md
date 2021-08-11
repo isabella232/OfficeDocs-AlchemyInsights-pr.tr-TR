@@ -1,5 +1,5 @@
 ---
-title: İletide yazı tipi boyutunu değiştirme
+title: İletinin yazı tipi boyutunu değiştirme
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003564"
 - "6664"
-ms.openlocfilehash: 43d14dae440cb7f41624bb4247feb8381cc10a3f
-ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
+ms.openlocfilehash: 6b3c56e1dab9603e51e8888de69e15fac2c8d5b6662d297aa86eb714978c05e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48364977"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916939"
 ---
-# <a name="change-the-font-size-in-a-message"></a>İletide yazı tipi boyutunu değiştirme
+# <a name="change-the-font-size-in-a-message"></a>İletinin yazı tipi boyutunu değiştirme
 
-1. İletiyi daha önce yazdıysanız metni seçin.
-2. İletinin altındaki  **Biçim** simgesini (ilk simge) seçin.
-3. İletinin yukarısındaki  **yazı tipi boyutu**  simgesini (yedinci simgesi) seçin.
+1. İletiyi zaten yaptısanız, metni seçin.
+2. İletinin  **altındaki** Biçim simgesini seçin (ilk simgedir).
+3. İletinin  **üzerindeki Yazı**  tipi boyutu simgesini seçin (bu, yedinci simgedir).
 4. Bir boyut seçin.

@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 9739fb1eb8e4f5adf81cd699c851a51176f0429e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483321"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967353"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>Silinen olayların denetim günlüklerini okuma
 
 Bunu şu şekilde yapacaksınız:
 
-1. [Office 365 Güvenlik ve Uyumluluk & gidin.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Arama **Denetimi günlüğü** arama öğesini  >  [**seçin.**](https://go.microsoft.com/fwlink/?linkid=2103759)
+1. Güvenlik ve [Uyumluluk Office 365 & gidin.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Arama **Denetimi günlüğü** araması öğesini  >  [**seçin.**](https://go.microsoft.com/fwlink/?linkid=2103759)
     > [!NOTE]
-    > Özelliği açmak için ihtiyacınız olduğunu fark ediyorsanız, şimdi devam edin ve özelliği açabilirsiniz. Özellik açık değilse, arama sonuçları önceki tarihlerden veri alamı olmayacaktır.
-1. **Etkinlikler'i** seçin ve **ardından Exchange posta kutusu etkinliklerini bulun.** Silinmiş Öğeler **klasöründeki Silinmiş iletiler ve** İletiler **Silinmiş Öğeler klasör seçeneklerine** taşındı seçeneklerini belirleyin. Bitir bittiğinde, Etkinlikler bölmesini simge durumuna küçültmek için **bölmenin dışına** tıklayın.
-1. Tarih aralığını belirtin ve Kullanıcılar  kutusunda araştırma yapmak istediğiniz kullanıcının kullanıcı adını seçin. Bir defada birden çok kullanıcı seçin.
-1. **Ara'ya seçin.** Etkinlikler Sonuçlar altında **görüntülenir.**
-1. Ayrıntıları görüntülemek için bir etkinlik seçin ve ardından Daha Fazla **Bilgi'yi seçin.** Silinen öğe hakkında konu satırı ve silindiğinde öğenin konumu gibi ek bilgiler **AffectedItems alanında** görüntülenir.
+    > Özelliği açman gerektir diye bir bildirim görüyorsanız, şimdi devam edin ve özelliği açabilirsiniz. Özellik açık değilse, arama sonuçları önceki tarihlerden veri çekebilirsiniz.
+1. Etkinlikler **öğesini seçin** ve ardından posta kutusu Exchange öğesini **bulun.** Silinmiş Öğeler **klasöründen silinmiş iletiler ve İletiler** **Silinmiş Öğeler klasörüne taşındı seçeneklerini** belirleyin. Bitirinca, Etkinlikler bölmesini simge durumuna küçültmek için bölmenin **dışına** tıklayın.
+1. Tarih aralığını belirtin ve Kullanıcılar **kutusunda,** araştırma yapmak istediğiniz kullanıcının kullanıcı adını seçin. Bir defada birden çok kullanıcı seçin.
+1. **Arama'ya seçin.** Etkinlikler Sonuçlar altında **görüntülenir.**
+1. Ayrıntıları görüntülemek için bir etkinlik seçin ve ardından Daha Fazla Bilgi **öğesini seçin.** Silinen öğe hakkında ek bilgiler, örneğin konu satırı ve silindiğinde öğenin konumu **AffectedItems alanında** görüntülenir.
     > [!NOTE]
-    > Denetim günlüğü özelliğini kullanarak silinmiş öğeleri geri yükleyemezsiniz. Silinmiş öğeleri geri yüklemek için, Outlook [Web App'te silinmiş öğeleri veya e-postayı kurtarma'ya bakın.](https://go.microsoft.com/fwlink/?linkid=2103759)
+    > Denetim günlüğü özelliğini kullanarak silinmiş öğeleri geri yüklemezsiniz. Silinmiş öğeleri geri yüklemek için [bkz. Bir dosyadaki silinmiş öğeleri veya e-Outlook Web App.](https://go.microsoft.com/fwlink/?linkid=2103759)
 
-Daha fazla bilgi edinmek için, sık karşılaşılan senaryoların sorunlarını gidermek için [Office 365 denetim günlüğünde aramama bakın.](https://go.microsoft.com/fwlink/?linkid=2103944)
+Daha fazla bilgi edinmek için [bkz. Sık Office 365 sorunlarını gidermek için denetim günlüğünde arama.](https://go.microsoft.com/fwlink/?linkid=2103944)

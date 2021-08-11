@@ -1,5 +1,5 @@
 ---
-title: Alchemy-Outlook bağlantı sorunlarını tanılama ve çözme
+title: Alchemy - Bu bağlantı Outlook tanılama ve çözme
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,16 +14,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: b2cce7e7d87558a773e63f518e1a52192fefd92c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f10eb569be90ba8f5f5fafc50f70c79e15a4c693c7798f804da4206846eccecc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933737"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Outlook bağlantı sorunlarını tanılama ve çözme
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>E-Outlook sorunlarını tanılama ve çözme
 
-Outlook bağlantı sorunlarınızı tanılamak ve çözmek için, etkilenen makinede [Outlook bağlantı aracı](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) 'nı çalıştırabilirsiniz.
+Sorunları tanılamak ve Outlook için etkilenen makinede [Outlook aracını](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) çalıştırabilirsiniz.
   
-Bu araç, Outlook bağlantı sorununu gidermek için tanı denetimleri yapar ve olası çözümler önerir.
+Bu araç tanılama denetimleri gerçekleştirecek ve bu bağlantı sorununa yönelik olası Outlook önerir.
   

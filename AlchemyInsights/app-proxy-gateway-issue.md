@@ -1,5 +1,5 @@
 ---
-title: Uygulama ara ağ geçidi sorunu
+title: Uygulama Ara Sunucusu Ağ Geçidi sorunu
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7804"
-ms.openlocfilehash: e706b0456199c2dbd3e5ba5e926ac974b7e12c36
-ms.sourcegitcommit: 07501553ea9adabdb50ac613687e1583d159e302
+ms.openlocfilehash: 8b3bbfb1db9be8cb7aa1f651499043b3433bd7b08e3ff271e810c591b6f74acf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917154"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951549"
 ---
-# <a name="app-proxy-gateway-issue"></a>Uygulama ara ağ geçidi sorunu
+# <a name="app-proxy-gateway-issue"></a>Uygulama Ara Sunucusu Ağ Geçidi sorunu
 
-Bir Azure AD uygulaması proxy uygulamasında "Bu şirket uygulamasına erişilemiyor" hatasının sık karşılaşılan sorunları gidermek için, [uygulama proxy uygulaması kullanılırken "Bu şirket uygulamasına erişilemiyor" hatası](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error)konusuna bakın.
+Azure AD Uygulaması Ara Sunucusu uygulamasındaki "Bu şirket uygulamasına erişilemiyor" hatasıyla ilgili genel sorunları gidermek için bkz. Uygulama Ara Sunucusu uygulaması kullanırken "Bu Kurumsal Uygulamaya [Erişilemiyor" hatası.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error)

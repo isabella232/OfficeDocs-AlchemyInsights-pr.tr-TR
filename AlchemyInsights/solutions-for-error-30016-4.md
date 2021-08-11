@@ -1,5 +1,5 @@
 ---
-title: Hata 30016-4 için çözümler
+title: Hata 30016-4 çözümleri
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: a025ff3684fdd453130e73c0f023a6b321d4209c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4f899b44fd3e2daf7291c95bb72779eb7d4940f21894dae50e7f3a82c6b3ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770247"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909954"
 ---
-# <a name="solutions-for-error-30016-4"></a>Hata 30016-4 için çözümler
+# <a name="solutions-for-error-30016-4"></a>Hata 30016-4 çözümleri
 
-Bir bilgisayardan kuruluş için Microsoft 365 uygulamalarını kaldırmaya çalıştığınızda, hata iletisini aldığınızda **bir sorun 30016-4 oluştu**, **% Temp%** sürücüsünün **% ProgramFiles%** dışında bir sürücüyle eşlenmesi anlamına gelir.
+Kurumlar için Microsoft 365 Uygulamaları'i bilgisayardan kaldırmaya çalışsanız ve Bir sorun oluştu **30016-4** hata iletisini alırsanız, **%temp%** sürücüsü **%ProgramFiles%** dışında bir sürücüye eşlenmiş demektir.
   
-[Destek ve Kurtarma Yardımcısı](https://aka.ms/SARA-OfficeUninstall-Alchemy) 'nı düzeltmek, indirmek ve yüklemek için
+Sorunu gidermek için dosyayı indirip [Destek ve Kurtarma Yardımcısı](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. **Office ürünlerini kaldırma** bölümünden, kaldırmak istediğiniz sürümü seçin ve **İleri**'yi seçin.
+1. Açılırken, Kaldır ve **Office ürünlerden** kaldırmak istediğiniz sürümü seçin ve sonra da Sonraki öğesini **seçin.**
 
 2. Ekranlarda ilerlemeye devam edin ve istendiğinde bilgisayarınızı yeniden başlatın.
 
-    Yeniden başlattıktan sonra, kaldırma işlemini tamamlamak için destek ve Kurtarma Yardımcısı otomatik olarak yeniden açılır.
+    Yeniden başlatmanın ardından, Destek ve Kurtarma Yardımcısı için dosya yeniden açılır.
 
-3. Kalan istemleri izleyin ve [Office 'i yeniden yükleyin](https://portal.office.com/OLS/MySoftware.aspx) veya yardımcı 'yı kapatın.
+3. Kalan istemleri izleyin ve [yeniden Office](https://portal.office.com/OLS/MySoftware.aspx) veya yardımcıyı kapatın.
