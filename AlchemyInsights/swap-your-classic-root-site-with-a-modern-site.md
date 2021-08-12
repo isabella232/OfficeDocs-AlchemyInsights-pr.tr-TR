@@ -1,5 +1,5 @@
 ---
-title: Klasik kök sitenizi modern bir siteyle değiştirme
+title: Klasik kök sitenizi Modern siteyle değiştirme
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,28 +13,28 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 10e8e4bf5e0def9a8256066e1a3c39b9923d31b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691199"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940839"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Klasik kök sitenizi modern bir siteyle değiştirme
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Klasik kök sitenizi Modern siteyle değiştirme
 
-Ortamınız 2019 Nisan 'dan önce ayarlanmışsa, Microsoft PowerShell kullanarak kök sitenizi modern bir siteye dönüştürebilirsiniz:
+Ortamınız Nisan 2019'dan önce ayarlanmışsa, Microsoft PowerShell kullanarak kök siteyi modern bir site olarak değiştirebilirsiniz:
 
-- Kök siteniz olarak kullanmak istediğiniz farklı bir siteniz varsa, [kök siteyi onunla değiştirebilirsiniz (takas edebilirsiniz)](https://docs.microsoft.com/sharepoint/modern-root-site) . 
-    - Özgün siteyi arşivlerken, bir sitenin konumunu başka bir siteyle değiştirmek için [çağır-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) 'ı kullanın. Hem ekip sitesi (gruba bağlı değil) hem de Iletişim sitesi için kullanılabilir. 
+- Kök siteniz olarak kullanmak istediğiniz farklı bir site varsa, kök siteyi siteyle [değiştirebilirsiniz (değiştirebilirsiniz).](https://docs.microsoft.com/sharepoint/modern-root-site) 
+    - Özgün siteyi arşivlerken bir sitenin konumunu başka bir siteyle değiştirmek için [Invoke-SPOSiteSwap'ı](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) kullanın. Hem Ekip Sitesi (bir gruba bağlı değil) hem de İletişim Sitesi için kullanılabilir. 
 
-- Sitedeki içeriği kullanmaya devam edecek ancak var olan siteyi bir iletişim sitesine dönüştürebilecek olan ek özellikler yakında kullanıma sunulacaktır. 
+- Yakında, sitenin içeriğini kullanmaya devam etmek ancak var olan siteyi bir iletişim sitesine dönüştürmenizi sağlayacak ek özellikler de yakında yayınlanacak. 
 >[!Important]
->Bu özellikler aşamalı olarak kullanıma sunulacaktır. Güncelleştirmelerin Ileti merkezini denetlemeye devam edin. 
+>Bu özellikler aşamalı olarak tüm bunlara sahip olacak. Güncelleştirmeleri İleti Merkezi'nde denetlemeye devam edin. 
 
-## <a name="known-issues-with-swapping-sites"></a>Siteleri değiştirme ile ilgili bilinen sorunlar
+## <a name="known-issues-with-swapping-sites"></a>Site değiştirmeyle ilgili bilinen sorunlar
 
-- Hedef site kısa bir süre boyunca "bulunamadı" (HTTP 404) hatası döndürebilir.
-- İçerik, arama dizinini güncelleştirmek için yeniden gezilecek. El ile adım gerekmez; Bu işlem otomatik olarak yapılır.
-- "Statik" bağlantılara (dosya eşitleme ve OneNote dosyaları gibi) bağlı olarak, el ile düzeltilmesi gerekir.
-- Kaynak site bir kuruluş haber sitesidir, URL 'YI güncelleyin.Tüm kuruluş haberleri sitelerinin listesini alın.
-- Project Server sitelerinin doğru ilişkilendirilmeleri için doğrulanması gerekebilir.
+- Hedef site kısa bir süre için "bulunamadı" (HTTP 404) hatası döndürür.
+- Arama dizinini güncelleştirmek için içeriğin yeniden akmış olması gerekir. El ile herhangi bir adım gerekmez; bu işlem otomatik olarak yapılır.
+- "Statik" bağlantılara (Dosya Eşitleme ve OneNote gibi) bağımlı olan her şeyin el ile düzeltilmesi gerekir.
+- Kaynak site bir kuruluş haber sitesi ise, URL'yi güncelleştirin. Tüm kurumsal haber sitelerinin listesini al.
+- Project Hala doğru ilişkilendirillerinden emin olmak için sunucu sitelerinin doğrulanması gerekiyor olabilir.

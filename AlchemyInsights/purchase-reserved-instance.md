@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc8972d56ad63ac1d0bc16910ed74c7121aefb05f786fdd60a77ba89867d1741
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973069"
 ---
 # <a name="questions-before-purchase"></a>Satın alma öncesinde sorular
 
@@ -27,8 +27,8 @@ Ayırma avantajı, rezervasyon SKU'sunuz, bölgeniz ve kapsamıyla eşleşmesi g
 **Hangi sanal makine boyutunu satın alım?**  
 Bu makaleyi okuyun: [Satın almadan önce doğru SANAL MAKINE boyutunu belirleme](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 
-**SQL özel kullanım kapasitesi satın alma hakkında sorularınız mı var?**  
-Bu makaleyi okuyun: [SQL Veritabanı özel kullanım kapasitesi satın alma](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
+**Özel kullanım kapasitesi satın alma SQL sorularınız mı var?**  
+Bu makaleyi okuyun: [Özel SQL Veritabanı satın alma](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
 
 **Dolaylı EA müşterisindeyim, satın almak için iş ortağıma ihtiyacım var mı?**  
 Hayır, EA aboneliği sahibiyseniz RI'ı satın alın.
@@ -36,8 +36,8 @@ Hayır, EA aboneliği sahibiyseniz RI'ı satın alın.
 **RI satın alımı para taahhüdünden düşülebilir mi?**  
 Evet. Yeterli para taahhüdüne sahip değilsiniz, kullanılabilir para taahhüdü aşan tutar için bir fazlalık faturanız olur.
 
-**Özel kullanım örneği Windows VM'ler için veya SQL IP maliyetlerime nasıl uygulanır?**  
-Özel kullanım örneği indirimi yalnızca bilgi işlem kullanımı için geçerlidir. Windows IP veya SQL IP maliyetleri ayrıca ücretlendirilir ve RI indirimi elde değildir. [Azure Reserved VM Örneklerine dahil edilen yazılım maliyetleri](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Özel kullanım örneği Windows IP maliyetlerime SQL uygulanır?**  
+Özel kullanım örneği indirimi yalnızca bilgi işlem kullanımı için geçerlidir. Windows IP veya SQL IP maliyetleri ayrı olarak ücretlendirilir ve RI indirimi alınmayacaktır. [Azure Reserved VM Örneklerine dahil edilen yazılım maliyetleri](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
       
 **Özel Kullanım Örneği satın alımı için faturalama**  
       
@@ -48,8 +48,8 @@ Evet. Yeterli para taahhüdüne sahip değilsiniz, kullanılabilir para taahhüd
 
 **Hizmet planı satın alın:**
 
--   [Db özel kullanım kapasitesi için ön ödeme](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Azure SQL Veritabanı özel kullanım kapasitesiyle SQL Veritabanı hesaplama kaynakları için ön ödeme](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [DB özel Cosmos için ön ödeme](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Kaynak hesaplama kaynaklarını SQL Veritabanı kapasiteyle önceden Azure SQL Veritabanı ödeme](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
 -   [Azure Reserved VM Örnekleriyle Sanal Makineler için ön ödeme](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Yazılım planı satın alın:**

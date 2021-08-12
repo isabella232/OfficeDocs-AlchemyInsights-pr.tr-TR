@@ -1,5 +1,5 @@
 ---
-title: Windows sanal masaüstü için Azure portalını kullanarak uygulama gruplarını yönetme
+title: Sanal Masaüstü için Azure portalını kullanarak uygulama Windows yönetme
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722052"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912078"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Windows sanal masaüstü için Azure portalını kullanarak uygulama gruplarını yönetme
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Sanal Masaüstü için Azure portalını kullanarak uygulama Windows yönetme
 
-Yeni Windows sanal masaüstü konak havuzu için oluşturulan varsayılan uygulama grubu, tam masaüstünü de yayımlar. Ayrıca, Azure Portal 'ı kullanmak, konak havuzu için bir veya daha fazla RemoteApp uygulaması grubu oluşturmanıza olanak tanır.
+Sanal Masaüstü ana bilgisayar havuzunda yeni bir Windows varsayılan uygulama grubu da tam masaüstünü yayımlar. Buna ek olarak, Azure portalını kullanmak, ana bilgisayar havuzu için bir veya birden çok RemoteApp uygulama grubu oluşturmanıza olanak sağlar.
 
-Dağıtım işlemi aşağıdakileri yapacak:
+Dağıtım işlemi şunları yapar:
 
-1. RemoteApp uygulama grubu oluşturun.
-2. Seçilen uygulamalarınızı uygulama grubuna ekleyin.
-3. Tek tek kullanıcıları veya Kullanıcı gruplarını uygulama grubuna yayımlayın.
-4. Bunu yapmak isterseniz uygulama grubunu kaydettirin.
-5. Yapılandırmanıza göre Azure Resource Manager şablonuna yönelik bir bağlantı oluşturun; böylece indirebilir ve kaydedebilirsiniz.
+1. RemoteApp uygulama grubunu oluşturun.
+2. Seçili uygulamalarınızı uygulama grubuna ekleyin.
+3. Tek tek kullanıcıları veya kullanıcı gruplarını uygulama grubunda yayımlayın.
+4. Uygulamayı seçerseniz, uygulama grubunu kaydettirin.
+5. İndirmek ve kaydetmek için, yapılandırmanıza göre bir Azure Kaynak Yöneticisi şablonuna bağlantı oluşturun.
 
-Windows sanal masaüstü için RemoteApp grubu oluşturmak üzere, [Azure portalında uygulama gruplarını yönetme](https://go.microsoft.com/fwlink/?linkid=2129550)bölümündeki yönergeleri izleyin.
+Sanal Masaüstü'ne Windows RemoteApp grubu oluşturmak için, [Azure portalıyla](https://go.microsoft.com/fwlink/?linkid=2129550)uygulama gruplarını yönetme konusunda verilen yönergeleri izleyin.

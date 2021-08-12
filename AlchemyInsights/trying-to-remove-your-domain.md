@@ -12,18 +12,18 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "28"
 - "9"
-ms.openlocfilehash: dbdcb538a94567f32dee8b135822900ea50f94c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 566073563c6159bfa1d5fb2d2b105ce566accac7fc88f4c90ee1d8d41bbd061e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658358"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920559"
 ---
 # <a name="trying-to-remove-your-domain"></a>Etki alanınızı kaldırmaya mı çalışıyorsunuz?
 
-Etki alanınızı Microsoft 'tan kaldırmak için, Şu makaledeki adımları izleyin: [etki alanını kaldırma](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
+Etki alanınızı Microsoft'tan kaldırmak için, şu makaledeki adımları izleyin: [Etki alanı kaldırma](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
   
-Etki alanını kaldırmadan önce, bu etki alanı adına atanmış olan tüm kullanıcıları veya grupları güncelleştirmeniz gerekir.
+Etki alanını kaldırmadan önce, bu etki alanına atanmış tüm kullanıcıları veya grupları güncelleştirmeniz gerekir.
   
-Diğer yaygın çözümler için [etki alanları makalesine bakın](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) .
+[Diğer yaygın çözümler için](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) etki alanları makalesine bakın.
   

@@ -1,5 +1,5 @@
 ---
-title: Skype tema catchall
+title: Skype catchall
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: d83f029910532bf7c7485e237c1d094d83657fca
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 354602ff39f823922329fc82855c023f331dff2cb1f43a6949653786a6df7f6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826507"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957336"
 ---
-# <a name="skype-for-business-common-issues-and-resolutions"></a>Skype Kurumsal'da sık karşılaşılan sorunlar ve çözüm 
+# <a name="skype-for-business-common-issues-and-resolutions"></a>Skype Kurumsal sorunları ve çözümlerini geri 
 
-Skype Kurumsal ile ilgili belirli sorular için, hatalar, kullanmakta olduğunuz özellikler vb. dahil olmak üzere sorunlarınızı kısaca açıklamak üzere sorunuza yeniden ifade edin. 
+Hata giderme hakkında Skype Kurumsal, hatalar, kullanmakta olduğu özellikler vb. gibi sorunlarınızı açıklamak üzere sorunuza kısa bir süre için yeniden ifade edin. 
 
 Sık istenen bazı konular şu şekildedir:
 
-**Skype Kurumsal Oturum Açma sorunlarını giderme:** İlk olarak, Skype Kurumsal [hizmetinin iyi olduğundan](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) emin olun. Hata varsa, oturum açma [güçluğuna yol açma güçluğuna](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) yol açmanın yaygın nedenlerini ortadan kaldırmak için Skype Kurumsal Çevrimiçi Sürüm oturum açma hatalarında sorun giderme'ye bakın.
+**Oturum Skype Kurumsal sorunlarını giderme:** İlk olarak, en iyi [Skype Kurumsal iyi olduğundan](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) emin olun. Hata varsa, oturum açma [güç Skype Kurumsal yaygın nedenlerini](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) ortadan kaldırmak için Çevrimiçi oturum açma hatalarında sorun giderme'ye bakın.
  
-**Skype Kurumsal'da ses ve görüntü sorunlarını giderme:** Skype [Kurumsal'da sık karşılaşılan ses ve görüntü sorunlarının çözümlerini gözden geçirin.](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc) 
+**E-postada ses ve Skype Kurumsal:** [2013'te karşılaşılan yaygın ses ve görüntü sorunlarının Skype Kurumsal.](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc) 
 
-**Skype Kurumsal'da bağlantı sorunlarını giderme:** Skype [Kurumsal'da sık karşılaşılan bağlantı sorunlarının çözümlerini gözden geçirebilirsiniz.](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771)
+**E-postada bağlantı Skype Kurumsal:** Ağ [bağlantılarında sık karşılaşılan bağlantı sorunlarının çözümlerini Skype Kurumsal.](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771)
 
-**Dış Skype Kurumsal Kişileri ile iletişim kurma (Federasyon):** Skype Kurumsal'ı dış Skype Kurumsal [Kullanıcılarına ulaşacak şekilde ayarlayın.](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
+**Dış Dış Skype Kurumsal (Federasyon) ile iletişim kurma:** Dış [kullanıcılarla Skype Kurumsal için kullanıcı Skype Kurumsal ayarlayın.](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-**Skype Kişileri ile iletişim kurma:** [Skype Kurumsal kullanıcılarının Skype kişileri eklemesine izin verme.](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+**Diğer Skype iletişim kurma:** [Kullanıcıların Skype Kurumsal kişi eklemesine Skype.](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
 
-**Skype Kurumsal'ı Microsoft Teams'e yükseltme:** Microsoft [Teams yükseltmesi ile çalışmaya başlama makalesini gözden](https://docs.microsoft.com/microsoftteams/upgrade-start-here) geçirme ve kuruluşta Teams'i benimseyen Microsoft Teams'i benimseme hakkında daha fazla bilgi edinebilirsiniz. [](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) 
+**Yükseltme Skype Kurumsal yükseltme Microsoft Teams:** Yükseltmenize [başlarken'i Microsoft Teams'i](https://docs.microsoft.com/microsoftteams/upgrade-start-here) gözden [](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) geçirin ve Microsoft Teams başkalarını benimseyen iş Teams birlikte çalışma hakkında daha fazla bilgi edinebilirsiniz. 

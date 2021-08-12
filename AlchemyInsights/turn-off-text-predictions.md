@@ -1,5 +1,5 @@
 ---
-title: Metin öngörüleri kapatma
+title: Metin tahminlerini kapatma
 ms.author: v-smandalika
 author: v-smandalika
 manager: v-aiyengar
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000059"
 - "6217"
-ms.openlocfilehash: 3ee4aecabb8fc534bc45d40a7546928eee679bc8
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: df62814d3fcd843faf6c6e1a227963a5c682cb1799498433ade15ab1b9e9a6fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920271"
 ---
-# <a name="turn-off-text-predictions"></a>Metin öngörüleri kapatma
+# <a name="turn-off-text-predictions"></a>Metin tahminlerini kapatma
 
-1. **Posta > oluşturma ve yanıtlama > tüm Outlook ayarlarını görüntülemek > ayarlar 'ı** seçin.
-2. **Metin öngörüleri** altında, **yazarken tümcecik için öneri** seçimini kaldırın.
+1. Posta **Ayarlar > oluşturma Outlook yanıtla > tüm > görüntüle'yi seçin.**
+2. Metin **tahminleri altında,** Tümcecikleri **ben yazarak öner 'in seçimini kaldırın.**
 
-Daha fazla bilgi için [Web ve Outlook.com Outlook 'ta akıllı teknolojiyi kullanma](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70)konusuna bakın.
+Daha fazla bilgi için [bkz. Web üzerinde Outlook Outlook.com'da akıllı teknoloji kullanma.](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70)
