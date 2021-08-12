@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge Eklentiler Mağazası'dan Microsoft Edge'e uzantı ekleme
+title: Microsoft Edge Eklentileri Mağazası'Microsoft Edge sitenize uzantı ekleme
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,20 +14,20 @@ ms.custom:
 - "6919"
 - "8310"
 - "9004621"
-ms.openlocfilehash: eacc0feca236f1d25e79aa55a56645c0b290c631
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 0533c92d17fe39325f0067cebf96c3f63b0dcc9a7ed58557e2557ef75aad55e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505046"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936437"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Microsoft Edge Eklentiler Mağazası'dan Microsoft Edge'e uzantı ekleme
+# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Microsoft Edge Eklentileri Mağazası'Microsoft Edge sitenize uzantı ekleme
 
-Microsoft Edge Eklentileri mağazasından Microsoft Edge'e uzantı eklemek için:
+Sitenize, Microsoft Edge Eklentileri mağazasından Microsoft Edge eklemek için:
 
-- Microsoft Edge'i açın.
-- Select **... > Extensions > Get [extensions for Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
+- Diğer Microsoft Edge.
+- Uzantılar **için > Al [>'i seçin... Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2136408)**
 - Eklemek istediğiniz uzantıyı seçin ve ardından Al'ı **seçin.**
-- Onay iletişim kutusunda, uzantının değişikliklerini dikkatle gözden geçirin ve Uzantı **ekle'yi seçin.**
+- Onay iletişim kutusunda, uzantının yapılacak değişiklikleri dikkatle gözden geçirin ve Uzantı **ekle'yi seçin.**
 
-Bundan sonra, uzantının ekli olduğunu onaylarsınız.
+Bundan sonra, uzantının ekli olduğunu onay alacaksınız.

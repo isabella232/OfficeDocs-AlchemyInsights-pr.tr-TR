@@ -1,5 +1,5 @@
 ---
-title: Azure 'da ödeme ayrıntılarını güncelleştirme (modern)
+title: Azure'da ödeme ayrıntılarını güncelleştirme (Modern)
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,30 +12,30 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6857"
-ms.openlocfilehash: bb032f772077318e54ac4fde42a72f432703d828
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 39f77710d25add89d1bb9610ae1875784b538ad68512a4db29c1388e53e0fd75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807881"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007342"
 ---
-# <a name="update-payment-details-in-azure"></a>Azure 'da ödeme ayrıntılarını güncelleştirme
+# <a name="update-payment-details-in-azure"></a>Azure'da ödeme ayrıntılarını güncelleştirme
 
-Kredi kartınız yenilendiğinde ve numara aynıysa, son kullanma tarihi gibi mevcut kredi kartı ayrıntılarını güncelleyin. Kredi kartı numaranız, kart kaybolduğu, çalındığından veya süresi dolduğundan değişirse, [ödeme yöntemi olarak kredi kartı ekleme](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) bölümündeki adımları izleyin. CVV 'i güncellemeniz gerekmez.
+Kredi kartınız yenilendi ancak numara aynı kalıyorsa son kullanma tarihi gibi mevcut kredi kartı ayrıntılarını güncelleştirin. Kart kaybolur, çalınır veya süresi dolduğunda kredi kartı numaranız değişirse, Ödeme yöntemi olarak kredi kartı ekleme [bölümündeki adımları](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) izleyin. CVV'nizi güncelleştirmeniz gerekmektedir.
 
-Ödeme yöntemleriniz [faturalandırma profilleriyle](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)ilişkilendirilir. Yalnızca Azure 'a kaydolan ve fatura hesabını oluşturmuş olan Kullanıcı ödeme yöntemini güncelleştirebilir. Ödeme yöntemini güncelleştirmek için bu adımları izleyin.
+Ödeme yöntemleriniz fatura [profilleriyle ilişkilendirildi.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile) Yalnızca Azure'a oturum oluşturan ve fatura hesabını oluşturan kullanıcı ödeme yöntemini güncelleştir olabilir. Ödeme yöntemini güncelleştirmek için bu adımları izleyin.
 
-1. [Azure portalında](https://portal.azure.com/)oturum açın.
+1. [Azure portalında oturum açın.](https://portal.azure.com/)
 
-2. **Maliyet yönetimi + faturalamayla** arama yapın.
+2. **Maliyet Yönetimi + Faturalama**'da arama yapın.
 
-3. Soldaki menüde **faturalandırma profilleri** 'ni seçin.
+3. Sol menüde, Fatura **profilleri'ne tıklayın.**
 
-4. Faturalandırma profili seçin.
+4. Bir ödeme profili seçin.
 
-5. Soldaki menüde **ödeme yöntemleri** 'ni seçin.
+5. Sol tarafta yer alan menüde Ödeme **yöntemleri'ne tıklayın.**
 
-6. **Kredi kartlarınız** bölümünde, düzenlemek istediğiniz kredi kartını bulun.
+6. Kredi **kartlarınız bölümünde,** düzenlemek istediğiniz kredi kartını bulun.
 7. Satırın sonundaki üç noktayı **(...)** seçin.
 
-8. Kredi kartı bilgilerinizi düzenlemek için bağlam menüsünden  **Düzenle**  'yi seçin.
+8. Kredi kartı ayrıntılarınızı düzenlemek için bağlam  **menüsünde Düzenle'yi**  seçin.
