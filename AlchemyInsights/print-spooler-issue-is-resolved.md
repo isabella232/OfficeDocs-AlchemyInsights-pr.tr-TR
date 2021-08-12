@@ -1,5 +1,5 @@
 ---
-title: Yazdırma Biriktiricisi sorunu çözüldü
+title: Yazdırma biriktiricisi sorunu çözüldü
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: 66b39434ef6f9ad2b8392f811704e67c1bcffd2b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 73ff86928c043dd41f49d456d30c2fcf7947bd4cb304d0456c634d4fa5808239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801861"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911358"
 ---
-# <a name="print-spooler-issue-is-resolved"></a>Yazdırma Biriktiricisi sorunu çözüldü
+# <a name="print-spooler-issue-is-resolved"></a>Yazdırma biriktiricisi sorunu çözüldü
 
-Cihazınız Windows 10  **Işletim sistemi derleme 19041,329**ile güncelleştirildiyse, bazı yazıcıların yazdırmasının başarısız olduğu bir sorunu gözlemlediniz. Yazdırma Biriktiricisi bir hata oluşturabilir veya yazdırmaya çalışırken beklenmedik bir şekilde kapatılabilir ve etkilenen yazıcıdan hiçbir çıkış alınmaz. Bu sorun, işletim sistemi derleme  **19041,331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).  
+Cihazınız işletim sistemi Windows 10 **19041.329** derlemesi ile güncelleştirilmişse bazı yazıcıların yazdırıımaya neden olan sorunu gözlemlemişsinizdir.   Yazdırma biriktiricisi yazdırmaya çalışırken hata veya beklenmedik bir şekilde kapanıyor olabilir ve etkilenen yazıcıdan çıktı alamayabilirsiniz. Bu sorun, işletim sistemi derlemesi **19041.331**, [KB4567523'de çözülür.](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523)  
 
 **Devam eden araştırma**
 
-Yerel güvenlik yetkilisi alt sistemi hizmeti (LSASS) dosyası (**Isass.exe**), "kritik sistem işlemi, C:\WINDOWS\system32\Isass.exe durum koduyla başarısız olan" kritik sistem işlemi başarısız olabilir. Makine şimdi yeniden başlatılmalıdır ".  **Microsoft bir çözüm üzerinde çalışmaktadır ve yakında piyasaya çıkacak bir sürümde güncelleştirme sağlayacaktır.**
+Yerel Güvenlik Yetkilisi Alt Sistem Hizmeti (LSASS) dosyası **(Isass.exe),** bazı cihazlarda "Kritik bir sistem işlemi, C:\WINDOWS\system32\Isass.exe, c0000008 durum koduyla başarısız oldu" hata iletisiyle başarısız olabilir. Makine şimdi yeniden başlatılacaktır".  **Microsoft bir çözüm üzerinde çalışıyor ve yakında bir güncelleştirme yayınlamayacak.**
 
-Daha fazla bilgi için lütfen  [Windows 10 sürüm 2004 bilinen sorunlar](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc)bölümüne bakın.
+Daha fazla bilgi için lütfen Sürüm [2004 Windows 10 sorunlarına göz atabilirsiniz.](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc)

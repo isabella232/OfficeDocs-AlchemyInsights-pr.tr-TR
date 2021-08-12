@@ -1,5 +1,5 @@
 ---
-title: Linux makinesi üzerinde MDATP için dışlamaları yapılandırma ve doğrulama
+title: Linux makinesine MDATP için dışlamaları yapılandırma ve doğrulama
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4fad0a513f7c6d2f0337019488a4055c25e1650d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916435"
 ---
-# <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Linux makinesinde MDATP için dışlamaları yapılandırma ve doğrulama
+# <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Linux makinesine MDATP için dışlamaları yapılandırma ve doğrulama
 
-Belirli dosyaları, klasörleri, süreçleri ve süreç açılan dosyaları MDATP taramalarından çıkarabilirsiniz. Dışlamalar, benzersiz veya özel amaçlı yazılım ve dosyaların yanlış algılanmasına yardımcı olur. Dışlamalar, MDATP'nin neden olduğu performans sorunlarını da azaltmak için yardımcı olur.
+Bazı dosyaları, klasörleri, süreçleri ve süreç açılan dosyaları MDATP taramalarından dış tutabilirsiniz. Özel bırakmalar, benzersiz veya özelleştirilmiş yazılım ve dosyaların yanlış algılanmasına yardımcı olur. Dışlamalar, MDATP'nin neden olduğu performans sorunlarının azaltmak için de yardımcı olur.
 
-Daha fazla bilgi edinmek için Bkz. [Linux için MDATP'de dışlamaları yapılandırma ve doğrulama.](https://go.microsoft.com/fwlink/?linkid=2144517)
+Daha fazla bilgi edinmek için [bkz. Linux için MDATP'de dışlamaları yapılandırma ve doğrulama.](https://go.microsoft.com/fwlink/?linkid=2144517)
 
 > [!IMPORTANT]
-> Bu makalede açıklanan dışlamalar Linux için MDATP'nin uç nokta algılama ve yanıt (EDR) dahil diğer özellikleri için geçerli değildir. Bu makalede açıklanan yöntemleri kullanarak dışlama dosyalarınız, EDR uyarılarını ve diğer algılama özelliklerini tetikler.
+> Bu makalede açıklanan dışlamalar, uç noktada algılama ve yanıtlama (EDR) dahil olmak üzere Linux için MDATP'nin diğer özellikleri için geçerli uç noktada algılama ve yanıtlama. Bu makalede açıklanan yöntemleri kullanarak dışlayırsanız dosyalar yine de uyarı EDR algılama özelliklerini tetikler.

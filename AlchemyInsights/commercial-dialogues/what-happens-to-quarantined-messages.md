@@ -1,5 +1,5 @@
 ---
-title: Karantinaya alınmış iletilere ne olur?
+title: Karantinaya alınan iletilere ne olur?
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: de7ea8011af792cd01963c44f8a60915747c3c11
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 222df14754501e54b9a551f705f95ee9cce853ef6479ac21dad4b01bdc5a96f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966597"
 ---
-# <a name="what-happens-to-quarantined-messages"></a>Karantinaya alınmış iletilere ne olur?
+# <a name="what-happens-to-quarantined-messages"></a>Karantinaya alınan iletilere ne olur?
 
-Hiçbir şey seçmezsiniz, iletinin süresi sona erdiğinde Office 365 tarafından otomatik olarak silinir. Aşağıdakilere dikkat:
+Hiçbir şey yapmasanız bile, son kullanma tarihine kadar ileti Office 365 olarak silinir. Unutmayın:
 
 1. Varsayılan olarak, istenmeyen posta, toplu, kötü amaçlı yazılım ve kimlik avı iletileri 15 gün süreyle karantinada tutulur.
-2. Posta akışı kuralıyla eşleşen karantinaya alınmış bir ileti 7 gün süreyle karantinada tutulur (bunu özelleştirebilirsiniz).
-3. Office 365 bir iletiyi karantinadan silebilir, geri alasınız.
-4. Like like, you can change the retention period for karantinaya alınan messages by using the Retain spam for (days) setting in your content filter policies.
+2. Posta akış kuralıyla eşleşen karantinaya alınmış bir ileti 7 gün süreyle karantinada tutulur (bunu özelleştirebilirsiniz).
+3. İleti Office 365 iletiyi karantinadan silerken, geri alasınız.
+4. Like like, you can change the retention period for quarantined messages by using the retain spam for (days) setting in your content filter policies.

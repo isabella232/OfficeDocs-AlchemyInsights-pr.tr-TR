@@ -1,5 +1,5 @@
 ---
-title: Ayarlama kılavuzunu kullanarak Microsoft Arama ile çalışmaya başlama
+title: Ayarlama Microsoft Arama kullanarak çalışma başlama
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003287"
 - "11208"
-ms.openlocfilehash: 3f90f2d2f20756643d72a5a3086fe9e94d9eaf19
-ms.sourcegitcommit: e7b6827015e05fb3280b153605498bfae7d09c7c
+ms.openlocfilehash: 3c401cd3c0bb7b5838b416513c0d0ee6d3846eb9a2e5a18fca8f8b782fda6098
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52564630"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943179"
 ---
-# <a name="get-started-with-microsoft-search-using-the-set-up-guide"></a>Ayarlama kılavuzunu kullanarak Microsoft Arama ile çalışmaya başlama
+# <a name="get-started-with-microsoft-search-using-the-set-up-guide"></a>Ayarlama Microsoft Arama kullanarak çalışma başlama
 
-Microsoft Search, sonuçları aramak ve bulmak için, Microsoft 365 hizmetleri ve uygulamaları genelinde kullanımı kolay bir arabirim sağlar. Microsoft Arama, uygun çevrimiçi abonelik Microsoft 365 ek ücret ödemeden dahil edilir. 
+Microsoft Arama, sonuçları aramak ve bulmak için, Microsoft 365 hizmetleri ve uygulamaları genelinde kolay bir arabirim sağlar. Microsoft Arama aboneliğinize ek bir Microsoft 365 ücret ödemeden dahil edilir. 
 
-Bir grup [kullanıcı için](https://go.microsoft.com/fwlink/?linkid=2156919) Arama pilot çalışması yapmak mı yoksa bunu kuruluş şemasını herkese mi yoksa herkese mi almak istediğinize karar yapılandırmak için Microsoft Arama ayarlama kılavuzunu kullanın. Arama yöneticileri ve Arama düzenleyicileri ataacak ve yanıtlar ve Bing uzantısını Chrome'a ekleme veya varsayılan arama motorunuz olarak Bing gibi ek seçeneklerle kullanıcılarınız için arama deneyimini özelleştirebilirsiniz.
+Bir [Microsoft Arama Arama](https://go.microsoft.com/fwlink/?linkid=2156919) pilot çalışması yapmak mı yoksa bunu kuruluş şemasını herkese mi yoksa herkese mi almak istediğinize karar yapılandırmak için Aşağıdaki ayarlama kılavuzunu kullanın. Arama yöneticileri ve Arama düzenleyicileri ataacak ve yanıtlar ve Bing uzantısını Chrome'a ekleme veya varsayılan arama motorunuz olarak Bing gibi ek seçeneklerle kullanıcılarınız için arama deneyimini özelleştirebilirsiniz.
