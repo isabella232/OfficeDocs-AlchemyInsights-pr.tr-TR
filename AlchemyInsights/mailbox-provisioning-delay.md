@@ -1,5 +1,5 @@
 ---
-title: Posta kutusu hazırlama gecikmesi
+title: Posta kutusu sağlama gecikmesi
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: 36fd55ece2d3edd605fecfd11ed5dfdb1f194633
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 047c7d854b1afeecaf47cfd7358dd219913f5354ad7ad329a33a795c75da5d7f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794426"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912474"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Kullanıcının posta kutusu oluşturuluyor
+# <a name="your-users-mailbox-is-being-created"></a>Kullanıcı posta kutunuz oluşturulacak
 
-Yeni posta kutusunun kullanıma hazır olması bir saat kadar sürebilir.
+Yeni posta kutusunun kullanıma hazır hale hepsi bir saat kadar zaman alabiliyor.
   
-Bir kullanıcının posta kutusu bir saatten uzun süredir "hazırlanıyor" durumunda, kullanıcıyı silmeyi ve yeniden oluşturmayı deneyebilir veya destek mühendisiyle konuşmak için "sizi arayalım" seçeneğini kullanabilirsiniz.
+Kullanıcının posta kutusu bir saatten uzun bir süredir "hazırlanıyor" olarak geliyorsa, kullanıcı silmeyi ve sonra yeniden oluşturmayı deneyebilir veya destek mühendisiyle konuşmak için "Sizi araymalıyız" seçeneğini kullanabilirsiniz.
   
 

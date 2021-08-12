@@ -1,5 +1,5 @@
 ---
-title: Bu siteye ulaşamadı- tarayıcıdan veya Teams'den SharePoint sitesine erişmeye çalışırken hata oluştu
+title: Bu siteye erişe yok- tarayıcıdan veya tarayıcıdan siteye SharePoint hata Teams
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005378"
 - "9266"
-ms.openlocfilehash: 451544fb85522e0eececc9274825805699685ee9
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 5f8861e85df21082329273237679e26a1b31ce694e11ad6407d4690d7caf2fc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747035"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946671"
 ---
-# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Tarayıcıdan veya Teams'den SharePoint sitesine erişmeye çalışırken "Bu siteye erişene yok" hatası
+# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Tarayıcıdan veya başka bir tarayıcıdan siteye erişmeye çalışırken "Bu siteye SharePoint" hatası Teams
 
-Tarayıcıdan veya Teams'den SharePoint sitesine erişmeye çalışırken kullanıcılar "Bu siteye erişilene ulaşıla değil" hatasını alabilirsiniz. 
+Kullanıcılar tarayıcıdan veya başka bir tarayıcıdan siteye erişmeye SharePoint "Bu siteye erişe yok" Teams. 
 
 Bu sorunu çözmek için: 
 
-1. Giriş sayfasının Geri Dönüşüm kutusu mu yoksa ikinci aşama geri dönüşüm kutusu mu olduğunu kontrol edin ve sayfayı geri yüklenin.
+1. Giriş sayfasının Geri dönüşüm kutusu mu yoksa ikinci aşama geri dönüşüm kutusu mu olduğunu kontrol edin ve sayfayı geri yükleme.
 
 **Geri dönüşüm kutusu için doğrudan örnek URL:**https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
 
-1. Giriş sayfası geri dönüşüm kutusuyla kalıcı olarak kaldırılırsa, Site Sayfaları kitaplığından yeni bir site sayfası oluşturun ve bunu bir giriş sayfası yapın. 
+1. Giriş sayfası geri dönüşüm kutusu'dan kalıcı olarak kaldırılmışsa, Site Sayfaları kitaplığından yeni bir site sayfası oluşturun ve bunu bir giriş sayfası yapın. 
 
 **Örnek doğrudan URL:**https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx

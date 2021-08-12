@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827884"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919689"
 ---
 # <a name="understand-billing-amount"></a>Fatura miktarını anlama
 
@@ -26,7 +26,7 @@ ms.locfileid: "51827884"
 - Faturanızı gözden geçirmenize ve anlamanıza yardımcı olmak için lütfen şu sayfalara [bakın: Öğretici:](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support) Tek tek Azure Faturanızı gözden geçirme
 - Fatura ödeme koşullarınızı anlama: [Azure fatura koşullarının açıklaması](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Azure Kullanım ücretleri koşullarını anlama: [Kullanım koşullarının açıklaması](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Faturanıza bir PDF dosyası ve ayrıntılı günlük kullanım dosyanın () bir kopyasını almak için. CSV): [Fatura ve kullanım verilerini alma](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Faturanızı PDF olarak ve ayrıntılı günlük kullanım dosyanın (.CSV) bir kopyasını almak için: Fatura [ve kullanım verilerini alma](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Not:** Fatura döneminizin ortasında aboneliğinizi/kaynağınızı iptal edersiniz, geçen ay herhangi bir kullanım için ücret görmeye devam edebilirsiniz. Örneğin, fatura döneminiz her ayın 26'sı ile sonraki ayın 25'i arasında ise & Haziran 28 günü olan 23 Aralık'ta aboneliğinizi askıya aldıysanız, 28 günlük kullanım için ücret tahsil edebilirsiniz. Aboneliği iptal etmeyle ilgili bir ücret görüyorsanız, ücrete neden olan başka destek planınız olmadığını lütfen unutmayın. Varsa, lütfen devam edin ve planı iptal edin.
 
@@ -44,14 +44,14 @@ ms.locfileid: "51827884"
 - Faturanızı gözden geçirmenize ve anlamanıza yardımcı olmak için lütfen şu makaleye [bakın: Öğretici: Microsoft İş Ortağı Sözleşmesi faturanızı gözden geçirme](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Faturanızı anlama: Microsoft İş Ortağı [Sözleşmesi faturalarında açıklanan koşullar](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Kurumsal Sözleşme (EA)**
+**Kurumsal Anlaşma (EA)**
 
-- Faturanızı gözden geçirmenize ve anlamanıza yardımcı olmak için lütfen şu ifadeye bakın: [Azure Kurumsal Sözleşme faturanızı anlama](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Kurumsal Sözleşmesi (EA müşterisi) olan bir Azure müşterisiysanız, kuruluş faturalarını indiresiniz. Faturalar, kayıt için fatura almak üzere ayarlanmış olan kişiye gönderilir, azure portalında kullanımı [indirebilirsiniz.](https://portal.azure.com/)
+- Faturanızı gözden geçirmenize ve anlamanıza yardımcı olmak için lütfen şu ifadeye bakın: [Azure faturanızı Kurumsal Anlaşma anlama](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Microsoft hesabı (EA müşterisi) olan bir Azure Kurumsal Anlaşma, kuruluş faturalarını indiresiniz. Faturalar, kayıt için fatura almak üzere ayarlanmış olan kişiye gönderilir, azure portalında kullanımı [indirebilirsiniz.](https://portal.azure.com/)
 
 Hizmet fazlalık faturasını gözden geçirme:
 
-- Kurumsal portalda **oturum açın.** **Raporlar**'ı seçin
+- Enterprise **portalında oturum açın.** **Raporlar**'ı seçin
 - Sekmenin sağ üst köşesinde, **M'den** **C'ye** görünümü değiştirme ve faturada dönemi eşleşme
 - Toplam Kullanım **tutarı,** hizmet fazla kullanım **faturasında** yer alan Toplam Genişletilmiş Tutar ile eşleşmeli
 - Ücretleriniz **hakkında daha fazla bilgi >** için Gelişmiş Rapor İndirmesi'ne **gidin.** Not: Bu rapor, vergileri, rezervasyon ücretlerini veya market ücretlerini içermemektedir
@@ -62,16 +62,16 @@ Hizmet fazlalık faturasını gözden geçirme:
 
 Market faturasına gözden geçir:
 
-Kurumsal portaldaki Raporlar ve Kullanım > Azure Marketi toplamını market faturanız ile karşılaştırın. Market faturası yalnızca Azure Marketi satın alma ve kullanım için hazır. Kullanım Özeti'ne miktarı vergi dahil değil.
+Uygulama portalında Raporlar ve Kullanım > Azure Marketi toplamını Enterprise faturanız ile karşılaştırın. Market faturası yalnızca Azure Marketi satın alma ve kullanım için hazır. Kullanım Özeti'ne miktarı vergi dahil değil.
 
-- Kurumsal portalda **oturum açın.** **Raporlar**'ı seçin
+- Enterprise **portalında oturum açın.** **Raporlar**'ı seçin
 - Sekmenin sağ üst köşesinde, **M'den** **C'ye** görünümü değiştirme ve faturada dönemi eşleşme
 - **Azure Marketi toplamı,** market **faturadaki Toplam** Satışla eşleşmeli
 - Kullanım tabanlı **ücretleriniz hakkında** daha fazla bilgi almak için Kullanımı İndir'e gidin. Market **Ücretleri altında Notu** **İndir:** Bu rapor vergileri içermemiyor veya tek seferlik satın almaları göster'i seçin
 
 **Bulut Çözümü Sağlayıcısı (CSP)**
 
-- Azure Bulut Çözümü Sağlayıcısı (Azure CSP) programında faturalamanın nasıl çalıştığını öğrenin: [Azure CSP Faturalama](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Azure Bulut Çözümü Sağlayıcısı (Azure CSP) programında faturalamanın nasıl çalıştığını öğrenin: [Azure CSP Faturalandırma](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
 - CSP faturanızı okuma ve anlama hakkında bilgi edinin: [Azure CSP faturası](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Önerilen Belgeler**
@@ -81,4 +81,4 @@ Kurumsal portaldaki Raporlar ve Kullanım > Azure Marketi toplamını market fat
 - [Azure harcama sınırını anlama](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Dış hizmet ücretleri için Azure faturanızı anlama: [Dış hizmetler nasıl faturalandırıldı](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Azure Ücretsiz Hesap SSS](https://azure.microsoft.com/free/free-account-faq/)
-- [Azure'daki Azure Kurumsal Sözleşme yönetim rollerini anlama](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Azure'Kurumsal Anlaşma yönetim rollerini anlama](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)

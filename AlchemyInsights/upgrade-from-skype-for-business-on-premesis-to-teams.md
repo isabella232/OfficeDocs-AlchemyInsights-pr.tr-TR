@@ -1,5 +1,5 @@
 ---
-title: Şirket içi Skype Kurumsal'dan Teams'e yükseltme
+title: Şirket içi Skype Kurumsal başka bir sürüme Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 6f15e028b33212b8dbedb4e319f9bcdc34d27e87
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5bf8d952441ff5fe1e6fae5b517aa0ad83b8bb79f5e49256e8ebcedbc086c3d1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827380"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919695"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Şirket içi Skype Kurumsal'dan Teams'e yükseltme
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Şirket içi Skype Kurumsal başka bir sürüme Teams
 
-Skype Kurumsal veya Microsoft Lync'i şirket içinde dağıttıysanız ve organizasyonunız Teams'e yükseltmek istiyorsa, aşağıdaki makaledeki yönergeleri izleyin. Kiracınız ile karma bağlantı ayarlamalı, sonra kullanıcılarınızı Teams'e taşımanız ve onlara uygun birlikte çalışma ve yükseltme modunu atamanız gerekir. 
+Şirket içinde Microsoft Lync Skype Kurumsal ve sizin için yükseltme yapmak Teams, aşağıdaki makaledeki yönergeleri izleyin. Kiracınız ile karma bağlantı ayarlamalı, sonra kullanıcılarınızı kiracınıza taşımalı ve onlara uygun Teams birlikte çalışma ve yükseltme modu atamanız gerekir. 
 
-[Şirket içi Skype Kurumsal'dan Teams'e yükseltme](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Şirket Skype Kurumsal bir sürümden başka bir Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

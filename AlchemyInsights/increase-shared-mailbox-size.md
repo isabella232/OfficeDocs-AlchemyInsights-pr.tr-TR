@@ -1,5 +1,5 @@
 ---
-title: 1815 paylaşılan posta kutusunun boyutunu arttırma
+title: 1815 Paylaşılan posta kutusunun boyutunu artırma
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36f4445b7635d45d8fae1aec58d981fb830f430ca7a92189d8c038e04a86ef67
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755907"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912762"
 ---
-# <a name="increase-the-size-of-a-shared-mailbox"></a>Paylaşılan posta kutusunun boyutunu büyütme
+# <a name="increase-the-size-of-a-shared-mailbox"></a>Paylaşılan posta kutusunun boyutunu artırma
 
-Paylaşılan posta kutusuna Exchange Online P2 lisansı (E3 ve E5 lisansları içinde yer alır) atayarak, paylaşılan 50 posta kutusunun boyutunu 100 GB olarak artırabilirsiniz. [Etkin kullanıcıların](https://portal.office.com/adminportal/home)paylaşılan posta kutusuna P2 lisansını atadığınızda, boyut otomatik olarak 15 dakika içinde artırılacaktır.
+Paylaşılan posta kutusuna Exchange Online P2 lisansı ataarak (E3 ve E5 lisanslarının içinde yer alır) paylaşılan posta kutusunun boyutunu varsayılan boyut olarak 50 GB'tan 100 GB'a artırabilirsiniz. Etkin kullanıcılarda paylaşılan posta kutusuna P2 lisansı atadığınız [zaman,](https://portal.office.com/adminportal/home)boyut 15 dakika içinde otomatik olarak artırılır.

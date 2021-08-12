@@ -1,5 +1,5 @@
 ---
-title: Hata kodu 554 5.2.2 posta kutusu dolu NDR
+title: Hata kodu 554 5.2.2 posta kutusu dolu OLAN NDR
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: a98f84fca8ddf89f04d325865932d457e4934978
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: b4dea93ce34a836180d26b5e2672cbdb776c4c39c27a270731d52ceea5bd319f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403727"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912546"
 ---
-# <a name="ndr-with-error-code-554-522-mailbox-full"></a>Hata kodu 554 5.2.2 posta kutusu dolu NDR
+# <a name="ndr-with-error-code-554-522-mailbox-full"></a>Hata kodu 554 5.2.2 posta kutusu dolu OLAN NDR
 
-E-posta etkin bir ortak klasöre e-posta gönderirken "554 554 5.2.2 posta kutusu dolu" hata koduyla NDR alıyorsanız:  
+"554 5.2.2 posta kutusu dolu" hata koduyla NDR alıyorsanız, posta özelliği etkin bir ortak klasöre e-posta gönderirken:  
 
-Ortak klasör veya ortak [klasör](https://aka.ms/554522) posta kutusu kotasına ulaşılamaması için bu makaledeki adımları kullanın.
+Ortak klasör veya ortak [klasör posta](https://aka.ms/554522) kutusu kotasının aşılması için bu makaledeki adımları kullanın.

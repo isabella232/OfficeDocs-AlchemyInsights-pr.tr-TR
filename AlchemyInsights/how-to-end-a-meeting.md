@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 67c33e90b1f7ca9f68af1ef01ce158075a0dc54d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3ef93e2f94ffe0768c9da3a740a865dfd36952e6d908a36670275297aed39913
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825715"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963303"
 ---
 # <a name="how-to-formally-end-a-meeting"></a>Toplantıyı resmi olarak sona erdi
 
-Toplantı düzenleyicileri, toplantı içindeki toplantı denetimlerinden Toplantıyı bitir'e **tıklayarak** Teams'te tüm toplantı katılımcıları için toplantıyı sona erer.  
+Toplantı düzenleyicileri, toplantı içindeki toplantı denetimlerde toplantıyı Teams'e tıklayarak **toplantının** tüm katılımcıları için toplantıyı sona erer.  
 
 Devam eden bir toplantıyı tüm katılımcılar için sona erer, toplantı denetimlerini seçin, 3 nokta simgesini seçin ve Toplantıyı Bitir'e tıklayın. Seçiminizi onaylamanız istensin. Seçiminizi onaylamanız, herkes için toplantıyı sona erer.
 

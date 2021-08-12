@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: ec74b7c098d302d3bdeb5a412fad41efe7b82b98
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4530abb3bf597458ea22441203a0db24b4b109f0760258310072891014c4b454
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816392"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929325"
 ---
 # <a name="create-a-group"></a>Grup oluşturma
 
@@ -29,10 +29,10 @@ Yeni grup oluşturma yetkinizin olduğundan emin olmak. Genel yöneticiler Azure
 
 **Grup oluşturma izinlerini yönetme**
 
-1. Genel yöneticiler, Tüm gruplar Genel   >  **(Ayarlar)** içinde "Kullanıcılar Azure portallarında güvenlik grupları oluşturabilir" veya "Kullanıcılar Azure portallarında Office 365 grupları oluşturabilir" seçeneklerini seçerek (güvenlikle ilgili nedenlerle) Azure portalında veya Erişim Paneli'de oluşturulan Office 365 gruplarını yönetebilir.
-2. Azure Active Directory P1 Premium lisansınız varsa, grup oluşturma seçeneğini kısıtlayan bir kullanıcı grubu da kullanabilirsiniz.
+1. Genel yöneticiler, Tüm gruplar Genel   >  **(Ayarlar)** seçeneğinde "Kullanıcılar Azure portallarında güvenlik grupları oluşturabilir" veya "Kullanıcılar Azure portallarında güvenlik grupları oluşturabilir" seçeneklerini seçerek (güvenlikle ilgili nedenlerle) grup oluşturma izinlerini veya Azure portallarında oluşturulmuş Office 365 Office 365 gruplarını yönetebilir.
+2. Ayrıca, Azure Active Directory P1 lisansınız varsa, grup oluşturma Premium kısıtabilirsiniz.
 
-**Yeni Office 365 grup üyeleri için karşılama bildirimini devre dışı bırakma**
+**Yeni grup üyeleri için karşılama Office 365 devre dışı bırakma**
 
 Office 365 gruplarına eklenen kullanıcılara gönderilen karşılama bildirimi, Powershell'de **UnifiedGroupWelcomeMessageEnabled** değeri False olarak ayarlanabilir. Bu ayar hakkında buradan bilgi [öğrenebilirsiniz.](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true)
 

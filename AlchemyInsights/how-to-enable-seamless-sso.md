@@ -13,24 +13,24 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 565ec53a3d9f8863562ac828e21a4a153c61ae88
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0659d3fe017d7c77b936d80a308bcb56f94ee322029f79ee095ebeec0b8ea7c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825751"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963447"
 ---
 # <a name="how-to-enable-seamless-sso"></a>Sorunsuz SSO nasıl etkinleştirilenler
 
-Azure AD Connect aracılığıyla [Sorunsuz SSO'nun etkinleştirin.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)
+Azure AD Hizmetleri aracılığıyla [Sorunsuz SSO'Bağlan.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)
   
-Yeni bir Azure AD Connect yüklemesi yapıyorsanız, özel yükleme [yolunu seçin.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom) Kullanıcı **oturum açma sayfasında,** Çoklu oturum **açma etkinleştir seçeneğini** belirtin.
+Azure AD Bağlan'nin yeni yüklemesini yapıyorsanız, [özel yükleme yolunu seçin.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom) Kullanıcı **oturum açma sayfasında,** Çoklu oturum **açma etkinleştir seçeneğini** belirtin.
   
 Sorunsuz SSO'nun doğru etkinleştirildiğinden emin olmak için:
   
-1. Azure Active [Directory yönetim merkezinde genel yönetici](https://aad.portal.azure.com) olarak oturum açma.
+1. Azure Active Directory yönetim [merkezinde genel](https://aad.portal.azure.com) yönetici olarak oturum açma.
 
-2. Sol **bölmede Azure Active Directory'yi** seçin.
+2. Sol **Azure Active Directory** Seçenekler'i seçin.
 
 3. Sorunsuz çoklu oturum açma'nın Etkinleştirildiğinden emin **olun.**
 
