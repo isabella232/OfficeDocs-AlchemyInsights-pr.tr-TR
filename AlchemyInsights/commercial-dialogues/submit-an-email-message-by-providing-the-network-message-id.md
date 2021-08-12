@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: e4a0a3d9b4fede9198c8a235d05945b30a6e0807
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1a6f9815a36cc267a815ff9757d713afed5d95aec4f7c537135c88cadf26cc51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929937"
 ---
 # <a name="submit-an-email-message-by-providing-the-network-message-id"></a>Ağ iletisi kimliğini sağlayarak e-posta iletisi gönderme
 
-1. Yeni gönderim **uç bilgisinde,** E-posta **ve Ağ** **İletiSi Kimliği'ne seçin.**
-2. Outlook'ta e-posta iletisi için ileti kimliğini bulmak için şu adımları izleyin:
+1. Yeni gönderim **uç iletisinde** E-posta ve **Ağ** İleti **Kimliği'ne seçin.**
+2. E-posta iletisinde ileti kimliğini bulmak için şu adımları Outlook:
     1. E-posta iletisine çift tıklayın ve açın.
     1. Dosya **Özellikleri'ne**  >  **tıklayın.**
-    1. Not Defteri'ni veya boş bir Word belgesini açın ve görünürlüğü artırmak için **İnternet** üst bilgileri kutusunda bulunan içeriği kopyalayıp açık belgeye yapıştırın.
-    1. **X-MS-Exchange-Organization-Network-Message-Id alanını** bulun. Bundan sonra gelen **değer:** gönderiniz için gereken kimliktir.
-3. Alıcılar **altında,** e-posta bu e-postanın tüm alıcıları için gereksiz posta klasörüne inerse, **Seç'i seçin.** Yoksa, yalnızca sorunu bildiren kullanıcıyı seçin.
-4. Gönderme **nedeni altında,** Engellenmiş olmalı seçeneğini belirtir, iletinin İstenmeyen **Posta,** Kimlik Avı veya Kötü Amaçlı Yazılım olarak engellenmiş olup olmadığını belirtin ve gönder'i **seçin.**  
+    1. Daha Not Defteri bir Word belgesi veya boş bir Word belgesi açın ve daha görünürlüğü artırmak için **internet** başlıkları kutusunda bulunan içeriği kopyalayıp açık belgeye yapıştırın.
+    1. **X-MS-Exchange-Organization-Network-Message-Id alanını** bulun. : değerinden **sonra gelen** değer, gönderiniz için ihtiyacınız olan kimliktir.
+3. Alıcılar **altında,** e-posta bu e-postanın tüm alıcıları için gereksiz posta klasörüne inerse, Select **All öğesini seçin.** Yoksa, yalnızca sorunu bildiren kullanıcıyı seçin.
+4. Gönderme **nedeni'nin altında** , Engellenmiş olmalı öğesini seçerek iletinin **İstenmeyen** Posta **,** Kimlik Avı veya Kötü Amaçlı Yazılım olarak engellenmiş olup olmadığını belirtin ve sonra da Gönder'i **seçin.** 
 
-Daha fazla bilgi edinmek için [bkz. Tarama için şüpheli istenmeyen posta, kimlik avı, URL'ler ve dosyaları Microsoft'a gönderme.](https://go.microsoft.com/fwlink/?linkid=2101479)
+Daha fazla bilgi edinmek için [bkz. Şüpheli istenmeyen posta, kimlik avı, URL'ler](https://go.microsoft.com/fwlink/?linkid=2101479)ve dosyaları tarama için Microsoft'a gönderme.

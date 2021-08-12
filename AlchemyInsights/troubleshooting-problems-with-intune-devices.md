@@ -1,5 +1,5 @@
 ---
-title: Intune aygıtlarıyla ilgili sorunları giderme
+title: Intune cihazlarında sorunları giderme
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003834"
 - "6851"
-ms.openlocfilehash: 80d09a9ccb9f76d35a12e5cc70903aa03ca0819e
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: bd00f075f52227cfc44655b86c99a6668360bcbb840f8261ea777a78c21a2494
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920919"
 ---
-# <a name="troubleshooting-problems-with-intune-devices"></a>Intune aygıtlarıyla ilgili sorunları giderme
+# <a name="troubleshooting-problems-with-intune-devices"></a>Intune cihazlarında sorunları giderme
 
-Bir Intune yönetilen aygıtında sorun yaşanıyorsa, öncelikle temel yapılandırmayı onaylamak ve cihaz durumunu doğrulamak için [cihazları Intune Ile yönetme](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) belgelerini inceleyin.
+Intune yönetilen bir cihazda sorun yaşanıyorsa, temel yapılandırmayı onaylamak ve cihaz durumunu doğrulamak için önce [Intune](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) ile Cihazları Yönetme belgelerini gözden geçirin.
 
-Eksik veya gecikmeli ilkeler, yanlış ilkeler, beklenmeyen erişim veya erişim eksikliği gibi sorunlar cihazın Intune ile eşitlenmesinden kaynaklanabilir. Daha fazla bilgi için [cihaz eşitleme](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) belgelerini gözden geçirin.
+Eksik veya geciktirilen ilkeler, yanlış ilkeler, beklenmedik erişim veya erişim olmaması gibi sorunlar cihazın Intune ile eşitliğinin yetersiz olması nedeniyle ortaya çıkar. Daha fazla [bilgi için Cihaz eşitleme](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) belgelerini gözden geçirebilirsiniz.
 
-Cihaz iade, ilke eşitleme ve cihaz yapılandırması ile ilgili sık karşılaşılan sorunlar [ortak sorular ve yanıtlar](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) veya [sorun giderme ilkesi](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune) belgelerinde bulunabilir.
+Cihaz iadesi, ilke eşitlemesi ve cihaz yapılandırmasıyla ilgili genel sorunlar, Genel Sorular ve yanıtlar veya Sorun giderme [ilkesi](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) [belgelerinde](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune) bulunabilir.

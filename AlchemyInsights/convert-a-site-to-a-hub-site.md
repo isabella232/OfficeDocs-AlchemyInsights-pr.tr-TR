@@ -1,5 +1,5 @@
 ---
-title: Siteyi hub sitesine dönüştürme
+title: Siteyi merkez sitesine dönüştürme
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,23 +12,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: e3011b8af2271761c96d8e9bcecd317682c096d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc8728583a547e2407e2c91bf777adb23c221015c63d325df33db6c691f98e71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733023"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929829"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>SharePoint hub sitesi oluşturma
+# <a name="create-a-sharepoint-hub-site"></a>Ana SharePoint sitesi oluşturma
 
-1. Yeni SharePoint Yönetim merkezinde, **siteler**'In altında **etkin siteler**'e tıklayın.
+1. Yeni yönetim SharePoint altında, Etkin **siteler** **'e tıklayın.**
 
-2. Hub sitesi olmasını istediğiniz siteyi seçin, **hub sitesi**'ne ve ardından **hub sitesi olarak kaydet**'e tıklayın.
+2. Merkez sitesi olmak istediğiniz siteyi seçin, Merkez sitesi 'ne tıklayın ve **ardından** Merkez sitesi olarak **kaydol'a tıklayın.**
 
-3. Hub sitesi için bir görünen ad girin ve siteleri hub ile ilişkilendirmek istediğiniz bireysel kullanıcıları veya güvenlik gruplarını belirtin.
+3. Merkez sitesi için bir görünen ad girin ve siteleri merkez sitesiyle ilişkilendirmek için izin vermek istediğiniz kullanıcıları veya güvenlik gruplarını tek tek belirtin.
 
     > [!NOTE]
-    >  İletişim sitesini veya yeni şablonu kullanan bir ekip sitesi seçmenizi öneririz. Klasik bir ekip sitesi kullanıyorsanız, hub gezintisi yalnızca modern sayfalarda görünür ve hub site ayarları yalnızca modern sayfalarda görünür. Başka bir hub ile ilişkilendirilmiş olan siteler hub sitesi olarak kaydedilemez.
+    >  Bir iletişim sitesi veya yeni şablonun kullandığı bir ekip sitesi seçmenizi öneririz. Klasik bir ekip sitesi kullanıyorsanız, merkez gezintisi yalnızca modern sayfalarda ve merkez sitesi ayarları da yalnızca modern sayfalarda görüntülenir. Daha önce başka bir merkez ile ilişkilendirilmiş siteler merkez sitesi olarak kaydedılamaz.
   
-[Hub siteleri hakkında daha fazla bilgi edinin](https://go.microsoft.com/fwlink/?linkid=869149)
+[Merkez siteleri hakkında daha fazla bilgi](https://go.microsoft.com/fwlink/?linkid=869149)
   
