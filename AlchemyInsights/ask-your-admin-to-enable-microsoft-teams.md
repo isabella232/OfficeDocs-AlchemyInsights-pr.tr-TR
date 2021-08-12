@@ -1,5 +1,5 @@
 ---
-title: Yöneticinizden Microsoft Teams'i etkinleştirmelerini isteme
+title: Yöneticinizden bu özelliği etkinleştirmelerini Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8698136c5d5505bae0d38ca5d416ee0ca0e27461d92dc3b41ce029cb383abfb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821206"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950973"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Kayboldun! Yöneticinizden Microsoft Teams'i etkinleştirmelerini isteme
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Kayboldun! Yöneticinizden bu özelliği etkinleştirmelerini Microsoft Teams
 
-EDU kiracınız varsa, Microsoft Teams’i el ile etkinleştirmeniz gerekir. Bunu yapmak için, Microsoft Teams'de Microsoft 365 yönetim >Hizmetleri ve  **> gidin.** Yeni Teams yönetim merkezini kullanıyorsanız, Hizmetler ve eklentiler'i bulmak için Yeni yönetim merkezini ****   deneyin'i **kapatmamız gerekir.** 
+Eğitim kiracınız varsa Microsoft Teams’i el ile etkinleştirmeniz gerekir. Bunu yapmak için, Microsoft 365 yönetim merkezi > **Hizmetleri'ne ve eklentilere > Microsoft Teams.** Yeni Yönetim Merkezi'ni Teams, Hizmetler ve eklentiler'i bulmak **** için Yeni yönetim merkezini    **deneyin'i kapatmalı.** 
 
 **ÖNEMLİ:** Değişikliklerinizin etkili bir şekilde devamını almak için 24 saate kadar beklemeniz gerekiyor olabilir.

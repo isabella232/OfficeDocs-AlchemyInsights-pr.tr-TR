@@ -1,5 +1,5 @@
 ---
-title: Microsoft Arama'ya ayarlama
+title: Ayarlama Microsoft Arama
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9264"
-ms.openlocfilehash: 5bc1f27377e48d54d82ab36705fe92a5a16f3c48
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 6eca85ef9909f80086376e5abcc16ccdcd298ff09a5507161b222447d9f690c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51405469"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958173"
 ---
-# <a name="set-up-microsoft-search"></a>Microsoft Arama'ya ayarlama
+# <a name="set-up-microsoft-search"></a>Ayarlama Microsoft Arama
 
-Microsoft Search‎ provides a user-friendly interface to search and find results in your organization across ‎Microsoft 365‎ services and applications to help you complete what you're working on. It is included at no additional cost with your eligible ‎Microsoft 365‎ subscription.
+Microsoft Arama üzerinde çalıştığınızı tamamlamanıza yardımcı olmak için Microsoft 365 hizmetleri ve uygulamaları genelinde sonuçları aramak ve bulmak için kullanıcı dostu bir arabirim sağlar. Uygun aboneliğinize ek ücret ödemeden dahil Microsoft 365 dahildir.
 
-Microsoft [Arama kurulum kılavuzunu kullanarak](https://go.microsoft.com/fwlink/?linkid=2156919) bir grup kullanıcı için pilot uygulama veya bunu kuruluşta herkese uygulama hakkında bilgi edinebilirsiniz. Arama yöneticilerini ve Arama düzenleyicilerini atayacak ve kullanıcılarınız için arama deneyimini yanıtlar ve Bing uzantısını Chrome'a ekleme veya Bing'i varsayılan arama motorunuz olarak ayarlama gibi ek seçeneklerle özelleştirebilirsiniz.
+Bu [Microsoft Arama bir grup](https://go.microsoft.com/fwlink/?linkid=2156919) kullanıcı için pilot olarak mı yoksa organizasyonda herkese mi yuvarlatacak onu yapılandırmak için Kurulum Kılavuzu'nda kullanın. Arama yöneticileri ve Arama düzenleyicileri atayacak ve sonra yanıtlar ve Bing uzantısını Chrome'a ekleme veya varsayılan arama motorunuz olarak Bing gibi ek seçeneklerle kullanıcılarınız için arama deneyimini özelleştirebilirsiniz.

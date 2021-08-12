@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory 'yi ayarlama
+title: Ayarlama Azure Active Directory
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004192"
 - "7373"
-ms.openlocfilehash: 94078246562112709eee303fa13d4ac2aa651b12
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 92fadd9c98494af1a9ead97c414f3d417d37f57c77affdb9c9b3568dff4b889d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679642"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958209"
 ---
-# <a name="set-up-azure-active-directory"></a>Azure Active Directory 'yi ayarlama
+# <a name="set-up-azure-active-directory"></a>Ayarlama Azure Active Directory
 
-[Azure AD Kurulumu Kılavuzu](https://go.microsoft.com/fwlink/?linkid=2134390) , kuruluşunuzun güçlü bir güvenlik kurucusu olduğundan emin olmak için bilgi sağlar. Bu kılavuzda, Yöneticiler için Azure rol tabanlı erişim denetimi (Azure RBAC), şirket içi dizininiz için Azure AD Connect ve Azure AD Connect sağlığı gibi ilk özellikleri ayarlayarak, otomatik eşitlemeler sırasında karma kimliğinizin durumunu izleyebilirsiniz.
+[Azure AD kurulum kılavuzu,](https://go.microsoft.com/fwlink/?linkid=2134390) kuruma güçlü bir güvenlik temeli olmasını sağlamaya yönelik bilgiler sağlar. Bu kılavuzda, yöneticilere yönelik Azure rol tabanlı erişim denetimi (Azure RBAC), şirket içi dizininiz için Azure AD Bağlan ve Otomatik eşitlemeler sırasında karma kimliğinizin sistem durumunu izlemek için Azure AD Bağlan Health gibi başlangıç özelliklerini ayarlayabilirsiniz.
 
-Ayrıca, isteğe bağlı gelişmiş kimlik koruması ve Kullanıcı hazırlama otomasyonu dahil olmak üzere self servis parola sıfırlama, koşullu erişim ve tümleşik üçüncü taraf oturum açma işlemleri hakkında temel bilgiler içerir.
+Ayrıca, self servis parola sıfırlamalarını etkinleştirme, koşullu erişim ve isteğe bağlı gelişmiş kimlik koruması ve kullanıcı sağlama otomasyonu dahil olmak üzere tümleşik üçüncü taraf oturum açma hakkında temel bilgiler de içerir.

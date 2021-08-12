@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: 9e14a18174d7bd5be5b64ecf1ee71befc3b96201
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60136dd385320760595bd061b226f5649b2c6ca9953ea87aa743dcf4156759a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774767"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911106"
 ---
 # <a name="about-office-2019"></a>Office 2019 hakkında
 
-Office 2019, henüz buluta hazır olmayan veya şirket içi veya karma Office dağıtımına özgü bir ihtiyacı olan müşteriler içindir. Bu, son üç yıl içinde Microsoft 365 'e eklenmiş olan özelliklerin anlamlı bir alt kümesini içerir, ancak Microsoft 365 'in bir parçası değildir.
+Office 2019, henüz buluta hazır olmayan veya şirket içi veya karma dağıtım için belirli bir ihtiyacı olan müşterilere Office yöneliktir. Son üç yıl içinde Microsoft 365'e zaten eklenmiş olan anlamlı bir özellik alt kümesi içerir, ancak başka bir Microsoft 365.
   
-Office 'in bulut bağlantılı sürümü olan kurumsal için Microsoft 365 uygulamaları, en verimli ve en güvenli Office deneyimini sunar. Şirket içi sürümlerin sahip olduğu ve yeni özellik güncelleştirmelerini sürekli alan bir hizmet paketine erişim sağlar.
+Kurumlar için Microsoft 365 Uygulamaları'in bulut bağlantılı sürümü olan Office, en üretken ve en güvenli kullanıcı Office sunar. Şirket içi sürümlerin sahip olduğu sürümün ötesinde bir hizmet paketine erişim sağlar ve sürekli olarak yeni özellik güncelleştirmeleri alır.
   
-Bu nedenle, Office masaüstü uygulamalarınız Microsoft 365 aboneliğinizin bir parçası olarak zaten Office 'in en son sürümüne sahipsiniz.
+Dolayısıyla, Microsoft 365 aboneliğinizin bir parçası olarak Office masaüstü uygulamalarınız varsa, zaten Office'un en son sürümüne sahipsiniz.
   
 Daha fazla bilgi için bkz.:
   
-[Windows ve Mac için Office 2019 ticari hakkında sık sorulan sorular](https://support.microsoft.com/help/4133312)
+[Office Mac için Ticari 2019 Windows ve Mac ile ilgili sık sorulan sorular](https://support.microsoft.com/help/4133312)
   
-[Office 2019 'in başlıca sürüm numarası 16,0 adresinde kalıyor](https://docs.microsoft.com/deployoffice/office2019/overview)
+[2019'un Office sürüm numarası 16.0'da kalıyor](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[Office 2016 ve Microsoft 365 istemci uygulamalarında yıl ataması Başlat menüsü girişlerinden kaldırılacaktır](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[Office 2016 ve Microsoft 365 istemci uygulamaları yıl ataması, Başlat menüsü girdilerinden kaldırılacak](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   

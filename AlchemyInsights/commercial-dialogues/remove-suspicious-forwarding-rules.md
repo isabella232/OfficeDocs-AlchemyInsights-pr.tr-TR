@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 6bbda4191d677a137ea0a834385d48a941050ef5
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 6537210c5757201c2ea2eecbf56934c36fc1bd6bb5245e9b7ba3c445f88d7dbe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403547"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916075"
 ---
 # <a name="remove-suspicious-forwarding-rules"></a>Şüpheli iletme kurallarını kaldırma
 
-Şüpheli iletme kurallarını kaldırmak için bu adımları izleyin. Bu, bilgisayar korsanlarının kullanıcıların e-posta iletilerini kendilerine iletmenin başka bir yolu dadır.
+Şüpheli iletme kurallarını kaldırmak için bu adımları izleyin. Bu da bilgisayar korsanlarının kullanıcıların e-posta iletilerini kendilerine iletmelerini sağlar.
 
-1. Outlook 2016 kullanıyorsanız, Giriş  sekmesinde Kuralları Ve Uyarıları  >  **Yönet'& tıklayın.** 
-1. **E-posta Kuralları** sekmesinde, listede ilerleyin ve tanımadınız kuralları silin.
-1. Web üzerinde Outlook kullanıyorsanız, Ayarlar simgesine tıklayın **ve** > Outlook **ayarlarını görüntüle'ye tıklayın.**
-1. **Iletme'ye** tıklayın ve tanımayıcı olmadığınız tüm şüpheli iletme kurallarını silin.
+1. Outlook 2016 kullanıyorsanız, Giriş sekmesinde Kuralları  ve Uyarıları Yönetme **&**  >  **tıklayın.** 
+1. **E-posta Kuralları** sekmesinde, listede ilerleyin ve tanımadığınız kuralları silin.
+1. Bu simgeyi kullanıyorsanız, Web üzerinde Outlook **simgesine Ayarlar** ve tüm > **Görüntüle'Outlook tıklayın.**
+1. **Yönlendirme'ye** tıklayın ve tanımayıcıların tüm şüpheli iletme kurallarını silin.

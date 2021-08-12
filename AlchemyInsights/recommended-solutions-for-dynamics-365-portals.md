@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 portalları önerilen çözümler
+title: Dynamics 365 Portalları Önerilen Çözümler
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,27 +12,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 2c9a60453431bb965fda0c6ac1191f1c24420d3b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 701e7e74648ce09927f41b70945c7a2e9ba89e5d96a088343984c2054fda2343
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693071"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911070"
 ---
-# <a name="dynamics-365-portals-recommended-solutions"></a>Dynamics 365 portalları önerilen çözümler
+# <a name="dynamics-365-portals-recommended-solutions"></a>Dynamics 365 portallarında önerilen çözümler
 
-* [Portalınızda gösterilen ayrıntılı sunucu hatasını görüntüleme](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Portalımda gösterilen ayrıntılı Sunucu Hatası nasıl görüntülenir](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [Portalı sıfırlama](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [Portal nasıl sıfırlanır](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [Bir portalın sunucu tarafı önbelleğini temizleme](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [Portal için sunucu tarafı önbelleğini temizleme](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Bir Dynamics 365 portalının kitlesini ve türünü değiştirme](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Dynamics 365 Portalı'nın hedef kitlesini ve türünü değiştirme](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [Portalın temel URL 'sini değiştirme](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [Portalın temel URL'sini değiştirme](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Portal ile dış kimlik sağlayıcısını yapılandırma](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Portalla dış Kimlik Sağlayıcısını yapılandırma](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Sık Sorulan Sorular](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Dynamics 365 Portalı 'nı kullanmaya başlama](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Dynamics 365 Portalım ile çalışmaya başlama](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
