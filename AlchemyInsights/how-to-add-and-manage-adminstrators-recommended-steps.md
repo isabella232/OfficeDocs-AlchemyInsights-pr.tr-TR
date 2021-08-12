@@ -1,5 +1,5 @@
 ---
-title: Yöneticileri ekleme ve yönetme-önerilen adımlar
+title: Yöneticileri ekleme ve yönetme - önerilen adımlar
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,71 +13,71 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755855"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963807"
 ---
-# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Yöneticileri ekleme ve yönetme-önerilen adımlar
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Yöneticileri ekleme ve yönetme - önerilen adımlar
 
-Sorun açıklamanızı temel alarak sizin için bir çözüm bulduk. Çoğu müşteri, belgelerimizi takip ettikten sonra sorununu kendi başınıza çözümlerler.
+Sorun açıklamanıza bağlı olarak sizin için bir çözüm bulduk. Çoğu müşteri belgelerimizi takip ettikten sonra sorununuzu kendi kendine çöze kavuştur bulundu.
 
-**Abonelik yöneticisini veya ortak yöneticiyi düzenleme**
+**Abonelik Yöneticisi'yi veya Ortak Yönetici'yi düzenleme**
 
-- Hesap Yöneticisi her iki rolü de düzenleyebilir, abonelik Yöneticisi yalnızca [Azure portalında](https://ms.portal.azure.com/#home)ortak yöneticileri değiştirebilirler.
-- [Azure aboneliği yöneticilerini ekleme veya değiştirme](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
+- Abonelik Yöneticisi her iki rolü de düzenleyebilir, ancak Abonelik Yöneticisi yalnızca [Azure portalında](https://ms.portal.azure.com/#home)Ortak yöneticileri değiştirebilir.
+- [Azure abonelik yöneticilerini ekleme veya değiştirme](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Abonelik Yöneticisi 'ni veya Iç (GERÇEKLEŞTIRILECEKTIR) abonelikleri için Co-Administrator güncelleştirme**
+**İç (AIRS) Abonelikler Co-Administrator Yöneticisini veya Aboneliği Güncelleştirme**
 
-Hizmet Yöneticisi veya ortak yönetici, aşağıdaki adımları kullanarak bu eyleme Self-sunabilir:
+Hizmet Yöneticisi veya Ortak yönetici, aşağıdaki adımları kullanarak bu eyleme kendi kendine hizmet etmek için kullanabilir:
 
-1. [Azure portalında](https://ms.portal.azure.com/#home) oturum açın ve sol dikey, **maliyet yönetimi + faturalandırma** 'ı tıklatın.
-2. Aboneliğinizle birlikte satır öğesine tıklayın. Bu, aboneliğinizin genel görünümünü açar.
-3. **Abonelik** dikey penceresinde **Özellikler**'e tıklayın. 
-4. **Hizmet Yöneticisi** düğmesine tıklayın.
-5. Hizmet Yöneticisi olarak ayarlamak istediğiniz kullanıcının e-postasını girin ve **Tamam 'a** tıklayın.
+1. [Azure portalda](https://ms.portal.azure.com/#home) oturum açın ve sol blade'de **Maliyet Yönetimi + Faturalama'ya** tıklayın.
+2. Aboneliğinizin sağ olduğu satıra tıklayın. Bu işlem, aboneliğinize genel bakış görünümünü açar.
+3. Abonelik **blade'inde** Özellikler'e **tıklayın.** 
+4. Hizmet Yöneticisi **düğmesine** tıklayın.
+5. Hizmet Yöneticisi olarak ayarlamak istediğiniz kullanıcının e-posta adresini girin ve Tamam'a **tıklayın.**
 
-**Yönetici ekleme/değiştirme/kaldırma**
+**Ortak yönetici ekleme/değiştirme/kaldırma**
 
-1. [Azure portalında](https://ms.portal.azure.com/#home) hizmet yöneticisi olarak oturum açın.
-2. [Abonelikleri](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) açın ve bir abonelik seçin. (Birlikte Yönetim Yardımcıları yalnızca abonelik kapsamında atanabilir.)
-3. **Access Control (IAM)**  >  **Klasik yöneticileri** ekleme ortak  >    >  **yönetici** Ekle bölmesini açmak için yardımcı yönetici Ekle  'yi (ortak yönetici Ekle seçeneği devre dışıysa) açın.
-4. Eklemek istediğiniz kullanıcıyı seçin ve **Ekle**'ye tıklayın.
+1. Hizmet Yöneticisi olarak [Azure portalında](https://ms.portal.azure.com/#home) oturum açın.
+2. [Abonelikler'i](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) açın ve bir abonelik seçin. (Yardımcı yöneticiler yalnızca abonelik kapsamında atanabilir.)
+3. Access denetimi **(IAM)** Klasik yöneticiler Eş yönetici ekle bölmesini açmak için, Access denetimi (IAM) Klasik yöneticiler Eş yönetici ekle'ye gidin (Ortak yönetici ekle seçeneği devre dışı bırakılmışsa, izinlere sahip  >    >    >   olmadığınız gösterir). 
+4. Eklemek istediğiniz kullanıcıyı seçin ve Ekle'ye **tıklayın.**
 
 **Daha fazla bilgi edinin:**
-- [Yardımcı yönetici ekleme](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Yardımcı yöneticiyi kaldırma](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Hizmet yöneticisini değiştirme](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Hesap yöneticisini görüntüleme](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Ortak Yönetici ekleme](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Ortak yöneticiyi kaldırma](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Hizmet Yöneticisi'ni değiştirme](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Hesap Yöneticisi'ne görüntüleme](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [RBAC ve Azure portalını kullanarak erişimi yönetme](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
 
-**Azure Active Directory (AD) kullanarak kullanıcıları ekleme/silme**
+**Azure Active Directory (AD) kullanarak kullanıcı ekleme/silme**
 
-Azure Active Directory (Azure AD) kuruluşunuzdan yeni kullanıcılar ekleyebilir veya varolan kullanıcıları silebilirsiniz:
+Yeni kullanıcılar ekleyebilir veya var olan kullanıcıları Azure Active Directory (Azure AD) kuruluşundan silebilirsiniz:
 
-1. Yeni bir kullanıcı eklemek için, kuruluş için Kullanıcı Yöneticisi olarak [Azure portalında](https://ms.portal.azure.com/#home) oturum açın.
-2. **Azure Active Directory**'yi seçin, **Kullanıcılar** 'ı seçin ve ardından **Yeni Kullanıcı**'ya tıklayın.
-3. **Kullanıcı** sayfasında, gerekli bilgileri doldurun. **Oluştur**'a tıklayın. Kullanıcı oluşturulur ve Azure AD kiracınıza eklenir.
+1. Yeni kullanıcı eklemek için, Azure [portalında](https://ms.portal.azure.com/#home) kuruluş için Kullanıcı yöneticisi olarak oturum açın.
+2. Yeni **Azure Active Directory** öğesini seçin, **Kullanıcılar'ı** seçin ve yeni kullanıcı **'ya tıklayın.**
+3. Kullanıcı **sayfasında** gerekli bilgileri doldurun. **Oluştur'a tıklayın.** Kullanıcı oluşturulur ve Azure AD kiracınıza eklenir.
 
-**Daha fazla bilgi**:
+**Daha fazla bilgi:**
 
-- [Yeni Kullanıcı ekleme](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
+- [Yeni kullanıcı ekleme](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 - [Kullanıcı silme](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
-- [Azure Active Directory kullanarak kullanıcının profil bilgilerini ekleme veya güncelleştirme](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [Profili kullanarak kullanıcının profil bilgilerini ekleme veya Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **Önerilen belgeler**
 
 - [Rol tabanlı erişim denetimi (RBAC) nedir?](https://docs.microsoft.com/azure/role-based-access-control/overview)
-- [Azure 'da farklı rolleri anlama](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
-- [Azure Active Directory 'de yönetici rolü izinleri](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
-- [Öğretici: RBAC ve Azure portalını kullanarak bir kullanıcıya erişim Izni verme](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
-- [Azure 'da RBAC sorunlarını giderme](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
-- [Azure Yönetim gruplarıyla kaynaklarınızı düzenleme](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Azure faturasının kopyasını e-posta yoluyla isteme](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
-- [Azure 'dan kredi veya banka kartı ekleme, güncelleştirme veya kaldırma](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
-- [Aboneliği yönetme (yeniden etkinleştirme/Iptal etme/değiştirme)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
+- [Azure'daki farklı rolleri anlama](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
+- [Web'de yönetici rolü Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
+- [Öğretici: RBAC ve Azure portalını kullanan bir kullanıcı için erişim izni ver](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
+- [Azure'da RBAC sorunlarını giderme](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
+- [Azure yönetim gruplarıyla kaynaklarınızı düzenleme](https://docs.microsoft.com/azure/governance/management-groups/overview)
+- [Azure faturalarının kopyasını e-posta yoluyla talep edin](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Azure'da kredi kartı veya banka kartı ekleme, güncelleştirme veya kaldırma](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
+- [Aboneliği yönetme (Yeniden Etkinleştir/İptal/Değiştir)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 
 
 

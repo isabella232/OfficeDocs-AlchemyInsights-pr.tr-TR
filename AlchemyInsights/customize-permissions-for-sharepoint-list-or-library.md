@@ -1,5 +1,5 @@
 ---
-title: SharePoint listesi veya kitaplığı için izinleri özelleştirme
+title: Liste veya kitaplığın izinlerini SharePoint özelleştirme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3166"
-ms.openlocfilehash: 6baa38c0aab87bdfdd2643aa4871d0e8fdba0eeb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 429a0a32819ac320bf1e1b76041dfb666109adbb5818836956663ca98797a462
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914707"
 ---
-# <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a>SharePoint listesi veya kitaplığı için izinleri özelleştirme
+# <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a>Liste veya kitaplığın izinlerini SharePoint özelleştirme
 
 Kitaplığın, listenin veya anketin yöneticisi veya sahibi olarak, izinleri değiştirerek bir grup kişinin diğer kullanıcıları kısıtlarken ihtiyaçları olan verilere erişmesine izin veebilirsiniz.
 
-[SharePoint listesi veya kitaplığı için izinleri özelleştirme](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+[Liste veya kitaplığın SharePoint özelleştirme](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
