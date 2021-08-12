@@ -1,5 +1,5 @@
 ---
-title: Alchemy-Outlook profilinizi yeniden oluşturma
+title: Alchemy - Outlook profilinizi yeniden oluşturun
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "65"
 - "1800001"
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 3c6fb8639291c210452c7391d249d44a110d77f5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e44ef91a29261be5040b9adbd2ebc7197c5dc3ed61a96be6deda1723bb836580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718389"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933557"
 ---
-# <a name="create-an-outlook-profile"></a>Outlook profili oluşturma
+# <a name="create-an-outlook-profile"></a>Profil Outlook oluşturma
 
-Outlook profilinizi oluşturmak veya yeniden oluşturmak için, etkilenen makinede [Outlook profil aracı](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) 'nı çalıştırabilirsiniz.
+Kullanıcı profilinizi oluşturmak veya Outlook için etkilenen [makinede Outlook aracını](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) çalıştırabilirsiniz.
 
-Araç çeşitli denetimler gerçekleştirir ve hazır olduğunuzda e-posta adresinizle bir Outlook profili oluşturulur.
+Araç çeşitli denetimler gerçekleştirecek ve hazır olduğunda e-posta adresinizle Outlook bir profil oluşturacak.

@@ -1,5 +1,5 @@
 ---
-title: 1575-PowerApps ve Microsoft Akış planı uzantısı
+title: 1575-PowerApps ve Microsoft Flow plan uzantısı
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960459"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps ve Microsoft Akış planı uzantısı
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps ve Microsoft Flow plan uzantısı
 
-**Microsoft Akış** veya **PowerApps** için bir plan uzantısı istemeyi düşünüyorsanız ve kiracınızda aşağıdaki özelliklerden birinin zaten etkin olan kullanıcıları varsa, destek isteğine dosya ekleme gereği yoktur.
+**Microsoft Flow** **veya PowerApps** için plan uzantısını talep etmek planlıyorsanız ve kiracınız zaten aşağıdaki özelliklerden birinin etkin kullanıcılarına sahipse, destek isteği dosyalasanız gerek olmaz.
 
-- PowerApps ve Microsoft akışta özel bağlayıcıları oluşturma ve yayımlama
-- SharePoint ve OneDrive dışında bir akışa tümleştirilmiş HTTP özel eylemleri
-- Şirket içi veri ağ geçidiyle şirket içi verilerin tümleştirilmesi
+- PowerApps ve başka bir uygulama için özel bağlayıcı oluşturma ve Microsoft Flow
+- HTTP özel eylemleri, Flow ve SharePoint ile OneDrive
+- Şirket içi veri ağ geçidi aracılığıyla şirket içi verileri tümleştirme
 
-Bu özelliklerin etkin kullanıcıları olan müşteriler, 31 Ocak 2020 tarihine kadar veya mevcut Microsoft 365 abonelik süresinin sona erdiği, hangisi daha uzun olan
+Bu özelliklere etkin kullanıcıları olan müşteriler, 31 Ocak 2020'ye kadar otomatik bir uzantıya sahip olacak veya (hangisi daha uzunsa) var olan Microsoft 365 süresi dolacak.

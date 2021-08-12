@@ -1,5 +1,5 @@
 ---
-title: OneDrive eşitleme istemcisi için kuruluş adını değiştirme
+title: OneDrive eşitleme istemcisi için kuruluş OneDrive eşitleme değiştirme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003077"
 - "5850"
-ms.openlocfilehash: ca545ba51e39209f3302acdee1c24048515e2c1b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 217998f1c2912d74c89c676e4375769d2c0eb3f5b8e5df303071bc3c51ef74d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818344"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916867"
 ---
-# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>OneDrive eşitleme istemcisi için kuruluş adını değiştirme
+# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>OneDrive eşitleme istemcisi için kuruluş OneDrive eşitleme değiştirme
 
-OneDrive, kiracı yöneticisi tarafından ayarlanmış kuruluş adını kullanır.  Kuruluşun [adresini, teknik iletişim bilgilerini ve daha fazlasını değiştirebilirsiniz.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more) Kiracı için bu değişiklik uygulandıktan sonra, kullanıcılar OneDrive hesaplarının bağlantısını kaldırana ve yeniden bağladığı zaman OneDrive eşitleme istemcisi yeni adı yansıtmaz.
+OneDrive kiracı yöneticisi tarafından ayarlanmış kuruluş adını kullanır.  Kuruluşun [adresini, teknik iletişim bilgilerini ve daha fazlasını değiştirebilirsiniz.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more) Kiracı için bu değişiklik bir kez OneDrive eşitleme, kullanıcılar OneDrive eşitleme hesabın bağlantısını kaldırana ve yeniden bağladığı zaman yeni OneDrive yansıtmaz.
 
 Hesabın bağlantısını kesebilirsiniz:
 
-1. Görev çubuğunun sağ en sağ köşesindeki mavi OneDrive bulut simgesini seçin ve ardından Diğer Seçenekler'i **> OneDrive > seçin.**
+1. Görev çubuğunun OneDrive en sağ köşesindeki mavi renkli bulut simgesini seçin, ardından Daha fazla **Bulut > Ayarlar > seçin.**
 2. Bağlantısını silmek istediğiniz hesabı bulun ve Bu PC'nin bağlantısını **kaldır'ı ve** sonra Hesabın bağlantısını **kaldır'ı seçin.**
 
-Hesabı yeniden bağ yapmak için **Ayarlar'daki Hesap sekmesinde** Hesap ekle'yi seçin ve yeniden OneDrive'da oturum açın. 
+Hesabı yeniden bağ yapmak için hesabın Hesap **sekmesinden** Hesap ekle'yi seçin Ayarlar yeniden oturum OneDrive. 
