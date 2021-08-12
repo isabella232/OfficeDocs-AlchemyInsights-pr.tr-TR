@@ -1,5 +1,5 @@
 ---
-title: Kullanıma almayı iptal etme
+title: Kullanıma almayı iptal etmek
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 51835611492b70627ef8f563f98b2922ee1454f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2b3068d2874df7f1884968766e6c00776d2023e5c44ef697401485b57f9fadf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712348"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928533"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>Belge kitaplığından kullanıma almayı iptal etme
+# <a name="discard-a-check-out-from-a-document-library"></a>Belge kitaplığından kullanıma almayı atma
 
-1. Kullanıma almayı atmak istediğiniz dosyayı sağ tıklatın.
+1. Kullanıma almayı iptal etmek istediğiniz dosyaya sağ tıklayın.
     
-2. **Diğer**'e ve ardından kullanıma **almayı at**'a tıklayın. 
+2. Diğer **öğesini ve** ardından Kullanıma Almayı At **'ı tıklatın.** 
     
-3. Kullanıma alma 'yı temizlemek için iletişim kutusunda kullanıma **almayı iptal** et 'e tıklayın. 
+3. İletişim kutusunda, kullanıma almayı **iptal etmek için** Kullanıma Almayı At'a tıklayın. 
     
-İade etme ve kullanıma alma hakkında ek sorular için, [kullanıma alma, iade etme ve sürümler hakkında en önemli soruları](https://go.microsoft.com/fwlink/?linkid=2018786)görün.
+Check in and check out hakkında ek sorular için [bkz. Check out,](https://go.microsoft.com/fwlink/?linkid=2018786)check in and versions hakkında en çok sorulan sorular .
   
 

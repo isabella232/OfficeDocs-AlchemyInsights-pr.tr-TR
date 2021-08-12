@@ -1,5 +1,5 @@
 ---
-title: Stok sorununu giderme
+title: PRT sorunu giderme
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: 8e654a38d720aa51daf21bf5c3fb0da8b9c3d8e7
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972736"
 ---
-# <a name="troubleshoot-prt-issue"></a>Stok sorununu giderme
+# <a name="troubleshoot-prt-issue"></a>PRT sorunu giderme
 
-Herhangi bir cihazın kimliği doğrulanmış almayı tamamlamak için, tam olarak kaydedilmelidir ve iyi bir durumda ve birincil yenileme belirteci (PRT) edinebilmek gerekir.
+Herhangi bir cihazın kimlik doğrulama işlemini tamamlaması için, cihazın tümüyle kaydedilmiş ve iyi durumda olması ve Birincil Yenileme Belirteci'nin (PRT) edinilemesi gerekir.
 
-Karma Azure AD katılma kayıt süreci, aygıtların şirket ağında olmasını gerektirir. Ayrıca VPN üzerinden de çalışır, ancak bazı uyarılar vardır. Uzaktan çalışma durumları altında karma Azure AD katılma kaydını sorun giderme konusunda yardım almak için müşteriler olduğunu duyduk. İşte, kayıt işlemi sırasında "çok yer
+Karma Azure AD katılma kayıt işlemi, cihazların şirket ağına katılmasını gerektirir. VPN üzerinden de çalışır, ancak bunun için bazı uyarılar vardır. Uzak çalışmalı koşullarda karma Azure AD birleştirme kayıt işlemiyle ilgili sorun giderme konusunda yardıma ihtiyaç duyan müşteriler olduğunu duyduk. Kayıt işlemi sırasında 'daha altta' olan işlemlerin dökümünü burada açıklarız.
 
-**Bulut kimlik doğrulama ortamı (Azure AD parola karma eşitleme veya geçiş kimlik doğrulaması kullanılarak)**
+**Bulut kimlik doğrulama ortamı (Azure AD parola karma eşitlemesi veya geçişli kimlik doğrulaması kullanılarak)**
 
-Bu kayıt akışı, "eşitleme katılma" olarak da bilinir.
+Bu kayıt akışı, "Katılma Eşitleme" olarak da bilinir.
 
-1. Windows 10, kullanıcının cihazda oturum açarken bir SCP kaydını bulur.
-    1. Cihaz öncelikle kayıt defterinde (HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD], istemci tarafı SCP 'den kiracı bilgilerini almaya çalışır. Daha fazla bilgi için bu [belgeye](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)bakın.
-    2. Başarısız olursa, cihaz hizmet bağlantı noktasından (SCP) kiracı bilgilerini almak için şirket içi Active Directory (AD) ile iletişim kurar. SCP 'yi doğrulamak için lütfen bu [belgeye](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)başvurun. 
-
-> [!NOTE]
-> İlk doğrulama için AD içinde SCP 'YI etkinleştirip yalnızca istemci tarafı SCP 'YI kullanmayı öneririz.
-
-2. Windows 10, sistem bağlamı altındaki Azure AD ile iletişim kurmaya çalışır. Cihazın sistem hesabı altındaki Microsoft kaynaklarına erişip erişebildiğini, test cihazı kayıt bağlantı betiğini kullanarak doğrulayabilirsiniz.
-
-3. Windows 10 kendinden imzalanan bir sertifika oluşturur ve şirket içi AD 'de bilgisayar nesnesinin altında depolar. Bu, etki alanı denetleyicisine görüntülenecek satır gerektirir.
-
-4. Azure AD Connect aracılığıyla, sertifikaya sahip bir cihaz nesnesi Azure AD ile eşitlenmiş. Eşitleme döngüyü varsayılan olarak her 30 dakikada bir, ancak Azure AD Connect 'in yapılandırmasına bağlıdır. Daha fazla bilgi için lütfen bu [belgeye](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)bakın.
-
-5. Bu aşamada, konu aygıtını Azure portalının cihaz Blade altında "beklemede" durumunda görebilmelisiniz.
-
-6. Windows 10 ' da sonraki kullanıcı oturumunda, kayıt tamamlanmış olacaktır. 
+1. Windows 10 kullanıcının cihazda oturum açması üzerine bir SCP kaydı keşfeder.
+    1. Cihaz önce kayıt defterinde istemci tarafı SCP'den kiracı bilgilerini almaya çalışır [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Daha fazla bilgi için bu belgeye [bakın.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)
+    2. Başarısız olursa, cihaz Hizmet Bağlantı Noktası'dan (SCP) kiracı bilgilerini almak için şirket içi Active Directory (AD) ile iletişim kurar. SCP'yi doğrulamak için lütfen bu belgeye [bakın.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
 > [!NOTE]
-> VPN kullanıyorsanız ve oturum kapatma işlemini etki alanı bağlantısını sona erdirirse, kaydı el ile tetikleyebilirsiniz:
- 1. Bir dsregcmd/Join 'i yerel olarak yönetici isteminde veya PSExec aracılığıyla PC 'nize uzaktan yapın. Örneğin, PsExec-s \\ win10client01 cmd, dsregcmd/Join
+> AD'de SCP'yi etkinleştirmenizi ve ilk doğrulama için yalnızca istemci tarafı SCP'yi kullanmalarını öneririz.
 
- 2. Karma birleşim [sorunlarıyla ilgili daha](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)fazla bilgi için bkz.
+2. Windows 10 kimliğini Azure AD'ye karşı doğrulamak için sistem bağlamı kapsamında Azure AD ile iletişim kurmaya çalışır. Cihazın sistem hesabı altındaki Microsoft kaynaklarına erişeni, Cihaz Kayıt Bağlantısını Test Edin betiğiyle doğru edebilirsiniz.
+
+3. Windows 10 otomatik olarak imzalanan bir sertifika oluşturur ve bunu şirket içi AD'de bilgisayar nesnesi altında depolar. Bunun için Etki Alanı Denetleyicisi'nin görüş çizgisi gerekir.
+
+4. Sertifikası olan bir cihaz nesnesi, Azure AD veya Azure AD tarafından Azure AD ile Bağlan. Eşitleme döngüsü varsayılan olarak her 30 dakikada bir, ancak Azure AD etki alanı yapılandırma Bağlan. Daha fazla bilgi için lütfen bu belgeye [bakın.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
+
+5. Bu aşamada, Azure Portal'ın Cihaz blade'i altında konu cihazı "Beklemede" durumda görüyor olun.
+
+6. Oturum açmada bir Windows 10 kayıt tamamlanır. 
+
+> [!NOTE]
+> VPN'niz varsa ve logolu oturum açma işlemi etki alanı bağlantısını sonlandırılırsa, kaydı el ile tetikleyebilirsiniz:
+ 1. Yönetici isteminde yerel olarak veya PC'nize PSExec aracılığıyla uzaktan bir dsregcmd /join sorun. Örneğin, PsExec -s \\ win10client01 cmd, dsregcmd /join
+
+ 2. Karma Katılma sorunları hakkında daha fazla ayrıntı için bkz. [Cihaz sorunlarını giderme.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)
