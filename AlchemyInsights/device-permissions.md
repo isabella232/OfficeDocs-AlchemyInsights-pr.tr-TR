@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8267"
-ms.openlocfilehash: a69f4d42381dfc73c24695b52922dc3e9f3e3be5
-ms.sourcegitcommit: 9400cd853b7a5a81f6f5a1ad9601fef37c18bcae
+ms.openlocfilehash: 86fdf7cf956f81904cd4df6cf2b4efef77c09d21d417228c5722f5afcbe5727f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50714531"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913987"
 ---
 # <a name="device-permissions"></a>Cihaz izinleri
 
-Windows cihazı yönetmek için yerel yöneticiler grubunun üyesi olun. Azure Active Directory (Azure AD) katılma işleminin bir parçası olarak, Azure AD bir cihazda bu grubun üyeliğini günceller. Üyelik güncelleştirmesini iş gereksinimlerinizi karşılayacak şekilde özelleştirebilirsiniz. Üyelik güncelleştirmesi, örneğin yardım masası personelinizin bir cihazda yönetici hakları gerektiren görevleri gerçekleştirmesini sağlamak için yararlı olur.
+Bir Windows yönetmek için yerel yöneticiler grubunun üyesi olun. Azure AD, Azure Active Directory katılma işleminin bir parçası olarak, Azure AD bir cihaz üzerinde bu grubun üyeliğini günceller. İş gereksinimlerinizi karşılamak için üyelik güncelleştirmesini özelleştirebilirsiniz. Örneğin, yardım masası personelinizin bir cihazda yönetici hakları gerektiren görevleri gerçekleştirmesini sağlamak istemeniz gibi bir üyelik güncelleştirmesi yararlı olur.
 
-Yerel yöneticiler üyelik güncelleştirmesini nasıl çalıştığını ve Azure AD Katılma sırasında nasıl özelleştirebileceğinizi öğrenmek için bkz. Cihazlara yerel [yöneticileri atama.](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin) Bu makalenin içeriği, karma Azure AD'ye katılmış cihazlar için geçerli değildir.
+Yerel yöneticiler üyelik güncelleştirmesini nasıl çalıştığını ve Azure AD Katılma sırasında bunu nasıl özelleştirebileceğinizi öğrenmek için bkz. Cihazlara [yerel yönetici atama](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin). Bu makalenin içeriği, Azure AD'ye katılan karma cihazlar için geçerli değildir.

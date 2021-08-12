@@ -1,5 +1,5 @@
 ---
-title: Web üzerinde Outlook 'ta dosyalardan dosyaları veya fotoğrafları silemiyor
+title: Web üzerinde Outlook'daki Dosyalar'dan dosya veya fotoğraf siline Web üzerinde Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000031"
-ms.openlocfilehash: 10864e19efeee0e65845de8fff4e021813cde3d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d73662feb79496e8a0901588d35359ef6d878067d93adf2172504e4d96af1cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796020"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961468"
 ---
-# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>Web üzerinde Outlook 'ta dosyalardan dosyaları veya fotoğrafları silemiyor
+# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>Bir dosyadaki dosyalar veya fotoğraflar siline Web üzerinde Outlook
 
-**Dosyalar** , posta kutunuzdaki iletilere eklenmiş dosyaları ve fotoğrafları gösterir. Dosyalardan dosyaları ve fotoğrafları kaldırmak için, eklendiği e-posta iletilerini silmeniz gerekir. İletileri sildikten sonra, bunları silinmiş öğeler klasörünüzden de silmeniz gerekir.
+**Dosyalar,** posta kutunuzdaki iletilere eklenmiş dosyaları ve fotoğrafları gösterir. Dosyalar'dan dosyaları ve fotoğrafları kaldırmak için, ekli olduğu e-posta iletilerini silmeniz gerekir. İletileri sildikten sonra, bunları Silinmiş Öğeler klasörünüzden de silmeniz gerekir.
