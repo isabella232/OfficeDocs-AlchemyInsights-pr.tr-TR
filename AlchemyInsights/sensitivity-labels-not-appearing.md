@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 6a64e001be115c8e5553a0d8c97b8cb815922c69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 824824257fee4aaaab1f2dd32597b4cdc858d035fabd357af90cf054dd35c9c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801204"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061452"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Duyarlılık etiketleri görünmüyor
 
-Duyarlılık etiketleri hassas içeriğinizi sınıflandırmanıza ve korunmanıza olanak tanır. Microsoft 365 Uyumluluk Merkezi, Microsoft 365 güvenlik merkezi veya Microsoft 365 güvenlik & Uyumluluk Merkezi 'nde sınıflandırma > duyarlılık etiketleri altında oluşturulabilir. Bu özellik hakkında daha fazla bilgi edinmek için [duyarlılık etiketlerine genel bakış](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)konusuna bakın.
+Duyarlılık etiketleri hassas içeriğinizi sınıflandırmanıza ve korumaya yardımcı olmanızı sağlar. Bu etiketler Sınıflandırma ve Duyarlılık Microsoft 365 uyumluluk merkezi, Microsoft 365 merkezi veya Microsoft 365 Güvenlik & Uyumluluk Merkezi'> oluşturulabilir. Bu özellik hakkında daha fazla bilgi edinmek için [bkz. Duyarlılık etiketlerine genel bakış.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Duyarlılık etiketlerinizi yapılandırdıysanız ancak Microsoft 365 uygulamalarında görünmüyorsa, aşağıdakileri denetleyin:
+Duyarlılık etiketlerinizi yapılandırdınız ancak bu etiketler Microsoft 365 görünmüyorsa, şunları kontrol edin:
 
-- Duyarlılık etiketinin, istediğiniz kullanıcı ve gruplara [yayımlandığını](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) doğrulayın.
+- Duyarlılık etiketinin istediğiniz [kullanıcılara ve](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) gruplara yayım olduğunu onaylayın.
 
-- Kullanıcının, duyarlılık etiketlerini destekleyen bir uygulamayı kullandığını doğrulayın- [belgenizdeki duyarlılık etiketlerine](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable)bakın.
+- Kullanıcının duyarlılık etiketlerini destekleyen bir uygulama kullanıyor olduğunu onaylayın- [belgenize duyarlılık etiketlerini bakın](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
-- [Azure Information Protection etiketlerini geçiriyorsanız](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), [burada](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)listelenen dikkat edilmesi gereken noktaları göz önünde bulundurun.
+- Azure Information [Protection etiketlerini ediyorsanız,](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)burada listelenen dikkate alınacak noktalara [dikkat edin.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)
 
-- Veri kaybı önleme (DLP) desteği: şimdilik yalnızca bekletme etiketleri DLP ilkelerinde bir koşul olarak kullanılabilir.  DLP ilkesindeki duyarlılık etiketleri desteği henüz kullanılamaz, ancak üzerinde çalışıyoruz.
+- Veri kaybı önleme (DLP) desteği: Şu anda, DLP ilkelerde koşul olarak yalnızca bekletme etiketleri kullanılabilir.  DLP ilkesinde duyarlılık etiketleri desteği henüz kullanılamıyor ancak bunun üzerinde çalışıyoruz.
 
-- Duyarlılık etiketinde şifreleme etkinleştirildiğinde şunları yapabilirsiniz:
+- Bir duyarlılık etiketinde şifreleme etkinleştirildiğinde şunları tercih edin:
     - İzinleri şimdi ata
-    - Kullanıcıların izin atamasına izin verme
+    - Kullanıcıların izin atamasına izin ver
 
 
-Olası sorunlar hakkında daha fazla bilgi için [duyarlılık etiketleriyle Ilgili bilinen sorunlar](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)konusuna bakın.
+Olası sorunlar hakkında daha fazla bilgi için [bkz. Duyarlılık etiketleriyle ilgili bilinen sorunlar](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

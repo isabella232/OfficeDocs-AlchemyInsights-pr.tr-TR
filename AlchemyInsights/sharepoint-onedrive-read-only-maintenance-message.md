@@ -1,5 +1,5 @@
 ---
-title: SharePoint veya OneDrive 'ı kullanmaya çalışırken bakım iletisi için salt okunur
+title: Read-Only veya bağlantı kullanmayı denerken Bakım SharePoint OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670852"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910566"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>SharePoint veya OneDrive 'ı kullanmaya çalışırken bakım iletisi için salt okunur
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only veya bağlantı kullanmayı denerken Bakım SharePoint OneDrive
 
-Kullanıcılar, aşağıdaki senaryolardan biri için SharePoint veya OneDrive 'ı kullanmaya çalışırken **yalnızca bir salt okunur** ileti alabilir. 
+Kullanıcılar, aşağıdaki **senaryolardan biri için** Bakım için Salt SharePoint veya OneDrive İletisi alabilirsiniz. 
 
--   Planlanmış veya etkin bir bakım etkinliği.  [Ileti merkezine](https://portal.office.com/adminportal/home#/messagecenter)giderek bunları denetleyin.
--   Yüksek öncelikli, etkin bir hizmet olayı olabilir. [Hizmet durumu](https://portal.office.com/adminportal/home#/servicehealth)'na giderek Danışma belgelerini/olaylarını denetleyin.
--   Sunucularda en çok 30 dak veya bu nedenle en son olabilecek beklenmeyen etkinlikler nedeniyle oluşabilecek küçük bir otomatik düzeltme Kurtarma senaryosu. 
+-   Planlanan veya etkin bir bakım etkinliği.  İleti Merkezi'ne giderek onları [kontrol edin.](https://portal.office.com/adminportal/home#/messagecenter)
+-   Yüksek öncelikli, etkin bir hizmet olayı olabilir. Hizmet Durumu'na giderek herhangi bir tavsiyeyi/olayı [denetleme.](https://portal.office.com/adminportal/home#/servicehealth)
+-   Sunucularda 30 dakikadan kısa bir süre devam ede beklenmeyen olayların nedeni olan küçük bir otomatik kurtarma senaryosu. 
     
-    Bu küçük kurtarmalar için Ileti merkezi veya hizmet durumu gönderileri yok, ancak yine de normal çok yakında geri dönebilirsiniz.
+    Bu küçük kurtarmalar için İleti Merkezi veya Hizmet Durumu gönderisi yoktur, ancak çok yakında normale dönersiniz.
 
-Çok az, yukarıda listelenen üç senaryodan birinin neden olduğunu ve hizmet geri yüklendiğini gözlemlüyoruz, ancak kullanıcılar tarayıcı önbelleği temizlenmemiştir.
+Çok az sayıda durumda, yukarıda listelenen üç senaryodan birinin nedeni olduğunu ve hizmetin geri yüklendi ancak kullanıcıların tarayıcı önbelleğinin temizlenmemiş olduğunu gözlemle değildi.
 
-Lütfen siteye gitmeden önce tarayıcı önbelleğini temizlemeyi deneyin.
+Siteye gitmeden önce lütfen tarayıcı önbelleğini temizlemeyi deneyin.
 
-1. Microsoft Edge tarayıcınızda **Ayarlar**'ı seçin ve **Gizlilik ve güvenlik**'i seçin.
-2. **Gezinmeyi temizle**altında, **neyin temizlensin 'i**seçin.
-3. **Tanımlama bilgileri ve kaydedilmiş Web sitesi verilerini**seçip **Temizle**'yi seçin.
-
->[!Note] 
-> Bu adımlar Mozilla Firefox veya Google Chrome gibi diğer tarayıcıları kullanırken farklılık gösterebilir.
+1. Microsoft Edge tarayıcınızda Ayarlar **ve** ardından Gizlilik ve Güvenlik **öğesini seçin.**
+2. Gözatma **temizle altında,** **Temizlenecekleri seç öğesini seçin.**
+3. Tanımlama bilgileri **ve kaydedilen web sitesi verileri'ne tıklayın** ve Temizle'ye **tıklayın.**
 
 >[!Note] 
-> Başka bir seçenek de SharePoint sitenizi veya OneDrive 'ı yeni bir InPrivate penceresinde açar.
+> Mozilla Firefox veya Google Chrome gibi diğer tarayıcıları kullanırken bu adımlar farklılık gösterebilir.
+
+>[!Note] 
+> Bir diğer seçenek de SharePoint InPrivate penceresinde OneDrive dosyanızı açmak olabilir.

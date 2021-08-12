@@ -1,5 +1,5 @@
 ---
-title: Azure 'da ödeme ayrıntılarını güncelleştirme
+title: Azure'da ödeme ayrıntılarını güncelleştirme
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,23 +12,23 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6860"
-ms.openlocfilehash: 6a08916c67e0a14d6781be7c3c6874115a0df3b9
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 6f6898f4cb56e1b1027bab03a4ba9046edfb59864d4f3cfdf8057a18d737f6e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007270"
 ---
-# <a name="update-payment-details-in-azure"></a>Azure 'da ödeme ayrıntılarını güncelleştirme
+# <a name="update-payment-details-in-azure"></a>Azure'da ödeme ayrıntılarını güncelleştirme
 
-Kredi kartınız yenilendiğinde ve numara aynıysa, son kullanma tarihi gibi mevcut kredi kartı ayrıntılarını güncelleyin. Kredi kartı numaranız, kart kaybolduğu, çalındığından veya süresi dolduğundan değişirse, [ödeme yöntemi olarak kredi kartı ekleme](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) bölümündeki adımları izleyin. CVV 'i güncellemeniz gerekmez.
+Kredi kartınız yenilendi ancak numara aynı kalıyorsa son kullanma tarihi gibi mevcut kredi kartı ayrıntılarını güncelleştirin. Kart kaybolur, çalınır veya süresi dolduğunda kredi kartı numaranız değişirse, Ödeme yöntemi olarak kredi kartı ekleme [bölümündeki adımları](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) izleyin. CVV'nizi güncelleştirmeniz gerekmektedir.
 
-Kredi kartını değiştirmek veya güncelleştirmek için hesap yöneticisi olmanız gerekir. Kredi kartı/ödeme yöntemini güncelleştirmek için bu adımları izleyin.
+Kredi kartını değiştirmek veya güncelleştirmek için Hesap Yöneticisi siz olun. Kredi kartı/ödeme yöntemini güncelleştirmek için bu adımları izleyin.
 
 1. Hesap Yöneticisi olarak [Azure portalında](https://portal.azure.com/) oturum açın.
-2. **Maliyet yönetimi ve faturalamayı** arayın.
+2. **Maliyet Yönetimi + Faturalama** için arama yapın.
 3. Kredi kartını eklemek istediğiniz aboneliği seçin.
-4. **Ödeme yöntemlerini** seçin.
-5. Düzenlemek istediğiniz kredi kartını seçin. Sağ tarafta kredi kartı formu görüntülenir
-6. Kredi kartı ayrıntılarını güncelleyin.
-7. **Kaydet** 'i seçin.
+4. Ödeme **yöntemleri'ne seçin.**
+5. Düzenlemek istediğiniz kredi kartını seçin. Sağlarda bir kredi kartı formu görünür
+6. Kredi kartı ayrıntılarını güncelleştirin.
+7. **Kaydet**'i seçin.
