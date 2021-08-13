@@ -1,5 +1,5 @@
 ---
-title: SharePoint site koleksiyonunda Project Web App yok
+title: Project Web App site koleksiyonunda SharePoint yok
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 5b699130b7896c12b757f10356072281b49766ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82487c13bfc763387d3f433f31e4dc895d6ce3c04f6d8b6426e999a8b5f4b79f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973105"
 ---
-# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>SharePoint site koleksiyonunda Project Web App yok
+# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App site koleksiyonunda SharePoint yok
 
-SharePoint site koleksiyonunda Project Web App şu nedenlerden kaynaklanabilir:
+Project Web App aşağıdaki nedenlerden SharePoint site koleksiyonunda eksik olabilir:
 
-1. Kuruluşların yalnızca Project Online Essentials lisansları vardır. Yöneticilerin Project Online Professional ve/veya Premium Lisansı eklemesi gerekir. Site bu noktada salt okunur olacaktır. Daha fazla bilgi için bkz [.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
-2. Kiracı, Project Web App sitesi sağlama işleminin gecikildiği bir sağlama sorunuyla karşılaştı. 24 saatten uzun bir süreyi geçmişse ve hala sorunu yaşamaya devam ediyorsanız, lütfen destek bileti günlüğe yazılır. 24 saatin uzun süre gibi görünebilir olduğunu anlıyoruz. Birçok durumda bir çözüm üzerinde çalışıyoruz. Lütfen çözümü tamamlamak için en az 24 saat bekleyin.
+1. Kuruluşların yalnızca Project Online Başlangıç lisansı vardır. Yöneticilerin lisans ve/veya Project Online Professional lisans Premium gerekir. Bu noktada site salt okunur olur. Daha fazla bilgi için [bkz. Project Çözümlerini karşılaştırma.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. Kiracı, Web App Sitesi sağlamanın gecikmiş Project bir sağlama sorunuyla karşılaştı. 24 saati geçene kadar sorun yaşıyorsanız lütfen destek bileti kaydı yapın. 24 saatlik bir süre gibi görünebilir. Birçok durumda, zaten bir çözüm üzerinde çalışıyoruz. Lütfen bir çözümü tamamlamak için en az 24 saat bekleyin.

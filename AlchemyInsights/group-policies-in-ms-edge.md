@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge'de grup ilkeleri
+title: Microsoft Edge'de grup Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,13 +15,13 @@ ms.custom:
 - "9004632"
 - "6890"
 - "8362"
-ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1722873149fdf416357b25ebd31a5c10665d145565130adaaee6cee30af0bdcb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403367"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913483"
 ---
-# <a name="group-policies-in-microsoft-edge"></a>Microsoft Edge'de grup ilkeleri
+# <a name="group-policies-in-microsoft-edge"></a>Microsoft Edge'de grup Microsoft Edge
 
-Tarayıcının [kurumda](https://go.microsoft.com/fwlink/?linkid=2134623) nasıl çalıştırılasını belirtmek için Microsoft Edge'de (sürüm 77 veya sonrası) kullanılabilen grup ilkelerini kullanın.
+Tarayıcının [kuruluşta](https://go.microsoft.com/fwlink/?linkid=2134623) nasıl Microsoft Edge belirtmek için bu sürümlerde (sürüm 77 veya daha sonraki bir sürüm) kullanılabilen grup ilkelerini kullanın.

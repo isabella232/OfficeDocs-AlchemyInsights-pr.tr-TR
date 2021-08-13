@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667646"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925941"
 ---
 # <a name="intune-insider-bug-filing"></a>Intune Insider hata dosyalama
 
-Intune Insider programındaki ilgilendiğiniz için teşekkür ederiz. Intune Insider programı için onboarded kullanıyorsanız ve bir destek isteği dosyalayabilmeniz gerekiyorsa:
+Intune Insiders programına ilginiz için teşekkür etmek istiyorum. Intune Insider programı için hazırsanız ve bir destek isteği dosyalamanız gerekirse:
 
-1. Sorununuzu yukarıdaki alanda açıklayın.
+1. Sorunlarınızı yukarıdaki alanda açıkların.
 2. Aşağıdaki seçenekleri kullanarak yeni bir hizmet isteği oluşturun.
 
-Bir Intune destek mühendisi sizinle iletişim kuracaktır.
+Intune destek mühendisiyle iletişime geçecek.
 
-Intune Insider programında değilseniz, ilginizi aldığınız için teşekkür ederiz. Şu anda yeni katılımcılar işe alınamadı.
+Intune Insiders programında değilken, ilginiz için teşekkür ederim. Şu anda yeni katılımcıları işe ala birdiriz.

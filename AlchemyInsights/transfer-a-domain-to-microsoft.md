@@ -1,5 +1,5 @@
 ---
-title: Etki alanını Microsoft 'a aktarma
+title: Etki alanını Microsoft'a aktarma
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7304"
-ms.openlocfilehash: 8a8a13956237fe146340ff19024a626981138a43
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 17cd75fb3eacd35a5177affc0308c4864359b35ace3aebe317c0c126092b6bba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564982"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980989"
 ---
-# <a name="transfer-a-domain-to-microsoft"></a>Etki alanını Microsoft 'a aktarma
+# <a name="transfer-a-domain-to-microsoft"></a>Etki alanını Microsoft'a aktarma
 
-Etki alanları kaydı ve faturalama Microsoft 'a aktarılamaz.
+Etki alanı kaydı ve faturalama Microsoft'a aktaramaz.
 
-Sahip olduğunuz bir etki alanını eklemek için [etki alanı ekleme Sihirbazı](https://admin.microsoft.com/Adminportal/Domains/Wizard)'nı veya **Ayarlar** etki  >  **alanları**  >  **Ekle**'yi tıklatın.
+Sahip olduğunuz bir etki alanını eklemek için Etki Alanı Ekle sihirbazını izleyin veya Etki [Alanı](https://admin.microsoft.com/Adminportal/Domains/Wizard)Ekle **Ayarlar**  >  **alanına**  >  **gidin.**
 
-Etki alanınızı [doğrulamak IÇIN DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)değişiklikleriyle ilgili daha fazla bilgi için bkz.
+Etki alanınızı doğrulamak için gereken DNS değişiklikleri hakkında daha fazla bilgi için [bkz. Etki alanınıza bağlanmak için DNS kayıtları ekleme](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
-Etki alanlarıyla ilgili sorular için [etki ALANLARı SSS](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)bölümüne bakın.
+Etki alanlarıyla ilgili sorularınız için bkz. Etki Alanları [SSS](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).

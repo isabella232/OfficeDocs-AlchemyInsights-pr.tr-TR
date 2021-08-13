@@ -1,5 +1,5 @@
 ---
-title: Akışa başlama
+title: Flow'i Flow
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
-ms.openlocfilehash: c2cb1f6b6621f467f7f626c8fe66d53e7f36601a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52bb7980243cd4eedca500c4809bf49e9f578cf3dd36ea5d543f0780c4606ff2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707407"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964356"
 ---
-# <a name="get-started-with-microsoft-flow"></a>Microsoft Flow kullanmaya başlama
+# <a name="get-started-with-microsoft-flow"></a>Microsoft Flow'i Microsoft Flow
 
-Microsoft akış ile yapabilecekleriniz:
+Bu Microsoft Flow şunları s kaydettik:
   
-- Şablonları ve hizmetleri kolayca arayabilirsiniz.
+- Şablon ve hizmetleri kolayca arayabilirsiniz.
     
-- En popüler hizmetler arasından seçim yapın.
+- En popüler hizmetlerden birini seçin.
     
-- Her bir akışın genel görünümünü görün.
+- Her akışa genel bir bakışa bakın.
     
-[Microsoft Akış hakkında daha fazla bilgi edinin](https://go.microsoft.com/fwlink/?linkid=874446)
+[Daha fazla bilgi Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=874446)
   
 

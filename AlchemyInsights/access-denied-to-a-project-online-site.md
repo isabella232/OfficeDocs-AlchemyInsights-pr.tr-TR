@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e242b42e76f234eb3287001e7ed3800f08b114f09aa93362eea215109ea7bac5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663677"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955365"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Project Online 'da kullanıcılara izin verme
+# <a name="give-users-permissions-in-project-online"></a>Web'de kullanıcılara izin Project Online
 
-SharePoint Izin modunu kullanarak kullanıcılara Project Web App sitesine erişim sağlama:
+İzin Modu'Project kullanarak Project Web App SharePoint verme:
 
-1. Project Online 'da yönetici olarak oturum açın.
-2. Project Web App giriş sayfasında, sağ üst köşedeki **Paylaş** 'ı seçin.
-3. **Project Web App 'ı Paylaş** iletişim kutusunda, **kişileri davet et** kutusuna erişim vermek istediğiniz kişinin Kullanıcı adını yazın.
-4. **Seçenekleri göster**'i seçin ve **izin düzeyi seç** menüsünde **Project Web App için proje yöneticileri**'ni seçin.
-5. **Paylaş**'ı seçin.
+1. Yönetici olarak Project Online oturum açma.
+2. Web App Project sayfasında, sağ üst **köşedeki** Paylaş'ı seçin.
+3. Share **Project Web App** iletişim kutusundaki Kişileri Davet Et kutusuna erişim vermek istediğiniz kişinin **kullanıcı adını** yazın.
+4. Seçenekleri **Göster'i** seçin ve İzin **düzeyi** seçin menüsünden Web App için **Project Yöneticileri'Project seçin.**
+5. Paylaş öğesini **seçin.**
 
-Proje Izinleri modu 'nu kullanıyorsanız veya daha fazla bilgi için [bkz.](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)
+İzinler modunu Project daha fazla bilgi için lütfen Paylaşıma [kişi ekleme Project Online.](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)

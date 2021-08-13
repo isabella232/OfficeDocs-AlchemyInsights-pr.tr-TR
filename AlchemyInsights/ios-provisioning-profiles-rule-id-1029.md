@@ -1,5 +1,5 @@
 ---
-title: iOS sağlama profilleri kural kimliği 1029
+title: iOS Sağlama Profilleri Kural Kimliği 1029
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: a571261ffcb327da50832bc5cb7169b769c2122c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a52c98af0f5c5de3122bfc344029588234611da894994d719c95f6af78944405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925725"
 ---
-# <a name="ios-provisioning-profiles"></a>iOS sağlama profilleri
+# <a name="ios-provisioning-profiles"></a>iOS Sağlama Profilleri
 
-Apple iOS iş kolu, uygulamanın bütünlüğünü doğrulamak ve profilde tanımlanan ilkeleri zorlamak için kullanılan bir sağlama profili kavramı kullanır. Bu hazırlama profillerinin 12 ay sonra dolacağı için, uygulamaların çalıştırılmaya devam edebilmesi için dağıtılmış uygulama ile yeni bir profilin ilişkilendirilmesi gerekir.
+Apple iOS iş hattı, uygulamanın bütünlüğünü doğrulamak ve profilde tanımlanan ilkeleri uygulamak için kullanılan bir sağlama profili kavramını kullanır. Bu hazırlama profillerini sağlama süresi 12 ay sonra dolar ve dolayısıyla uygulamaların çalışmaya devam etmek için dağıtılmış uygulamayla yeni bir profilin ilişkilendirilmiş olması gerekir.
   
-Aşağıdaki makalede, Intune ile dağıtılan bir iOS LOB uygulamasıyla yeni bir sağlama profilinin nasıl oluşturulacağı açıklanır: [uygulamalarınızın zaman aşımına uğramasını önleyen iOS uygulama sağlama profillerini kullanma](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+Aşağıdaki makalede, Yeni sağlama profilini Intune aracılığıyla dağıtılan bir iOS LOB uygulamasıyla ilişkilendirmenin nasıl oluşturululması [açıklanmıştır:](https://docs.microsoft.com/intune/app-provisioning-profile-ios) Uygulama sürenizin dolmasını önlemek için iOS uygulama hazırlama profillerini kullanma
   

@@ -1,5 +1,5 @@
 ---
-title: Gmail kişilerini veya Google takvimlerini Office 365 veya Outlook 'a geçirme
+title: Gmail kişilerini veya Google Takvimlerini başka bir Office 365 veya Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - 9004197/7378
 - 9003961/7017
-ms.openlocfilehash: 33b8e22dcea254abf1854292b9d6a16e7ef5a155
-ms.sourcegitcommit: e29887ce455fbe5896d57b07992e6eb3fc0888ce
+ms.openlocfilehash: e72fd346f8d05e55a0844e03524d82931b20016ca3c19684dc4cd12f3df621a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/24/2020
-ms.locfileid: "49731758"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964320"
 ---
-# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Gmail kişilerini veya Google takvimlerini Office 365 veya Outlook 'a geçirme
+# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Gmail kişilerini veya Google Takvimlerini başka bir Office 365 veya Outlook
 
-Gmail kişilerini ve takvimini Office 'e almanın en kolay yolu Gmail kişilerini ve takvim Danışmanı 'nı kullanmaktır.
+Gmail kişilerini ve takvimini bu şekilde içeri aktarmanın Office, Gmail kişileri ve takvim danışmanını kullanmaktır.
 
-[Gmail kişileri ve takvim Danışmanı](https://go.microsoft.com/fwlink/?linkid=2134386) , Gmail kişilerinizi ve takvim öğelerinizi çeşitli Import ve Export yöntemlerini kullanarak Office 365 ' a nasıl eşitleyeceğinizi gösterir.
+[Gmail kişileri ve takvim danışmanı,](https://go.microsoft.com/fwlink/?linkid=2134386) çeşitli içeri ve dışarı aktarma yöntemlerini kullanarak Gmail kişilerinizi ve Office 365 öğelerinizi nasıl eşitleyebilirsiniz?
 
-E-postanızı henüz geçirmediyse, [e-posta kurulum Danışmanı](https://go.microsoft.com/fwlink/?linkid=2133951) , posta kutusu geçişinizi tamamlamak için adım adım yönergeler sağlar.
+Henüz e-postanızı geçirmedıysanız, [](https://go.microsoft.com/fwlink/?linkid=2133951) E-posta kurulum danışmanı posta kutusu geçişini tamamlamak için adım adım yönergeler sağlar.
 
-Google takviminizi Outlook 'ta görüntülemeyi öğrenmek için, [Google takviminizi Outlook 'Ta görün](https://go.microsoft.com/fwlink/?linkid=2083939).
+Google takviminizi aynı takvimde görüntülemeyi Outlook için Google [Takviminizi](https://go.microsoft.com/fwlink/?linkid=2083939)Aynı Outlook.
