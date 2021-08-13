@@ -13,33 +13,33 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 6ae608b776332402fe333315f5e4ff6072b0a651
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c8d53ceabf2428f3d6d765040f1b789b6bbeda04a22dd7fde0d2d728fd17d93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741287"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061776"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Kurtarılabilir Öğeler klasörü dolu
 
-Exchange Online posta kutularında, Kurtarılabilir Öğeler klasörünün varsayılan depolama sınırı 30 GB 'dir. Posta kutusu, bir bekletme ilkesine veya bir bekletme ilkesine atanmışsa, Kurtarılabilir Öğeler klasörünün depolama sınırı 100 GB olarak otomatik olarak artırılır.
+Daha Exchange Online için, Kurtarılabilir Öğeler klasörü için varsayılan depolama sınırı 30 GB'tır. Posta kutusu Mahkeme Tutma, eBulma bekletmeye yerleştirilirse veya bir bekletme ilkesine atanmışsa, Kurtarılabilir Öğeler klasörünün depolama sınırı otomatik olarak 100 GB'ye artırılır.
 
-Kurtarılabilir Öğeler klasörü depolama sınırına ulaştığında, posta kutusu işlevi aşağıdaki yollarla etkilenir:
+Kurtarılabilir Öğeler klasörü depolama sınırına ulaştığında, posta kutusu işlevselliği aşağıdaki şekillerde etkilenir:
 
 - Kullanıcı posta kutusundan öğeleri silemez.
 
-- Yönetilen klasör Yardımcısı, saklama etiketine veya yönetilen klasör ayarlarına dayalı olarak öğeleri silemez.
+- Yönetilen Klasör Yardımcısı bekletme etiketi veya yönetilen klasör ayarlarına göre öğeleri silemez.
 
-- Tek öğe kurtarması etkinleştirilmiş veya beklemeye konan posta kutuları için, yazma sayfası koruma süreci Kullanıcı tarafından düzenlenen öğelerin sürümlerini sürdüremez.
+- Tek Öğe Kurtarma'nın etkin olduğu veya yerine konan posta kutuları için, bir kopya üzerine yazma sayfa koruma işlemi kullanıcı tarafından düzenlenen öğelerin sürümlerini tutılamaz.
 
-- Posta kutusu denetim günlüğü etkin olan posta kutularında, Kurtarılabilir Öğeler klasöründeki denetimler alt klasörüne posta kutusu denetim günlüğü girdileri kaydedilemez.
+- Posta kutusu denetim günlüğünün etkin olduğu posta kutularında, Kurtarılabilir Öğeler klasöründeki Denetimler alt klasörüne hiçbir posta kutusu denetim günlüğü girdisi kaydedilemez.
 
-Tutulmayan posta kutuları için, Yöneticiler, `Search-Mailbox -SearchDumpsterOnly -DeleteContent` Kurtarılabilir Öğeler klasöründeki öğeleri silmek Için Exchange Online PowerShell 'deki komutu kullanabilirler. Daha fazla bilgi için, aşağıdaki konulara bakın:
+Tutulamaz durumdaki posta kutuları için yöneticiler Kurtarılabilir Öğeler klasöründeki öğeleri silmek Exchange Online PowerShell'de bu `Search-Mailbox -SearchDumpsterOnly -DeleteContent` komutu kullanabilir. Daha fazla bilgi için, aşağıdaki konulara bakın:
 
 - [İletileri arama ve silme](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
-- [Arama-posta kutusu](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
+- [Arama-Posta Kutusu](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Beklemede olan posta kutuları için, yöneticilerin Kurtarılabilir Öğeler klasöründeki öğeleri silinebilmesi için önce tutmayı kaldırması gerekir. Daha fazla bilgi için, [bulut tabanlı posta kutularının Kurtarılabilir Öğeler klasöründeki öğeleri silme](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)konusuna bakın.
+Kurtarılabilir Öğeler klasöründeki öğeleri silebilirler. Daha fazla bilgi için [bkz. Bulut tabanlı posta kutularının Kurtarılabilir](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)Öğeler klasöründeki öğeleri tutma .
 
-Kurtarılabilir Öğeler klasörünün tam olmasını engellemeye yardımcı olmak için, Yöneticiler, posta kutuları için Kurtarılabilir Öğeler klasörünün depolama sınırını artırıp, Kurtarılabilir Öğeler klasöründeki öğeleri kullanıcının arşiv posta kutusuna taşıyan bir posta kutusu bekletme ilkesi ayarlayabilir. [Posta kutuları Için Kurtarılabilir Öğeler kotasını arttırın](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+Kurtarılabilir Öğeler klasörünün dolu olmalarını önlemeye yardımcı olmak için, yöneticiler posta kutuları için Kurtarılabilir Öğeler klasörünün depolama sınırını artırabilir ve öğeleri Kurtarılabilir Öğeler klasöründen kullanıcının arşiv posta kutusuna taşırken bir posta kutusu bekletme ilkesi ayarlanabilir. Bkz. [Durumdaki posta kutuları için Kurtarılabilir Öğe kotasını artırma.](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)

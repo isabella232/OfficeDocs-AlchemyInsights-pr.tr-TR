@@ -1,5 +1,5 @@
 ---
-title: Intune 'da özel profiller kullanma
+title: Intune'da özel profiller kullanma
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: c3c2233dab60d58438068c6c61a0567b8f68e022
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4c4665f36c5d7158a92b6b6104942b6b169a18370dfe34d0f6da42b78cc96c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796596"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971107"
 ---
-# <a name="using-custom-policy-in-intune"></a>Intune 'da özel ilke kullanma
+# <a name="using-custom-policy-in-intune"></a>Intune'da özel ilke kullanma
 
-Intune, Android, iOS, macOS ve Windows cihazları için yerleşik birçok ayarı vardır. Ayrıca özel bir profil oluşturabilir ve ardından Intune kullanarak cihazlarınıza bu özel ayarları dağıtabilirsiniz. Özel profiller, Intune 'da yerleşik olmayan cihaz ayarlarını ve özelliklerini eklemek için tasarlanmıştır.
+Intune'un Android, iOS, macOS ve diğer cihazlar için Windows vardır. Ayrıca, özel bir profil oluşturabilir ve ardından Intune kullanarak bu özel ayarları cihazlarınıza dağıtabilirsiniz. Özel profiller, Intune'da yerleşik olmayan cihaz ayarları ve özellikleri eklemek için tasarlanmıştır.
 
-[Intune 'daki Android cihazları için özel ayarlar](https://docs.microsoft.com/intune/custom-settings-android)
+[Intune'da Android cihazlar için özel ayarlar](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Intune 'daki Android Kurumsal cihazları için özel ayarlar](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Intune'daki android Enterprise için özel ayarlar](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[Intune 'daki iOS cihazları için özel ayarlar](https://docs.microsoft.com/intune/custom-settings-ios)
+[Intune'daki iOS cihazlar için özel ayarlar](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[Intune 'daki macOS cihazları için özel ayarlar](https://docs.microsoft.com/intune/custom-settings-macos)
+[Intune'da macOS cihazlar için özel ayarlar](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[Intune 'da Windows 10 cihazları için özel ayarlar](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Intune'Windows 10 cihazlar için özel ayarlar](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Intune 'daki Iş için Windows holographic için özel ayarlar](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Intune'Windows Holographic for Business cihazlar için özel ayarlar](https://docs.microsoft.com/intune/custom-settings-windows-holographic)

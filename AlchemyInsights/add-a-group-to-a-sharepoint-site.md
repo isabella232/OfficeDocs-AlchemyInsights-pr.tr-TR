@@ -12,39 +12,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 07850bc8c496df180d2e3c85dfbfc999231f6a54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8dee2986c98b0ebf5eae6222a652fc999287b6efa3fe5a9099134c44dddf670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936977"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>SharePoint sitesine grup ekleme
 
-Bazı SharePoint ekip siteleri (Microsoft ekiplerde oluşturulanlar dahil) Microsoft 365 Grup sahipleri tarafından yönetilir. SharePoint siteleri ve içeriği, Microsoft 365 gruplarıyla ve SharePoint gruplarıyla paylaşılabilir. SharePoint grubu, sitelerde ve içerikte aynı izin kümesine sahip olan kullanıcılar topluluğudur. Klasik siteler için, tek seferde bir kişiye izin atamak yerine, birden çok kişiye aynı izin düzeyini kolayca atamak için grupları kullanmanızı öneririz.
+Bazı SharePoint siteleri (Microsoft Teams'da oluşturulan siteler dahil) diğer grup Microsoft 365 tarafından yönetilir. SharePoint ve içerik aynı zamanda site ve Microsoft 365 gruplarıyla ve diğer SharePoint paylaşabilirsiniz. Site SharePoint, siteler ve içerik üzerinde aynı izin kümesine sahip kullanıcılar topluluğudur. Klasik siteler için, aynı anda tek bir kişiye izin atamak yerine, aynı anda birçok kişiye aynı izin düzeyini rahatça atamak için grupları kullanmalarını öneririz.
   
-Microsoft 365 grup üyelerini yönetme:
+Grup Microsoft 365 yönetme:
   
-1. [Microsoft 365 Yönetim merkezinde gruplar sayfasına](https://portal.office.com/adminportal/home#/groups)gidin.
+1. Grup sayfasında [Gruplar sayfasına Microsoft 365 yönetim merkezi.](https://portal.office.com/adminportal/home#/groups)
     
-2. Sahiplerini ve üyelerini görmek için bir grup seçin. Kişiyi eklemek veya kaldırmak için, **sahipler** veya **Üyeler** satırında **Düzenle** bağlantısına tıklayın. 
+2. Sahiplerini ve üyelerini görmek için bir grup seçin. Kişi eklemek veya kaldırmak için, **Sahipler veya** Üyeler **satırdaki Düzenle** **bağlantısına** tıklayın. 
     
-Bir Microsoft 365 grubuyla iletişim sitesi paylaşma:
+İletişim sitesini bir grup Microsoft 365 paylaşın:
   
-1. Tarayıcıda siteye gidin ve sağ üstteki **siteyi Paylaş** 'ı tıklatın. 
+1. Tarayıcıda siteye gidin ve sağ üst **köşedeki Siteyi** paylaş'a tıklayın. 
     
-2. Grup adını girin ve izin düzeyini (okuma, düzenleme veya tam denetim) seçin.
+2. Grup adını girin ve izin düzeyini seçin (Okuma, Düzenleme veya Tam Denetim).
     
-Klasik bir siteyle kullanılacak SharePoint grubu oluşturma:
+Klasik SharePoint bir siteyle kullanmak üzere bir grup oluşturun:
   
-1. Tarayıcıda siteye gidin ve sağ üstteki ayarlar simgesine tıklayın.
+1. Tarayıcıda siteye gidin ve sağ üst Ayarlar Simgesi'ne tıklayın.
     
-2. **Site ayarları**'nı tıklatın ve **Kullanıcılar ve Izinler**'in altında **Site izinleri**'ni tıklatın.
+2. Site **ayarları'ne** tıklayın ve sonra Kullanıcılar **ve İzinler'in altında** Site **izinleri'ne tıklayın.**
     
-3. Izinler sekmesinde **Grup Oluştur**'u tıklatın.
+3. İzinler sekmesinde Grup **Oluştur'a tıklayın.**
     
-[Klasik ekip sitesini yeni bir Microsoft 365 grubuna bağlama](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Bağlan ekip sitesini yeni bir ekip grubuna Microsoft 365 sitesi](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[SharePoint gruplarıyla çalışma hakkında daha fazla bilgi edinin](https://go.microsoft.com/fwlink/?linkid=874658)
+[Gruplarla çalışma hakkında daha fazla SharePoint öğrenin](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

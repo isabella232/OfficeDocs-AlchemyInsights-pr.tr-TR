@@ -1,5 +1,5 @@
 ---
-title: Outlook 'a Gmail hesabı ekleme
+title: Hesabınıza Gmail hesabı Outlook
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 18d9b44e06e62b2b1af30a53efe5fa47163ef4c6
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 0b642db4eee780d6010549c77de5777d2344d34a27c90994a1c7759bdd9ffc07
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678753"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937013"
 ---
-# <a name="add-a-gmail-account-to-outlook"></a>Outlook 'a Gmail hesabı ekleme
+# <a name="add-a-gmail-account-to-outlook"></a>Hesabınıza Gmail hesabı Outlook
 
-İlk Gmail hesabınızı veya ek Gmail hesabınızı Outlook 'a ekleme adımları aynıdır.
+Çalışmanıza hem ilk Gmail hesabınız hem de ek Gmail hesaplarınızı eklerken Outlook.
 
-1. **Dosya**  >  **ekleme hesabı**'nı seçin.
-1. E-posta adresinizi girin ve **Bağlan**'a tıklayın. Outlook, parolanızı soran Gmail penceresini başlatacak. 
-1. Parolayı girin ve **oturum aç**'ı seçin.
+1. Dosya **Hesabı**  >  **Ekle'yi seçin.**
+1. E-posta adresinizi girin ve **Tamam'a Bağlan.** Outlook, parolanızı isteyen bir Gmail penceresi açar. 
+1. Parolayı girin ve Oturum a **öğesini seçin.**
 > [!IMPORTANT]
-> Gmail hesabınızı Outlook 'a bağladığınızda, Gmail gelen kutunuzda Internet Explorer 'dan yeni bir oturum açma algılandığını söyleyen bir uyarı iletisi alabilirsiniz. Bu beklenen davranıştır.
-4. Gmail için 2 faktörlü kimlik doğrulamasını önceden etkinleştirdiyseniz, mobil cihazınıza gönderilen kodu girmeniz istenir. 2 faktörlü kimlik doğrulaması etkinleştirilmemişse, adım 6 ' ya geçin.
-1. Google Hesap izinleri penceresi görüntülenir. **Izin ver**'i tıklatın.
-1. Outlook Gmail hesabınızı eklemeyi tamamladığında, başka bir e-posta hesabı ekleyebilir veya **bitti**'yi seçebilirsiniz.
+> Gmail hesabını Gmail hesabınıza Outlook, Gmail gelen kutunuzda Internet Explorer'dan yeni bir oturum açma algılandığından emin olan bir uyarı iletisi alabilirsiniz. Bu beklenen davranıştır.
+4. Gmail için 2 faktörlü kimlik doğrulamasını daha önce etkinleştirdiyseniz, mobil cihazınıza gönderilen kodu girmeniz istenir. 2 faktörlü kimlik doğrulamasını etkinleştirmediysen, 6. adıma geçin.
+1. Google hesabı izinleri penceresi görüntülenir. İzin **Ver'e tıklayın.**
+1. Bu Outlook Gmail hesabı eklemeyi tamamlarsanız, başka bir e-posta hesabı ekleyebilir veya Bitti 'yi **seçin.**
 > [!TIP]
-- > Telefonumdaki Outlook Mobile kurulumu kutusunu işaretlediğinizde, cep telefonu numaranızı girebileceğiniz bir Web sitesine götürürsünüz ve iOS için Outlook veya Android için Outlook 'u indirme bağlantısını alırsınız. Outlook Mobile 'ı yüklemek hareket halindeyken güncel kalmak için harika bir yoldur.
-- Gelişmiş ayarları kullanarak e-posta hesabı ekleme konusunda yardıma ihtiyacınız varsa, [PC Için Outlook 'TA pop veya IMAP e-posta hesabı eklemek için gelişmiş kurulumu kullanma](https://support.microsoft.com/office/change-or-update-email-account-settings-in-outlook-for-windows-560a9065-3c3a-4ec5-a24f-cdb9a8d622a2#bkmk_advanced)konusuna bakın.
+- > Telefonumda Kurulum Outlook Mobil'in de onay kutusunu işaretlerini alırsanız, cep telefonu numaranızı girebilirsiniz ve iOS için Outlook veya Android için Outlook'i indirme bağlantısını alırsınız. Outlook Mobile'i yüklemek, hareket ettiyken güncel kalmanın harika bir yolu.
+- Gelişmiş ayarları kullanarak e-posta hesabı ekleme yönergelerine ihtiyacınız varsa bkz. PC için Outlook'te POP veya [IMAP](https://support.microsoft.com/office/change-or-update-email-account-settings-in-outlook-for-windows-560a9065-3c3a-4ec5-a24f-cdb9a8d622a2#bkmk_advanced)e-posta hesabı eklemek için gelişmiş kurulumu kullanma .
