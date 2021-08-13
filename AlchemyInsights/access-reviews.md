@@ -1,5 +1,5 @@
 ---
-title: Gözden geçirme
+title: Access incelemeleri
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7767"
-ms.openlocfilehash: b2ba50c4f8e667f81b638ba480fa846e149c3d43
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 92d4aa46c8385035275d7ccbb361a9199e7f5924a87998f3beba32a2b02bbcc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014994"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938643"
 ---
-# <a name="access-reviews"></a>Gözden geçirme
+# <a name="access-reviews"></a>Access incelemeleri
 
-1. **Access Incelemelerini etkinleştir**: yeni bir Access paketi oluştururken veya varolan bir Access paketini düzenlediğinizde İncelemeleri etkinleştirebilirsiniz. [Azure AD hak yönetimi 'nde bir Access paketinin erişim Incelemesini oluşturma](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) Access paketlerinin erişim incelemelerini nasıl etkinleştireceğiniz açıklanır.
+1. **Erişim İncelemelerini Etkinleştir:** Yeni bir erişim paketi sanız veya mevcut bir erişim paketini düzenlerken incelemeleri etkinleştirin. [Azure AD yetkilendirme yönetiminde bir erişim paketinin](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) erişim gözden geçirmesi oluşturma, erişim paketlerine yönelik erişim incelemelerinin nasıl etkinleştir açıklanıyor.
 
-1. **Erişimi gözden geçir**: Azure AD hak yönetimi, kuruluşların gruplara, uygulamalara ve SharePoint sitelerine erişimi nasıl yönetebileceğinizi basitleştirir. [Azure AD hak yönetiminde bir Access paketinin erişimini gözden geçirme](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) bir Access paketine atanmış gözden geçiren olarak atanan diğer kullanıcılar için Access incelemelerini nasıl gerçekleştirebileceğinizi açıklar.
+1. **Access'i** gözden geçirme: Azure AD yetkilendirme yönetimi, kuruluşların gruplara, uygulamalara ve diğer sitelere erişimi SharePoint kolaylaştırır. [Azure AD yetkilendirme yönetiminde bir](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) erişim paketine erişimi gözden geçirme, belirli bir gözden geçirme olarak bir erişim paketine atanan diğer kullanıcılar için erişim incelemelerinin nasıl gerçekleştirleceklerini açıklar.
 
-1. **Kendinize yönelik erişimi gözden geçirin**: [Azure AD hak yönetimi 'nde bir Access paketini kendi başına gözden geçirme](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) , kullanıcının atanmış erişim paketlerini kendi kendine nasıl gözden geçirebileceğinizi açıklar.
+1. **Kendiniz için Erişimi Gözden** Geçirme : [Azure AD](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) yetkilendirme yönetiminde bir erişim paketinin otomatik olarak gözden geçirmesi, kullanıcının atanan erişim paketleri için kendi kendine gözden geçirmeyi nasıl yaptığı açıklar.
 
-1. Çoğu durumda son kullanıcılar, **erişim panelinde** yanıtının bekleyen bir gözden geçirisini bulacaktır. Bu yalnızca grupların ve uygulamaların incelemelerinin değil, roller için geçerlidir. Rollerin tüm erişim Incelemelerinde, son kullanıcılar gözden geçirmeyi tamamlamak için Azure AD ayrıcalıklı kimlik yönetimi 'ne (PıM) gitmeniz gerekir.
+1. Çoğu durumda, son kullanıcılar Erişim Masası'nda yanıtlarını bekleyen bir gözden **geçirmeyi bulur.** Bu yalnızca Gruplar ve Uygulamalar incelemeleri için geçerlidir, Roller için geçerli değildir. Rollerin tüm Access İncelemeleri için son kullanıcıların incelemelerini tamamlamak üzere Azure AD Privileged Identity Management (PIM) hizmetine gitleri gerekir.
 
-    1. Azure portalında oturum açın.
-    2. Azure AD PıM 'ye gidin.
-    3. Sol gezinti bölmesinde, **görevleri**  >  **gözden geçir**'i seçin.
+    1. Azure portalda oturum açma.
+    2. Azure AD PIM'ye gidin.
+    3. Sol gezinti bölmesinde Görevler Gözden Geçirme **erişimi'ni**  >  **seçin.**
     
 Daha fazla bilgi için bkz.:
 
-- [PıM 'deki Azure AD dizini rollerimin erişim incelemesini gerçekleştirme ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
-- [PıM 'deki Azure Resource rollerimin erişim incelemesini gerçekleştirme](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)
+- [PIM'de Azure AD dizin rollerimin erişim incelemesi gerçekleştirme ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
+- [PIM'de Azure kaynak rollerimin erişim gözden geçirmesini gerçekleştirme](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)

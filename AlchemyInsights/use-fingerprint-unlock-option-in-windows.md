@@ -1,5 +1,5 @@
 ---
-title: Windows 10'da parmak izi kilidi açma seçeneğini kullanma
+title: E-Windows 10'de parmak izi kilidi açma seçeneğini kullanma
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: ba1f2e7b0bb54e89178a320b8579b8d1bfdaff9a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a171d889705a0035981465bdaa5a8f07b9d2eb7200ba4c948f2aaccbf2cc0a21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51796697"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972019"
 ---
-# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Windows 10'da parmak izi kilidi açma seçeneğini kullanma
+# <a name="use-fingerprint-unlock-option-in-windows-10"></a>E-Windows 10'de parmak izi kilidi açma seçeneğini kullanma
 
-**Windows Hello Parmak İzi Tanımayı Etkinleştirme**
+**Parmak İzi Windows Hello Etkinleştirme**
 
-Windows 10'un kilidini parmak izinizi kullanarak açmak için windows hello parmak izi kilidini en az bir parmağınızı ekleyerek (Windows'un tanımasını öğrenmesine izin vererek) ayarlamanız gerekir. 
+Parmak izinizi Windows 10 kilidini açmak için en az bir parmağınızı ekleyerek (tanımayı öğrenmesine Windows) parmak izi Windows Hello parmak izi ayarlamanız gerekir. 
 
-1. Oturum açma **seçenekleri > Hesaplar ve > ayarlar'a gidin (veya** buraya [tıklayın).](ms-settings:signinoptions?activationSource=GetHelp) Kullanılabilir oturum açma seçenekleri listelenir. Örneğin:
+1. Oturum açma **Ayarlar > hesapları > gidin (veya** buraya [tıklayın).](ms-settings:signinoptions?activationSource=GetHelp) Kullanılabilir oturum açma seçenekleri listelenir. Örneğin:
 
     ![Oturum açma seçenekleri.](media/sign-in-options.png)
 
-2. Windows Hello Parmak **İzi Tanıma'ya tıklayın veya** dokunun, ardından Ayarla **öğesine tıklayın.** Windows Hello kurulum penceresinde, Başla **'ya tıklayın.** Parmak izi algılayıcısı etkin hale gelecektir ve parmağınızı algılayıcıya şu şekilde koyabilirsiniz:
+2. Parmak İzi **Tanıma'ya Windows Hello dokunun** ve ardından Ayarla **öğesine tıklayın.** Kurulum Windows Hello, Başla **'ya tıklayın.** Parmak izi algılayıcısı etkin hale gelecektir ve parmağınızı algılayıcıya şu şekilde koyabilirsiniz:
 
    ![Parmak izi algılayıcısı.](media/fingerprint-sensor.png)
 
-3. Parmağınızı tekrar tekrar taramanızı soracak şekilde yönergeleri izleyin. Bu tamamlandığında, oturum açma için kullanmak istediğiniz diğer parmaklarınızı ekleme seçeneğiniz olur. Windows 10'da bir sonraki oturum açsanız, bu şekilde parmak izinizi kullanma seçeneğiniz olur.
+3. Parmağınızı tekrar tekrar taramanızı soracak şekilde yönergeleri izleyin. Bu tamamlandığında, oturum açma için kullanmak istediğiniz diğer parmaklarınızı ekleme seçeneğiniz olur. bu e-posta Windows 10 oturum açsanız bile, bunu yapmak için parmak izinizi kullanma seçeneğiniz olur.
 
-**Windows Hello Parmak İzi Tanıma oturum açma seçeneği olarak kullanılamıyor**
+**Windows Hello Parmak izi oturum açma seçeneği olarak kullanılamıyor**
 
-Oturum açma seçeneklerinde Windows Hello Parmak İzi İşareti seçeneği gösterilmiyorsa, Windows bilgisayarınıza bağlı herhangi bir parmak izi okuyucusu/tarayıcısı farkında değildir veya sistem ilkesi bunun kullanımını engellemektedir (örneğin, bilgisayarınız çalışma alanınız tarafından yönetiliyorsa). Sorun gidermek için: 
+Oturum açma seçeneklerinde Windows Hello Parmak İzi seçeneği gösterilmiyorsa, bu Windows'in bilgisayarınıza bağlı herhangi bir parmak izi okuyucusu/tarayıcısı hakkında bilgi sahibi olmadığını veya sistem ilkesi bunun kullanımını engelley example (örneğin, bilgisayarınız çalışma alanınız tarafından yönetiliyorsa) anlamına gelir. Sorun gidermek için: 
 
 1. Görev çubuğunda **Başlangıç** düğmesini seçin ve Cihaz **Yöneticisi'ni arayın.**
 
@@ -51,6 +51,6 @@ Oturum açma seçeneklerinde Windows Hello Parmak İzi İşareti seçeneği gös
 
    ![Biyometrik cihazlar.](media/biometric-devices-expanded.png)
 
-5. Parmak izi tarayıcınızın gösterilmezse ve tarayıcı bilgisayarınızla tümleşikse, bilgisayar üreticisinin web sitesine gidin. Bilgisayar modelinize uygun teknik destek bölümünde, yük makineniz olan bir tarayıcı için Windows 10 sürücüsü aratırsınız.
+5. Parmak izi tarayıcınızın gösterilmezse ve tarayıcı bilgisayarınızla tümleşikse, bilgisayar üreticisinin web sitesine gidin. Bilgisayar modelinizin teknik destek bölümünde, yüklerini kurabilirsiniz Windows 10 tarayıcı sürücüsü için arama yapabilirsiniz.
 
-6. Tarayıcı pc'den ayrı ise (USB ile takılı) sahip olduğunuz tarayıcı modeline uygun Windows 10 cihaz sürücüsü yazılımını bulmak ve yüklemek için tarayıcı üreticisinin web sitesine gidin.
+6. Tarayıcı pc'den ayrı ise (USB ile takılı) sahip olduğunuz tarayıcı modeline uygun Windows 10 sürücü yazılımını bulmak ve yüklemek için tarayıcı üreticisinin web sitesine gidin.

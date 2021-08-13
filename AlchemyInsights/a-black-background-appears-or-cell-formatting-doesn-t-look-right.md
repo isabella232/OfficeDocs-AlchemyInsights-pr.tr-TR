@@ -1,5 +1,5 @@
 ---
-title: Siyah bir arka plan veya hücre biçimlendirme doğru görünmüyor
+title: Siyah arka plan görünüyor veya hücre biçimlendirmesi doğru görünmüyor
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 031acf2f47dbe9546a5042b88f53e03a8e96e917
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd6832e559e721a41b7afaebe97ec551d297a8b99bf1b323a5a5680365eacfac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917875"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Siyah bir arka plan veya hücre biçimlendirme doğru görünmüyor
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Siyah arka plan görünüyor veya hücre biçimlendirmesi doğru görünmüyor
 
-Excel 2016 'de, beklenmeyen siyah bir arka plan görebilirsiniz veya düzgün olmayan hücre biçimlendirmesi görebilirsiniz. Bu, sayfa düzeni görünümüne üst bilgi veya alt bilgi ekledikten ve bir hücreye desen dolgusu uygulayarak gerçekleşebilir. Bu sorun sürüm 1708 (derleme 8431,2094) ile giderilmiştir. Bunu düzeltmek için, Office 'in en son sürümüne güncelleştirin. **Dosya** \> **hesabı** \> **güncelleştirme seçeneklerini** \> **Şimdi Güncelleştir**'i seçin.
+Yeni Excel 2016, beklenmeyen siyah bir arka plan veya düzgün görünmeen hücre biçimlendirmesi de görebilir. Bu durum, Sayfa Düzeni Görünümü'ne üst bilgi veya alt bilgi ekledikten ve bir hücreye desen dolgusu uygulanmasından sonra olabilir. Bu sorun sürüm 1708 (Derleme 8431.2094) ile düzeltilmiştir. Bunu düzeltmek için bu sürümün en son sürümüne Office. Dosya **Hesabı Güncelleştirme** \> **Seçenekleri** Şimdi \>  \> **Güncelleştir'i seçin.**
   
 
