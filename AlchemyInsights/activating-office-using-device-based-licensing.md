@@ -1,5 +1,5 @@
 ---
-title: Cihaz tabanlı lisanslama kullanarak Office'i etkinleştirme
+title: Cihaz Office lisanslama kullanarak etkinleştirme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: f59e817192ee38bdafb5ad0de64ed12f0a4f0392
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b9552e8a1f28138bf72fbc97b9cdb1ab7545b5021acbfe417602d49d351de4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823015"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937337"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Cihaz tabanlı lisanslama kullanarak Office'i etkinleştirme
+# <a name="activating-office-using-device-based-licensing"></a>Cihaz Office lisanslama kullanarak etkinleştirme
 
-Kurumsal Microsoft 365 Uygulamaları için cihaz tabanlı lisanslama, yalnızca bazı ticari müşteriler ve bazı eğitim müşterileri için lisans olarak kullanılabilir. Ayrıntılı bilgi için bkz. [Microsoft 365 Uygulamaları](https://docs.microsoft.com/deployoffice/device-based-licensing) kurumsal için cihaz tabanlı lisanslama
+Yazılım için cihaz tabanlı lisans Kurumlar için Microsoft 365 Uygulamaları yalnızca bazı ticari müşteriler ve bazı eğitim müşterileri için lisans olarak kullanılabilir. Ayrıntılı bilgi için bkz: [Yazılım için cihaz tabanlı Kurumlar için Microsoft 365 Uygulamaları](https://docs.microsoft.com/deployoffice/device-based-licensing)
 
-Cihaz tabanlı lisanslama kullanarak kurumsal Microsoft 365 Uygulamalarını etkinleştirmek için bkz:
+Cihaz tabanlı Kurumlar için Microsoft 365 Uygulamaları kullanarak etkinleştirme yapmak için, bkz:
 
-- [Kuruluş için Microsoft 365 Uygulamaları için cihaz tabanlı lisanslama gereksinimleri](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Kuruluş için Microsoft 365 Uygulamaları için cihaz tabanlı lisanslamayı yapılandırma adımları](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Yazılım hizmetleri için cihaz tabanlı lisanslama Kurumlar için Microsoft 365 Uygulamaları](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Lisanslar için cihaz tabanlı lisanslamayı yapılandırma Kurumlar için Microsoft 365 Uygulamaları](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
-Sorun giderme kılavuzu için [bkz. Kuruluş için Microsoft 365](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise) Uygulamaları için cihaz tabanlı lisanslama sorunlarını giderme
+Sorun giderme kılavuzu için [bkz. Cihaz tabanlı lisanslama sorunlarını giderme Kurumlar için Microsoft 365 Uygulamaları](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
 > [!NOTE]
-> Microsoft 365 Uygulamaları kullanıcı tabanlı abonelik lisanslama veya paylaşılan bilgisayar etkinleştirme ile zaten yüklü ve etkinse, cihaz tabanlı lisansa geçiş için önce cihaz lisans durumunu sıfırlamanız gerekir. Etkinleştirme durumunu sıfırlamak için bkz. Kurumsal etkinleştirme durumu için [Microsoft 365 Uygulamalarını sıfırlama](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
+> Kullanıcı Microsoft 365 Uygulamaları lisanslama veya paylaşılan bilgisayar etkinleştirme ile zaten yüklü ve etkinse, cihaz tabanlı lisansa geçiş için önce cihaz lisans durumunu sıfırlamanız gerekir. Etkinleştirme durumunu sıfırlamak için bkz. [Etkinleştirme Kurumlar için Microsoft 365 Uygulamaları sıfırlama](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
