@@ -1,5 +1,5 @@
 ---
-title: SharePoint listesi veya kitaplığı için izinleri değiştirme
+title: Liste veya kitaplığın SharePoint değiştirme
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 445f1edcae5a2581cf340898c823257e9e857ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b012606e5dadd0ea71eb68de9bc278faea41adbc99e662bfa3eea6653548c1a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681847"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979477"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>SharePoint listesi veya kitaplığı için izinleri değiştirme
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Liste veya kitaplığın SharePoint değiştirme
 
 1. Web tarayıcısında SharePoint sitesine gidin ve listeyi veya kitaplığı açın.
     
-2. Sağ üstteki ayarlar simgesine tıklayın ve sonra **kitaplık ayarları** 'Nı veya **Liste ayarları**'na tıklayın. (Komutu göremiyorsanız, şeridi açmak için **kitaplık** veya **liste** sekmesini seçin ve ardından Şeritteki **kitaplık ayarları** 'nı veya **Liste ayarları** 'nı tıklatın.) 
+2. Sağ üst Ayarlar Sağ üst köşedeki Liste simgesine tıklayın ve sonra da Kitaplık ayarları **veya Liste** **ayarları'ne tıklayın.** (Komutu görmüyorsanız, şeridi açmak için  Kitaplık  veya Liste sekmesini seçin ve ardından şeritte Kitaplık Ayarlar veya **Liste** Ayarlar'e  tıklayın.) 
     
-3. **İzinler ve yönetim**altında, bu liste veya **Bu belge kitaplığının izinleri** **için izinler** 'i tıklatın.
+3. İzinler **ve Yönetim altında,** Bu **listenin izinleri'ne veya Bu belge** **kitaplığının izinleri'ne tıklayın.**
     
-Varsayılan olarak SharePoint listeleri ve kitaplıkları sitedeki izinleri devralır. İzinleri devralmayı bırakırsanız, geçerli izinler liste veya kitaplığa ve içindeki her şeye kopyalanır. Sitenin izinleri daha sonra değiştirilirse, değişiklikler liste veya kitaplığa ve içindeki öğelere uygulanmaz.
+Varsayılan olarak, liste SharePoint kitaplıkların izinleri siteden devralıyor olduğunu unutmayın. İzin devralmayı kırsanız, geçerli izinler listeye veya kitaplıma ve içindeki her şeye kopyalanır. Sitenin izinleri daha sonra değiştirilirse, değişiklikler liste veya kitaplıda ve sitedeki öğelere uygulanmaz.
   
 

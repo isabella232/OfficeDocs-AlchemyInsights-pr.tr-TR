@@ -1,5 +1,5 @@
 ---
-title: SharePoint uyarı bildirimleri teslim edilmiyor
+title: SharePoint bildirimi teslim edilmedi
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05bd913098372a57d3061e8c516a6a6b4f0a9bdafde02acc930062d6281d06dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751263"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957921"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint uyarı bildirimleri teslim edilmiyor
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint bildirimi teslim edilmedi
 
-E-postanızın gereksız klasörüne göz atın, bazen uyarılar orada görünebilir.
+Uyarıların bazen orada olabileceği için lütfen e-postanız için GEREKSIZ klasörünü kontrol edin.
 
-**Tüm uyarıların teslim edilip edilmediğini** veya belirli bir dosya veya kitaplıktan gelen bir **uyarının** teslim edilmediğini saptayın.
+Tüm **uyarıların teslim olmadığını veya belirli bir** dosya veya **kitaplıktan gelen tek** tek uyarının teslim edilmedi olup olmadığını belirler.
 
-- **Tek tek uyarılar teslim edilmiyor**: belirli bir dosya veya kitaplıktan gelen bir uyarı teslim edilemediğinde, bunu silip yeniden oluşturmayı deneyebilirsiniz. Uyarıyı yeniden oluşturmak için [SharePoint uyarılarını yönetme, görüntüleme veya silme](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) konusuna bakın.
-- **Tüm uyarılar teslim edilmiyor**: birden çok dosya veya kitaplıklardaki tüm uyarılar teslim edilemezse, SharePoint veya Exchange ile ilgili tüm Danışma belgelerini/olaylarını denetlemek Için [hizmet durumu panosunu](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ziyaret edin. Sorun SharePoint uyarısı yeteneği veya Exchange aracılığıyla e-postalarda gecikmelere neden olabilir. Ayrıca, başka bir e-postanın teslim edilip edilmediğini de dikkate almak da gerekirse, sorun büyük olasılıkla Exchange gecikmelerinden kaynaklanıyor olabilir.
+- **Tek tek uyarılar teslim edilmedi:** Belirli bir dosya veya kitaplıktan gelen tek tek uyarılar teslim edilirse, bu uyarıyı silebilir ve yeniden oluşturabilirsiniz. Uyarıyı [yeniden oluşturmak için bkz. SharePoint yönetme,](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) görüntüleme veya silme.
+- **Tüm uyarılar teslim** edilmedi: Birden çok dosya veya kitaplıktan gelen tüm [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) uyarılar teslim edilirse, birden çok dosya veya kitaplıkla ortaya çıkan herhangi bir tavsiyeyi/olayı kontrol etmek için Hizmet Durumu panosunu ziyaret SharePoint Exchange. Bu sorun, e-postalarda SharePoint uyarı özelliği veya gecikme süresi nedeniyle Exchange. Ayrıca başka e-postaların teslim ediliyor olup olmadığını ve teslim edilen e-postanın teslim ediliyor olup olmadığının da büyük olasılıkla gecikme Exchange önemlidir.
 
-Uyarılarla ilgili SSS:
+Uyarılar hakkında SSS:
 
-- Uyarılar dağıtım grubuna gönderilemiyor, yalnızca güvenlik ve O365 grupları destekleniyor olabilir.
-- Uyarı e-posta şablonlarını özelleştiremezsiniz; bunları sağlamak için Microsoft FLOW veya SharePoint Designer Iş akışını kullanmanız gerekir.
+- Dağıtım Grubuna uyarı göndermek mümkün değildir; yalnızca Güvenlik ve O365 grupları desteklemektedir.
+- Uyarı e-posta şablonlarını özelleştiresiniz; bu akışları elde etmek için Microsoft FLOW veya SharePoint İş Akışı'nda kullansanız gerekir.
 
-## <a name="related-topics"></a>İlgili konular
+## <a name="related-topics"></a>İlgili Konular
 
-SharePoint Online 'da Microsoft akışını denemek mi istiyorsunuz?
+SharePoint Online'Microsoft Flow denemek mi istiyor musunuz?
 
-- [Akış oluştur](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Yeni Flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint ve akış](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint ve Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)

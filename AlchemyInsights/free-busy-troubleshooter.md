@@ -1,5 +1,5 @@
 ---
-title: 607 serbest/meşgul sorun gidericisi
+title: 607 Serbest/Meşgul Sorun Gidericisi
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 69a89f4a18008024bae1d24d23933276c57f189f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82ffc520211180da8118fd357f12b3559ec7eb43cc0329ad4f7e58f42bd8c3eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708055"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987703"
 ---
-# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Takvim kullanılabilirliği için sorun giderme adımları (serbest/meşgul)
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Takvim kullanılabilirliği için sorun giderme adımları (Serbest/Meşgul)
 
-Ücretsiz/meşgul sorunlarını gidermede en iyi araç, [Exchange uzaktan bağlantı Çözümleyicisi (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) , başarısız olduğunu görün. RCA, size işe yaradığını ve çözümleri bulmak için bakabileceğiniz belirli hata iletileriyle ilgili ne başarısız olduğunu gösteren ayrıntılı bir kayıt sağlar. Ayrıca [Microsoft destek ve Kurtarma Yardımcısı](https://diagnostics.office.com/)'na bir bağlantı içerir.
+Genellikle Serbest/Meşgul sorunlarını gidermek için en iyi araç, Exchange Uzak Bağlantı [Çözümleyicisi'nin (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) başarısız olduğunu görmektir. RCA, neyin çalıştığını ve çözüm bulmak için bakabilirsiniz belirli hata iletileriyle nelerin başarısız olduğunu ayrıntılı bir şekilde kaydetmeniz için size yardımcı olur. Ayrıca, Microsoft Web [Sitesinden Destek ve Kurtarma Yardımcısı.](https://diagnostics.office.com/)
 
-Kullanıcının Outlook 'Ta olması durumunda, [Outlook 'un Takvim denetimi aracı](https://www.microsoft.com/download/details.aspx?id=28786) olması için bir başka iyi araç.
+Deneyen bir diğer iyi araç [da, kullanıcının sahip olduğu](https://www.microsoft.com/download/details.aspx?id=28786) Outlook Denetleme Aracı Outlook.

@@ -1,5 +1,5 @@
 ---
-title: Liste öğeleri hakkında açıklamalar
+title: Liste öğeleriyle ilgili açıklamalar
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995527"
 ---
-# <a name="comments-on-list-items"></a>Liste öğeleri hakkında açıklamalar
+# <a name="comments-on-list-items"></a>Liste öğeleriyle ilgili açıklamalar
 
-Kullanıcılar liste öğesindeki tüm açıklamaları görüntüleyebilir ve öğeyle ilgili açıklamaları veya etkinlikleri gösteren görünümler arasında filtre uygulayabilir.
+Kullanıcılar bir liste öğesiyle ilgili tüm yorumları süzer ve bir öğeyle ilgili açıklamalar veya etkinliğin görüntü olduğu görünümler arasında filtre uygulama.
 
-Kullanıcıların açıklamaları ekleyip silebilmeleri için aşağıdakileri not etmeleri gerekir:
+Kullanıcıların açıklama ekp silebilirlerken önce şunları not etmek zorundaları gerekir:
 
-- Açıklamalar SharePoint 'te devralınan izin ayarlarını izler.
-- Görev listeleri gibi modern kullanıcı arabirimlerinde gösterilecek henüz oluşturulmamış klasik listeler bu yorum özelliğini içermez.
-- Ekipte bulunan listelere açıklama eklemek bu sürümde kullanılamaz.
-- Açıklamalar, arama tarafından dizine alınır.
+- Açıklamalar, her ikisinde de izin ayarlarını SharePoint.
+- Görev listeleri gibi modern kullanıcı arabirimlerinde henüz kurulmamış klasik listeler, bu açıklama özelliğine sahip olmaz.
+- E-Teams listelerine açıklama ek olarak bu sürümde kullanılamaz.
+- Açıklamalar Arama tarafından dizine almaz.
 
-Yöneticiler, **set-SPOTenant** PowerShell cmdlet 'inde **CommentsOnListItemsDisabled** parametresini değiştirerek bu özelliği kuruluş düzeyinde devre dışı bırakabilir.
+Yöneticiler **Set-SPOTenant** PowerShell cmdlet'inde **CommentsOnListItemsDisabled** parametresini değiştirerek kuruluş düzeyinde bu özelliği devre dışı bırakabilir.
 
-Site veya liste düzeyinde açıklama oluşturmayı devre dışı bırakmak mümkün değildir. Bu denetimlerin, büyük olasılıkla ilk çeyrek 2021 bu denetimlerden bir sonraki güncelleştirmede da yer almak isteriz.
+Şu anda site veya liste düzeyinde açıklamayı devre dışı bırakmak mümkün değildir. Bu denetimlerin daha sonraki bir güncelleştirmede, büyük olasılıkla 2021'in ilk çeyreğinde sahip olmalarını umuyoruz.
