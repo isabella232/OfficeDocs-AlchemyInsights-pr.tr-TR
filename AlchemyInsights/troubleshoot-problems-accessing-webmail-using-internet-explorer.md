@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003958"
 - "7014"
-ms.openlocfilehash: 8711b33851e2dac4499f39e3bfbff955d3cb91e3
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b38e953c69c3fbc0e1ac4771953b1777e7033286ea56554d42952c2df696bd70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708046"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008026"
 ---
 # <a name="troubleshoot-problems-with-accessing-webmail"></a>Web postası erişimiyle ilgili sorunları giderme
 
-Bilgisayarınızda yanlış tarih ve saat ayarları, web tabanlı e-posta sunucularına erişirken sorunlara neden olabilir. Tarih ve saat ayarlarının doğru olduğundan emin olmak için şu adımları izleyin:
+Bilgisayarınızda yanlış tarih ve saat ayarları, web tabanlı e-posta sunucularına erişimde sorunlara neden olabilir. Tarih ve saat ayarlarının doğru olduğundan emin olmak için şu adımları izleyin:
 
-1. **Başlat'ı** seçin, **tarih ve saat** yazın ve ardından Tarih ve **Saat'i seçin.**
-2. Tarih **ve &** penceresinde, aşağıdakilerden birini yapın:
+1. Başlat **öğesini seçin,** **tarih ve saat yazın,** ardından Tarih **ve Saat'i seçin.**
+2. Tarih **ve &** penceresinde, birini yapın:
 
-    - Saati otomatik **olarak ayarla ve Saat** **dilimini otomatik olarak ayarla'nın açma.**
+    - Saati otomatik **olarak ayarla ve Saat** **dilimini otomatik ayarla'ya açma.**
 
-    - Otomatik ayarları kapalı tutun,  ancak Değiştir düğmesini seçin, Tarihi  ve saati değiştir iletişim kutusunda Tarih ve Saat ayarlarını seçin ve ardından Değiştir'i **seçin.**  
+    - Otomatik ayarları kapalı tutun, ancak Değiştir **düğmesini** seçin, Tarih  ve saati değiştir iletişim kutusunda Tarih ve Saat ayarlarını seçin ve sonra da Değiştir öğesini **seçin.**  
 
-Daha fazla bilgi edinmek için, [Internet Explorer'ı kullanarak web postası erişim sorunlarını giderme bağlantısına bakın.](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888)
+Daha fazla bilgi edinmek için [bkz. Internet Explorer kullanarak web postası erişim sorunlarını giderme.](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888)

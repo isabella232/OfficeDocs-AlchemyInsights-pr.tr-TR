@@ -1,5 +1,5 @@
 ---
-title: Kullanıcı onayı sorunlarını giderme
+title: Kullanıcı izni sorunlarını giderme
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7785"
-ms.openlocfilehash: 7249bafe1b047c66d9351a79f1782cfcc1a936a1
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: db784c133fec554604ad09f5b27941879d97ff238f926ff6338d0f3b7c3c4105
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007918"
 ---
-# <a name="troubleshoot-user-consent"></a>Kullanıcı onayı sorunlarını giderme
+# <a name="troubleshoot-user-consent"></a>Kullanıcı izni sorunlarını giderme
 
-1. Son kullanıcıların Azure portalı veya PowerShell aracılığıyla uygulamalara nasıl izin vermiş olduğunu yapılandırabilirsiniz. Daha fazla bilgi için [Kullanıcı onayı ayarlarına](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) bakın.
-1. Yönetici, tek bir kullanıcı adına temsilci izinlerine izin vermek için [Microsoft Graph API](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) 'yi de kullanabilir. Daha fazla bilgi için, [Kullanıcı adına erişim alma](https://docs.microsoft.com/graph/auth-v2-user)bölümüne bakın.
-1. [Kullanıcı onayı hataları](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error): Bu makalede, bir uygulamaya uyum sürecinde oluşabilecek hatalar açıklanır. Herhangi bir hata iletisi içermeyen beklenmeyen onay istemleriyle ilgili sorun yaşıyorsanız, [Azure AD Için kimlik doğrulama senaryolarını](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)inceleyin.
+1. Son kullanıcıların Azure Portalı veya PowerShell aracılığıyla uygulamalara nasıl onay vermezlerini yapılandırabilirsiniz. Daha [fazla bilgi için bkz.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) Kullanıcı izni ayarları.
+1. Bir yönetici, tek bir [kullanıcı adına temsilci izinler](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) Graph için Microsoft Graph API'sini de kullanabilir. Daha fazla bilgi için [bkz. Kullanıcı adına erişim elde edin](https://docs.microsoft.com/graph/auth-v2-user).
+1. [Kullanıcı İzin Hataları](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error): Bu makalede, bir uygulamaya izin vermezken meydana gelen hatalar ele alınmektedir. Hata iletisi içermeen beklenmedik izin istemleri ile ilgili sorun gidermeye devam ediyorsanız bkz. [Azure AD için Kimlik Doğrulama Senaryoları](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).

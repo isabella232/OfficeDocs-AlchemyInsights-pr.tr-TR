@@ -1,5 +1,5 @@
 ---
-title: SharePoint veya OneDrive 'da erişimi kısıtlama
+title: E-posta veya SharePoint erişimi OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,40 +9,40 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: e9eb1822a7770bc206992cc5fb7e54a5c972b7e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc6731d5a7747bb4fc8d6cef1b6ac0045d11917d7f97abbb21eea9613b1b1aa2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093909"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>SharePoint veya OneDrive 'da erişimi kısıtlama
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>E-posta veya SharePoint erişimi OneDrive
 
-SharePoint Online/OneDrive hizmetlerine erişimi sınırlandırmanın birçok yolu vardır. Bu çeşitli erişim kısıtlama yöntemleri aşağıda özetlenmiştir. 
+SharePoint Online/OneDrive hizmetleri için erişimi kısıtlamanın birçok yolu vardır. Bu çeşitli erişim kısıtlama yöntemleri aşağıda açıklanmıştır. 
 
-**İzin kısıtlaması**
+**İzin Kısıtlaması**
 
-SharePoint Online ve OneDrive Iş 'te, yalnızca erişmesi gereken gruplara/kişilere erişim vererek site, dosya ve klasör gibi öğelere erişimi kısıtlıyoruz.
+SharePoint Online ve OneDrive İş'da, yalnızca erişime sahip olması gereken gruplara/kişilere erişim izni vererek siteler, dosyalar ve klasörler gibi öğelere erişimi kısıtlarız.
 
-- [SharePoint listesi veya kitaplığı için izinleri özelleştirme](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Liste veya kitaplığın SharePoint özelleştirme](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [SharePoint sitesi izinlerini özelleştirme](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [Site SharePoint özelleştirme](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [Alt klasördeki izinleri değiştirme](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+- [Alt klasör izinlerini değiştirme](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
 - [Yönetilmeyen cihazlardan erişimi denetleme](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-SharePoint veya genel yönetici olarak, yönetilmeyen cihazlardan SharePoint ve OneDrive içeriğine erişimi engelleyebilir veya sınırlayabilir (karma AD 'a bağlı olmayan veya Intune 'da uyumlu olanlar).
+Bir SharePoint yöneticisi veya genel yönetici olarak, yönetnemeyen cihazlardan (Intune'da karma AD'ye katılan veya uyumlu olmayanlar) SharePoint ve OneDrive içeriğine erişimi engelleyebilir veya sınırlandırabilirsiniz.
 
-**Ağ konumu kısıtlaması**
+**Ağ Konumu Kısıtlaması**
 
-BT Yöneticisi olarak, güvendiğiniz ağ konumlarına göre SharePoint ve OneDrive kaynaklarına erişimi denetleyebilirsiniz. Bu, konum tabanlı ilke olarak da bilinir. Daha fazla bilgi için bkz: [SharePoint Online ve OneDrive verilerine ağ konumuna göre denetleme](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+Bir IT yöneticisi olarak, güvenilen tanımlı ağ konumlarına SharePoint OneDrive kaynak erişimi ve kaynak OneDrive denetlemeniz gerekir. Bu, konum tabanlı ilke olarak da bilinir. Daha fazla bilgi için lütfen SharePoint [Online'a](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location) erişimi denetleme ve OneDrive konuma göre verileri denetleme
 
-**Site kilit sınırlaması** 
+**Site Kilidi Kısıtlaması** 
 
-SharePoint Online 'da site koleksiyonunu kilitleme olanağınız vardır, dolayısıyla kimse erişimi yoktur. Bu, [set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -lockstate özelliği kullanılarak PowerShell ve [SharePoint Online Yönetim Kabuğu](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) ile ayarlanır.
+SharePoint Online'da, site koleksiyonunu kilitleme olanağına sahip olur, böylece kimse erişimini kilitler. Bu, [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -LockState [özelliği kullanılarak](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) PowerShell SharePoint Çevrimiçi Yönetim Kabuğu ile ayarlanır.
 
 **Kullanıcıların site veya alt site oluşturmasını kısıtlama**
 
-SharePoint Yöneticisi veya genel yönetici olarak, kullanıcılarınızın kendi SharePoint sitelerini oluşturmasına ve yönetmesine, oluşturabildikleri site türlerini belirlemesine ve sitelerin konumunu belirlemesine izin verebilirsiniz. Daha fazla bilgi için bkz: [SharePoint Online 'da site oluşturmayı yönetme](https://docs.microsoft.com/sharepoint/manage-site-creation)
+Genel SharePoint veya Genel yönetici olarak, kullanıcılarınızı kendi SharePoint sitelerini oluşturmalarına ve yönetmelerine, ne tür siteler oluştur oluşturduklarını belirlemelerine ve sitelerin konumunu belirtmelerine izin veebilirsiniz. Daha fazla bilgi için bkz. [SharePoint Online'da site SharePoint yönetme](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

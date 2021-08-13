@@ -1,5 +1,5 @@
 ---
-title: Artık Silinmiş Öğeler klasörünüzde bulunmayan bir öğeyi kurtarma
+title: Artık Silinmiş öğeler klasörde yer alan bir öğeyi kurtarma
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,38 +13,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: b6ac084ead88b090d6caab1405d5d96f24890ea7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 81a7a2e9623c788743fad99e15c4d771bb12a6c1c81f35a9d2a6a0729ecf8db7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062387"
 ---
-# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Artık Silinmiş Öğeler klasörünüzde bulunmayan bir öğeyi kurtarma
+# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Artık Silinmiş Öğeler klasörde yer alan bir öğeyi kurtarma
 
-Silinmiş Öğeler klasöründe bir öğe bulamıyorsanız, bir sonraki yer Kurtarılabilir Öğeler klasörüdür. Bu, öğelerin şu durumlarda taşınacağı gizli bir klasördür:
-- Silinmiş Öğeler klasöründen silinir.
-- Silinmiş Öğeler klasörü sizin veya BT yöneticiniz tarafından ayarlanan bir ilke tarafından boşaltılır.
-- Bir öğeyi seçip **Shift + Delete** tuşlarına basarak silebilirsiniz.
+Bir öğeyi Silinmiş Öğeler klasöründe bulamazsanız bakmamız gereken bir sonraki yer, Kurtarılabilir Öğeler klasörüdür. Bu, öğelerin şu anda taşındığı gizli bir klasördür:
+- Bunlar Silinmiş Öğeler klasöründen silinir.
+- Silinmiş Öğeler klasörü, sizin tarafından veya IT yöneticiniz tarafından ayarlanmış bir ilkeyle boşaltılır.
+- Bir öğeyi seçerek ve **Shift+Delete tuşlarına basarak silersiniz.**
 
-Kurtarılabilir Öğeler klasörüne taşınan öğeleri görüntülemek ve kurtarmak için:
-1. Web tarayıcısında, kuruluşunuz için e-postayı yöneten kişi tarafından sağlanan URL’yi kullanarak Outlook Web App’te oturum açın. Kullanıcı adınızı ve parolanızı girip **oturum aç**'ı seçin.
-1. E-posta klasörü listenizde **Silinmiş öğeler**'e sağ tıklayın ve **Silinmiş öğeleri kurtar 'ı seçin...**.
+Kurtarılabilir Öğeler klasörüne taşınmış olan öğeleri görüntülemek ve kurtarmak için:
+1. Web tarayıcısında, kuruluşunuz için e-postayı yöneten kişi tarafından sağlanan URL’yi kullanarak Outlook Web App’te oturum açın. Kullanıcı adı ve parolanızı girin, ardından Oturum açma **öğesini seçin.**
+1. E-posta klasörü listesinde Silinmiş Öğeler'e **sağ tıklayın,** ardından silinmiş öğeleri **kurtar... öğesini seçin.**
 1. Gerekirse, kurtarmak istediğiniz öğeyi bulmak için arama kutusunu kullanın.
-1. Öğeyi bulduğunuzda seçin ve **kurtar**'ı tıklatın.
-   Kurtarılan öğeler her öğe türü için varsayılan konuma taşınacaktır.
-    - İletiler gelen kutunuza gidin.
-    - Takvim öğeleri takviminize gidin.
-    - Kişiler, kişiler klasörünüze gidin.
-    - Görevler, Görevler klasörünüze geçer.
+1. Öğeyi bulamıyorum, seçin ve kurtar'a **tıklayın.**
+   Kurtarılan öğeler, her öğe türü için varsayılan konuma taşınır.
+    - İletiler Gelen Kutunuza gider.
+    - Takvim öğeleri Takviminize gider.
+    - Kişiler, Kişiler klasörünüze gider.
+    - Görevler, Görevler klasörünüze gider.
 
-**Kurtarılabilir Öğeler klasörünüzdeki öğeleri kurtarma ipuçları**
+**İpuçları Kurtarılabilir Öğeler klasörünüzdeki öğeleri kurtarmayı sağlar**
 
-- Kurtarılabilir Öğeler klasöründeki bir öğenin silinme tarihi, öğe silinmiş öğeler klasörüne taşınmıştır. Öğenin Kurtarılabilir Öğeler klasörüne taşındığını tarihi değildir.
-- Kurtarılabilir Öğeler klasöründeki öğelerde simgeler yoktur, dolayısıyla hepsi çok benzer.
-    - Bir kişi arıyorsanız, kişinin adını içeren ancak konu satırı olmayan bir öğeyi arayın.
-    - Takvim randevusu arıyorsanız, kişinin adı veya konu satırı olmayan bir öğeyi arayın.
-    - Bir kişi, takvim randevusu veya görev arıyorsanız, bu öğenin metnini arayın.
-- Birden çok öğeyi kurtarmak için, her öğenin üzerine gelin ve yanındaki onay kutusunu **seçin.** İlk öğenin onay kutusunu seçip **Shift** tuşunu basılı tutarak son öğenin onay kutusunu seçerek bitişik birden fazla öğeyi kurtarabilirsiniz. Tüm Öğeler seçildiğinde, **kurtar**'ı seçin.
-- **Silinmiş öğeler** listesinden öğeleri temizleyebilirsiniz. Yalnızca öğeyi seçip **Temizle**'yi seçin. Bir öğeyi silerseniz, geri almak için silinmiş öğeleri kurtar seçeneğini kullanamazsınız. Bir iletiyi Temizleme, bu iletiyi kaydetmeden önce yaptığınız yedeklerden kaldırmaz.
-- Kuruluşunuz Kurtarılabilir Öğeler klasöründeki öğelerin ne kadar süreyle kullanılabilir durumda olduğunu belirtmiş olabilir. Örneğin, Silinmiş Öğeler klasörünüzde, 30 gün içinde yer alan ve geri alınabilir Öğeler klasöründeki öğeleri başka bir 14 güne kadar kurtarmanıza olanak tanıyan bir ilke olabilir.
+- Kurtarılabilir Öğeler klasöründeki öğenin silinme tarihi, öğenin Silinmiş Öğeler klasörüne taşındığı tarihtir. Bu, öğenin Kurtarılabilir Öğeler klasörüne taşındığı tarih değildir.
+- Kurtarılabilir Öğeler klasöründeki öğelerin simgeleri yok, bu yüzden bunların hepsi çok benzer görünür.
+    - Bir kişiyi arıyorsanız, kişinin adını bulunduran ancak konu satırı geç aramayan bir öğeye bakın.
+    - Takvim randevusu arıyorsanız, kişi adı veya konu satırı olmayan bir öğeyi seçin.
+    - Bir kişi, takvim randevusu veya görev arıyorsanız, bu öğenin metnine bakın.
+- Birden çok öğeyi kurtarmak için, her öğenin üzerine gelin ve yanındaki onay kutusunu seçin, kurtar'a **tıklayın.** Ayrıca, birbirine bitişik birden çok öğeyi kurtarmak için, ilk öğenin onay kutusunu seçin, **Shift** tuşunu basılı tutun ve son öğenin onay kutusunu seçin. Tüm öğeler seçildiğinde kurtar'ı **seçin.**
+- Silinmiş öğeleri kurtar listesinden **öğeleri temizebilirsiniz.** Yalnızca öğeyi seçin ve temizle öğesini **seçin.** Bir öğeyi temizlerse, geri almak için Silinmiş öğeleri kurtar'a gerek yok olur. bir iletiyi temizlemek, iletiyi temizlemeden önce yapılmış hiçbir yedekten kaldırmaz.
+- Organizasyonunız, Kurtarılabilir Öğeler klasöründeki öğelerin ne kadar süreyle kurtarılabilir durumda olabileceğini belirtebilir. Örneğin, Silinmiş Öğeler klasörde 30 gün süreyle kaldınız her şeyi silen bir ilke ve Kurtarılabilir Öğeler klasöründeki öğeleri kurtararak 14 gün daha süreyle kurtarmanızı sağlayan başka bir ilke olabilir.
