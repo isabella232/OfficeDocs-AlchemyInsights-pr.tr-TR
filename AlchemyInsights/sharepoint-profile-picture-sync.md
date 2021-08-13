@@ -1,5 +1,5 @@
 ---
-title: Profil eşitleme
+title: Profil eşitlemesi
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,24 @@ ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.custom:
 - "1828"
 - "9000231"
-ms.openlocfilehash: 9ee728fa9eefc882d220d8484c8c92d4d8c9af4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d07d8e9206b4b7d0756277409d48b0cd299e5cf0fd7261e6c0ad75dfe8648f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770608"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957453"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Profilim SharePoint kullanıcı profili uygulamasıyla eşitlensin mi?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Profil değişikliklerim kullanıcı profili uygulamasına SharePoint eşitler?
 
-SharePoint Online 'da profil resmi eşitlemesi, fotoğraflarının eşitlenmesini başlatmak için kullanıcının eylemini gerektirir. SharePoint Online 'da fotoğrafların otomatik eşitlenmesi yoktur. SharePoint Online, yalnızca Exchange Online 'dan alınan, Azure Active Directory 'den fotoğraf eşitler.
+SharePoint Online'da Profil Resmi Eşitlemesi için kullanıcının fotoğrafı eşitlemeyi başlatma eylemi gerekir. SharePoint Online'a fotoğrafların otomatik olarak eşit SharePoint yoktur. SharePoint Çevrimiçi yalnızca İnternet'Exchange Online fotoğrafları eşitler, Azure Active Directory.
 
-Bir Kullanıcı eşitleme isteyen bir eylem gerçekleştirmediyse veya profil resmini güncelleştirdiyse ve yeni bir eylem SharePoint Online 'da gösterilmiyorsa, kullanıcının eşitleme yapması istenebilir. Şunları yapabilirsiniz:
+Kullanıcı hiçbir zaman eşitlemeyi istenecek bir eylem uygulamadı veya profil resmini güncellemişse ve yenisi SharePoint Online'da görünmüyorsa, kullanıcının eşitlemeyi başlatması için bilgi istenebilir. Şöyle yapacakları:
 
-1. Bir Web tarayıcısını özel veya Inöğretici bir oturumda açın ve [Office.com adresine gidin](https://www.office.com/).
+1. In-Private veya Incognito oturumunda bir web tarayıcısı açın ve [Office.com adresine gidin.](https://www.office.com/)
 
-2. İş veya okul hesabıyla oturum açın ve OneDrive veya SharePoint kutucuğunu tıklatın.
+2. İş veya okul hesaplarıyla oturum açın ve Kutucuğun OneDrive veya SharePoint tıklayın.
 
-3. [Microsoft 365 'e profil fotoğrafını ekleyin](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+3. [kişinize profil fotoğrafını Microsoft 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
-[Microsoft 365 'de profil resmi eşitlemesi hakkında bilgi](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
+[E-postada profil resmi eşitlemesi hakkında Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 

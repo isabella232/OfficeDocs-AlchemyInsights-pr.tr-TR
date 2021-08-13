@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online kullanıcı profili eşitlemesi
+title: SharePoint Çevrimiçi Kullanıcı Profili Eşitlemesi
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003095"
 - "5848"
-ms.openlocfilehash: abb4b671091fee60fcf836acb15bc3dbdaac7b54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb2c3a2c43a59882dab3f8035dd20e69579a46a7c8bde7badc80310a1ab57f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665378"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957489"
 ---
-# <a name="sharepoint-online-user-profile-synchronization"></a>SharePoint Online kullanıcı profili eşitlemesi
+# <a name="sharepoint-online-user-profile-synchronization"></a>SharePoint Çevrimiçi Kullanıcı Profili Eşitlemesi
 
-Microsoft SharePoint, Kullanıcı ve Grup öznitelik bilgilerini Kullanıcı profili uygulamasına (UPA) aktarmak için Active Directory eşitleme işini kullanır.Daha fazla bilgi için lütfen aşağıdaki makaleye bakın.
+Microsoft SharePoint, kullanıcı ve grup öznitelik bilgilerini Kullanıcı Profili Uygulaması'nda (UPA) içeri aktarma için Active Directory eşitleme işini kullanır.Daha fazla bilgi için lütfen aşağıdaki makaleye bakın.
 
-- [SharePoint Online kullanıcı profili eşitlemesi](https://docs.microsoft.com/sharepoint/user-profile-sync)
+- [SharePoint Çevrimiçi Kullanıcı Profili Eşitlemesi](https://docs.microsoft.com/sharepoint/user-profile-sync)

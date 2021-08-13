@@ -1,5 +1,5 @@
 ---
-title: Kullanıcıyı silme ve lisansları kaldırma
+title: Kullanıcı silme ve lisansları kaldırma
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "7438"
-ms.openlocfilehash: 1867556cc85a0f7ed0c7cdb22061a63d559fbb4b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 7437a9b1ffd483244222c7bda192e25e76efc8088f3bf92facfb27ee5bf0e503
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565031"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948255"
 ---
-# <a name="delete-a-user-and-remove-licenses"></a>Kullanıcıyı silme ve lisansları kaldırma
+# <a name="delete-a-user-and-remove-licenses"></a>Kullanıcı silme ve lisansları kaldırma
 
-Bir Kullanıcı silindiğinde, kullanıcı lisansları da kaldırılır ve diğer kullanıcılar için kullanılabilir hale getirirsiniz. 
-1. Yönetim merkezinde, **kullanıcılar** > etkin kullanıcılar 'a gidin.
-1. Silinecek kullanıcıyı veya kullanıcıları seçin ve **kullanıcıyı sil**'e tıklayın.
+Bir kullanıcı silinerek kullanıcı lisanslarının ataması da kaldırilerek diğer kullanıcılar tarafından kullanılabilir hale gelecektir. 
+1. Yönetim merkezinde Kullanıcılar ve Etkin **Kullanıcılar'>** gidin.
+1. Silinecek kullanıcı veya kullanıcıları seçin ve Kullanıcı sil **'e tıklayın.**
 
-Daha fazla bilgi için bkz [.](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) 
+Daha fazla bilgi için [bkz. Kuruluştan kullanıcı silme](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). 

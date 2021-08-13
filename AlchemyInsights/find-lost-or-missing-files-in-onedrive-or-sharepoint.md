@@ -1,5 +1,5 @@
 ---
-title: OneDrive veya SharePoint'te kayıp veya eksik dosyaları bulma
+title: Bir dosyada veya başka bir OneDrive kayıp veya eksik SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: aa0cd1e4d5e89b9fb601c37030440bdfd2b66260
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b82e3f14fa61ed9b439aa2991be18cf7a064c4a20a02f914176b1afe6eb0f83b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708442"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977389"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>OneDrive veya SharePoint'te kayıp veya eksik dosyaları bulma
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Bir dosyada veya başka bir OneDrive kayıp veya eksik SharePoint
 
-- OneDrive'ınıza veya web'de SharePoint sitesine göz atarak ve sol bölmede Geri Dönüşüm Kutusu'na tıklayarak geri dönüşüm kutusunu kontrol edin. (Sol bölmede Geri Dönüşüm Kutusu'nu görmüyorsanız Ayarlar simgesine tıklayın ve site içeriğini **seçin.** **Geri Dönüşüm** Kutusu, üst sıralarda yer alan komut çubuğunun en sağındadır.) 
+- Web'de web'de OneDrive sitenize SharePoint sol bölmede Geri dönüşüm kutusu'na tıklayarak geri dönüşüm kutusunu kontrol edin. (Sol bölmede Geri dönüşüm kutusu'nu görmüyorsanız, Geri Dönüşüm Kutusu simgesine Ayarlar site **içeriği'ni seçin.** **Geri Dönüşüm** Kutusu, en üst sıralarda yer alan komut çubuğunun en sağındadır.) 
     
-- Bilgisayarınızdan dosyaları eşitlirsiniz, bilgisayarınızda Geri Dönüşüm Kutusu'nu kontrol edin. 
+- Dosyaları bilgisayarınıza eşitlirsiniz, bilgisayarınızdan Geri dönüşüm kutusunu kontrol edin. 
     
-- Gördüğünüz öğeyi görmüyorsanız ve yakın zamanda silinmişse, site koleksiyonu yöneticisi bu öğeyi site koleksiyonu geri dönüşüm kutusu'nu geri yükleyebilir. Site koleksiyonu yöneticisiyseniz, bkz. Site koleksiyonu geri dönüşüm kutusu [silinmiş öğeleri geri yükleme.](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
+- Gördüğünüz öğeyi görmüyorsanız ve yakın zamanda silinmişse, site koleksiyonu yöneticisi bu öğeyi site koleksiyonu geri dönüşüm kutusu'dan geri yükleyebilir. Site koleksiyonu yöneticisiyseniz, bkz. Silinmiş [öğeleri site koleksiyonu geri dönüşüm kutusu'dan geri yükleme](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be).
     
-[OneDrive'da silinen dosya ve klasörleri geri yükleme hakkında daha fazla yardım](https://go.microsoft.com/fwlink/?linkid=872872)
+[E-postada silinmiş dosyaları ve klasörleri geri yükleme hakkında daha fazla OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

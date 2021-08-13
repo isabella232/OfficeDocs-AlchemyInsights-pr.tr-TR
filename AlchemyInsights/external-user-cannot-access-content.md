@@ -1,5 +1,5 @@
 ---
-title: Dış Kullanıcı içeriğe erişemiyor
+title: Dış kullanıcı içeriğe erişe değil
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 70ae38749bde631000d373a981de2bd1be50084b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6868d8238aa376cace020950490de22ea0fc26d05b8308bfc4d9e5f1fc992bf2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708631"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977677"
 ---
-# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>Dış Kullanıcı SharePoint veya OneDrive içeriğine erişemiyor
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>Dış kullanıcı içeriğe veya SharePoint erişe OneDrive açamaz
 
-Bir dış kullanıcı davet edildiyse ve içeriğe erişemiyorsanız, lütfen aşağıdaki bağlantıları ziyaret edin:
+Bir dış kullanıcı davet edildiyse ve içeriğe erişemese, lütfen aşağıdaki bağlantıları ziyaret edin:
 
 - [Dış kullanıcılar siteye erişirken izin hataları alır](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [SharePoint Online veya OneDrive Iş 'te bir öğeyi veya siteyi paylaşırken "kuruluşunuzun ilkeleri bu kullanıcılarla paylaşmanıza izin vermiyor" hatası](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [SharePoint Online veya OneDrive 'dan paylaşım seçenekleri](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [SharePoint Online veya OneDrive İş'te bir öğeyi veya siteyi paylaşırken "Kuruluş ilkeleri bu kullanıcılarla paylaşmanıza izin vermiyor" OneDrive İş](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [SharePoint Online'dan veya başka bir dosyadan paylaşım OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)

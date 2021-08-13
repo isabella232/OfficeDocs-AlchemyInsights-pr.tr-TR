@@ -1,5 +1,5 @@
 ---
-title: 1385-Office-365-Alert-policies
+title: 1385-Office-365-alert-policies
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,36 +13,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664046"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918379"
 ---
 # <a name="alert-policies"></a>Uyarı ilkeleri
 
-Microsoft 365 güvenlik & Uyumluluk Merkezi, Office 365 Kurumsal veya Office 365 ABD hükümeti E1/G1, E3/G3 veya E5/G5 aboneliği olan kuruluşların uyarılarını tetikleyen [varsayılan uyarı ilkeleri](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) sunar. Bu nedenle, Yöneticiler Office365Alerts@microsoft.com tarafından gönderilen, "düşük önem taşıyan uyarı: *Uyarı ilkesinin adı*" gibi bir konu satırıyla gönderilen bir uyarı e-posta bildirimi alabilir. Kullanıcılar gibi yaygın etkinlikler için uyarılar tetiklendiğinde uyarı bildirimleri gönderilir:
+Microsoft 365 güvenlik & Uyumluluk Merkezi, OFFICE 365 KURUMSAL [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) veya Office 365 ABD Kamu E1/G1, E3/G3 veya E5/G5 aboneliği olan kuruluşlar için uyarıları tetikleyen varsayılan uyarı ilkeleri sunar. Bu nedenle yöneticiler, Office365Alerts@microsoft.com tarafından gönderilen ve konu satırı "Düşük önem düzeyine sahip bir uyarı: uyarı ilkesi adı" gibi bir *uyarı e-posta bildirimi alsa* da bu bildirimi alırlar. Kullanıcıların şu durumlarda olduğu gibi yaygın etkinliklere yönelik uyarılar tetiklendiğinde uyarı bildirimleri gönderilir:
 
-- E-postayı ileten gelen kutusu kuralları oluşturun.
-- Posta kutularına izin atama.
-- SharePoint dosya paylaşımında çok sayıda dosyayı paylaşma veya silme.
-- EBulma aramaları oluşturun ve arama sonuçlarını dışarı aktarın.
+- E-postayı iletir gelen kutusu kuralları oluşturun.
+- Posta kutularına izinler attayabilirsiniz.
+- Dosya paylaşımında çok fazla sayıda dosyayı SharePoint silin.
+- eBulma aramaları oluşturun ve arama sonuçlarını dışarı aktarın.
 
-Uyarıyı gözden geçirmek ve üzerinde çalışmak için:
+Bir uyarıyı gözden geçirmek ve üzerinde eylemde yapmak için:
 
-1. [Güvenlik & Uyumluluk Merkezi](https://protection.office.com) 'ne gidin ve oturum açın.
-2. Uyarıları **Alerts**  >  **görüntüle**'ye tıklayın.
-3. Uyarıyla ilgili bilgilerin bulunduğu bir açılır pencere sayfasını görüntülemek için bir uyarıyı tıklatın.
+1. Güvenlik ve Uyumluluk [& gidin ve](https://protection.office.com) oturum açma.
+2. Uyarılar **Uyarıları Görüntüle**  >  **'ye tıklayın.**
+3. Uyarıyla ilgili bilgilerin olduğu bir uç uç sayfa görüntülemek için uyarıya tıklayın.
 
-[Şüpheli bir gelen kutusu kuralını kaldırmak](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)gibi bir uyarıda eylem yapabilirsiniz. Uyarı açılır sayfasında **Çözümle** 'ye tıklayarak uyarıyı kapatabilirsiniz.
+Şüpheli gelen kutusu kuralını kaldırma gibi bir uyarı [üzerinde işlem yapabilirsiniz.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) Bunun yerine, uyarı uç sayfası üzerinde **Çöz'e** tıklayarak da bu uyarıyı kapatabilirsiniz.
 
-Uyarı ilkelerini yapılandırma ve yönetme hakkında daha fazla bilgi için  [Bu makaleye](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)bakın.
+Uyarı ilkelerini yapılandırma ve yönetme hakkında daha fazla bilgi için bu [makaleye bakın.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
 
-**Önemli**: Microsoft 'un e-posta bildirimlerini uyarma hiçbir zaman aşağıdakileri yapmasını istemez:
+**Önemli:** Microsoft'tan gelen uyarı e-posta bildirimleri hiçbir zaman şunları yapmanızı istemez:
 
-- Parola sağlayın
-- Hesabınızın güvenlik ayrıntılarını doğrulama
-- Kendiniz yeniden kimlik doğrulama
+- Parola girin
+- Hesabınızla ilgili güvenlik ayrıntılarını doğrulama
+- Kendinizi yeniden kimlik doğrulama
 
-Bunun gibi bir e-posta iletisi alırsanız, Microsoft tarafından gönderilmez ve sızdırma dolandırıcılığı olarak düşünülmelidir. Bu durumda, lütfen [bunu Microsoft 'a bildirin](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Bunun gibi bir e-posta iletisi alırsanız, ileti Microsoft tarafından gönderilmez ve kimlik avı dolandırıcılığı olarak kabul edilir. Böyle bir durumda, lütfen [Microsoft'a rapor edin.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)

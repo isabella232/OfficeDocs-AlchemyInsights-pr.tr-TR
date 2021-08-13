@@ -1,5 +1,5 @@
 ---
-title: Siteyi silme
+title: Site silme
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 7bb2110898e8b5b9aa9a73fb04698f759b5959b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d87d45af15ff2e08c585f952994fbc60c3b840f92587170c45ab3c9b53c6e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731079"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948183"
 ---
-# <a name="delete-a-site"></a>Siteyi silme
+# <a name="delete-a-site"></a>Site silme
 
-Bir siteyi sildiğinizde silinen sitelere taşınmıştır ve 93 gün boyunca korunur. Siteyi silmek için, [etkin siteler](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)'e gidin. 
+Siteyi sildikten sonra, bu site Silinmiş Siteler'e taşınır ve 93 gün boyunca korunur. Siteyi silmek için Etkin Siteler ['e gidin.](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) 
 
-Bir siteyi sildiğinizde, içindeki her şey silinir; örneğin:
+Siteyi sildikten sonra, site içindeki her şey silinir; şöyle:
 
-- Belge kitaplıkları ve dosyalar.
-- Listeler ve liste verileri.
+- Belge kitaplıkları ve dosyaları.
+- Listeler ve verileri listeler.
 - Site ayarları ve geçmişi.
-- Tüm alt siteler ve bunların içerikleri.
+- Tüm alt siteler ve içerikleri.
 
-Siteyi silmeden önce site yöneticilerine ve tüm alt site sahiplerine bildirimde bulunabilirsiniz, böylece bu kişilerin verilerini başka bir konuma taşıyabilirler ve bu sitelerin ne zaman silineceğini de kullanıcılara bildirin.
+Siteyi smeden önce, verilerini başka bir konuma taşımaları ve ayrıca kullanıcılara sitelerin ne zaman silineceklerini bildirmeleri için site yöneticilerine ve alt site sahiplerine bunu bildirebilirsiniz.
 
-Daha fazla bilgi için bkz [.](https://docs.microsoft.com/sharepoint/delete-site-collection)
+Daha fazla bilgi için [bkz. Site silme.](https://docs.microsoft.com/sharepoint/delete-site-collection)

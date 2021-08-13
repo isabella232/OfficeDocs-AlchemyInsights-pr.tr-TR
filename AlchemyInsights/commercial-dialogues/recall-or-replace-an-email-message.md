@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 46e491c51cdceaf8b46e97fbec2754f94d7ee66e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b1a5ca296c62956ef0a8a95ed8ea9c967d268bcedb9cd5122b39a9678ba1f152
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750077"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967209"
 ---
 # <a name="recall-or-replace-email-message"></a>E-posta iletisi geri çekme veya değiştirme
 
-Yalnızca kuruluşta adreslerine gönderilen iletileri geri çekme veya değiştirme. Örneğin Gmail adresine gönderilen iletiler geri çağrılana kadar geri çağrılmaz.
+Yalnızca kuruluşun adreslerine gönderilen iletileri geri çağırabilirsiniz veya değiştirebilirsiniz. Örneğin, Gmail adresine gönderilen iletiler geri çağrılanamaz.
 
-1. Outlook penceresinin sol klasör bölmesinde Gönderilmiş Öğeler **klasörünü** seçin.
-2. Geri çağırmak istediğiniz iletiyi açın. İletiyi açmak için çift tıklamanız gerekir. İletiyi okuma bölmesinde görüntülendiğinden seçmek iletiyi geri çekmeniz için izin vermez.
-3. İleti **sekmesinde, Bu** İletiyi Geri Çekme   >  **Eylemleri'ne tıklayın.**
-4. Bu  **iletinin okunmamış kopyalarını sil'e veya** Okunmamış kopyaları sil'e tıklayın ve yeni iletiyle değiştirin ve Tamam'a **tıklayın.**
+1. Yeni Klasör penceresinin sol klasör Outlook Gönderilmiş Öğeler **klasörünü** seçin.
+2. Geri çağırmak istediğiniz iletiyi açın. İletiyi açmak için çift tıklamanız gerekir. İletinin okuma bölmesinde iletiyi geri çekmesine izin vermez.
+3. İleti **sekmesinde, Bu** İletiyi Geri **Çekme Eylemleri**  >  **öğesini seçin.**
+4. Bu **iletinin okunmamış kopyalarını sil'e veya Okunmamış** kopyaları sil ve yerine yeni bir ileti **ekle'ye** tıklayın ve sonra da Tamam'a **tıklayın.**
 5. Yeni bir ileti gönderiyorsanız, iletiyi yazın ve Gönder'e **tıklayın.**
-6. İleti geri çekmenin başarılı veya başarısızlığı, alıcıların Outlook'ta ayarlarına bağlıdır. Geri çağırmayı denetleme adımları için bu [makaleye bakın.](https://support.office.com/article/recall-or-replace-an-email-message-that-you-sent-35027f88-d655-4554-b4f8-6c0729a723a0#tocheck)
+6. Bir geri çağırmanın başarılı veya başarısızlığı alıcının geri çekme ayarlarına Outlook. Geri çekme adımlarını denetleme adımları için [bu makaleye bakın.](https://support.office.com/article/recall-or-replace-an-email-message-that-you-sent-35027f88-d655-4554-b4f8-6c0729a723a0#tocheck)

@@ -1,5 +1,5 @@
 ---
-title: OneDrive ve. pst dosyaları
+title: OneDrive .pst dosyalarınız
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6002"
 - "9003081"
-ms.openlocfilehash: 16dfc5b39be7967a6de7967edee28bc7f08d216b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: de6de2c7483280143b8bed51d0af1048d39137a5c72a22c09131d32326b8e447
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673265"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984877"
 ---
-# <a name="onedrive-and-pst-files"></a>OneDrive ve. pst dosyaları 
+# <a name="onedrive-and-pst-files"></a>OneDrive .pst dosyalarınız 
 
-OneDrive, Outlook. pst dosyalarını destekler, ancak ağ trafiğini azaltmak için diğer dosya türleriyle karşılaştırıldığında daha azdır. OneDrive eşitleme uygulamasının. pst dosyalarını yüklemesini engellemek için [belirli dosya türlerinin eşitlenmesini engelleyin](https://docs.microsoft.com/onedrive/block-file-types). 
+OneDrive .pst Outlook destekler, ancak diğer dosya türlerine göre daha az eşitlenen bu dosyalar, ağ trafiğini azaltır. OneDrive eşitleme uygulamasının .pst dosyalarını karşıya yüklemesini engellemek için [bkz. Belirli dosya türlerinin eşitlerini engelleme](https://docs.microsoft.com/onedrive/block-file-types). 
 
-. Pst dosyalarını OneDrive 'dan taşımak için, [OneDrive 'dan bir Outlook. pst veri dosyasını nasıl kaldıracağınız](https://support.microsoft.com/office/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e)bölümüne bakın. 
+.pst dosyalarını dosyanın başka OneDrive için bkz. [Outlook.pst veri dosyasını OneDrive.](https://support.microsoft.com/office/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) 
 
-Kullanıcılar, Grup ilkesi olmadan BILGISAYAR klasörü yedeklemesini el ile etkinleştirse, bilinen klasörlerinden birinde. pst dosyası varsa bir hata oluşur.
+Kullanıcılar grup ilkesi olmadan bilgisayar klasörü yedeklemesini el ile etkinleştirirse, bilinen klasörlerinden birinin .pst dosyası varsa hata oluşur.
 
-İş veya okul için OneDrive kullanıyorsanız, bazı dosya türleri kuruluş SharePoint site yöneticisi tarafından engellenmiş olabilir.
+İş veya OneDrive okul hesabı kullanıyorsanız, bazı dosya türleri kuruluş tarafından site SharePoint engellenmiş olabilir.
