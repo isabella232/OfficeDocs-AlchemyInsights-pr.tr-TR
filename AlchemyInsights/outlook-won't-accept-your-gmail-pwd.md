@@ -1,5 +1,5 @@
 ---
-title: Outlook Gmail parolanızı kabul etmez
+title: Outlook Gmail parolanızı kabul etmiyor
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 60e4f04fbf4cd2c3c2a21e6e18845ac6e93119d2
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: af07110d3b5231f25fad078cf7b71ef991600c345e1c057d8bfe1614d9570580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678758"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924681"
 ---
-# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook Gmail parolanızı kabul etmez
+# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook Gmail parolanızı kabul etmiyor
 
-İki öğeli kimlik doğrulamayı ve uygulama parolasını kullanmayı öneririz.
+İki faktörlü kimlik doğrulamasını açmanız ve bir uygulama parolası kullanmanız önerilir.
 
-İki öğeli kimlik doğrulamayı açmak ve uygulama parolası almak için aşağıdaki adımları kullanın.
+İki faktörlü kimlik doğrulamasını açmak ve uygulama parolası almak için aşağıdaki adımları kullanın.
 
-1. Tarayıcınızdan Gmail 'e gidin ve ekranın sağ üst köşesindeki **Google Apps** simgesine tıklayın.
-1. Sol tarafta **güvenlik**'e tıklayın.
-1. Google 'da oturum açma 'nın altında, **2 aşamalı doğrulama** **kapalıysa**, kapatmak için yanındaki seçeneğine tıklayın **>**  .  Aksi takdirde adım 4 ' e atlayın.
-1. İlk ekranda **devam**'ı tıklatın.
-1. İstenirse, Gmail parolanızı girin ve **İleri**'yi tıklatın.
-1. Telefon numaranızı girin ve doğrulama kodlarınızı metin iletisine veya telefon aramasına göre almak isteyip istemediğinizi seçin.
-1. **İleri**'ye tıklayın.
-1. Aldığınız kodu girin ve **İleri**'ye tıklayın.
-1. 2 aşamalı doğrulamayı ayarlamak için **Aç** 'ı tıklatın.
-1. **2 aşamalı doğrulama**'nın yanındaki ekranın en üstündeki sol oka tıklayarak önceki ekrana dönün.
-1. **>** **Uygulama parolaları** satırının sağ ucundaki öğesini seçin.
-1. Google şifrenizi girip **oturum aç**'a tıklayın. Sonraki ekranın en altında, açılan listelerden **posta** ve **Windows bilgisayarı** 'nı ve ardından **Oluştur**'u tıklatın.
+1. Tarayıcınızdan Gmail'e gidin ve **ekranın sağ** üst köşesindeki Google uygulamaları simgesine tıklayın.
+1. Sol tarafta Güvenlik 'e **tıklayın.**
+1. Google'da Oturum Açma **altında, 2 Aşamalı** Doğrulama **KAPALı** ise, açmak için **>** YANITLI'nın yanındaki **düğmesini tıklatın.**  Aksi takdirde, 4. adıma atlayabilirsiniz.
+1. İlk ekranda DEVAM'a **tıklayın.**
+1. İstendiğinde Gmail parolanızı girin ve SONRASI 'ya **tıklayın.**
+1. Telefon numaranızı girin ve doğrulama kodlarını kısa mesajla mı yoksa telefon çağrısıyla mı almak istediğinize karar verir.
+1. SONRASI **'ya tıklayın.**
+1. Alınan kodu girin ve SONRASI 'ya **tıklayın.**
+1. 2 **aşamalı** doğrulamayı tamamlamak için AÇ'a tıklayın.
+1. Ekranın üst kısmında, 2 Aşamalı Doğrulama'nın yanındaki sol oka tıklayarak **önceki ekrana geri dönebilirsiniz.**
+1. Uygulama **>** Parolaları çizgisinin sağ **en sağ tarafından öğesini** seçin.
+1. Google parolanızı girin ve Oturum **açma'ya tıklayın.** Sonraki ekranın en altında, açılan **listelerden** **Posta'ya Windows** Bilgisayar'a tıklayın ve sonra da Oluştur'a **tıklayın.**
 Google sizin için bir uygulama parolası görüntüler. 
-13. Bu parolayı kopyalayın (boşluklar olmadan) ve Outlook sizden parola sorduğunda bu parolayı girin.
+13. Bu parolayı kopyalayın (boşluksuz) ve istendiğinde Outlook parolayı girin.
 
-Ek bilgi için [Outlook-Outlook 'A Gmail hesabı ekleme konusuna bakın (Microsoft.com)](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081).
+Daha fazla bilgi için [bkz. Outlook - Gmail Outlook (microsoft.com).](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081)

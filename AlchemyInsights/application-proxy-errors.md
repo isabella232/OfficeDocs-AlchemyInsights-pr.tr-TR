@@ -1,5 +1,5 @@
 ---
-title: Uygulama Ara Sunucusu ile ilgili hataları giderme
+title: Uygulama Ara Sunucusu ile ilgili sorunları giderme
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "9686"
-ms.openlocfilehash: fe0bae35942af9925e8a5f90f966e204d7f84fd2
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: 2aa9d325be0d507c72dd615a05529e99711cff968264c474820625f8fcc65bdc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51038172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969847"
 ---
-# <a name="troubleshoot-errors-related-to-application-proxy"></a>Uygulama Ara Sunucusu ile ilgili hataları giderme
+# <a name="troubleshoot-errors-related-to-application-proxy"></a>Uygulama Ara Sunucusu ile ilgili sorunları giderme
 
-- Kerberos kurulumu ve yapılandırmasından gelen daha yaygın hatalar ve çözüm önerileri hakkında bilgi edinmek için Bkz. Uygulama Ara Sunucusu sorunlarını ve [hata iletilerini giderme.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-troubleshoot#kerberos-errors)
-- Uygulama Ara Sunucusu 404 hataları için uygulama sayfasının Uygulama Ara Sunucusu uygulaması ayarları [için düzgün görüntülenme | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-appearance-broken-problem).
-- Azure Active Directory'de (Azure AD) çok sayıda şirket içi uygulamanın yapılandırılması, hızla kolay bir şekilde kontrol edilemez hale olabilir ve birçoğu aynı ayarlara ihtiyaç gösterirse yapılandırma hataları için gereksiz risklere neden olabilir. [Azure AD Uygulama Ara Sunucusu ile,](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy)bir kerede birçok uygulamayı yayımlamak ve yönetmek için joker uygulama yayımlama kullanarak bu sorunu yönetebilirsiniz. Daha fazla bilgi için [Azure AD Application Proxy'sinde joker | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-wildcard).
+- Kerberos kurulumu ve yapılandırmasından gelen daha yaygın hatalar ve çözüm önerileri hakkında bilgi edinmek için bkz. Uygulama Ara Sunucusu sorunlarını [ve hata iletilerini giderme.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-troubleshoot#kerberos-errors)
+- Uygulama Proxy 404 hataları için bkz. Uygulama sayfası Uygulama Ara Sunucusu uygulaması [ayarları için | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-appearance-broken-problem).
+- Azure Active Directory(Azure AD) içinde, çok fazla sayıda şirket içi uygulama yapılandırılamaz hale kolayca ayarlanabilir ve birçoğu aynı ayarlara gereksinse yapılandırma hataları için gereksiz riskler ortaya atabilir. [Azure AD Uygulama Ara Sunucusu](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy)ile, bir kerede birçok uygulamayı yayımlamak ve yönetmek için joker karakterli uygulama yayımlama kullanarak bu sorunu yönetebilirsiniz. Daha fazla bilgi için bkz. Azure AD Uygulama Ara [Sunucusu'| Microsoft Docs](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-wildcard).

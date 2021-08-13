@@ -1,5 +1,5 @@
 ---
-title: Web üzerinde Outlook 'ta POP, IMAP ve SMTP ayarları
+title: Pop, IMAP ve SMTP Web üzerinde Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,23 +10,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: a3f717754a5ebe5c73624553521241d57b38a7da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2932a7cf3c6681e00455f8292716b46d911010a4d2c84d519f90b2ffa971b35f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759203"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960999"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>Web üzerinde Outlook için POP, IMAP & SMTP ayarları
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP, IMAP & SMTP ayarlarını Web üzerinde Outlook
 
-Microsoft 365 hesabınızı POP, IMAP veya SMTP 'yi destekleyen başka bir posta uygulamasına eklemek istiyorsanız, ihtiyacınız olan el ile sunucu ayarları şunlardır:
+E-posta Microsoft 365 POP, IMAP veya SMTP desteği olan başka bir posta uygulamasına eklemek için, size gereken el ile sunucu ayarları şöyledir:
   
-- **IMAP sunucu adı:** Outlook.office365.com
+- **IMAP sunucusu adı:** outlook.office365.com
 - **IMAP bağlantı noktası:** 993
 - **IMAP şifreleme yöntemi:** SSL/TLS
-- **POP sunucusu adı:** Outlook.office365.com  
-- **Pop bağlantı noktası:** 995  
+- **POP sunucusu adı:** outlook.office365.com  
+- **POP bağlantı noktası:** 995  
 - **POP şifreleme yöntemi:** SSL/TLS  
-- **SMTP sunucusu adı:** SMTP.office365.com
+- **SMTP sunucu adı:** smtp.office365.com
 - **SMTP bağlantı noktası:** 587
 - **SMTP şifreleme yöntemi:** STARTTLS

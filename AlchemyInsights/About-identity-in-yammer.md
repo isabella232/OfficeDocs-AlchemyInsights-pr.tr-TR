@@ -1,5 +1,5 @@
 ---
-title: Yammer 'daki kimlik hakkında
+title: Yammer'de kimlik hakkında
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6039"
 - "9003111"
-ms.openlocfilehash: f417117acac4c3040932fc0a35e5d0b1c3709cd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 57e7e6328747fc05b89799d631b2c6d7e0056547253aa3d75cdecb38cea3ad7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918957"
 ---
-# <a name="about-identity-in-yammer"></a>Yammer 'daki kimlik hakkında
+# <a name="about-identity-in-yammer"></a>Yammer'de kimlik hakkında
 
-Tüm ağların, kimlikte ilgili sorunlardan kaçınmak için aşağıdaki adımları kullanmaları önerilir:
+Tüm ağların kimlikle ilgili sorunlardan kaçınmak için aşağıdaki adımları atması önerilir:
 
-1. Azure AD 'deki kullanıcılar için Microsoft 365 hesapları hazırladıktan sonra, tüm kullanıcıların birincil Microsoft 365 hesabını kullanarak oturum açmasını sağlamak için Office 365 kimliği 'ni zorlayın. Daha fazla bilgi için [Yammer kullanıcıları Için Office 365 kimlik](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity)konusuna bakın.
-2. Birden çok Yammer ağını birleştirin. Eski Yammer yapılandırmaları birden çok Yammer ağına tek bir kiracıya bağlanmasına olanak verir. Daha fazla bilgi için bkz: [ağ geçişi-birden çok Yammer ağını birleştirme](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
-3. İsteğe bağlı olarak, Yammer lisansı yoksa kullanıcıların Yammer 'ı engellemesine gerek vardır. Daha fazla bilgi için [Office 365 'Da Yammer kullanıcı lisanslarını yönetme](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)konusuna bakın.
-4. Son olarak, eski Yammer ağlarının Kullanıcı listesini denetleyin ve eski kullanıcıları askıya alın. Silme işlemi geri alınamaz olduğundan kullanıcıları silmek yerine askıya almanız (devre dışı bırakmanız) tavsiye edilir. Daha fazla bilgi için, [Office 365 'e bağlı ağlardaki Yammer kullanıcılarını denetleme](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365) ve [kullanıcıları kaldırma](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users)konusuna bakın.
+1. Tüm Office 365 hesap kullanarak oturum Microsoft 365 emin olmak için Azure AD'de kullanıcılara hesap sağlamanın ardından kimlik doğrulama Microsoft 365 zorlar. Daha fazla bilgi için [bkz. Office 365 kullanıcıların kimliklerini zorunlu Yammer .](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity)
+2. Birden çok Yammer birleştirin. Eski Yammer yapılandırmaları birden çok Yammer ağının tek bir kiracıya bağlanmasına izin verir. Daha fazla bilgi için [bkz. Ağ geçişi - Birden fazla Yammer birleştirme.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
+3. İsteğe bağlı olarak, Yammer lisansına sahip Yammer kullanıcı lisansları yoksa oturumlarını engellemek için Lisans lisanslarını zorunlu kılın. Daha fazla bilgi için [bkz. Yammer lisanslarını Office 365.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
+4. Son olarak, eski ağlarda kullanıcı listesini Yammer eski kullanıcıları askıya alın. Silme işlemi geri alınamaz olduğundan kullanıcıları silmek yerine askıya almanız (devre dışı bırakmanız) önerilir. Daha fazla bilgi için [bkz. Yammer ağlara bağlı ağlarda kullanıcıları denetleme Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365) [Kullanıcıları kaldırma](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users).
 
-Yammer 'ı bu adımları kullanarak yapılandırarak, Yammer ağınızı Microsoft 365 için doğal mod için yapılandırmaya de hazırsınız. Daha fazla bilgi için [Yammer ağınızı Microsoft 365 Için yerel mod Için yapılandırma](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode)bölümüne bakın.
+Bu adımları Yammer ayarları yapılandırarak, Yammer için Yerel Mod için Microsoft 365'i yapılandırmaya Microsoft 365. Daha fazla bilgi için [bkz. Yammer için Yerel Mod için Yerel Modu Microsoft 365.](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode)

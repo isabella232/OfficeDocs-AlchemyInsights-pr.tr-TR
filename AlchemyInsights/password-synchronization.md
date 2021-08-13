@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8619"
-ms.openlocfilehash: 601649f6e5212ca03df5fcc32cd1d02c133e9170
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 3cdde086e535d2397b4d1a8a66903121a5217015ca055fb9f8d025b0842f044b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50483087"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960855"
 ---
 # <a name="password-synchronization"></a>Parola eşitleme
 
 **Parola Karma Eşitlemesi hiç çalışmıyor**
 
-Parola Karması Eşitlemesi çalışmaması sırasında müşterilerin sık karşılaştığı bazı sorunlar:
+Parola Karma Eşitlemesi çalışmaması sırasında müşterilerin sık karşılaştığı bazı sorunlar:
 
-- Şirket içi Active Directory ile iletişim kurmak için Azure AD Connect  tarafından kullanılan  Active Directory hesabına Dizin Değişikliklerini Çoğalt ve Dizin Değişikliklerini Çoğalt (parola eşitlemesi için gerekli olan tüm izinler) verilmmektedir. Bu izinleri Active Directory hesabına vererek bunu düzeltmeniz gerekir.
-- Yönetici, Kullanıcı Sign-In yöntemini Parola Eşitlemesi'nden  Azure AD Connect sihirbazında **AD FS** ile Federasyon gibi başka bir seçenenle  değiştirdikten sonra parola karması eşitlemesi devre dışı bırakılır. Azure AD Connect sihirbazında parola karması eşitleme özelliğini yeniden etkinleştirerek bunu düzeltebilirsiniz.
-- Şirket içi Active Directory ile bağlantı sorunu. Örneğin, bazı etki alanı denetleyicilerine Azure AD Connect [](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) tarafından erişilemiyor veya gereken bağlantı noktaları Güvenlik Duvarı tarafından engellenmiş durumdadır. Azure AD Connect sunucusuyla şirket içi Active Directory arasındaki bağlantının doğru şekilde çalışmalarından emin olarak bu sorunu çözmeniz gerekir.
-- Azure AD Connect sunucusu şu anda hazırlama modundadır ve bu da sunucunun parola karmalarını alamamasıdır - Sorunu gidermek için, Azure AD Connect eşitlemesi ile parola eşitlemesi sorunlarını giderme bölümünde açıklanan adımları izleyin - Hiçbir parola [eşitlenmez.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
+- Azure AD Bağlan tarafından şirket içi Active Directory ile iletişim kurmak için kullanılan  Active Directory  hesabına Dizin Değişikliklerini Çoğalt ve Dizin Değişikliklerini Çoğalt Parola eşitlemesi için gerekli olan tüm izinler ; Active Directory hesabına bu izinleri vererek bunu çözmeniz gerekir.
+- Yönetici Kullanıcı Sign-In yöntemini Parola Eşitlemesi'nden Azure  AD Bağlan sihirbazında **AD FS** ile Federasyon gibi başka bir seçense değiştirdikten sonra parola  karması eşitlemesi devre dışı bırakılır - Azure AD Bağlan sihirbazında parola karması eşitleme özelliğini yeniden etkinleştirerek bunu düzeltebilirsiniz.
+- Şirket içi Active Directory ile ilgili bağlantı sorunu. Örneğin, bazı etki alanı denetleyicilerine Azure AD Bağlan tarafından [](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) erişilemez veya gerekli bağlantı noktaları Güvenlik Duvarı tarafından engellenir - Azure AD Bağlan sunucusuyla şirket içi Active Directory arasındaki bağlantının doğru şekilde çalışır durumda olduğundan emin olarak bunu düzeltmeniz gerekir.
+- Azure AD Bağlan sunucusu şu anda hazırlama modundadır ve bu da sunucunun parola karmaları arasında sorun gidermesine neden olur: Sorunu gidermek için [Azure AD Bağlan](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)eşitlemesi ile parola eşitlemesi sorunlarını giderme - Parola eşitlenmedi bölümünde açıklanan adımları izleyin.
 
 **Parola Karma Eşitlemesi bazı kullanıcılarım için çalışmıyor**
 
-1. Parola karması kullanıcı için eşitlenemezse, sorunu  araştırmak ve çözmek için Azure AD Connect'te sorun giderme görevini kullanın. Aşağıdaki görevleri gerçekleştirin:
+1. Parola karmanın bir kullanıcı için eşitlene olmadığını  fark ettiyseniz, sorunu araştırmak ve çözmek için Azure AD Bağlan sorun giderme görevini kullanın. Aşağıdaki görevleri gerçekleştirin:
 
     a. [Sihirbazda sorun giderme görevini çalıştırma](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-objectsync)
 
     b. [Belirli bir kullanım için parola karması eşitleme sorunlarını araştırmak üzere sorun giderme cmdlet'ini kullanın](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
-2. Kullanıcı için şirket içi Active Directory Kullanıcı nesnesi etkinleştirildiğinde, **sonraki oturum açma seçeneğinde parolayı değiştirmesi** gerekir. Bu seçenek etkinleştirildiğinde, kullanıcıya geçici bir parola atanır ve bir sonraki oturum açma sırasında parolayı değiştirmesi istenir. Azure AD Connect, Geçici parolaları Azure AD'ye eşitlemez.
+2. Kullanıcı için şirket içi Active Directory Kullanıcı nesnesi etkinleştirildiğinde, **bir sonraki oturum açma seçeneğinde parolayı değiştirmesi** gerekir. Bu seçenek etkinleştirildiğinde, kullanıcıya geçici bir parola atanır ve bir sonraki oturum açma sırasında kullanıcıdan parolayı değiştirmesi istenir. Azure AD Bağlan, geçici parolaları Azure AD'ye eşitlemez.
 
-Yukarıdaki sorunu çözmek için, aşağıdaki görevlerden birini gerçekleştirin:
+Yukarıdaki sorunu çözmek için, aşağıdaki görevlerden birini yapın:
 
-- Kullanıcıdan şirket içi uygulamada (örneğin, Windows Masaüstü) oturum açmasını ve parolayı değiştirmesini iste. Yeni parola Azure AD ile eşitlenir.
-- Yöneticinin, Kullanıcı'nın bir sonraki oturum açma sırasında parolasını değiştirmesi ve yeni parolayı kullanıcıyla paylaşması seçeneğini etkinleştirmeden kullanıcının parolasını güncelleştirmesini sağlamak.
+- Kullanıcıdan şirket içi uygulamada oturum açmasını (örneğin, Masaüstü Windows) ve parolayı değiştirmesini iste. Yeni parola Azure AD'ye eşitlenir.
+- Yöneticinin, Kullanıcı sonraki oturum açma sırasında parolayı değiştirmesi ve yeni parolayı kullanıcıyla paylaşması seçeneğini etkinleştirmeden kullanıcının parolasını güncelleştirmesini sağlar.
 
-3. Şirket içi Active Directory Kullanıcı nesnesi nesne **eşitlemesi veya** parola eşitlemesi için doğru yapılandırılmamış. Bu sorunu gidermek için, Azure AD Connect eşitlemesi ile Parola karma eşitlemesi [sorunlarını giderme konusunda açıklanan adımları izleyin.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
+3. Şirket içi Active Directory Kullanıcı nesnesi, nesne **eşitlemesi veya parola eşitlemesi** için doğru yapılandırılmamış. Bu sorunu gidermek için, Azure AD ile parola karması eşitlemesi sorunlarını giderme [makalesinde açıklanan Bağlan izleyin.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
 
 
