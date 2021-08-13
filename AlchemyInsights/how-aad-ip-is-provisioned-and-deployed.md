@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory kimlik koruması sağlanıyor ve dağıtıldı
+title: Kimlik Azure Active Directory nasıl sağlandı ve dağıtıldı
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: d248a57e99177f4a11a5640d90bb15a0a7f5a3ee
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 4d639525fa170ef1a501d4683c49fd50dad0c9b401b3ade1635d11e783524237
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714907"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927885"
 ---
-# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Azure Active Directory kimlik koruması nasıl sağlanır ve dağıtılır?
+# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Kimlik Azure Active Directory nasıl sağlandı ve dağıtıldı?
 
-Varsayılan olarak, kiracı içindeki tüm kullanıcılar için Azure Active Directory kimlik koruması özellikleri kiracı düzeyinde etkinleştirilir.
+Varsayılan olarak, Kimlik Azure Active Directory özellikleri kiracı içindeki tüm kullanıcılar için kiracı düzeyinde etkinleştirilir.
 
-Daha fazla bilgi edinmek için [Azure Active Directory kimlik koruması nedir?](https://go.microsoft.com/fwlink/?linkid=2130395)
+Daha fazla bilgi edinmek için [Bkz. Kimlik Azure Active Directory nedir?](https://go.microsoft.com/fwlink/?linkid=2130395)

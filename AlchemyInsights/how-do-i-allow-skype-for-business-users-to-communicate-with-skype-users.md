@@ -1,5 +1,5 @@
 ---
-title: Skype Kurumsal kullanıcılarının Skype kullanıcıleriyle iletişim kurmasına nasıl izin ve yapabilirim?
+title: Kullanıcıların başka kullanıcılarla Skype Kurumsal izin ve Skype sağlarm
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: e43ecf3af5311c6361b058918a4260c2cf8ef1be
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f7eea73c49fec268c2bf2a44d0001cc4603fcd6331e5de0626862389f7cc04d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811332"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927741"
 ---
-# <a name="let-skype-for-business-users-add-skype-contacts"></a>Skype Kurumsal kullanıcılarının Skype kişileri eklemesine izin verme
+# <a name="let-skype-for-business-users-add-skype-contacts"></a>Kullanıcıların Skype Kurumsal kişi eklemesine Skype verme
 
-Skype Kurumsal ile kullanıcılarınız ücretsiz uygulama olan Skype kullanan herkesi arayabilir ve bu kullanıcılarla anlık çağrılar yapın! Bu makalede, Skype kişilerini eklemeleri için neler yapmak istediğiniz açıklanmıştır.
+Uygulama Skype Kurumsal, kullanıcılarınız ücretsiz uygulama olan Skype'i kullanan herkesi arayabilir ve bu kullanıcılarla IM!! Bu makalede, kişilerin kişi eklemesi için ne Skype açıklanmıştır.
 
-[Skype Kurumsal kullanıcılarının Skype kişileri eklemesine izin verme](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+[Kullanıcıların Skype Kurumsal kişi eklemesine Skype verme](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)

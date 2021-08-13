@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7780"
-ms.openlocfilehash: 75e7b57d279e508971f3a846c2ad3ede927e9c2f
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: d21f6ee8206c9bf0f02dbe147333b9d714aa43895812888e28d564e37f56dca1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901574"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969631"
 ---
 # <a name="application-registration"></a>Uygulama kaydı
 
-1. [Bir uygulamayı Azure Active Directory Ile kaydettirme](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory): Bu öğretici, Power Apps kullanıcı hesabının, Power Apps kullanıcı hesabının Microsoft veri dizesi ortamına OAuth kimlik doğrulamasını kullanarak dış istemci uygulamalarından bağlanmasını sağlayan Azure Active Directory ile bir uygulamayı nasıl kaydedeceğinizi açıklar.
-1. [Microsoft Identity platform ile uygulama kaydettirme](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app): Bu hızlı başlangıç bölümünde, Microsoft Identity platformunun uygulamanız ve kullanıcıları için kimlik doğrulama ve yetkilendirme hizmetleri sağlayabilmesi için bir uygulamayı Azure portalında kaydedersiniz.
+1. [Bir uygulamayı Azure Active Directory](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory)ile kaydetme: Bu öğreticide, Power Apps kullanıcı hesabına sahip bir kullanıcının OAuth kimlik doğrulaması kullanarak dış istemci uygulamalarından Microsoft Dataverse ortamına bağlanmasına olanak sağlayan Azure Active Directory ile uygulamanın nasıl kayded olduğu açıkmaktadır.
+1. [Uygulamayı şu portala Microsoft kimlik platformu:](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app)Bu hızlı başlangıç olarak, Microsoft kimlik platformu uygulamasının uygulamanız ve kullanıcılarınız için kimlik doğrulama ve yetkilendirme hizmetleri sağlaysini sağlamak için Azure portalında bir uygulamayı kaydettirebilirsiniz.

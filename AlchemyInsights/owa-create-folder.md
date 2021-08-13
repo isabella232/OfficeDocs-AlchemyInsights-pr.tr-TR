@@ -1,5 +1,5 @@
 ---
-title: Web üzerinde Outlook 'ta klasör oluşturma
+title: Dosya'da klasör Web üzerinde Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000009"
 - "1994"
-ms.openlocfilehash: 85762dad63607ff9e141d275266233687d7bdad2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 214f563f51d7e5d73145decb67a77e1cad201ab05098874145691e42b94c65e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671212"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961251"
 ---
 # <a name="create-a-folder"></a>Klasör oluşturma
 
-1. Web üzerinde Outlook 'ta klasör bölmesinin alt kısmında **Yeni klasör**'ü seçin. **Yeni klasör** düğmesini görmek için klasör bölmesinde aşağı doğru gitmeniz gerekebilir.
-1. Metin kutusuna, klasör için bir ad girin ve ENTER tuşuna basın.
+1. Yeni klasör'de klasör bölmesinin en Web üzerinde Outlook öğesini **seçin.** Yeni klasör düğmesini görmek için klasör bölmesinde aşağı **kaydırmanız** gerekiyor olabilir.
+1. Metin kutusuna klasör için bir ad girin ve Enter tuşuna basın.
 
-Daha fazla bilgi edinmek için [Web üzerinde Outlook 'ta ileti klasörleriyle çalışma](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)konusuna bakın.
+Daha fazla bilgi edinmek için [bkz. Web üzerinde Outlook'da ileti klasörleriyle Web üzerinde Outlook.](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)
