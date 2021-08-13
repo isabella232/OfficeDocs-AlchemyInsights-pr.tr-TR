@@ -1,5 +1,5 @@
 ---
-title: E-posta profillerini Intune ile kullanma
+title: Intune ile e-posta profillerini kullanma
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: 92d91de5d369eb9d0ffde2580b75376035a6945b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: b1653b73e7296e7eed411ae73c19342a1187b2eb7e287cff4339ea0ca32d75c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919443"
 ---
-# <a name="using-email-profiles-with-intune"></a>E-posta profillerini Intune ile kullanma
+# <a name="using-email-profiles-with-intune"></a>Intune ile e-posta profillerini kullanma
 
 Intune, birden çok cihaz platformunda yerel (yerleşik) e-posta istemcisi için e-posta profilleri oluşturmak ve dağıtmak için kullanılabilir.
 
-Var olan profillerin nasıl işlendiği ve e-posta profillerinin nasıl kaldırılacağı dahil olmak üzere e-posta profilleriyle ilişkilendirilmiş kısıtlamaların bazıları hakkında bilgi için, [Intune kullanarak aygıtlara e-posta ayarları ekleme](https://docs.microsoft.com/intune/email-settings-configure)konusuna bakın.
+Mevcut profillerin iletişim durumu ve e-posta profillerinin nasıl kaldırılası dahil olmak üzere e-posta profilleriyle ilişkili kısıtlamaların bazıları hakkında bilgi için bkz. [Intune](https://docs.microsoft.com/intune/email-settings-configure)kullanarak cihazlara e-posta ayarları ekleme.
 
-Her cihaz platformu için e-posta profili oluşturma hakkında daha fazla bilgi için bkz:
+Her cihaz platformu için e-posta profilleri oluşturma hakkında daha fazla bilgi için bkz:
 
-[Intune 'da e-postayı, kimlik doğrulamayı ve eşitlemeyi yapılandırmak için Android cihaz ayarları](https://docs.microsoft.com/intune/email-settings-android)  
-[Microsoft Intune 'da iOS ve ıpados cihazları için e-posta ayarları ekleme](https://docs.microsoft.com/intune/email-settings-ios)  
-[Windows Phone 8,1 çalıştıran cihazlarda Microsoft Intune 'da e-posta profili ayarları](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
-[Microsoft Intune 'da Windows 10 çalıştıran cihazların e-posta profili ayarları](https://docs.microsoft.com/intune/email-settings-windows-10)
+[Intune'da e-postayı, kimlik doğrulamayı ve eşitlemeyi yapılandırmak için Android cihaz ayarları](https://docs.microsoft.com/intune/email-settings-android)  
+[Microsoft Intune'te iOS ve iPadOS cihazları için e-posta ayarları ekleme](https://docs.microsoft.com/intune/email-settings-ios)  
+[Microsoft Intune 8.1 çalıştıran cihazlar için Windows Phone-posta profili ayarları](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
+[E-posta ile çalışan cihazlar için Windows 10 profil Microsoft Intune](https://docs.microsoft.com/intune/email-settings-windows-10)
 
 **Yaygın eşitleme sorunu**
 
-**Android e-posta profilinde bir KNOX Kullanıcı kişilerinin, takvimin ve görevlerinin Kullanıcı aygıtlarına eşitlenmesini engeller.**
+**Android e-posta profilinde KNOX, kullanıcının Kişiler, Takvim ve Görevler'in kullanıcı cihazlarıyla eşitlenesini önler.**
 
-Android KNOX e-posta profilinde KNOX her biri etkin olarak ayarlanarak hangi içerik türlerinin cihaza eşitleneceğini belirleme seçeneğini belirtin.
+Android KNOX e-posta profilinde KNOX, yöneticiye hangi içerik türlerinin cihazla eşitli olduğuna karar verme seçeneği sunar. Bunun için her biri etkin olmalıdır.
 
-İçerik türlerinden herhangi birinin ayarı **yapılandırılmazsa** (varsayılan olarak), bu içerik türü otomatik olarak eşitlenmez. Bir kullanıcı doğrudan cihazda doğrudan cihazda istedikleri içerik türünü etkinleştirebilir, ancak bu yapılandırmanın Intune ilke ayarı tarafından üzerine yazılır ve eşitleme bu içerik türü için durdurulur.
+İçerik türlerinden herhangi biri için ayar  Yapılandırılmadı (varsayılan) olarak ayarlanırsa, bu içerik türü otomatik olarak eşitlanmaz. Kullanıcı, doğrudan cihaz üzerinde kullanmak istediğiniz içerik türünü el ile etkinleştirebilir, ancak Intune ilke ayarı bu yapılandırmanın üzerine yazılır ve bu içerik türü için eşitleme durur.
 

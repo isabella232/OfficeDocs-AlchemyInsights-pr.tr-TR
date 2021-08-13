@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003034"
 - "5789"
-ms.openlocfilehash: 265db958b856bf06ac9344662070370e2be0a92c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 330d778f54567ada5a2408a4e6ca1984f4380e37948e98e9ccda7c3f1c8cb30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836407"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992896"
 ---
 # <a name="floor-plans"></a>Kat Planları
 
-Microsoft Arama kat **planları hakkında bilgi**  için aşağıdaki destek makalelerini gözden geçirebilirsiniz:
-- [Microsoft Arama kat planları için en iyi yöntemler](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
+Kat planları **Microsoft Arama** için aşağıdaki destek makalelerini gözden geçirebilirsiniz:
+- [Kat planları Microsoft Arama en iyi yöntemler](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
 - [Kat planlarını yönetme](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
-- **Visio'da** kat planı oluşturma hakkında bilgi için, Kat [planı oluşturma incelemesini gözden geçirme](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)
+- Visio'ta kat planı oluşturma **hakkında bilgi için,** Kat [planı oluşturma'Visio gözden geçirme](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)

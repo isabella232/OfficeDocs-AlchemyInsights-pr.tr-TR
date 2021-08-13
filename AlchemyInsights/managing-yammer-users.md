@@ -1,5 +1,5 @@
 ---
-title: Yammer Kullanıcılarını Yönetme
+title: Kullanıcı Yammer Yönetme
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,24 +12,24 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 8b0c44ffd3dd1a9f8f2a021299dc8d9ada200636
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: db84609e28283da902d4a299bbf1fe164b74366f3818510eba5f10d2ebbdf4f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992932"
 ---
-# <a name="managing-yammer-users"></a>Yammer kullanıcılarını yönetme
+# <a name="managing-yammer-users"></a>Kullanıcı Yammer yönetme
 
-1. Yammer kullanıcılarını Microsoft 365'te yönetme hakkında bilgi için, lütfen yaşam döngüleri boyunca [Yammer kullanıcılarını yönetme makalelerine bakın.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle) Bu, aşağıdaki ayrıntıları içerir:
+1. Kullanıcıların yaşam Yammer yönetme Microsoft 365 için lütfen bkz. Yammer [yaşam döngüleri boyunca kullanıcıları yönetme.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle) Bu, aşağıdaki ayrıntıları içerir:
 
   - Kullanıcı oluşturma
 
   - Kullanıcıları silme
 
-  - Yammer kullanıcılarını Microsoft 365'den yönetme
+  - Kullanıcıların Yammer yönetme Microsoft 365
 
-2. Kullanıcıları Yammer [yönetici konsolundan yönetme hakkında bilgi için](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) lütfen Yammer kullanıcılarını ekleme, engelleme veya kaldırma bilgilerine bakın. Bu şunları içerir:
+2. Kullanıcıları [yönetici konsolundan yönetme hakkında bilgi Yammer için](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) lütfen Kullanıcı ekleme, engelleme veya Yammer bakın. Bu şunları içerir:
 
   - Kullanıcıları davet etme veya kaldırma
 
@@ -37,4 +37,4 @@ ms.locfileid: "50704734"
 
   - Kullanıcı listesini dışarı aktarma
 
-3. Dış kullanıcıları ekleme, kaldırma ve yönetme hakkında bilgi için bkz. Yammer ağınıza [dış ileti katılımcıları ekleme.](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)
+3. Dış kullanıcıları ekleme, kaldırma ve yönetme hakkında bilgi için [bkz. Dış mesajlaşma katılımcılarını Yammer ekleme](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).

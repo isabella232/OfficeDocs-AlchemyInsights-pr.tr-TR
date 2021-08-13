@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge'i kullanmaya başlama
+title: Microsoft Edge'i kullanmaya Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "7280"
 - "10908"
 - "9006389"
-ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: cdac95f094b9791daa258b6480f72392828e09f3cf603a856446eda7cc6472d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692774"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992862"
 ---
-# <a name="start-using-microsoft-edge"></a>Microsoft Edge'i kullanmaya başlama
+# <a name="start-using-microsoft-edge"></a>Microsoft Edge'i kullanmaya Microsoft Edge
 
-Microsoft, web tarayıcısının yeni nesil olan yeni Microsoft Edge'i yayınlandı. Chromium açık kaynak temel temel üzerine kurulur ve SharePoint ve OneDrive gibi Microsoft ürünleriyle çalışacak şekilde en iyi duruma edilmiştir.
+Microsoft, web tarayıcısını Microsoft Edge olan yeni sürümü yayınlandı. Açık kaynak Chromium temel temel üzerine kurulur ve SharePoint ve OneDrive gibi Microsoft ürünleriyle çalışacak şekilde OneDrive.
 
-Google Chrome, Mozilla Firefox veya Safari ile ilgili sorunlar yaşıyorsanız Microsoft Edge'i öneririz.
+Google Chrome, Mozilla Firefox veya Safari ile ilgili sorunlar yaşıyorsanız, Microsoft Edge.
 
-Büyük bir kuruluşun yöneticisiyseniz, kullanmaya başlamanız için [Microsoft Edge kurulum kılavuzumızı](https://go.microsoft.com/fwlink/?linkid=2142423) kullanın.
+Büyük bir kuruluşun yöneticisiyseniz, kullanmaya Microsoft Edge [kurulum kılavuzumızı](https://go.microsoft.com/fwlink/?linkid=2142423) kullanın.
 
-Microsoft Edge'i tek tek tek tek indirmek için, Yeni [Microsoft Edge ile tanışma 'ya gidin.](https://go.microsoft.com/fwlink/?linkid=2141049)
+Yeni Microsoft Edge tek bir cihaza indirmek için Yeni uygulama [tanıtımı'Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2141049)

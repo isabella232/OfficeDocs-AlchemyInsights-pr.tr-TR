@@ -1,5 +1,5 @@
 ---
-title: Explorer ile aç düğmesi devre dışı
+title: Explorer ile Aç düğmesi devre dışı
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 4bfb877c52bab26eb3e43c95901857ef731d0bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff4d8a16cbb92aa36f165f9a6525ccba7dedff49ccc1805097206dbab43ce40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694692"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944619"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>Explorer ile aç düğmesi devre dışı
+# <a name="the-open-with-explorer-button-is-disabled"></a>Explorer ile Aç düğmesi devre dışı
 
-- Internet Explorer 10 veya Internet Explorer 11 ' de SharePoint veya OneDrive konumuna gidin. Düğme diğer Web tarayıcıları ile uyumlu değildir.
+- Internet Explorer 11'SharePoint veya OneDrive konum Internet Explorer 10 göz atabilirsiniz. Düğme diğer web tarayıcıları ile uyumlu değildir.
     
 > [!NOTE]
-> Bir kitaplığı dosya Gezgini 'nde açmak, birden çok dosya ve klasörü bir kez kopyalamanız veya taşımanız gerekiyorsa kullanışlıdır, ancak kitaplıkta düzenli olarak çalışmak istiyorsanız, eşitlemeyi öneririz. Daha fazla yardım için dosya Gezgini ['nde açma hakkında](https://go.microsoft.com/fwlink/?linkid=871665)daha fazla bilgi için bkz. Eşitlemeyi ayarlama hakkında bilgi için, [SharePoint dosyalarını yeni OneDrive eşitleme Istemcisiyle eşitleme](https://go.microsoft.com/fwlink/?linkid=871666)bölümüne bakın. 
+> Birden çok dosya ve klasörü bir kez kopyalamanız veya taşımanız gerekirse, Dosya Gezgini'nde bir kitaplığı açmak kullanışlıdır, ancak kitaplıkta düzenli olarak çalışmak için kitaplığı eşitlemenizi öneririz. Daha fazla yardım ve Dosya Gezgini'nde açmayla ilgili diğer sorunları gidermek için bkz. [Explorer'da Aç](https://go.microsoft.com/fwlink/?linkid=871665). Eşitlemeyi ayarlama hakkında daha fazla bilgi için [bkz. SharePoint dosyaları yeni OneDrive eşitleme istemciyle eşitleme](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

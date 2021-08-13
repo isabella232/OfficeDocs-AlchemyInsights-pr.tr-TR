@@ -1,5 +1,5 @@
 ---
-title: Bluetooth yazıcısını düzeltme
+title: Yazıcıyı Bluetooth düzeltme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "3483"
 - "9001214"
-ms.openlocfilehash: 26df4eca68b4e14bde56fc5015239ec0810beb0a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5f2ebf9b54814e47063a7b096ceb83db526f268b28f95bc251e31ac717fc6620
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928461"
 ---
-# <a name="fix-bluetooth-printer-connection-issues"></a>Bluetooth yazıcı bağlantı sorunlarını düzeltme
+# <a name="fix-bluetooth-printer-connection-issues"></a>Yazıcı Bluetooth sorunlarını düzeltme
 
-Bluetooth yazıcınızın yeniden çalışmaya devam etmek için şu sorun giderme adımlarını deneyin:
+Yazıcınızın yeniden çalışmaya Bluetooth için şu sorun giderme adımlarını deneyin:
 
 
-1. Bluetooth'un açık olduğundan emin olmak için kontrol edin:
-    1. Başlangıç **Ayarları**  >  **Cihazlar** Bluetooth  >  **&**  >  **diğer cihazlar 'ı seçin.**
-    2. Bluetooth iki durumlu düğmeyi **Açık olarak açın.**
-2. Bluetooth sorun gidericisini çalıştırın. <br>
-    **Başlat'ı** seçin, **sorun giderme ayarları** yazın ve ardından Sorun giderme ayarları **seçeneğini** belirtin. Menüden **Bluetooth'u** seçin ve **Sorun gidericiyi çalıştırın .**
+1. Onay kutusunu açık Bluetooth için kontrol edin:
+    1. Diğer **cihazlar için**  >    >  **Ayarlar'Bluetooth &'ı**  >  **seçin.**
+    2. Düğmeyi Bluetooth açık olarak **değiştir.**
+2. Sorun gidericiyi Bluetooth çalıştırın. <br>
+    **Başlat'ı** seçin, **sorun giderme ayarları** yazın ve ardından Sorun giderme ayarları **seçeneğini** belirtin. Menüden **Bluetooth** Sorun gidericiyi **çalıştırın öğesini seçin.**
 
-Bu işe yaramadı mı, Bluetooth yazıcınızı kaldırıp yeniden yüklemeyi deneyin:
+Bu işe yaramadı mı? Yazıcınızı kaldırıp yeniden Bluetooth deneyin:
 
-1. Ayarlar'da yazıcıyı kaldırın:
-    1. Başlangıç **Ayarları**  >  **Cihazlar**  >    >  **Yazıcılar ve tarayıcılar & seçin.**
+1. Yazıcıyı şu Ayarlar:
+    1. Cihaz   >  **Yazıcıları Ayarlar**  >    >  **tarayıcıları başlat'& seçin.**
     2. Tarayıcıları **ve & altında,** sorun gidermeye devam etmek istediğiniz yazıcıyı seçin. Cihazı **kaldır'ı seçin.** Yazıcıyı tam olarak kaldırmak için yönergeleri izleyin.
 2. Herhangi bir üçüncü taraf yazıcı üreticisi yazılımını kaldırın:
-    1. Başlangıç **Ayarları**  >  **Uygulamaları'ı**  >  **seçin.**
+    1. Uygulama   >  **Başlat'Ayarlar**  >  **seçin.**
     2. Uygulamalar **ve & altında,** ekranı kaydırarak yazıcınızın üreticisinden (HP, Kural veya Epson gibi) yüklü yazılımları bulun.
 3. Yazıcınızı kapatıp yeniden başlatın.
    1. Yazıcınızı kapatıp güç kablosunu çıkarın. 30 saniye bekleyin. 
    2. Yazıcınızın güç kablosunu yeniden takıp yazıcıyı açın.
-4. Ayarlar'da yazıcınızı yeniden yükleyin:
-    1. Başlangıç **Ayarları**  >  **Cihazlar**  >    >  **Yazıcılar ve tarayıcılar & seçin.**
+4. Yazıcınızı şu sürücüye yeniden Ayarlar:
+    1. Cihaz   >  **Yazıcıları Ayarlar**  >    >  **tarayıcıları başlat'& seçin.**
     2. Ekranın en **üstünde Yazıcı veya tarayıcı** ekle bağlantısını seçin ve yazıcınızı yeniden yüklemek için yönergeleri izleyin.
