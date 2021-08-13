@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 34603d90799951a8b567f75036370aa25a33ab2e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 955c381d59b85150979efd1177d3f75802726bcfa7550cafee7eb0fb8e7381d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811152"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927237"
 ---
 # <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Outlook kişilerimi iOS kişiler uygulamama nasıl kaydedebilirim?
 
-Outlook kişilerini yerel adres defterinize kaydetmek için:
+Bir Outlook yerel adres defterinize kaydetmek için:
  
-1. Cihaz Ayarları **Kişileri'ne**  >   gidin ve Varsayılan **Hesabın** iCloud olarak **ayar olduğunu onaylayın.** Bu ayarın yalnızca cihazınıza birden fazla hesap eklenmişse kullanılabilir olduğunu unutmayın. Cihaza bağlı hesap yoksa, Outlook kişileriniz yerel olarak kaydedilir, ancak diğer cihazlarla eşitlanmaz.
+1. Cihaz Ayarları **Ayarlar**  >  **gidin ve** Varsayılan  Hesabın iCloud olarak ayar **olduğunu onaylayın.** Bu ayarın yalnızca cihazınıza birden fazla hesap eklenmişse kullanılabilir olduğunu unutmayın. Cihaza bağlı hesap yoksa, Outlook kişileriniz yerel olarak kaydedilir, ancak diğer cihazlarla eşitlanmaz.
  
-2. iOS için Outlook'u açın ve sol gezinti bölmesinde Ayarlar dişlilerini seçin, Hesap seçin öğesini seçin ve Kişileri Kaydet **iki durumlu** düğmeyi Açık olarak değiştirin.
+2. iOS Outlook'i açın ve sol gezinti bölmesinde Ayarlar dişliyi seçin, Hesap seçin öğesini seçin ve Kişileri Kaydet iki durumlu **düğmeyi** AÇıK olarak açın.
  
 Kaydedilen kişiler, iCloud hesabınızla ilgili kişilerin altına eklenir. Bu kişiler, aynı iCloud hesabıyla oturumlenen tüm cihazlarla eşitlenir. Kişileri bir defada yalnızca bir cihazdan dışarı aktarabilirsiniz.
  
-Bir kullanıcının kişi dışarı aktarması açıksa, çakışmaları önlemek için hem iPad'in hem de iPhone'un devre dışı bırakılması gerekir. Yinelemelerin karşılıklı olarak uzlaştırması 24 saat sürebilir.
+Kullanıcının kişi dışarı aktarması açıksa, çakışmaları önlemek iPad kişi iPhone kişi dışarı aktarma devre dışı bırakılmalıdır. Yinelemelerin karşılıklı olarak uzlaştırması 24 saat sürebilir.

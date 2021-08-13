@@ -1,5 +1,5 @@
 ---
-title: Skype Toplantısı Yayını'nda nasıl ayarlama yapabilirim?
+title: Skype Toplantısı Yayın'Skype Toplantısı kur
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1d59207826ac284d9c95248003126b8d5a319fa9b4fa49e1c6a451558989b8cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811044"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927093"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Skype Toplantısı Yayını başlat veya bir Skype Toplantısı Yayınına katılasınız mı?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Bir yayında başlat veya bir Skype Toplantısı değil misiniz?
 
-Bir Skype Toplantısı Yayınına Etkinlik Ekibi Üyesi (Toplantı yapımcısı) olarak katılmada veya bu toplantıya katılmada sorun girerseniz, yapılandırmanızı bir kez daha kontrol edin. Skype Toplantısı Yayını için bazı el ile kurulum adımları gerekir. Ağ ve Skype Kurumsal Çevrimiçi Sürüm portalının doğru yapılandırıldığından ve etkilenen kullanıcının çakışan bir lisansla engellenmiş olmasını sağlamak için bu makaledeki adımları izleyin:
+Bir Etkinlik Ekibi Üyesi (Toplantı yapımcısı) olarak Skype Toplantısı başlatma veya toplantıya katılma konusunda sorun girerseniz, yapılandırmanızı bir kez daha kontrol edin. Skype Toplantısı Yayın için bazı el ile kurulum adımları gerekir. Ağ ve Skype Kurumsal Online portalının doğru yapılandırıldığından ve etkilenen kullanıcının çakışan bir lisansla engellenmiş olduğundan emin olmak için bu makaledeki adımları izleyin:
 
-[Anızı Skype Toplantısı Yayını için ayarlama](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[Anızı Yayın için Skype Toplantısı ayarlama](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

@@ -1,5 +1,5 @@
 ---
-title: PayNow/ödemeyi hemen yap
+title: PayNow/Hemen ödeme yapma
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 822f098967fbce4a80b96b232ae3e3c7ce5470b00e0a77737c090798ca6945fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944439"
 ---
-# <a name="paynowmake-payment-immediately"></a>PayNow/ödemeyi hemen yap
+# <a name="paynowmake-payment-immediately"></a>PayNow/Hemen ödeme yapma
 
-Sorun açıklamanızı temel alarak sizin için bir çözüm bulduk. Çoğu müşteri, belgelerimizi takip ettikten sonra sorununu kendi başınıza çözümlerler.
+Sorun açıklamanıza bağlı olarak sizin için bir çözüm bulduk. Çoğu müşteri belgelerimizi takip ettikten sonra sorununuzu kendi kendine çöze kavuştur bulundu.
 
-Azure Kurumsal Sözleşme aboneliği için, ödeme Ekle/güncelleştir/ödeme yöntemi desteklenmez. Var olan bir faturadaki adresi değiştirmek istiyorsanız lütfen Microsoft temsilcinize başvurun.
+Azure kurumsal sözleşme aboneliği için Ödeme ekle/güncelleştir/değiştir yöntemi desteklenmiyor. Mevcut faturada adresi değiştirmek için lütfen Microsoft temsilcinize başvurun.
 
-Azure tüketim ve/veya satın alma faturalarını kapatmak için Azure ön ödemeniz 'nı kullanmak istiyorsanız desteğe başvurun. Faturalanmış ücretleri ayrı ayrı ve Pazaryeri Hizmetleri Azure ön ödemesi ile kaydırılamaz. Dolaylı kayıt için, ortaklarınızın faturalardaki olası etkileri hakkında bilgi olduğundan emin olun. Doğrudan müşteriler için Bill-To kişinizi bilgilendirmek isteyebilirsiniz.
+Azure tüketim ve/veya satın almalar için faturalarınızı satın almak üzere Azure Ön Ödemenizi kullanmak için kullanmak için de destek birimine başvurun. Ayrı Olarak Faturalandırılır ve Market Hizmetleri Azure Ön Ödeme ile uzaklıklanamaz. Dolaylı kayıt için, iş ortaklarına faturalara olası etki hakkında bilgi sağlanmış olduğundan emin oluruz. Doğrudan müşteriler için, iletişim durumu bilginizi Bill-To iyi olabilir.
 
 **Önerilen Belgeler**
 
-- [Azure ön ödemeniz ile yaşınızı ödeyin](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)
+- [Azure Ön Ödeme ile fazla ödemenizi ödeme](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)

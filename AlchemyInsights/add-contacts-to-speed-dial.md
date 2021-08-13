@@ -1,5 +1,5 @@
 ---
-title: Hızlı çevirmeye kişi ekleme
+title: Hızlı aramaya kişi ekleme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6658"
 - "9003570"
-ms.openlocfilehash: aed240e9d7cdfdf4263093472cc9b66c95a837e6
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: d40b9f116efb1d4e929f2d5a90625751cf647c5a153eef74fe49ae09f1202263
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365038"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954573"
 ---
-# <a name="add-contacts-to-speed-dial"></a>Hızlı çevirmeye kişi ekleme
+# <a name="add-contacts-to-speed-dial"></a>Hızlı aramaya kişi ekleme
 
-1. **Çağrılarda**, **kişiler**'e gidin.
-2. Hızlı arama 'ya eklemek istediğiniz kişi için bir kart görürseniz, kartta  **daha fazla seçenek**  (üç nokta) seçin ve  **hızlı çevirmeye Ekle 'yi**seçin.
+1. **Aramalar'da** Kişiler'e **gidin.**
+2. Hızlı aramaya eklemek istediğiniz kişinin kartını görüyorsanız, kartında Diğer **seçenekler'i** (üç nokta) ve Hızlı aramaya **ekle'yi seçin.**
 
-Bu kişiyi görmüyorsanız, ekranın sağ üst kısmındaki  **Hızlı Arama ekle**  'yi seçin, adını yazmaya başlayın, kişiyi seçin ve sonra  **Ekle**'yi seçin.
+Kişiyi görmüyorsanız, ekranın sağ  üst kısmında Hızlı arama ekle'yi seçin, adını yazmaya başlayın, kişiyi seçin ve ardından Ekle'yi **seçin.**

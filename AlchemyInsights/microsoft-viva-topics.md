@@ -1,5 +1,5 @@
 ---
-title: Microsoft Viva Konuları hakkında daha fazla bilgi
+title: Daha fazla bilgi Microsoft Viva Konular
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8341"
-ms.openlocfilehash: f2f76263c257199d8c85acccd6220de63dd5ce55
-ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
+ms.openlocfilehash: 1f8492dfc3238f72f70528d920d2f9d68c6fc528ea2cb7f551b178c163255916
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315495"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992798"
 ---
-# <a name="learn-more-about-microsoft-viva-topics"></a>Microsoft Viva Konuları hakkında daha fazla bilgi
+# <a name="learn-more-about-microsoft-viva-topics"></a>Daha fazla bilgi Microsoft Viva Konular
 
-Viva Konularını denemeye hazırsanız [denemeler ve satın almalar bugün kullanılabilir.](https://aka.ms/BuyVivaTopics)
+Viva Konularını denemeye hazırsanız [denemeler ve satın almalar bugünden kullanılabilir.](https://aka.ms/BuyVivaTopics)
 
-Daha fazla bilgi için [Viva Konuları Kaynak Merkezi'ne bakın.](https://aka.ms/viva/topics/resources)
+Daha fazla bilgi için [bkz. Viva Konuları Kaynak Merkezi.](https://aka.ms/viva/topics/resources)
