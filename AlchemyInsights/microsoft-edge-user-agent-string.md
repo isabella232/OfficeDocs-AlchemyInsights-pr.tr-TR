@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge Kullanıcı Aracısı dizesi (Masaüstü)
+title: Microsoft Edge aracı dizesi (Masaüstü)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003862"
 - "6914"
-ms.openlocfilehash: b4106dde1e09e0ce07b4b9adc2b2984cc5609c3b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 9311f17298fff3fee3282fe05bd1ddcd02780a80097e86b29d56ffd575a9a571
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679330"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976021"
 ---
-# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge Kullanıcı Aracısı dizesi (Masaüstü)
+# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge aracı dizesi (Masaüstü)
 
-Belirli bir tarayıcının belirli bir işletim sisteminde hangi sürümünün kullanıldığını saptamak için Kullanıcı Aracısı (UA) dizeleri kullanılabilir. Diğer tarayıcılar gibi, Microsoft Edge, siteye istek yaptığında "Kullanıcı Aracısı" HTTP başlığında bu bilgileri içerir. Tarayıcı sürümü bilgilerine, "Navigator. userAgent" değerini sorgulayarak JavaScript aracılığıyla da erişilebilir.
+Kullanıcı aracısı (UA) dizeleri, belirli bir işletim sisteminde belirli bir tarayıcının hangi sürümünün kullanılıyor olduğunu saptamak için kullanılabilir. Diğer tarayıcılarda Microsoft Edge, site için her istekte bulunan "Kullanıcı-Aracısı" HTTP üst bilgisinde de bu bilgileri bulabilirsiniz. Tarayıcı sürümü bilgilerine JavaScript üzerinden de "navigator.userAgent" değeri sorgu yoluyla erişilebilir.
 
-Web geliştiricilerinin, kod bakımlarının geliştirilmesi, kod fragility 'i düşürmek ve gelecekteki UA dize güncellemeleri için kod ayırıcı riskini ortadan kaldırmak için mümkün olduğunca Özellik algılamalarının kullanılmasını öneririz.
+Web geliştiricilerinin, kod korumasını geliştirmek, kod açıklığını azaltmak ve gelecek UA dizesi güncelleştirmeleri durumunda kod kesintisi riskini ortadan kaldırmak için mümkün olan her durumda özellik algılamayı kullanmalarını öneririz.
 
-Daha fazla bilgi için [Microsoft Edge Kullanıcı Aracısı dizesi (Masaüstü)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string)konusuna bakın.
+Daha fazla bilgi için [bkz. Microsoft Edge Aracısı Dizesi (Masaüstü)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).

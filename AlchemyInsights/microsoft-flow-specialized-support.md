@@ -1,5 +1,5 @@
 ---
-title: Microsoft Akış özel desteği
+title: Microsoft Flow Özelleştirilmiş Destek
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725067"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975949"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Microsoft Akış özel desteği
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow Özelleştirilmiş Destek
 
-Özelleştirilmiş Microsoft akış desteği için lütfen yeni [Power platform yönetim merkezine](https://aka.ms/flowadminsupport)gidin. Yeni Portal, Microsoft akışı ve diğer Power platform ürünleri için en iyi duruma getirilmiş yardımlı destek için daha fazla yol sağlar.
+Özel destek Microsoft Flow için lütfen yeni [Power platform yönetim merkezine gidin.](https://aka.ms/flowadminsupport) Yeni portal, kullanıcılar ve diğer Power platform ürünleri için en iyi duruma getirilmiş yardımlı Microsoft Flow bir yol sağlar.
 
 Daha fazla bilgi edinin:
-- [Microsoft Akış ücretsiz lisansları hakkında bilgi](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Kuruluşunuzdaki akış SSS](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Microsoft akış içeren Microsoft 365 ve Dynamics 365 planları](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Microsoft Flow faturalandırma ve ölçüm soruları](https://go.microsoft.com/fwlink/?linkid=2072612)
+- [Ücretsiz lisanslar hakkında Microsoft Flow bilgiler](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow SSS'de işlerinizi kontrol edin](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 içeren Microsoft 365 Dynamics 365 Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Microsoft Flow ve tarife sorularını yanıtla](https://go.microsoft.com/fwlink/?linkid=2072612)

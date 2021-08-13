@@ -1,5 +1,5 @@
 ---
-title: Silinmiş bir OneDrive sitesini geri yükleme
+title: Silinmiş bir siteyi OneDrive yükleme
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: ee48271ac3325881c2c2d8623be98c6d4cf3d09f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b5043c1b3aadf4e2554f3a469e5e1a53d7d038602300447599ff1c13cf31271
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728055"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991303"
 ---
-# <a name="restore-a-deleted-onedrive-site"></a>Silinmiş bir OneDrive sitesini geri yükleme
+# <a name="restore-a-deleted-onedrive-site"></a>Silinmiş bir siteyi OneDrive yükleme
 
-Microsoft 365 Yönetim merkezinde bir kullanıcıyı sildiğinizde (veya bir Kullanıcı Active Directory eşitlemesi aracılığıyla kaldırıldığında), OneDrive Yönetim merkezinde belirttiğiniz gün sayısı için kullanıcının OneDrive 'ı tutulur. (Bilgi için bkz: [Silinmiş OneDrive kullanıcıları için varsayılan dosya bekletmesi ayarlama](https://docs.microsoft.com/onedrive/set-retention).)
+Microsoft 365 yönetim merkezi'ta bir kullanıcı silseniz (veya kullanıcı Active Directory eşitlemesi aracılığıyla kaldırılmışsa), kullanıcının OneDrive alanı OneDrive yönetim merkezinde belirttiğiniz gün boyunca korunur. (Bilgi için [bkz. Silinmiş kullanıcılar için varsayılan dosya OneDrive ayarlama.)](https://docs.microsoft.com/onedrive/set-retention)
 
-* [Silinmiş bir OneDrive sitesini geri yükleme](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+* [Silinmiş bir Siteyi OneDrive geri yükleme](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-OneDrive dosyalarınızın çoğu silinmiş, üzerine yazılmış, bozuk veya virüslü olabilir, OneDrive 'ı önceki bir zamana geri yükleyebilirsiniz.
+Birçok OneDrive silinir, üzerine yazılır, bozulur veya kötü amaçlı yazılımdan virüs bulaşırsa tüm dosyalarınızı OneDrive önceki bir zaman için geri yükleyebilirsiniz.
 
-* [OneDrive 'ı geri yükleme](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

@@ -13,18 +13,18 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: e1461582b8aa88116c600559855d32e6115cdf03
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 028e4623b7db7c0ee7a8eaab2e8971587d8cf0318c7c918ba6621f0d57b116be
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828956"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943647"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>Skype Kurumsal Çevrimiçi Sürüm ile PSTN çağrısı
+# <a name="pstn-calling-with-skype-for-business-online"></a>Skype Kurumsal Online ile PSTN çağrısı
 
-Microsoft 365'te PSTN çağrıları yapmak için [bir Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) Arama Planınız veya şirket içi PSTN telefon altyapınız ile bağlantınız gerekir. Daha fazla bilgi için aşağıdaki kaynaklara bakın: 
+Bir şirket veya Microsoft 365 PSTN çağrıları yapmak için bir [Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) Arama Planı'nız veya şirket içi PSTN telefon altyapınız ile bağlantınız gerekir. Daha fazla bilgi için aşağıdaki kaynaklara bakın: 
 
-- [Sesli Konferans ve Microsoft Teams Arama Planları için ülke ve bölge kullanılabilirliği](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
+- [Sesli Konferans ve Çağrı Planları için ülke Microsoft Teams kullanılabilirliği](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
 - [Sesli Konferans ile ilgili sık sorulan sorular](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [Kredi ekleme ve İletişim Kredilerini yönetme](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [PSTN arayanlar Bir Skype Kurumsal arayarak bağlanılan konferans aramalarına katıl ilişkin](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [PSTN arayanlar bir arayarak bağlanılan Skype Kurumsal aramalarına katıl ilişkin](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

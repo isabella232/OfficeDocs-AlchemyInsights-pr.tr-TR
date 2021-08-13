@@ -1,5 +1,5 @@
 ---
-title: 9000233 Outlook.com PIN
+title: 9000233 Outlook.com PIN'i
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: 85d65dc2071f7a0e50fb096ae881b2e344410435
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 430d4782ed17fe880f326e5ff6f4c96d51e1edf590ff75efd5ce59fe4ee1c379
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983869"
 ---
-# <a name="change-your-pin"></a>PIN 'inizi değiştirme
+# <a name="change-your-pin"></a>PIN'inizi değiştirme
 
-Outlook.com PIN kullanmaz, ancak bilgisayarınızda PIN veya Windows Hello ile oturum açabilirsiniz. Windows 10 ' da PIN 'inizi değiştirmek için:
+Outlook.com'da PIN kullanmaz, ancak bilgisayarınızda bir PIN veya sabit bir Windows Hello. Pin'inizi değiştirmek için Windows 10:
 
-1. Başlat düğmesini seçin veya klavyenizde Windows tuşuna basın, ardından **Ayarlar**  >  **hesabı**  >  **oturum açma seçenekleri**'ni seçin.
-2. **PIN**'In altındaki **Değiştir** düğmesini seçin.
-3. Geçerli PIN 'inizi girip yeni PIN 'inizi girip onaylayın.
+1. Başlat düğmesini seçin veya klavyenizde Windows tuşuna basın ve ardından Hesaplar **Ayarlar**  >    >  **açma seçeneklerini belirleyin.**
+2. PIN altındaki **Değiştir** düğmesini **seçin.**
+3. Geçerli PIN'inizi girin, ardından altta yeni PIN'inizi girin ve onaylayın.
 
-[Windows Hello hakkında daha fazla bilgi edinin.](https://support.microsoft.com/help/17215/)
+[Daha fazla bilgi Windows Hello.](https://support.microsoft.com/help/17215/)

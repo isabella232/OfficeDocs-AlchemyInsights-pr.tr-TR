@@ -1,5 +1,5 @@
 ---
-title: 1800001 profil oluşturma veya düzenleme
+title: 1800001 oluşturma veya düzenleme
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: e56a4d4ae22c51d9e80892bcc0b5478a879cebab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba562c2a31fd39c86debc36c7520f1c3d27ac0c370894929b566147d965f3ad7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965409"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Outlook profili oluşturma veya düzenleme
+# <a name="create-or-edit-an-outlook-profile"></a>Bir profil oluşturma Outlook düzenleme
 
-Yeni bir Outlook profili oluşturmak, profili düzenlemek veya bir profili yeniden adlandırmak için aşağıdaki adımları kullanın.
+Yeni bir profil Outlook, profili düzenlemek veya profili yeniden adlandırmak için aşağıdaki adımları kullanın.
   
-1. Outlook 'ta, **File** \> **Account Settings** \> **profilleri Yönet**'i seçin.
+1. Daha Outlook Hesap **ve Profilleri** Yönet \> **Ayarlar** \> **seçin.**
     
-2. **Posta kurulumu** Iletişim kutusunda **profilleri göster**'i seçin.
+2. Posta Kurulumu **iletişim kutusunda** Profilleri **Göster'i seçin.**
     
 3. Şunlardan birini yapın:
     
-  - Yeni bir profil oluşturmak için **Ekle**'yi seçin.
+  - Yeni profil oluşturmak için Ekle öğesini **seçin.**
     
-  - Bir profili düzenlemek veya yeniden adlandırmak için **Özellikler**'i seçin.
+  - Profili düzenlemek veya yeniden adlandırmak için Özellikler'i **seçin.**
     
-Outlook profilini oluştururken veya düzenlerken sorun yaşıyorsanız, etkilenen makinede [Outlook profil aracı](https://aka.ms/SaRA-OutlookSetupProfile) 'nı çalıştırabilirsiniz. Bazı denetimler gerçekleştirir ve hazır olduğunuzda e-posta adresinizle bir Outlook profili oluşturulur. 
+Bir profil oluşturma veya düzenlemede sorun Outlook, etkilenen makinede [Outlook aracını](https://aka.ms/SaRA-OutlookSetupProfile) çalıştırabilirsiniz. Bazı denetimler gerçekleştirecek ve hazır olduğunda e-posta adresinizle Outlook profil oluşturacak. 
   
 
