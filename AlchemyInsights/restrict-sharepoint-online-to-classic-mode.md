@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online 'ı klasik moda kısıtlama
+title: SharePoint Online'SharePoint klasik mod ile kısıtlama
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,26 +13,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 1887bf64df98bf90a1902250633d5774178dfa2f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6315a83ac825f96ceea60798d441de8e8e53336fe29eda4d0491dd8a6a43b352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751443"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958821"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>SharePoint Online 'ı klasik moda kısıtlama
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>SharePoint Online'SharePoint klasik mod ile kısıtlama
 
-Bazı kuruluşlar için klasik mod deneyimi gerekmektedir. Klasik modu parçalı bir düzeyde kaldırmak için, artık bir organizasyonun (kiracı), listeler ve kitaplıklar için klasik mod ile sınırlanması mümkün değildir.
+Bazı kuruluşlara hala Klasik mod deneyimi gerekir. Klasik modu ayrıntı düzeyinde kaldırmayı planlasa da, artık listelerin ve kitaplıkların tüm kuruluş (kiracı) modunu klasik moda kısıtlamak mümkün değildir.
 
-Yönetici, aşağıdaki düzeylerde sağladığımız parçalı geri çevirme anahtarlarını kullanarak tek tek listeleri ve kitaplıkları Klasik modda yönetmek için aşağıdaki seçeneklere sahiptir:
+Yönetici, aşağıdaki düzeylerde sağlaymız ayrıntılı geri kapatma anahtarlarını kullanarak tek tek listeleri ve kitaplıkları klasik modda yönetmek için aşağıdaki seçeneklere sahip olur:
 
-- Site koleksiyonu
-- bölge
-- listeniz
-- Kitaplığı
+- site koleksiyonu
+- site
+- liste
+- kitaplık
 
-Ayrıca, çağdaş tarafından desteklenmeyen bazı özellikleri ve özelleştirmeleri kullanan listeler yine de otomatik olarak klasik moda dönüştürülür.
+Ayrıca, modern tarafından desteklenen bazı özellikleri ve özelleştirmeleri kullanan listeler de otomatik olarak klasik moda geçilir.
 
-1 Nisan 2019, kiracı düzeyini devre dışı bırakma süreci modern listeden geri çevirmeye devam eder ve kitaplıklar 31 Mayıs 2019 ile başlayacak ve devam edecektir.  Kiracı geri çevirme sonucunda klasik moddaki listeler ve kitaplıklar otomatik olarak modern olarak kaydırılacaktır.
+1 Nisan 2019'dan başarak kiracı düzeyini modern liste ve kitaplıklardan vazgeçme işlemini devre dışı bırakma işlemi 31 Mayıs 2019'da başlayacak ve devam edecek.  Kiracının geri vazgeçmesi sonucunda klasik modda olan listeler ve kitaplıklar otomatik olarak modern moda geçer.
 
-Klasik mod gerekliyse, klasik mod deneyimini kullanmak için bugün kullanabileceğiniz seçenekleri ve araçları [açıklayan daha](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) fazla bilgi için [buraya](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) bakın.
+Klasik mod gerekli ise, [](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) burada daha fazla bilgi [](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) ve klasik mod deneyimini kullanmak için bugün kullanabileceğiniz seçenekleri ve araçları açıklayan PnP Powershell yönergelerini burada bulunmaktadır.

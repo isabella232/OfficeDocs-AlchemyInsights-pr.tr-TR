@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 'de dili değiştirme
+title: Outlook.com'da dil değiştirme
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 015912482c29766789bb23ae18a1a36353915746
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 662870da708a37d4e39fd0c783b580737a9d4c5cc5bb443322d517023bd938d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780871"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913303"
 ---
 # <a name="change-your-language"></a>Dilinizi değiştirme
 
-1. Outlook 'ta dili chanmek için, [**dil ve saat**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) ayarları 'na gidin (**Ayarlar** \> **tüm Outlook ayarları**  >  **genel**  >  **dil ve saat**ayarlarını gösterir).
+1. Bu dil ve saat Outlook için, [](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) Dil ve saat ayarlarına (**Ayarlar** Genel Dil ve saat Outlook \>   >    >  **görüntüle) gidin.**
 
 2. Dilinizi seçin.
 
 3. **Kaydet**'i seçin.
 
-Daha fazla bilgi edinmek için [Outlook.com 'te saat dilimini ve dil ayarlarını değiştirme](https://go.microsoft.com/fwlink/p/?linkid=873132)konusuna bakın.
+Daha fazla bilgi edinmek için [bkz. Outlook.com'da saat dilimi ve dil ayarlarını değiştirme.](https://go.microsoft.com/fwlink/p/?linkid=873132)

@@ -14,13 +14,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: f2342e99544f475b24181e0571ccd0a7c6fdc8b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dde5238e6185fe991a16bdbf16f5ca8ee25e813f7159103f4efbba2d2cd9d7c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825031"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940983"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>SaRA ile Giden Kutusu'nda kalan iletileri düzeltme
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Giden Kutusu'nda takılmış olan iletileri düzeltin ve SaRA
 
-Microsoft Destek ve Kurtarma Yardımcısı [(SaRa)](https://diagnostics.office.com/#/) aracından efektian makinede "E-posta iletilerini [gönderir,](https://aka.ms/SaRA-OutlookSendReceive) alırken veya bulmakta sorundum" senaryosunu çalıştırarak başlamanızı öneririz.
+[Microsoft Destek ve Kurtarma Yardımcısı (SaRa)](https://diagnostics.office.com/#/) aracından efektian makineye "E-posta iletilerini [gönderirken,](https://aka.ms/SaRA-OutlookSendReceive) alırken veya bulmakta sorundiyorum" senaryosunu çalıştırarak başlamanızı öneririz.
