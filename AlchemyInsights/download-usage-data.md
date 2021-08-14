@@ -1,5 +1,5 @@
 ---
-title: Kullanım verilerini indir
+title: Kullanım verilerini indirme
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: 86ea8c21aa92685ef008693376f4e5fe6c768011
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885354"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004282"
 ---
-# <a name="download-usage-data"></a>Kullanım verilerini indir
+# <a name="download-usage-data"></a>Kullanım verilerini indirme
 
-Azure Kurumsal anlaşmasıyla ilişkili bir aboneliği seçtiniz.
+Azure kurumsal sözleşmesiyle ilişkilendirilmiş bir abonelik seçtiniz.
 
-Kullanım verilerini kurumsal Azure (EA) müşterisi olarak görüntülemek ve indirmek için aşağıdaki adımları uygulayın:
+Kullanım verilerini Azure (EA) müşterisi Enterprise olarak görüntülemek ve indirmek için aşağıdaki adımları uygulayın:
 
 > [!NOTE]
-> Ücretleri görüntüle ilkesi etkinleştirilmiş bir kuruluş yöneticisi, hesap sahibi veya bölüm yöneticisi olmanız gerekir. 
+> Görünüm ücretleri ilkesi etkinleştirilmiş olarak kuruluş yöneticisi, hesap sahibi veya bölüm yöneticisi olmalıdır. 
 
-1. Azure portalında oturum açın ve **maliyet yönetimi + faturalamayı** arayın.
-2. Bir fatura profili seçin ve ardından **kullanım + ücretler**'e tıklayın.
-3. Görüntülenen ekranda, rapora gereken ayı seçin ve **İndir**'i tıklatın.
+1. Azure portalda oturum açın ve Maliyet Yönetimi **+ Faturalama için arama kullanın.**
+2. Bir fatura profili seçin ve Kullanım + **ücretler 'e tıklayın.**
+3. Ekrana gelen ekranda, rapora ihtiyacınız olan ayı seçin ve İndir'e **tıklayın.**
 
-Fatura kopyası gerekiyorsa, Microsoft lisanslama Iş ortağınıza (iş ortağı veya Yazılım Danışmanı) başvurun. Explore.ms aracılığıyla bölgesel operasyon merkezi 'ne (ROC) bir Call-Logging Aracı (CLT) yükseltebilirler.
+Fatura kopyası gerekirse, Microsoft Lisans Ortağınıza (iş ortağı veya yazılım danışmanı) ulaşın. SZM aracılığıyla Call-Logging Merkezi'ne (CLT) Bir Güvenlik Aracı (CLT) yükseltecek Explore.ms.
 
-**Güncelleştirme-kas 2020**
+**Güncelleştirme - Kasım 2020**
 
-Seçilen EA Direct ticari müşterileri için, Azure portalında **Fatura indirme** işlevini bir Özellik (özel Önizleme) başlattık. Faturayı **özel önizleme** özelliğinin parçası olarak indirmek için aşağıdaki adımları izleyin:
+Seçili EA Direct Ticari Müşterileri için, Azure Portal'da Faturayı İndir işlevi için bir özellik **(özel** önizleme) başlattık. Özel önizleme özelliğinin bir parçası olarak **faturayı** indirmek için aşağıdaki adımları uygulayın:
 
-1. Azure portalında URL 'YI kullanarak oturum açın: https://portal.azure.com/?EaInvoice=true 
+1. URL'yi kullanarak Azure portalında oturum açın: https://portal.azure.com/?EaInvoice=true 
 2. **Maliyet Yönetimi + Faturalama** için arama yapın. 
-3. **Kullanım + ücretler**'e tıklayın. 
-4. Görüntülenen ekranda, rapora gereken ayı seçin ve **İndir**'i tıklatın.
+3. Kullanım **+ ücretler 'e tıklayın.** 
+4. Ekrana gelen ekranda, rapora ihtiyacınız olan ayı seçin ve İndir'e **tıklayın.**

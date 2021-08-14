@@ -1,5 +1,5 @@
 ---
-title: İçerik Düzenleyicisi veya betik Düzenleyicisi Web bölümleri eksik
+title: İçerik düzenleyicisi veya betik düzenleyicisi web bölümleri eksik
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000207"
 - "1911"
-ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: a99f367396ce93e62ad677784d4aba033bb48a4d0442f593b81dfaa607739403
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022633"
 ---
-# <a name="content-editor-or-script-editor-web-parts-are-missing"></a>İçerik Düzenleyicisi veya betik Düzenleyicisi Web bölümleri eksik
+# <a name="content-editor-or-script-editor-web-parts-are-missing"></a>İçerik düzenleyicisi veya betik düzenleyicisi web bölümleri eksik
 
-Microsoft 365 modern sayfaları için SharePoint 'te kullanılamayan iki Web Bölümü, **komut dosyası Düzenleyicisi Web Bölümü** ve **İçerik Düzenleyicisi Web bölümüdür**. Bununla birlikte, aynı amaçları yerine getirebilecek [Modern Web bölümleri](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) vardır. Ya da [özel Web bölümleri oluşturabilir veya var olan komut dosyası Düzenleyicisi Web bölümlerini](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) SharePoint Framework 'e aktarabilirsiniz.  
+Modern sayfalarda kullanılabilen iki SharePoint Microsoft 365, Betik düzenleyicisi **web** bölümü ve **İçerik düzenleyicisi web bölümüdür.** Bununla birlikte, [bazı aynı amaçları yerine getiren, kutusunda](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) olmayan modern web bölümleri vardır. Ya da özel web bölümleri [oluşturabilir veya var olan betik düzenleyicisi web bölümlerini diğer](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) SharePoint Framework.  
 
-Daha fazla bilgi için [SharePoint 'Teki İçerik Düzenleyicisi ve komut dosyası Düzenleyicisi Web bölümleri](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)
+Daha fazla bilgi için [bkz. İçerik düzenleyicisi ve Betik düzenleyicisi web bölümleri SharePoint?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)

@@ -13,46 +13,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: 0bbf1158f7f5fa8a22cfe7242c86760057fc7bab
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678775"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003589"
 ---
 # <a name="enable-cost-management"></a>Maliyet yönetimini etkinleştirme
 
-**' Kuruluşunuz için maliyetlerin devre dışı bırakıldığı ' nedir?**
+**"Kuruluş için devre dışı bırakılmış maliyetler" ne anlama geliyor?**
 
-Kurumsal Sözleşme (EA) veya Microsoft Customer Agreement (MCA) hesaplarını kullanan kuruluşlar, maliyet bilgilerine ve fiyatlandırma bilgilerine erişimi devre dışı bırakabilir.
+Kurumsal Anlaşma (EA) veya Microsoft Müşteri Sözleşmesi (MCA) hesapları kullanan kuruluşlar maliyet bilgilerine ve fiyatlandırma bilgilerine erişimi devre dışı bırakabilirsiniz.
 
-Azure portalında oturum açtıktan sonra, fatura API 'Lerini kullanarak faturaları (kabul edildikten) ve kullanım ayrıntılarını kullanabilirsiniz.
+Azure portalda oturum açtıktan sonra Fatura API'lerini kullanarak faturaları (kabul edildikten sonra) ve kullanım ayrıntılarını programlı olarak almalarını sağlarlar.
 
-**Ek kullanıcıların faturalara erişmesine izin verme**
+**Başka kullanıcıların faturalara erişmesine izin verme**
 
-1. Azure portalında **abonelikler dikey** bölümüne gidin.
-2. **Faturaları** seçin ve ardından **faturalara erişin**.
-3. Aboneliği kapsamlı rollerin kullanıcılarına faturaları indirme izni vermek için, ardından değişiklikleri kaydederek erişimi açın.
+1. Azure **portalda Abonelikler blade'e** gidin.
+2. **Faturalar'ı** ve ardından **Faturalara eriş'i seçin.**
+3. Kullanıcıların abonelik kapsamındaki roller kapsamındaki kullanıcıların faturaları indirmesine izin vermek için, erişimi ve ardından değişiklikleri kaydetmeyi seçin.
 
 > [!NOTE]
-> Hesap Yöneticisi e-posta yoluyla faturaları göndermek için de yapılandırabilirsiniz. Daha fazla [bilgi edinmek için bkz.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
+> Hesap Yöneticisi faturaların e-posta yoluyla gönderilmelerini de yapılandırabilirsiniz. Daha fazla bilgi için bkz. [Faturanızı e-postaya alın](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
-**Faturalandırma okuyucusu rolüne kullanıcı ekleme**
+**Fatura Okuyucusu rolüne kullanıcı ekleme**
 
-1. Azure portalında **abonelikler dikey** bölümüne gidin.
-2. **Erişim denetimi 'ni (IAM)** seçin ve **Ekle**'yi tıklatın.
-3. **Bir rol seçin** sayfasında **faturalandırma okuyucuyu** seçin.
-4. Davet etmek istediğiniz kullanıcının e-postasını yazın ve daveti göndermek için **Tamam** 'ı tıklatın.
-5. Ödeme okuyucusu olarak oturum açmak için davet e-postada sağlanan yönergeleri izleyin. Daha fazla bilgi için bkz [.](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in)
+1. Azure **portalda Abonelikler blade'e** gidin.
+2. Erişim **denetimi (IAM) öğesini seçin** ve Ekle'ye **tıklayın.**
+3. Rol **seçin sayfasında** Fatura **Okuyucu'ya** tıklayın.
+4. Davet etmek istediğiniz kullanıcının e-posta adresini yazın ve ardından daveti göndermek için **Tamam'a** tıklayın.
+5. Fatura okuyucu olarak oturum açmak için davet e-postalarında sağlanan yönergeleri izleyin. Daha fazla bilgi için [bkz. Faturaya erişim izni.](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in)
 
 **Önerilen belgeler**
 
-- [EA portalında DA ve AO görünümlerini etkinleştirme](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
-- [Maliyet yönetimine dahil olan maliyetler](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
-- [Desteklenen Microsoft Azure teklifleri](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
-- [Maliyet analizinde maliyetleri gözden geçirme](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
-- [Faturalandırma bilgilerine erişim sağlama](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Microsoft Müşteri sözleşmesine erişimi denetleme](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+- [EA portalı aracılığıyla DA ve AO görünümlerini etkinleştirme](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
+- [Maliyet Yönetimi'ne dahil edilen maliyetler](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
+- [Desteklenen Microsoft Azure Teklifleri](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
+- [Maliyet çözümlemesinde maliyetleri gözden geçirme](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
+- [Fatura bilgilerine erişim sağlama](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Microsoft Müşteri Sözleşmesi'ne erişimi denetleme](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
 
 
 

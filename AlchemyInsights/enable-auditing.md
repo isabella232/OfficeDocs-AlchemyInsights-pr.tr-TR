@@ -13,38 +13,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a28e1f5bb8b5e1bff2f26c0d9e9c9c42e8324583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd451a8f08f50b7b4bff7b08ec5b54b57adc1f000eb8224112d84a4fb20e4359
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003670"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Denetim günlüğünü etkinleştirme ve arama
 
 **Microsoft 365**
 
-Microsoft 365 denetim günlüğünde arama yapmak için [aşağıdaki adımları](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)izleyin.
+Denetim günlüğünde Microsoft 365 için aşağıdaki [adımları izleyin.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
 
 **Exchange**
 
-- Exchange yönetici etkinlikleri varsayılan olarak denetlenir.
+- Exchange etkinlikleri varsayılan olarak denetlenr.
 
-- Posta kutusu denetimi varsayılan olarak Microsoft 365. Daha fazla bilgi için  [Bu makaleye](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)bakın.
+- Posta kutusu denetimi bu dosyada varsayılan olarak Microsoft 365. Daha fazla bilgi için bu [makaleye bakın.](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
 
-- Exchange Online 'daki Microsoft 365 grup posta kutuları ve ortak klasör posta kutuları denetim günlüğünü desteklemez.
+- Microsoft 365 Grup posta kutuları ve ortak klasör posta Exchange Online denetim günlüğünü desteklemez.
 
 **SharePoint ve OneDrive**
 
-- SharePoint ve OneDrive denetimlerini etkinleştirmek için ek yapılandırma gerekmez.
+- Daha fazla bilgi için ve her hizmette denetime izin SharePoint OneDrive.
 
-- SharePoint ve OneDrive desteği aşağıdaki etkinlik türlerini denetleme:
+- SharePoint etkinlik OneDrive denetlemeyi desteklemez ve desteklemez:
 
     - Dosya, klasör ve sayfa etkinlikleri
     - Paylaşım ve erişim isteği etkinlikleri
     - Site yönetimi etkinlikleri
     - Dosya eşitleme etkinlikleri
 
-- Diğer hizmetlerde denetlenen etkinlikleri hakkında bilgi için  [Bu makaledeki tabloya](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)bakın.
+- Diğer hizmetlerde denetlenen etkinlikler hakkında bilgi için, [bu makaledeki tabloya bakın.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)
 
-- Burada, sık sorulan soruların listesini denetim günlüğünü arama hakkında [sık sorulan sorular](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) .
+- Burada, denetim günlüğünde aramama [hakkında sık sorulan soruların](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) listesi yer alıyor.

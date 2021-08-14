@@ -1,5 +1,5 @@
 ---
-title: Sızdırma, kimlik avı veya kimliğe bürünme sorunları
+title: Kimlik sahtesi, kimlik avı veya kimliğe bürünmeyle ilgili sorunlar mı var?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,29 +10,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 92e7f611b08a5457e52be248982785b2dc2ddabc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b52a62298081e554d328fc3cca0f77ca9949b765396c27d4d9da247f411d6d2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773039"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986803"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Sızdırma, kimlik avı veya kimliğe bürünme sorunları
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Kimlik sahtesi, kimlik avı veya kimliğe bürünmeyle ilgili sorunlar mı var?
 
-Microsoft 'un sizi nasıl koruduğunu öğrenin:
+Microsoft'un sizi nasıl koruyacağını öğrenin:
 
-- [Veren](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
+- [Spoofing](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
 
-- [Sızdırma ve kimliğe bürünme](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
+- [Kimlik avı ve kimliğe bürünme](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
 
 Ek öneriler:
 
-- Kendi etki alanınızla gelen, [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) ve [cıkim](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) 'ın sahte gönderenler için size yardımcı olabilir.
+- Kendi etki alanı adınızın geliyor gibi görünen kimliği doğruya doğru gönderenler için [SPF ve](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) yardımcı olabilir.
 
-- Kendi etki alanınızın gönderenlerin, posta akışı kurallarını (taşıma kuralları olarak da bilinir) kullanarak istenmeyen posta önleme filtrelemesini atlayacak şekilde yapılandırılmadığını doğrulayın veya liste girdilerine izin verin. Daha fazla bilgi için, [Microsoft istenmeyen posta filtrelerini atlayarak](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)dikkat edin.
+- Kendi etki alanınıza gelen gönderenlerin posta akış kuralları (aktarım kuralları olarak da bilinir) veya liste girdilerine izin veren istenmeyen posta önleme filtresini at edecek şekilde yapılandırılmamış olduğunu doğrulayın. Daha fazla bilgi için [bkz. Microsoft istenmeyen posta filtrelerini atlamayla ilgili uyarılar.](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-- Kullanıcıların [Güvenli Gönderenler listesi](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) girdilerini kimlik avlarına izin verebilecek şekilde yapılandırdıklarını doğrulayın.
+- Kullanıcıların kimlik avı saldırılarına izin ver [Kasa Gönderenler](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) listesi girdilerini yapılandırmamış olduğunu doğrulayın.
 
-- Önemsiz e-posta klasörü yerine karantinaya alma Daha fazla bilgi için bkz [.](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages)
+- Gereksiz E-posta klasörü yerine karantinaya almak için yüksek güvene sahip istenmeyen posta ve kimlik avı iletilerini teslim etmek iyi bir tercih olabilir. Daha fazla bilgi için bkz. [E-posta iletilerini karantinaya alındı .](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages)
 
-**[Microsoft 'a Iletileri raporlama](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) , filtrelerin nasıl yapıldığını bildirmek için en iyi yoldur.**
+**[Filtrelerin nasıl performans](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) gösterirken bize haber vermenin en iyi yolu iletileri Microsoft'a bildirmenizdir.**
