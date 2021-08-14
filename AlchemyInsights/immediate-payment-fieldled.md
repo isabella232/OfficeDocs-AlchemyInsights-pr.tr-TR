@@ -1,5 +1,5 @@
 ---
-title: Anlık ödeme yapma
+title: Anında ödeme yapma
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7285"
-ms.openlocfilehash: 4a4f258a7a13f02ba8fe49dd50392a4dc766b222
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: d3f4f05f858d7cf87e38bb8cfb14d331f3720c2f305a37993db82280e3dc0816
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755675"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945249"
 ---
-# <a name="make-an-immediate-payment"></a>Anlık ödeme yapma
+# <a name="make-an-immediate-payment"></a>Anında ödeme yapma
 
-Sorun açıklamanızı temel alarak sizin için bir çözüm bulduk. Çoğu müşteri, belgelerimizi takip ettikten sonra sorununu kendi başınıza çözümlerler.
+Sorun açıklamanıza bağlı olarak sizin için bir çözüm bulduk. Çoğu müşteri belgelerimizi takip ettikten sonra sorununuzu kendi kendine çöze kavuştur bulundu.
 
-Microsoft Müşteri Sözleşmesi (MCA) ile ödeme yöntemleriniz [faturalandırma profilleriyle](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)ilişkilendirilir.
+Microsoft Müşteri Sözleşmesi (MCA) ile ödeme yöntemleriniz faturalandırma [profilleriyle ilişkilendirildi.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
 
-Bir şirket MCA varsa, varsayılan ödeme yönteminiz çek veya tel aktarım yöntemidir. İlk faturaınızı aldıktan sonra, faturanın ilk sayfasının alt kısmında çek veya tel aktarma ile ödeme yapma yönergelerini bulabilirsiniz.
+Bir şirket MCA'nız varsa, varsayılan ödeme yönteminiz havale veya havale yoluyla olur. İlk faturanızı aldıktan sonra, faturanın ilk sayfasının en altında, faturanın faturasını veya havaleyle ödeme yönergelerini bulabilirsiniz.
 
-Faturaları Azure portalında kredi kartına göre ödemek için bir faturalandırma hesabı, Faturalandırma profili sahibi veya katılımcı rolüne sahip olmanız gerekir.
+Azure portalda kredi kartıyla fatura ödemesi yapmak için bir fatura hesabınız, fatura profili sahibi veya katılımcı rolünüz olması gerekir.
 
-1.  [Azure portalında](https://portal.azure.com/)oturum açın.
-2.  *Maliyet yönetimi ve faturalamayı* arayın.
-3. Sol menüde faturalandırma 'ın altında **faturalar**'ı seçin   . **
-4. Faturanızın herhangi birinin vadesi gelmiş veya vadesi gelmiş olması durumunda, bu faturaya ait mavi bir *ödeme*   bağlantısı görürsünüz.  **Şimdi ödeme**'yi seçin.
-5. Yeni Blade 'de, ****   mevcut kredi kartını seçmek veya yeni bir kredi kartı eklemek Için ödeme yöntemi seçin 'e tıklayın.
-6. Ödeme yöntemi seçildikten sonra, **Şimdi öde**'ye tıklayın.
+1.  [Azure portalında oturum açın.](https://portal.azure.com/)
+2. Maliyet Yönetimi *+ Faturalama'da arama.*
+3. Sol menüde Faturalar'ı ****    *seçin.*
+4. Faturalardan herhangi biri ödeme tarihi geçmişse veya ödeme tarihi geçmişse, o fatura için mavi *Şimdi öde*   bağlantısını görüyorsanız. Şimdi **öde'yi seçin.**
+5. Yeni blade'de Mevcut **bir kredi kartını seçmek veya** yeni bir kart eklemek için Ödeme yöntemi   seç'e tıklayın.
+6. Ödeme yöntemi seçildikten sonra Şimdi **öde'ye tıklayın.**
 
-Fatura durumu fatura dikey penceresinde ödendi olarak güncelleştirilecektir.
+Faturanın durumu, fatura blade'inde ödenecek şekilde güncelleştirilir.
 
 **Önerilen Belgeler**
 
-- [Ödeme yöntemini değiştir-SSS](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Faturalandırma profili için ödeme yöntemini değiştirme](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
-- [Microsoft Müşteri sözleşmesine erişimi denetleme](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
-- [Microsoft Müşteri anlaşmaları için faturalandırma rolleri](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+- [Ödeme yöntemini değiştirme - SSS](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Ödeme profili için ödeme yöntemini değiştirme](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
+- [Microsoft Müşteri Sözleşmesi'ne erişimi denetleme](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
+- [Microsoft Müşteri Sözleşmesi için faturalama rolleri](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)

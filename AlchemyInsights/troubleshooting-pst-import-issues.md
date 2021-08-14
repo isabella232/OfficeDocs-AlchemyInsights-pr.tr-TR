@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
-ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
+ms.openlocfilehash: 549af832f9c58db1cdd8fbe80b8b5bd2aba9bd937f33116806a9391cbc9a5d4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52059835"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972439"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>PST içeri aktarma sorunlarını giderme
 
-- Outlook istemcisinin içinde içeri aktarıyorsanız, bkz. [Outlook .pst dosyasını içeri aktarma sorunlarını düzeltme.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
+- Bir .pst dosyasının içinde içeri Outlook, [bkz. Outlook .pst](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)dosyasını içeri aktarma sorunlarını düzeltme.
 
-- İçeri Aktarma Hizmeti kullanıyorsanız ve takılmış durumda olursa, Azure Depolama konumuna yüklediğiniz her PST dosyasının 20 GB'tan büyük olmadığını unutmayın. 20 GB'tan büyük PST dosyaları PST içeri aktarma işleminin performansını etkileyebilir. Takılmış işlerde sorun giderme hakkında daha fazla [bilgi için bkz. PST içeri aktarma işlerini etkileyen sorunlar](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
+- İçeri Aktarma Hizmeti kullanıyorsanız ve takılmış durumda olursa, Azure depolama alanına yüklediğiniz her PST dosyasının 20 GB'tan büyük Depolama olmadığını unutmayın. 20 GB'tan büyük PST dosyaları PST içeri aktarma işleminin performansını etkileyebilir. Takılmış işlerde sorun giderme hakkında daha fazla [bilgi için bkz. PST içeri aktarma işlerini etkileyen sorunlar](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
 
 - Belirli bir İçeri Aktarma işinin durumunu doğrulamak için [Get-MailboxImportRequest -batchname kullanın.](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest)
 

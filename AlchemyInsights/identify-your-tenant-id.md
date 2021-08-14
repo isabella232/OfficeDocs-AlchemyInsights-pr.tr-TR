@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002889"
 - "5517"
-ms.openlocfilehash: b64e3ea72265e99f843ef47b37a29c85738009aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3e78afcc696403b64fa875c768cc5a64af4284a424b778e79e0921e190a01e22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834067"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945285"
 ---
 # <a name="identify-your-tenant-id"></a>Kiracı kimliğinizi belirleme
 
-Azure Yönetim merkezinde Microsoft 365 kuruluş kimliğinizi (kiracı kimliği) bulun.
+Azure Microsoft 365 merkezinde kendi kuruluş kimliğinizi (kiracı kimliği) bulun.
 
 1. Özellikler [sayfasından](https://aka.ms/AzurePropertiesPage)Dizin Kimliği **kutusuna** gidin.
 
 2. Kimliği gerekli şekilde kopyalayın.
 
-Daha fazla bilgi için [bkz. Microsoft 365 kuruluş kimliğinizi bulma.](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id)
+Daha fazla bilgi için [bkz. Microsoft 365 bilgilerinizi bulma.](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id)

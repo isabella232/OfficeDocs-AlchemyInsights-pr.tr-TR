@@ -1,5 +1,5 @@
 ---
-title: Project 'i ayarlama
+title: E-Project
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "33"
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: Makale için 500 sözcükten fazlasını hedefleyin.
-ms.openlocfilehash: 4d3ca7c415227b8f299e4ae280c7e35c24a5e7db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: Makalenin 500 sözcükten fazlasını hedefle.
+ms.openlocfilehash: 1dc306a480cdc920b9f756090f972a844b434a3ba475e40a1fbb08c89f625c51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798792"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958029"
 ---
-# <a name="setting-up-project"></a>Project 'i ayarlama
+# <a name="setting-up-project"></a>E-Project
 
- Microsoft Project 'i ayarlamak için [Bu makaledeki](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)adımları izleyin.
+ E-Microsoft Project ayarlamak için, bu [makaledeki adımları izleyin.](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)
 
-**Mac kullanıcıları Için bildirim:** Şu anda MacOS için proje ürünü kullanılamaz. 
+**Mac kullanıcıları için bildirim:** Aşağıdaki Project, MacOS için şu anda kullanılamıyor. 
   
-Kurulum sırasında hatalar yaşıyorsanız, [destek ve Kurtarma Yardımcısı 'nı kullanarak Project 'i yükleyin](https://aka.ms/SaRA-ProjectSetupScenario).
+Kurulum sırasında hatayla çalışıyorsanız, [Project'i kullanarak Destek ve Kurtarma Yardımcısı.](https://aka.ms/SaRA-ProjectSetupScenario)

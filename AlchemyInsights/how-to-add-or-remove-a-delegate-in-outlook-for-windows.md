@@ -1,5 +1,5 @@
 ---
-title: Windows için Outlook 'ta temsilci ekleme veya kaldırma
+title: Windows'de Temsilci ekleme veya Outlook kaldırma
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,46 +12,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7334"
-ms.openlocfilehash: fcbd6082c104f0e1bca022a23cbbeb6e3363a6c5
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: ee54e2bcca4f4591b33ee805290192311f6cde09a9e453a813e9db328d19634d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573809"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945357"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Windows için Outlook 'ta temsilci ekleme veya kaldırma
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Windows'de Temsilci ekleme veya Outlook kaldırma
 
-Windows için Outlook 'ta temsilci eklemek için: 
+Outlook'de Temsilci eklemek Windows: 
 
-1. **Dosya** sekmesini ve ardından **Hesap ayarları**'nı tıklatın ve sonra da **temsilci erişimi**'ni seçin.
-2. **Ekle**'ye tıklayın. **Ekle** görünmüyorsa, Outlook ve Exchange arasında etkin bir bağlantı bulunmayabilir. Outlook durum çubuğunda bağlantı durumu görüntülenir.
-3. Temsilciniz olarak atamak istediğiniz kişinin adını yazın veya arama sonuçları listesinde adı bulup seçin.
-
-    > [!NOTE]
-    > Temsilcinin, kuruluşunuzun Exchange genel adres listesindeki (GAL) bir kişi olması gerekir.
-4. **Ekle** 'ye tıklayın ve ardından **Tamam 'a** tıklayın.
-5. **Temsilci izinleri** iletişim kutusunda varsayılan izin ayarlarını kabul edin veya Exchange klasörleri için özel erişim düzeylerini seçin.
-
-    - Bir temsilcinin yalnızca Toplantı istekleri ve yanıtları ile çalışma izni olması gerekiyorsa, temsilci gibi varsayılan izin ayarları, **bana gönderilen toplantı ile ilgili gelen iletilerin kopyalarını alır** . **Gelen kutusu** Izin ayarını **yok** olarak bırakabilirsiniz. Toplantı istekleri ve yanıtları doğrudan temsilcinin gelen kutusuna gidecek.
+1. Dosya sekmesine **ve ardından** Hesap **Bilgileri'ne Ayarlar** ve Temsilci **Erişimi'ne tıklayın.**
+2. **Ekle'ye tıklayın.** Ekle **görünmezse,** Ekle ve Ekle arasında etkin bir Outlook Exchange. Durum Outlook çubuğunda bağlantı durumu görüntülenir.
+3. Temsilciniz olarak ataması istediğiniz kişinin adını yazın veya arama sonuçları listesinde adı arayın ve seçin.
 
     > [!NOTE]
-    > Varsayılan olarak, temsilcinin **Takvim** klasörünüze **Düzenleyici (öğeleri okuyabilir, oluşturabilir ve değiştirebilir)** izni verilir. Temsilci sizin adınıza bir toplantıya cevap verdiğinde, **Takvim** klasörünüze otomatik olarak eklenir.
+    > Temsilci, kurumnizin Genel Adres Listesi'ne (GAL) Exchange bir kişi olması gerekir.
+4. **Ekle'ye ve ardından** Tamam'a **tıklayın.**
+5. Temsilci **İzinleri iletişim** kutusunda, varsayılan izin ayarlarını kabul edin veya bu klasörler için özel Exchange seçin.
 
-5. İzin verilmesini bildirmek üzere bir ileti göndermek için, **Bu izinleri özetleyen temsilciye otomatik olarak bir ileti gönder** seçeneğini işaretleyin.
-6. İsterseniz, **temsilci özel öğelerimi görebilir** kutusunu seçin.
+    - Bir temsilci yalnızca toplantı istekleri ve yanıtlarla çalışmak için izin gerekirse, Temsilci, bana gönderilen toplantıyla ilgili ileti kopyalarını alır gibi varsayılan **izin** ayarları yeterli olur. Gelen Kutusu izin **ayarını Yok** olarak **bırakın.** Toplantı istekleri ve yanıtlar doğrudan temsilcinin gelen kutusundan gider.
+
+    > [!NOTE]
+    > Varsayılan olarak, temsilciye Takvim klasör **üzerinde Düzenleyici (öğe okuyabilir, oluşturabilir** ve değiştirebilir) **izni** bulunur. Temsilci sizin adıma bir toplantıyı yanıtlasa, toplantı otomatik olarak Takvim **klasörünüze** eklenir.
+
+5. Temsilciyi değiştirilen izinler hakkında bilgilendiren bir ileti göndermek için Temsilciye otomatik olarak **izinlerini** özetleyen bir ileti gönder onay kutusunu seçin.
+6. İstediğiniz zaman, Temsilci özel **öğelerimi görebilir onay** kutusunu seçin.
 
     > [!IMPORTANT]
-    > Bu ayar tüm Exchange klasörlerini etkiler. Bu, tüm posta, kişiler, takvim, görevler, notlar ve günlük klasörlerini içerir. Yalnızca belirtilen klasörlerdeki özel öğelere erişim izni vermemenizin bir yolu yoktur.
+    > Bu ayar tüm klasörleri Exchange etkiler. Tüm Posta, Kişiler, Takvim, Görevler, Notlar ve Günlük klasörleri buna dahildir. Yalnızca belirtilen klasörlerdeki özel öğelere erişim izni verilmesinin hiçbir yolu yoktur.
 
 7. **Tamam**'ı seçin.
 
     > [!NOTE]
     >
-    > - Adına Gönder izinleriyle gönderilen mesajlar hem temsilcinin hem de **Kimden** adlarınızın yanında yer alır. Farklı Gönder izinleriyle bir ileti gönderildiğinde, yalnızca adınız görüntülenir.
-    > - Bir kullanıcıyı temsilci olarak eklediğinizde, Exchange posta kutunuzu Outlook profilinize ekleyebilirler. Yönergeler için, [başka birinin posta ve takvim öğelerini yönetme](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5)bölümüne bakın.
+    > - Adına Gönderme izinleri olan iletiler, Kimden'in yanında hem temsilcinin hem de sizin adlarınızı **içerir.** Bir ileti, Gönderme izniyle gönder izniyle gönderlendiğinde yalnızca sizin adınız görüntülenir.
+    > - Temsilci olarak birini eklemeniz, kullanıcı posta kutunuzu Exchange profiline Outlook olabilir. Yönergeler için [bkz. Başka bir kişinin posta ve takvim öğelerini yönetme.](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5)
 
-Windows için Outlook 'ta temsilciyi kaldırmak için:
+Windows için Outlook'de Temsilciyi kaldırmak Windows:
 
-1. **Dosya** sekmesini tıklatın.
-2. **Hesap ayarları** 'nı ve ardından **temsilci erişimi**'ni tıklatın.
-3. İzinlerini değiştirmek istediğiniz temsilcinin adını seçin **ve ardından** **Tamam 'a** tıklayın.
+1. Dosya **sekmesine** tıklayın.
+2. Hesap **Bilgileri'ne Ayarlar** ve ardından **Temsilci Erişimi'ne tıklayın.**
+3. İzinlerini değiştirmek istediğiniz temsilcinin adını seçin ve kaldır'a ve ardından **Tamam'a** **tıklayın.**
