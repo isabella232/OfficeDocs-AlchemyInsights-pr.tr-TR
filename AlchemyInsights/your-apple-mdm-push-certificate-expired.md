@@ -1,5 +1,5 @@
 ---
-title: Apple MDM gönderim sertifikanızın süresi doldu
+title: Apple MDM Push Sertifika'nizin süresi doldu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: 5ec7989600c224281a417ea102779f9e0dd19887
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a349b0c4a7a0b7fe8e28ab0ba107ed16cccf81638544a5009e93fab66094fac4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668835"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997442"
 ---
-# <a name="your-apple-mdm-push-certificate-has-expired"></a>Apple MDM gönderim sertifikanızın süresi doldu
+# <a name="your-apple-mdm-push-certificate-has-expired"></a>Apple MDM Push Sertifika'nizin süresi doldu
 
-Apple MDM anında iletme sertifikası bir yıl geçerlidir ve iOS ile macOS cihaz yönetimini sürdürmek için yıllık olarak yenilenmesi gerekir. Sertifikanızın süresi dolarsa, kayıtlı Apple aygıtlarıyla iletişim kurulamaz ve yeni cihazlar kaydı yapılamaz.
+Apple MDM anında iletme sertifikası bir yıl geçerlidir ve iOS ile macOS cihaz yönetimini sürdürmek için yıllık olarak yenilenmesi gerekir. Sertifikanız sona erdiğinde, kayıtlı Apple cihazlarıyla bağlantı kurabilirsiniz ve yeni cihazlar kaydedilmaz.
 
-Apple MDM gönderim sertifikanızı yenileme adımları için bkz: [Apple MDM itme sertifikasını yenileme](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
+Apple MDM Push sertifikanızı yenileme adımları için bkz. [Apple MDM anında sertifikayı yenileme.](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate)

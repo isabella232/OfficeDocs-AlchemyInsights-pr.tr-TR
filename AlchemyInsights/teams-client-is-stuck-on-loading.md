@@ -1,5 +1,5 @@
 ---
-title: Teams istemcisi Yükleniyor'da takılıyor
+title: Teams istemcisi Yüklenirken takılıyor
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000701"
 - "8019"
-ms.openlocfilehash: d8e9e57967fd1b4952f6d03dbc0070eec39910d6
-ms.sourcegitcommit: 9b8f2ca19fb81b2729ecf5ff7586f4e7d607ba9a
+ms.openlocfilehash: e9a62890210d8f1867d864b021bef194384ef494b35ece4c1962e4f33ac53272
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50093085"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981709"
 ---
-# <a name="teams-client-is-stuck-on-loading"></a>Teams istemcisi Yükleniyor'da takılıyor
+# <a name="teams-client-is-stuck-on-loading"></a>Teams istemcisi Yüklenirken takılıyor
 
-Microsoft, yakın zamanda yapılan bir Teams masaüstü uygulaması derlemesinde kullanıcıların oturum açmasını engelleyen bir hatanın farkındadır. Etkide olan kullanıcılar, görüntülenen Bir Microsoft Teams Yüklenirken iletisi görüyor.
+Microsoft, yakın zamanda Teams masaüstü uygulaması derlemesinde kullanıcıların oturum açmasını engelleyen bir hatanın farkındadır. Etkide olan kullanıcılar, görüntülenen Microsoft Teams Bir Posta Yükleme iletisi görüyor.
 
-Şu an için en basit geçici çözüm Teams web uygulamasını şu anda <https://teams.microsoft.com/> kullanmaktır.
+Şu an için en basit geçici çözüm şu anda Teams web uygulamasını <https://teams.microsoft.com/> kullanmaktır.
 
-Daha fazla bilgi ve geçerli durum için, Hizmet Durumu Panosu gönderisi için <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>
+Daha fazla bilgi ve geçerli durum için Hizmet Durumu Panosu gönderisi'ne bakın: <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>

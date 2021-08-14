@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 778a44b5da04db56304e866e502801e382e84363
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2bfeac0a1ebe7597b148b0bbda4e866fc05cf9e4e044552f8e6fa0f4227df736
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51787481"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921747"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Bir Microsoft 365 Eğitim aboneliği ayarlama
 
@@ -25,5 +25,5 @@ Destekli adım adım yönergeler için lütfen Eğitim aboneliğini ayarlama iş
 
 **Diğer harika kaynaklar**
 
-- Genel [bakış için bkz. Office 365 kiracı](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) hesabınız oluşturma.
-- IT [Yöneticileri, Geliştiriciler ve İş Ortakları için Microsoft 365](https://docs.microsoft.com/education/) Eğitim ile çalışmaya başlama makalesi'ne bakın.
+- Genel [bir bakış Office 365 için bkz. Office 365](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) kiracı hesabınız oluşturma.
+- Bkz. [MICROSOFT 365 EĞITIM](https://docs.microsoft.com/education/) Yöneticileri, Geliştiriciler ve İş Ortakları için Microsoft E-posta yönetimiyle çalışmaya başlama.
