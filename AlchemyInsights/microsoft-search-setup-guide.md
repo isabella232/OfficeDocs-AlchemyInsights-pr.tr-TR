@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004591"
 - "8203"
-ms.openlocfilehash: 681fc808a167f365ce017df6a5cafcb1744c4d41
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: f61d90967af882ef5b9871e8535704e112e26125878e6540b772f2ae54e83d37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50428282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975836"
 ---
 # <a name="microsoft-search-setup-guide"></a>Microsoft Arama kurulum kılavuzu
 
-Microsoft [Arama'nın kurulumu ve yapılandırılması](https://go.microsoft.com/fwlink/?linkid=2153798) için Microsoft Arama kurulum kılavuzunu kullanın. İster bir grup kullanıcı için pilot olarak sın ister kuruluşta herkese bu uygulamanın tüm kullanıcılara slasın. Arama yöneticilerini ve Arama düzenleyicilerini atayır ve ardından Bing uzantısını Chrome'a ekleme veya Bing'i varsayılan arama motorunuz olarak ayarlama gibi yanıtlar ve ek seçeneklerle kullanıcılarınız için arama deneyimini özelleştirebilirsiniz.
+Kurulum [Microsoft Arama ayarlamak ve](https://go.microsoft.com/fwlink/?linkid=2153798) yapılandırmak için kurulum Microsoft Arama. bir grup kullanıcı için pilot uygulama veya bunu kuruluşta herkese uygulama. Arama yöneticileri ve Arama düzenleyicileri atayacak, sonra da Bing uzantısını Chrome'a ekleme veya varsayılan arama motorunuz olarak Bing gibi yanıtlar ve ek seçeneklerle kullanıcılarınız için arama deneyimini özelleştirebilirsiniz.

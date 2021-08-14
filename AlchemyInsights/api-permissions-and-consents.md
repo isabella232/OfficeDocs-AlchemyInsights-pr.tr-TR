@@ -1,5 +1,5 @@
 ---
-title: API Izinleri ve Izin
+title: API İzinleri ve İzinleri
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7756"
-ms.openlocfilehash: c99e5e2e8fb9bcc88e5221890ed9c28ed9e7d0c8
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: c45bab67d414c8f0f2ca1c5275084d4ecce538c5256154292302080ba5bd8175
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974997"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932117"
 ---
 # <a name="api-permissions-and-consent"></a>API izinleri ve izin
 
-Microsoft Identity platform ile birleşen uygulamalar, kullanıcıların ve yöneticilerin verilere nasıl erişilebileceğini denetler. Yetkilendirme modelinin uygulaması Microsoft Identity platform uç noktasında güncelleştirilmiştir. Bir uygulamanın Microsoft Identity platformuyla etkileşimde bulunma şeklini değiştirir. [Microsoft Identity platform Endpoint 'Daki izinler ve izinler](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) , bu yetkilendirme modelinin temel kavramlarını, kapsamlar, izinler ve izin dahil olmak üzere kapsar.
+Kullanıcılara ve yöneticilere Microsoft kimlik platformu erişilebilirlik üzerinde denetim veren bir yetkilendirme modeline sahip olan uygulamalar. Yetkilendirme modelinin uygulanması Microsoft kimlik platformu uç Microsoft kimlik platformu güncelleştirilmiştir. Bir uygulamanın diğer kullanıcıyla etkileşim kurma Microsoft kimlik platformu. [Microsoft kimlik platformu uç noktalarında izinler ve](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) izinler, bu yetkilendirme modelinin kapsamlar, izinler ve izinler gibi temel kavramlarını kapsar.
 
-[Azure Active Directory (Azure AD) izin çatısı](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) , çok kiracılı web ve yerel istemci uygulamalarını geliştirmeyi kolaylaştırır. Bu uygulamalar, uygulamanın kaydettirildiği bir Azure AD kiracısından Kullanıcı hesaplarıyla oturum açmaya olanak tanır. Ayrıca, kendi Web API 'larınızın yanı sıra Microsoft Graph API (Microsoft 365 'de Azure AD, Intune ve hizmetlere erişmek için, diğer Microsoft Hizmetleri ' API 'Leri gibi Web API 'Lerine de erişmeyi gerektirebilir.
+Genel [Azure Active Directory (Azure AD) izin çerçevesi,](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) çok kiracılı web ve yerel istemci uygulamaları geliştirmeyi kolaylaştırır. Bu uygulamalar, uygulamanın kayıtlı olduğu kiracıdan farklı bir Azure AD kiracısına bağlı kullanıcı hesaplarıyla oturum açmalarına olanak sağlar. Ayrıca, kendi web API'lerine ek olarak Microsoft Graph API'leri (Azure AD, Intune ve Microsoft 365'daki hizmetlere erişmek için) ve diğer Microsoft hizmetleri API'lerine de erişmeleri gerekir.
 

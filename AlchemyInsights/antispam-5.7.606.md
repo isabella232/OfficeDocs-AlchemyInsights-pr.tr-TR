@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 9abbff56570e27b2ad7308860be32ad6586cf4f7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 296ff78d6e285ed31f1fd3268b9078a2ffffc3515a59f367685d054fc76bcc4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821395"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932225"
 ---
 # <a name="banned-sending-ip"></a>IP göndermeyi yasakladı
 
-Bir Office 365 alıcısına gönderirken, gönderen bu hatayla etki ediyor olabilir. Gönderenin Office [365](https://sender.office.com/) İstenmeyen Postayla Mücadele IPListe Portalı'ı ziyaret edecek ve listelenmemiş olması gereken e-posta adresiyle IP adresini sağlaması gerekir. Portaldan bir doğrulama e-postası almaları için istenmeyen posta klasörünü kontrol edin ve/veya farklı bir e-posta adresiyle deneyin. 
+Alıcıya e Office 365 gönderirken bu hatayla bir gönderen de olabilir. Gönderenin İstenmeyen posta Office 365 IpListe Portalı'Office 365 hem de listelenmemiş olması için [e-posta](https://sender.office.com/) adresini ve IP adresini sağlaması gerekir. Portaldan bir doğrulama e-postası almaları için istenmeyen posta klasörünü kontrol edin ve/veya farklı bir e-posta adresiyle deneyin. 
 
 - Ayrıntılı yönergeler için [bkz. Kendinizi engellenen gönderenler](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide)listesinden kaldırmak için liste portalını kullanma .
