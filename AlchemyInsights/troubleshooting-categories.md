@@ -1,5 +1,5 @@
 ---
-title: 604 sorun giderme kategorileri
+title: 604 Sorun Giderme Kategorisi
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 4c06a6e1ddd333fff147912ac37a339574da4c9a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2ca842df04a7d4b702606d57757192ffe328cad79f3f5a07abc450f8ff92288
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690010"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972547"
 ---
 # <a name="outlook-categories"></a>Outlook kategorileri
 
-Kategoriler yalnızca takviminizdeki öğelere uygulanır. Bir toplantı isteğine veya başka bir kişiden aldığınız toplantıya bir renk kategorisi uygularsanız, bu renk kategorisi yalnızca Takviminizde görünür.  Paylaşılan posta kutusuna bir renk kategorisi uygularsanız, posta kutusu, grup posta kutusu, Oda posta kutusu vb. renk kategorisi yalnızca görünümünüzü etkiler.
+Kategoriler yalnızca takvimdeki öğelere uygulanır. Bir toplantı isteğine veya başka bir kişiden size gelen bir toplantıya renk kategorisi uygulayabilirsiniz, bu renk kategorisi yalnızca takviminde gösterir.  Paylaşılan bir posta kutusuna, temsilci posta kutusuna, grup posta kutusuna, oda posta kutusuna, vb. bir renk kategorisi uygulayabilirsiniz. Renk kategorisi yalnızca görünümlerinizi etkiler.
 
-Daha fazla bilgi için: [Takvim randevusu, Toplantı veya olaya renk kategorisi atama](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
+Daha fazla bilgi için: [Takvim randevusuna, toplantısına veya olayına renk kategorisi atama](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
