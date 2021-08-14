@@ -1,5 +1,5 @@
 ---
-title: Microsoft ekipleri-silinen ekip sitesini geri yükleme
+title: Microsoft Teams - Silinmiş Ekip Sitesini Geri Yükleme
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,13 +11,13 @@ ms.custom:
 - "404"
 - "6500002"
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 1b7e1d7aab665c1a529d5bfec8c7fc36bbc73441
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e51b9b34223b3122b59fd602b09103e4ca2e94444679f767e2a7005a9928694
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703031"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975481"
 ---
-# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Microsoft ekiplerde silinen bir ekibi geri yükleme
+# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Ekip'te silinmiş bir Ekibi geri Microsoft Teams
 
-Bir ekibi yanlışlıkla silmiştiniz mi? Ekibi sildikten bu yana 30 günden az ise şanslar vardır; geri yükleyebilirsiniz. Bunu yapmak için buradaki adımları izleyin: [silinen bir ekibi geri yükleme](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
+Bir ekibi yanlışlıkla mı sildin? Ekibi silmenin bu yana 30 günden az zaman kaldı ise şanslısınız; geri yükleyebilirsiniz. Bunu yapmak için buradaki adımları izleyin: Silinmiş [bir ekibi geri yükleme](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).

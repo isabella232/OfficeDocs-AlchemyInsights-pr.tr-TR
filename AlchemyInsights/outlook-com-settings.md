@@ -12,15 +12,15 @@ ms.custom:
 - "9000302"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: bb233bc26bdaae2797293889e07fde7b32a5469c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95aafc234c4c1cff28816ffe1e8ec2ab258f43c6d05b3e1a778ad1a701235512
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722547"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063612"
 ---
-# <a name="settings-in-outlookcom"></a>Outlook.com 'daki ayarlar
+# <a name="settings-in-outlookcom"></a>Ayarlar.com'da Outlook.com
 
-Outlook.com ayarlarını açamıyorsanız lütfen [buraya tıklayın](https://outlook.live.com/mail/options/general/timeAndLanguage).
+Outlook.com ayarlarını açamazsanız lütfen buraya [tıklayın.](https://outlook.live.com/mail/options/general/timeAndLanguage)
 
-Bazı doğrudan bağlantılar Şu anda açılmaz; üzerinde çalışıyoruz!
+Şu anda bazı doğrudan bağlantılar aç değil, üzerinde çalışıyoruz!

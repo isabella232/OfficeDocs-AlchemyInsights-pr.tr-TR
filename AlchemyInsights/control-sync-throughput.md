@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5839"
-ms.openlocfilehash: 6e45f55efac556d2d9c4f1ebd837db61dfa5422f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8b93fcb9757d3ef95a6cdc9db34f6735682cff8b9c2f9bfffa38a547326b69e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948831"
 ---
 # <a name="control-sync-throughput"></a>Eşitleme aktarım hızını denetleme
 
-Eşitleme uygulaması trafiğini denetlemeniz gerekirse mümkün olduğunda ağ hizmet kalitesi (QoS) ilkelerinizi veya Windows QoS ilkelerinizi kullanmanızı öneririz. Kullanıcılarınıza açık olacak ağ ayarları hakkında bilgi için bkz. OneDrive eşitleme uygulamasının karşıya yükleme [veya indirme oranını değiştirme.](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)
+Eşitleme uygulaması trafiğini denetlemeniz gerekirse, mümkün olduğunda ağ hizmet kalitesi (QoS) ilkelerinizi veya Windows QoS ilkelerinizi kullanmanızı öneririz. Kullanıcılarınıza açık olacak ağ ayarları hakkında bilgi için bkz. OneDrive eşitleme [yükleme veya indirme oranını değiştirme.](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)
