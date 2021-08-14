@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 form XML şeması
+title: Dynamics 365 Form XML Şeması
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.custom:
 - "1473"
 - "6200020"
-ms.openlocfilehash: a8ece1151885f6905b00dbd0daf7b18fdff60b29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d8d652e991c0ebaae6a79230a5fd0fcacf8ce6bbdf2622dfdcc448cc7e2353c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711331"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947283"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Web sayfası (HTML) Web kaynakları sınırlamaları
+# <a name="webpage-html-web-resources-limitations"></a>Web sayfası (HTML) web kaynakları sınırlamaları
 
-* HTML Web kaynağı sunucuda yürütülmesi gereken kodu içeremez. ASP.NET sayfaları HTML Web kaynakları olarak karşıya yüklenemez.
+* HTML web kaynağı, sunucuda yürütül gereken herhangi bir kod içere yüklemez. ASP.NET sayfaları HTML web kaynakları olarak karşıya yükılamaz.
 
-* HTML Web kaynakları yalnızca sınırlı sayıda sorgu dizesi parametresini kabul edebilir. Daha fazla bilgi: [HTML web kaynaklarına parametre geçme](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* HTML web kaynakları yalnızca sınırlı sayıda sorgu dizesi parametresi kabul eder. Daha fazla bilgi: [Parametreleri HTML web kaynaklarına aktar](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Web sayfası (HTML) Web kaynakları](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Web sayfası (HTML) web kaynakları](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

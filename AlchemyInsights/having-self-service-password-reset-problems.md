@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "7663"
-ms.openlocfilehash: 4f1f94be299c980a6a359d727fb24f411f98b785
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: bd76ae6b2ce140fd8feb490a5fffe1baa36598e7650107f176baec30d71b8628
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945870"
 ---
 # <a name="having-self-service-password-reset-sspr-problems"></a>Self servis parola sıfırlama (SSPR) sorunları mı var?
 
-Karma bulut ve şirket içi ortamlardaki ortak self servis parola sıfırlama (SSPR) sorunları şunlardır:
+Karma bulutta ve şirket içi ortamlarda yaygın self servis parola sıfırlama (SSPR) sorunları:
 
-- [SSPR parola geri yazma etkin değil](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
-- [Azure AD Premium Lisansı atanmamış](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
-- [Azure AD Connect sorunları](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) veya [ağ sorunları](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
-- [SSPR kimlik doğrulama yöntemleri kaydedilmemiş](https://mysignins.microsoft.com/security-info)
-- Microsoft 365 Yönetim Merkezi veya SSPR kullanan yöneticiler gibi [desteklenmeyen geri yazma senaryoları](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations)
+- [SSPR parola geri yazma özelliği etkin değil](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
+- [Azure AD premium lisansı atanmamış](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
+- [Azure AD Bağlan sorunları](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) veya [ağ sorunları](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
+- [Kayıtlı değil SSPR Kimlik Doğrulama yöntemleri](https://mysignins.microsoft.com/security-info)
+- [Yönetim Merkezi veya](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) SSPR kullanan yöneticiler Microsoft 365 Yönetici desteklenmeyen geri yazma senaryoları
 
 
 Daha fazla bilgi için bkz.:
 
-- [Self servis parola sıfırlama sorunlarını giderme](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
-- [Azure Active Directory 'de geri yazma sorunlarını giderme](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
+- [Kendi kendine parola sıfırlama sorunlarını giderme](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
+- [E-postada self servis parola sıfırlama geri Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)

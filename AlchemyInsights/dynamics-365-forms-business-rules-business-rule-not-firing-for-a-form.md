@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 formları Iş kuralları-Iş kuralı form için çalışmıyor
+title: Dynamics 365 Forms İş Kuralları - Form için ihlale Neden Olmayan İş Kuralları
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 2b42b007d8eecc65f098f71b5af7decd19aab505
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 085656b40cab5c918e58a821db9ad8399aa37cda871c00a7ed51411c4b733576
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947247"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a>İş kuralı formu tetikmiyor
+# <a name="business-rule-not-firing-for-a-form"></a>İş kuralı bir form için uygun değil
 
-İş kuralında başvurulan alan forma dahil olmadığı için iş kuralı yürütülemeyebilir. Daha fazla bilgi için, [iş kuralınız formu](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)başlatma
+İş kuralında başvurulan alan forma dahil etme nedeniyle iş kuralı yürütülmeyebilirsiniz. Daha fazla bilgi için [bkz. İş kuralınız formda yok mu?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).

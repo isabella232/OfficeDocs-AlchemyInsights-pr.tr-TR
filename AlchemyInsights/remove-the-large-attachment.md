@@ -14,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 1068f9e3b88dcc98a4d1042e923f235bf21ee727
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 425c5c0f12bed27bb72a0eb0fec803d7b61d9d0f873563dc6439cbfda9fdd08c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799253"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959379"
 ---
 # <a name="remove-the-large-attachment"></a>Büyük eki kaldırma
 
-1. Outlook'ta, Gönder **/ Çevrimdışı Çalışma**  >  **Al'ı seçin.** 
+1. Çevrimiçi Outlook Gönder **/ Çevrimdışı Çalışma**  >  **Al'ı seçin.** 
 2. Gezinti bölmesinde Giden **Kutusu'ni seçin.** Buradan: 
     - İletiyi silin (seçin ve ardından Sil'i **seçin).**
     - İletiyi Taslaklar klasörünüze sürükleyin, çift tıklayın ve eki kaldırın, sonra da Sil'i **seçin).**
-3. Outlook'un iletiyi iletmeye çalıştığını söyleyen bir hata alırsanız, Outlook'u kapatın. Çıkış yapmak birkaç dakika zaman al saatlerini alır. Outlook kapanzsa Ctrl+Alt+Delete tuşlarına basın ve Görev Yöneticisini **Başlat'ı seçin.** Görev Yöneticisi'nde İşlemler **sekmesini seçin,** listeyi aşağı kaydırarak outlook.exe'ı **seçin.**
-4. Outlook kapanıyorsa yeniden başlatın ve 2. ve 3. adımları yinelayın. 
+3. İletiyi iletmeye çalışan Outlook bir hata alırsanız, İletiyi başka bir Outlook. Çıkış yapmak birkaç dakika zaman al saatlerini alır. Görev Outlook, Ctrl+Alt+Delete tuşlarına basın ve Görev Yöneticisini **Başlat'ı seçin.** Görev Yöneticisi'nde İşlemler **sekmesini seçin,** listeyi aşağı kaydırarak outlook.exe'ı **seçin.**
+4. Yükleme Outlook yeniden başlatın ve 2. ve 3. adımları yinelayın. 
 5. Eki kaldırdikten sonra, çevrimiçi çalışmaya devam **etmek için Gönder /**  >  **Çevrimdışı** Çalış Al'a tıklayın. 
 
 İletiler, Gönder'e tıklarsanız ancak **bağlı değilken** Giden Kutusu'nda da takılıyorlar. Gönder **/ Al'a** tıklayın ve Çevrimdışı **Çalış düğmesine** bakın. Mavi renkse, bağlantınız kesilir. Bağlanmak için tıklayın (düğme beyaza döner) ve Sonra Da Hepsini **Gönder'e tıklayın.**

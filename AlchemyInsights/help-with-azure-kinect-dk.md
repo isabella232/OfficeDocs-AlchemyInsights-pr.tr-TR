@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9744"
 - "9005643"
-ms.openlocfilehash: e043a3eff39f9fcfd5adbea8a93a6c4ac792913a
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
-ms.translationtype: HT
+ms.openlocfilehash: d5277cf2be141c1e0e650c1a80593cb7e3eead0b7d33f3c51f2325abfcf618b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51122863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945798"
 ---
 # <a name="help-with-azure-kinect-dk"></a>Azure Kinect DK ile ilgili yardım
 
-Azure Kinect DK hızlı başlangıç kılavuzları (ayarlama, geliştirici yardımı), nasıl yapılan kılavuzları ve sorun giderme için [Azure Kinect DK belgelerine bakın.](https://docs.microsoft.com/azure/kinect-dk/)
+Azure Kinect DK hızlı başlangıç kılavuzları (set up, developer help), how-to guides ve troubleshooting için bkz. [Azure Kinect DK belgeleri](https://docs.microsoft.com/azure/kinect-dk/).
 
 
-Xbox Kinect ile ilgili yardım için Xbox [Kinect desteğine bakın.](https://www.xbox.com/Search?q=kinect&rtc=1#nav-support)
+Xbox Kinect hakkında yardım için bkz. [Xbox destek Kinect.](https://www.xbox.com/Search?q=kinect&rtc=1#nav-support)

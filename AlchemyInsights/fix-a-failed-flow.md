@@ -1,5 +1,5 @@
 ---
-title: Başarısız bir akışı Düzeltme
+title: Başarısız akışı düzeltme
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: 4d94055ca7cbf892d0818076c7a75fc033ebce5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3deb6062b5359924e15dff61b8eedd4be1ce00afe24027cd9917271bd5bbe48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945987"
 ---
-# <a name="fix-a-flow-that-failed"></a>Başarısız olan bir akışı Düzeltme
+# <a name="fix-a-flow-that-failed"></a>Başarısız olan akışı düzeltme
 
-1. [Microsoft Akış](https://flow.microsoft.com/)'ya gidin ve sağ üstteki bildirimler simgesine tıklayın. (Veya mobil uygulamada etkinlik sekmesini seçin.) Ayrıntılara bakılamadı olan akışı seçin.
+1. Bildirimler [Microsoft Flow](https://flow.microsoft.com/)ve sağ üstteki Bildirimler simgesine tıklayın. (Veya mobil uygulamada Etkinlik sekmesini seçin.) Ayrıntılara bakamayan akışı seçin.
     
-2. Akışın hata iletisini görmek için kırmızı ünlem işareti ile adımı bulun.
+2. Akışla ilgili hata iletisini görmek için kırmızı ünlem simgesiyle adımı bulun.
     
-3. Hata iletisine bağlı olarak, akışı düzenleyip düzeltebilmelisiniz. 
+3. Hata iletisine bağlı olarak, akışı düzenlemeniz ve düzeltmeniz gerekir. 
     
 [Yaygın akış hataları](https://go.microsoft.com/fwlink/?linkid=872110)
   

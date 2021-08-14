@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 form XML şeması
+title: Dynamics 365 Form XML Şeması
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1471"
 - "6200019"
-ms.openlocfilehash: 57796a0845bc518d8d6bdbdf36398bd727abe704
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2605fa2490e8cd3ac5ed930970f637eaec68ebdc0250a3918bc40a1a2d467b7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947395"
 ---
-# <a name="dynamics-365-form-xml-schema"></a>Dynamics 365 form XML şeması
+# <a name="dynamics-365-form-xml-schema"></a>Dynamics 365 form XML Şeması
 
-[Dynamics 365 müşteri görevlendirmeleri için form özelleştirmeleri formu](https://docs.microsoft.com/dynamics365/customer-engagement/developer/customize-dev/form-xml-schema)
+[Dynamics 365 Müşteri Katılımı için form özelleştirmeleri için Form XML Şema tanımı](https://docs.microsoft.com/dynamics365/customer-engagement/developer/customize-dev/form-xml-schema)

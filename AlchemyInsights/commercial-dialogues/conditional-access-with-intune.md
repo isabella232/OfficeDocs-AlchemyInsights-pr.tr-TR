@@ -1,5 +1,5 @@
 ---
-title: Intune ile Koşullu Erişim kullanma
+title: Intune ile Koşullu Erişimi kullanma
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 6e86c6b4c9c6adcbeac504acd5a10f2139d04237
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 23afea21668191093d612d68ca6e9ab2a844f4a14977631d33f4fd956fc3c4e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005794"
 ---
-# <a name="using-conditional-access-with-intune"></a>Intune ile Koşullu Erişim kullanma
+# <a name="using-conditional-access-with-intune"></a>Intune ile Koşullu Erişimi kullanma
 
-Intune ile Koşullu Erişim'i kullanmak için 3 adım gerekir:
+Intune ile Koşullu Erişimi kullanmak için 3 adım gerekir:
 
-- [Cihazın uyumlu kabul edilene kadar karşılanmayacak ayarları tanımlamak için Uyumluluk İlkesi oluşturun. Örneğin, bir cihazın uyumlu kabul edilirken en az 6 basamaklı bir pin'i olmalıdır.](https://docs.microsoft.com/mem/intune/protect/create-compliance-policy)
-- [Korunan kaynakları ve bu kaynaklara erişmek için hangi koşulların karşı korunmasını gerektir olacağını tanımlayan bir Koşullu Erişim İlkesi oluşturun. Örneğin, bir cihaz kurumsal e-postaya erişmeden önce uyumlu olmalıdır.](https://docs.microsoft.com/mem/intune/protect/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)
-- [İstenen kullanıcı gruplarına hem Uyumluluk İlkelerinin hem de Koşullu Erişim İlkelerinin hedefli olduğundan emin olun. Bunun için Azure Active Directory'de belirli kullanıcı grupları oluşturulması gerekli olabilir.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
+- [Cihazın uyumlu kabul edilene kadar karşılanmalıdır ayarlarını tanımlamak için bir Uyumluluk İlkesi oluşturun. Örneğin, bir cihazın uyumlu kabul edilene kadar en az 6 basamaklı bir PIN kodu olmalıdır.](https://docs.microsoft.com/mem/intune/protect/create-compliance-policy)
+- [Korunan kaynakları ve bu kaynaklara erişmek için karşı korunması gereken koşulları tanımlayan bir Koşullu Erişim İlkesi oluşturun. Örneğin, bir cihaz şirket e-postalarına erişmek için uyumlu olmalıdır.](https://docs.microsoft.com/mem/intune/protect/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)
+- [İstediğiniz kullanıcı gruplarının hem Uyumluluk İlkelerine hem de Koşullu Erişim İlkelerine hedef olduğundan emin olun. Bunun için, çalışma sayfalarında belirli kullanıcı grupları Azure Active Directory.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
 
 [Daha fazlasını okuyun](https://docs.microsoft.com/mem/intune/protect/device-compliance-get-started)
