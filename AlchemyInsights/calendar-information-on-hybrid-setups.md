@@ -1,5 +1,5 @@
 ---
-title: Karma kurulumlardan 608 takvim bilgileri
+title: Karma kurulumlarda 608 Takvim bilgileri
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: beeaeeacffc8e56f7b25458a9978d0bdfe954af1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e946c6594f0244706835f13bbee1594a7e705306740e20ce599cad18d70fb79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989575"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Karma ortamlardaki takvim serbest/meşgul sorunları
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Karma ortamlarda takvim serbest/meşgul sorunları
 
-Kullanıcılar karma ortamlardaki takvim serbest/meşgul bilgilerini görmeye sorun yaşıyorsa karma Yapılandırma sihirbazını yeniden çalıştırır. Karma Yapılandırma Sihirbazı hakkında daha fazla bilgi için [karma Yapılandırma Sihirbazı](https://go.microsoft.com/fwlink/p/?linkid=528149)'na bakın.
+Karma ortamlarda kullanıcılar takvim serbest/meşgul bilgilerini görme konusunda sorun geçiriyorsa, Karma Yapılandırma sihirbazını yeniden çalıştırın. Karma Yapılandırma sihirbazı hakkında daha fazla bilgi için bkz. [Karma Yapılandırma sihirbazı.](https://go.microsoft.com/fwlink/p/?linkid=528149)
 
-Karma ortamlardaki sorun giderme adımları için [karma dağıtımda sorun giderme](https://technet.microsoft.com/library/jj659053.aspx)konusuna bakın.
+Karma ortamlardaki sorun giderme adımları için [bkz. Karma dağıtım sorunlarını giderme.](https://technet.microsoft.com/library/jj659053.aspx)

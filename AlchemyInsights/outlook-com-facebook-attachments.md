@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: d37d4590fb5206a30f596bf83d9665c324b27b57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c9c1ea9b3da7f035e1221b435f30ef5c801e5bdcd010c1a1922d712b6d626b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962331"
 ---
-# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Facebook 'taki dosyaları ekleme veya karşıya yükleme
+# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Facebook'tan dosya eklenemiyor veya karşıya yüklenemiyor
 
-Facebook terimlerindeki ve koşullarında, 23 Ekim 2019 ' ten sonra, artık doğrudan Facebook 'tan ek yükleme yapamayacaksınız ve Facebook artık bulut konumlarınızın listesinde görünmez. 
+Facebook'un hüküm ve koşullarındaki bir değişiklikten dolayı, 23 Ekim 2019'dan sonra artık ekleri doğrudan Facebook'tan yükleyemeyeceksiniz ve Facebook artık bulut konumlar listesinde görünmez. 
 
-[Depolama hesaplarınızda](https://go.microsoft.com/fwlink/?linkid=2111075)diğer bulut konumları listenizi yönetebilirsiniz.
+Bulut hesaplarınıza diğer bulut konumlarının listesini [Depolama.](https://go.microsoft.com/fwlink/?linkid=2111075)
 
-[Depolama hesapları](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)hakkında daha fazla bilgi edinin.
+Hesaplarınız hakkında [daha Depolama.](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)
   
