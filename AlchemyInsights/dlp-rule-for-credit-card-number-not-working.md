@@ -1,5 +1,5 @@
 ---
-title: Kredi kartı numarası için DLP kuralı çalışmıyor
+title: Kredi Kartı Numarası için DLP Kuralı çalışmıyor
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,12 +13,12 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd4f200233d5571fc7b01576038e7b3951a07716a7d5948005418d2896291ee5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005110"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>Kredi kartı numaralarıyla ilgili DLP sorunları
 
@@ -26,35 +26,35 @@ ms.locfileid: "47679461"
 
 **Kredi kartı numaralarıyla ilgili DLP sorunları**
 
-O365 'de DLP duyarlı bir bilgi türü kullanırken, **kredi kartı numarası** içeren Içerik Için **veri kaybı önleme (DLP)** sorunlarıyla karşılaşmıyorsunuz mı? Bu durumda, içeriğinizin değerlendirilme sırasında DLP ilkesini tetiklemek için gerekli bilgileri içerdiğinden emin olun. Örneğin, %85 güvenilirlik düzeyiyle yapılandırılmış bir **kredi kartı ilkesinde** , aşağıdakiler değerlendirilir ve kuralın tetiklenmesi için algılanabilmesi gerekir:
+O365'te DLP'ye duyarlı bir bilgi  türü kullanılırken, Veri Kaybı Önleme **(DLP) önleme (DLP)** içeriğinde sorun mu oluyor? Varsa, içeriğinizin, DLP ilkesi değerlendirilirken tetiklenirken gereken bilgileri içerdiğine emin olun. Örneğin, %85 güven düzeyiyle yapılandırılmış bir Kredi Kartı ilkesi için aşağıdakiler değerlendirilir ve kuralın tetiklen değerlendirmesine neden olması gerekir: 
   
-- **[Biçim:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** biçimlendirilebilen veya biçimlendirilmemiş (dddddddddddddddd) 16 basamak.
+- **[Biçim:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** Biçimlendirilmiş veya biçimlendirilmemiş (ddddd) 16 basamak ve Luhn testini geçmeleri gerekir.
 
-- **[Desen:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Visa, MasterCard, keşif kartı, JCB, Amerikan Express, hediye kartları ve Diner kartları dahil tüm dünya genelindeki tüm önemli markalardan kartlar algılayan çok karmaşık ve güçlü bir düzen.
+- **[Desen:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Visa, MasterCard, Discover Card, JCB, American Express, hediye kartları ve kartvizitler gibi dünya çapındaki tüm önemli markalardan kartları algılayan çok karmaşık ve güçlü bir desen.
 
-- **[Sağlama toplamı:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Evet, Luhn sağlaması
+- **[DenetimUmum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Evet, Luhn checksum
 
-- **[Tanımı:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** DLP İlkesi, 300 karakterlerinin bir yakınlığı ile bu tür hassas bilgileri algıladığı için %85.
+- **[Tanım:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** DLP ilkesi, 300 karakter yakınlıkta olduğu durumda bu tür hassas bilgilerin algılandığından %85 emindir:
 
-  - İşlev Func_credit_card desenle eşleşen içeriği bulur.
+  - İşlev Func_credit_card desene eşleşen içeriği bulur.
 
   - Aşağıdakilerden biri doğrudur:
 
-  - Keyword_cc_verification 'dan bir anahtar sözcük bulundu.
+  - Farklı bir Keyword_cc_verification anahtar sözcük bulunur.
 
-  - Keyword_cc_name 'dan bir anahtar sözcük bulundu
+  - Bir başka Keyword_cc_name anahtar sözcük bulunur
 
-  - İşlev Func_expiration_date, sağ tarih biçiminde bir tarih bulur.
+  - İşlev Func_expiration_date tarih biçimindeki bir tarihi bulur.
 
-  - Sağlama toplamı geçişlerinde
+  - Denetimli denetimler geçer
 
-    Örneğin, aşağıdaki örnek bir DLP kredi kartı numarası Ilkesi için tetikleyecektir:
+    Örneğin, aşağıdaki örnek DLP Kredi Kartı Numarası İlkesini tetikler:
 
   - Visa: 4485 3647 3952 7352
   
-  - Süre sonu: 2/2009
+  - Son kullanma tarihi: 2/2009
 
-İçeriğiniz için bir **kredi kartı numarasının** gerekli olması gerekenler hakkında daha fazla bilgi için, bu makalenin aşağıdaki bölümüne bakın: [kredi kartı # Için hassas bilgi türleri](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
+İçeriğiniz için Kredi Kartı  Numarasının algılandığında nelerin gerekli olduğu hakkında daha fazla bilgi için, bu makalenin şu bölümüne bakın: Hassas Bilgi Türleri Kredi Kartı# için nelerin [görünüyor?](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-Farklı yerleşik duyarlı bir bilgi türü kullanarak, diğer türler için gerekenler hakkında bilgi için aşağıdaki makaleye bakın: [hassas bilgi türleri](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Farklı bir yerleşik hassas bilgi türü kullanarak, diğer türlerde nelerin gerekli olduğu hakkında bilgi için aşağıdaki makaleye bakın: Hassas Bilgi [Türleri'nin neleri araması](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

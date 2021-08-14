@@ -1,5 +1,5 @@
 ---
-title: Intune tarafından yönetilen uygulamalardan kurumsal verileri silme
+title: Intune tarafından yönetilen uygulamalardan şirket verilerini temizleme
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_o365
 ms.custom:
 - "6700006"
 - "7243"
-ms.openlocfilehash: ca62ad165bbb629323727928916720c6a2eab291
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 59c1309f60e03eda587c7a1f7bb5849f69b12a13d4365bcd6ca4e862d0e53e2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997766"
 ---
-# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Intune tarafından yönetilen uygulamalardan kurumsal verileri silme
+# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Intune tarafından yönetilen uygulamalardan şirket verilerini temizleme
 
-Intune, uygulama koruma Ilkesi (APP) yönetilen uygulamalarından kurumsal verilerin kaldırılmasını destekler. 
+Intune, şirket verilerini Uygulama Koruma İlkesi (APP) tarafından yönetilen uygulamalardan kaldırmayı destekler. 
 
-Bu uygulamalardan kurumsal verileri silme, silme veya bu uygulamalardaki verileri silme hakkında daha fazla bilgi edinmek için, [Intune tarafından yönetilen uygulamalardaki yalnızca kurumsal verileri temizlemeyi](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)öğrenin.
+Bu uygulamalardan şirket verilerini silme, silme veya kaldırma hakkında daha fazla bilgi için bkz. Yalnızca Intune tarafından yönetilen [uygulamalardan şirket verilerini silme.](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)

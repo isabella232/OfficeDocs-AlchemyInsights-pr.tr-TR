@@ -1,5 +1,5 @@
 ---
-title: Teams'de tuş takımı eksik
+title: Tuş takımı numaradan Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000719"
 - "5707"
-ms.openlocfilehash: 86a642db6ec0a81f91ad07240c90cc116aa970ff
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24fcc22e23afbdae17a931939efcba9de00a2ed669d9cbca489382b91a9073a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815302"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005074"
 ---
-# <a name="dial-pad-missing-from-teams"></a>Teams'de tuş takımı eksik
+# <a name="dial-pad-missing-from-teams"></a>Tuş takımı numaradan Teams
 
-Teams'de tuş takımı'ı bulamıyor musunuz? Daha [fazla bilgi](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing) için buraya bakın.
+Teams'da tuş takımı'Teams? Daha [fazla bilgi](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing) için buraya bakın.
