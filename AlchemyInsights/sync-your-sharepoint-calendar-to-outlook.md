@@ -1,5 +1,5 @@
 ---
-title: SharePoint takviminizi Outlook 'Ta eşitleme
+title: Takvim SharePoint'nizi eşitle Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 95ea9fbe0fbb4ab4d07f164e6096cc7985a72ac5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008899"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>Takviminizi aygıtlarla eşitlerken karşılaşılan sorunlar
+# <a name="issues-synchronizing-your-calendar-to-devices"></a>Takviminizi cihazlarla eşitleme sorunları
 
-SharePoint takvimleri, bazen Microsoft 365 grup takvimleri ile karıştırıldıkları klasik liste türleridir.
+SharePoint Takvimler, bazen Grup Takvimleri ile karıştırılmış klasik Microsoft 365 türlerindendir.
 
-SharePoint takvimini Outlook 'a eşitlemek için lütfen şu adımları izleyin:
+Bir Takvim SharePoint eşitlemek Outlook, lütfen şu adımları izleyin:
 
-1. **Ayarlar** dişisimgesine ve ardından **site içeriği**'ne tıklayın.
-2. Eşitlemek istediğiniz takvimi (bir olay listesi türü) açın.
-3. Klasik şerit menüsünde **Takvim**'e ve ardından **Outlook 'a Bağlan 'a**tıklayın.
-4. Eşitlemeyi onaylamanızı isteyen açılır listesinde **Izin ver**'i tıklatın.
+1. Dişli **simgesine Ayarlar** site **içeriği'ne tıklayın.**
+2. Eşitlemek istediğiniz takvimi açın (bu bir Etkinlikler liste t türündedir).
+3. Klasik şerit menüsünde Takvim 'e **tıklayın ve sonra** da **Bağlan'Outlook.**
+4. Eşitlemeyi onaylamanızı isteyen açılır pencerede İzin Ver'e **tıklayın.**
 
 >[!Note]
-> Eşitlenen Outlook takviminde bir değişiklik yaptığınızda, SharePoint takviminde görüntülenir ve bunun tersi de geçerlidir.
+> Eşitlenen takvimde bir değişiklik Outlook, takvim takviminde SharePoint görüntülenir.
 
-Microsoft 365 grupları hakkında daha fazla bilgi için bu [makaleye](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)bakın.
+Grupların Gruplara Göre Microsoft 365 daha fazla bilgi için bu makaleye [bakın.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)

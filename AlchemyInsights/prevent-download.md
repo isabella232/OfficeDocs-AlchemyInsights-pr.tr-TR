@@ -1,5 +1,5 @@
 ---
-title: Dosyaların SharePoint veya OneDrive 'dan indirilmesini önle
+title: Dosyaların zaman içinde veya başka bir SharePoint indir OneDrive
 ms.author: pebaum
 author: pebaum
 manager: matteva
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "2523"
 - "9000213"
-ms.openlocfilehash: 3ada8657ebe4cd29d1390f9c30f75d1b0b95056a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d492f26584199f76531f0c1afe026b4754383a1457b33c2e4c643fb13977b319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741575"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063072"
 ---
-# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Dosyaların SharePoint veya OneDrive 'dan indirilmesini önle
+# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Dosyaların zaman içinde veya başka bir SharePoint indir OneDrive
 
-İndirmelere engel olmak veya engellemek için kullanılabilecek çeşitli yöntemler vardır. İlgili metotlar için aşağıdaki bağlantıları ziyaret edin:
+İndirme indirmelerinin önlenmesi veya engellenmiş olması için kullanılmaktadır. İlgili yöntemler için lütfen aşağıdaki bağlantıları ziyaret edin:
 
-- [Azure AD koşullu erişimi ile dosya indirmeyi engelleme](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Azure AD koşullu erişimiyle Dosya indirmeyi engelleme](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
 - [Yönetilmeyen cihazlardan erişimi denetleme](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [İçerik indirmeyi sınırlandırmak için SharePoint belge kitaplıklarında ıRM ilkelerini yapılandırma](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
+- [İçerik indirmeyi sınırlamak için SharePoint kitaplıklarında IRM ilkelerini yapılandırma](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
