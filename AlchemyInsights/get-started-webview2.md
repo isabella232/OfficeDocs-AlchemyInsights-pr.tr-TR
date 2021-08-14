@@ -11,21 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "11938"
 - "9007100"
-ms.openlocfilehash: b7cff060379bee1da07db1d5f8e5d1a861d223482ddabdaf1ca086d1a9be67f4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 22d80b4dcabaf81c25352445c7e20daaab5bf2f9838c9d4c39057bda423a2ecc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57813073"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868626"
 ---
 # <a name="get-started-with-microsoft-webview2"></a>Microsoft WebView2 ile çalışmaya başlama
 
 WebView2 denetimi kullanarak uygulama oluşturmak ve test etmek için WebView2 SDK yüklü olması gerekir. Çalışmaya devam etmek için aşağıdaki seçeneklerden birini belirleyin:
 
-- [Başlarken Win32 C/C++ ile çalışma](/microsoft-edge/webview2/get-started/win32)
-- [WPF ile Başlarken](/microsoft-edge/webview2/get-started/wpf)
-- [Başlarken formlarla birlikte](/microsoft-edge/webview2/get-started/winforms)
-- [winUI3 ile Başlarken](/microsoft-edge/webview2/get-started/winui)
+- [Başlarken 32 C/C++ ile çalışma](https://docs.microsoft.com/microsoft-edge/webview2/get-started/win32)
+- [WPF ile Başlarken](https://docs.microsoft.com/microsoft-edge/webview2/get-started/wpf)
+- [winforms Başlarken ile birlikte](https://docs.microsoft.com/microsoft-edge/webview2/get-started/winforms)
+- [WinUI3 Başlarken ile birlikte](https://docs.microsoft.com/microsoft-edge/webview2/get-started/winui)
 
 WebView2 Örnekleri havuzu, tüm WebView2 SDK özelliklerini ve API kullanım desenlerini gösteren örnekler içerir. WebView2 SDK'ye daha fazla özellik eklendikça, örnek uygulamalar güncelleştirilir.
 

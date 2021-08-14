@@ -1,5 +1,5 @@
 ---
-title: Yönetici onayı sorunları
+title: Yönetici izin sorunları
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004354"
 - "7786"
-ms.openlocfilehash: 6154b4b9cce51be3271cb25132f409319d8da14b
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: 08d3bfa84fd5ab31d7165090c392866d863898545ade7631e820a100eef89dea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901515"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952593"
 ---
-# <a name="admin-consent-issues"></a>Yönetici onayı sorunları
+# <a name="admin-consent-issues"></a>Yönetici izin sorunları
 
-1. Kullanıcıların doğrudan onay ekranından yönetici onayı istemesini sağlamak için [yönetici onayı iş akışını](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) etkinleştirin.
+1. Kullanıcıların doğrudan [izin ekranından yönetici](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) onayı isteği eklemesine izin vermek için yönetici izni iş akışını etkinleştirin.
 
-1. Siz veya uygulamanızın kullanıcıları izin işlemi sırasında beklenmeyen hatalar görüyorsanız, sorun giderme adımları için bu makaleye bakın: [bir uygulamaya izin uygularken beklenmeyen hata](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
+1. Siz veya uygulamanın kullanıcıları izin sürecinde beklenmedik hatalar görüyorsanız, sorun giderme adımları için şu makaleye bakın: Uygulamaya izin yaparken [beklenmeyen hata.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)
 
-1. [Microsoft Identity platformunda yönetici onayı](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent)hakkında daha fazla bilgi, [onay isteminin](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) nasıl çalıştığı ve [kiracı genelinde yönetici onayı için bir talebi değerlendirme](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).
+1. kullanıcı izni, [izin isteminin nasıl Microsoft kimlik platformu](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) [](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) ve kiracı genelinde yönetici izni isteğini değerlendirme hakkında daha fazla [bilgi alın.](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent)
 
-1. Microsoft Identity platform ile birleşen uygulamalar, kullanıcıların ve yöneticilerin verilere nasıl erişilebileceğini denetler. Yetkilendirme modelinin uygulaması Microsoft Identity platform uç noktasında güncelleştirilmiştir ve bir uygulamanın Microsoft Identity platformuyla etkileşimde bulunma şeklini değiştirir. Kapsamlar, izinler ve izin gibi bu yetkilendirme modeline genel bakış için [Microsoft Identity platform uç noktasındaki izinler ve kabul](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) 'e bakın.
+1. Kullanıcılara ve yöneticilere Microsoft kimlik platformu erişilebilirlik üzerinde denetim veren bir yetkilendirme modeline sahip olan uygulamalar. Yetkilendirme modelinin uygulanması Microsoft kimlik platformu uç noktada güncelleştirilmiştir ve bir uygulamanın Microsoft kimlik platformu. [Kapsamlar, izinler ve Microsoft kimlik platformu dahil](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) olmak üzere bu yetkilendirme modeline genel bir bakış için bkz. İlk uç noktadaki İzinler ve izinler.

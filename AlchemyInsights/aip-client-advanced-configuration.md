@@ -1,5 +1,5 @@
 ---
-title: AıP istemcisi Gelişmiş yapılandırması
+title: AIP istemcisi gelişmiş yapılandırması
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,39 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "4781"
 - "9002277"
-ms.openlocfilehash: 2ef8535c66dabe75418df0b5ae53f27ffd6caca1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d2b096b9b438f257a50c9ec48379009f2a3798c1812fa531cdc30e61a5460a1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951837"
 ---
-# <a name="aip-client-advanced-configuration"></a>AıP istemcisi Gelişmiş yapılandırması
+# <a name="aip-client-advanced-configuration"></a>AIP istemcisi gelişmiş yapılandırması
 
-AIP istemcisinin gelişmiş yapılandırmasıyla ilgili sorun mu yaşıyorsunuz? Öyleyse, aşağıdakileri yapın:
+AIP istemcisinin gelişmiş yapılandırmasıyla ilgili sorunlar mı var? Öyleyse, şunları yapın:
 
-1. Düzgün yapılandırılmamış kapsamlı ilkeler kullanıyor olabilirsiniz. Daha fazla bilgi için, [kapsamlı ilkeler kullanarak belirli kullanıcılar Için Azure bilgi koruması ilkesini yapılandırma](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)bölümüne bakın.
+1. Düzgün yapılandırılmamış kapsamda ilkeler kullanıyorsanız. Daha fazla bilgi için [bkz. Kapsamındaki ilkeleri kullanarak belirli kullanıcılar için Azure Information Protection ilkesi nasıl yapılandırılır.](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
 
-2. Sorunu yaşamaya devam ediyorsanız aşağıdaki kaynaklara bakın. Sorun çözülmeye devam ederse, sorunun ekran görüntüsünü alın ve destek biletini bağlayın.
+2. Bu sorunu görmeye devam ediyorsanız aşağıdaki kaynaklara bakın. Sorun çözümlenmemiş olarak kalırsa, sorunun ekran görüntüsünü alın ve destek biletine iliştirin.
 
-Ek kaynaklar için bkz:
+Daha fazla kaynak için bkz.
 
-- [Azure bilgi koruması için ilke ayarlarını yapılandırma](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
+- [Azure Information Protection için ilke ayarlarını yapılandırma](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
     
-- [Yönetici Kılavuzu: Azure bilgi Koruması istemcisi için özel yapılandırmalar](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
+- [Yönetici Kılavuzu: Azure Information Protection istemcisi için özel yapılandırmalar](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
     
-- [Azure bilgi koruması nedir?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [Azure Information Protection nedir?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
     
-- [Azure bilgi koruması 'nı kullanan ortak senaryolar için nasıl yapılır kılavuzları](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Azure Information Protection kullanan yaygın senaryolar için nasıl işlem kılavuzları](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
-- [Azure bilgi koruması ilkesini yapılandırma](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
+- [Azure Information Protection ilkesi yapılandırma](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
     
-- [Varsayılan Azure bilgi koruması ilkesi](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
+- [Varsayılan Azure Information Protection ilkesi](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
     
-- [Azure bilgi koruması için yeni etiket oluşturma](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
+- [Azure Information Protection için yeni etiket oluşturma](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
     
-- [Haklar yönetimi koruması için etiket yapılandırma](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
+- [Hak Yönetimi koruması için etiket yapılandırma](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
     
-- [Azure bilgi koruması gereksinimleri](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Azure Information Protection gereksinimleri](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 
-- [Öğretici: Azure bilgi koruması ilke ayarlarını yapılandırma ve yeni etiket oluşturma](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Öğretici: Azure Information Protection ilke ayarlarını yapılandırma ve yeni etiket oluşturma](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

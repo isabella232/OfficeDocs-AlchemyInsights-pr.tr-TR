@@ -1,5 +1,5 @@
 ---
-title: Uygulama ara sunucusu bağlantı sorunu
+title: Uygulama Ara Sunucusu Bağlantı Sorunu
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7801"
-ms.openlocfilehash: b4f5d96cf92b37ecc31a11c0f33db2e3db8510cc
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: bbe71ac33b3ffc9d7414369432ce096520a3f7f1d8a0e34a256df2db7765d583
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885406"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951621"
 ---
-# <a name="app-proxy-connection-issue"></a>Uygulama ara sunucusu bağlantı sorunu
+# <a name="app-proxy-connection-issue"></a>Uygulama Ara Sunucusu Bağlantı Sorunu
 
-1. Uygulama Proxy hizmetini şirket içi bir Web uygulamasına uzaktan erişim için kullanıyorsanız ancak uygulamaya bağlanma konusunda sorun yaşıyorsanız, Azure Active Directory (Azure AD) uygulama proxy bağlayıcıları ile ilgili sorunları gidermenize yardımcı olması için [Bu makaleyi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) kullanın.
-2. Azure Active Directory ile tümleştirilmiş bir uygulama proxy uygulaması için bağlayıcı algılanmadığında çıkan yaygın sorunları çözmeye yönelik yardım almak için, [uygulama proxy uygulaması Için hiçbir çalışan bağlayıcı grubu bulunamadı](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector) makalesindeki adımları izleyin.
+1. Şirket içi web uygulamasına uzaktan erişim için Uygulama Ara Sunucusu hizmetini kullanıyorsanız, ancak uygulamaya [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) bağlanırken sorun ediyorsanız, Azure Active Directory (Azure AD) Uygulama Ara Sunucusu bağlayıcıları ile ilgili sorunları gidermenize yardımcı olması için bu makaleyi kullanın.
+2. Azure Active Directory ile tümleşik Uygulama Ara Sunucusu uygulaması için bağlayıcı algılanmadan karşılaşılan yaygın sorunları çözme konusunda yardım [](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector) için, Sorun gidermeye yönelik Uygulama Ara Sunucusu uygulaması için hiçbir çalışma bağlayıcısı grubu bulunamadı makalesinde yer alan adımları izleyin.

@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951693"
 ---
 # <a name="app-permission-policies"></a>Uygulama izin ilkeleri
 
-[Uygulama izin ilkeleriyle](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)aşağıdakileri yapabilirsiniz:
-- Yönetici olarak, [Microsoft ekipleri Yönetim merkezinde](https://admin.teams.microsoft.com/policies/app-permission)uygulama kurulum ilkelerini yönetebilirsiniz.
-- Kuruluşunuzdaki Microsoft ekipleri kullanıcıları için hangi uygulamaların kullanılabilir olduğunu kontrol edin ya da uygulamalara Kullanıcı erişimini özelleştirmek ve denetlemek için [özel ilkeler oluşturup atayın](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) . 
+Uygulama [izin ilkeleri](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)ile şunları yapabilirsiniz:
+- Yönetici olarak, uygulama kurulum ilkelerini yönetim [merkezinden Microsoft Teams yönetebilirsiniz.](https://admin.teams.microsoft.com/policies/app-permission)
+- Genel ilke kullanarak Microsoft Teams kullanıcılarına hangi uygulamaların kullanılabilir olduğunu [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) kontrol edin veya özel ilkeler oluşturmak ve uygulamalara kullanıcı erişimini özelleştirmek ve atamak için özel ilkeler attayabilirsiniz. 
 > [!NOTE]
-> Kuruluş genelinde uygulama ayarları genel ilkeyi ve sizin oluşturduğunuz ve kullanıcılara atadığınız tüm özel ilkeleri geçersiz kılar.
-- Microsoft ekipleri kullanıcılarınız için en önemli uygulamaları vurgulamasını özelleştirmek için [uygulama kurulumu ilkelerini](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) kullanabilirsiniz. 
+> Kuruluş genelindeki uygulama ayarları, genel ilkeyi ve oluşturarak kullanıcılara atadığınız tüm özel ilkeleri geçersiz kılar.
+- Kullanıcılarınız için [en önemli uygulamaları](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) vurgulamak Microsoft Teams ayarları özelleştirmek için uygulama kurulum ilkelerini kullanabilirsiniz. 
 
 
 Kiracınız için uygulama ilkeleri oluşturma hakkında daha fazla bilgi için bkz:
-- [Microsoft ekipleri Yönetim merkezinde uygulamalarınızı yönetme](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Microsoft ekiplerde Uygulama izin ilkelerini yönetme](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Microsoft ekiplerde özel uygulama ilkelerini ve ayarlarını yönetme](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+- [Uygulamalarınızı yönetim merkezinden Microsoft Teams yönetme](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Web uygulamasında uygulama izin ilkelerini Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Bir uygulamada özel uygulama ilkelerini ve Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
