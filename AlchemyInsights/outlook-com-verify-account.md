@@ -14,24 +14,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 602b4592ac07c655cd807f09e1a286741235e728
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d65ee2ec5507e3a691c5db6c44e5790ca60c47ac9b52e04f4c9052bf9503402d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694259"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961611"
 ---
 # <a name="how-to-verify-your-outlookcom-account"></a>Outlook.com hesabınızı doğrulama
 
-İki aşamalı doğrulama, başkalarının Microsoft hesabınızda oturum açmasını zorlaştırır. İki farklı kimlik biçimi kullanır: parolanız ve bir kişi yöntemi (güvenlik bilgileri olarak da bilinir).
+İki aşamalı doğrulama, başka birinin Microsoft hesabınızla oturum açmasını zorlaştırarak korunmanıza yardımcı olur. İki farklı kimlik formu kullanır: parolanız ve bir iletişim yöntemi (güvenlik bilgileri olarak da bilinir).
   
 İki aşamalı doğrulamayı açmak veya kapatmak için:
   
-1. [Güvenlik temel bilgileri sayfasına](https://go.microsoft.com/fwlink/?linkid=842325) gidin ve Microsoft hesabınızla oturum açın.
-2. **Diğer güvenlik seçenekleri**'ni seçin.
-3. **İki aşamalı doğrulama**altında **Iki aşamalı doğrulamayı ayarla** 'yı seçin ve yönergeleri izleyin.
+1. Güvenlikle [ilgili temel bilgiler sayfasına gidin](https://go.microsoft.com/fwlink/?linkid=842325) ve Microsoft hesabınızla oturum açın.
+2. Diğer **güvenlik seçenekleri'ne tıklayın.**
+3. İki **aşamalı doğrulama'nın** altında İki **aşamalı doğrulama ayarlayın'ı seçin** ve yönergeleri izleyin.
 
-İki aşamalı doğrulamayı açarsanız, her zaman iki tanımlama biçimi gerekecektir. Kişi yönteminizi kaybederseniz, parolanız yalnızca hesabınıza geri dönmeyecektir ve erişimi yeniden kazanmak için 30 gün sürebilir.
+İki aşamalı doğrulamayı açmak için her zaman iki kimlik formuna ihtiyacınız vardır. İletişim yönteminizi kaybederseniz, tek başına parolanız sizi hesabınıza geri dönmez ve yeniden erişim kazanmak 30 gün kadar sürer.
   
-[İki aşamalı doğrulama](https://go.microsoft.com/fwlink/?linkid=872270)hakkında daha fazla bilgi edinin.
+İki aşamalı doğrulama [hakkında daha fazla bilgi edinin.](https://go.microsoft.com/fwlink/?linkid=872270)
   

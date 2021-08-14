@@ -1,5 +1,5 @@
 ---
-title: Windows 10Wi-Fi da ağ parolasını görüntüleme
+title: Ağ Wi-Fi parolanızı e-posta Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 91fa09c3d90db6d313a811c2b78a2feda4b001f48f7914c0d6e2b81627400fbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51807398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990167"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>Windows 10Wi-Fi da ağ parolasını görüntüleme
+# <a name="view-wi-fi-network-password-in-windows-10"></a>Ağ Wi-Fi parolanızı e-posta Windows 10
 
-1. Windows 10 bilgisayarınızın bilgisayarınıza bağlı olduğundan emin Wi-Fi olun.
+1. Bilgisayarınızın Windows 10 bilgisayarınıza bağlı olduğundan emin Wi-Fi olun.
 
-2. Ayarlar ve **Ağ > Ağ & Durumu'> gidin** veya sizi [](ms-settings:network?activationSource=GetHelp) hemen oraya götürmmıza izin almak için buraya tıklayın veya dokunun.)
+2. İnternet **Ayarlar > Durumu'& gidin > sizi** oraya götürmemizi için [](ms-settings:network?activationSource=GetHelp) buraya tıklayın veya dokunun.)
 
 3. Ağ **ve Paylaşım Merkezi'ne tıklayın.**
 

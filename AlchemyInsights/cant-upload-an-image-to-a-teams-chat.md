@@ -1,5 +1,5 @@
 ---
-title: Bir ekip sohbetine görüntü yükleyemiyorum
+title: Teams sohbete resim Teams yükleyem
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003308"
 - "6212"
-ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 858ab4986a269d307b50965ad9077adb425541938cd91e60dc470db27d81d954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950032"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930821"
 ---
-# <a name="cant-upload-an-image-to-a-teams-chat"></a>Bir ekip sohbetine görüntü yükleyemiyorum
+# <a name="cant-upload-an-image-to-a-teams-chat"></a>Teams sohbete resim Teams yükleyem
 
 Sorun giderme önerileri:
 
-- Web 'de ekip kullanıyorsanız, başka bir tarayıcı deneyin. Desteklenen tarayıcıların listesi için, [Microsoft ekipleri Için limitlerin ve belirtimlerin](https://docs.microsoft.com/microsoftteams/limits-specifications-teams)"tarayıcılar" bölümüne bakın.
-- Donanımınızın ve işletim sisteminin uyumluluğunu denetleyin. Daha fazla bilgi için [Microsoft ekipleri Için donanım gereksinimleri](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app)konusuna bakın.
-- En son takımlar sürümüne sahip olup olmadığını denetleyin. Daha fazla bilgi [için bkz.](https://docs.microsoft.com/microsoftteams/teams-client-update)
+- Web üzerinde Teams kullanıyorsanız, farklı bir tarayıcı deneyin. Desteklenen tarayıcıların listesi için, Tarayıcılar için sınırlar ve belirtimler [bölümündeki "Tarayıcılar" Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams)
+- Donanımınız ve işletim sisteminizin uyumluluğunu kontrol edin. Daha fazla bilgi için [bkz. Donanım gereksinimleri Microsoft Teams.](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app)
+- En son sürüme sahip olup Teams kontrol edin. Daha fazla bilgi için [bkz. Teams güncelleştirme işlemini](https://docs.microsoft.com/microsoftteams/teams-client-update) güncelleştirme.

@@ -13,62 +13,62 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7841"
-ms.openlocfilehash: 2ef90b54ce222a06740e05891fabe87b6565cb14
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: ce4c89da79112726ed4fb25527edc8d082bd37f239595b9eab7279abeeecfd7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984655"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931469"
 ---
 # <a name="application-errors"></a>Uygulama hataları
 
-Azure Active Directory (Azure AD) güvenlik belirteci hizmeti 'nden (STS) döndürülen **Aadsts hata kodları** hakkında bilgi mi arıyorsunuz? ADSTS hata açıklamaları, düzeltmeler ve önerilen bazı geçici çözümler için [Azure AD doğrulama ve yetkilendirme hata kodlarını](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) okuyun.
+AZURE ACTIVE DIRECTORY (Azure AD) güvenlik belirteci hizmetlerinden (STS) döndürülen **AADSTS** hata kodları hakkında bilgi mi arıyorsunuz? AADSTS [hata açıklamalarını,](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) düzeltmelerini ve önerilen bazı geçici çözümleri bulmak için Azure AD Kimlik Doğrulama ve yetkilendirme hata kodlarını okuyun.
 
-Yetkilendirme hataları, çoğu ayrı bir 401 veya 403 hatası üreten çeşitli sorunlardan oluşur. Örneğin, aşağıdakiler tüm yetkilendirme hatalarına neden olabilir:
+Yetkilendirme hataları, çoğu 401 veya 403 hatası oluşturan birkaç farklı sorunun sonucu olabilir. Örneğin, aşağıdakilerin hepsi yetkilendirme hatalarına neden olabilir:
 
-- Yanlış [erişim belirteci alma akışları](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) 
+- Yanlış [erişim belirteci edinme akışları](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) 
 - Kötü yapılandırılmış [izin kapsamları](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) 
-- [İzin](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent) eksikliği
+- [Onay](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent) eksikliği
 
-Yaygın kimlik doğrulama hatalarını çözmek için, aşağıdaki adımlardan aldığınız hatayla en yakın şekilde eşleştiğini deneyin. Birden çok bulunabilir.
+Yaygın yetkilendirme hatalarını çözmek için, aşağıda verilen ve alırsınız hataya en yakın şekilde eşleşen adımları deneyin. Birden fazla başvuru olabilir.
 
-**401 yetkisiz hatası: belirteciniz geçerli mi?**
+**401 Yetkisiz hata: Belirteciniz geçerli mi?**
 
-Uygulamanızın, isteğin bir parçası olarak Microsoft Graph 'a geçerli bir erişim belirteci sunduğunuzdan emin olun. Bu hata, genellikle erişim belirtecinin HTTP kimlik doğrulaması istek üst bilgisinde eksik olabileceği veya belirtecin geçersiz veya süresinin dolduğu anlamına gelir. Access belirteci alma için [Microsoft kimlik doğrulama kitaplığı 'nı (msal)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) kullanmanızı kesinlikle öneririz. Ayrıca, yalnızca iş veya okul hesaplarını destekleyen bir API 'ye erişmek için kişisel bir Microsoft hesabına atanmış bir temsilci erişim belirtecini kullanmaya çalışırsanız bu hata oluşabilir.
+İsteğin bir parçası olarak, uygulamanın Microsoft Graph bir erişim belirteci sun olduğundan emin olun. Bu hata genellikle erişim belirtecinin HTTP kimlik doğrulama isteği başlığında eksik olabileceği veya belirtecin geçersiz veya süresi dolmuş olabileceği anlamına gelir. Erişim belirteci alımı için [Microsoft Kimlik Doğrulama Kitaplığı'nın (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) kullanımını kesinlikle öneririz. Buna ek olarak, yalnızca iş veya okul hesaplarını (kuruluş hesapları) destekleyen bir API'ye erişmek için kişisel Microsoft hesabına verilen temsili erişim belirteci kullanmaya çalışırsanız bu hata oluşabilir.
 
-**403 Yasak hatası: doğru izin kümesini seçtiniz misiniz?**
+**403 Yasak hata: Doğru izin kümesini seçtiniz mi?**
 
-Uygulamanızın çağrı yaptığınız Microsoft Graph API 'Lerine göre doğru izin kümesini istemiş olup olmadığını denetleyin. Önerilen en az ayrıcalıklı izinler tüm Microsoft Graph API başvuru yöntemi konularında sağlanır. Ayrıca, bu izinler bir kullanıcı veya yönetici tarafından uygulamaya verilmelidir. İzinleri normalde izin verme sayfası aracılığıyla veya Azure portal uygulaması kayıt Uygulamanın **Ayarlar** dikey penceresinde, **gerekli izinler**'ı ve sonra **izin ver**'i tıklatın.
+Uygulama aramalarınızı alan Microsoft Veri Api'lerine dayalı olarak doğru izin Graph isteğinizi denetleyin. Tüm Microsoft Graph API başvuru yöntemi konularında önerilen en Graph izinler sağlanır. Ek olarak, bu izinlerin uygulamaya bir kullanıcı veya yönetici tarafından verilmesi gerekir. İzinlerin verilmesi normalde bir izin sayfası üzerinden veya Azure Portal uygulama kayıt blade'i kullanılarak izin verilmesiyle gerçekleşir. Uygulamanın **Ayarlar** penceresinden, **Gerekli İzinler** öğesine tıklayın ve ardından **İzinleri Ver** öğesine tıklayın.
 
 - [Microsoft Graph izinleri](https://docs.microsoft.com/graph/permissions-reference) 
-- [Azure AD izinlerini ve onayı anlama](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
+- [Azure AD izinlerini ve onayını anlama](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
 
-**403 Yasak hatası: uygulamanız seçilen izinleri eşlemek için bir belirteç edindim mu?**
+**403 Yasak hata: Uygulamanız seçilen izinlerle eşleşecek bir jeton aldı mı?**
 
-İstenen veya verilen izin türünün, uygulamanızın aldığı erişim belirtecinin türüyle eşleştiğinden emin olun. Uygulama izinlerini isteyebilir ve verebilir, ancak kimlik bilgileri akışı belirteçleri yerine temsilci olarak etkileşimli kod akışı belirteçlerini kullanabilir veya temsilci olarak atanmış izin verme
+İstenen veya verilen izinlerin türünün, uygulamanız tarafından alınan erişim belirteci türüyle aynı olduğundan emin olun. Uygulama izinleri ister ve vermekle birlikte, istemci kimlik bilgisi akış belirteçleri yerine temsili etkileşimli kod akış belirteçleri kullanıyor veya temsili izinler talep ediyor ve vermekle birlikte, temsili kod akış belirteçleri yerine istemci kimlik bilgisi akış belirteçleri kullanıyor da olabilirsiniz.
 
-- [Kullanıcılar adına ve temsilci atama izinlerine erişme](https://docs.microsoft.com/graph/auth_v2_user) 
-- [Azure AD v 2.0-OAuth 2,0 yetkilendirme kodu akışı](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
-- [Kullanıcı (daemon hizmeti) ve uygulama izinleri olmadan erişim alma](https://docs.microsoft.com/graph/auth_v2_service) 
-- [Azure AD v 2.0-OAuth 2,0 istemci kimlik bilgileri akışı](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
+- [Kullanıcılar ve yetki verilen izinler adına erişim elde edin](https://docs.microsoft.com/graph/auth_v2_user) 
+- [Azure AD v2.0 - OAuth 2.0 yetkilendirme kodu akışı](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [Kullanıcı (arka plan programı hizmeti) ve uygulama izinleri olmadan erişim sağlayın](https://docs.microsoft.com/graph/auth_v2_service) 
+- [Azure AD v2.0 - OAuth 2.0 istemci kimlik bilgileri akışı](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
 
-**403 Yasak hatası: parola sıfırlanıyor**
+**403 Yasak hata: Parola sıfırlamak**
 
-Şu anda, kullanıcı parolalarının sıfırlanmasına izin veren uygulama izni Daemon hizmeti hizmeti izinleri yoktur. Bu API 'Ler yalnızca, oturumu açılmış yönetici olan etkileşimli temsilci kod akışları kullanılarak desteklenir.
+Şu anda, kullanıcı parolalarının sıfırlanmasına izin veren arka plan programı hizmetinden hizmete yönelik uygulama izni yoktur. Bu API'ler, yalnızca oturum açmış bir yönetici ile etkileşimli, yetki verilmiş kod akışları kullanılarak desteklenir.
 
 - [Microsoft Graph izinleri](https://docs.microsoft.com/graph/permissions-reference)
 
-**403 Yasak: kullanıcının erişimi var mı ve lisanslıdır mi?**
+**403 Yasak: Kullanıcının erişimi var mı ve lisanslı mı?**
 
-Temsilci olarak atanan kod akışları için, uygulamaya verilen izinlere ve oturum açan kullanıcının izinlerine göre isteğe bağlı olarak Microsoft Graph tarafından değerlendirilir. Bu hata genellikle kullanıcının isteği gerçekleştirecek kadar ayrıcalıklı olmadığını veya kullanıcının erişilmekte olduğu veriler için lisanslı olmadığını gösterir. Yalnızca gerekli izinlere veya lisanslara sahip kullanıcılar isteği başarıyla yapabilir.
+Temsili kod akışları için Microsoft Graph, uygulamaya verilen izinlere ve oturum açmış kullanıcının sahip olduğu izinlere bağlı olarak, isteğin izin veriip verilme verilmeyecektir. Genel olarak bu hata, kullanıcının isteği gerçekleştirecek kadar ayrıcalıklı olmadığını veya kullanıcının erişilen veriler için lisansının olmadığını gösterir. Yalnızca gerekli izinlere veya lisanslara sahip kullanıcılar istekte başarılı olabilir.
 
-**403 Yasak: doğru kaynak API 'sini seçmiştiniz mi?**
+**403 Yasak: Doğru kaynak API'sini seçtiniz mi?**
 
-Microsoft Graph gibi API hizmetleri, alınan erişim belirtecindeki AUD talebinin (hedef kitle) kendisinin gerektirdiği değerle eşleştiğini denetleyin ve değilse, 403 Yasak hatasına neden olur. Bu hatayla sonuçlanan yaygın bir hata, Azure AD grafiği API 'Leri, Outlook API 'leri veya SharePoint/OneDrive API 'Lerinin Microsoft Graph (veya tam tersi) için edinildiği bir belirteç kullanmaya çalışıyor. Uygulamanızın çağrı yaptığınız API ile eşleşen bir belirteç aldığından emin olun.
+Microsoft Graph API hizmetleri, alınan erişim belirteci'nde yer alan aud talebinin (hedef kitlenin) kendisi için beklenilen değerle eşlenip eşleşme olmadığını kontrol eder ve eşleşmezse 403 Yasak hatasıyla sonuç verir. Bu hatayla sonuçlanan yaygın bir hata, Azure AD Graph API'leri, Outlook API'leri veya SharePoint/OneDrive API'leri için alınan bir belirteci Microsoft Graph'ı çağırmak için kullanmaya çalışmaktır (veya tam tersi). Uygulamanızın, uygulamanın çağırdığı API ile eşleşmek üzere bir belirteç elde ettiğinden emin olun.
 
-**400 Hatalı Istek veya 403 Yasak: Kullanıcı, kuruluşlarının koşullu erişim (CA) ilkelerine uygun mu?**
+**400 Hatalı İstek veya 403 Yasak: Kullanıcı, kuruluşun koşullu erişim (CA) politikalarına uyuyor mu?**
 
-Bir kuruluşun CA ilkelerine bağlı olarak, uygulamanız aracılığıyla Microsoft Graph kaynaklarına erişen bir Kullanıcı, uygulamanızın ilk edinildiği erişim belirtecinde bulunmayan ek bilgiler için sizi umsunmayabilir. Bu durumda, uygulamanız Access belirteci alımı veya Microsoft Graph 'ı ararken *insufficient_claims* hatasını içeren 403 *interaction_required* hatasıyla bir 400 alır. Her iki durumda da, hata yanıtı, kullanıcının ek bilgi (Multi-Factor Authentication veya Device kaydı gibi) için kimlik doğrulama uç noktasına sunulabilecek ek bilgiler içerir.
+Kuruluşun CA ilkelerine bağlı olarak, Microsoft Graph kaynaklarına kendi uygulamanız üzerinden erişen bir kullanıcı, başlangıçta edinilen erişim belirtecsinde yer alan ek bilgiler için zor olabilir. Bu durumda, uygulamanız erişim belirteci edinme sırasında bir *etkileşim_gerekli* hata içeren bir 400 veya Microsoft Graph arandığında *yetersiz_talep hatası içeren bir* 403 alır. Her iki durumda da, hata yanıtı ek bilgi için (çok faktörlü kimlik doğrulaması veya cihaz kaydı gibi) kullanıcıya meydan okumak için yetki uç noktasına sunabilirsiniz ek bilgiler içerir.
 
-- [MSAL kullanarak koşullu erişim sorunlarını işleme ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
-- [Azure Active Directory Koşullu erişimi için Geliştirici Kılavuzu](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)
+- [MSAL kullanarak koşullu erişim güçlüklerini işleme ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
+- [Azure Active Directory koşullu erişimi için geliştirici kılavuzu](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)

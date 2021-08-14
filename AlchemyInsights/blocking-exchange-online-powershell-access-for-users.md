@@ -1,5 +1,5 @@
 ---
-title: 763 kullanıcılar için Exchange Online PowerShell erişimini engelleme
+title: 763 Kullanıcıların PowerShell Exchange Online erişimini engelleme
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,18 +14,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: 8ac61cb2c1e055c67538e39e8459b3eb56c95592
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36d4b4bb25b825dbc04cc08744c6b7af590094ca91197fe4dd3d3a92c653cb0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685546"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931433"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>Kullanıcılar için Exchange Online PowerShell erişimini engelleme
-Yönetici olarak, kullanıcılarınız için Exchange Online PowerShell 'e erişimi engelleyebilirsiniz. Daha fazla bilgi için aşağıdaki konulara bakın:
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>Kullanıcılar Exchange Online PowerShell erişimini engelleme
+Yönetici olarak, kullanıcılarınız için PowerShell'Exchange Online erişimini engelleyebilirsiniz. Daha fazla bilgi için bu konulara bakın:
 
-- [Exchange Online PowerShell 'e erişimi etkinleştirme veya devre dışı bırakma](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [Exchange Online PowerShell'e erişimi etkinleştirme veya devre dışı bırakma](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- [Exchange Online 'Da Istemci erişimi kuralları](https://technet.microsoft.com/library/mt842508.aspx) ( **remotepowershell** protokolüne bakın) 
+- [Exchange Online İstemci Erişimi](https://technet.microsoft.com/library/mt842508.aspx) Kuralları **(RemotePowerShell protokolünü** bakın) 
 
-**Not**: konu başlığı altında açıklandığı gibi, Yöneticiler Için Exchange Online PowerShell 'e erişimi engellememeye dikkat edin.
+**Not:** Bu konuda açıklandığı gibi, yöneticiler için PowerShell'e erişimi Exchange Online dikkat edin.
