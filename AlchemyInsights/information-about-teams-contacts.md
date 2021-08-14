@@ -1,5 +1,5 @@
 ---
-title: Teams kişileri hakkında bilgi
+title: Kişi listesi Teams bilgiler
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: 49f813e7ae4942c11033260d5abd62827a92da1b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: a2efa52c3fcd90b255d5f1ccbb07c31f9c138e7a31dbe92f318418fb1643601d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037849"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868366"
 ---
-# <a name="information-about-teams-contacts"></a>Teams kişileri hakkında bilgiler
-
-Kişiler bir veya birkaç kullanıcıyla eşitlen yoksa, şunları yapın:
-- Kullanıcının Exchange posta kutusunun çevrimiçi barındır olduğundan emin olun (şirket içi değil). Daha fazla bilgi için bkz. [Exchange ve Microsoft Teams'in etkileşim kurması.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)
-- Kişinin telefon numarasının kişi bilgilerine eklendiklerine emin olmak.
+# <a name="information-about-teams-contacts"></a>Kişi listesi Teams bilgiler
 
 Teams şu kişileri kullanır:
 
-- Kuruluşun Active Directory'sinde yer alan kişiler
-- Kullanıcının Outlook varsayılan klasörüne eklenen kişiler
+- Kurumnizin Active Directory'sinde yer alan kişiler
+- Kullanıcının en son varsayılan klasörüne Outlook kişiler
 
-Teams kullanıcıları, active directory'nizin Active Directory'sinde yer alan herkesle iletişim kurabilir ve Sohbet > Kişiler veya Aramalar ve Kişiler'e gidip, kurum active directory'sinde **yer alan herkesi kişi olarak > ekleyebilir.**
+Kişiler tamamlanmadı veya bir veya birkaç kullanıcı için eşitlanmadısa, şunları yapın:
 
-Teams kullanıcıları, Kişi Arama'ya gidip, active directory'sinde yer alan ve kişi olarak yer > **ekleyebilir.**
+- Kullanıcının posta kutusunun çevrimiçi barındır Exchange (şirket içi değil) olduğundan emin olun. Daha fazla bilgi için [bkz. Exchange etkileşim Microsoft Teams.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)
+- Kişinin telefon numarasının kişi bilgilerine eklendi olduğundan emin olmak.
+- Arama çubuğunda kişinin e-postası **için arama.** Eşitlemeyi kişiler listesine alabilirler.
 
 

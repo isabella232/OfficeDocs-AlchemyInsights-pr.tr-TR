@@ -1,5 +1,5 @@
 ---
-title: Uygulamaları geçirme
+title: Uygulamalarıgrating
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7839"
-ms.openlocfilehash: 0664ec09a9633165ff0a7d4b33320b14abf7c4e7
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: c45c8c64427fd0122ef8c91f800b830f421fd9d78e7108962d4053700a3da519
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984650"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975337"
 ---
-# <a name="migrating-applications"></a>Uygulamaları geçirme
+# <a name="migrating-applications"></a>Uygulamalarıgrating
 
-Uygulama erişimini ve kimlik doğrulamayı Azure Active Directory 'ye (Azure AD) yükseltmenize yardımcı olacak şekilde [uygulamaları Azure Active Directory 'ye geçirmek Için kaynaklar](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources) .
+[Uygulamaları diğer uygulamalara geçirme kaynakları](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources) - Azure Active Directory erişimi ve kimlik doğrulamasını Azure Active Directory (Azure AD) için kaynaklar.
 
-[Uygulama kimlik doğrulamasını Active Directory Federasyon Hizmetleri 'Nden Azure Active Directory 'ye taşıma](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure) -uygulamaları Active Directory Federasyon Hizmetleri 'Nden Azure Active Directory 'ye geçirmeye yönelik geliştirici odaklı kılavuz.
+[Uygulama kimlik doğrulamasını Active Directory Federasyon Hizmetleri'Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure) - Uygulamaları Active Directory Federasyon Hizmetleri'den başka hizmetlere Azure Active Directory.

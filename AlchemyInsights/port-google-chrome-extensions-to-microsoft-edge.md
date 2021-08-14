@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge'e (Chromium) Google Chrome uzantıları bağlantı noktası
+title: Google Chrome uzantılarını başka bir Microsoft Edge (Chromium)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7102"
 - "8297"
 - "9004617"
-ms.openlocfilehash: 1c71d74d01c1e38e4c7789aea2c0b43701b3a5de
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 34ec7e71a2f27eb5b46395876a4d1c903189be1050e523796c9f2a817c20aaa0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505304"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973717"
 ---
-# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Microsoft Edge'e (Chromium) Google Chrome uzantıları bağlantı noktası
+# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Google Chrome uzantılarını başka bir Microsoft Edge (Chromium)
 
-Google Chrome uzantılarını [Microsoft Edge'e (Chromium) kolayca](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension)taşınabilir. Çoğu durumda, bu uzantıları Microsoft Edge'de çalıştırmak için yalnızca az değişiklik gereklidir.
+Google Chrome uzantılarını [Microsoft Edge (Chromium) bağlantı noktasına kolayca Chromium.](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) Çoğu durumda, bu uzantıları aynı anda çalıştırmak için yalnızca az Microsoft Edge.
 
-Google Chrome tarafından desteklenen uzantı API'leri ve bildirim anahtarları Microsoft Edge ile kodla uyumludur. Bununla birlikte, Microsoft Edge API'ler chrome.obm, chrome.identity.getAccounts, chrome.identity.getAuthToken ve chrome.instanceID uzantılarını desteklemez.
+Google Chrome tarafından desteklenen uzantı API'leri ve bildirim tuşları, KOD ile kodla Microsoft Edge. Öte Microsoft Edge, chrome.obm, chrome.identity.getAccounts, chrome.identity.getAuthToken ve chrome.instanceID uzantılarını desteklemez.
