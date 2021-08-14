@@ -1,5 +1,5 @@
 ---
-title: Windows AutoPilot kullanırken sorunları giderme
+title: AutoPilot'ı kullanırken Windows sorunları giderme
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: b86230d1073f2423a6abf694d5330dd72fec7912
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: 8fb28280952522ede040441c20434e34c19695aba00889e2978ed98ef1544819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949765"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008350"
 ---
-# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Windows AutoPilot kullanırken sorunları giderme
+# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>AutoPilot'ı kullanırken Windows sorunları giderme
 
-AutoPilot ile ilgili sorun yaşıyorsanız [Autopilot sorun giderme](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) ve [bilinen sorunlar](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) sayfalarına bakın.
+AutoPilot ile ilgili sorun giderme varsa AutoPilot Sorun Giderme [ve Bilinen](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) [Sorunlar sayfalarına](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) bakın.
 
-Windows AutoPilot 'de kayıt durumu sayfası (ESP) sırasında sorun yaşıyorsanız, sorununuzu gidermeye yönelik ipuçları için aşağıdaki belgeyi gözden geçirin. [Kayıt durumu sayfasını anlama ve sorun giderme](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
+AutoPilot'ın Kayıt Durumu Windows (ESP) aşamasında durdurulmasıyla ilgili sorun giderme konusunda sorun giderme ipuçları için lütfen aşağıdaki belgeyi gözden geçirin. [Kayıt Durumu Sayfasını anlama ve sorunlarını giderme](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
 
-HoloLens 2 cihazlarıyla Autopilot denemenizi arıyorsanız lütfen, "[HoloLens 2 belgeleri Için Windows Autopilot](https://docs.microsoft.com/hololens/hololens2-autopilot) " incelemesini unutmayın. Bu, Autopilot kullanarak HoloLens 2 ' ye kaydolurken önkoşul ve önerilen adımları anlamanıza yardımcı olur.  
+Hololens 2 cihazlarıyla AutoPilot'u denemek için " Windows[2](https://docs.microsoft.com/hololens/hololens2-autopilot) için AutoPilot'u HoloLens emin olun. Bu, Hololens 2'nin AutoPilot ile kaydını yapmak için önkulları ve önerilen adımları anlamanıza yardımcı olur  
 
-Windows Autopilot 'i ayarlama hakkında daha fazla bilgi [için bkz](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)
+AutoPilot'a Windows daha fazla bilgi için [bkz. AutoPilot Windows kullanarak Intune'da Windows kaydetme](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)

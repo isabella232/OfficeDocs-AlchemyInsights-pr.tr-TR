@@ -1,5 +1,5 @@
 ---
-title: Windows 10'da güç veya pil simgesi eksik
+title: Pil veya güç simgesi Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002953"
 - "5655"
-ms.openlocfilehash: 95b68cee58f88d04f02e29477b139f7f583dc0b1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 82d41844de1eafdf7e0cc38f91416f3b71868e3d5d1b3eb8be0f10abd701ddc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973367"
 ---
-# <a name="power-or-battery-icon-missing-in-windows-10"></a>Windows 10'da güç veya pil simgesi eksik
+# <a name="power-or-battery-icon-missing-in-windows-10"></a>Pil veya güç simgesi Windows 10
 
-Windows 10 cihazınızın pili varsa (örneğin, dizüstü bilgisayar veya tablet veya UPS'e USB ile bağlı bir bilgisayar), normalde saatin yakınında görev çubuğunda bir güç/pil simgesi gösterilir; örneğin:
+Windows 10 cihazınızın pili varsa (örneğin, dizüstü bilgisayar veya tablet veya UPS'ye USB ile bağlı bir bilgisayar), normalde saatin yakınında görev çubuğunda bir güç/pil simgesi gösterilir; örneğin:
 
 ![Pil simgesi](media/battery-icon.png)
 
 Bu simgeyi görmüyorsanız gizlenmiş olabilir:
 
-1. Görev çubuğunda **[Ayarlar > Kişiselleştirme > gidin.](ms-settings:taskbar?activationSource=GetHelp)**
+1. Görev **[çubuğunda Ayarlar > kişiselleştirme > gidin.](ms-settings:taskbar?activationSource=GetHelp)**
 
 2. Bildirim alanında Görev çubuğunda görünecek **simgeleri seçin seçeneğine tıklayın.**
 

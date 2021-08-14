@@ -1,5 +1,5 @@
 ---
-title: SharePoint grubundan kullanıcıları kaldırma
+title: Kullanıcı kaldırma SharePoint kaldırma
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: 7a66c8440ba7eb1bb0794efd94ad4e707b9d2298
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b34042a48baa26a7e2a4b6a29ff864f2eed823893d76fb8837704769b0ce5166
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094590"
 ---
-# <a name="remove-users-from-a-sharepoint-group"></a>SharePoint grubundan kullanıcıları kaldırma
+# <a name="remove-users-from-a-sharepoint-group"></a>Kullanıcı kaldırma SharePoint kaldırma
 
-SharePoint grubu, siteler ve içerik üzerinde aynı izin kümesine sahip kullanıcılar topluluğudur. Bir kerede tek bir kişiye izin atamak yerine, aynı anda birçok kişiye aynı izin düzeyini rahatça atamak için grupları kullanabilirsiniz.
+Site SharePoint, siteler ve içerik üzerinde aynı izin kümesine sahip kullanıcılar topluluğudur. Bir kerede tek bir kişiye izin atamak yerine, aynı anda birçok kişiye aynı izin düzeyini rahatça atamak için grupları kullanabilirsiniz.
 
 - [Gruptan kullanıcı kaldırma](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
-- [Yönetim merkezini kullanarak Microsoft 365 Gruplarında üyeleri ekleme veya kaldırma](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [Yönetim merkezini kullanarak Gruplarda Microsoft 365 ekleme veya kaldırma](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

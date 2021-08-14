@@ -1,5 +1,5 @@
 ---
-title: Sanallaştırılmış Masaüstü Altyapısı için Teams
+title: Teams Için Altyapı Planı
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: c7a3f6bcdd6b4b9d260d4cbe634952a02319a242
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 684fe91cf4e8cc6a767878efe397ccaf0f7cc0cf74ba29f21b40d77c18a028f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829432"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008530"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Sanallaştırılmış Masaüstü Altyapısı için Teams
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams Için Altyapı Planı
 
-Sanallaştırılmış Masaüstü Altyapısı ortamları için Teams hakkında ayrıntılı bilgi için bkz. [Sanallaştırılmış Masaüstü Altyapısı için Teams.](https://docs.microsoft.com/microsoftteams/teams-for-vdi)
+Sanallaştırılmış Masaüstü Altyapısı ortamları Teams hakkında ayrıntılı bilgi için bkz. [Teams Altyapısı için Ayrıntılı Bilgi](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
 
 VDI ortamlarındaki bilinen sorunlar ve [](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) sınırlamalar, aynı makalenin aşağıdaki konuları içeren Bilinen sorunlar ve sınırlamalar bölümünde ayrıntılı olarak açıklanmıştır:
  - İstemci dağıtımı, yükleme ve kurulum

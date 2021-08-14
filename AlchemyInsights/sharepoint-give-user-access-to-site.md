@@ -1,5 +1,5 @@
 ---
-title: Erişim Istekleri özelliği
+title: Erişim İstekleri özelliği
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,28 +12,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 4b7e0f0dfed0a96ed46b88c400bd6afaf8d3f225
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 79b2eb434a4d346843b86c2b284e5961439aea412e3828847b28927a08f17a70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941973"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a>Kullanıcılara SharePoint sitesine erişim verme
+# <a name="give-users-access-to-sharepoint-site"></a>Kullanıcılara sitenin erişim SharePoint verme
 
-Erişim isteği özelliği, kişilerin Şu anda görme izni olmayan içeriklere erişim istemesini sağlar. Site sahibi olarak, bir kullanıcı siteye erişim istediğinde bu özelliği size posta gönderecek şekilde yapılandırabilirsiniz. Daha fazla bilgi için lütfen [erişim Isteklerini ayarlama ve yönetme](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)seçeneğini ziyaret edin.
+Erişim isteği özelliği, kişilerin şu anda görme iznine sahip değilken içeriğe erişim isteğide bulundurmalarına olanak sağlar. Site sahibi olarak, birisi siteye erişim isteği gönderdiyseniz size posta göndermek üzere özelliği yapılandırabilirsiniz. Daha fazla bilgi için lütfen Erişim [isteklerini ayarlama ve yönetme sitesini ziyaret edin.](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
 
-Access istekleriyle ilgili sık karşılaşılan bağlantılar:
+Erişim istekleriyle ilgili bazı yaygın bağlantılar:
 
-- [SharePoint Online 'da bekleyen bir isteği işlediğinizde erişim engellendi "erişim Istekleri listesine veya" onay ıste başarısız oldu "](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
+- [SharePoint Online'da bekleyen bir isteği işlerken Erişim İstekleri listesine Erişim Reddedildi" veya "Onay isteği başarısız" SharePoint.](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
 - [Erişim istekleri ayarlarını değiştirme](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [Sitenin erişim isteklerini onaylama veya reddetme](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [Siteye erişim isteklerini onaylama veya reddetme](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [Dış kullanıcılarla davetleri yönetme (yalnızca SharePoint Online)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [Dış kullanıcılara davetleri yönetme (yalnızca SharePoint Çevrimiçi)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-- [Daveti yeniden gönderme](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [Daveti yeniden gönder](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Windows 10'da kullanıcı hesabını kaldırma
+title: Hesapta kullanıcı Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e994388f685f1f9980c10daac48ca4facb0ca542ea352e8fbd31bf451cff305
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835795"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094626"
 ---
-# <a name="remove-an-account-in-windows-10"></a>Windows 10'da hesap kaldırma
+# <a name="remove-an-account-in-windows-10"></a>E-postada hesap Windows 10
 
-Windows 10'dan şu şekilde hesap kaldırabilirsiniz:
+Bir hesabı şu şekilde Windows 10:
 
-1. Ayarlar Hesap **Aile**  >  **Aile**  >    >  **Aile & başka kişiler** (veya Windows 10 Enterprise kullanıyorsanız Diğer kişiler) gidin.
+1. Hesap Aile  >    >  **Ayarlar'&** diğer  >  **kişiler** (veya başka kişiler kullanıyorsanız, Başka kişiler) Windows 10 Enterprise.
 2. Kaldırmak istediğiniz hesabı seçin, Kaldır öğesini seçin **ve ardından** Hesabı ve verileri **sil'i seçin.**
  
 **Not:** Halen açık olan bir hesabı silemezsiniz.  Oturum akendi hesabı değiştirmeniz gerekirse:
