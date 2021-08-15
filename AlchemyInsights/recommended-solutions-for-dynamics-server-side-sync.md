@@ -1,5 +1,5 @@
 ---
-title: Dynamics sunucu tarafı eşitleme önerilen çözümler
+title: Dynamics Server-side Eşitleme Için Önerilen Çözümler
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,27 +12,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 3356ba938978573274b9d41e3e73f91807baf384
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c27f5261de7724373e414fea4ce59625b1b046f444076fe11bc7c16a194464d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797928"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991879"
 ---
-# <a name="dynamics-server-side-sync-recommended-solutions"></a>Dynamics sunucu tarafı eşitleme önerilen çözümler
+# <a name="dynamics-server-side-sync-recommended-solutions"></a>Dynamics Server-side Sync'in önerilen çözümleri
 
-* [Portalınızda gösterilen ayrıntılı sunucu hatasını görüntüleme](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Portalımda gösterilen ayrıntılı Sunucu Hatası nasıl görüntülenir](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [Portalı sıfırlama](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [Portal nasıl sıfırlanır](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [Bir portalın sunucu tarafı önbelleğini temizleme](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [Portal için sunucu tarafı önbelleğini temizleme](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Bir Dynamics 365 portalının kitlesini ve türünü değiştirme](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Dynamics 365 Portalı'nın hedef kitlesini ve türünü değiştirme](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [Portalın temel URL 'sini değiştirme](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [Portalın temel URL'sini değiştirme](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Portal ile dış kimlik sağlayıcısını yapılandırma](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Portalla dış Kimlik Sağlayıcısını yapılandırma](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Sık Sorulan Sorular](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Dynamics 365 Portalı 'nı kullanmaya başlama](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Dynamics 365 Portalım ile çalışmaya başlama](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

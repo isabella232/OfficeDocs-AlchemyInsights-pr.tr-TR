@@ -1,5 +1,5 @@
 ---
-title: Anında ödeme yapın-önerilen adımlar
+title: Anında ödeme yapma - önerilen adımlar
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,36 +13,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 7c25bf8f783ca067112d0d4e5d53970324376d7c435bfc22987508edc03f9e02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755819"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976777"
 ---
-# <a name="make-immediate-payment---recommended-steps"></a>Anında ödeme yapın-önerilen adımlar
+# <a name="make-immediate-payment---recommended-steps"></a>Anında ödeme yapma - önerilen adımlar
 
-Sorun açıklamanızı temel alarak sizin için bir çözüm bulduk. Çoğu müşteri, belgelerimizi takip ettikten sonra sorununu kendi başınıza çözümlerler.
+Sorun açıklamanıza bağlı olarak sizin için bir çözüm bulduk. Çoğu müşteri belgelerimizi takip ettikten sonra sorununuzu kendi kendine çöze kavuştur bulundu.
 
-Anlık bir ödeme yapmak için son ödenecek bakiyeyi çözmenizi sağlayın. Ödemeniz alınmıyorsa veya ödemenizi işleyemediğimizden, bir e-posta alabilirsiniz ya da hesap merkezinde veya Azure portalında geçmişte vadesi geçmiş bir bildirim uyarısı görebilirsiniz. 
+Hemen ödeme yapmak için geçmiş borç bakiyelerini çözümleyenin. Ödemeniz henüz alınamamıştır veya ödeme işleminizi tamamlayamazsa, Hesap Merkezi'nde veya Azure portalında bir e-postayla veya Geçmiş borç bakiyesi bildirimiyle bakabilirsiniz. 
 
-Kredi kartının süresi dolduysa veya kontör bankanızın reddetmesine sahipse ödeme işlemi işlenemez olabilir. Hesap Yöneticisi hesap merkezindeki kredi kartını gözden geçirebilir ve güncelleştirebilir. 
+Dosyada yer alan kredi kartının süresi dolduğunda veya ücretin bankanız tarafından reddedmiş olması ödeme işlemi başarısız olabilir. Hesap Yöneticisi, Hesap Merkezi'nde kredi kartını gözden geçirebilirsiniz ve güncelleştirebilirsiniz. 
 
-, Kontörünüzün kullanım süresi dolduğu için, harcama limitinize ulaştınız, vadesi geçmiş bir faturanızın bulunması, kredi kartı sınırınızdan veya aboneliğin hesap yöneticisi tarafından iptal edildiği için Azure aboneliğiniz devre dışı bırakılabilir.  
+Azure aboneliğiniz, kredinizin süresi dolduğundan, harcama sınırına ulaştığınız, süresi geçmiş faturanız olduğundan, kredi kartı limitini aştıktan veya Abonelik Hesap Yöneticisi tarafından iptal edildiği için devre dışı bırakılmış olabilir.  
 
-Kartın finans kurumunuz tarafından reddedilmesi nedeniyle kartta bekleyen bir ödeme varsa, sorunu çözmek için finans kurumunuzda arayarak ulaşın.  
+Kartın mali kurumunuz tarafından reddedilmiş olduğu için kartta bekleyen bir ödeme varsa, sorunu çözmek için mali kurumunuzla anlaşmalar yapmak gerekir.  
 
-Görmek için banka ile iletişim yapmanız gerekebilir:
+Aşağıdakini görmek için bankaya bakarak kontrol edin:
 
-- Karta uluslararası işlem 
-- Kartın bakiyeyi kapatmak için kredi limiti varsa 
-- Kartta yinelenen ödeme etkinleştirilmişse 
+- Uluslararası işlem karta yerleştirilmişse. 
+- Bakiyeyi dengelemek için kartın bir kredi sınırı varsa 
+- Kartta yinelenen ödeme etkinleştirildiyse 
 
-Ödemeniz reddedildiyse, bir abonelikle birden çok kişi varsa, hangi ödeme gerecini (PI) reddettiğini doğrulayın. Gerekirse, abonelikten PI 'yi değiştirin veya kaldırın. 
+Ödemeniz reddedildiyse, abonelikle ilişkilendirilmiş birden çok PI'nız varsa hangi ödeme aracının (PI) redded çalıştığını doğrulayın. Gerekirse PI'nizi abonelikten değiştirin veya kaldırın. 
 
 **Önerilen belgeler** 
 
 - [Azure için fatura bilgilerine erişimi yönetme](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Azure Hesap merkezinden fatura veya kullanım verilerini indirin](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Aboneliğimi yeniden etkinleştirme](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Azure için faturaya göre ödeme](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
+- [Azure Hesap Merkezi'nden fatura veya kullanım verilerini indirme](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Aboneliğimi yeniden etkinleştir](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Azure için faturayla ödeme](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 

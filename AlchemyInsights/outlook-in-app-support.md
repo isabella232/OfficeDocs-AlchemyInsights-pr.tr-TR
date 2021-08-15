@@ -1,5 +1,5 @@
 ---
-title: Kiracı, Outlook için uygulama içi desteği
+title: Kiracı, bu destek için uygulama içinde destek Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 76387d08ba2d99e2c27fe17f2e19840d71d24cde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c9929e0e0e7f13576cceea14e2cfd2cf468c475f49e216893667ca0fa1a00e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772210"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991915"
 ---
-# <a name="in-app-support-in-outlook-for-windows"></a>Windows için Outlook 'ta uygulama içi destek
+# <a name="in-app-support-in-outlook-for-windows"></a>Outlook için Windows'de uygulama Windows
 
-Kiracı Yöneticisi olarak, Windows için Outlook 'ta sorunlar için uygulama içi destek alabilirsiniz. Outlook 'ta **Help**  >  **Destek hizmetlerine**yardım et 'i seçin. Sorunuzu girin ve Windows için Outlook destek ekibinin bir üyesi iletinizi yanıtlar.
+Kiracı Yöneticisi olarak, kiracı yönetimiyle ilgili sorunlar için uygulama Outlook destek Windows. Destek Outlook Desimle İlgili   >  **Yardım'ı seçin.** Sorusunu girin; destek ekibine Outlook destek Windows üyesi iletinizi yanıtlar.

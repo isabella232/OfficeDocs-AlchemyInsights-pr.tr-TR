@@ -1,5 +1,5 @@
 ---
-title: Yammer 'da grupları yönetme
+title: Gruplarda Grupları Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,20 +12,20 @@ ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: 5ff325ea3d4b736b115b09bf4d8513938a61b1a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b4348ecb55a8f0dc57e1b51f913f21ccd2e2830fd62a81e4f47a77ef371a226
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976669"
 ---
-# <a name="manage-groups-in-yammer"></a>Yammer 'da grupları yönetme
+# <a name="manage-groups-in-yammer"></a>Gruplarda Grupları Yammer
 
-- **Grup oluşturma izni.** Yammer kimlerin grup görüntüleyebileceğini denetlemez. Ancak, bağlı Microsoft 365 grupları için Grup oluşturmayı yönetmek mümkündür. Daha fazla bilgi için [Microsoft 365 gruplarını yönetme](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups) konusuna bakın.
+- **Grup oluşturma izni.** Yammer, kimlerin grup oluştura onu kontrol olduğunu denetlemez. Bununla birlikte, bağlantılı grup grupları için grup oluşturma Microsoft 365 mümkündür. Daha [fazla bilgi için bkz. Microsoft 365 Grupları](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups) oluşturanları yönetme.
 
-- **Dinamik grup üyeliği.** Yammer 'a bağlı Microsoft 365 grupları için dinamik üyelik oluşturma hakkında bilgi için [Yammer 'Da dinamik grup oluşturma](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) konusuna bakın.
+- **Dinamik grup üyeliği.** Bağlantılı grup [gruplarında dinamik](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) üyelik Yammer için lütfen Yammer Grup Oluşturma Microsoft 365 bakın.
 
-- **Silinen gruplar geri yükleniyor.** [Silinmiş bir Microsoft 365 grubunu geri yükleme](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group) yoluyla Yammer gruplarını geri yükleme olanağı
+- **Silinmiş gruplar geri yükleniyor.** Gruplarda Yammer geri yükleme, Silinmiş bir grubu geri yükleme [Microsoft 365 Bağlı](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group) olmayan gruplar, silme sonrasında geri yüklenemez.
 
-Grup yönetme hakkında daha fazla bilgi için [Yammer 'da grup yönetme](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)bölümüne bakın. Bağlı Microsoft 365 grupları hakkında bilgi için [Yammer ve Microsoft 365 Groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)konusuna bakın.
+Grubu yönetme hakkında daha fazla bilgi için bkz. Grup [yönetimi Yammer.](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2) Bağlı Gruplar hakkında daha Microsoft 365 için bkz. [Gruplarda Yammer Microsoft 365.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)
   

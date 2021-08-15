@@ -1,5 +1,5 @@
 ---
-title: Bing Haritalar'ı kurum için yönetme
+title: Bing Haritalar için postalarınızı yönetme
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9161"
-ms.openlocfilehash: c90afb1ea6664e8ef402981e70fe7c2bc8f07108
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c1050208403f708db8ad557f70d7b23d5ea0f44ae9f2da76b37ead2b9b90436e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976705"
 ---
-# <a name="manage-bing-maps-for-your-organization"></a>Bing Haritalar'ı kurum için yönetme
+# <a name="manage-bing-maps-for-your-organization"></a>Bing Haritalar için postalarınızı yönetme
 
-Power Platform yönetim merkezinde  Ekli içerik altında Bing Haritalar'ı açınca, kullanıcılar kişileri, müşteri adaylarını veya hesapları görüntüledikten sonra Bing Haritalar'da bir müşteri görebilirler.
+Power Platform yönetim Bing Haritalar'nin  altındaki Eklenmiş içerik'i Bing Haritalar kişiler, müşteri adayları veya hesapları görüntüledikten sonra kullanıcılar Bing Haritalar'de bir müşteri görebilir.
 
-Daha fazla bilgi edinmek için, [bkz. Bing Haritalar'ı kurum için yönetme.](https://go.microsoft.com/fwlink/?linkid=2152757)
+Daha fazla bilgi edinmek için [bkz. Bing Haritalar yönetme](https://go.microsoft.com/fwlink/?linkid=2152757).

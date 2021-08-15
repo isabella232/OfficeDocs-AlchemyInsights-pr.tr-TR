@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004199"
 - "7380"
-ms.openlocfilehash: 0c08cfee8264d6aac1166aeb11c0417e17c63fac
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 0e01230010df55e6ceb8508d86fd4833112c0972d5130871b717545d2b427170
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679371"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014776"
 ---
 # <a name="in-place-upgrade-with-configuration-manager-guide"></a>Configuration Manager Kılavuzu ile yerinde yükseltme
 
-Yerinde yükseltme süreci, varolan işletim sistemi sürümünde tüm verileri, ayarları, uygulamaları ve sürücüleri korur. Son derece güvenilir olmak ve bir sorunla karşılaşıldığında, önceki işletim sistemine geri döneme olanağı vardır.
+Yerinde yükseltme işlemi, var olan işletim sistemi sürümündeki tüm verileri, ayarları, uygulamaları ve sürücüleri korur. Son derece güvenilir olacak şekilde tasarlanmıştır ve herhangi bir sorunla karşılaşırsanız otomatik olarak önceki işletim sistemine geri dönme özelliğine sahiptir.
 
-Windows 7 ve Windows 8,1 cihazlarını Windows 10 ' un en son sürümüne yükseltirken [Configuration Manager ile yerinde yükseltmeyi](https://admin.microsoft.com/adminportal/home#/win10upgrade) kullanma. Önkoşulları denetlemek ve yerinde yükseltmeyi otomatik olarak yapılandırmak için sağlanan betiği kullanacaksınız.
+Windows 7 ve Windows 8.1 cihazları son sürümüne yükseltirken [Configuration Manager](https://admin.microsoft.com/adminportal/home#/win10upgrade) kılavuzu ile Yerinde yükseltmeyi Windows 10. Sağlanan betiği kullanarak önkoşulları denetlemeniz ve yerinde bir yükseltmeyi otomatik olarak yapılandırmanız gerekir.

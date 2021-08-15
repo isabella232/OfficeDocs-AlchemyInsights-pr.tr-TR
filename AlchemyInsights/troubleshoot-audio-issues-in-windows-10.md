@@ -1,5 +1,5 @@
 ---
-title: Windows 10'da ses sorunlarını giderme
+title: E-postada ses Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039446"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a>Windows 10'da ses sorunlarını giderme
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>E-Windows 10'de ses sorunlarını giderme
 
 **Ses sorun gidericisini çalıştırma**
 
@@ -55,12 +55,12 @@ Sürücülerin güncel olduğundan emin olmak için:
 
 2. Ses, **video ve oyun kumandaları altında** ses kartınızı seçin, açın, Sürücü sekmesini **seçin** ve Sürücüyü **Güncelleştir'i seçin.**
 
-**Not:** Windows yeni bir sürücü bulamazsa cihaz üreticisinin web sitesinden bir sürücü bulun ve yönergeleri izleyin.
+**Not:** Windows sürücü bulamazsa cihaz üreticisinin web sitesinden bir sürücü bulun ve yönergeleri izleyin.
 
 **Sürücüyü yeniden yükleyin**
 
 Cihaz Yöneticisi aracılığıyla güncelleştire değilken üreticinin web sitesinde yeni bir sürücü bulamıyorsanız şu adımları deneyin:
 
-1. Cihaz Yöneticisi'nde ses sürücüsüne sağ tıklayın (veya basılı tutun) ve Kaldır öğesini **seçin.** Cihazınızı yeniden başlatın; Windows sürücüyü yeniden yüklemeyi dener.
+1. Cihaz Yöneticisi'nde ses sürücüsüne sağ tıklayın (veya basılı tutun) ve Kaldır öğesini **seçin.** Cihazınızı yeniden başlatın ve Windows yeniden yüklemeyi denemeniz gerekir.
 
-2. Sürücüyü yeniden yüklemek işe yaramadı mı? Windows ile birlikte gelen genel ses sürücüsünü kullanmayı deneyin. Cihaz Yöneticisi'nde ses sürücüne sağ tıklayın (veya basılı tutun) > Sürücü yazılımını güncelleştir Sürücü yazılımı için bilgisayarıma göz at Bilgisayarımda bulunan cihaz sürücüleri listesinden seçmeme izin ver, Yüksek Tanımlı Ses Cihazı 'ı seçin, Sonraki'yi seçin ve yüklemek için yönergeleri  >    >  izleyin.  
+2. Sürücüyü yeniden yüklemek işe yaramadı mı? ile gelen genel ses sürücüsünü Windows. Cihaz Yöneticisi'nde ses sürücüne sağ tıklayın (veya basılı tutun) > Sürücü yazılımını güncelleştir Sürücü yazılımı için bilgisayarıma göz at Bilgisayarımda bulunan cihaz sürücüleri listesinden seçmeme izin ver, Yüksek Tanımlı Ses Cihazı 'ı seçin, Sonraki'yi seçin ve yüklemek için yönergeleri  >    >  izleyin.  
