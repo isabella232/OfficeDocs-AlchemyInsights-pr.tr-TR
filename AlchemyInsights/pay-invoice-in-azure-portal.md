@@ -1,5 +1,5 @@
 ---
-title: Azure portalında fatura öde-önerilen adımlar
+title: Azure portalda fatura ödeme - önerilen adımlar
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 71be9bd2d69129cde16827371b71881ddb1284b19534ca48eb7079e761bdcff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010384"
 ---
-# <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Azure portalında fatura öde-önerilen adımlar
+# <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Azure portalda fatura ödeme - önerilen adımlar
 
-Sorun açıklamanızı temel alarak sizin için bir çözüm bulduk. Çoğu müşteri, belgelerimizi takip ettikten sonra sorununu kendi başınıza çözümlerler.
+Sorun açıklamanıza bağlı olarak sizin için bir çözüm bulduk. Çoğu müşteri belgelerimizi takip ettikten sonra sorununuzu kendi kendine çöze kavuştur bulundu.
 
-Faturanızı Azure portalında ödemek için faturalandırma hesabı yöneticisi olmanız gerekir. Faturalandırma hesabı Yöneticisi, Microsoft müşteri anlaşması hesabı için başlangıçta kaydolan kullanıcıdır. 
+Azure portalda faturaları ödemek için fatura hesabı yöneticisi siz olun. Fatura hesabı yöneticisi, ilk başta Microsoft Müşteri Sözleşmesi hesabına oturum alan kullanıcıdır. 
 
-Faturanızı Azure portalında ödemek için: 
+Faturanızı Azure portalda ödemek için: 
 
-1. [Azure portalında](https://portal.azure.com/)oturum açın.
+1. [Azure portalında oturum açın.](https://portal.azure.com/)
 1. **Maliyet Yönetimi + Faturalama**'da arama yapın.
-1. Sol bölmede, **Faturalama** altında **faturalar**'a tıklayın.
-1. Faturanızın herhangi birinin vadesi gelmiş veya vadesi gelmiş olması durumunda, bu faturaya ait mavi bir **ödeme** bağlantısı görürsünüz. **Şimdi öde**'ye tıklayın.
-1. Yeni Blade 'de, mevcut kredi kartını seçmek veya yeni bir kredi kartı eklemek için **ödeme yöntemi seçin** 'e tıklayın.
-1. Ödeme yöntemi seçildikten sonra, **Şimdi öde**'ye tıklayın.
-Fatura durumu fatura dikey penceresinde ödendi olarak güncelleştirilecektir.
+1. Sol bölmede, Faturalama **altında,** Faturalar'a **tıklayın.**
+1. Faturalardan herhangi biri ödeme tarihi geçmişse veya ödeme tarihi geçmişse, o fatura için mavi **Şimdi öde** bağlantısını görüyorsanız. Şimdi **öde'ye tıklayın.**
+1. Yeni blade'de Mevcut **bir kredi kartını seçmek veya** yeni bir kart eklemek için Ödeme yöntemi seç'e tıklayın.
+1. Ödeme yöntemi seçildikten sonra Şimdi **öde'ye tıklayın.**
+Faturanın durumu, fatura blade'inde ödenecek şekilde güncelleştirilir.
 
 **Önerilen belgeler**
 
-- [Microsoft Azure için faturanızı ödeme yapma](https://docs.microsoft.com/azure/cost-management-billing/understand/pay-bill)
-- [Ödeme yöntemini değiştir-SSS](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Faturalandırma profili için ödeme yöntemini değiştirme](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
-- [Microsoft Müşteri sözleşmesine erişimi denetleme](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
+- [Faturanızı o gün için Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/pay-bill)
+- [Ödeme yöntemini değiştir- SSS](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Ödeme profili için ödeme yöntemini değiştirme](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
+- [Microsoft Müşteri Sözleşmesi'ne erişimi denetleme](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)

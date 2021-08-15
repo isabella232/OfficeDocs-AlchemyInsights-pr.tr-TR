@@ -14,24 +14,24 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: b4c8acbd3e9bd74763e6dea1721dc87333b4b6d6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ee9a7b58f36137f0bc5647c14c01dff9e2e6d49b9c2eac5fa5996c258fbafbb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010168"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Kağıdın her iki tarafına da yazdırma (çift yönlü yazdırma)
 
 **Yazıcım çift yönlü yazdırma özelliği var mı?**
 
-Yazıcınızın özellik özeti veya el kitabı, "çift yönlü yazdırma" olarak da bilinen kağıdın her iki tarafına da yazdırma özelliğinin olup olmadığını size söylemeli. Microsoft Office'iniz varsa, bunu bulmanın bir diğer yolu da Word veya Excel gibi bir Office uygulamasını açmak, Dosya **>** Yazdır'a gidip doğru yazıcının seçili olduğundan emin olmak ve Ayarlar bölümünde ilgili özelliği bulmaktır. Örneğin: 
+Yazıcınızın özellik özeti veya el kitabı, "çift yönlü yazdırma" olarak da bilinen kağıdın her iki tarafına da yazdırma özelliğinin olup olmadığını size söylemeli. Microsoft Office'i biliyorsanız bunu bulmanın bir diğer yolu, Word veya Excel gibi bir Office uygulaması'ı açmak, Dosya **>** Yazdır'a gidip doğru yazıcının seçili olduğundan emin olmak ve bu bölümde Ayarlar bulmaktır. Örneğin: 
 
 ![Yazıcı ayarları](media/print-settings.png)
 
-**Microsoft Office'te çift yönlü yazdırma**
+**Çift yönlü yazdırma Microsoft Office**
 
-Yazıcınız her iki tarafta da yazdırılabilirse, Office uygulamasında Dosya **>** Yazdır'a giderseniz, yukarıdaki örnekte gösterildiği gibi "İki Kenarda Yazdır" seçeneğini de görebilirsiniz.  İstediğiniz çift yönlü yazdırma türünü seçin (uzun kenarında çevir veya kısa kenarından çevir) ve **yazdır'ı** tıklatın ve çıktıyı başlatmak için Yazdır'ı tıklatın.
+Yazıcınız iki kenardan da yazdıra uygunsa, Office uygulaması'de Dosya **>** Yazdır'a giderseniz, yukarıdaki örnekte gösterildiği gibi "İki Kenarda Yazdır" seçeneğini de görebilirsiniz.  İstediğiniz çift yönlü yazdırma türünü seçin (uzun kenarında çevir veya kısa kenarından çevir) ve **yazdır'ı** tıklatın ve çıktıyı başlatmak için Yazdır'ı tıklatın.
 
 **Herhangi bir uygulamada çift yönlü yazdırma**
 
