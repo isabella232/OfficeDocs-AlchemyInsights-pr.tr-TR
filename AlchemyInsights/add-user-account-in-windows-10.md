@@ -1,5 +1,5 @@
 ---
-title: Windows 10'da kullanıcı hesabı ekleme
+title: E-postanıza kullanıcı Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3448"
 - "9001447"
-ms.openlocfilehash: 74182d6b2b287b614624baabd20ce3abecb5a191
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3f8275cc8197015e9146377bd8af979d79b32494f674b8bcab8df310d69e4a14
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822331"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953673"
 ---
-# <a name="add-a-user-account-in-windows-10"></a>Windows 10'da kullanıcı hesabı ekleme
+# <a name="add-a-user-account-in-windows-10"></a>E-posta hesabınıza kullanıcı Windows 10
 
-Windows 10'da hesap ekleme burada açıklarıdır:
+Windows 10'da hesap şu şekilde Windows 10:
 
-1. Ayarlar Hesapları **Aile** aile & başka  >    >    >  **kişiler 'e** (veya Windows 10 Kurumsal kullanıyorsanız Diğer kişiler) başlat'a gidin> Bu bilgisayara başka birini **ekle'yi seçin.**
+1. Diğer **kişiler Ayarlar** Hesaplarını & 'a gidin (veya Windows 10 Enterprise kullanıyorsanız Diğer kişiler) bu > Başka birini  >    >    >   bu **bilgisayara ekle'yi seçin.** 
 2. Microsoft hesabı veya yerel hesap eklemek için yönergeleri izleyin.
 
 [Hesapları ayarlama hakkında daha fazla bilgi](https://support.microsoft.com/help/17197/)

@@ -1,5 +1,5 @@
 ---
-title: KDV/vergi numarasını ekleme veya güncelleştirme-eski WD + MCA CL _ önerilen adımlar
+title: KDV/Vergi Kimliği ekleme veya güncelleştirme - Eski WD + MCA CL _ Önerilen adımlar
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7291"
-ms.openlocfilehash: ba97ec48492b1777a12bf2b27a68d411690eab76
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 172453664d2e950634c46977b8c543a054afbf6dfbed1356b7b13416ecf80b22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953709"
 ---
-# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>KDV/vergi numarasını ekleme veya güncelleştirme-eski WD + MCA CL-önerilen adımlar
+# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>KDV/Vergi Kimliği ekleme veya güncelleştirme - Eski WD + MCA CL - Önerilen adımlar
 
-Vergi muafiyet hesaplamasında vergi KIMLIĞI kullanılır ve faturanızda görünür.
+Vergi No, vergi muafiyeti hesaplaması için kullanılır ve faturada görünür.
 
-1. [Maliyet yönetimi + faturalandırma](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) sayfasına gidin. 
-2. Sol taraftaki **Özellikler** 'i tıklatın. 
-3. **Vergi kimlikleri bölmesinden** **vergi kodlarını Yönet** 'e tıklayın ve ardından yeni vergi kimliğinizi girin.
-4. **Güncelleştir**'i tıklatın. 
+1. Maliyet Yönetimi [+ Faturalama sayfasına](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) gidin. 
+2. Sol **taraftan** Özellikler'e tıklayın. 
+3. Vergi **Kimlikleri bölmesinde Vergi** **Kimliklerini Yönet'e** tıklayın ve yeni Vergi No'nızı girin.
+4. **Güncelleştir'e tıklayın.** 
 
-**Vergi kimlikleri** bölmesini görmüyorsanız, bu, vergi kodlarının bölgeniz için henüz toplanmadığı anlamına gelir veya portalınızdaki vergi kodlarının güncellenmesi hesabınız için desteklenmez.
+Vergi Kimlikleri bölmesini  görmüyorsanız, Vergi Kimlikleri henüz bölgeniz için toplanmaz veya portalda Vergi Kimliklerini güncelleştirme hesabınız için desteklenmiyor demektir.
 
 **Önerilen belgeler**
 

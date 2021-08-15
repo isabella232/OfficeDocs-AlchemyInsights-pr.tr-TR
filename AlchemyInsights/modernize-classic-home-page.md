@@ -1,5 +1,5 @@
 ---
-title: Klasik giriş sayfasını modernleştirmek
+title: Klasik Giriş Sayfasını Modernleştirin
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -12,23 +12,23 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd26e9e923061e9bf88d8cd2c60164b95ec9cf3a671130960c0412e3f31acbaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026098"
 ---
-# <a name="modernize-the-classic-home-page"></a>Klasik giriş sayfasını modernleştirmek
+# <a name="modernize-the-classic-home-page"></a>Klasik Giriş Sayfasını Modernleştirin
 
-Klasik SharePoint ekip sitesi giriş sayfalarının son güncelleştirmesi klasik ekip sitelerinin giriş sayfasını etkiler (STS # 0) giriş sayfası, Başlarken 'in başlangıç, belge kitaplığı ve haber akışı gibi *varsayılan Web bölümlerini* içerir.
+Klasik SharePoint ekip sitesi giriş sayfalarına yapılan son güncelleştirme, klasik ekip sitelerinin (STS#0) giriş sayfasını etkiler; ancak bir giriş sayfası başlarken, belge kitaplığı ve haber akışı gibi yalnızca ilk gelen varsayılan *web* bölümlerini içerir.
 
-[Burada](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif)değişikliği gözden geçirin. 
+Değişikliğin adım adımlarını burada [görmek için:](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif) 
 
-**Not: özelleştirilmiş içerik içeren klasik ekip siteleri otomatik olarak güncelleştirilmez.**
+**Not: Özelleştirilmiş içerik içeren klasik ekip siteleri otomatik olarak güncelleştirilmez.**
 
-* [Klasik giriş sayfası](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)için güncelleştirme ölçütleri hakkında daha fazla bilgi edinin.
+* Klasik giriş sayfası modernleştirme sayfasındaki [güncelleştirme ölçütleri hakkında daha fazla bilgi edinebilirsiniz.](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)
 
-* [Otomatik moderonun parçası olmayan diğer giriş sayfalarını yükseltme](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
+* [Otomatik modernleştirmenin parçası olmayan diğer giriş sayfalarını yükseltin.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)
 
-* [SharePoint Patterns ve uygulamalar (PnP) PowerShell cmdlet 'ini](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)kullanarak bu yükseltmeyi belirli sitelerde devre dışı bırakın.
+* SharePoint Desenler ve Uygulamalar [(PnP) PowerShell cmdlet'ini](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)kullanarak belirli sitelerde bu yükseltmeyi devre dışı bırak.
