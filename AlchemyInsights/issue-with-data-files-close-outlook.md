@@ -1,5 +1,5 @@
 ---
-title: Veri dosyalarınızın biri ile ilgili bir sorun var ve Outlook'un kapanması gerekiyor
+title: Veri dosyalarınızın biri ile ilgili bir sorun var Outlook kapatmanız gerekiyor
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003094"
 - "5849"
-ms.openlocfilehash: 84e81baac7bbf255c6a5af5c32e3418164c49bae
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dc7a6b0e052fa4b155d5617686c4e11145d074341d0c77c3cdbe75fd70692567
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986983"
 ---
-# <a name="something-is-wrong-with-one-of-your-data-files-and-outlook-needs-to-close"></a>Veri dosyalarınızın biri ile ilgili bir sorun var ve Outlook'un kapanması gerekiyor
+# <a name="something-is-wrong-with-one-of-your-data-files-and-outlook-needs-to-close"></a>Veri dosyalarınızın biri ile ilgili bir sorun var Outlook kapatmanız gerekiyor
 
-Outlook'u a a açma sırasında size bu hatayı verecek bir sorunun farkındayız ve düzeltmek için çalışıyoruz
+Çalışma saatlerini aken size bu hatayı verecek bir sorunun farkındayız ve Outlook
 
-Geçici çözümler için en son durumu görmek için lütfen PC için [Outlook'ta](https://support.microsoft.com/office/ecf61305-f84f-4e13-bb73-95a214ac1230)karşılaşılan yeni sorunlar için düzeltme ve geçici çözümler makalesine bakın. Özellikle bu makale: Veri dosyalarınızın birinde bir sorun var ve [Outlook'un](https://support.microsoft.com/office/a3b59934-2446-4f2a-bd25-58f88188b9b2) kapanması gerekiyor
+Geçici çözümler için en son durumu görmek için lütfen PC için [Outlook'de](https://support.microsoft.com/office/ecf61305-f84f-4e13-bb73-95a214ac1230)karşılaşılan yeni sorunlar için düzeltme ve geçici çözümler 'i ziyaret edin, özellikle de bu makale: Veri dosyalarınızın birinde bir sorun var ve Outlook [kapanması gerekiyor](https://support.microsoft.com/office/a3b59934-2446-4f2a-bd25-58f88188b9b2)

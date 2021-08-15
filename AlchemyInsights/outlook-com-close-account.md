@@ -1,5 +1,5 @@
 ---
-title: Outlook.com hesabınızı kapatma
+title: Outlook.com hesabını kapatma
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,20 +14,20 @@ ms.custom:
 - "206"
 - "8000005"
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
-ms.openlocfilehash: c38a1d4dab108fee74262aa908fc237b29f1c03b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30919543e0e1c80c1bc97fc808bef2bb3029e2380fcd5f66f2995aedc4e4282f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752487"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024874"
 ---
-# <a name="close-your-outlookcom-account"></a>Outlook.com hesabınızı kapatma
+# <a name="close-your-outlookcom-account"></a>Outlook.com hesabını kapatma
 
-1. [Hesabınızı kapat](https://go.microsoft.com/fwlink/p/?linkid=845493) sayfasına gidin.
-2. Hesabınızın kapatılmaya hazır olduğundan emin olmak için sayfadaki yönergeleri izleyin ve **İleri**'yi seçin.
-3. Listeyi okuyun ve her öğeyi okuduğunuzu onaylamak için kutuları işaretleyin.
-4. **Bir neden seçin** açılan listesinde, hesabı kapattığınız nedeni seçin.
-5. **Hesabı kapatılmak üzere işaretle 'yi**seçin.
+1. Hesabı kapat [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=845493) gidin.
+2. Sayfanın yönergelerini izleyerek, hesap kapat olmaya hazır olduğundan emin olun ve Sonraki 'yi **seçin.**
+3. Listeyi okuyun ve her öğenin okundu olduğunu kabul etmek için kutuları işaretleyin.
+4. Bir **neden seçin** açılan listesinde, hesabı kapatma nedenini seçin.
+5. Hesabı **kapatıl için işaretle'yi seçin.**
 
-Daha fazla bilgi edinmek için [Outlook.com hesabınızı kapatma](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy)konusuna bakın.
+Daha fazla bilgi edinmek için [bkz. Outlook.com hesabı kapatma.](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy)
   

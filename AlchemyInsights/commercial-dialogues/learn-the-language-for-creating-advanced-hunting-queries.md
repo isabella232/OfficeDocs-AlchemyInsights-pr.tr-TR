@@ -1,5 +1,5 @@
 ---
-title: Gelişmiş av sorguları oluşturma dilini öğrenin
+title: Gelişmiş arama sorguları oluşturmak için dili öğrenin
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 68d6ffecc8540622795107ec00fe659f210ce3f1
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 40199ff5e880fa179a0ccd43e70e19c6c0347d56e7f2cbaca1b739dae2aede3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748673"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016792"
 ---
-# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Gelişmiş av sorguları oluşturma dilini öğrenin
+# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Gelişmiş arama sorguları oluşturmak için dili öğrenin
 
-Gelişmiş av, Kuşto sorgu [diline dayalıdır.](https://go.microsoft.com/fwlink/?linkid=2144620) Kuşto söz dizimi ve işleçlerini kullanarak, özellikle gelişmiş avlar için yapılandırılmış şemada bilgi [bulunan](https://go.microsoft.com/fwlink/?linkid=2144621) sorgular oluşturabilirsiniz.
+Gelişmiş av, Kuşto sorgu [diline göredir.](https://go.microsoft.com/fwlink/?linkid=2144620) Kusto söz dizimi ve işleçlerini kullanarak şemada [](https://go.microsoft.com/fwlink/?linkid=2144621) özellikle gelişmiş av için yapılandırılmış bilgileri buen sorgular oluşturabilirsiniz.
 
-Daha fazla bilgi edinmek için [bkz. Gelişmiş av sorgusu dilini öğrenme.](https://go.microsoft.com/fwlink/?linkid=2144518)
+Daha fazla bilgi edinmek için [bkz. Gelişmiş arama sorgusu dilini öğrenme](https://go.microsoft.com/fwlink/?linkid=2144518).

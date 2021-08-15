@@ -1,5 +1,5 @@
 ---
-title: Yönetici olun
+title: Yönetici olma
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -13,15 +13,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: ee2a441a0642548fe0c4ad812020be4ab3c332b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db534de825d9b77882d4b37396b266ba6a28e49d4287ab1555500b4e54d8c10b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686230"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969333"
 ---
-# <a name="become-an-admin"></a>Yönetici olun
+# <a name="become-an-admin"></a>Yönetici olma
 
-Kuruluşunuzun yönetici rolünü üstlenmek için kiracıyı almanız gerekir.
+Kuruluşta yönetici rolünü üstlenmek için, kiracının rolünü üstlenmeniz gerekir.
   
-Bu kılavuzdaki yönergeleri izleyin: [yönetici Yöneticisi](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)
+Bu kılavuzda verilen yönergeleri izleyin: [Yöneticiyi Teslim Alma](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)

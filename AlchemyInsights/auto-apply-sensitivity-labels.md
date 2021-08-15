@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969327"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Duyarlılık etiketlerini otomatik olarak uygulama
 
-Duyarlılık etiketleri, kullanıcılar tarafından içeriğe el ile uygulanabilir veya bunları otomatik olarak içeriğe uygulanacak şekilde yapılandırabilirsiniz.
+Duyarlılık etiketleri kullanıcılar tarafından içeriğe el ile uygulanabilir veya bunları otomatik olarak içeriğe uygulanacak şekilde yapılandırabilirsiniz.
 
-Duyarlılık etiketlerinin otomatik olarak uygulanması, kullanıcıları içeriği sınıflandırma konusunda eğitma ve ilke yapılandırmalarını onlara bildirme ihtiyacı ortadan kaldırır.
+Duyarlılık etiketlerinin otomatik olarak uygulanması, kullanıcıları içeriği nasıl sınıflandıracaklarına ve ilke yapılandırmaları konusunda bilgilendirmeleri gerekliliklerini ortadan kaldırır.
 
 Etiketleri otomatik olarak uygulamak için aşağıdakiler gereklidir:
 
 - Azure Information Protection P2 aboneliği
 - [Azure Information Protection birleşik etiketleme istemcisini indirme ve yükleme](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Gelecekte Azure Information Protection birleşik etiketleme istemcisi gerektirmeyen yerel destek üzerinde çalışıyoruz.
+Gelecekte Azure Information Protection birleşik etiket istemcisini gerektirmeyen yerel destek üzerinde çalışıyoruz.
 
-Şu anda yalnızca Windows birleşik etiketleme istemcisini destekler.  Özellik henüz Mac, iOS ve Android'de desteklenmiyor.
+Şu anda yalnızca Windows birleşik etiketleme istemcisini destekler.  Bu özellik henüz Mac, iOS ve Android'de desteklenmiyor.
 
 Duyarlılık etiketleri hakkında daha fazla bilgi ve bunları içeriğe otomatik olarak uygulama hakkında daha fazla bilgi için bkz:
 
 - [Duyarlılık etiketlerine genel bakış](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [otomatik olarak içeriğe duyarlılık etiketi uygulama](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- [Otomatik olarak içeriğe duyarlılık etiketi uygulama](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
