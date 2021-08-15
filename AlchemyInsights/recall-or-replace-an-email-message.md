@@ -1,5 +1,5 @@
 ---
-title: E-posta iletisini geri çekme veya değiştirme
+title: E-posta iletisi geri çekme veya değiştirme
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,34 +14,34 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 05016213a1387c5290cb5899359f1f10b5a413c0
-ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
+ms.openlocfilehash: 45882b49c5c47b3e0e4519e2339e6c68110bc75aebeaeac2d0ccd009bdfa3f7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49353526"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024406"
 ---
-# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Microsoft 365 'de e-posta iletisini geri çekme veya değiştirme
+# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>E-posta iletisinizi geri çekme veya değiştirme Microsoft 365
 
-- **Yalnızca kuruluşunuzdaki kişilere gönderilen iletileri geri** yükleyebilirsiniz. Örneğin, ileti gmail adresine gönderilirse geri çekemezsiniz.
-- **Yalnızca PC Için Outlook 'tan gönderilen iletileri geri** yükleyebilirsiniz. Bir Kullanıcı, Mac için Outlook veya Web üzerinde Outlook kullanan bir ileti gönderirse, geri çekemezsiniz.
-- Kiracı Yöneticisi olarak, **PowerShell kullanarak kullanıcıları adına iletileri geri çekbırakabilirsiniz** (daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)
-- Yönetim merkezinden iletileri geri çekemezsiniz. Daha fazla bilgi için "kuruluşunuzdaki e-posta iletilerini arayın ve silin" için aşağı kaydırın.
+- Yalnızca **kuruluşun kişilerine gönderilen iletileri geri çağırabilirsiniz.** Örneğin, ileti bir Gmail adresine gönderildiyse, geri çağırasınız.
+- Yalnızca **BILGISAYARıNıZ için bir Outlook gönderilen iletileri geri çağırabilirsiniz.** Kullanıcı e-posta Mac için Outlook Web üzerinde Outlook ileti gönderirse, iletiyi geri çağırasınız.
+- Kiracı yöneticisi olarak, **PowerShell** kullanarak kullanıcıların adına iletileri geri çağırabilirsiniz (Daha fazla bilgi için bkz. E-posta iletilerini arama [ve silme).](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)
+- Yönetim merkezinden gelen iletileri geri çağırasınız. Daha fazla bilgi için ekranı aşağı kaydırarak "Kuruluş içinde e-posta iletilerini arama ve silme" ifadesinin yer alır.
 
-**Gönderdiğiniz e-posta iletisini geri çekme veya değiştirme**
+**Gönderdiniz e-posta iletisi geri çekme veya değiştirme**
 
-1. Outlook penceresinin solundaki klasör bölmesinde Gönderilmiş Öğeler klasörünü seçin.
-2. Geri çekmek istediğiniz iletiyi açın. İletiyi açmak için çift tıklatın. İletiyi, okuma bölmesinde görünecek şekilde seçmek iletiyi geri çekmenizi sağlar.
-3. İleti sekmesinden, **Actions**  >  **Bu iletiyi geri çek** eylemler 'i seçin.
-4. **Bu iletinin okunmamış kopyalarını sil** 'i veya **Okunmamış kopyaları sil 'i seçin ve yeni bir iletiyle değiştirin**, ardından **Tamam 'ı** seçin.
-5. Değiştirme iletisi gönderiyorsanız iletiyi oluşturun ve **Gönder**'i seçin.
-6. İletinin geri çekme başarısı veya başarısızlığı, alıcıların Outlook 'taki ayarlarına bağlıdır.
+1. Yeni Klasör penceresinin sol klasör Outlook Gönderilmiş Öğeler klasörünü seçin.
+2. Geri çağırmak istediğiniz iletiyi açın. İletiyi açmak için çift tıklamanız gerekir. İletinin okuma bölmesinde iletiyi geri çekmesine izin vermez.
+3. İleti sekmesinde, Bu İletiyi Geri **Çekme Eylemleri**  >  **öğesini seçin.**
+4. Bu **iletinin okunmamış kopyalarını sil'i veya Okunmamış** kopyaları sil ve yerine yeni bir ileti **gönder'i,** sonra da Tamam'ı **seçin.**
+5. Yeni bir ileti gönderiyorsanız, iletiyi yazın ve Gönder'i **seçin.**
+6. Bir geri çağırmanın başarılı veya başarısızlığı alıcının geri çekme ayarlarına Outlook.
 
-Geri çekmeyi denetleme dahil olmak üzere daha fazla bilgi için, [gönderdiğiniz e-posta Iletisini geri çekme veya değiştirme](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)konusuna bakın.
+Geri çekmenin nasıl iade edildi olduğu da dahil olmak üzere daha fazla bilgi için bkz. [Gönderdiğiniz e-posta mesajını geri](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)çekme veya değiştirme .
 
-**_Kuruluşunuzdaki e-posta iletilerini aramak ve silmek için_**, genel bir yönetici olmanız en kolay yoldur. Genel yönetici değilseniz, hesabınız eBulma Yöneticisi rol grubuna veya uyumluluk arama yönetimi rolüne eklenmelidir. İletileri silmek için, Kuruluş Yönetimi rol grubuna veya arama ve Temizleme Yönetim rolüne katılmanız gerekir. Bu rollerin izinleri [güvenlik & Uyumluluk Merkezi](https://protection.office.com/)'nde atanır.
+***En kolay yol, kuruluş içinde e-posta*** iletilerini aramak ve silmektir; bu en kolayı genel yöneticiyseniz yapmaktır. Genel yönetici değilseniz, hesabınız eBulma Yöneticisi rol grubuna veya Uyumluluk Arama yönetimi rolüne eklenmiştir. İletileri silmek için, Kuruluş Yönetimi rol grubuna veya Arama ve Temizleme yönetim rolüne katılmanız gerekir. Bu rollere izinler Güvenlik ve [Uyumluluk & atanır.](https://protection.office.com/)
 
-1. Silinecek iletiyi bulmak için [içerik araması oluşturun](https://docs.microsoft.com/microsoft-365/compliance/content-search) .
-2. [Güvenlik & Uyumluluk Merkezi PowerShell 'e bağlanın](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell).
+1. [Silinecek iletiyi](https://docs.microsoft.com/microsoft-365/compliance/content-search) bulmak için içerik araması oluşturun.
+2. [Bağlan ve Uyumluluk & PowerShell'e.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell)
 
-MFA (Multi-Factor Authentication) kullanıyorsanız, [Multi-Factor Authentication kullanarak Microsoft 365 güvenlik & Uyumluluk Merkezi PowerShell 'e bağlanın](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell).
+MFA (çok faktörlü kimlik doğrulaması) kullanıyorsanız, [Multi-Factor](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell)Authentication Bağlan Güvenlik Microsoft 365 & PowerShell'i kullanmaya devam edin.
