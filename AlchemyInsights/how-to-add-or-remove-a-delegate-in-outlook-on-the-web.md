@@ -1,5 +1,5 @@
 ---
-title: Web üzerinde Outlook 'ta (OWA) temsilci ekleme veya kaldırma
+title: Web'de Temsilci ekleme veya Outlook (OWA)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: fc8e3ed77867db5242927c466e680325e471dd7a
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573816"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993445"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Web üzerinde Outlook 'ta (OWA) temsilci ekleme veya kaldırma
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Web'de Temsilci ekleme veya Outlook (OWA)
 
-Bir düzenleyici atamak veya takviminize erişim yetkisi vermek için:
+Takviminize Düzenleyici veya Temsilci erişimi atamak için:
 
-1. Web üzerinde Outlook 'ta, sayfanın altındaki takvim simgesini seçin.
-2. Sayfanın en üstünde **paylaş > takvimi**'ni seçin.
-3. **Paylaşım ve izinler** sayfasında, takviminizi paylaşmak istediğiniz kişinin adını veya e-posta adresini yazın. Takviminizi birden fazla kişiyle paylaşabilir, ancak Web üzerinde Outlook 'tan bir kerede bir kişiye ekleyebilirsiniz.
-4. Takviminizi yönetmek istediğiniz kişiyi ekledikten sonra, adının yanındaki açılan listeyi seçin ve sahip olmalarını istediğiniz erişim düzeyini seçin.
+1. Yeni Web üzerinde Outlook, sayfanın en altındaki Takvim simgesini seçin.
+2. Sayfanın üst kısmında Takvim **paylaş'ı > seçin.**
+3. Paylaşım **ve izinler** sayfasında, takviminizi paylaşmak istediğiniz kişinin adını veya e-posta adresini yazın. Takviminizi birden çok kişi ile paylaşabilirsiniz, ancak takvimden bir defada yalnızca bir kişi Web üzerinde Outlook.
+4. Takviminizi yönetmesini istediğiniz kişiyi ekledikten sonra, adının yanındaki açılan listeyi seçin ve sonra da sahip olmak istediğiniz erişim düzeyini seçin.
 
-    - Takviminizde değişiklik yapmasına izin vermek için **düzenleyebilir** öğesini seçin.
-    - Bu kişilere düzenleyiciyle aynı izni vermek için **temsilci** 'i seçin, ayrıca toplantı isteklerini ve yanıtlarını sizin adınıza alır.
+    - Kullanıcılara **takvimde** değişiklik yapma izni vermek için Düzenleyebilir'i seçin.
+    - **Düzenleyicilerin** sahip olduğu izni vermek ve yanı sıra sizin adıma toplantı istekleri ve yanıtları almak için Temsilci'yi seçin.
     > [!NOTE]
-    > Bir temsilci sizin adınıza bir toplantı davetine cevap verdiğinde, Web üzerinde Outlook kullanırken gelen kutunuzda davette gelen yanıtı görmezsiniz. Kabul edilen veya belirsiz olarak kabul edilen toplantılar takviminizde görüntülenir ve temsilciniz tarafından kabul edildiğini gösterecektir.
-    - **Meşgulse meşgul** olduğumda görüntüleyebilir, **başlıkları ve konumları görüntüleyebilir** ve **tüm ayrıntıları görüntüleyebilir** , diğer kişilerin takviminizi görüntülemesine, ancak değişiklik yapamamalarına izin verebilir. Kuruluşunuzun dışından gelen kişilere erişim bu seçeneklerle sınırlıdır.
+    > Temsilci sizin adına bir toplantı davetini yanıtlasa, davet yanıtını Gelen Kutunuzda kullanırken Web üzerinde Outlook. Kabul edilen veya geçici olarak kabul edilen toplantılar takviminde görünür ve temsilcinizin bunları kabul etmiş olduğu görünür.
+    - Meşgul **olduğumu sınayan** seçenekler **,** Başlıkları ve konumları  sınayabilirsiniz ve Tüm ayrıntıları sınar seçenekleri, diğer kullanıcıların takviminizi görüntülemesine olanak sağlar, ancak değişiklik yapmalarına izin vermez. Kuruluş dışından kişilerin erişimi bu seçeneklerle sınırlıdır.
 
-5. Takviminizi paylaşmak istediğiniz kişiyi eklemeyi ve hangi izni vermek istediğinizi seçtikten sonra **Paylaş**'ı seçin. Takviminizi henüz paylaşmayacağınıza karar verirseniz **Kaldır**'ı seçin.
+5. Takviminizi paylaşmak istediğiniz kişiyi eklemeyi bitirdikten ve ona hangi izni vermek istediğiniz seçtikten sonra, Paylaş öğesini **seçin.** Takviminizi şu anda paylaşmamanıza karar verirsiniz, Kaldır öğesini **seçin.**
 
-Takviminizi paylaştığınız kişi, onun hakkında bir e-posta iletisi alır. Davetteki **kabul et** düğmesini seçerlerse, takviminizi Takvim listesine ekler.
+Takviminizi kendileriyle paylaştığınız kişi, bu konuda bilgi içeren bir e-posta iletisi alır. Davette **Kabul Et** düğmesini seçenler, takviminizi kendi takvim listesine ekler.
 
 > [!NOTE]
-> **Özel** olarak işaretlenen takvim öğeleri korunur. Takviminizi paylaştığınız çoğu kişi, konu, konum veya diğer ayrıntıları değil yalnızca **özel** olarak işaretlenmiş öğeleri görürler. Bunun istisnası, **temsilcinin özel etkinlikleri görüntülemesine Izin ver** kutusunu seçcidir.
+> Özel işaretli **takvim öğeleri** koruma altındadır. Takviminizi paylaşırken çoğu kişi Özel olarak işaretlenmiş öğelerin yalnızca saatlerini **görebilir;** konuyu, konumu ve diğer ayrıntıları görmez. Bunun tek istisnası Temsilcinin özel etkinlikleri **görüntülemesine izin ver onay kutusunu seçmenizdir.**
 
-Web üzerinde Outlook 'ta (OWA) temsilci kaldırmak için:
+Web'de Outlook (OWA) temsilcisini kaldırmak için:
 
-1. Web üzerinde Outlook 'ta, sayfanın altındaki takvim simgesini seçin.
-2. Sayfanın üst kısmında **Paylaş**'ı seçin ve paylaşımını durdurmak istediğiniz takvimi seçin.
-3. Takviminizi paylaşmayı durdurmak istediğiniz kişinin yanındaki **Kaldır** 'ı seçin.
+1. Yeni Web üzerinde Outlook, sayfanın en altındaki Takvim simgesini seçin.
+2. Sayfanın üst kısmında Paylaş öğesini **seçin ve** paylaşımını durdurmak istediğiniz takvimi seçin.
+3. **Takviminizi** paylaşmayı durdurmak istediğiniz kişinin yanındaki Kaldır'ı seçin.

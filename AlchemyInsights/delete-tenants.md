@@ -1,5 +1,5 @@
 ---
-title: Kiracı silme
+title: Kiracıyı silme
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003256"
 - "7297"
-ms.openlocfilehash: aa1525c6d221dbcfe91da7abd3d094ae1c228ece
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 7377f77b7295e8134673c9a46fa7606842d4df949f535878d13986c6d39d0b5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564877"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993913"
 ---
-# <a name="delete-tenant"></a>Kiracı silme
+# <a name="delete-tenant"></a>Kiracıyı silme
 
-Bir Azure AD silmek için:
-- Dizinde genel yöneticisiniz.
-- Contoso.onmicrosoft.com gibi varsayılan dizine sahip olan ve admin@contoso.onmicrosoft.com gibi bir hesap ile oturum açmadınız.
-- Silmeden önce dizindeki tüm etkin uygulamaları kaldırın. Etkin uygulamaları kaldırmak için uygulama kayıtları 'na gidin ve var olan uygulamaları kaldırın.
-- Microsoft Azure, Office 365 veya dizinde ilişkilendirilmiş Azure AD Premium gibi herhangi bir Microsoft Online hizmeti için etkin abonelik yoktur. Azure desteği ve faturalamayla aboneliklerinizi aktarın veya etkin aboneliklerin iptalini yeniden yapın. Office 365 ve Azure aboneliklerini Iptal etme hakkında daha fazla bilgi edinin. Bir kiracıya varolan aboneliği ilişkilendirme veya ekleme konusunda rehberlik için [Azure AD kiracınıza Azure aboneliği ilişkilendirme veya ekleme](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)konusuna bakın.
-- Etkin lisans yok. Lisansları kaldırmak için, [lisansı kaldırma aboneliğini](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription)kaldırma konusuna bakın.
-- Azure AD 'yi silmeye çalışırken, genel yönetici olarak, dizinde başka etkin kullanıcı yok. Tüm etkin kullanıcıları kaldırın ve Kiracıdaki özel bir etki alanı adındaki tüm bağımlılıklar, admin@contoso.com ile oluşturulan kullanıcılar gibi de kaldırılmalıdır.
+Azure AD'den silmek için şunları emin edin:
+- Dizinde bir Genel Yöneticisiniz.
+- Oturum açık oturum açın hesabıyla, örneğin oturum contoso.onmicrosoft.com varsayılan dizini olan bir hesap ile oturum admin@contoso.onmicrosoft.com.
+- Silmeden önce dizinde tüm etkin uygulamaları kaldırın. Etkin uygulamaları kaldırmak için Uygulama kayıtları'ne gidin ve var olan uygulamaları kaldırın.
+- Dizinle ilişkilendirilmiş çevrimiçi hizmetler, hizmetler veya Microsoft Azure Office 365 Microsoft Online Services Azure AD Premium abonelik yoktur. Aboneliklerinizi aktarın veya Azure Destek ve Faturalama yoluyla etkin aboneliklerin iptalini hızlandırın. Abonelikleri ve Azure aboneliklerini iptal Office 365 hakkında daha fazla bilgi edinin. Bir kiracıyla ilişkilendirme veya var olan aboneliği ekleme hakkında yol gösterici bilgiler için bkz. Azure AD kiracınıza [Bir Azure aboneliğini ilişkilendirme veya ekleme](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
+- Etkin lisans yok. Lisansları kaldırmak için bkz. [Lisansı Kaldırmak için Aboneliği Kaldırma](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription).
+- Azure AD'ye silme girişiminde bulunurken Dizinde Genel Yönetici olarak kendiniz dışında başka etkin kullanıcı yok. Diğer tüm etkin kullanıcıları kaldırabilirsiniz ve kiracıda özel etki alanı adına bağımlılıkların (örneğin, etki alanıyla oluşturulan kullanıcılar) admin@contoso.com.
 
-Bu konuda daha fazla ayrıntı için:
-- Azure Active [Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto)'yi silme konusuna bakın.
-- Dizindeki [uygulamaları kaldırmak, bkz.](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app) 
+Şu adımların nasıl ayrıntılı olarak anlatılması gerekir:
+- "Abonelik Azure Active Directory" veya "abonelik" ifadesini silme için bkz. [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto)
+- Dizinde uygulamaları kaldırma, bkz. [Uygulamaları Kaldırma](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app). 

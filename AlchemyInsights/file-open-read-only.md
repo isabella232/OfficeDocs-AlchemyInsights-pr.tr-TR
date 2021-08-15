@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813204"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029824"
 ---
 # <a name="file-open-read-only"></a>Dosya açık salt okunur
 
@@ -36,20 +36,20 @@ Dosyaya sağ tık tıklar ve Özellikler'i seçerek dosya özelliklerini kontrol
   
 İnternet ve güvenli olmayabilecek konumlardan alınan dosyalar virüs, solucan veya bilgisayarınıza zarar verecek başka bir tür kötü amaçlı yazılım içerebilir. E-posta ekleri veya indirdiğiniz dosyalar için de bu durum yaygındır. Bilgisayarınızın korunmasına yardımcı olmak için, güvenli olmayabilecek bu konumlardan gelen dosyalar Korumalı Görünüm'de açılır. Korumalı Görünüm'i kullanarak dosyayı okuyabilir ve içeriğini görebilir ve bu arada riski de azaltabilirsiniz. Korumalı görünüm ve ayarları değiştirme hakkında daha fazla bilgi için şu makaleye bakın: [Korumalı Görünüm nedir?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **OneDrive dolu mu?**
+ **Dolu OneDrive var mı?**
   
-Dosya OneDrive'da depolanıyorsa ve OneDrive depolama alanınız dolu ise, size gereken alan altında olana kadar belgeyi kaydedesiniz. OneDrive'da boş alanlarınızı kontrol etmek için bildirim merkezinde OneDrive simgesine tıklar ve Depolamayı yönet'i seçin veya 'a gidebilir, oturum açın ve ekranın sol alt köşesindeki kullanılan alan miktarını not [https://onedrive.live.com](https://onedrive.live.com) edin.
+Dosya OneDrive depolama alanınız OneDrive depolama alanı dolu ise, size gereken alan altında olana kadar belgeyi kaydetmeniz mümkün olmayacaktır. OneDrive'te boş alanlarınızı kontrol etmek için bildirim merkezinde OneDrive simgesine tıklar ve Depolamayı yönet'i seçebilirsiniz veya 'a gidebilir, oturum açma'ya gidebilir ve ekranın sol alt köşesindeki kullanılan alan miktarını not [https://onedrive.live.com](https://onedrive.live.com) edin.
   
- **Office etkinleştirildi mi?**
+ **Etkin Office var mı?**
   
-Office etkinleştirilmemişse veya aboneliğinizin süresi dolmuşsa, salt okunur Sınırlı İşlevsellik Modundayabilirsiniz. Office'i etkinleştirme hakkında bilgi için bkz. [Office'te Lisanssız Ürün ve etkinleştirme hataları.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+Yeni Office etkinleştirilmemişse veya aboneliğinizin süresi dolduğunda salt okunur Sınırlı İşlevsellik Modundayabilirsiniz. Bu ürünleri etkinleştirme hakkında bilgi Office için bkz. Office'de [Lisanssız Ürün ve etkinleştirme hataları.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
   
  **Diğer her şey başarısız olursa...**
   
 - Bilgisayarı yeniden başlatmayı deneyin
     
-- Office güncelleştirmelerini yükleme
+- Office güncellemelerini yükleme
     
-- Office'in Çevrimiçi onarımını gerçekleştirin
+- Onarımı çevrimiçi olarak Office
     
 

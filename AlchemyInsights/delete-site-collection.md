@@ -1,5 +1,5 @@
 ---
-title: Siteyi silme
+title: Site Silme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 44f06b429262e754e92cc348a1e58aa4916d10a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17558d5de8726a672887fd810760eade9528e5779edec0c98735df17d1e5ccc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679939"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993949"
 ---
-# <a name="delete-a-sharepoint-site"></a>SharePoint sitesi silme
+# <a name="delete-a-sharepoint-site"></a>Siteyi SharePoint silme
 
-1. Yeni SharePoint Yönetim merkezinde, siteler sayfasında, silmek istediğiniz sitenin yanındaki kutuya tıklayın.
+1. Yeni yönetim SharePoint, Siteler sayfasında, silmek istediğiniz sitenin yanındaki onay kutusuna tıklayın.
     
-2. Şerit araç çubuğunda **Sil**'e tıklayın.
+2. Şerit araç çubuğunda Sil'e **tıklayın.**
     
 
