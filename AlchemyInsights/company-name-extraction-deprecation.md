@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 15943bdc6e8d69e6a48cc0dd081afdee150e95a34823657156fd9abe111824d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817408"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978793"
 ---
 # <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>SharePoint Online'da şirket adı ayıklamada yapılan değişiklikler
 
-15 Kasım 2019'dan başarak, SharePoint Online'dan Şirket Adı [Ayıklaması'ni kaldıracağız.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) SharePoint'te şirket adı ayıklama, arama sisteminin önceden doldurulmuş bir sözlük kullanarak veya Şirket İçerenler veya Şirket Dışlamalar listelerini kullanarak belirli bir koşullar kümesi altındaki içerikten şirket adlarını ayıklamalarına olanak sağlar. Şirket adı ayıklama, SharePoint Online'daki içerikten bir veya daha fazla şirket adı türetmek için temel alınan bir çözüm haline geldi ancak hem sözlük hem de temel özellik kümesi eskidir.
+15 Kasım 2019'dan başarak, SharePoint Online'dan Şirket [Adı Ayıklaması'SharePoint kaldıracakyız.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) SharePoint'da şirket adı ayıklama, arama sisteminin önceden doldurulmuş bir sözlük kullanarak veya Şirket İçerenler veya Şirket Dışlamalar listelerini kullanarak belirli bir koşullar kümesi altındaki içerikten şirket adlarını ayıklamalarına olanak sağlar. Şirket adı ayıklama, SharePoint Online'daki içerikten bir veya daha fazla şirket adı türetmek için dayandırılmış bir çözüm haline geldi ancak hem sözlük hem de temel özellik kümesi eskidir.
 
 - [Bir özellik için şirket adı ayıklamanın etkinleştirildiğinden nasıl haberlerim olur?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 uygulamalarında Aboneliğin Süresi Doldu bildirimi
+title: Microsoft 365 uygulamalarda Aboneliğin Süresi Doldu bildirimi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c5070fe203d98a0953d7a353bfaf4d28d906ba8c8fb074bbed1e28916478cecd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956823"
 ---
-# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Microsoft 365 uygulamalarında "Abonelik Süresi Doldu" bildirimi
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Microsoft 365'da "Abonelik Süresi Doldu" bildirimi
 
 - Hizmetle ilgili bilinen sorunlar olup olmadığını görmek için [Hizmet Durumu sayfasını](https://docs.microsoft.com/office365/enterprise/view-service-health) gözden geçirin.
 

@@ -1,5 +1,5 @@
 ---
-title: API ile uygulama geliştirme sorunları
+title: API'lerle uygulama geliştirme sorunları
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7755"
-ms.openlocfilehash: 26d732819b64efa4fb84da44cc2a279368aa28b0
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 1de4e9aa5078507eecdbe53366e446e733029ecb1342f20ca701fa7f95a06fa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49975021"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013480"
 ---
-# <a name="issues-developing-applications-with-apis"></a>API ile uygulama geliştirme sorunları
+# <a name="issues-developing-applications-with-apis"></a>API'lerle uygulama geliştirme sorunları
 
-Azure Active Directory Graph API 'sini kullanmaya başlamak için, [Azure AD GRAFIĞI API hızlı başlangıç kılavuzuna](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) bakın veya [etkileşimli Azure AD grafiği API başvuru belgelerine](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog)bakın.
+AZURE ACTIVE DIRECTORY GRAPH API'sini kullanmaya başlamak için [Azure AD Graph API](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) hızlı başlangıç kılavuzuna bakın veya etkileşimli Azure AD Graph API başvuru belgelerini [inceleyin.](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog)
 
-**Azure Active Directory kimlik doğrulama kütüphanesi (ADAL) ve Azure AD grafiği API (AAD grafiği) için destek sonu**
+**Azure Active Directory Authentication Library (ADAL) ve Azure AD Graph API (AAD Graph) için destek sonu**
 
-**30 haziran 2020**' de başlıyor, artık adal ve Azure AD grafiğinin yeni özelliklerini eklemeiyoruz. Teknik destek ve güvenlik güncelleştirmelerini sağlamaya devam edeceğiz ancak artık özellik güncelleştirmeleri sağlamaz.
+**30 Haziran 2020'den** itibaren ADAL ve Azure AD Hizmetleri'ne artık yeni bir özellik Graph. Teknik destek ve güvenlik güncellemeleri sağlamaya devam edeceğiz, ancak artık özellik güncellemeleri sunmayacağız.
 
-**30 haziran 2022**' de BAŞLıYOR, adal ve Azure AD Graph için desteği son verecek ve artık teknik destek veya güvenlik güncelleştirmeleri sağlayamayacak.
+**30 Haziran 2022'den** itibaren ADAL ve Azure AD Graph artık teknik destek veya güvenlik güncelleştirmeleri sağlamamayacak.
 
-Mevcut işletim sistemi sürümlerinde ADAL kullanan uygulamalar, bu saatten sonra çalışmaya devam edecektir, ancak teknik destek veya güvenlik güncelleştirmelerini alamaz.
+Mevcut işletim sistemi sürümlerinde ADAL kullanan uygulamalar bu süreden sonra çalışmaya devam edecek ancak herhangi bir teknik destek veya güvenlik güncellemesi almayacaktır.
 
-Bu saatten sonra Azure AD grafiği kullanan uygulamalar artık Azure AD grafiği uç noktasından yanıt alamaz.
+Azure AD Graph kullanan uygulamalar bu sürenin ardından artık Azure AD Graph uç Graph almayabilirsiniz.
 
-**ADAL geçişi**
+**ADAL Geçişi**
 
-En son özellikleri ve güvenlik güncelleştirmelerini içeren [Microsoft kimlik doğrulama kitaplığı (msal)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)güncelleştirmesini öneririz.
+En son özelliklere ve güvenlik güncellemelerine sahip olan [Microsoft Kimlik Doğrulama Kitaplığı'na (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview) güncelleme yapmanızı öneririz.
 
-Microsoft uygulamalarını kullanıyorsanız, Microsoft 'un uygulamalarını MSAL 'in destek zamanı son tarihine geçirmeyle MSAL devam eden güvenlik ve özellik geliştirmelerinin avantajlarından yararlanabileceği konusunda unutmayın.
+Microsoft uygulamalarını kullanıyorsanız, Microsoft'un destek bitiş tarihine kadar uygulamalarını MSAL'a uygulamalarından MSAL'a en geç geçe kadar işleme devam ettiğini ve MSAL'ın devam eden güvenlik ve özellik geliştirmelerinden yararlanacaklarından, onların da yararlanmasını sağlamayı öğrenin.
 
-1. [Adal SSS 'Sini okuyun](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. [Uygulamaları tek tek platforma geçirme hakkında bilgi edinin](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. Hangi uygulamalarınızı ADAL kullanarak anladığınızdan yardım gerekirse, tüm uygulamalarınızın kaynak kodunu gözden geçirmenizi ve uygulanabiliyorsa, herhangi bir ISV veya uygulama sağlayıcısına ulaşın. Microsoft desteği size kiracınızdaki Microsoft olmayan tüm ADAL uygulamalarının bir listesini sağlayabilir.
+1. [ADAL SSS bölümünü okuyun.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+1. [Uygulamaları platformlar temelinde geçirme hakkında bilgi edinin.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+1. Uygulamalardan hangilerinin ADAL'ı kullanabileceğini anlamanız için yardıma ihtiyacınız varsa tüm uygulamalarınızı kaynak kodunu gözden geçirmenizi ve varsa tüm ISVs'lere veya uygulama sağlayıcılarına ulaşmanızı öneririz. Microsoft desteği ayrıca kiracınızdaki Microsoft dışı tüm ADAL uygulamalarının bir listesini de sağlayabilir.
 
-**AAD grafik geçişi**
+**AAD Graph Geçişi**
 
-Azure AD grafiği kullanan uygulamalar için, [Azure AD grafiği uygulamalarını Microsoft Graph 'a](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true)geçirmek için kılavuzumuzu izleyin.
+Azure AD Graph kullanan uygulamalar için, Azure AD Graph uygulamalarını [Microsoft Graph'e geçirme yönergelerimizi Graph.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true)
 
-1. [Geçiş denetim listesi başlangıç noktası sağlar](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-1. Azure App Registration Portal 'da, AAD grafiğini kullanan uygulamalar gösterilir. Tüm uygulamalarınızın kaynak kodunu incelemenizi öneririz ve uygulanabiliyorsa, herhangi bir ISV veya uygulama sağlayıcısına ulaşın. Microsoft desteği size kiracınızdaki tüm AAD grafik kullanımının listesini de verebilir.
-1. Uygulamanızın Microsoft Graph 'ta verilere erişmesi için, Kullanıcı veya yöneticinin onay süreci aracılığıyla doğru izinleri vermesi gerekir. [Microsoft Graph Permissions başvurusu](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) , her bir Microsoft Graph API kümesiyle ilişkili izinleri listeler. İzinlerin nasıl kullanılacağı hakkında rehberlik de sağlar.
+1. [Geçiş kontrol listemiz bir başlangıç noktası sağlar.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist) 
+1. Azure uygulama kayıt portalınız, hangi uygulamaların AAD Graph kullandığını gösterir. Tüm uygulamalarınızın kaynak kodunu gözden geçirmenizi ve uygunsa, herhangi bir ISV veya uygulama sağlayıcıya ulaşmanızı öneririz. Microsoft desteği, kiracınız için tüm AAD kullanım Graph bir liste de sağlar.
+1. Uygulamanın Microsoft Graph'deki verilere erişmesi için, kullanıcının veya yöneticinin izin süreci aracılığıyla bu verilere doğru izinleri olması gerekir. Microsoft [Graph izinleri başvurusu,](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) Microsoft kullanıcı api'lerinden her bir ana kümeyle Graph listeler. Ayrıca, izinleri kullanma konusunda yol göstermeyi de sağlar.
