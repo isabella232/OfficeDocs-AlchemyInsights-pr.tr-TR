@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 87738a913841908e3d0075fb9aa2aacea1db0d70
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: defba7a3408ad86d4a74892124380f1a689cb88248e3443a6ba45e040bbe11a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018052"
 ---
 # <a name="change-my-language"></a>Dilimi değiştirme
 
-Outlook uygulaması, cihazınızın ayar olduğu dile otomatik olarak çevrilir. 
+En Outlook uygulaması, cihazınızın ayar olduğu dile otomatik olarak çevrilir. 
 
-[(Outlook'ta desteklenen dillerin listesine bakın.)](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated) 
+(Outlook.) [](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated) 
 
 **Cihazınızın dilini değiştirmek için:** 
 
 **Android'de**: 
 
-- Cihaz Ayarları > ve giriş ayarları 
+- Cihaz Ayarlar > Dili ve girişi 
 
 **iOS'ta**: 
 
-- Cihaz Ayarları > Genel > Dil & Bölge 
+- Cihaz Ayarlar > Genel > Dil & Bölge 

@@ -1,5 +1,5 @@
 ---
-title: Web üzerinde Outlook 'ta istenmeyen posta ve gereksiz kişilerle ilgilenme
+title: E-postada istenmeyen ve gereksiz Web üzerinde Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 4a12668ee95aa4dd3c07b0d781a3935f69792211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd05f419fbe0ad8cc5b840d0934934aca34891c01dfb5fd258f9deba3e63ec0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982609"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Web üzerinde Outlook 'ta e-posta iletilerini gereksiz olarak işaretleme
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>E-posta iletilerini e-posta iletileri Web üzerinde Outlook
 
-Bir iletiyi önemsiz veya istenmeyen posta olarak işaretlemek için ileti listenizdeki iletiyi seçin ve **gereksiz**  >  **Önemsiz**'ı seçin.
+bir iletiyi gereksiz veya istenmeyen posta olarak işaretlemek için, ileti listesinden iletiyi seçin ve Gereksiz Gereksiz **öğesini**  >  **seçin.**
 
-Belirli bir e-posta adresinden gelen tüm iletileri engellemek için, ileti listenizdeki iletileri veya iletileri seçin ve ardından **gereksiz**  >  **Engelle**'yi seçin.
+Belirli bir e-posta adresine gelen tüm iletileri engellemek için, ileti listesinden iletiyi veya iletileri seçin ve ardından Gereksiz Engelleme **öğesini**  >  **seçin.**
 
-Bir iletiyi yanlışlıkla gereksiz olarak işaretlerseniz, önemsiz e-posta klasörünüzdeki iletiyi seçin **ve gereksiz posta**  >  **olmadığını**seçin. (*Not:* gereksiz e-posta klasörünüzdeki öğeler 30 gün sonra silinir.)
+Bir iletiyi yanlışlıkla gereksiz olarak işaretlersanız, Gereksiz E-posta klasörünüzdeki iletiyi seçin ve Gereksiz değil **öğesini**  >  **seçin.** *(Not:* Gereksiz E-posta klasörünüzdeki öğeler 30 gün sonra silinir.)
 
-[Web gelen kutusu 'nda istenmeyen posta ve gereksiz e-postaları Outlook 'un dışında tutma](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d) konusunda daha fazla bilgi edinin.
+İstenmeyen ve gereksiz [e-postaları gelen kutunuzdan uzak tutmanıza nasıl yardımcı Web üzerinde Outlook öğrenin.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)

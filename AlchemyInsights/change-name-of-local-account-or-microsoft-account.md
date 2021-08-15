@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8c7d1d384548beef56dda7fb5793e66daf15d68fa6d27999b09a6321579dfff6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818956"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017836"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Yerel hesabın veya Microsoft hesabının adını değiştirme
 
-Windows 10'da oturum a oturum aken yalnızca kullanıcı adı ve parola kullanıyorsanız, yerel bir hesap kullanırsınız. 
+E-posta hesabınıza giriş yapmak için yalnızca kullanıcı adı ve Windows 10 kullanıyorsanız, yerel bir hesap kullanırsınız. 
 
 **Yerel bir hesabın adını değiştirmek için:**
 
@@ -37,7 +37,7 @@ Oturum a açma için e-posta adresi ve parola kullanıyorsanız, bir Microsoft h
 
 **Microsoft hesabının görünen adını değiştirmek için:**
 
-Her hesapta oturum aken görünen adı kullanırsınız. Aynı zamanda Windows 10 cihazlarında gördüğünüz ad ve siz e-posta gönderirken insanların göreceği addır. Bu ad, yerel hesap adınızdan farklı olabilir. Görünen adını şu şekilde değiştirebilirsiniz:
+Her hesapta oturum aken görünen adı kullanırsınız. Aynı zamanda cihazlarınızı da Windows 10, siz e-posta gönderirken insanların göreceği addır. Bu ad, yerel hesap adınızdan farklı olabilir. Görünen adını şu şekilde değiştirebilirsiniz:
 
 1. Microsoft hesabı web **sitesinde Bilgileriniz** sayfasında [oturum açın.](https://account.microsoft.com/)
 
