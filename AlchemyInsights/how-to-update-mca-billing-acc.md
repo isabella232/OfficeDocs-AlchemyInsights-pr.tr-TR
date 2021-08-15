@@ -1,5 +1,5 @@
 ---
-title: MCA-önerilen adımlarınıza göre satılan ve fatura yeri adresini güncelleştirin
+title: MCA'nız ile ilişkilendirilmiş satılan adres ve fatura adresini güncelleştirme - önerilen adımlar
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: 8cdd2c64a95e88eb2fb4624c6e2696f77b75e198
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001528"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>MCA-önerilen adımlarınıza göre satılan ve fatura yeri adresini güncelleştirin
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>MCA'nız ile ilişkilendirilmiş satılan adres ve fatura adresini güncelleştirme - önerilen adımlar
 
-Microsoft Müşteri anlaşmanıza (MCA) dayalı olarak satılan ve fatura yeri adresini güncelleştirebilirsiniz. 
+Microsoft Müşteri Sözleşmesi'nize (MCA) ilişkili satılacak ve fatura adresinizi güncelleştirebilirsiniz. 
 
 > [!NOTE]
-> Yalnızca Kullanıcı Yöneticisi Azure Active Directory Kullanıcı profili bilgilerinde değişiklik yapabilir. Kullanıcı Yöneticisi rolüne atanmıyorsanız, Kullanıcı yöneticinizle görüşün. Kullanıcının profilini değiştirme hakkında daha fazla bilgi için, [Azure Active Directory kullanarak kullanıcının profil bilgilerini ekleme veya güncelleştirme](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)konusuna bakın.
+> Kullanıcı profili bilgisinde yalnızca kullanıcı Azure Active Directory değişiklik yapabilirsiniz. Size kullanıcı yöneticisi rolü atanmamışsa, kullanıcı yöneticinize başvurun. Bir kullanıcının profilini değiştirme hakkında daha fazla bilgi için bkz. Kullanıcının profil bilgilerini [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
-**Satılan adres** -satılan adresi, bir faturalandırma hesabından sorumlu olan organizasyonun adresi ve kişi bilgileri. Faturalandırma hesabı için oluşturulan tüm faturalarda görüntülenir.
+**Satılacak adres** - Satılan adres, kuruluşun veya fatura hesabından sorumlu olan kişinin adresi ve iletişim bilgileridir. Fatura hesabı için oluşturulan tüm faturalarda görüntülenir.
 
-**Fatura yeri adresi** -fatura yeri adresi, bir faturalandırma hesabı için oluşturulan faturalardan sorumlu olan kuruluşun adresi ve kişi bilgileri. MCA için bir faturalandırma hesabı için, her faturalandırma profili için bir fatura adresi vardır ve fatura profili için oluşturulan faturada görüntülenir.
+**Fatura adresi** - Fatura adresi, kuruluşun veya bir fatura hesabı için oluşturulan faturalardan sorumlu olan kişinin adresi ve iletişim bilgileridir. Bir MCA'nın fatura hesabı için her ödeme profili için bir fatura adresi vardır ve bu adres fatura profili için oluşturulan faturada görüntülenir.
 
-**MCA faturalandırma hesabı satış adresi**:
+**Bir MCA fatura hesabını satılacak adrese güncelleştirmek için:**
 
-1. Bir MCA için faturalandırma hesabındaki sahibi veya katılımcısı rolüne sahip e-posta adresini kullanarak Azure portalında oturum açın.
-1. **Maliyet yönetim**  +  **faturalamayı** arayın.
-1. Satılan **Özellikler**'i tıklatın  >  .
-1. Yeni adresi girin ve **Kaydet**'e tıklayın.
+1. MCA'nın fatura hesabında sahibi veya katılımcı rolü bulunan e-posta adresini kullanarak Azure portalında oturum açın.
+1. Maliyet Yönetimi **Faturalama'da**  +  **arama.**
+1. Özellikler  >  **Güncelleştirmesi'ne tıklayın.**
+1. Yeni adresi girin ve Kaydet'e **tıklayın.**
 
-Bazı hesaplar, satılan adresinin güncelleştirilebilmesi için önce ek doğrulama gerektirir. Hesabınız el ile onay gerektiriyorsa, Azure desteğine başvurmanız istenecektir.
+Bazı hesaplarda, satılacak adresler güncelleştirilmeden önce ek doğrulama gerekiyor. Hesabınız için elle onay gerekirse Azure desteğine başvurun.
 
-**MCA faturalandırma hesabı adresini güncelleştirmek için**: 
+**Bir MCA fatura hesabı adresini güncelleştirmek için:** 
 
-1. Bir faturalandırma hesabında veya MCA için bir faturalandırma profilinde sahibi veya katılımcısı rolüne sahip e-posta adresini kullanarak Azure portalında oturum açın.
-1. **Maliyet yönetim**  +  **faturalamayı** arayın.
-1. Faturalama profilini güncelleştirmek için **faturalandırma profilleri** 'ni tıklatın ve bir faturalandırma profili seçin öğesini seçin.
-1. **Özellikler**  >  **güncelleştirme adresi**'ne tıklayın.
-1. Yeni adresi girin ve **Kaydet**'i tıklatın.
+1. Bir fatura hesabında veya MCA için fatura profilinde sahibi veya katılımcı rolü bulunan e-posta adresini kullanarak Azure portalında oturum açın.
+1. Maliyet Yönetimi **Faturalama'da**  +  **arama.**
+1. Fatura **profilleri'ne** tıklayın ve fatura adresini güncelleştirmek için bir fatura profili seçin.
+1. Özellikler **Güncelleştirme**  >  **adresi'ne tıklayın.**
+1. Yeni adresi girin ve Kaydet'e **tıklayın.**
 
 **Önerilen belgeler**
 
-[Azure Faturalandırma hesabı için kişi bilgilerini değiştirme](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
-[Faturalandırma hesabı ayarlarını güncelleştirme](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
-[Azure 'da Microsoft müşteri anlaşması yönetim rollerini anlama](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+[Azure fatura hesabının kişi bilgilerini değiştirme](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
+[Fatura hesabı ayarlarını güncelleştirme](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+[Azure'daki Microsoft Müşteri Sözleşmesi yönetim rollerini anlama](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)

@@ -1,5 +1,5 @@
 ---
-title: SharePoint dosyaları eksik
+title: SharePoint dosyalar eksik
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000100"
 - "7470"
-ms.openlocfilehash: e86b999f44973cbea597f6f48d9a620879bc1b34
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 583fec061c38a4270fb662a84c5f660415a0e2a2d6ac78994d9cb8d8b6b3d8b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023326"
 ---
-# <a name="sharepoint-files-are-missing"></a>SharePoint dosyaları eksik
+# <a name="sharepoint-files-are-missing"></a>SharePoint dosyalar eksik
 
-OneDrive veya SharePoint dosyalarınızın çoğu silinmiş, üzerine yazılmış, bozuksa veya bulaşmışsa, kullanıcılara kurtarma işleminde yardımcı olacak çeşitli seçenekler sunuyoruz.
+Birçok OneDrive veya SharePoint dosyası silinir, üzerine yazılır, bozulur veya kötü amaçlı yazılımdan virüs bulaşırsa kullanıcılara kurtarma sürecinde yardımcı olmak için çeşitli seçenekler sunaruz.
 
-Daha fazla bilgi için [SharePoint Online ve OneDrive iş 'te eksik, silinmiş veya bozuk öğeleri kurtarma](https://go.microsoft.com/fwlink/?linkid=2110774)konusuna bakın.
+Daha fazla bilgi için [bkz. SharePoint Online'da ve başka](https://go.microsoft.com/fwlink/?linkid=2110774)bir OneDrive İş.

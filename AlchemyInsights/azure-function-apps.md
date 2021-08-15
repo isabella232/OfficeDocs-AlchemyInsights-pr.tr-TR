@@ -1,5 +1,5 @@
 ---
-title: Azure Işlevi uygulamaları
+title: Azure İşlev Uygulamaları
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7843"
-ms.openlocfilehash: 11ccf3d819845383d06d25ff41c647fa456a3de1
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: bd5c16c68e69c8d9739bdc84d6d678681b5395fed3b90420d7b78cc47664eaed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984630"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979657"
 ---
-# <a name="azure-function-apps"></a>Azure Işlevi uygulamaları
+# <a name="azure-function-apps"></a>Azure İşlev Uygulamaları
 
-[App Service veya Azure Functions uygulamasını Azure AD oturum açma kullanacak şekilde yapılandırma](https://docs.microsoft.com/azure/app-service/configure-authentication-provider-aad) Azure uygulama hizmeti 'Ni veya Azure işlevlerini kimlik doğrulama sağlayıcısı olarak Azure Active Directory 'Yi (Azure AD) kullanacak şekilde yapılandırmayı gösterir.
+[Uygulama Hizmetinizi veya Azure](https://docs.microsoft.com/azure/app-service/configure-authentication-provider-aad) İşlevler uygulamanızı Azure AD oturum açma bilgilerini kullanmak üzere yapılandırmanız, Azure Uygulama Hizmeti'nin veya Azure İşlevleri'nin kimlik doğrulama sağlayıcısı olarak Azure Active Directory (Azure AD) olarak nasıl yapılandırıldığından emin olun.

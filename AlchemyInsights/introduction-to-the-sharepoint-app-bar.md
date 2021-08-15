@@ -1,5 +1,5 @@
 ---
-title: SharePoint Uygulama Çubuğu'ne giriş
+title: SharePoint Uygulama Çubuğu'ne Giriş
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004628"
 - "8343"
-ms.openlocfilehash: 660bbd53820a5c70709af85bbaa82446c7bf1cd3
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 673d8189eb5121b55468985822c487562f74d05f5dfdbbf892b2ac8ab40d3e84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427988"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001456"
 ---
-# <a name="introduction-to-the-sharepoint-app-bar"></a>SharePoint Uygulama Çubuğu'ne giriş
+# <a name="introduction-to-the-sharepoint-app-bar"></a>SharePoint Uygulama Çubuğu'ne Giriş
 
-Uygulama çubuğu, kişiselleştirilmiş içeriği dinamik olarak görüntülerken genel deneyim bulma yolunu geliştirmek için tasarlanmıştır. Uygulama çubuğu varsayılan olarak **Açık** olur ve PowerShell'in en son sürümü kullanılarak geçici olarak devre dışı bırakılabilir **(Set-SPOTemporarilyDisableAppBar $true**) . Ekim 2010 sonuna kadar uygulama çubuğu devre dışı bırakılabilir ve bu noktada uygulama otomatik olarak yeniden etkinleştirilir.
+Uygulama çubuğu, kişiselleştirilmiş içeriği dinamik olarak görüntülerken küresel deneyim bulma yolunu geliştirmek için tasarlanmıştır. Uygulama çubuğu varsayılan olarak **Açık durumdadır** ve PowerShell'in en son sürümünü kullanarak geçici olarak devre dışı bırakılabilir (**Set-SPOTemporarilyDisableAppBar $true**). Uygulama çubuğu Ekim sonuna kadar devre dışı bırakılabilir ve bu noktada otomatik olarak yeniden etkinleştirilir.
 
 Daha fazla bilgi için bkz.:
 
 - [SharePoint uygulama çubuğuna giriş](https://docs.microsoft.com/SharePoint/sharepoint-app-bar)
-- [Organizasyonunız için bir ev sitesi ayarlama](https://docs.microsoft.com/sharepoint/home-site)
+- [Organizasyonunız için bir giriş sitesi ayarlama](https://docs.microsoft.com/sharepoint/home-site)
 - [SharePoint uygulama çubuğunu kullanma](https://support.microsoft.com/office/use-the-sharepoint-app-bar-b2ab82d5-9af7-445e-ad24-236c5a86b5f8)

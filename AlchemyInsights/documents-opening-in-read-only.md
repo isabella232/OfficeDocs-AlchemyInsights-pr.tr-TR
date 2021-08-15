@@ -15,12 +15,12 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
-ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
-ms.translationtype: HT
+ms.openlocfilehash: f286aff794325b82679e59cd152189dc65b23e4d3c06b0b3da65851cd767bbaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49529002"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030403"
 ---
 # <a name="documents-opening-in-read-only"></a>Belgeler salt okunur açılıyor
 
@@ -30,8 +30,8 @@ Dosyaların salt okunur açıldığını fark edebilirsiniz. Bu durum bazen, ör
 
 Müşteri, [salt okunur olarak açılan SharePoint dosyalarında](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out) belirtilen tasarım kaynaklı senaryolar arasında güvenlik iyileştirme mekanizması veya değiştirilmemiş ayar gibi belli olası nedenlerin olmadığını düşünüyorsa, salt okunur modda açılan belgeler için diğer yaygın çözümlere göz atabilirsiniz.
 
-- Bilgisayarı yeniden başlatın.
-- Office güncelleştirmelerini yükleyin.
+- Bilgisayarınızı yeniden başlatın.
+- Daha fazla Office yükleyin.
 - Makinedeki virüsten koruma yazılımını denetleyin.
 - Sitenin Internet Explorer'da Güvenilen Siteler bölgesinde yer aldığından emin olun.
 - Office onarımını çalıştırın.
