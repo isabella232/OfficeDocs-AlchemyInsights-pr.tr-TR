@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc163fae4d348d7c7cf117bd457f999b42f96bec7c1eb9aa1435e346131d06de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782171"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038132"
 ---
 # <a name="upn-sync-disabled"></a>UPN eşitlemesi devre dışı
 
@@ -27,6 +27,6 @@ Azure AD'ye eşitlemeyi 30 Mart 2016'dan önce başlattıysanız, yalnızca sizi
   
 30 Mart 2016'da veya bundan sonra Azure AD'ye eşitlemeye başlayan kuruluşlarda UPN yumuşak eşleşmesi otomatik olarak açılır.
   
-UPN'de ve diğer eşitleme özellikleriyle yumuşak eşleşmeyi etkinleştirme hakkında daha fazla bilgi edinmek için bkz. [Azure AD Connect eşitleme hizmeti özellikleri.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
+UPN ve diğer eşitleme özellikleri üzerinde yumuşak eşleşmeyi etkinleştirme hakkında daha fazla bilgi edinmek için lütfen [bkz. Azure AD Bağlan eşitleme hizmeti özellikleri.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
   
 

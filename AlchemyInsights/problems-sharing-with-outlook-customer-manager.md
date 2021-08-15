@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709270"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960135"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Outlook Customer Manager ile paylaşma sorunları
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Customer Manager'da Outlook sorunları
 
-Outlook Customer Manager ile paylaşım sorunlarınız varsa, önce tarayıcı önbelleğinizi temizlemeyi denemenizi öneririz. Örneğin Internet Explorer'da şunlarınız olabilir:
+Customer Manager ile ilgili paylaşım sorunları Outlook önce tarayıcı önbelleğini temizlemeyi denemenizi öneririz. Örneğin, Internet Explorer'da şunları olur:
 
-1. Gözatma **Geçmişi**  >  **Önbellekleri** > veritabanları **altında Ayarlar Genel**  >  **Ayarları'na gidin.**
-2. "Outlookapps.com" web sitesinin önbellek dosyalarını silin.
+1. Gözatma **geçmişi Ayarlar**  >  **veritabanları** altında > Ayarlar Genel   >  **Gezinti'ye gidin.**
+2. "Site" web sitesinin önbellek dosyalarını outlookapps.com.
 3. Outlook'u yeniden başlatın.
 
-Paylaşım hakkında daha fazla bilgi için, [Outlook Customer Manager'da Bilgi Paylaşma'ya bakın.](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)
+Paylaşım hakkında daha fazla bilgi için [Bkz. Customer Manager'da Outlook paylaşma.](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)

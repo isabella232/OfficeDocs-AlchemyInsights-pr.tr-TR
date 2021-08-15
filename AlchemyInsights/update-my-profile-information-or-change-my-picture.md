@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c6155eb09a4051b145cd1002c7be3a811e6e1224d88daf48dccbb4e059475081
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038204"
 ---
 # <a name="update-my-profile-information-or-change-my-picture"></a>Profil bilgilerimi güncelleştirme veya resmimi değiştirme
 
-Şu anda profil bilginizi doğrudan iOS için Outlook'tan düzenlemek ve güncelleştirmek mümkün değildir, ancak bu bilgileri başka bir yerde düzenlemek mümkündür. 
+Şu anda profil bilginizi doğrudan iOS için Outlook başka bir yerden düzenleyemez ve güncelleştirebilirsiniz. 
 
-Profilinizde güncelleştirmeler yapmak için Windows için Outlook'u veya Web üzerinde Outlook'u (OWA) kullanabilirsiniz. 
+Profilinizde, Web'de (OWA) Outlook Windows Outlook güncelleştirmeler bulabilirsiniz. 
 
-**Windows için Outlook**: 
+**Outlook için Windows:** 
 
-- **Dosya**  >  **Office Hesabı**  >  **Kullanıcı bilgileri**  >  **Benim hakkında** (sizi çevrimiçi Microsoft 365 profiline  getirir) > Profili Güncelleştir'e veya kamera simgesine tıklar ve fotoğrafını değiştirir  
+- **Dosya**  >  **Office Hesabı**  >  **Kullanıcı bilgileri**  >  **Benim hakkında** (sizi çevrimiçi Microsoft 365 gösterir) > Profili  Güncelleştir'i tıklatın veya kamera simgesine tıklar  
   
-**Web üzerinde Outlook (OWA)**: 
+**Outlook 'de (OWA) arama:** 
 
 - **Profil resmi**  >  **Profilim**  >  **Profili güncelleştir**
