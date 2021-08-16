@@ -1,5 +1,5 @@
 ---
-title: 1800021 Mac için Outlook 'ta nasıl kural oluşturulur?
+title: 1800021'de kural Mac için Outlook
 ms.author: supravee
 author: supravee
 ms.audience: ITPro
@@ -11,22 +11,22 @@ ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: dbfb47da690244b34e1879c3d8d879fcc5631f75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e83453ed21348cc723b25bbf071709363d1eeaf2efda5e630c6431f62d348037
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704365"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015748"
 ---
-# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Mac için Outlook 'ta kural oluşturma
+# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Mac için Outlook'de kural oluşturma
 
-1. Kuralın gönderdiği e-posta iletilerini tutmak üzere bir klasör oluşturmak için, kök posta kutusunu seçin, **Düzenle** sekmesinde **Yeni klasör**'e tıklayın, klasörün adını yazın ve ENTER tuşuna basın.
+1. Kural tarafından gönderilen e-posta iletilerini tutmak üzere bir klasör oluşturmak  için, Düzenle sekmesinde, Yeni Klasör'e tıklayın, klasörün adını yazın ve Enter tuşuna basın.
 
-2. İleti listesinde, o bir kural oluşturmak istediğiniz e-posta iletisini tıklatın.
+2. İleti listesinde, kural oluşturmalarını istediğiniz e-posta iletisine tıklayın.
 
-3. **Giriş** sekmesinde, **kurallar**'a tıklayın ve sonra da **kural oluştur**'a tıklayın.
+3. Giriş sekmesinde **Kurallar'a** **tıklayın ve sonra** Kural **Oluştur'a tıklayın.**
 
-4. **Yeni ileti geldiğinde** , ölçütleri gereksinimlerinize uyacak şekilde düzenleyin. 
+4. Yeni **ileti geldiğinde altında, ölçütleri** ihtiyaçlarına uygun olarak düzenleyin. 
 
-Özel kurallar oluşturma hakkında ayrıntılı yönergeler için, [Mac Için Outlook 'ta kural oluşturma](https://aka.ms/AA1uy0v) konusuna bakın.
+Özel kuralları oluşturma hakkında ayrıntılı yönergeler için bkz. Özel [kural Mac için Outlook](https://aka.ms/AA1uy0v)
   

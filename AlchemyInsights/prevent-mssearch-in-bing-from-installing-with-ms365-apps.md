@@ -1,5 +1,5 @@
 ---
-title: Bing'de Microsoft Arama'nın Microsoft 365 Uygulamaları ile yüklemesini engelleme
+title: Microsoft Arama ile Bing yüklemesini Microsoft 365 Uygulamaları
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816442"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040130"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Bing'de Microsoft Arama'nın Microsoft 365 Uygulamaları ile yüklemesini engelleme
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Microsoft Arama ile Bing yüklemesini Microsoft 365 Uygulamaları
 
-Bing'de Microsoft Search'ün arka plan hizmetinin kuruluş için Microsoft 365 Uygulamaları ile yüklemesini önlemek için aşağıdaki seçeneklerden birini kullanın:
+Aynı uygulamadaki tüm kullanıcıların Microsoft Arama Bing arka plan hizmetinin Kurumlar için Microsoft 365 Uygulamaları, aşağıdaki seçeneklerden birini kullanın:
 
-- Office Dağıtım Aracı veya Grup İlkesi
-- Microsoft Uç Nokta Yapılandırma Yöneticisi (geçerli dal) veya Microsoft Intune
+- Dağıtım Office Aracı veya Grup İlkesi
+- Microsoft Endpoint Configuration Manager (geçerli dal) veya Microsoft Intune
 
-Daha fazla bilgi edinmek için Bing'de Microsoft Arama'nın kuruluş için [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2151946)Uygulamaları ile birlikte yüklenmiş olması nasıl önlenebilir?
+Daha fazla bilgi edinmek için bkz. Bing ile birlikte Microsoft Arama için arka [plan hizmetinin Kurumlar için Microsoft 365 Uygulamaları.](https://go.microsoft.com/fwlink/?linkid=2151946)

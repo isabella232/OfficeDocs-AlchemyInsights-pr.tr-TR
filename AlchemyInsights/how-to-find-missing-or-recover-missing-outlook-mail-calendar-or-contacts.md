@@ -1,5 +1,5 @@
 ---
-title: 204 eksik Outlook posta, takvim veya kişiler eksik veya kurtarılması nasıl bulunur
+title: 204 Posta, takvim veya kişi Outlook eksikleri bulma veya kurtarma
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780367"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029176"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Outlook 'ta eksik iletileri, kişileri veya takvim öğelerini bulma ve kurtarma
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>E-postada eksik iletileri, kişileri veya takvim öğelerini bulma Outlook
 
-1. Outlook 'ta, e-posta klasör listenize gidin ve **Silinmiş öğeler**'i seçin. **Önemli**: **Silinmiş öğeler** klasörünü görmüyorsanız, bunun yerine **çöp** klasörüne göz atın, hesabınız artık **Silinmiş öğeler** klasörünüzde bulunmayan bir öğeyi kurtarmayı desteklememektedir.
+1. Yeni Outlook, e-posta klasör listenize gidin ve Silinmiş **Öğeler'i seçin.** **Önemli:** Silinmiş Öğeler klasörünü  değil de Çöp Kutusu  klasörünü görüyorsanız, hesabınız artık Silinmiş Öğeler klasörde yer alan bir öğeyi **kurtarmayı desteklemez.**
 
-2. **Giriş** menüsünde **Silinmiş öğeleri sunucudan kurtar**'a tıklayın. **Önemli**: menüde **Silinmiş öğeleri sunucudan kurtar** komutu yoksa, hesabınız artık **Silinmiş öğeler** klasörünüzde bulunmayan bir öğeyi kurtarmayı desteklemiyor.
+2. Giriş menüsünde **Silinmiş** Öğeleri **Sunucudan Kurtar 'a tıklayın.** **Önemli:** Menüde **Silinmiş** Öğeleri Sunucudan Kurtar komutu yoksa, hesabınız artık Silinmiş Öğeler klasörde yer alan bir öğeyi **kurtarmayı desteklemez.**
 
-3. Kurtarmak istediğiniz öğeleri seçin, **Seçili öğeleri geri yükle**'ye ve sonra **Tamam 'a**tıklayın.
+3. Kurtarmak istediğiniz öğeleri seçin, Seçili Öğeleri Geri **Yükle'ye tıklayın ve** sonra da Tamam'a **tıklayın.**
 
-**Kurtarılan öğeler nereye git?** Kurtarılabilir Öğeler klasöründeki öğeleri kurtardığınızda, bunlar **Silinmiş öğeler** klasörüne taşınmıştır. Bir öğeyi kurtardıktan sonra, bunu **Silinmiş öğeler** klasörünüzde bulabilir ve başka bir klasöre taşıyabilirsiniz.
+**Kurtarılan öğeler nereye gider?** Kurtarılabilir Öğeler klasöründeki öğeleri kurtarsanız, bunlar Silinmiş Öğeler **klasörüne** taşınır. Bir öğeyi kurtardikten sonra, bu öğeyi Silinmiş Öğeler **klasörde** bulabilir ve sonra başka bir klasöre taşıabilirsiniz.
 
-**Etkilenen makinede** [e-posta iletilerini gönderirken, alırken veya ararken sorun yaşıyorum](https://aka.ms/SaRA-OutlookSendReceive) . Bu araç birkaç sorunu denetler ve olası çözümler önerir.
+Etkilenen makinede [e-posta iletilerini gönderirken, alırken](https://aka.ms/SaRA-OutlookSendReceive) veya bu alırken sorundiyorum **aracını da kullanabilirsiniz.** Bu araç birkaç sorunu denetlemenizi sağlar ve olası çözümler önerir.
