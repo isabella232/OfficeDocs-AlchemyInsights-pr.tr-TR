@@ -1,5 +1,5 @@
 ---
-title: Outlook.com doğrulama kodları alamıyor
+title: Outlook.com doğrulama kodlarını alayam
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064224"
 ---
-# <a name="cant-get-verification-codes"></a>Doğrulama kodları alınamıyor
+# <a name="cant-get-verification-codes"></a>Doğrulama kodları alam
 
-Alternatif e-postanıza veya telefon numarasına erişemiyorsanız, Microsoft hesabınızın [güvenlik temel bilgileri](https://account.microsoft.com/security) sayfasına gidin, oturum açma sayfasında **bunlardan birinin yok** 'u seçin ve güvenlik bilgilerinizi değiştirmek için yönergeleri izleyin.
+Alternatif e-posta veya telefon numaranıza erişe değilken [](https://account.microsoft.com/security) Microsoft hesabı Güvenliği temel bilgileri sayfanıza gidin, oturum açma sayfasında Bu seçeneklerden herhangi biri **yok'u** seçin ve güvenlik bilgilerinizi değiştirmek için yönergeleri izleyin.
 
-*Not:* [Microsoft Authenticator uygulaması](https://go.microsoft.com/fwlink/?linkid=2016117) size bir doğrulama kodu sunmak için internet bağlantısı gerektirmez.
+*Not:* Microsoft Authenticator [uygulaması](https://go.microsoft.com/fwlink/?linkid=2016117) size bir doğrulama kodu sağlamak için internet bağlantısı gerektirmez.
 
-Daha fazla bilgi edinmek için [Microsoft hesabı güvenlik bilgilerini ve doğrulama kodlarını](https://support.microsoft.com/help/12428/)okuyun.
+Daha fazla bilgi edinmek için [Microsoft hesabı güvenlik bilgileri ve doğrulama kodlarını okuyun.](https://support.microsoft.com/help/12428/)
