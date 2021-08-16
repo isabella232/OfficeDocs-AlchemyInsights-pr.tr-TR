@@ -1,5 +1,5 @@
 ---
-title: Intune Insider 'lar ekleme
+title: Intune Insider'ları Ekleme
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1982"
 - "9000348"
-ms.openlocfilehash: e187b0a910cde2c043e2e14d63dc70feddf17509
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af6f78c06dbf58bdc8a8114b718c1ecfb94c77b8af7b0cf72d6a96e16dc17c40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013912"
 ---
-# <a name="intune-insiders-onboarding"></a>Intune Insider 'lar ekleme
+# <a name="intune-insiders-onboarding"></a>Intune Insider'ları Ekleme
 
-Intune Insider programındaki ilgilendiğiniz için teşekkür ederiz. İlerlemek için, Intune Insider.
+Intune Insiders programına ilginiz için teşekkür etmek istiyorum. Devam etmek için, Ekleme Intune Insider'lar ve çalışma PowerPoint.

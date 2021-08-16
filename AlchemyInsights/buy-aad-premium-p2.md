@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory Premium P2 satın alma
+title: Satın Azure Active Directory Premium P2
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003942"
 - "6997"
-ms.openlocfilehash: 4c369183ea769b688d0b766d156b1f73e3318b17
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ffff2b8d526c12390915cba7a1e5a6d39f82586be53b7848646bd8ab8f17a426
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996686"
 ---
-# <a name="buy-azure-active-directory-premium-p2"></a>Azure Active Directory Premium P2 satın alma
+# <a name="buy-azure-active-directory-premium-p2"></a>Satın Azure Active Directory Premium P2
 
-Azure Active Directory Premium P2 denemek veya almak için şu adımları izleyin:
+Deneme veya satın Azure Active Directory Premium P2 için şu adımları izleyin:
 
-1. **Faturalandırma**  >  **satın alma hizmetleri**  >  [**güvenliği ve kimliği**](https://go.microsoft.com/fwlink/?linkid=2131946)'ne gidin ve **Azure Active Directory Premium P2**'e tıklayın.
-Ücretsiz deneme sürümünü seçtiyseniz, sayfadaki yönergeleri izleyerek süreci tamamlayın; Aksi takdirde adım 2 ' ye geçin.
-1. Sonraki sayfada kullanıcı lisansı sayısını ve ödeme dönemini girip **Şimdi kullanıma alma**'yı tıklatın.
-1. **Kullanıma alma** sayfasında, fiyatlandırma bilgilerini gözden geçirin ve **İleri**'yi tıklatın.
-1. Sonraki sayfada, ödeme ve adres bilgilerinizi girin ve siparişinizi verin.
-1. Telefon numaranızı girin ve ardından beni ve beni **Ara** **'yı tıklatın.**
-1. Size gönderdiğimiz doğrulama kodunu girin ve ardından sayfadaki yönergeleri izleyerek süreci tamamlayın.
+1. Fatura Satın **Alma hizmetleri**  >  **Güvenlik ve**  >  [**kimlik'e gidin**](https://go.microsoft.com/fwlink/?linkid=2131946)ve Faturalar'a **Azure Active Directory Premium P2.**
+Ücretsiz denemeyi seçtiysanız, sayfada verilen yönergeleri izleyerek işlemi gerçekleştirin; aksi takdirde 2. adıma geçin.
+1. Sonraki sayfada, kullanıcı lisanslarının sayısını ve ödeme dönemini girin ve Şimdi göz atın **'a tıklayın.**
+1. Ödeme **sayfasında, fiyatlandırma** bilgilerini gözden geçirin ve ardından Sonraki'ye **tıklayın.**
+1. Sonraki sayfada, ödeme ve adres bilgilerini girin ve siparişinizi girin.
+1. Telefon numaranızı girin ve Bana kısa mesaj ekle veya Beni **ara'ya tıklayın.** 
+1. Size gönderdiğimiz doğrulama kodunu girin ve ardından sayfada yer alan yönergeleri izleyerek işlemi gerçekleştirin.

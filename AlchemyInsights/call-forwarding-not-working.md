@@ -1,5 +1,5 @@
 ---
-title: Ekipte çağrı yönlendirme, çağrı grupları ve aynı anda çaldırma
+title: Aynı anda arama iletme, arama grupları ve aynı anda Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004159"
 - "7251"
-ms.openlocfilehash: e9ce11063f47bc8208714186a572846544f3abd0
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: 23578487c3e5a988f888172b7a15309217c261284f662a4e07f21ba3a4971004
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996434"
 ---
-# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Ekipte çağrı yönlendirme, çağrı grupları ve aynı anda çaldırma
+# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Aynı anda arama iletme, arama grupları ve aynı anda Teams
 
-Çağrı yönlendirmeyi ayarlama
+Arama iletmeyi ayarlama
 
-1. Takımlar Istemcisinde, ekiplerin en üstündeki profil resminize tıklayın ve sonra **ayarlar > aramalar**'ı seçin.
-2. **Çağrı yanıtlama kuralları**'nın altında **çağrılarımı ilet**'i seçin ve ardından ilettiğiniz çağrıların gitmesini istediğiniz yeri seçin: sesli mesaj, başka bir kişi veya arama grubu.
+1. Otomatik Teams İstemcisi'nde, Kullanıcı Profili'nin en üstünde yer alan profil Teams tıklayın ve Ayarlar > **seçin.**
+2. Arama **yanıtlama kuralları'nın** **altında** Aramalarımı ilet öğesini seçin ve ardından iletilen aramalarınızı istediğiniz yeri seçin: sesli mesaj, başka bir kişi veya bir arama grubu.
 
-Çağrı grubuna çağrı yönlendirmeyi ayarlama
+Arama grubuna arama iletmeyi ayarlama
 
-1. **Çağrı yanıtlama kuralları**'nın altında **çağrılarımı ilet**'i seçin.
-2. **İlet** menüsünde **arama grubu**'nu seçin.
-3. **Kişilerin eklenmesi** altında, arama grubunuza istediğiniz kişiyi ekleyin. En çok 25 kişiye ekleyebilirsiniz. Eklediğiniz herkes bildirim alır.
+1. Arama **yanıtlama kuralları'nın altında** Aramalarımı ilet **'i seçin.**
+2. forward to **menüsünde** Call **group öğesini seçin.**
+3. Kişi **ekle altında** arama grubunuzda yer almak istediğiniz kişiyi ekleyin. En fazla 25 kişi ekleme. Ekley her kişi bir bildirim alır.

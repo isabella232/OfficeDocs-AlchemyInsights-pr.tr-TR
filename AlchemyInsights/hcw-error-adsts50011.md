@@ -1,5 +1,5 @@
 ---
-title: Karma Yapılandırma Sihirbazı (HCW) hata ACSTS50011
+title: Karma Yapılandırma Sihirbazı (HCW) hatası ACSTS50011
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: 2b08a0f532d948c4417c6ddc67251ec9cb0bcc8b
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: f075c95dc831a46d313d6534e078cb298fa2212fd7cffed75a2953e7e80603a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722071"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055970"
 ---
-# <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>Karma Yapılandırma Sihirbazı (HCW) hata ACSTS50011
+# <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>Karma Yapılandırma Sihirbazı (HCW) hatası ACSTS50011
 
-Karma Yapılandırma Sihirbazı çalıştırıyorsanız (HCW) ve hata **ADSTS50011: istekte belirtilen yanıt URL 'si uygulama için yapılandırılmış olan yanıt URL 'leriyle eşleşmiyor: ' a0c73c16-a7e3-4564-9a95-2bdf47383716**, https://aka.ms/hybridwizard
+Karma bir yapılandırma sihirbazı (HCW) çalıştırıyorsanız ve ADSTS50011 hatası alıyorsanız: İstekte belirtilen yanıt URL'si, uygulama için yapılandırılmış yanıt URL'leri ile **eşleşiyor: 'a0c73c16-a7e3-4564-9a95-2bdf47383716,** HCW'nin en son sürümüne yükseltin. https://aka.ms/hybridwizard
 
 
 

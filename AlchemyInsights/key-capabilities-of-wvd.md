@@ -1,5 +1,5 @@
 ---
-title: Windows sanal masaüstünün temel özellikleri
+title: Sanal Masaüstü'Windows temel özellikleri
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067140"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>Windows sanal masaüstünün temel özellikleri
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>Sanal Masaüstü'Windows temel özellikleri
 
-Windows sanal masaüstü, bulutta çalışan bir masaüstü sanallaştırma ve Uyg. Azure 'da Windows sanal masaüstünü çalıştırdığınızda yapabilecekleriniz:
+Windows Sanal Masaüstü, bulutta çalışan bir masaüstü sanallaştırma ve uygulama sanallaştırma hizmetidir. Azure'da Sanal Masaüstü'Windows şunları çalıştırabilirsiniz:
 
-- Ölçeklenebilirlik ile eksiksiz bir Windows 10 deneyimi sunan çok oturumlu bir Windows 10 dağıtımı ayarlama
-- Microsoft 365 uygulamalarını sanallaştırın ve bunu çok kullanıcılı sanal senaryolarda çalışacak şekilde iyileştirin
-- Windows 7 sanal masaüstlerini ücretsiz genişletilmiş güvenlik güncelleştirmeleriyle (ESU) sağlama
-- Var olan uzak masaüstü hizmetlerinizi (RDS) ve Windows Server masaüstü ve uygulamalarınızı herhangi bir bilgisayara getirme
-- Windows 10, Windows Server ve Windows 7 Masaüstü ve uygulamalarını birleştirilmiş yönetim deneyimiyle yönetme
-- Ek ağ geçidi sunucuları çalıştırmak zorunda kalmadan Azure aboneliğinizde tam masaüstü sanallaştırma ortamı oluşturma
-- Çeşitli iş yüklerinizi barındırmak için gereken sayıda konak havuzu yayımlama
-- Azure galerisinden, üretim iş yükleri ve testler için kendi resimlerinizi alın
-- Havuza alınan, çoklu oturum kaynaklarını kullanarak maliyetleri azaltma
-- Kişisel (kalıcı) masaüstleri aracılığıyla tek tek sahiplik sağlama
+- Ölçeklenebilirlik ile eksiksiz bir Windows 10 deneyimin sun olduğu, çok Windows 10 oturumlu bir dağıtım ayarlama
+- Çok Microsoft 365 Uygulamaları sanal senaryolarda çalıştırmak için sanallaştırın ve en iyi duruma getirme
+- Ücretsiz Windows Güvenlik Güncelleştirmeleri (ESU) ile 7 sanal masaüstü bilgisayar sağlama
+- Var olan Uzak Masaüstü Hizmetleri (RDS) ve Windows Server masaüstlerinizi ve uygulamalarınızı herhangi bir bilgisayara getirin
+- Birleşik bir yönetim Windows 10, Windows Server Windows 7 masaüstü ve uygulamaları yönetme
+- Ek ağ geçidi sunucularını çalıştırmak zorunda kalmadan Azure aboneliğinizin tam masaüstü sanallaştırma ortamını oluşturun
+- Farklı iş yüklerinizi karşılamak için gereken sayıda ana bilgisayar havuzu yayımlayın
+- Azure Galerisi'nden üretim iş yükleri ve testleri için kendi resimlerinizi getirin
+- Havuza alındı ve çok oturumlu kaynakları kullanarak maliyetleri azaltma
+- Kişisel (kalıcı) masaüstleri aracılığıyla bireysel sahiplik sağlama
 
-Daha fazla bilgi edinmek için [Windows sanal masaüstü uygulamaları](https://go.microsoft.com/fwlink/?linkid=2127033) ve [anahtar özellikleri](https://go.microsoft.com/fwlink/?linkid=2127033)konusuna bakın.
+Daha fazla bilgi edinmek için [bkz Windows Temel](https://go.microsoft.com/fwlink/?linkid=2127033) Sanal Masaüstü Özellikleri [ve Anahtar özellikleri.](https://go.microsoft.com/fwlink/?linkid=2127033)
 

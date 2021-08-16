@@ -1,5 +1,5 @@
 ---
-title: Microsoft Viva'yı Satın Al veya Deneme
+title: Satın Alma veya Deneme Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8335"
-ms.openlocfilehash: 0150279cf03a5e4bb25c7a950cbc107abc65cd94
-ms.sourcegitcommit: 45e32fe7fdba358925df0d26daaead2675e2408f
+ms.openlocfilehash: 3052727ce6462984ab56e1d84096fd18a4fb71a0a9242668768793e2d0416ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50294409"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996552"
 ---
-# <a name="buy-or-trial-microsoft-viva"></a>Microsoft Viva'yı Satın Al veya Deneme
+# <a name="buy-or-trial-microsoft-viva"></a>Satın Alma veya Deneme Microsoft Viva
 
-Microsoft Viva Konuları buradan Satın Alın veya Deneme olarak [kullanılabilir.](https://aka.ms/BuyVivaTopics)
+Microsoft Viva Konular buradan Satın Al veya Deneme olarak [kullanılabilir.](https://aka.ms/BuyVivaTopics)
 
-Aşağıdaki aboneliklerden birini kullanmak için kuruma gerek vardır:
+Aşağıdaki aboneliklerden birini kullanmak için kuruluş gereklidir:
 
-Microsoft 365 F1, F3, E3, A3, A3, E5, Office 365 F3, E1, A1, E3, A3, E5, A5, Microsoft 365 Business Basic, Business Standard, Business Premium veya SharePoint K, Plan 1 veya Plan 2 lisansı Microsoft Viva Topics için uygun olacak.
+Microsoft 365 F1 için uygun olması için F3, E3, A3, E5, A5, Office 365 F3, E1, E3, A3, E5, A5, Microsoft 365 İş Temel, İş Standart, İş Premium veya SharePoint K, Plan 1 veya Plan 2 lisansı Microsoft Viva Konular.
