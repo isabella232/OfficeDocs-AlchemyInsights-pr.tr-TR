@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300002"
 - "3180"
-ms.openlocfilehash: a47ee5cc3f8599c850e59e46c0f636715f1d12bc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1a367eb7431d774bb8d5e6e6b11dbca97cf7fdc753cb6dd34363d6d73f1a9d1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044972"
 ---
 # <a name="configure-and-troubleshoot-mapped-network-drives"></a>Eşlenmiş ağ sürücülerini yapılandırma ve sorunlarını giderme
 
-Bir kitaplığı ağ sürücüsü olarak eşleme geçicidir ve yalnızca Internet Explorer aracılığıyla destekler. Bunun yerine, [SharePoint dosyalarını Files](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88)On-Demand sağlayan yeni OneDrive eşitleme [istemcisiyle eşitlenin.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e) OneDrive'daki tüm dosyalarınıza yerel depolama alanı olmadan erişin.
+Bir kitaplığı ağ sürücüsü olarak eşleme geçicidir ve yalnızca Internet Explorer aracılığıyla destekler. Bunun [yerine, SharePoint Files](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88)On-Demand OneDrive eşitleme yeni istemci ile [eşitlenin.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e) Yerel depolama alanı olmadan OneDrive tüm dosyalarınıza erişin.
 
-- [SharePoint Online'a bağlanan eşlenmiş ağ sürücülerinde sorun giderme](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+- [SharePoint Online'a bağlanan eşlenmiş ağ sürücülerinin sorunlarını giderme](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
