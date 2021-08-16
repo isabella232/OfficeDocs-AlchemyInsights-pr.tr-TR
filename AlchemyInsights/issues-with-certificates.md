@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "7749"
 - "9004340"
-ms.openlocfilehash: 168103463ee7c2d599b89ca883b410223486f59a
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 4b4a09dc5910087f1dcef4a1c01063f890ff67fc44b1db9b6cdf1391a05530c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974733"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027916"
 ---
 # <a name="issues-with-certificates"></a>Sertifikalarla ilgili sorunlar
 
-Sertifikalarla ilgili sorun giderme yönergeleri için aşağıdaki makalelere bakın:
+Sertifikalarla ilgili sorunları giderme konusunda yol gösterici bilgiler için aşağıdaki makalelere bakın:
 
-- [Azure Active Directory 'de sertifika tabanlı kimlik doğrulamasına Başlarken](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started)  -Office 365 Kurumsal, Iş, EĞITIM ve ABD hükümeti planlarındaki kiracıları kullananlar için sertifika tabanlı kimlik doğrulamasını yapılandırma ve kullanmaya başlama adımları.
+- [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started) - Office 365 Kurumsal, İş, Eğitim ve ABD Kamu planlarında kiracı kullanıcıları için sertifika tabanlı kimlik doğrulamayı yapılandırma ve kullanma adımlarında, sertifika tabanlı kimlik doğrulamayı kullanma adımlarında çalışmaya başlama.
 
-- [Azure AD Certificate-Based kimlik doğrulama sorunlarını giderme](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  -sertifika tabanlı kimlik doğrulama sorunlarını gidermenize yardımcı olacak bilgiler.
+- [Azure AD Kimlik Certificate-Based sorunlarını giderme](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  - Sertifika tabanlı kimlik doğrulama sorunlarını gidermenize yardımcı olacak bilgiler.
 
-- [Azure Active Directory 'de federe çoklu oturum açma için sertifikaları yönetme](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on)  -Azure Active Directory 'Nin (Azure AD), hizmet (SaaS) uygulamaları olarak yazılımda federe çoklu oturum açma (SSO) oluşturmak için oluşturduğu sertifikalarla ilgili ortak sorular ve bilgiler.
+- [Azure Active Directory'de](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on) federasyon çoklu oturum açma sertifikalarını yönetin - Azure Active Directory (Azure AD) tarafından yazılıma hizmet olarak (SaaS) uygulamaları olarak federasyon çoklu oturum açma (SSO) kurmak için oluşturan sertifikalarla ilgili yaygın sorular ve bilgiler.
 
-- [Azure Active Directory 'de Galeri UYGULAMALARıNıN SAML belirtecindeki gelişmiş sertifika imzalama seçenekleri](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)  -Azure AD 'nin üç sertifika imzalama seçeneğini öğrenin.
+- Azure Active Directory galerisi uygulamaları için [SAML belirtecinde](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options) gelişmiş sertifika imzalama seçenekleri - Azure AD'nin üç sertifika imzalama seçeneği hakkında bilgi edinin.
