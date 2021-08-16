@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 6294456c9e6c61e52da5e02a8f2e2ccee9fa1323
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 75a9d02793498715a0f75528ef01fb59d5015f72ea11949267f2a7d36ff19550
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835651"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074340"
 ---
 # <a name="self-service-purchase"></a>Self servis satın alma
 
 **Yöneticinin self servis satın almalarda hangi özellikleri vardır?**
 
-Yöneticiler, kendi kuruluşlarında yapılan tüm self servis satın almaları Microsoft 365 yönetim merkezinden bakabilirsiniz. Her self servis satın alma için ürünü, satın alan adını, satın alınan abonelikleri, son kullanma tarihini, sipariş geçmişini, satın alma fiyatını ve atanan kullanıcıları görebilirler.  Yöneticiler, kuruluşlarında gerekli olursa PowerShell aracılığıyla self servis satın almalarını ürün başına kapatabilecektir.  Yöneticiler, self servis satın alma yoluyla veya merkezi olarak satın alınan ürünler üzerinden aynı veri yönetimi ve erişim ilkelerine sahip olur.
+Yöneticiler kuruluşlarında yapılan tüm self servis satın almaları ilgili kuruluşta Microsoft 365 yönetim merkezi. Her self servis satın alma için ürünü, satın alan adını, satın alınan abonelikleri, son kullanma tarihini, sipariş geçmişini, satın alma fiyatını ve atanan kullanıcıları görebilirler.  Yöneticiler, kuruluşlarında gerekli olursa PowerShell aracılığıyla self servis satın almalarını ürün başına kapatabilecektir.  Yöneticiler, self servis satın alma yoluyla veya merkezi olarak satın alınan ürünler üzerinden aynı veri yönetimi ve erişim ilkelerine sahip olur.
 
 [Self servis satın alma hakkında SSS](https://aka.ms/self-service-purchase-faq)
 

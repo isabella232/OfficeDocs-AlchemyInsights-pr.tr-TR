@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 507dc5a3bdc5f1bc27cf12865daf98df6c702827
-ms.sourcegitcommit: f835aa80f2d85e9c0549be9395110377dba50f3d
+ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50695345"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074311"
 ---
 # <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Sorunsuz Çoklu Oturum Açma (SSO) tarayıcı sorunlarını giderme
 
@@ -25,17 +25,17 @@ Kullanıcıların çoğu, aşağıdaki adımları kullanarak Sorunsuz SSO taray�
 
 1. Tarayıcınızın güncel olduğundan emin olun.
 2. Geçersiz bir SSO oturumunu kaldırmak için tarayıcınızdan tanımlama bilgilerini silin ve yeniden oturum açmayı deneyin.
-3. Farklı bir tarayıcı kullanarak oturum açmayı deneyin.
+3. Farklı bir tarayıcı kullanarak oturum açın.
 
 **Bilinen Tarayıcı Sorunları**
 
 - Sorunsuz SSO, Firefox'ta özel gözatma modunda çalışmıyor.
-- Gelişmiş Korumalı mod açıkken Internet Explorer'da sorunsuz SSO çalışmıyor.
-- Sorunsuz SSO, Microsoft Edge'de (eski) özel gözatma modunda çalışmıyor.
+- Geliştirilmiş Korumalı mod açıkken Internet Explorer'da sorunsuz SSO çalışmıyor.
+- Sorunsuz SSO, yeni (eski) tarayıcıda özel gözatma Microsoft Edge çalışmıyor.
 - Sorunsuz SSO, iOS ve Android'in mobil tarayıcılarda çalışmıyor.
 
-Sorunsuz SSO, Chromium tabanlı Microsoft Edge'in bir sonraki sürümünü destekler ve tasarıma göre InPrivate ve Konuk modunda çalışır.
+Sorunsuz SSO, çalışma tabanlı Microsoft Edge sonraki sürümünü Chromium tasarıma göre InPrivate ve Konuk modunda çalışır.
 
 **Danışma**
 
-Sorunsuz SSO hakkında özellik istekleri yapmak veya teknik sorular sormak için Microsoft Q [&A'ye bakın](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
+Sorunsuz SSO hakkında özellik istekleri yapmak veya teknik sorular sormak için [Bkz. Microsoft&.](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)

@@ -1,5 +1,5 @@
 ---
-title: Intune cihaz stoğu
+title: Intune Cihaz Envanteri
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00ee4f1d7130c239272e28ee8e051a18e6e0baf13040d2a892866be5900adfaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014092"
 ---
-# <a name="intune-device-inventory"></a>Intune cihaz stoğu
+# <a name="intune-device-inventory"></a>Intune Cihaz Envanteri
 
-Cihazlar Blade, cihaz temelinde, Intune 'da yönetim 'in altındaki aygıtlara fikir sağlar. Gösterilen bilgiler: donanım, bulunan uygulamalar, cihaz uyumluluk durumu ve cihaz yapılandırma durumu.
+The Devices blade, intune'da her cihaz temelinde yönetim altındaki cihazlarla ilgili yönetici içgörü sağlar. Gösterilen bilgiler şunları içerir: Donanım, Bulunan uygulamalar, Cihaz Uyumluluğu durumu ve Cihaz Yapılandırması durumu.
 
-Donanım için envanter verileri ve bulunan uygulamalar, yedi günlük döngüde toplanır. Uygulamalar ve belirli donanım öğeleri, cihaz işletim sistemine bağlı olarak ve cihazın kişisel veya şirket sahibi olup olmadığı fark edilir.
+Donanım ve bulunan uygulamalar için envanter verileri yedi günlük bir döngüde toplanır. Bildirilen donanım uygulamaları ve belirli öğeler, cihazın işletim sistemine ve cihazın kişisel ya da kurumsal sahip olup olmadığına bağlı olarak farklılık gösterir.
 
-Daha fazla bilgi için bkz [.](https://docs.microsoft.com/intune/device-inventory)
+Daha fazla bilgi için [bkz. Intune'da cihaz ayrıntılarına bakın.](https://docs.microsoft.com/intune/device-inventory)
 
 **SSS**
 
-S: Intune kayıtlı Windows cihazlarında tüm uygulamaların tam envanter listesini almıyorum. Neden olmasın?
+S: Intune'a kayıtlı ve diğer cihazlarda mevcut uygulamaların tam envanter listesini Windows alam. Neden olmasın?
 
-A: Şu anda yalnızca modern uygulamalar, kurumsal cihazlar olarak tanımlanan Windows 10 bilgisayarlarında listelenir. Intune, bu cihazlarda yüklü Win32 uygulamaları hakkında bilgi toplamaz.
+Y: Şu anda, şirket cihazları olarak tanımlanan Windows 10 bilgisayarlar için yalnızca modern uygulamalar listelenmiştir. Intune, bu cihazlarda yüklü Win32 uygulamaları hakkında bilgi toplamaz.
 
-S: telefon numaraları neden tüm cihazlardan toplanmadı?
+S: Telefon numaraları neden tüm cihazlardan toplanmaz?
 
-A: Örneğin, bir mobil cihaz envanter raporu çalıştırırsanız, Intune 'da şirket cihazları olarak kategorilere ayrılan telefonlar tam telefon numarasıyla tanımlanmayabilir. Yanınızda getirin-kendi-cihaz telefon numaraları her zaman yıldız işareti (* * * *) ile kısmen maskelenir ve yalnızca son dört basamağı gösterir.
+A: Intune'da şirket cihazları olarak kategorilere ayrılmış telefonlar, örneğin bir mobil cihaz envanter raporu çalıştıracaksanız, tam telefon numarasıyla tanımlanmaz. Kendi cihaza ait telefon numaraları her zaman yıldız işaretleriyle (****) kısmen maskelenmiş olur ve yalnızca son dört rakam gösterir.

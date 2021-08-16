@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 58bb9a5089ff88b57e8aba8fa1db23304ffbeaab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e3f0b654aa38f388f5217a4c5804a3b59f7483569593deda5332068dd631b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831970"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014236"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Office istemci uygulamalarını PC’ye veya Mac’e yükleme
 
@@ -27,7 +27,7 @@ Office istemci uygulamalarını yüklemek için, Microsoft 365 İş Standart, i�
 
 Microsoft 365 uygulamalarını içeren bir aboneliğiniz varsa, [atanmış bir lisansınız](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home) olmadıkça yükleme seçeneğini görmezsiniz. Lisansları atamaktan sorumlu olan Office 365 yöneticisiyseniz, bkz. [Kullanıcılara lisans atama](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Ayrıca, kullanıcıların Office uygulamalarını kendi cihazlarına yükleyip yükleyemeyeceğini seçmek için [Office yazılım indirme ayarları](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365)’nı kullanın.
 
-**Not:** [Office Etkinleştirme raporu,](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) Microsoft 365 uygulamalarını en az bir cihaza yükp etkinleştiren kullanıcıları gösterir.
+**Not:** [Office Etkinleştirme](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) raporu, en az bir cihazda hangi kullanıcıların Microsoft 365 ve etkinleştirmiş olduğunu gösterir.
 
 Ardından, her kullanıcının şunları yapmasını sağlayın:
 

@@ -1,5 +1,5 @@
 ---
-title: Mac için OneDrive Files On-Demand ile diskte yer tasarrufu sağlar
+title: Mac için Files On-Demand OneDrive kullanarak diskte yer tasarrufu sağlar
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003530"
 - "6878"
-ms.openlocfilehash: 3b2e13a57e5b0195c8e2e38dabc439f5b4e8c23e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: e5f3b268867637a6a9d4d753a77dd599dab495aab53bb143f4bb74b35487d7e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074376"
 ---
-# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Mac için OneDrive Files On-Demand ile diskte yer tasarrufu sağlar
+# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Mac için Files On-Demand OneDrive kullanarak diskte yer tasarrufu sağlar
 
-OneDriveİsteğe Bağlı Dosyalar, OneDrive'daki tüm dosyalarınıza cihazınıza indirip depolama alanı kullanmak zorunda kalmadan erişmenize yardımcı olur.  
+OneDrive Files On-Demand, OneDrive tüm dosyalarınıza cihazınıza indirip depolama alanı kullanmak zorunda kalmadan erişmenize yardımcı olur.  
 
-Mac OS Mojave veya daha yeni sürümlerde yeni OneDrive hesapları için OneDrive'ı ayarlarken Files On-Demand varsayılan olarak açıktır. Mevcut kullanıcıların OneDrive Tercihleri'nin Files On-Demand'ı açması gerekir.  
+Mac OS Mojave OneDrive daha yeni hesaplarda veya daha yeni sürümlerde, e-postayı ayarlarken Files On-Demand varsayılan OneDrive. Mevcut kullanıcıların, Tercihler'de Files On-Demand OneDrive gerekir.  
 
 [Mac OS için Files On-Demand hakkında daha fazla bilgi edinin.](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0)

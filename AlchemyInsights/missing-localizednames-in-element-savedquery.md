@@ -1,5 +1,5 @@
 ---
-title: "' Savedquery ' öğesinde ' LocalizedNames ' eksik"
+title: "'Savedquery' öğesinde 'LocalizedNames' eksik"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: 4b25596ab68cf1723df4fa6a593cef5341c8ff16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 122904b1eb2d1c20fd26bb6a388aa50ced766cec9649fce15c0fae7f6b322832
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667142"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065628"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a>' Savedquery ' öğesinde ' LocalizedNames ' eksik
+# <a name="missing-localizednames-in-element-savedquery"></a>'Savedquery' öğesinde 'LocalizedNames' eksik
 
-Eksik ' LocalizedNames ' ile ilgili yardım için ["' savedquery ' öğesinin tamamlanmamış içeriği var. Beklenen öğeler listesi beklenen: bir Dynamics 365 çözümü içeri aktarılırken ' LocalizedNames ' "hatası oluşuyor](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
+Eksik 'LocalizedNames' ile ilgili yardım için bkz. ["'savedquery' öğesinde eksik içerik var. Beklenen olası öğelerin listesi: Dynamics 365](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element)çözümü içeri aktarıldı ancak 'LocalizedNames'" hatası oluşuyor.
 
-Görünüm adında, soruna neden olabilecek özel karakterleri arayın. Görünüm adındaki özel karakterleri kaldırın ve çözümü yeniden dışarı aktarın.
+Soruna neden olacak görünüm adı altında özel karakterlere bakın. Görünüm adı'nın tüm özel karakterlerini kaldırın ve çözümü yeniden dışarı aktarın.
