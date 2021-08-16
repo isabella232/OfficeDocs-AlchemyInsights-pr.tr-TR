@@ -1,5 +1,5 @@
 ---
-title: Microsoft Store Desteği
+title: Microsoft Store Destek
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005680"
 - "9751"
-ms.openlocfilehash: 87c5c263e138e0ee025248dc074b84c24496df0e
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c93bceab8d576f1658039f171ff4cf44a279b26c4773b8670cdad63f27bafbc6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037125"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066276"
 ---
-# <a name="microsoft-store-support"></a>Microsoft Store Desteği
+# <a name="microsoft-store-support"></a>Microsoft Store Destek
 
-Sizi dinliyoruz ve yardımcı olmak istiyorum. Ürün satın alma, sipariş durumu, fatura sorunları, özel promosyonlar, ürün bilgilerini bulma veya Microsoft Store Desteği hakkında bilgi bulma konusunda yardıma ihtiyacınız varsa, Microsoft Store Desteği'ne [başvurun.](https://support.microsoft.com/account-billing/contact-microsoft-store-support-4f615f2a-6bbd-fd69-6695-ae213d63eef0)
+Sizi dinliyoruz ve yardımcı olmak istiyorum. Bir ürün satın alma, sipariş durumu, fatura sorunları, özel promosyonlar, ürün bilgilerini bulma veya Destek hizmetleriyle ilgili bilgileri bulma konusunda yardıma Microsoft Store, bkz. Destek Microsoft Store [.](https://support.microsoft.com/account-billing/contact-microsoft-store-support-4f615f2a-6bbd-fd69-6695-ae213d63eef0)
 
-Yeni yayınlanan cihazlar veya Microsoft'tan gelecek ürünler hakkında bilgi edinmek için Microsoft [Store'a bakın.](https://www.microsoft.com/?ql=1)
+Yeni yayınlanan cihazlar veya Microsoft'un gelecek ürünleri hakkında bilgi edinmek için bkz. [Microsoft Store.](https://www.microsoft.com/?ql=1)
 
 Microsoft müşterisi olduğunuz için teşekkür ederim.

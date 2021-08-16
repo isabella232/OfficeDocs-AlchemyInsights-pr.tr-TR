@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11142"
-ms.openlocfilehash: 88525fccd6dcde0cb3949e348d1f2a7df3ee7ce7
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 0a89b121f2f425b0a81fa250650f108e9af48c9da39dfc8a62b07541d3a6c3dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52794127"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098082"
 ---
 # <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Cihazları Microsoft Intune için güvenlik taban çizgilerini Windows 10 kullanma
 
 Intune güvenlik taban çizgisi, kullanıcıları ve cihazları korumaya yardımcı olur. Güvenlik taban Windows, bilinen bir grup ayarı ve ilgili güvenlik ekipleri tarafından önerilen varsayılan değerleri uygulamak için kullanılan önceden yapılandırılmış ayarlardır. Intune'da güvenlik taban çizgisi profili oluşturarak, birden çok cihaz yapılandırma profili içeren bir şablon oluşturabilirsiniz.
 
-Kullanıcı veya cihaz gruplarına güvenlik taban çizgilerini dağıtıyorken, ayarlar daha sonra veya birden çok Windows 10 uygulanır. Örneğin, Microsoft mobil cihaz yönetimi (MDM) güvenlik temeli çıkarılabilir sürücülerde BitLocker'i otomatik olarak etkinleştirebilir, cihazın kilidini açmak için parolayı gerektirir ve temel kimlik doğrulamasını devre dışı bırakacaktır. Ortamınız için varsayılan değer işe yaramadı mı, ihtiyacınız olan ayarları uygulamak için temeli özelleştirebilirsiniz.
+Kullanıcı veya cihaz gruplarına güvenlik taban çizgilerini dağıtıyorken, ayarlar daha sonra veya birden çok Windows 10 uygulanır. Örneğin, Microsoft mobil cihaz yönetimi (MDM) güvenlik temeli çıkarılabilir sürücüler için BitLocker'ı otomatik olarak etkinleştirir, cihazın kilidini açmak için parolayı gerektirir ve temel kimlik doğrulamayı devre dışı bırakır. Ortamınız için varsayılan değer işe yaramadı mı, ihtiyacınız olan ayarları uygulamak için temeli özelleştirebilirsiniz.
 
 Güvenlik taban çizgisi, aynı zamanda iş akışlarında uç- uç güvenli iş akışı Microsoft 365. Güvenlik temeli, güvenliği etkileyen en iyi yöntemleri ve ayarların önerilerini içerir. Intune, grup ilkeleri Windows temeller oluşturan güvenlik ekibiyle ortak çalışmalarına sahip olur; bu nedenle bu öneriler sağlam kılavuzdan ve kapsamlı deneyimden temel almaktadır.
 
