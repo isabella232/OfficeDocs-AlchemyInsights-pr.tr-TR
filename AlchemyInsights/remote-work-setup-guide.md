@@ -1,5 +1,5 @@
 ---
-title: Uzaktan iş Kurulum Kılavuzu
+title: Uzaktan çalışma kurulum kılavuzu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024010"
 ---
-# <a name="remote-work-setup-guide"></a>Uzaktan iş Kurulum Kılavuzu
+# <a name="remote-work-setup-guide"></a>Uzaktan çalışma kurulum kılavuzu
 
-Daha fazla ve daha fazla iş uzakta gerçekleştiriliyor. Kuruluşunuzun yüksek talebini yönetmek için kuruluşunuzun donanmış olması gereklidir.
+Uzaktan çok daha fazla iş yapılır. Uzaktan çalışmaya artan talebi yönetmek için kuruluş şemasının sahip olması gerekir.
 
-Temel güvenlik özelliklerini etkinleştirmek ve ek güvenlik önerilerini incelemek için [Uzaktan iş kurulumu kılavuzunu](https://go.microsoft.com/fwlink/?linkid=2142062) kullanın. VPN altyapınızda gerilim azaltan ve Masaüstü ve uygulamalar için isteğe bağlı olarak uzaktan erişimi ayarlamaya yönelik yönergeler alırsınız. Ardından, Microsoft ekipleri ve Office uygulamalarını dağıtma seçeneklerinizi gözden geçirirsiniz.
+Temel güvenlik [özelliklerini etkinleştirmek ve ek](https://go.microsoft.com/fwlink/?linkid=2142062) güvenlik önerilerini gözden geçirmek için Uzaktan çalışma kurulum kılavuzunu kullanın. VPN altyapınız üzerinde zorlanmayı azaltmak ve isteğe bağlı olarak masaüstleri ve uygulamalar için uzaktan erişimi ayarlamak için rehberlik edinebilirsiniz. Ardından, uygulamalarınızı ve uygulamalarınızı dağıtmak için Microsoft Teams Office olur.
