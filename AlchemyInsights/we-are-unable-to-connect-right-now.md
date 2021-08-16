@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 2dd3c97bb85254215b13ee8a1222941c0492b204
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5dad4b43efac2468b57351a4d6c96379ed505071ca144ec0aa518e975633bb18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51806462"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998192"
 ---
-# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Microsoft 365 uygulamalarını düzeltme "Şu anda bağlanalarız" iletisi
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Şu Microsoft 365 düzeltme "Şu anda bağlanalarız" iletisi
 
 Bu iletiyi alırsanız, şunları deneyin:
 
-1. Güvenlik duvarınızı, virüsten koruma yazılımınızı ve proxy ayarlarınızı kontrol edin ve Microsoft 365 uygulamalarına İnternet erişimini engellemelerini engellemez. Bkz. [Microsoft URL'leri ve IP adresi aralıkları.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+1. Güvenlik duvarınızı, virüsten koruma yazılımınızı ve proxy ayarlarınızı kontrol edin ve bu uygulamaların İnternet erişimini engelleme Microsoft 365 yapın. Bkz. [Microsoft URL'leri ve IP adresi aralıkları.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
 2. Başlangıç **Çalıştırma'ya**  >  **gidin** ve **services.msc yazın.** Aşağıdaki hizmetlerin hepsinin çalıştırlı olduğundan emin olun:
     - Ağ Bağlantılı Cihazlar Otomatik Kurulumu
@@ -37,4 +37,4 @@ Bu hizmetlerden biri çalışmıyorsa, başlatmayı deneyin. Hizmeti başlatmayl
 
 Bu komut tamamdikten sonra bilgisayarı yeniden başlatın.
 
-Ayrıntılı bilgi için [bkz. "Ne üzgünüz, hesabınıza bağlana üzgünüz. Office'i Microsoft 365'den etkinleştirirken lütfen daha sonra yeniden deneyin" hatası.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
+Ayrıntılı bilgi için [bkz. "Ne üzgünüz, hesabınıza bağlana üzgünüz. Office etkinleştirme sırasında lütfen daha sonra yeniden Microsoft 365.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

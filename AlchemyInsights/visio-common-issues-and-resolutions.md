@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 650872443ab1f94c970979e111a7ea2d287d7a7ddde1e5123a385edb48a0bb32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51806606"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998198"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Visio’nun yaygın sorunları ve çözümleri
 
@@ -25,7 +25,7 @@ Microsoft Visio ile ilgili sık istenen bazı konular şunlardır:
 
 **Visio Online seçenekleri**
 
-- Visio, [tek başına uygulama](https://products.office.com/visio/flowchart-software) olarak satılır. Yöneticiler Visio [aboneliğini](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) Microsoft 365 yönetim merkezinden satın alınabilir.
+- Visio, [tek başına uygulama](https://products.office.com/visio/flowchart-software) olarak satılır. Yöneticiler Visio [aboneliğini satın](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) Microsoft 365 yönetim merkezi.
 
 - Visio [farklı abonelik planları](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) sunar. Visio’da bir özelliği bulamadıysanız, Plan 1 ile Plan 2 arasındaki farklar hakkında daha fazla bilgi edinmek için [Visio seçeneklerini karşılaştırma](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) konusuna bakın.  Visio Online Plan 1’de Visio’nun masaüstü sürümünün bulunmadığına dikkat edin.
 

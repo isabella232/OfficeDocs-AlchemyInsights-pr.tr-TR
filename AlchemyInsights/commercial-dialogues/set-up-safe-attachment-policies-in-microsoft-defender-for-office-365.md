@@ -1,5 +1,5 @@
 ---
-title: Office 365 için Microsoft Defender'da Güvenli Ek ilkelerini ayarlama
+title: Gizlilik için Kasa Defender'da Ek ilkelerini Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 00b939a5ad9ee0349c85c162bf8279c5b1e1a0e5
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058562"
 ---
-# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Office 365 için Microsoft Defender'da Güvenli Ek ilkelerini ayarlama
+# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Gizlilik için Kasa Defender'da Ek ilkelerini Office 365
 
-1. [Office 365 Güvenlik ve Uyumluluk &'ne](https://go.microsoft.com/fwlink/p/?linkid=2077143) gidin ve **Tehdit Yönetimi İlkesi**  >  **Güvenli**  >  **Ekleri'ne tıklayın.**
-2. Bu özelliği diğer iş yükleri için etkinleştirmek üzere SharePoint Online, OneDrive ve Microsoft Teams için **Office 365 için Microsoft Defender'ı açın seçeneğini seçin.**
-3. Yeni ilke oluşturmak için Yeni **(** ) simgesini **+** seçin.
+1. Güvenlik ve Uyumluluk [Office 365 Merkezi'& gidin](https://go.microsoft.com/fwlink/p/?linkid=2077143) ve Ekler **için Tehdit Yönetimi**  >  **İlkesi Kasa**  >  **seçin.**
+2. Bu özelliği diğer iş yükleri için etkinleştirmek üzere SharePoint Online, OneDrive ve Office 365 için **Microsoft Defender'ı Microsoft Teams.**
+3. Yeni bir ilke oluşturmak için Yeni **(** ) **+** simgesini seçin.
 4. İlkenin adını, açıklamasını ve ayarlarını belirtin.
 5. **Kaydet**'i seçin.

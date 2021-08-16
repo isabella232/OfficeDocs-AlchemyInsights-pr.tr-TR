@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 145563a64bbebb6fcafcf249231e70dfa99d92d6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 75ddbaf986b6d475a145afc91a7cbc5676dbe8645c74f9399969c78be5d0342f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070020"
 ---
 # <a name="whats-a-domain"></a>Etki alanı nedir?
 
-Etki alanı, e-posta adresinizin @ simgesiden sonra gelen bölümüdür. Örneğin, adres rob@contoso.com etki alanı **contoso.com.** Çoğu işletme kendi etki alanı adlarını e-posta adreslerinde kullanmayı tercih eder.
+Etki alanı, e-posta adresinizin @ simgesiden sonra gelen bölümüdür. Örneğin, adres ve adres rob@contoso.com etki alanı **contoso.com.** Çoğu işletme e-posta adreslerinde kendi etki alanı adlarını kullanmayı tercih eder.
 
 Etki alanlarıyla ilgili bazı ipuçları aşağıdadır:
 
 - Microsoft'tan bir etki alanı adı satın alabilirsiniz. Bu şekilde, özel bir e-posta adresiniz olur.
-- Ya da sahip olduğunuz bir etki alanını Office 365'e eklemeniz de gerekir.
+- Ayrıca, zaten sahip olduğunuz bir etki alanını kendi etki alanınıza da Office 365.
 
 Daha fazla bilgi için [bu harika videoyu izleyin.](https://www.youtube.com/watch)

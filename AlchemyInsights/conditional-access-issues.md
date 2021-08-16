@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7768"
-ms.openlocfilehash: 7c20b26e3a038dc4392684ca410eba97cec2df30
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 85cbd89e461f36a51eed816619fd132ea60dfdb0014eb850c7ec3f38d41e1ca2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50015005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069984"
 ---
 # <a name="conditional-access-issues"></a>Koşullu erişim sorunları
 
-**Oturum açma tanısı sorunlarını çözme**
+**Oturum Açma Tanılama ile ilgili sorunları çözme**
 
-[Oturum açma tanılaması](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)kullanarak Kullanıcı oturum açma ile ilgili sorunları hızla bulabilir veya tanılayabilir:
+Oturum Açma Tanılama'yı kullanarak, oturum açmayla ilgili ne olduğunu veya kullanıcı oturum açmayla ilgili [sorunları tanılamayı hızlı bir şekilde bulabilirsiniz:](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
 
-1. Oturum açma tanılaması 'nı başlatın.
-1. Kullanıcı, uygulama, oturum açma süresi, istek kimliği veya bağıntı kimliği hakkında sahip olduğunuz ayrıntılara girerek çözümlenecek olayı bulun.
-1. Ne olduğunu ve değişiklik yapmak için uygulayabileceğiniz eylemleri (herhangi bir değişiklik gerekiyorsa) gösteren Tanılama sonuçlarını gözden geçirin.
+1. Oturum Açma Tanılama'yı başlatma.
+1. Kullanıcı, uygulama, oturum açma zamanı, istek kimliği veya bağıntı kimliği hakkında sahip olduğunuz ayrıntılara girerek analiz etmek için olayı bulun.
+1. Ne olduğunu ayrıntıları ve değişiklik yapmak için hangi eylemleri gerçekleştirebilirsiniz (gerekirse) gösteren tanılama sonuçlarını gözden geçirebilirsiniz.
 
-**Oturum açma sorunlarını giderme adımları** 
+**Oturum Açma Sorunlarını Giderme Adımları** 
 
-1. Azure AD oturum açma sayfasına gidin.
-1. Oturum açmayı kullanıcıya, zaman aralığına, uygulamaya, duruma, istemci uygulamasına, vb. göre filtreleyin.
-1. Hangi ilkelerin değerlendirildiğini görmek için bir oturum açma olayı seçin ve koşullu erişim sekmesini görüntüleyin.
-1. İlke ayrıntılarını görüntülemek ve neden uygulandığını anlamak için bir ilkenin satırına tıklayın.
+1. Azure AD Oturum Açma sayfasına gidin.
+1. Oturum açma bilgilerini kullanıcıya, zaman aralığına, uygulamaya, duruma, istemci uygulamasına, buna göre filtrele.
+1. Hangi ilkelerin değerlendirildi görmek için bir oturum açma olayı seçin ve Koşullu Erişim sekmesini görüntüleyin.
+1. İlkenin ayrıntılarını görüntülemek ve neden uygulandığını anlamak için ilke satırına tıklayın.
 
-**Koşullu erişim ilkesinde sorun giderme araçları**
+**Koşullu Erişim ilkesi sorunlarını giderme araçları**
 
-- Yalnızca rapor modu kullanıcıları etkilemeden bir ilkeyi değerlendirmenize olanak tanır.
-- Durum aracı, oturum açma olaylarının hangi ilkelerin uygulanacağını görmenizi sağlar.
-- Öngörüler ve raporlama çalışma kitabı her ilkenin gerçek zamanlı etkisini gösterir.
+- Yalnızca rapor modu kullanıcıları etkilemeden bir ilkeyi değerlendirmenizi sağlar.
+- Benzetim aracı, oturum açma olaylarını benzetimini görmenizi ve hangi ilkelerin geçerli olduğunu görmenizi sağlar.
+- Analizler raporlama çalışma kitabı her ilkenin gerçek zamanlı etkisini görüntüler.
 
-**Temel koruma Ilkeleri**
+**Temel Koruma İlkeleri**
 
-Temel koruma ilkeleri kullanımdan kaldırıldı. Artık zorlanmayacak ve Azure portalından yakında kaldırılacaktır. [Güvenlik varsayılanlarını](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)etkinleştirmeyi öneririz.
+Temel Koruma ilkeleri kullanım dışıdır. Bu abonelikler artık zorunlu kılınmayacak ve yakında Azure portaldan kaldırılacaktır. Güvenlik varsayılanlarını [etkinleştirmenizi öneririz.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
 
-Koşullu erişimle ilgili daha fazla bilgi için bkz.
+Koşullu Erişim hakkında daha fazla bilgi için bkz:
 
-[Azure Active Directory 'de koşullu erişim Için en iyi yöntemler](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
- [Koşullu erişimde koşullar](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
- [Koşullu erişimde denetimler](https://docs.microsoft.com/azure/active-directory/conditional-access/controls)  
- [Koşullu erişimde konumlar](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition)
+[E-postada koşullu erişim için en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
+ [Koşullu Erişim koşulları](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
+ [Koşullu Erişim'de Denetimler](https://docs.microsoft.com/azure/active-directory/conditional-access/controls)  
+ [Koşullu Erişim'de Konumlar](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition)

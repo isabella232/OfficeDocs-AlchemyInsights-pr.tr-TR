@@ -1,5 +1,5 @@
 ---
-title: 725 mobil cihazda e-posta diğer adını kullanma
+title: 725 Mobil cihazda e-posta diğer adı kullanma
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "725"
 - "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 7eea3de92019afb801b1b843ef562b42ea85c7dd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8aa55a0f4f054a3e36a2c04b455d5fab3507e8dd12c0d59f9c05e1e21374468
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749101"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998388"
 ---
 # <a name="email-aliases-on-mobile-devices"></a>Mobil cihazlarda e-posta diğer adları
 
-E-posta diğer adı, bir posta kutusunda yapılandırılmış olan başka bir e-posta adresidir, böylece bir kullanıcının diğer adına gönderilen iletiler posta kutularına gönderilir ve mobil aygıtlarında okunabilir. Ek yapılandırma gerekmez.
+E-posta diğer adı, posta kutusunda yapılandırılan başka bir e-posta adresidir; dolayısıyla bir kullanıcının diğer adı ile gönderilen iletiler posta kutusuna teslim edilir ve mobil cihazlarında okunabilir. Ek yapılandırma gerekmez.
 
-Ancak bir Kullanıcı, Kimden adresi olarak bir diğer ad kullanarak iletileri yanıtlayamaz veya yeni ileti gönderemez. Tüm giden iletiler birincil e-posta adresinden olacaktır.
+Ancak kullanıcı, Gönderen adresi olarak bir diğer ad kullanarak iletileri yanıtlayama veya yeni ileti göndermez. Tüm giden iletiler birincil e-posta adreslerinden alınarak gönderilir.
