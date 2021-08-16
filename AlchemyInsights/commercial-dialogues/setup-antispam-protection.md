@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058526"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874595"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>İstenmeyen posta önleme koruması ayarlama
 
-Bunu şu şekilde yapacaksınız:
+1. aşağıdaki Microsoft 365 Defender portalında, İlkeler bölümünde <https://security.microsoft.com/> **E-posta &** İşbirliği \> **İlkeleri'&** Kurallar Tehdit ilkeleri \>  \> **İstenmeyen** postayla **mücadele'ye** gidin.
 
-1. Güvenlik ve [Uyumluluk Office 365 & gidin.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Tehdit Yönetimi **İlkesi 'ne**  >  **gidin** ve İstenmeyen **[posta önleme 'ye tıklayın.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
-1. Özel **sekmesinde** Özel **ayarlar'a** tıklayın.
-1. Varsayılan istenmeyen **posta filtresi ilkesi'ne genişletin,** **İlkeyi düzenle'ye** tıklayın ve ardından aşağıdaki ayarları belirtin:
-    1. **İstenmeyen posta ve toplu eylemler** bölümünde eşiği 5 veya 6 değerine ayarlayın.
-1. **Kaydet**'e tıklayın.
+   Doğrudan İstenmeyen posta **önleme ilkeleri sayfasına gitmek** için, <https://security.microsoft.com/antispam> kullanın.
 
-İstenmeyen posta önleme ilkesi seçenekleriniz hakkında daha fazla bilgi edinmek için [bkz. İstenmeyen posta önleme ilkelerini yapılandırma.](https://go.microsoft.com/fwlink/?linkid=2092051)
+2. **İstenmeyen posta önleme ilkeleri** sayfasında, aşağıdaki adımlardan birini uygulayın:
+   - Yeni ilke eklemek için + Gelen **Oluştur öğesini** \> **seçin.** İlke ayarlarınızı tanımlamanıza yardımcı olacak bir sihirbaz başlatır.
+   - Var olan bir ilkeyi düzenlemek için, ilkenin adına tıklayarak  ilkeyi seçin  (**Tür** Özel istenmeyen posta önleme ilkesi veya Ad, İstenmeyen posta önleme gelen **ilkesidir (Varsayılan)**). Görüntülenen ayrıntılar açılır sayfasında, yapılandırmak **istediğiniz** ayarları içeren bölümde Düzenle'yi seçin.
+
+3. Ayarlarınızı gözden geçirmenizin ardından Gönder (yeni) **veya** Kaydet (düzenle) **seçeneğini** seçin.
+
+Daha fazla bilgi için [bkz. EOP'de istenmeyen posta önleme ilkelerini yapılandırma.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

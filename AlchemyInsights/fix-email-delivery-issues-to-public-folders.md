@@ -1,5 +1,5 @@
 ---
-title: Posta etkin ortak klasörler için e-posta teslim sorunlarını düzeltme
+title: Posta özelliği etkin ortak klasörlere e-posta teslim sorunlarını düzeltme
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: 74a26306766ed7952a3bbbcb06f1f0113a113024
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: ff1400f694ae037a8658356af068b4c20b8fa9d9908dafedb90db7bb6859530f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366484"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068832"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Posta etkin ortak klasörler için e-posta teslim sorunlarını düzeltme
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Posta özelliği etkin ortak klasörlere e-posta teslim sorunlarını düzeltme
 
-Dış Gönderenler posta özellikli ortak klasörlerinize ileti gönderemediğinde ve Gönderenler hatayı alıyorsa: **bulunamadı (550 5.4.1)**, ortak klasörün e-posta etki alanının yetkili etki alanı yerine iç geçiş etki alanı olarak yapılandırıldığını doğrulayın:
+Dış gönderenler posta özellikli ortak klasörlerinize ileti gönderemediyse ve gönderenler şu hatayı alır: bulunamadı **(550 5.4.1)**, ortak klasörün e-posta etki alanının yetkili bir etki alanı yerine iç geçiş etki alanı olarak yapılandırıldığından emin olun:
 
-1. [Exchange Yönetim merkezini (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center)açın.
+1. yönetim [Exchange (EAC) açın.](https://docs.microsoft.com/Exchange/exchange-admin-center)
 
-2. **Posta akışı** \> **kabul edilen etki alanlarına**gidin, kabul edilen etki alanını seçin ve **Düzenle**'ye tıklayın.
+2. Posta akışı **Kabul edilen etki** \> **alanları'ne** gidin, kabul edilen etki alanını seçin ve sonra da Düzenle'ye **tıklayın.**
 
-3. Açılan Özellikler sayfasında, etki alanı türü **yetkili**olarak ayarlanmışsa, değeri **iç geçiş** olarak değiştirin ve **Kaydet**'e tıklayın.
+3. Açılan özellikler sayfasında, etki alanı türü Yetkili olarak ayarlanmışsa, değeri  İç geçiş olarak değiştirin ve Kaydet'e **tıklayın.**
 
-Dış Gönderenler **izniniz olmayan (550 5.7.13)** bir hatayı alıyorsa, ortak klasördeki anonim kullanıcıların izinlerini görmek Için [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) 'de aşağıdaki komutu çalıştırırsınız:
+Dış gönderenler izniniz yoksa **(550 5.7.13)** hatasını alırsa, ortak klasördeki anonim kullanıcıların izinlerini görmek için [Exchange Online PowerShell'de](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) aşağıdaki komutu çalıştırın:
 
 `Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous` Örneğin, `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous` .
 
-Dış kullanıcıların bu ortak klasöre e-posta göndermesine izin vermek için anonim öğeleri Access 'e anonim olarak ekleyin. Örneğin, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems` .
+Dış kullanıcıların bu ortak klasöre e-posta göndermesine izin vermek için CreateItems erişimini doğrudan kullanıcı Anonim klasörüne ekleyin. Örneğin, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems` .
