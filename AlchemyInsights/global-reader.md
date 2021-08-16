@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5672"
-ms.openlocfilehash: 522343ef1e49d59fe019aba8de8bb9e88ddcbe46
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2a8b053f493488a1ab6740cc2433d18f61729fe65959cbd1903ad689000113b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811872"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056474"
 ---
 # <a name="global-reader"></a>Genel gözetmen
 
-Bu role sahip kullanıcılar Microsoft 365 hizmetleri genelinde ayarları ve yönetim bilgilerini okuyabilir ancak yönetimle ilgili hiçbir işlem gerçekleştiramaz. Genel okuyucu, Genel yöneticiye salt okunur olandır.
-OneDrive yönetim merkezi, Genel okuyucu rolünü desteklemez.
+Bu role sahip kullanıcılar, farklı hizmetler genelinde ayarları Microsoft 365 bilgileri okuyabilir ancak yönetimle ilgili hiçbir işlem gerçekleştiramaz. Genel okuyucu, Genel yöneticiye salt okunur olandır.
+OneDrive merkezi Genel okuyucu rolünü desteklemez.
 
 Genel okuyucu ve geçerli sınırlamaları hakkında daha fazla bilgi edinmek için bkz. [Genel Okuyucu](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#global-reader).

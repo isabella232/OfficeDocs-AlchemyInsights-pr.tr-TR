@@ -1,5 +1,5 @@
 ---
-title: Project sık karşılaşılan sorunlar ve çözümlerini
+title: Project sorunları ve çözümlerini
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: 969cf2812a60f4b9a03aad46c96c1eb7a0458816
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 36d504120b5d81b06294afbfb1be4c6e73f0f696c4ea7118c6867e56ccb46b70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830854"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039698"
 ---
-# <a name="project-common-issues-and-resolutions"></a>Project sık karşılaşılan sorunlar ve çözümlerini
+# <a name="project-common-issues-and-resolutions"></a>Project sorunları ve çözümlerini
 
-Project ile sık istenen konuların bazıları:
+sık istenen bazı konuları ve şu konuları Project:
 
-1. **Project Online'ı kullanmaya başlama:** Project Online'ı kullanmaya başlama ve [ortamınıza Project Online'ı planlama,](https://docs.microsoft.com/projectonline/project-online) uygulama ve sürdürmeyi öğrenin.[](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online)   Önemli [sınırlamaları gözden geçirmek için Project Online Yazılım Sınırları](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) ve Sınırlarını gözden geçirebilirsiniz.
+1. **Web siteleriyle Project Online:**[](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) Project Online kullanmaya başlama ve ortamınızı nasıl [planlama,](https://docs.microsoft.com/projectonline/project-online) uygulama ve Project Online koruma hakkında bilgi öğrenin.   Önemli [Project Online gözden geçirmek için Yazılım Sınırları](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) ve Sınırlarını Gözden Geçir'i seçin.
 
-2. **Kullanıcılara Project Online erişimi verme:** Başkalarıyla [işbirliği yapmak için kişi, grup, kaynak ve Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) paylaşın. 
+2. **Kullanıcılara erişim izni Project Online:** Başkalarıyla [işbirliği yapmak için kişiler, gruplar, Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) kaynakları ekleyin ve belge paylaşın. 
 
-3. **Project Online'da Project Web App (PWA) performansını ayarlama:** En yaygın Project Web App [ayarlarından](https://docs.microsoft.com/projectonline/tune-project-online-performance) bazılarının performans üzerindeki etkisini ve ticari etkilerini gözden geçirebilirsiniz.
+3. **Web Project (PWA) performansını ayarlama Project Online:** Web [App ayarlarının en yaygın nedenlerinden](https://docs.microsoft.com/projectonline/tune-project-online-performance) bazılarının performans üzerindeki etkisini ve Project gözden geçirebilirsiniz.
 
-4. **Project Masaüstü İstemcisi'ile Project Online'a bağlanma:** Microsoft 365 [ortamınıza](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) Project Online'a bağlanmak için Project Online Masaüstü istemcisini kullanın. 
+4. **Bağlan Masaüstü Project Online ile oturum Project için:** Project Online [ortamı Project Online](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) bağlanmak için Microsoft 365 istemcisini kullanın. 
 
-5. **Project Professional'i yükleme:** [Project Professional'i](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) Project Online abonelikli sürümleriyle ve Project 2019, 2016 veya 2013'un aboneliksiz sürümleriyle yükleyin ve kullanın.
+5. **Yükleme Project Professional:** [Project Professional'i](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) Project Online abonelikli sürümleri ve Project 2019, 2016 veya 2013 aboneliksiz sürümleriyle yükleme ve kullanma.

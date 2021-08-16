@@ -1,5 +1,5 @@
 ---
-title: Uygulama proxy aracısı bağlayıcısıyla ilgili bir sorunum var
+title: Uygulama Ara Sunucusu Aracı Bağlayıcısı'nın bir sorunu var
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7802"
-ms.openlocfilehash: d4b4f1c3a309d2bfec4734fe7edad742dff0204e
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: 26c2823a980b7c5112355b33499489f3d2fad9f4033c4a665a0e423a80ef85c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49885271"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039734"
 ---
-# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Uygulama proxy aracısı bağlayıcısıyla ilgili bir sorunum var
+# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Uygulama Ara Sunucusu Aracı Bağlayıcısı'nın bir sorunu var
 
-1. Microsoft Azure Active Directory uygulaması proxy Bağlayıcısı, bulut kullanılabilir uç noktasından iç etki alanına bağlantı kurmak için giden bağlantıları kullanan bir iç etki alanı bileşenidir.
-1. Uygulama proxy aracısı bağlayıcısını yüklerken sorunlarla karşılaşıyorsanız, sorun gidermek için [Bu adımları](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) izleyin.
-1. Uygulama Proxy hizmetini şirket içi bir Web uygulamasına uzaktan erişim için kullanıyorsanız ancak uygulamaya bağlanma konusunda sorun yaşıyorsanız, Azure Active Directory (Azure AD) uygulama proxy bağlayıcıları ile ilgili sorunları gidermenize yardımcı olması için [Bu makaleyi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) kullanın.
+1. Microsoft Azure Active Directory Uygulama Ara Sunucusu Bağlayıcısı, kullanılabilir bulut uç noktasının iç etki alanına olan bağlantısını kurmak için giden bağlantıları kullanan bir iç etki alanı bileşenidir.
+1. Uygulama Ara Sunucusu Aracı Bağlayıcısı'ni yüklerken sorun ediyorsanız, sorun [gidermek için bu](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) adımları izleyin.
+1. Şirket içi web uygulamasına uzaktan erişim için Uygulama Ara Sunucusu hizmetini kullanıyorsanız, ancak uygulamaya bağlanırken [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) sorun ediyorsanız, Azure Active Directory (Azure AD) Uygulama Ara Sunucusu bağlayıcıları ile ilgili sorunları gidermenize yardımcı olması için bu makaleyi kullanın.

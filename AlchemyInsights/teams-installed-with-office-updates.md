@@ -1,5 +1,5 @@
 ---
-title: Office güncelleştirmeleriyle birlikte yüklenmiş Teams
+title: Teams güncelleştirmeleriyle birlikte Office yükleme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,25 +14,25 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 36b0b1a7bf37c27304b4124157dba9aba337678c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c473a001d1441362baad9feb44323b46f1cef42d3c431ef87f0fb0172f10d152
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832402"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048752"
 ---
-# <a name="microsoft-teams-installed-with-office-updates"></a>Office güncelleştirmeleriyle birlikte yüklenmiş Microsoft Teams
+# <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams güncelleştirmeleriyle birlikte Office yüklü
 
-Microsoft Teams; Kurumsal  Microsoft 365 Uygulamaları, İş için Microsoft 365 Uygulamaları ve Office Mac'in yeni yüklemelerinin bir parçası olarak dahil edilir. Daha fazla bilgi için [bkz. Microsoft Teams yeni Office yüklemelerine ne zaman dahil edilecek?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teams, Kurulum, Kurulum ve  Kurulum Kurumlar için Microsoft 365 Uygulamaları İş için Microsoft 365 Uygulamaları bir Office Mac. Daha fazla bilgi için [bkz. Microsoft Teams yeni kurulumlara ne zaman dahil Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Ayrıca, Güncel Kanal'daki Sürüm 1906'dan itibaren  Teams, var olan kurulumlarınızı en son sürüme güncelleştirince Windows çalıştıran cihazlarda kuruluş için Microsoft 365 Uygulamaları'nın (ve İş için Microsoft 365 Uygulamalarının) mevcut yüklemelerine aşamalı olarak eklenecektir. Daha fazla bilgi için [bkz. Mevcut Office yüklemeleri hakkında ne?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Buna ek olarak, Güncel Kanal'daki Sürüm 1906'dan başlayarak Teams, var olan yüklemenizi en son sürüme güncelleştirebilirsiniz ve Windows çalıştıran cihazlardaki mevcut Kurumlar için Microsoft 365 Uygulamaları (ve İş için Microsoft 365 Uygulamaları) yüklemelerine aşamalı olarak eklenecektir.  Daha fazla bilgi için [bkz. Mevcut Yüklemeler hakkında Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-**Not:** Bu dağıtım zamanlaması için beklemek istemiyorsanız, bu yönergeleri izleyerek Teams'i [](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)kullanıcılarınız için tek başına olarak dağıtabilirsiniz veya kullanıcılarınızı 'dan kendi başına Teams yüklemelerini https://teams.microsoft.com/downloads sebilirsiniz.
+**Not:** Bu dağıtım zamanlaması için beklemek istemiyorsanız, bu yönergeleri izleyerek Teams'yi kullanıcılarınız [](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)için tek başına dağıtabilirsiniz veya kullanıcılarınızı 'dan kendileri için Teams https://teams.microsoft.com/downloads yükleyebilirsiniz.
 
-Organizasyonunız Teams'i dağıtmaya hazır değilse, ***Teams'i*** yeni veya mevcut Office [yüklemelerinin](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) dışında tutebilirsiniz. [](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) Teams'in yüklemesini istiyor, ancak yüklendikten sonra kullanıcı için Teams'in otomatik olarak başlamasını istemiyorsanız bkz. Microsoft Teams'in yüklemeden sonra otomatik [olarak başlamasını engelleme](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+Organizasyonunız dağıtıma hazır değilse Teams veya var ***olan*** Teams [](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) yüklemelerini, bu dağıtımların yeni veya var olan yüklemelerinin dışında Office. [](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) Yüklemenin Teams istiyor, ancak kullanıcı için Teams yüklendikten sonra otomatik olarak başlatmasını istemiyorsanız bkz. [Yüklemeden](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)sonra Microsoft Teams'in otomatik olarak başlamasını engelleme .
 
-***Teams'i Windows*** çalıştıran bir cihazdan kaldırmak için bkz. [Microsoft Teams'i kaldırma.](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81) Microsoft Teams'i birden çok hedef makineden veya kullanıcıdan temizlemek için [bkz. Microsoft Teams dağıtım temizleme](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+***E-Teams*** çalıştıran bir cihazdan Windows için bkz. [Microsoft Teams.](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81) Birden çok Microsoft Teams makineden veya kullanıcıdan iş temizlemek için [bkz. Microsoft Teams temizleme.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
 
-Paylaşılan bilgisayarlar, Uzak Masaüstü Hizmetleri (RDS) veya Sanal Masaüstü Altyapısı (VDI) kullanıyorsanız bkz. Microsoft Teams ile paylaşılan bilgisayar ve [VDI ortamları.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams) Office Mac kullanıyorsanız bkz. [Mac'te Microsoft Teams yüklemeleri](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Paylaşılan bilgisayarlar, Uzak Masaüstü Hizmetleri (RDS) veya Sanal Masaüstü Altyapısı (VDI) kullanıyorsanız bkz. Paylaşılan bilgisayar ve [VDI](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)ortamları Microsoft Teams. Office Mac kullanıyorsanız bkz. Mac [Microsoft Teams yüklemeleri yükleme](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
 
-**Not:** Teams yüklendikten sonra, yeni özellikler ve [kalite güncelleştirmeleriyle](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) yaklaşık iki haftada bir otomatik olarak güncelleştirilir. 
+**Not:** Yeni Teams yüklendikten sonra, yeni [](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) özellikler ve kalite güncelleştirmeleri ile yaklaşık her iki haftada bir otomatik olarak güncelleştirilir. 

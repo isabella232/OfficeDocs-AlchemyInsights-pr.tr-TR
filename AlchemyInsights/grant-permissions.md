@@ -1,5 +1,5 @@
 ---
-title: İzin verme
+title: İzin ver
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7784"
-ms.openlocfilehash: 9e686bd33414512b0a3a2bc24477832a508537a8
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 3128402f72f034144a3d58074c65907d3d4f10745a9bdbee58fec14b09f419ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901619"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056402"
 ---
-# <a name="grant-permissions"></a>İzin verme
+# <a name="grant-permissions"></a>İzin ver
 
-1. **Kiracı genelinde yönetici Izni verme**: Azure PORTALıNDA Azure AD PowerShell kullanarak veya onay isteminin kendisinden kiracı genelinde yönetici izni vermeye yönelik adım adım yönergeler için [bir uygulamaya kiracı genelinde yönetici](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) izni verme konusuna bakın.
-1. **Belirli bir kullanıcı adına Izin verme**: kuruluş genelinde izin vermek yerine, yönetici tek bir kullanıcı adına temsilci izinlerine izin vermek Için [Microsoft Graph API](https://docs.microsoft.com/graph/use-the-api) 'yi de kullanabilir. Daha fazla bilgi için, [Kullanıcı adına erişim alma](https://docs.microsoft.com/graph/auth-v2-user)bölümüne bakın.
+1. **Kiracı** genelinde yönetici izni verilmesi: Azure portaldan, Azure AD PowerShell kullanarak veya izin isteminin kendisine kiracı genelinde yönetici izni vermek için adım adım yönergeler için bkz. Uygulamaya kiracı genelinde yönetici izni izni vermek. [](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent)
+1. **Belirli bir kullanıcı** adına izin vermek: Yönetici, tüm kuruluş adına izin vermek yerine, tek bir kullanıcı adına temsilci izinler verilmesine izin vermek üzere [Microsoft Graph API'sini](https://docs.microsoft.com/graph/use-the-api) de kullanabilir. Daha fazla bilgi için [bkz. Kullanıcı adına erişim elde edin](https://docs.microsoft.com/graph/auth-v2-user).

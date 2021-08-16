@@ -1,5 +1,5 @@
 ---
-title: Önceki dosya sürümünü geri yükleme
+title: Önceki bir dosya sürümünü geri yükleme
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: 5fead002ffe2089835f9419e9fe0ce0353c9dd03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e2a728b80d7c175682f17117cc1e61c109f56eb987483be12187d048467a4c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720630"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039590"
 ---
-# <a name="restore-a-previous-file-version"></a>Önceki dosya sürümünü geri yükleme
+# <a name="restore-a-previous-file-version"></a>Önceki bir dosya sürümünü geri yükleme
 
-Çevrimiçi sürüm geçmişi sayesinde, OneDrive veya SharePoint 'te dosyalarınızın eski sürümlerini görebilir ve geri yükleyebilirsiniz. Sürüm geçmişi PDF 'Ler, CAD dosyaları, fotoğraflar ve videolar dahil olmak üzere tüm dosya türleriyle çalışır. Önceki bir dosya sürümünü geri yüklemek için:
+Çevrimiçi sürüm geçmişiyle, dosyalarınızın eski sürümlerini aynı dosya veya OneDrive SharePoint. Sürüm geçmişi; PDF, CAD dosyaları, fotoğraflar ve videolar dahil olmak üzere tüm dosya türlerinde çalışır. Önceki bir dosya sürümünü geri yüklemek için:
   
-1. SharePoint belge kitaplığını veya OneDrive konumunu açın.
+1. Belge kitaplığını SharePoint veya konum OneDrive açın.
     
-2. Dosyanın solunu tıklatarak seçin ve ardından **Sürüm geçmişi**'ne tıklayın. Komut çubuğunda sürüm geçmişi 'ni görmüyorsanız, diğer ( **...** ) öğesine tıklayın. 
+2. Dosyayı seçmek için sol tarafta tıklayın ve sonra Sürüm **Geçmişi'ne tıklayın.** Komut çubuğunda Sürüm Geçmişi'yi görmüyorsanız, Diğer ( **... ) seçeneğini tıklatın.** 
     
-3. Görüntülemek istediğiniz sürümü tıklatın veya bir sürümün sağındaki daha fazla ( **..** .) simgesini ve sonra da **geri yükle**'yi tıklatın.
+3. Görüntülemek istediğiniz sürüme tıklayın veya sürümün sağ tarafından diğer **( ...** ) öğesini ve ardından Geri yükle'ye **tıklayın.**
     
 
