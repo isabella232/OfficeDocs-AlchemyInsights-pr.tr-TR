@@ -1,5 +1,5 @@
 ---
-title: SMIME blok içeriği değişimi
+title: SMIME içerik bloğu değişikliği
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1275"
 - "1800028"
-ms.openlocfilehash: f337e48f12e3900bcf5ed37a1905835c096ecb33
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cca0219e7963b5a74b71a9f5eb4d1f5796299bfaa97c9d8265dcbf3f641b172
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022084"
 ---
-# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Outlook şimdi, S/MIME 'deki dış içeriği varsayılan olarak engelleyecek
+# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Outlook artık S/MIME'de dış içeriği varsayılan olarak engelleyecek
 
-Windows için Outlook 'ta, varsayılan olarak S/MIME şifrelenmiş ve işaretlenmiş iletilerin dış içeriğini engelleyerek ve her ileti için geçersiz kılmaları engelleyerek ek güvenlik önlemleri tanıtıyoruz.
+S/MIME şifreli ve imzalı iletilerde varsayılan olarak dış içeriği engelleyerek ve ileti başına geçersiz kılmaları önleyerek Outlook için Windows'de ek güvenlik önlemleri ekliyoruz.
 
-Tüm ayrıntılar için lütfen [Windows Için Outlook 'ta, S/MIME iletilerindeki dış içeriği engeller](https://support.office.com/article/2d3a4af1-fe41-475f-a888-fc7b997d112e).
+Tüm ayrıntılar için [S/MIME Outlook Windows için bkz. Dış](https://support.office.com/article/2d3a4af1-fe41-475f-a888-fc7b997d112e)içerikleri engelleme.

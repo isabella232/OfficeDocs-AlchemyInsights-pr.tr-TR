@@ -1,5 +1,5 @@
 ---
-title: Site uyumluluğu hakkında bilgi
+title: Site uyumluluğu ve bu konuda gelecek değişiklikleri etkileyen değişiklikler hakkında bilgi Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003849"
 - "6899"
-ms.openlocfilehash: e7b4bc2a896133affa40b38c326cada6fcb396c6
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 80955b953f48a7cc70b009d71c7c0c65da6c8ad56e76cb2b4f76edd2486dc076
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022156"
 ---
-# <a name="learn-about-site-compatibilityaffecting-changes-coming-to-microsoft-edge"></a>Site uyumluluğu hakkında bilgi
+# <a name="learn-about-site-compatibilityaffecting-changes-coming-to-microsoft-edge"></a>Site uyumluluğu ve bu konuda gelecek değişiklikleri etkileyen değişiklikler hakkında bilgi Microsoft Edge
 
-Web, Kullanıcı deneyimini, güvenlik ve gizliliği geliştirmek için sürekli olarak gelişmektedir. Bazı değişiklikler var olan sayfaların işlevselliğini etkileyecek kadar önemli. Microsoft Edge ekibi, sayfayı düşünceli geliştikçe, zaman çizelgeleri, zaman çizelgeleri ve [değişiklikler duyurulur](https://go.microsoft.com/fwlink/?linkid=2135534).
+Web; kullanıcı deneyimini, güvenliği ve gizliliği geliştirmek için sürekli olarak geliştirmektedir. Bazı değişiklikler, var olan sayfaların işlevselliğini etkilemeye yetecek kadar önemlidir. Ekip Microsoft Edge düşünme, zaman çizelgeleri sağlamlaştırma ve değişiklikler duyurularak sayfaları [günceller.](https://go.microsoft.com/fwlink/?linkid=2135534)
