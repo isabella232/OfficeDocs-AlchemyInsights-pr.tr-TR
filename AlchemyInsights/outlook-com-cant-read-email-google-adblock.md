@@ -1,5 +1,5 @@
 ---
-title: AdBlock ile Google Chrome 'da Outlook.com e-postası okunamadı
+title: AdBlock ile Google Chrome Outlook.com e-postası okunamaz
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "8000048"
 - "814"
-ms.openlocfilehash: c5bc85855f5d2634c085ef093ab71c98093931a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f494d71b26e6e62215c979dcdd7fd8e4ad2c20774e15641b42f1f6208eaa2922
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984733"
 ---
-# <a name="cant-read-email-in-google-chrome-with-adblock"></a>AdBlock ile Google Chrome 'da e-postayı okuyamıyorum
+# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Google Chrome'da AdBlock ile e-postaları okuy istemiyorum
 
-AdBlock uzantısıyla Google Chrome kullanırken e-postayı okuyamıyorsanız veya oluşturamazsınız:
+AdBlock uzantısıyla Google Chrome'u kullanırken e-posta okuma veya oluşturma hakkında bilginiz yoksa:
 
-- [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) veya başka bir Web tarayıcısını kullanın.
-- AdBlock ayarlarından Outlook.com 'i dışlayın. Google Chrome 'un sağ üst köşesinde **Adblock** öğesini ve ardından **Bu etki alanındaki sayfalarda çalıştırılmayın**'i seçin. Outlook.com 'i yeniden yüklemek için tarayıcınızı yenileyin.
+- Başka [bir Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) web tarayıcısı kullanın.
+- Outlook.com'da AdBlock ayarlarının dışında tutabilirsiniz. Google Chrome'un sağ üst köşesinde **AdBlock'u** ve sonra Bu etki alanındaki **sayfalarda çalıştırma öğesini seçin.** Outlook.com adresini yeniden yüklemek için tarayıcınızı yenileyin.

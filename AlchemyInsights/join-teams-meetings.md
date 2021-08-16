@@ -1,5 +1,5 @@
 ---
-title: Teams toplantılarına katılma
+title: Toplantılara Teams katılma
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ebd54843fb99e144580dc26ce382039b5a6b0c3d85d1be45b2b49a0e92f5d46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824023"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054345"
 ---
-# <a name="join-a-meeting-in-teams"></a>Teams'de toplantıya katılma
+# <a name="join-a-meeting-in-teams"></a>Başka bir toplantıdan Teams
 
-Bir Teams toplantısına katılmak için önce toplantı ilkelerini ayarlayın, ardından kullanıcıları tercih ettiği cihazlardan katılmaları için yönlendirin:
+Bir toplantı Teams için önce toplantı ilkelerini ayarlayın, ardından kullanıcıları tercih ettiği cihazlardan katılmaları için yönlendirin:
 
 - Toplantıya kimlerin katılımcı veya konuk olarak katılabileceklerini kontrol eden [toplantı ilkelerini ayarlayın.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) 
 
-- İlke değişiklikleri yapmak için Microsoft [Teams PowerShell cmdlet'lerini](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) kullanın.    
+- İlke Microsoft Teams [yapmak için PowerShell cmdlet'lerini](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) kullanın.    
 
 **Not:** İlke değişikliklerinin etkiliksi 24 saate kadar sürebilir.

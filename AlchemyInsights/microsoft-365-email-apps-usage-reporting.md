@@ -1,5 +1,5 @@
 ---
-title: Kuruluşunuzdaki e-posta uygulamalarının kullanımıyla ilgili fikir kazanma
+title: Kurumda e-posta uygulamalarının kullanımıyla ilgili içgörü elde edin
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003962"
 - "7018"
-ms.openlocfilehash: 37a1c97793558c3842f62e43616a022d194611fb
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 67c2cbbb8b66cd4d1f6bce908569cc6a42a860e09f4b17f2d564aba724d0fc41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000592"
 ---
-# <a name="gain-insight-into-the-use-of-email-apps-in-your-organization"></a>Kuruluşunuzdaki e-posta uygulamalarının kullanımıyla ilgili fikir kazanma
+# <a name="gain-insight-into-the-use-of-email-apps-in-your-organization"></a>Kurumda e-posta uygulamalarının kullanımıyla ilgili içgörü elde edin
 
-Microsoft 365 raporları panosu, kuruluşunuzdaki ürünlerde bulunan etkinliğe genel bakış gösterir. Her bir üründe gerçekleştirilen etkinliklere fikir kazanmak için tek tek, ürün düzeyinde raporlarda ayrıntıya girebilirsiniz. Örneğin, Microsoft 365 uygulamalarının platformlar genelinde nasıl kullanıldığını denetlemek için panoyu kullanabilirsiniz. Raporları görmek için, Microsoft 365 'da genel yönetici, genel okuyucu veya rapor okuyucusu veya Microsoft Exchange, SharePoint, ekip hizmeti, ekip Iletişimleri veya Skype Kurumsal yöneticisi olmanız gerekir.
+Rapor Microsoft 365 panosu, kurum genelindeki ürünler genelindeki etkinliklere bir genel bakış gösterir. Her bir üründe gerçekleştirilen etkinliklerle ilgili içgörü elde etmek için, tek tek ürün düzeyinde raporların detaya inersiniz. Örneğin, bu uygulamanın platformlar arasında nasıl Microsoft 365 için panoyu kullanabilirsiniz. Raporları görmek için Genel yönetici, Genel okuyucu veya Microsoft 365'ta Rapor okuyucusu ya da Microsoft Exchange, SharePoint, Teams Service, Teams Communications veya Skype Kurumsal'te Rapor okuyucusu Skype Kurumsal.
 
-*E-posta uygulaması kullanım* raporu panonun bir parçasıdır ve Microsoft Exchange Online 'a bağlı e-posta uygulamalarının sayısını gösterir. Ayrıca, Microsoft Outlook uygulamalarının kullanım bilgilerini de gösterir; böylece kullanıcıların desteklenmeyen bir Outlook sürümüne geçiş istemesini isteyebilirsiniz.
+*E-posta uygulaması* kullanım raporu panonun bir bölümü olduğundan, E-posta uygulamasına bağlı e-posta Microsoft Exchange Online. Ayrıca, Microsoft Outlook uygulamalarının kullanımda olan sürüm bilgilerini de gösterir; dolayısıyla kullanıcıların desteklenen sürümlerden desteklenmemiş sürümlere geçiş Outlook.
 
 E-posta uygulaması kullanım raporuna erişmek için şu adımları izleyin:
 
-1. Microsoft 365 Yönetim merkezinde **rapor**  >  [kullanımı](https://go.microsoft.com/fwlink/?linkid=2140342)'nı seçin.
-2. **Rapor seçin** açılan menüsünde **Exchange**  >  **e-posta uygulaması kullanımı**'nı seçin.
+1. Aşağıdaki Microsoft 365 yönetim merkezi Kullanımı öğesini   >  [seçin.](https://go.microsoft.com/fwlink/?linkid=2140342)
+2. Rapor seçin **açılan menüsünden** E-posta uygulaması kullanımı **Exchange**  >  **seçin.**
 
-Daha fazla bilgi edinmek için [e-posta uygulamaları raporunu yorumlama](https://go.microsoft.com/fwlink/?linkid=2140508)bölümüne bakın.
+Daha fazla bilgi edinmek için [bkz. E-posta uygulamaları raporunu yorumlama.](https://go.microsoft.com/fwlink/?linkid=2140508)

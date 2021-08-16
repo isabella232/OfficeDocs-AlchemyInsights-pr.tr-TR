@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge 'in Windows bilgi korumasını (WıP) nasıl desteklediğini öğrenin
+title: Bilgilerin Korunması Microsoft Edge Korumasını (WIP) Windows desteklediğini öğrenin
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003933"
 - "6988"
-ms.openlocfilehash: 51fec3423e938045d2324528e7130e933c6269f9
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: d66e7e95e3dc8e7df02b01c29bdea89895defb93a1cc0567dabc3914a8af22f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679114"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054352"
 ---
-# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Microsoft Edge 'in Windows bilgi korumasını (WıP) nasıl desteklediğini öğrenin
+# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Bilgilerin Korunması Microsoft Edge Korumasını (WIP) Windows desteklediğini öğrenin
 
-Uzak işçilere ait sayı artırdıkça, şirket cihazlarından oluşan kişisel ve iş etkinliği sayısı da artar. Bu, sırasıyla kurumsal verilerin çalışma alanı dışında paylaşılabilecek riski artırır. Bu riskin etkisini azaltmak için, Microsoft Edge (sürüm 81 veya üzeri), Windows bilgi korumasını (WıP) destekler
+Uzaktan çalışanların sayısı artarak şirket cihazlarında yapılan kişisel etkinliklerin ve iş etkinliklerinin sayısı da artar. Bu da şirket verilerini çalışma alanı dışında paylaştırma riskini artırır. Bu riski azaltmak için, Microsoft Edge (81 veya sonraki sürüm) kurumsal verileri yetkisiz ve yanlışlıkla yapılan açıklamalardan korumaya yardımcı olan Windows Information Protection'ı (WIP) destekler: Windows-10 özelliği.
