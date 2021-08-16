@@ -1,5 +1,5 @@
 ---
-title: Outlook uygulamasındaki Arşiv klasöründe e-posta bulma
+title: Outlook uygulamasında Arşiv klasöründe e-Outlook bulma
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: fd13949e477c40801874bfd1a235f8c477e686c4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 10703fea4789b0861e0e5714ccba976ef52ac9088eb7d38d4ff8e95236a413c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749037"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968037"
 ---
-# <a name="find-email-in-archive-folder-in-outlook-app"></a>Outlook uygulamasındaki Arşiv klasöründe e-posta bulma
+# <a name="find-email-in-archive-folder-in-outlook-app"></a>Outlook uygulamasında Arşiv klasöründe e-Outlook bulma
 
-Outlook 2016'da Arşiv klasörü Gelen Kutusu, Gönderilmiş Öğeler ve Silinmiş Öğeler klasörü gibi Outlook'un varsayılan klasörlerindendir. Arşiv klasörünü silemezsiniz. Outlook'u bir Office 365 hesabıyla kullanıyorsanız, bekletme ilkeleri gibi klasör ilkeleri Arşiv klasörüne uygulanır.
+Arşiv Outlook 2016, Arşiv klasörü Outlook, Gelen Kutusu, Gönderilmiş Öğeler ve Silinmiş Öğeler klasörleri gibi varsayılan klasörlerden biri olur. Arşiv klasörünü silemezsiniz. E-posta Outlook bir Office 365 kullanıyorsanız, bekletme ilkeleri gibi klasör ilkeleri Arşiv klasörüne uygulanır.
 
 Arşiv klasörünü bulmak için:
 
-1. Outlook'ta, Klasör **Bölmesi Normal** > **Görünüm sekmesini**  >  **seçin.**
-2. Arşiv klasörünüz klasör listesinde yer alıyor.
-3. Varsayılan olarak, klasör listenizin en üstünde Geçerli Posta Kutusunda Ara özelliğini kullanarak Outlook öğeleri için arama yaptıysanız, Outlook Arşiv klasörü de içinde olmak üzere tüm posta kutunuzda arama sağlar.
+1. Klasör Outlook Normal **'de Görünüm** > **seçin.**  >  
+2. Arşiv klasörünüz, klasör listesinde yer alıyor.
+3. Varsayılan olarak, klasör listenizin en Outlook Geçerli Posta Kutusunda Ara özelliğini kullanarak yeni öğeler için arama Outlook Arşiv klasörü de içinde olmak üzere tüm posta kutunuzda arama olur.
