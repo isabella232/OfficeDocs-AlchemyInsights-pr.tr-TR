@@ -1,5 +1,5 @@
 ---
-title: Seçenekleri SharePoint Online 'a geçirme
+title: SharePoint Online'a seçenekleri geçirme
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: 198b888597405dead67fe35eb568ee86d8577af1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c4a6f50541c955080a83b44ff6ac494649ae1cb5d4a6f735584bcc769be61ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674706"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065736"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a>Seçenekleri SharePoint Online 'a geçirme
+# <a name="migrate-options-to-sharepoint-online"></a>SharePoint Online'a seçenekleri geçirme
 
-Taşımanız gereken dosyaların boyutuna ve miktarına bağlı olarak, içeriği SharePoint Online 'a geçirmek için kullanabileceğiniz farklı seçenekler vardır.
+Taşımak istediğiniz dosyaların boyutuna ve miktarına bağlı olarak SharePoint Online'a içerik geçirmek için farklı seçenekler vardır.
   
-Daha fazla bilgi için bkz: [SharePoint Online 'A geçme](https://go.microsoft.com/fwlink/?linkid-2022029)
+Daha fazla bilgi için [bkz. SharePoint Online'a geçirme](https://go.microsoft.com/fwlink/?linkid-2022029)
   
 

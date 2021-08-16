@@ -1,5 +1,5 @@
 ---
-title: Outlook.com e-posta alamıyor
+title: Outlook.com e-posta alayamaz
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.custom:
 - "9000252"
 - "1842"
-ms.openlocfilehash: b126b7b266bb50c121130872071e7ce2231df547
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd99b54dde2c838e527381a0acff0f62f575fa33d11ef406b005761399b969a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753315"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064512"
 ---
 # <a name="unable-to-receive-email"></a>E-posta alınamıyor
 
-Outlook.com ile ilgili sorun yaşıyorsanız, önce [hizmet durumunu](https://go.microsoft.com/fwlink/p/?linkid=837482)denetleyin.
+Outlook.com ile ilgili sorunlarız varsa, öncelikle hizmet [durumunu kontrol edin.](https://go.microsoft.com/fwlink/p/?linkid=837482)
 
-1. **Diğer** gelen kutunuzu denetleyin. Odaklanmış gelen kutusu ['nu kapatma hakkında](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2)bilgi edinmek için bkz. 
-2. [ **Gereksiz e-posta** klasörünüze](https://outlook.live.com/mail/junkemail)bakın. Gelen kutunuz doluysa, yeni ileti almayacaksınız. Gelen kutunuzda yer açmak için gereksiz e-postayı sağ tıklatarak gereksiz bir **e-posta**  >  **Delete all**
-3. **Gelen kutusu filtrelerinizi**denetleyin. 
-    1. Filtreleme için, ileti listenizin en üstüne gidin ve tümünü **Filtrele**'yi seçin  >  **All**.
-    2. Sıralama için **Filter**  >  **tarihe göre sıralama**ölçütü  >  **Date** veya **Kimden**'i seçin.
-4. [Engellenen Gönderenler](https://outlook.live.com/mail/options/mail/junkEmail) ve güvenilir Gönderenler listelerinizi denetleyin.
-5. [Gelen kutusu kurallarınızı](https://outlook.live.com/mail/options/mail/rules)denetleyin.
-6. Bazı olağan dışı oturum açma etkinliklerini fark etmemiz nedeniyle hesabınız geçici olarak engellenmiş olabilir. [Outlook.com hesabımın engellemesini kaldırma](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4)konusuna bakın.
+1. Diğer Gelen **Kutunuzu** kontrol edin. Odaklanmış Gelen Kutusu'na nasıl kapatıı öğrenmek için bkz. [Odaklanmış Gelen Kutusu'na kapatma.](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2) 
+2. Gereksiz [ **E-posta klasörünüze** bakın.](https://outlook.live.com/mail/junkemail) Gelen kutunuz dolu ise yeni ileti almazsınız. Gelen kutunuzda yer almak için Gereksiz E-postaLarın Hepsini Sil'e sağ tıklayarak gereksiz **e-posta**  >  **klasörlerinizi boşaltmayı deneyin.**
+3. Gelen Kutusu **Filtrelerinizi kontrol edin.** 
+    1. Filtreleme için ileti listenizin en üstüne gidin ve FiltreLe'yi  >  **seçin.**
+    2. Sıralama için, Tarihe Göre **Veya Başlangıç**  >    >  **filtresini Filtrele'yi** **seçin.**
+4. Engellenen [gönderenler ve gönderenler](https://outlook.live.com/mail/options/mail/junkEmail) Kasa kontrol edin.
+5. Gelen Kutusu [Kurallarınızı kontrol edin.](https://outlook.live.com/mail/options/mail/rules)
+6. Alışılmışın dışında bazı oturum açma etkinlikleri farkmız nedeniyle hesabınız geçici olarak engellenmiş olabilir. Bkz. [Outlook.com hesabımı engellemeyi kaldırma.](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4)
 
-[Outlook.com e-posta eşitleme sorunlarını düzeltme](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642)hakkında daha fazla bilgi edinin.
+E-posta eşitleme sorunlarını [düzeltme Outlook hakkında daha fazla bilgi alın.](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642)

@@ -1,5 +1,5 @@
 ---
-title: Bir site için dış paylaşımı SharePoint kapatma
+title: Bir site için dış paylaşımı açma veya SharePoint açma
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: c5aabe52ce1a294b97b0e85fbf04c61456c87b240b40328febe1634aad1a17c6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3a7075bc26526567b74afb2996da8f60b3318000
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53920379"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295557"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Bir site için dış paylaşımı SharePoint kapatma
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Bir site için dış paylaşımı açma veya SharePoint açma
 
 Site için:
   
-1. Yeni yönetim SharePoint sol bölmede, siteler 'e **tıklayın.**
+1. Yeni yönetim SharePoint, sol bölmede siteler 'e **tıklayın.**
     
 2. Siteyi veya siteleri seçin ve şeritte Paylaşım 'a **tıklayın.**
     
-Varsayılan olarak, kullanıcıların oluşturdukları yeni sitelerin (hem Microsoft 365 Gruplarına hem de iletişim sitelerine ait olan ekip siteleri) kuruluş genelindeki ayarınız ile aynı paylaşım ayarına sahiptir; ancak kuruluş genelindeki ayar, oturum açma gerektirmeyen bağlantıları kullanarak dosya paylaşımına izin verir. Bu durumda, siteler oturum eden yeni ve var olan dış kullanıcılarla paylaşıma olanak sağlar. Belirli sitelerin ayarını değiştirmek için yönetim merkezinde yeni SharePoint kullanın.
+Varsayılan olarak, kullanıcıların oluşturdukları yeni sitelerin (hem Microsoft 365 Gruplarına hem de iletişim sitelerine ait ekip siteleri), kuruluş genelindeki ayarın oturum açma gerektirmeyen bağlantıları kullanarak dosya paylaşımına izin veren bir ayarı yoksa, kuruluş genelindeki ayarıyla aynı paylaşım ayarına sahiptir. Bu durumda, siteler oturum eden yeni ve var olan dış kullanıcılarla paylaşıma olanak sağlar. Belirli sitelerin ayarını değiştirmek için yönetim merkezinde yeni SharePoint kullanın.
   
-> [!NOTE]
-> Herhangi bir sitenin dış paylaşım ayarı, kuruluş genelindeki ayarınıza göre daha kısıtlayıcı olabilir, ancak kuruluş genelindeki ayardan daha fazla izinli olmaz. 
+**Not:** Herhangi bir sitenin dış paylaşım ayarı, kuruluş genelindeki ayarınıza göre daha kısıtlayıcı olabilir, ancak kuruluş genelindeki ayardan daha fazla izinli değildir. 
   
 
