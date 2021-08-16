@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 075811418fc697bffdc9d9bfa2d8c4527b1cc7f91bf5892447d099f1c5ee6140
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815958"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012184"
 ---
-# <a name="microsoft-to-do-cross-tenant-sharing"></a>Platformlar arası paylaşımı yapacak şekilde Microsoft
+# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To Do arasında paylaşma
 
-Microsoft, kişisel ve iş hesapları arasında liste paylaşmayı destekler. Bu, kuruluşunuzdaki kullanıcıların
+Microsoft To Do hesaplarıyla iş hesapları arasında liste paylaşımını destekler. Bu sayede, organizasyon kullanıcıları
 
-Kişisel Microsoft hesaplarının sahip olduğu listelere katılma, görüntüleme, değiştirme ve verileri ekleme.
+kişisel Microsoft hesaplarına ait listeleri birleştirme, görüntüleme, değiştirme ve listelere veri ekleme.
 
-Yöneticilerin bu özelliği devre dışı bırakarak, bu seçeneği belirleyerek yeni bir yönetici ayarı kullanılabilir.
+Yöneticilerin bu özelliği devre dışı bırakması için, seçeneğin onay seçeneğinin belirlenerek yeni bir yönetici ayarı da kullanılabilir.
 
-Yönetici, bu ayarı yönetim portalında, **Settings**  >  **kuruluş**  >  **Services**  >  **için Microsoft** ayarları 'nın altında bulabilirsiniz.  
+Yönetici, bu ayarı yönetici portalında Kuruluş Ayarlar Hizmetleri **hizmetleri Ayarlar**  >    >  **altında**  >  **Microsoft To Do.**  
 
-[Paylaşılan listeye neden katılamıyorum?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
+[Paylaşılan listeye neden katıla bilmiyorum?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)

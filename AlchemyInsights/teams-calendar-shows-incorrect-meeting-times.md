@@ -1,5 +1,5 @@
 ---
-title: Ekip takvimi yanlış toplantı zamanlarını gösteriyor
+title: Teams yanlış toplantı saatleri gösteriyor
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003305"
 - "6206"
-ms.openlocfilehash: b295faad4a0dbe6a10b17587e34c93e7658cb9cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58c4a5ef7afe62ff45cec311142891570ba128b419d2aa22afea57d4bac8fbe4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669579"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049292"
 ---
-# <a name="teams-calendar-shows-incorrect-meeting-times"></a>Ekip takvimi yanlış toplantı zamanlarını gösteriyor
+# <a name="teams-calendar-shows-incorrect-meeting-times"></a>Teams yanlış toplantı saatleri gösteriyor
 
-Bunun nedeni bir saat dilimi farkı olabilir. Bu durumda, Outlook 'ta saat dilimini ayarlamayı deneyin ve toplantılarınızı takımlar yerine Outlook takviminde zamanlayın.
+Saat dilimi farkı bu soruna neden olabilir. Öyleyse, saat dilimini kendi Outlook ayarlamayı deneyin ve toplantılarınızı takvim yerine Outlook takvimde Teams.
 
-- Saat dilimini değiştirme yönergeleri için, [Web üzerinde Outlook 'ta saat dilimini ve dil ayarlarını değiştirme](https://support.microsoft.com/office/change-the-time-zone-and-language-settings-in-outlook-on-the-web-65239869-12e7-4a9d-bca1-76b0ad7ce273) konusuna bakın. 
+- Saat dilimini değiştirme yönergeleri için [bkz. Saat dilimi](https://support.microsoft.com/office/change-the-time-zone-and-language-settings-in-outlook-on-the-web-65239869-12e7-4a9d-bca1-76b0ad7ce273) ve dil ayarlarını değiştirme Web üzerinde Outlook 
 
-- Yüklü sürümdeki saat dilimlerini değiştirme yönergeleri için, [saat dilimlerini ekleme, kaldırma veya değiştirme](https://support.microsoft.com/office/add-remove-or-change-time-zones-5ab3e10e-5a6c-46af-ab48-156fedf70c04)konusuna bakın.
-- Zamanlama yönergeleri için, [Outlook 'tan bir ekip toplantısı zamanlama](https://support.microsoft.com/office/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f)konusuna bakın.
+- Yüklü sürümde saat dilimlerini değiştirme yönergeleri için bkz. [Saat dilimlerini ekleme, kaldırma veya değiştirme.](https://support.microsoft.com/office/add-remove-or-change-time-zones-5ab3e10e-5a6c-46af-ab48-156fedf70c04)
+- Zamanlama yönergeleri için bkz. [Teams'dan toplantı Outlook.](https://support.microsoft.com/office/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f)

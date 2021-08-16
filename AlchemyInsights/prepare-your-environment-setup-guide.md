@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 ve Office 365 hizmetleri için ortamınızı hazırlayın
+title: Ortamınızı yeni hizmetlere Microsoft 365 hizmetleri Office 365 hazırlama
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004182"
 - "7361"
-ms.openlocfilehash: ff96f2cdd52a54afd579e7c0e7db1b2a69825bb7
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: f22eafc68eac3e68ddf831d5a728b004590ee8aaa7da22e508716ceb257250b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680122"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040310"
 ---
-# <a name="prepare-your-environment-for-microsoft-365-and-office-365-services"></a>Microsoft 365 ve Office 365 hizmetleri için ortamınızı hazırlayın
+# <a name="prepare-your-environment-for-microsoft-365-and-office-365-services"></a>Ortamınızı yeni hizmetlere Microsoft 365 hizmetleri Office 365 hazırlama
 
-[Ortamınızı hazırlayın Kılavuzu](https://go.microsoft.com/fwlink/?linkid=2005213) , kuruluşunuzun Microsoft 365 ve Office 365 Services için hazırlanmanıza yardımcı olur. Hedeflerinize bakılmaksızın, başarılı bir dağıtım sağlamak için tamamlamanız gereken görevler vardır.
+Ortamınızı [hazırlama kılavuzu,](https://go.microsoft.com/fwlink/?linkid=2005213) bu hizmetlerde ve hizmetlerde yardımcı olmak için Microsoft 365 Office 365 olur. Hedeflerinize bakılmaksızın, başarılı bir dağıtım sağlamak için tamamlamanız gereken görevler vardır.
 
-Ortamınızı hazırlarken oluşan sorunlardan kaçınmak için, etki alanınızı bağlama, Kullanıcı ekleme, lisans atama, Exchange Online ile e-posta ayarlama ve Office uygulamalarını yükleme veya dağıtma ile ilgili adım adım yönergeler sunulur.
+Ortamınızı hazırlarken herhangi bir sorundan kaçınmak için, etki alanınıza bağlanma, kullanıcı ekleme, lisans atama, Exchange Online ile e-posta ayarlama, Office uygulamalarını yükleme veya dağıtma ile ilgili adım adım yönergeler sağlanır.
