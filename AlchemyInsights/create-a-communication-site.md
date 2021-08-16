@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: 0c4f1e7cf54950190d60b35bc3ea320de9b49e7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d11227a7fd58bd6320c2eafa4c204840c5a63a1e66ef1734dd781a3c1c0d3131
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747391"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069588"
 ---
 # <a name="create-a-communication-site"></a>İletişim sitesi oluşturma
 
-SharePoint Online 'da iletişim sitesi oluşturmak için aşağıdaki adımları tamamlayın: 
+SharePoint Online'da iletişim sitesi oluşturmak için aşağıdaki adımları tamamlayın: 
   
-1. Sayfanın sol üst köşesinde uygulama başlatıcıya tıklayın ve SharePoint kutucuğunu seçin. SharePoint kutucuğunu görmüyorsanız, SharePoint görünmüyorsa **siteler** 'ı veya **tüm uygulamalar** 'ı tıklatın. 
+1. Sayfanın sol üst köşesinde uygulama başlatıcıya tıklayın ve Sol SharePoint seçin. Siteler kutucuğunu görmüyorsanız, SharePoint Siteler'e  **veya Tüm** uygulamalar'a SharePoint tıklayın. 
     
-2. SharePoint sayfasının en üstünde **site oluştur** 'u tıklatın ve **iletişim sitesi**'ni seçin. Site Oluşturma sihirbazındaki adımları izleyin. 
+2. Oluştur sayfasının en üstünde, SharePoint **oluştur'a tıklayın ve** İletişim **Sitesi'ne tıklayın.** Site oluşturma sihirbazında adımları izleyin. 
     
- **Not**: **site oluştur**seçeneğini görmüyorsanız, kendi kendine site oluşturma devre dışı bırakılabilir. Ekip sitesi oluşturmak için kuruluşunuzdaki Microsoft 365 'i yönetme ile görüşün. Kiracı yöneticisiyseniz, [kuruluşunuzda self servis site oluşturmayı etkinleştirmek Için SharePoint Online 'da site oluşturmayı yönetme](https://go.microsoft.com/fwlink/?linkid=2018780) bölümüne bakın.
+ **Not:** Site oluştur seçeneğini **görmüyorsanız, kendi kendine** site oluşturma devre dışı bırakılmış olabilir. Ekip sitesi oluşturmak Microsoft 365 yönetim yöneticinize ulaşın. Kiracı yöneticisiyseniz, kendi kendine site oluşturmanızı etkinleştirmek için [bkz. SharePoint Online'da site oluşturma yönetme.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **Not:** Bir Iletişim sitesi oluşturmaya çalışıyorsanız ve URL rasgele sayılarla eklenmişse, büyük olasılıkla SharePoint ortamında aynı URL 'ye sahip bir site var ya da silinmiş ve silinmiş sitelerde (geri dönüşüm kutusu) yine de var. [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite)Geri dönüşüm kutusu 'nu değerlendirmek ve [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) siteyi geri dönüşüm kutusu 'ndan kaldırmak için kullanın. 
+ **Not:** İletişim Sitesi oluşturma girişiminde bulunuyorsanız ve URL'nin sonuna rastgele numaralar eklenirse, büyük olasılıkla SharePoint ortamında zaten aynı URL'ye sahip bir site vardır veya silinmiştir ve hala Silinmiş Siteler'de (Geri Dönüşüm Kutusu) yer alır. Geri [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) dönüşüm kutusunu değerlendirmek ve [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) siteyi geri dönüşüm kutusu'dan kaldırmak için kullanın. 
   
 
