@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 750a4f7ac0cd36476b0f682dd8b72ee6da4df0ba6879e1f9dad32dbcea15053e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068473"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>USB yazıcı bağlantı sorunlarını düzeltme
 
@@ -29,12 +29,12 @@ USB **yazıcınızın yeniden çalışmaya** devam etmek için şu sorun giderme
 
 Bu işe yaramadı **mı, USB yazıcınızı kaldırıp yeniden yüklemeyi deneyin:**
 
-1. Ayarlar'da yazıcıyı kaldırın:
+1. Yazıcıyı şu Ayarlar:
     1. Yazıcının USB kablosunu bilgisayarınızdan çıkarın.
-    2. Başlangıç **Ayarları**  >  **Cihazlar**  >    >  **Yazıcılar ve tarayıcılar & seçin.**
+    2. Cihaz   >  **Yazıcıları Ayarlar**  >    >  **tarayıcıları başlat'& seçin.**
     3. Tarayıcıları **ve & altında,** sorun gidermeye devam etmek istediğiniz yazıcıyı seçin. Cihazı **kaldır'ı seçin.** Yazıcıyı tam olarak kaldırmak için yönergeleri izleyin.
 2. Herhangi bir üçüncü taraf yazıcı üreticisi yazılımını kaldırın:
-    1. Başlangıç **Ayarları**  >  **Uygulamaları'ı**  >  **seçin.**
+    1. Uygulama   >  **Başlat'Ayarlar**  >  **seçin.**
     2. Uygulamalar **ve & altında,** ekranı kaydırarak yazıcınızın üreticisinden (HP, Kural veya Epson gibi) yüklü yazılımları bulun.
     3. Yazılımı seçin ve Kaldır'ı **seçin.**
 3. Yazıcınızı kapatıp yeniden başlatın.<br>

@@ -1,5 +1,5 @@
 ---
-title: OneDrive 'a dosya yükleme sorunlarını giderme
+title: Dosyaları karşıya yükleme sorunlarını düzeltin OneDrive
 ms.author: matteva
 author: pebaum
 ms.date: 04/21/2020
@@ -9,20 +9,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: ccc5e5b871cb014a1edf6457cf26b35cdfad706f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef5de5d8c002f30d553d5c290a43d8e83f5d3c256612833e1f90ca65b6508e09
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068538"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a>OneDrive 'a dosya yükleme sorunlarını giderme
+# <a name="fix-problems-uploading-files-to-onedrive"></a>Dosyaları karşıya yükleme sorunlarını düzeltin OneDrive
 
-Dosya karşıya yüklenemediğinde bunu deneyin:
+Bir dosya karşıya yüklen yoksa bunu deneyin:
   
-- Dosyayı yeniden adlandırın ve yeniden deneyin. Dosya adlarındaki bazı dosya adlarına ve karakterlere izin verilmemektedir. 
+- Dosyayı yeniden adlandırır ve yeniden deneyin. Dosya adlarında bazı dosya adları ve karakterlerine izin verilmez. 
     
-- Dosyayı eşitleyorsanız, OneDrive klasörünüzün dışına taşıyın (örneğin, masaüstünüze taşıyın) ve OneDrive eşitleme durumunuz "güncel" olarak göründüğünde geri taşıyın. 
+- Dosyayı eşitlerken, OneDrive klasör dışında hareket ettirin (örneğin, Masaüstünüze taşı) ve OneDrive eşitleme durumunuz "Güncel" olarak görüntülendiğinde geri taşı. 
     
 [Diğer sorun giderme ipuçları](https://go.microsoft.com/fwlink/?linkid=873155)
   
