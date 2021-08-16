@@ -1,5 +1,5 @@
 ---
-title: 1221-Import-Export-Outlook-Email-Contacts-Calendar
+title: 1221-import-export-outlook-email-contacts-calendar
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,12 +14,12 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 6aec4ba38e90ef120542e1b30855a232a59db6ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb9bf34c5f185848a3cf4de7e5035c09ec6a24d0b5b84e065fcc9cd16e7e276d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778963"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987379"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Outlook e-postası, kişileri ve takvim öğelerini içeri ve dışarı aktarma
 
@@ -29,6 +29,6 @@ ms.locfileid: "47778963"
 
     İçeri ve Dışarı Aktarma sihirbazı başlatılır.
 
-Outlook için içeri ve dışarı aktarma yönergeleri [this article](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)
+Bu yönergelere ilişkin eksiksiz bir içeri ve dışarı Outlook için bu [makaleye bakın.](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)
 
-Yöneticiyseniz ve birden çok PST dosyasını Microsoft 365 posta kutularına toplu olarak içeri aktarmak istiyorsanız, [Bu makaleye](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)bakın.
+Yöneticiyseniz ve posta kutularına birden çok PST dosyasını toplu olarak içeri Microsoft 365, bu [makaleye bakın.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)

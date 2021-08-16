@@ -1,5 +1,5 @@
 ---
-title: 9000198 Outlook.com takvim Beta
+title: 9000198 Outlook.com Takvim Beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0399d1eac720d9c92afef666fa7c3563725daee21b88afb29d2d3abdb1501b58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753387"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064584"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Outlook.com 'e gelen yeni takvim deneyimleri
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Outlook.com'a gelen yeni Takvim deneyimleri
 
-Yeni görünüm, en iyi tasarımı ve eğitimler sunar posta deneyiminden takvime getirir.
+Yeni görünüm, Posta deneyiminden Takvim'e en iyi tasarımları ve öğrenmeleri getirir.
 
-Görsel dağınıklığı azaltan ve takviminizde gezinmek için daha hızlı yollar sunan modern bir tasarımın keyfini çıkarabilirsiniz. En sevdiğiniz faaliyetler için ilginç takvimleri (TV şovspor ekipleri ve Etkinlikler) bulmak de daha kolay.
+Görsel dağınıklığı azaltan ve takviminize daha hızlı bir şekilde gitmek için size yol veren modern bir tasarımın keyfini çıkarabilirsiniz. Ayrıca TV programlarından spor takımları ve etkinliklere kadar favori etkinlikleriniz için ilginç takvimler bulmak da daha kolaydır.
 
-Etkinlik simgeleri koleksiyonumuzu genişlettik ve var olanlara yönelik görünüm ve kullanım özelliklerini güncelledik, böylece bir bakışta neler yapabileceğinizi kolayca görebilirsiniz.
+Etkinlik simgeleri koleksiyonumuz genişletildi ve mevcut simgelerin görünüm ve özellikleri güncelleştirildi. Artık etkinliklerinize ilgili simgeleri otomatik olarak ekleyebilir, böylece neler olduğunu bir bakışta kolayca görebilirsiniz.
 
-[Outlook.com takvimi UserVoice kanalı](https://go.microsoft.com/fwlink/?linkid=2103075)aracılığıyla yeni özellikler hakkında görüşlerinizi bildirebilirsiniz.
+[Outlook.com Takvim UserVoice kanalı üzerinden yeni özellikler hakkında geri bildirim sabilirsiniz.](https://go.microsoft.com/fwlink/?linkid=2103075)

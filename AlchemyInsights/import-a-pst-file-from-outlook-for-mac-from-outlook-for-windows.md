@@ -1,5 +1,5 @@
 ---
-title: Windows için Outlook 'tan Mac için Outlook 'tan bir. pst dosyasını içeri aktarma
+title: .pst dosyasını Mac için Outlook Outlook'dan Windows
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,103 +13,103 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 7efb5035ee293bc2d0e8e3f36c1dd1203c6e6c12
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583670"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987415"
 ---
-# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Windows için Outlook 'tan Mac için Outlook 'a. pst dosyası aktarma 
+# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>.pst dosyasını Outlook'dan Windows'Mac için Outlook 
 
-Windows tabanlı bilgisayardan Mac 'e iletileri ve diğer öğeleri aktarmak için, Mac için Outlook, Windows için Outlook 'ta oluşturulmuş Outlook veri dosyalarını (. pst) içeri aktarabilir.
+Windows tabanlı bir bilgisayardan Mac'e iletileri ve diğer öğeleri aktarmayı Mac için Outlook, Mac için Outlook için Outlook'de oluşturulmuş Outlook Veri Dosyalarını (.pst) içeri Windows.
 
-**Yeni sürümlerde: Windows 'dan Mac 'e. pst dosyası aktarma**
+**Daha yeni sürümlerde - dosyadan Mac'e .pst Windows içeri aktarma**
 
-1. Mac için Outlook **dosyası** menüsünde **içeri aktar**'ı seçin.
+1. Dosya aç Mac için Outlook **İçeri** Aktar'ı **seçin.**
 
-2. **Windows Için Outlook arşiv dosyası (. pst)** seçeneğini belirleyip **devam**'ı tıklatın.
+2. Arşiv **Outlook (.pst) Windows 'yi** seçin ve Devam'a **tıklayın.**
 
-3. Bilgisayarınızdaki veri dosyasını bulun ve **Içeri aktar**'ı tıklatın.
+3. Bilgisayarınızda veri dosyasını bulun ve İçeri Aktar'a **tıklayın.**
 
-4. İçeri aktarma işlemi tamamlandığında, **bitiş**'ı tıklatın.
+4. İçeri aktarma işlemi tamamlandığında, Son'a **tıklayın.**
 
-   Alınan öğeler **, bilgisayarımdaki gezinti bölmesinde görüntülenir.**
+   Alınan öğeler gezinti bölmesinde Bilgisayarımda **altında görüntülenir.**
 
 
-**Office 2011-Windows için Outlook 'tan bir. pst dosyasını içeri aktarma**
+**in Office 2011 - import a .pst file from Outlook for Windows**
 
-1. . Pst dosyasını Macintosh bilgisayarınıza aktarın.
+1. Macintosh bilgisayarınıza .pst dosyasını aktarabilirsiniz.
 
-2. Mac için Outlook **dosyası** menüsünde **içeri aktar**'a tıklayın.
+2. Dosya Ekle Mac için Outlook **al'a** **tıklayın.**
 
-3. **Outlook veri dosyası**'na ve ardından sağ oka tıklayın.
+3. Veri **Outlook ve** ardından sağ oka tıklayın.
 
-4. **Windows Için Outlook veri dosyası**'nı seçin ve ardından sağ oka tıklayın.
+4. Veri **Outlook için Windows ve** ardından sağ oka tıklayın.
 
-5. Bilgisayarınızdaki veri dosyasını bulun ve **Içeri aktar**'ı tıklatın.
+5. Bilgisayarınızda veri dosyasını bulun ve İçeri Aktar'a **tıklayın.**
 
-6. İçeri aktarma işlemi tamamlandığında **bitti**'ye tıklayın.
+6. İçeri aktarma işlemi tamamlandığında Bitti 'ye **tıklayın.**
 
-   Alınan öğeler **, bilgisayarımdaki gezinti bölmesinde görüntülenir.**
-
-> [!NOTE]
-> Mac için Outlook, yalnızca Outlook (Windows için 2003) için kişisel klasörler dosyalarının standart biçimi olan Unicode tabanlı. pst dosyalarını içeri aktarabilir. Outlook 97-2002 Kişisel Klasörler dosyaları olarak da bilinen ANSI olarak biçimlendirilmiş. pst dosyaları, Windows için sürüm 97-2002 ' de verileri kaydetmek için standart kişisel klasör biçimidir. Bu dosya biçimi Mac için Outlook 'a aktarılamaz. ANSI olarak biçimlendirilmiş. pst dosyasının eski bir sürümüne sahipseniz, bu dosyayı daha yeni dosya biçimine dönüştüren otomatik yordam yoktur. Ancak, Windows 2003 veya sonraki sürümleri için Microsoft Outlook 'ta yeni bir Outlook veri dosyası (. pst) oluşturabilir ve ardından eski dosyadan öğeleri yeni dosyaya aktarabilirsiniz. Ardından yeni. pst dosyasını Mac için Outlook 'a aktarabilirsiniz. . Pst dosyalarını oluşturma ve öğeleri içeri aktarma hakkında daha fazla bilgi için Windows için Outlook sürümünüze yönelik **Yardım 'a** bakın.
-
-**Outlook veri dosyasını (. pst veya. olm) açma**
-
-Windows için Outlook veri dosyası (. pst) veya Mac için Outlook veri dosyası (. olm) alabilirsiniz. Bu veri dosyaları birden çok öğe türünden büyük miktarlarda veri içerebilir. Outlook veri dosyaları genellikle arşiv olarak veya bilgisayarlar arasında veri aktarmak için kullanılır.
-
-1. Mac için Outlook dosyası menüsünde **Içeri aktar**'a tıklayın.
-
-2. **Outlook veri dosyası**'na ve ardından sağ oka tıklayın.
-
-3. Bir veri dosyası türü seçin ve sağ oka tıklayın.
-
-4. Bilgisayarınızdaki veri dosyasını bulun ve **Içeri aktar**'ı tıklatın.
-
-5. İçeri aktarma işlemi tamamlandığında **bitti**'ye tıklayın.
-
-Alınan öğeler **, bilgisayarımdaki gezinti bölmesinde görüntülenir.**
+   Alınan öğeler gezinti bölmesinde Bilgisayarımda **altında görüntülenir.**
 
 > [!NOTE]
-> Mac için Outlook, yalnızca Outlook (Windows için 2003) için kişisel klasörler dosyalarının standart biçimi olan Unicode tabanlı. pst dosyalarını içeri aktarabilir. Outlook 97-2002 Kişisel Klasörler dosyaları olarak da bilinen ANSI olarak biçimlendirilmiş. pst dosyaları, Mac için Outlook 'a aktarılamaz. ANSI olarak biçimlendirilmiş. pst dosyasının eski bir sürümüne sahipseniz, bu dosyayı daha yeni dosya biçimine dönüştüren otomatik yordam yoktur. Ancak, Windows 2003 veya üzeri için Microsoft Outlook 'ta yeni bir Outlook veri dosyası (. pst) oluşturabilir ve ardından eski dosyadan öğeleri yeni dosyaya aktarabilirsiniz. Ardından yeni. pst dosyasını Mac için Outlook 'a aktarabilirsiniz. . Pst dosyalarını oluşturma ve öğeleri içeri aktarma hakkında daha fazla bilgi için Windows için Outlook sürümünüze yönelik yardım 'A bakın. 
+> Mac için Outlook, yalnızca Outlook (Windows) 2003 ve sonraki sürümlerin Kişisel Klasör dosyalarının standart biçimi olan Unicode tabanlı .pst dosyalarını içeri aktarabilirsiniz. Outlook 97-2002 Kişisel Klasör Dosyaları olarak da bilinen ANSI biçimindeki .pst dosyaları, 97-2002 sürümlerinde Windows için Outlook'de verileri kaydetmeye yardımcı olan standart kişisel klasör biçimidir. Bu dosya biçimi başka bir dosyaya Mac için Outlook. ANSI biçimli.pst dosyasının eski sürümüne sahipsanız, bu dosyayı yeni bir dosya biçimine dönüştürmek için otomatik bir işlem yoktur. Bununla birlikte, Windows 2003 veya sonraki sürümler için Microsoft Outlook'de yeni bir Outlook Veri Dosyası (.pst) oluşturabilir ve sonra eski dosyadaki öğeleri yeni dosyaya aktarabilirsiniz. Ardından, yeni .pst dosyasını başka bir Mac için Outlook. .pst dosyalarını oluşturma ve öğeleri içeri aktarma hakkında  daha fazla bilgi için bkz. Outlook sürüm Windows.
 
-**Entourage öğelerini bir arşivden veya önceki bir sürümden açma**
+**Outlook Veri Dosyası (.pst veya .olm) açma**
 
-Entourage 2004, Entourage 2008 veya Entourage 2008, Web Services Edition 'da e-posta iletileri, kişiler ve etkinlikler gibi öğeleri içeri aktarabilirsiniz. Ayrıca,. RGE uzantılı bir Entourage arşivindeki bu öğeleri içeri aktarabilirsiniz.
+Outlook Veri Dosyası (.pst) Windows veri dosyası (.olm) için Mac için Outlook içeri aktarabilirsiniz. Bu veri dosyaları, birden çok öğe türlerinden büyük miktarlarda veri içerebilir. Outlook Veri Dosyaları genellikle arşiv olarak veya bilgisayarlar arasında veri aktarımı için kullanılır.
 
-1. Mac için Outlook **dosyası** menüsünde **içeri aktar**'a tıklayın.
+1. Dosya Ekle Mac için Outlook al'a **tıklayın.**
 
-2. **Bir arşiv veya önceki sürümden Entourage bilgileri**'ne tıklayın, sağ oka tıklayın ve ardından yönergeleri izleyin.
+2. Veri **Outlook ve** ardından sağ oka tıklayın.
+
+3. Veri dosyası türünü seçin ve ardından sağ oka tıklayın.
+
+4. Bilgisayarınızda veri dosyasını bulun ve İçeri Aktar'a **tıklayın.**
+
+5. İçeri aktarma işlemi tamamlandığında Bitti 'ye **tıklayın.**
+
+Alınan öğeler gezinti bölmesinde Bilgisayarımda **altında görüntülenir.**
 
 > [!NOTE]
-- Microsoft Exchange hesabını Entourage ile kullandıysanız, içeri aktarma işlemi tamamlandıktan sonra Exchange hesabındaki tüm öğeler Exchange sunucusundan indirilir. Exchange hesabıyla ilgili tüm kuralların veya zamanlamaların Outlook 'ta yeniden yapılandırılması gerekir.
+> Mac için Outlook, yalnızca Outlook (Windows) 2003 ve sonraki sürümlerin Kişisel Klasör dosyalarının standart biçimi olan Unicode tabanlı .pst dosyalarını içeri aktarabilirsiniz. ANSI biçimli .pst dosyaları (Outlook 97-2002 Kişisel Klasör Dosyaları olarak da bilinir) Mac için Outlook. ANSI biçimli.pst dosyasının eski sürümüne sahipsanız, bu dosyayı yeni bir dosya biçimine dönüştürmek için otomatik bir işlem yoktur. Bununla birlikte, Windows Outlook için Microsoft Outlook 2003 veya sonraki bir sürümünde yeni bir Outlook Veri Dosyası (.pst) oluşturabilir ve sonra eski dosyadaki öğeleri yeni dosyaya aktarabilirsiniz. Ardından, yeni .pst dosyasını başka bir Mac için Outlook. .pst dosyalarını oluşturma ve öğeleri içeri aktarma hakkında daha fazla bilgi için bkz. Outlook sürüm Windows. 
 
-- Entourage 2004 veya Entourage 2008 'den öğeleri içeri aktarırsanız, Exchange hesabındaki öğeler için kategori bilgileri Outlook 'a aktarılmaz. Ancak, Entourage 2008, Web Services Edition, kategori bilgileri Exchange sunucusundan indirilir.
+**Arşivden veya önceki bir sürümden entourage öğelerini açma**
 
-- Outlook, Proje Merkezi içermez. Entourage uygulamasında proje merkezini kullandıysanız ve Entourage bilgilerinizi Outlook 'a aktarırsanız, Proje Merkezi ilişkilendirmeleri kategorilere dönüştürülür. Örneğin, Entourage uygulamasında "Araştırma kağıdı" başlıklı bir projeye öğeler eklediyseniz, bu maddelere Outlook 'ta "Araştırma kağıdı" adlı bir kategori atanır.
+Entourage 2004, Entourage 2008 veya Entourage 2008, Web Services Edition'dan e-posta iletileri, kişiler ve etkinlikler gibi öğeleri içeri aktarabilirsiniz. Bu öğeleri .rge uzantısına sahip olan Entourage arşivlerinden de içeri aktarabilirsiniz.
 
-- Entourage uygulamasından özel görünümler, arama ayarları ve etkinlik yolculuğu zaman bilgileri Outlook 'a aktarılmaz. Outlook etkinlikleri hiçbir seyahat saati bilgisi içermez.
+1. Dosya Ekle Mac için Outlook **al'a** **tıklayın.**
 
-**Outlook 'ta öğeyi arşiv klasöründen başka bir klasöre taşıma**
+2. Arşiv **veya önceki bir sürümden Entourage bilgileri 'ne** tıklayın, sağ oka tıklayın ve ardından yönergeleri izleyin.
+
+> [!NOTE]
+- Entourage'da Microsoft Exchange hesabı kullandıysanız, Exchange hesabında yer alan tüm öğeler, içeri aktarma işlemi tamamlandıktan sonra Exchange sunucusundan indirilir. Yeni hesapla ilgili kuralların veya Exchange tüm zamanlamaların bu hesapta yeniden yapılandırılması Outlook.
+
+- Entourage 2004 veya Entourage 2008'den öğeleri içeri aktardısanız, bir Exchange hesabıdaki öğelerin kategori bilgileri bu hesaba Outlook. Ancak Entourage 2008, Web Services Edition sürümlerinde kategori bilgileri Exchange.
+
+- Outlook Merkezi'nde Project yok. Entourage'da Project Merkezi'nde kullandınız ve ardından Entourage bilgilerini Outlook'a Project Merkezi ilişkilendirmeleri kategorilere dönüştürülür. Örneğin, Entourage'da "Araştırma Makalesi" başlıklı bir projeye öğe eklediysanız, bu öğelere Araştırma Makalesi'nde "Araştırma Makalesi" adından bir kategori Outlook.
+
+- Özel görünümler, arama ayarları ve etkinlik seyahat süresi bilgileri Entourage'dan diğer sitelere Outlook. Outlook etkinlikleri seyahat süresi bilgilerini içermez.
+
+**Arşiv klasöründen bir öğeyi Arşiv klasöründen başka bir klasöre Outlook**
 
 1. Taşımak istediğiniz öğeyi seçin.
 
-2. **Giriş** sekmesinde **Taşı**'Yı ve ardından **Klasör Seç**'i tıklatın.
+2. Giriş sekmesinde **Taşı** öğesini seçin **ve ardından** Klasör **Seç'e tıklayın.**
 
-3. Ara kutusuna taşımak istediğiniz klasörün adını girin ve **Taşı**'yı tıklatın.
+3. Arama kutusuna, taşımak istediğiniz klasörün adını girin ve Taşı'ya **tıklayın.**
 
 > [!TIP]
-> Bir öğeyi arşiv klasöründen Outlook 'ta başka bir klasöre kopyalamak için, öğeyi kopyayı yerleştirmek istediğiniz klasöre sürükleyin.
+> Arşiv klasöründen bir öğeyi Arşiv klasöründen başka bir Outlook kopyalamak için öğeyi, kopyalamak istediğiniz klasöre sürüklemeniz gerekir.
 
 **Ayrıca bkz.**
 
-- [Bilgileri Outlook 'a aktarma] (https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c
+- [Bilgileri başka bir Outlook] (https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c
 
-- [İCal veya adres defteri öğelerini Outlook 'a aktarma](https://support.microsoft.com/office/import-ical-or-address-book-items-into-outlook-for-mac-0450a248-6a40-4f84-ba9c-6c545bc11639)
+- [iCal veya Adres Defteri öğelerini başka bir Outlook](https://support.microsoft.com/office/import-ical-or-address-book-items-into-outlook-for-mac-0450a248-6a40-4f84-ba9c-6c545bc11639)
 
 
-- [Outlook öğelerini dışarı aktarma veya el ile arşivleme](https://support.microsoft.com/office/export-items-to-an-archive-file-in-outlook-for-mac-281a62bf-cc42-46b1-9ad5-6bda80ca3106)
+- [Öğeleri dışarı aktarma veya Outlook arşivleme](https://support.microsoft.com/office/export-items-to-an-archive-file-in-outlook-for-mac-281a62bf-cc42-46b1-9ad5-6bda80ca3106)
 
-- [Outlook öğelerini otomatik olarak arşivleme veya yedekleme](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
+- [Yeni öğeleri otomatik olarak arşivleme Outlook arşivleme](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)

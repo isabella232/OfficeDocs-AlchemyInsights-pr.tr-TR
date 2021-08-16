@@ -1,5 +1,5 @@
 ---
-title: Posta kutularına yerleştirilen ayrı tutma
+title: Posta kutularına yerleştirilen tanımlayıcılar
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,29 +13,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668114"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987595"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Posta kutularına yerleştirilen ayrı tutmaları belirleme
+# <a name="identify-holds-placed-on-mailboxes"></a>Posta kutularına yerleştirilen esnayı tanımlama
 
-Microsoft 365 içeriğimi **tanımlayamadığı bir** **ayrı tutmada tutuluyor** mu? Bekletme **kutusunun posta kutusunda** nereye konumlanıldığını **bulmanız** mi gerekiyor? Tutuyor (*bekletme özellikleri*) aşağıdaki yöntemlerden biriyle uygulanabilir:
+Tanımlay Microsoft 365 bir tutma tarafından **tutmakta** olan herhangi **bir** içeriğiniz mi var? Posta **kutusunda hold'in** nerede olduğunu bulmanız **mı gerekiyor?** Bekletme (*bekletme* özellikleri ) aşağıdaki yöntemlerden biri ile uygulanabilir:
   
-- Dava tutma
+- Mahkeme Tutma
 
-- eBulma saklama
+- eKbulma tutma
 
-- Yerinde saklama
+- In-Place Tutun
 
 - Microsoft 365 bekletme ilkesi 
 
-  - Belirli bir konum bekletme ilkesi
+  - Belirli konum bekletme ilkeleri
 
   - Kuruluş genelinde bekletme ilkeleri
 
-- Microsoft 365 etiketleri
+- Microsoft 365 etiketleri ekleme
 
-Kullanıcının posta kutusuna hangi ayrı tutma uygulandığını belirlemek için, [Exchange Online posta kutusuna yerleştirilen bekletme türünü nasıl tanımlayabilirim](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+Kullanıcının posta kutusuna hangi tür tutmanın uygulandığını belirlemek için bkz. Posta kutusuna yerleştirilen tutma [Exchange Online.](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

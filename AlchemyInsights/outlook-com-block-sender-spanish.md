@@ -1,5 +1,5 @@
 ---
-title: Outlook.com-Ispanyolca gönderenleri engelleme
+title: Outlook.com'da gönderenleri engelleme - İSPANYOLCA
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1142"
 - "8000069"
-ms.openlocfilehash: b7397e69ea76bf195a2ce76a446df01faed3a69a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4339c5b9af181505877bfca689e7585dfe78a8cc65fdad48176dd64b6c728543
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064620"
 ---
-# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloen, en Outlook.com
+# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Outlook.com'dabloquear remitentes
 
-Üflemeli bloquear Los Mensajes de Las direccibir de cordao electrónico especíkurgu a o dominıo lleg, La Bandeja de entrag. Cuando agrega una Dirección de correo electrónico o un ra o un ya da, Outlook.com muferautomáticamente Los Mensajes de ESE havaleleri
+Puede bloquear los mensajes de las dire busajnes de correoónico específica o dominio llegue a la Bandeja de entrada. Cuando agrega una dirección de correoónico o un dominio a la lista de remitentes bloqueados, Outlook.com mueve automáticamente los mensajes de ese remitente a la carpeta correoónico no deseado.
 
-Para Ayırender Más Leer [Poudar a mantener El Correo No Deseado y El Correo yok Deseado füera de la Bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Para aprender más leer [Ayudar a mantener el correo no deseado y el correo no deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
