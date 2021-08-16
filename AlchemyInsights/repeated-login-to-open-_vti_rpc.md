@@ -1,5 +1,5 @@
 ---
-title: _Vti_rpc açmak için yinelenen oturum açma
+title: Yinelenen oturum açma ve oturum _vti_rpc
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -15,14 +15,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: 1ef60f663a04045e4cd00463e59dcbf1f2f92122
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 019fb0675a4a8b38e4d9a4012b8398291150940b34fcc81a2bbf96942d3fa9ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662489"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053054"
 ---
-# <a name="repeated-login-to-open-_vti_rpc"></a>_Vti_rpc açmak için yinelenen oturum açma
+# <a name="repeated-login-to-open-_vti_rpc"></a>Yinelenen oturum açma ve oturum _vti_rpc
 
-Office 2016 kullanarak OneDrive dosyalarında çalışırken, şu iletiyi görebilirsiniz: "_vti_rpc açarken kullanmak istediğiniz hesabı bize bildirin." Bu sorun sürüm 1708 (16.0.8431.2094) ile giderilmiştir. Bunu düzeltmek için, Office 'in en son sürümüne güncelleştirin. **Dosya** \> **hesabı** \> **güncelleştirme seçeneklerini** \> **Şimdi Güncelleştir**'i seçin.
+Office 2016 kullanarak OneDrive dosyalar üzerinde çalışırken şu iletiyi görüyorsanız: "Bu hesabı açmak için kullanmak istediğiniz hesabı _vti_rpc." Bu sorun sürüm 1708 (16.0.8431.2094) ile düzeltilmiştir. Bunu düzeltmek için bu sürümün en son sürümüne Office. Dosya **Hesabı Güncelleştirme** \> **Seçenekleri** Şimdi \>  \> **Güncelleştir'i seçin.**
   

@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00516d08384cd29de46c7f49bcd673f285d56a8c349fc2adefa5ea2173abd7b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028456"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>SharePoint veya OneDrive sitelerinde gezinirken iç sunucu hatası
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>SharePoint veya sitelere gezinirken iç sunucu OneDrive hatası
 
-Kullanıcılar, SharePoint veya OneDrive sitelerine gitmeye çalışırken 500 iç sunucu hatası alabilirler. 
+Kullanıcılar, sitelere veya sitelere gitmek isterken 500 iç sunucu SharePoint OneDrive olabilir. 
 
-Lütfen siteye gitmeden önce tarayıcı önbelleğini temizlemeyi deneyin.
+Siteye gitmeden önce lütfen tarayıcı önbelleğini temizlemeyi deneyin.
 
 
-1. Microsoft Edge tarayıcısında, daha fazla... > ayarları
+1. Microsoft Edge tarayıcısında Diğer...> Ayarlar
 
-2. Gözatma verilerini temizle altında, **neyin temizlensin 'i** seçin
+2. Gözatma verilerini temizle altında, **Temizlenecekleri seç'i seçin**
 
-3. Tanımlama bilgileri ve kaydedilen Web sitesi verileri onay kutusunu seçin ve **Temizle**'yi seçin.
+3. Tanımlama bilgileri ve kaydedilen web sitesi verileri onay kutusunu seçin ve Temizle öğesini **seçin.**
 
-Not: Bu adımlar, Firefox veya Chrome gibi diğer tarayıcıları kullanırken farklılık gösterebilir.
+Not: Firefox veya Chrome gibi diğer tarayıcıları kullanırken bu adımlar farklı olabilir.
 
-Bu sorunu çözmezse, [ileti merkezine](https://portal.office.com/adminportal/home#/MessageCenter)giderek kiracınızda etkin bakım olup olmadığını denetleyebilirsiniz.
+Bu sorun çözülmezse, İleti merkezi'ne giderek kiracınız üzerinde etkin bakım olup olmadığını [kontrol edin.](https://portal.office.com/adminportal/home#/MessageCenter)
 
-Son olarak, oluşabilecek Danışma belgelerini/olaylarını denetlemek için [hizmet durumu](https://portal.office.com/adminportal/home#/servicehealth) sayfasını ziyaret ettiğinizden emin olun.
+Son olarak, hizmet durumu [sayfasını ziyaret](https://portal.office.com/adminportal/home#/servicehealth) edin ve ortaya çıkan tavsiyeleri/olayları kontrol edin.
 
