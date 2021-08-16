@@ -1,5 +1,5 @@
 ---
-title: Istemci kimlik doğrulama sertifikası dağıtımında sorun giderme
+title: İstemci Kimlik Doğrulaması sertifika dağıtımı sorunlarını giderme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: cecbd091447e63f2d5012ceaf96e050c92a171e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78520b416a72a3c93a3d2e7726948d59f83e681d4f09078c2a3cefac7bf1db3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020824"
 ---
-# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Istemci kimlik doğrulama sertifikası dağıtımında sorun giderme
+# <a name="troubleshooting-client-authentication-certificate-deployment"></a>İstemci Kimlik Doğrulaması sertifika dağıtımı sorunlarını giderme
 
-Intune NDES/SCEP ve PKCS/PFX Istemci sertifikaları profilleri, kullanıcıların şirket kaynaklarını doğrulamasına olanak tanımak için WiFi, VPN ve e-posta gibi diğer profil türleriyle birlikte yaygın olarak kullanılır. Bu profil türleri bir istemci sertifikası profiliyle bağlantılıysa, bu profilin başarılı dağıtımına bağlıdır.
+Intune NDES/SCEP ve PKCS/PFX Client sertifikaları profilleri, kullanıcıların şirket kaynaklarında kimlik doğrulaması yapmalarını sağlayan WiFi, VPN ve e-posta gibi diğer profil türleriyle birlikte yaygın olarak kullanılır. Bu profil türleri bir istemci sertifika profiline bağlı olduğunda, bu profilin başarıyla dağıtımına bağlıdır.
 
-Istemci sertifikası profilinin ilk altyapı kurulumu ve ilişkili yapılandırması genellikle sorun giderme gerektirir. Bir adım adım kılavuz için, NDES Bağlayıcısı ve sorun giderme kılavuzunun sertifika dağıtımıyla ilgili sorunları yalıtmak için, bkz: 
+İstemci Sertifikası profilinin ilk altyapısının kurulumu ve ilişkili yapılandırması genellikle sorun giderme gerektirir. Sertifika dağıtımıyla ilgili sorunları yalıtmak için NDES bağlayıcısını ve sorun giderme kılavuzunu başarılı bir şekilde ayarlamaya yönelik adım adım kılavuz için bkz: 
 
-- [Intune ile SCEP desteği için altyapıyı yapılandırma](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
-- [Microsoft Intune ile SCEP sertifika profillerinde sorun gidermeye genel bakış](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
+- [Intune ile SCEP'yi desteklemek için altyapıyı yapılandırma](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
+- [SCEP sertifika profillerini ve güvenlik sorunlarını gidermeye genel Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
 
-Yapılandırmanızı doğrulamaya yardımcı olması için başvurulan PowerShell betiklerini kullanın. Daha fazla bilgi için bkz: [Intune sertifika Bağlayıcısı doğrulama komut dosyaları](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
+Yapılandırmanızı doğrulamaya yardımcı olmak için başvurulan PowerShell betiklerini kullanın. Daha fazla bilgi için [bkz. Intune Sertifika bağlayıcısı doğrulama betikleri.](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority)
 
   
 **Diğer yaygın sorunlar**
 
-**NDES Connector sunucusuna Intune sertifika bağlayıcısını yüklemeye çalıştığımda, "sertifika isteğindeki parola doğrulanamıyor" iletisi alıyorum. Zaten kullanılmış olabilir. Bu istekle göndermek için yeni bir parola alın. "**  
+**Intune sertifika bağlayıcısını NDES bağlayıcısı sunucusuna yüklemeye çalışarak "Sertifika isteğinde parola doğrulanamıyor. Daha önce kullanılmış olabilir. Bu istekle göndermek için yeni bir parola alın".**  
 
-Bu ileti, sertifika Bağlayıcısı yüklemesini yönetici olarak çalıştırmanız gerektiği anlamına gelir.
+Bu ileti, sertifika bağlayıcısı yüklemesini Yönetici olarak çalıştırmanız gereken anlamına gelir.
 
-Bazı ortamlarda Intune sertifikasının çalıştığı sunucular Intune 'a bağlanmak için bir ara sunucu kullanmalıdır ve böylece sertifika bağlayıcısının bir proxy kullanması gerekir. Bazı durumlarda, NDES Bağlayıcısı yapılandırılmış proxy ayarlarını yoksayar ve LocalSystem güvenlik bağlamında çalışırken proxy ayarlarını yapılandırmak gerekebilir. 
+Bazı ortamlarda, Intune Sertifikası'nın çalıştır olduğu sunucuların Intune'a bağlanmak için bir ara sunucu kullanmaları ve dolayısıyla Sertifika Bağlayıcısı'nın bir proxy kullanması gerekir. Bazı durumlarda, NDES Bağlayıcısı yapılandırılmış ara sunucu ayarlarını yoksayar ve LocalSystem'ın güvenlik bağlamında çalışırken proxy ayarlarını yapılandırmanız gerekebilir. 
  
-Çözüm, Internet Explorer 'ı SISTEM olarak çalıştırmak ve IE 'de bir proxy yapılandırmaktır. Intune bağlayıcı hizmeti yeniden başlatıldıktan sonra, NDES Bağlayıcısı Intune 'a bağlanır.
+Çözüm, Internet Explorer'ı SYSTEM olarak çalıştırmak ve IE'de bir proxy yapılandırmaktır. Intune Bağlayıcı Hizmeti yeniden başlatıldıktan sonra, NDES Bağlayıcısı Intune'a bağlanır.
 
-**Kullanıcı cihazları artık NDES 'den SCEP sertifikası almıyor.**
+**Kullanıcı cihazları artık NDES'den SCEP sertifikası almıyor.**
 
-NDES sunucusuna verilen ve NDES Bağlayıcısı yüklemesi sırasında belirtilen Istemci kimlik doğrulama sertifikasının süresi dolmuş veya yok olabilir. Çözmek için: 
+NDES sunucusuna verilen ve NDES bağlayıcısı yüklemesi sırasında belirtilen İstemci Kimlik Doğrulaması sertifikasının süresi dolmuş veya eksik olabilir. Bu sorunu çözmek için: 
  
-1. NDES bağlayıcısını kaldırın.  
-2. Yeni bir istemci kimlik doğrulaması veya sunucu kimlik doğrulama sertifikası istemek için bu ayrıntıları kullanın: 
+1. NDES bağlayıcıyı kaldırın.  
+2. Yeni bir istemci kimlik doğrulaması veya sunucu kimlik doğrulaması sertifikası talep etmek için bu ayrıntıları kullanın: 
  
-    - Konu adı: CN = dış FQDN  
-    - Konu alternatif adı (ikisi de gereklidir): DNS = dış FQDN, DNS = iç FQDN 
+    - Konu adı: CN=dış fqdn  
+    - Konu alternatif adı (her ikisi de gereklidir): DNS=dış fqdn, DNS=iç fqdn 
  
 3. NDES bağlayıcısını yeni sertifikayla yeniden yükleyin.

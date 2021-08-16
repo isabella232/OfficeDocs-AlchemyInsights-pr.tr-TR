@@ -1,5 +1,5 @@
 ---
-title: OneDrive veya SharePoint'den dosya ve klasör indirme
+title: Dosya ve klasörleri bir klasörden OneDrive veya SharePoint
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: f2f4d458d30960d387fed158d718a963e72d4f3e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: MT
+ms.openlocfilehash: a08539f4fb9824b6ab020416cbade061e06c24ea3414078981e39c2c10f4beee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017404"
 ---
-# <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>OneDrive veya SharePoint'den dosya ve klasör indirme
+# <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Dosya ve klasörleri bir klasörden OneDrive veya SharePoint
 
-Yalnızca birkaç tıklamayla Microsoft OneDrive'dan ya da Microsoft 365 veya SharePoint Server 2019'daki SharePoint'den bilgisayarınıza dosya ve klasör indirebilirsiniz. Daha fazla bilgi için bkz. [OneDrive veya SharePoint'den dosya ve klasör indirme.](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
+Dosyaları ve klasörleri yalnızca Microsoft OneDrive'SharePoint bilgisayarınıza SharePoint veya Microsoft 365 SharePoint Server 2019 bilgisayarınıza indirebilirsiniz. Daha fazla bilgi için [bkz. Dosya ve klasörleri dosya ve OneDrive SharePoint.](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)

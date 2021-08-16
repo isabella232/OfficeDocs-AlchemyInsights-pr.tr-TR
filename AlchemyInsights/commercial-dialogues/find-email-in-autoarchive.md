@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: ce969ca2d3e07d6b7548cf7a553e8b5bee4799be
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a6a6a311708fc23a63656f5b8ccf572e30bc13dab1728bc3be48ad36aeb35077
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017296"
 ---
 # <a name="find-email-in-autoarchive"></a>Otomatik Arşiv'de e-posta bulma
 
-Arşiv dosyası, Outlook Veri Dosyası (.pst) türündedir. Otomatik Arşivleme ilk kez çalıştırılırken, arşiv dosyası şu dosyada otomatik olarak oluşturulur: C:\Users\KullanıcıAdı\Belgeler\Outlook Dosyaları\arşiv.pst.
+Arşiv dosyası, Veri Dosyası (.pst Outlook tür bir dosyadır. Otomatik Arşivleme ilk kez çalıştırılana kadar, arşiv dosyası şu şekilde otomatik olarak oluşturulur: C:\Users\KullanıcıAdı\Belgeler\Outlook Files\archive.pst.
 
 Otomatik Arşiv'inizi görüntülemek için:
 
-1. Outlook'ta, Outlook **Veri Dosyasını** > **dosya**  >  **sekmesini seçin.**
-2. PST dosyasının bulunduğu konuma göz atarak dosyayı açın. Bu, PST dosyasını klasör listesine ekler.
+1. Veri Outlook Veri Dosyası **Aç'>** **Dosya**  >  **Outlook seçin.**
+2. PST dosyasının bulunduğu konuma göz atabilir ve dosyayı açabilirsiniz. Bu, PST dosyasını klasör listesine ekler.
 3. Klasörde geçmiş e-posta iletilerini arayabilirsiniz.
