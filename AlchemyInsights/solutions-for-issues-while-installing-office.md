@@ -1,5 +1,5 @@
 ---
-title: Office 'i yüklerken sorunlarla ilgili çözümler
+title: E-Office'i yüklerken karşılaşılan sorunlar için Office
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,30 +12,30 @@ ms.custom:
 - "852"
 - "2000020"
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: c97254cbbe4fd3b83f15149be99b6768fac38848
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa364306ca2eda7097bf1098ebcd690bd0808a78c39f6657b4049b8e85897dac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738369"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021796"
 ---
-# <a name="solutions-for-issues-while-installing-office"></a>Office 'i yüklerken sorunlarla ilgili çözümler
+# <a name="solutions-for-issues-while-installing-office"></a>E-Office'i yüklerken karşılaşılan sorunlar için Office
 
 Office hatanızı gidermek için bu çözümleri deneyin:
   
-- Bilgisayarınızı yeniden başlatın ve [Office 'i yüklemeyi](https://portal.office.com/OLS/MySoftware.aspx)deneyin.
+- Bilgisayarınızı yeniden başlatın ve yeniden [yüklemeyi Office.](https://portal.office.com/OLS/MySoftware.aspx)
 
 - [Destek ve Kurtarma Yardımcısı](https://aka.ms/SARA-OfficeUninstall-Alchemy)’nı indirip yükleyin.
 
-1. **Office ürünlerini kaldırma** bölümünden, kaldırmak istediğiniz sürümü seçin ve **İleri**'yi seçin.
+1. Açılırken, Kaldır ve **Office ürünlerden** kaldırmak istediğiniz sürümü seçin ve sonra da Sonraki öğesini **seçin.**
 
 2. Ekranlarda ilerlemeye devam edin ve istendiğinde bilgisayarınızı yeniden başlatın.
 
-    Yeniden başlattıktan sonra, kaldırma işlemini tamamlamak için destek ve Kurtarma Yardımcısı otomatik olarak yeniden açılır.
+    Yeniden başlatmanın ardından, Destek ve Kurtarma Yardımcısı için dosya yeniden açılır.
 
-3. Kalan istemleri izleyin ve [Office 'i yeniden yükleyin](https://portal.office.com/OLS/MySoftware.aspx) veya yardımcı 'yı kapatın.
+3. Kalan istemleri izleyin ve [yeniden Office](https://portal.office.com/OLS/MySoftware.aspx) veya yardımcıyı kapatın.
 
-- Office 'i yüklemek için [Office çevrimdışı yükleyicisi 'Ni kullanma](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- [Office'Office yüklemek](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) için Office
 
-Yükleme hataları hakkında daha fazla bilgi için [Office 'i yüklerken hata iletileri](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages)bölümüne bakın.
+Yükleme hataları hakkında daha fazla bilgi için [bkz. Hata iletileri yükleme Office.](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages)
   
