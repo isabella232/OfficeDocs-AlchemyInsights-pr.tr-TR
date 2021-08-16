@@ -1,5 +1,5 @@
 ---
-title: SharePoint veya OneDrive 'da erişimi kısıtlama
+title: E-posta veya SharePoint erişimi OneDrive
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: d8be1eb5bdcd0b5b08ddad32a45b6282c788c26a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7b68df2ae24b09fe9b01bd67c31a89e37f284a512bc1ecb097ef52fae5ae7d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720702"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075060"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>SharePoint veya OneDrive 'da erişimi kısıtlama
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>E-posta veya SharePoint erişimi OneDrive
 
-SharePoint ve OneDrive 'da, yalnızca erişmek istediğiniz gruplara veya kişilere erişim vererek dosyalar, klasörler ve listeler gibi öğelere erişimi kısıtlayabilirsiniz. Varsayılan olarak, SharePoint 'teki izinler hiyerarşide daha yüksek bir düzeye devralınır. Böylece, bir dosya kendi izinlerini veritabanından devralır ve bu da sunucudaki izinleri veritabanından devralır.
+SharePoint ve OneDrive'da, yalnızca erişime sahip olmak istediğiniz gruplara veya kişilere erişim izni vererek, dosya, klasör ve liste gibi öğelere erişimi kısıtlarsınız. Varsayılan olarak, SharePoint hiyerarşide yukarıdan devralınan izinler. Bu şekilde dosya izinlerini, izinlerini siteden devralan kitaplıktan devralan klasörden devralır.
   
-Daha yüksek düzeyde paylaşım yapabilirsiniz (tüm siteyi paylaşabilir gibi) ve sonra sitedeki tüm öğeleri paylaşmak istemezseniz devralmayı bozabilirsiniz. Bununla birlikte, daha sonra izinlerin daha karmaşık ve kafa karıştırıcı olduğundan bunu önermiyoruz. Bunun yerine yapabilecekleriniz:
+Daha üst düzeyde paylaşabilirsiniz (örneğin, sitenin tamamını paylaşabilirsiniz) ve sonra da sitedeki öğelerin tamamını paylaşmak istemiyorsanız devralmayı bozabilirsiniz. Bununla birlikte, izinleri korumayı gelecekte daha karmaşık ve kafa karıştırıcı olduğundan bunu öner önerilmez. Bunun yerine şunları da yapabiliriz:
   
-- Örneğin, bir dosya dışında bir klasörün tüm içeriğini paylaşmak istiyorsanız, dosyayı paylaşılmayan yeni bir konuma taşıyın.
+- Örneğin, bir klasörün içindeki tek bir dosya dışında tüm içeriğini paylaşmak istediğiniz varsa, bu dosyayı paylaşılmaz yeni bir konuma taşımanız gerekir.
     
-- Bir klasörde iki alt klasörünüz varsa ve yalnızca A ve B gruplarıyla tek bir alt klasör paylaşmak istiyorsanız ve ikinci alt klasöre yalnızca Grup erişimi izni vermek istiyorsanız, ana klasörü grupla ve Grup B 'yi ilk alt klasöre paylaşın.
+- Bir klasörde iki alt klasörünüz varsa ve bir alt klasörü A ve B gruplarıyla paylaşmak ve ikinci alt klasöre yalnızca A Grubu erişimine izin vermek için, üst klasörü A grubuyla paylaşın ve B grubunu ilk alt klasöre ekleyin.
     
-[Dosya veya klasör paylaşmayı durdurma ](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Dosya veya klasör paylaşımını durdurma ](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 

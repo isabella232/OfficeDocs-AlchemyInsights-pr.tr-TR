@@ -1,5 +1,5 @@
 ---
-title: 1800014 paylaşılan posta kutusu için Outlook Mobile kurulumu sorunlarını giderme
+title: 1800014 posta Outlook mobil kurulumu sorunlarını giderme
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800014
 ms.assetid: 598e6a5b-daca-45b8-a1e4-99ce018aa64c
-ms.openlocfilehash: 856560dbe7e66460fd2c6690aed1f32174d5dd7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78e015918f7b1ebfea3898a7ede5518b847c7be19971d5ef59854da8b005667f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735975"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020716"
 ---
-# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>Paylaşılan posta kutusu için Outlook Mobile kurulumu sorunlarını giderme
+# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>Paylaşılan Outlook kutusu için mobil kurulum sorunlarını giderme
 
-Paylaşılan posta kutusuna, mobil cihazda yüklü olan Outlook uygulamasından erişemezsiniz. Bu özelliği istiyor musunuz? Outlook Engineering Team 'in bilmesini sağlayın. [Buraya oy verin](https://go.microsoft.com/fwlink/?linked=862116)!
+Paylaşılan posta kutusuna, mobil cihazda yüklü olan Outlook uygulamasından erişemezsiniz. Bu özelliği istiyor musunuz? Mühendislik Outlook haber verme. [Buradan oy!](https://go.microsoft.com/fwlink/?linked=862116)
   
-Paylaşılan bir posta kutusunu yalnızca tarayıcınızı açıp Web üzerinde Outlook 'a giderek mobil cihazda kullanabilirsiniz. Yönergeler için [Web üzerinde Outlook 'ta paylaşılan posta kutusu ekleme](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)konusuna bakın. Paylaşılan posta kutunuza web üzerinde Outlook'tan erişebilirsiniz.
+Paylaşılan posta kutusunu mobil cihazda yalnızca tarayıcınızı açarak, oturum açarak ve ardından Posta Kutusu'Web üzerinde Outlook. Yönergeler için [bkz. posta kutusuna paylaşılan posta Web üzerinde Outlook.](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207) Paylaşılan posta kutunuza web üzerinde Outlook'tan erişebilirsiniz.
   
-Daha fazla bilgi: [iOS ve Android Için Outlook 'ta uygulama içi yardım alma](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Daha fazla [bilgi: iOS ve Android için Outlook uygulama içinde yardım al](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
 

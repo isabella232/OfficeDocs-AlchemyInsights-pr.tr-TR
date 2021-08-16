@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 uygulama paketi 'ni veya tek tek Office uygulamasını yükleme
+title: Uygulama Microsoft 365 veya bireysel bir paketi Office uygulaması
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003892"
 - "6946"
-ms.openlocfilehash: f8098b094a38ed1bffc1fd1e914d8e4ae07c310f
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 796c73262e44e8f3e74f951f9409a9c6996367edeef53572f8caf6bbb56adf47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680386"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067428"
 ---
-# <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>Microsoft 365 uygulama paketi 'ni veya tek tek Office uygulamasını yükleme
+# <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>Uygulama Microsoft 365 veya bireysel bir paketi Office uygulaması
 
-Microsoft 365 uygulama paketi, Word, Excel ve PowerPoint 'i içerir. Paket iPhone için kullanılabilir ve gelecekte iPad için kullanılabilir. Tek tek uygulamalar iPhone ve iPad için kullanılabilir.
+En Microsoft 365 paketi Word, Excel ve diğer PowerPoint. Paket, iPhone için kullanılabilir ve gelecekte iPad için de kullanılabilir. Tek tek uygulamalar hem iPhone hem de iPad.
 
-1. [Uygulama paketi 'ni yükleme](https://go.microsoft.com/fwlink/?linkid=2136762)
-1. [Word 'Ü yükleme](https://go.microsoft.com/fwlink/?linkid=2136974)
-1. [Excel 'i yükleme](https://go.microsoft.com/fwlink/?linkid=2136975)
-1. [PowerPoint 'i yükleme](https://go.microsoft.com/fwlink/?linkid=2136882)
-1. [OneNote 'U yükleme](https://go.microsoft.com/fwlink/?linkid=2136883)
+1. [Uygulama paketi yükleyin](https://go.microsoft.com/fwlink/?linkid=2136762)
+1. [Word'i yükleme](https://go.microsoft.com/fwlink/?linkid=2136974)
+1. [Yükleme Excel](https://go.microsoft.com/fwlink/?linkid=2136975)
+1. [Yükleme PowerPoint](https://go.microsoft.com/fwlink/?linkid=2136882)
+1. [Yükleme OneNote](https://go.microsoft.com/fwlink/?linkid=2136883)
 
-Daha fazla bilgi edinmek için [iPhone veya iPad 'de Office 'ı yükleme ve ayarlama](https://go.microsoft.com/fwlink/?linkid=2135560)konusuna bakın.
+Daha fazla bilgi edinmek için [bkz. Bir Office veya iPhone yükleme iPad.](https://go.microsoft.com/fwlink/?linkid=2135560)

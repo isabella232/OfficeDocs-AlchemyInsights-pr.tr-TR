@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: d4d9085064d013ab9cf8a8c1304e10953c1a627d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5c56d39031256c91a664fd3f696632bcf8e83737b6533a78fe9960ec677509c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034486"
 ---
 # <a name="install-deploy-and-configure-mdatp-on-a-mac"></a>Mac'te MDATP yükleme, dağıtma ve yapılandırma
 
-MDATP'yi el [ile veya](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-install-manually) bir yönetim aracı kullanarak dağıtabilirsiniz:
+MDATP'yi [el ile veya](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-install-manually) bir yönetim aracı kullanarak dağıtabilirsiniz:
 
 - [Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2144548)
 - [Jamf](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-install-with-jamf)
 - [Mobil Cihaz Yönetimi (MDM)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-install-with-other-mdm)
 
-Daha fazla bilgi edinmek için [bkz. Mac için MDATP'yi yükleme](https://go.microsoft.com/fwlink/?linkid=2144672)
+Daha fazla bilgi edinmek için [bkz. Mac için MDATP yükleme](https://go.microsoft.com/fwlink/?linkid=2144672)

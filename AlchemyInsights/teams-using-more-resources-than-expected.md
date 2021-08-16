@@ -1,5 +1,5 @@
 ---
-title: Ekip Yükseltme Kılavuzu
+title: Teams kılavuzu
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365236"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998711"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>Ekipler beklenenden daha fazla bilgisayar kaynağı kullanıyor
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams, beklenenden daha fazla bilgisayar kaynağı kullanıyor
 
-Harika performans ve Kullanıcı deneyimi Microsoft 'taki başlıca kaygılardır. Ekip başlatma süresi iyileştirilir ve genel kaynak tüketimi dahil olmak üzere ekipleri geliştirmeye devam edeceğiz.  
+Microsoft'un en önemli kaygıları, mükemmel performans ve kullanıcı deneyimidir. Teams başlatma süresinde geliştirmeler devam ediyor ve genel kaynak kullanımı da dahil Teams kaynak kullanımının iyileştirilmesine devam edeceğiz.  
 
-Ekipler ve kaynak kullanımı hakkında daha fazla bilgi için, [4k/HDR monitörlerine yerleştirilen dizüstü bilgisayarlarda görüntü toplantıları sırasında](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k) [Microsoft ekipleri bellek](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) ve ekiplerin nasıl yavaş olduğunu görün.
+Teams kullanımı ve kaynak kullanımı hakkında bilgi için bkz. [Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) [4K/HDR](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k)monitörlere yerleştirilen dizüstü bilgisayarlarda görüntülü toplantılar sırasında Teams nasıl bellek kullanır ve Teams yavaştır.

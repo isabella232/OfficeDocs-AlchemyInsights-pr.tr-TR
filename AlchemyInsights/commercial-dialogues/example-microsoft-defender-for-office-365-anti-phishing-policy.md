@@ -1,5 +1,5 @@
 ---
-title: Office 365 için Microsoft Defender kimlik avı önleme ilkesi örneği
+title: Kimlik avı önleme Office 365 için Microsoft Defender örneği
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750800"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035026"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Office 365 için Microsoft Defender kimlik avı önleme ilkesi örneği
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Kimlik avı önleme Office 365 için Microsoft Defender örneği
 
-Bu ayarlar, Etki Alanı ve CEO olarak *adlandırılan ilkeyi etkinleştirir.* Bu ilke, hem kullanıcı hem de etki alanı korumasını kimliğe bürünme karşı sağlar ve ardından bu ilkeyi etki alanı içindeki kullanıcılar tarafından alınan tüm e-postalara uygular. İlk olarak, ilkeyi oluşturmak için aşağıdaki bilgileri ekleyin:
+Bu ayarlar Domain and CEO adlı *bir ilkeyi etkinleştirir.* Bu ilke, hem kullanıcı hem de etki alanı kimliğine karşı koruma sağlar ve ardından ilkeyi etki alanı içindeki kullanıcılar tarafından alınan tüm e-postalara uygular. İlk olarak, ilkeyi oluşturmak için aşağıdaki bilgileri ekleyin:
 
-- **Ad**: Etki alanı ve CEO **Açıklaması**: CEO'nun ve etki alanınız kimliğine bürünülmemelerini sağlar.
-  **Uygulandı:** Alıcı **etki alanını seçin.** Bunların **herhangi biri altında,** **Seç'i** seçin ve sonra da bir etki alanı seçin. Select **+ Add**. Listede etki alanının adının yanındaki onay kutusunu seçin *(örneğin,* contoso.com) ve ardından Ekle'yi **seçin.** **Bitti'yi seçin.**
-- İlke oluşturulduktan sonra, aşağıdaki seçenekleri kullanarak ilkeye ince ayar yapabilirsiniz:
+- **Ad:** Etki alanı ve CEO **Açıklaması**: CEO'nun ve etki alanınız kimliğine bürünülmemelerini sağlar.
+  **Şu şekilde uygulanır:** Alıcı **etki alanı öğesini seçin.** Bu **seçeneklerden herhangi biri altında,** **Seç öğesini** seçin ve sonra da bir etki alanı seçin. **+ Ekle öğesini seçin.** Listede etki alanı adının yanındaki onay kutusunu seçin *(örneğin,* contoso.com ) ve ekle'yi **seçin.** Bitti **öğesini seçin.**
+- İlke oluşturulduktan sonra, aşağıdaki seçenekleri kullanarak ilkede ince ayarlamalar yapabilirsiniz:
   - **Korumak için kullanıcı ekleme:** Bu örnekte, CEO'nun e-posta adresini en azından ekleyin.
   - **Korumak için etki alanları ekleyin:** CEO'nun ofisini içeren kuruluş etki alanını ekleyin.
-  - **Eylemleri seçin:** **E-posta** kimliğine bürünülen bir kullanıcı tarafından gönderilirse, iletiyi başka bir e-posta adresine yönlendir'i seçin ve güvenlik yöneticisinin e-posta adresini girin (örneğin, *securityadmin@contoso.com).* **E-posta kimliğine bürünülen bir etki alanı tarafından gönderilirse,** **iletiyi karantinaya alın'ı seçin.**
-  - **Posta kutusu** zekası: Yeni kimlik avı önleme ilkesi oluşturmanızda varsayılan olarak bu seçenek seçilidir. En iyi sonuçları elde **etmek için bu** ayarı Açık bırakın.
-  - **Güvenilen gönderenleri ve etki alanlarını ekleyin:** Bu örnekte, geçersiz kılmaları tanımlamayın.
-- Ayarlarınızı gözden geçirerek uygun şekilde Bu ilkeyi **oluştur veya** **Kaydet'i** seçin.
+  - **Eylemleri seçin:** **E-posta** kimliğine bürünülen bir kullanıcı tarafından gönderilirse için, İletiyi başka bir e-posta adresine yeniden yönlendir'i seçin ve güvenlik yöneticisinin e-posta adresini girin *(örneğin, securityadmin@contoso.com).* **E-posta kimliğine bürünülen bir etki alanı tarafından gönderilirse için İletiyi** **karantinaya alın öğesini seçin.**
+  - **Posta kutusu** zekası: Varsayılan olarak, yeni bir kimlik avı önleme ilkesi 7 oluşturmak için bu seçenek seçilidir. En iyi sonuçları elde **etmek için bu** ayarı Açık bırakın.
+  - **Güvenilen gönderenleri ve etki alanlarını ekleme:** Bu örnekte, geçersiz kılmalar tanımlamayın.
+- Ayarlarınızı gözden geçirmenizin ardından, Uygun şekilde Bu ilkeyi **oluştur'a veya** **Kaydet'e** tıklayın.
 
-Daha fazla bilgi edinmek için [Microsoft 365'te kimlik avı önleme ilkelerine bakın.](https://go.microsoft.com/fwlink/?linkid=2092235)
+Daha fazla bilgi için [bkz. Kimlik avıyla mücadele ilkeleri Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2092235)
