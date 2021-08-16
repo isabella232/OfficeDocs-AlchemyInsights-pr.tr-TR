@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: ba3cff52a4907a0c11fb1cef165fe805ae369cc0
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: a4bd4a24484596b8d14202d9490be297f5633b6b9ccd1a4958673b49752f77c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679306"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002314"
 ---
 # <a name="get-started-with-yammer"></a>Yammer'ı kullanmaya başlayın
 
-Yammer, en iyi, güvenli ve özel bir kurumsal sosyal ağ. Yammer, Web 'de ve Android ve iOS cihazlarında Yammer uygulamasında, kolay ve kolay kullanımlı bir deneyim sağlar. Yammer, Microsoft ekipleri ve Outlook ile tümleştirilebilir. Yammer, SharePoint Online 'da güncelleştirilmiş bir tümleştirme deneyimi sağlar.
+Yammer, sınıf içinde en iyi, güvenli ve özel bir kurumsal sosyal ağdır. Yammer web'de ve Android ve iOS cihazlar için Yammer uygulamasında ilgi çekici ve kullanımı kolay bir deneyim sunar. Yammer, çalışma sistemleri ve Microsoft Teams ile Outlook. Yammer, SharePoint Online'da güncelleştirilmiş bir tümleştirme deneyimi de sağlar.
 
-Yammer ağınızı kullanarak etki alanları ekleyerek, yöneticileri tanımlayarak ve Yammer ağlarını birleştiren Yammer ağınızı hazırlayın. Yammer 'ı dağıtın ve ardından Görünüm 'ü özelleştirin, güvenlik ve uyumluluk 'i yapılandırın ve ayarları daraltın.
+Etki alanları Yammer, yöneticileri tanımlayarak ve Yammer ağlarını birleştirerek Yammer için Yammer kullanın. Posta Yammer görünümü özelleştirin, güvenlik ve uyumluluğu yapılandırın ve ayarları daraltın.

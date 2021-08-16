@@ -1,5 +1,5 @@
 ---
-title: Web hesabındaki Outlook 'u Windows için Outlook 'a ekleme
+title: Web üzerinde Outlook için Outlook hesabınıza Windows
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,21 +10,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 636c5b7c239cf4d8ffc3b44b50c5a7ebb7b55e1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cdb570c354c10798471eff282628b04400ad33abc9daea0abce6cb4bcc55e41d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010708"
 ---
-# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Web hesabındaki Outlook 'u Outlook 'a ekleme
+# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Web üzerinde Outlook hesabınıza Outlook ekleme
 
-Bu adımlar, ilk e-posta hesabınızı veya ek e-posta hesaplarınızı Outlook 'a ekleme ile aynıdır.
+E-posta hesabınıza ilk e-posta hesabı veya ek e-posta hesaplarını eklerken, bu adımlar Outlook.
 
-1. **Dosya**  >  **ekleme hesabı**'nı seçin.
-1. Sonraki gördüğünüz konular Outlook sürümünüze bağlıdır:
-    - Office 365 ve **outlook 2016** **için Outlook 'ta** e-posta adresinizi girin ve **Bağlan**'ı tıklatın.
-    - **Outlook 2013** ve **Outlook 2010**için adınızı, e-posta adresinizi ve parolanızı girin ve **İleri**'ye tıklayın.
-1. İstenirse, parolanızı yeniden girin ve ardından **OK**  >  **Finish** Outlook 'ta e-posta hesabınızı kullanmaya başlamak için Tamam 'ı seçin.
+1. Dosya **Hesabı**  >  **Ekle'yi seçin.**
+1. Bundan sonra ne göreceğiniz kullandığınız sürüme Outlook:
+    - **E Outlook ve Office 365 için Outlook 2016** ' e-posta adresinizi girin ve Tamam'a **Bağlan.** 
+    - Daha **Outlook 2013** **ve Outlook 2010** için, adınız, e-posta adresiniz ve parolanızı girin ve Sonraki 'ye **tıklayın.**
+1. İstendiğinde parolanızı yeniden girin ve e-posta adresinizi kullanarak **e-posta** hesabını  >   kullanmaya başlamak için Tamam Outlook.
 
-Daha fazla bilgi için [Outlook 'a e-posta hesabı ekleme](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)konusuna bakın.
+Daha fazla bilgi için [bkz. Hesabınıza e-posta Outlook.](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)
