@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: bba89489cb75555e1f508224de223bee04e1d665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a14705003f742641f10c8459b7c7024146e4134a8d5113451e5732cef7326484
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700727"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051434"
 ---
-# <a name="workflows-in-sharepoint"></a>SharePoint 'teki iş akışları
+# <a name="workflows-in-sharepoint"></a>İş Akışları SharePoint
 
-SharePoint iş akışları e-posta göndermiyor ise, kuruluşunuz Exchange Online gönderen limitleriyle karşılaşmış olabilir.
+Diğer SharePoint iş akışları e-posta gönder iletileriyle Exchange Online karşılaşmış olabilir.
 
-Aşağıdaki öğelerden birine sahipseniz ' Iş akışı askıya alındı ' hata iletisi görüntülenebilir:
+Aşağıdaki öğelerden biri varsa 'İş Akışı Askıya Alındı' hata iletisi oluşabilir:
 
-- SharePoint Online 'da SharePoint 2010 veya SharePoint 2013 Workflow Platform türünü kullanan bir iş akışınız var.
+- SharePoint Online'da SharePoint 2010 veya SharePoint iş akışı platform türünü kullanan bir iş akışınız var.
 
-- İş akışı, tek seferde 10.000 ' ten 200 fazla kullanıcıya veya dakikada 30 iletiden uzun bir e-posta iletisi gönderecek şekilde yapılandırılmıştır.
+- İş akışı, bir defada 200'den fazla kullanıcıya özel e-posta iletisi, günde 10.000'den fazla alıcı veya dakikada 30'dan fazla ileti gönderecek şekilde yapılandırılır.
 
-İş akışını çalıştırdığınızda, e-posta iletisi gönderilmez ve hata iletisiyle karşılaşırsanız, dahili durumun askıya alınmış veya alıcıya gönderilemediği gösterilir.
+İş akışını çalıştırsanız, e-posta iletisi gönderilmez ve İç Durum hata iletisinin Askıya Alındı veya Alıcıya gönderlenemiyor olarak ayar olmadığını fark edin.
 
-Daha fazla bilgi için lütfen aşağıdaki [makaleye](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)bakın.
+Daha fazla bilgi için lütfen aşağıdaki makaleye [bakın.](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)
 

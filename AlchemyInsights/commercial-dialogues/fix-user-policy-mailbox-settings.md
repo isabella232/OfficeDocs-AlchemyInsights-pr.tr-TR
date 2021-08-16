@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ca998c453fcb0905b122436f0eea384a9b8a9992
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fecc52bea66e0aed709a8995d2509f4432c09482459aa575d29e4c7551375211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750566"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034738"
 ---
 # <a name="fix-user-policymailbox-settings"></a>Kullanıcı ilkesi/posta kutusu ayarlarını düzeltme
 
-Posta kutusunun gereksiz posta ayarları bu iletiyi etkiliyor. Ayarları gözden geçirmek için şunları yapın:
+Posta kutusunda gereksiz posta ayarları bu iletiyi etkiliyordur. Ayarları gözden geçirmek için şunları yapın:
 
-1. Exchange Yönetim Kabuğu'nu başlatma. Daha fazla bilgi için [bkz. Exchange Yönetim Kabuğu'nu açma.](https://go.microsoft.com/fwlink/?linkid=2101432)
-2. Bu komutu çalıştırın (kullanıcının e-posta adresini kullanarak):  **get-mailboxjokmailconfiguration -identity "user@domain.com"**
-3. Gönderenin e-posta adresinin **TrustedSendersAndDomains** veya **BlockedSendersAndDomains'in** bir parçası olup olduğunu kontrol edin. E-posta adresi listelerden birsinde yer alan bir adresse, bu adresi kaldırmanız gerekir. Daha fazla bilgi edinmek için bkz. [Set-MailboxJokEmailConfiguration.](https://go.microsoft.com/fwlink/?linkid=2101047)
+1. Yönetim Exchange'i başlatma. Daha fazla bilgi için [bkz. Exchange Kabuğu'nu açma.](https://go.microsoft.com/fwlink/?linkid=2101432)
+2. Bu komutu çalıştırın (kullanıcının e-posta adresini kullanarak):  **get-mailboxmailconfiguration -identity "user@domain.com"**
+3. Gönderenin e-posta adresinin **TrustedSendersAndDomains** veya **BlockedSendersAndDomains kapsamında olupdiğini kontrol edin.** E-posta adresi listelerden birsinde yer alan bir adresse, bu adresi kaldırmanız gerekir. Daha fazla bilgi edinmek için bkz. [Set-MailboxJunkEmailConfiguration.](https://go.microsoft.com/fwlink/?linkid=2101047)

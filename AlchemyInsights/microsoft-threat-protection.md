@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 0d54a9c17f52b2e8a99f181822c0989fe1af72e7
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: f2025f66adfe5ed4ed5093fb5768bc4826cfdeeeddb17a6276c56f633eea77c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801499"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026818"
 ---
 # <a name="microsoft-365-defender"></a>Microsoft 365 Defender
 
-- [MTP genel bakış](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
+- [MTP'ye Genel Bakış](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
 - [Önkoşullar](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 - [Lisans gereksinimleri](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
-- [MTP 'yi etkinleştirme](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
-- [MTP sorun giderme](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
+- [MTP'yi Etkinleştirme](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
+- [MTP Sorun Giderme](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Lisans 'ı denetleme: lisansınızı görüntülemek için Azure AD 'de faturalandırma Yöneticisi veya genel okuyucu rolüne sahip olmanız gerekir. [Yönetim merkezine](https://admin.microsoft.com/) gidin ve **Billing**  >  mevcut lisanslarınızı görüntülemek için faturalandırma **Lisansları** 'na gidin.
+Lisanslama nasıl kontrol edersiniz: Lisansınızı görüntülemek için Azure AD'de Faturalama yöneticisi veya Genel okuyucu rolüne atanmanız gerekir. Yönetim merkezine [gidin ve](https://admin.microsoft.com/) Mevcut **lisanslarınızı**  >  **görüntülemek için** Fatura Lisansları'ne gidin.

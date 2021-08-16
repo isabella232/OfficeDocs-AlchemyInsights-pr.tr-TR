@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online Genel Web siteleri sona erdiriliyor
+title: SharePoint Çevrimiçi genel web siteleri sona erdir ediliyor
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: fbe21c0aa9fbad3345c62d2dac276f49a37d5c02
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b26f8561565288f8bb9400a6bd7c4f8006672e304142e41c5b92088036e88bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770823"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051254"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Online Genel Web siteleri artık kullanılmamaktadır
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Çevrimiçi genel web siteleri sona erdirildi
 
-SharePoint Online Genel Web siteleri artık kullanılmamaktadır.
+SharePoint Çevrimiçi genel web siteleri sona erdirildi.
 
-SharePoint Online Genel Web sitesi oluşturduysanız, 31 Mart 2018 ' den kullanmaya devam edebilirsiniz. Genel Web sitesi kullanmaya devam etmek istiyorsanız, yeni bir sağlayıcı ile yeni bir sağlayıcı oluşturmanız gerekir. SharePoint Online Genel Web sitenizdeki içerik silindi.
+SharePoint Online genel web sitesi oluşturduysanız, 31 Mart 2018 tarihinde kullanmaya devam edebilirsiniz. Bir genel web sitesine sahip olmaya devam etmek için, yeni bir sağlayıcıyla yeni bir web sitesi oluşturmanız gerekir. SharePoint Online genel web site siteniz silindi.
 
-Genel Web sitesi kesilmeleri hakkında bilgi için, [özellik ayırma süreci hakkında ayrıntılara](https://go.microsoft.com/fwlink/?linkid=866980)bakın.
+Genel web sitesini sona erdirma hakkında bilgi için [bkz. Özelliği sona erdirma işlemi hakkında ayrıntılar.](https://go.microsoft.com/fwlink/?linkid=866980)
