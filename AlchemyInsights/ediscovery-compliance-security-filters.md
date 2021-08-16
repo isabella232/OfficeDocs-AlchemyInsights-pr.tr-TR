@@ -1,5 +1,5 @@
 ---
-title: Içerik arama/dışarı aktarma sırasında hiçbir sonuç döndürülmedi
+title: İçerik Arama/Dışarı Aktarma sırasında sonuç döndürül yok
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
-ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.openlocfilehash: 5c04364f98dccbcad0f011df866f137d79c166ad3839b408d6be447d50a87ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727243"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101286"
 ---
-# <a name="no-results-returned-during-content-searchexport"></a>Içerik arama/dışarı aktarma sırasında hiçbir sonuç döndürülmedi
+# <a name="no-results-returned-during-content-searchexport"></a>İçerik Arama/Dışarı Aktarma sırasında sonuç döndürül yok
 
 Aşağıdaki eBulma senaryolarında sorun yaşıyorsanız:
 
-- İçerik arama/verme işlevi veri veya beklenmeyen veriler döndürmüyor
-- eBulma arama veya dışarı aktarma başarısız
+- İçerik Arama/Dışarı Aktarma veri veya beklenmeyen veri sonuç vermez
+- eBulma Arama veya Dışarı Aktarma başarısız
 
-Bu, belirli bir yönetici tarafından ayarlanan ve tüm yöneticilere iletilmedi olan bazı uyumluluk güvenlik filtreleri olabilir.
+Bunun nedeni, belirli bir Yönetici tarafından kurulumu yapılan ve tüm Yöneticilere iletilen bazı Uyumluluk Güvenlik Filtreleri olabilir.
 
-Bunu çözmek için, bu sorunlara neden olabilecek uyumluluk güvenlik filtreleri olup olmadığını denetleyin:
+Bu sorunu çözmek için, bu sorunlara neden olacak herhangi bir Uyumluluk Güvenlik Filtresi olup olmadığını kontrol edin:
 
-1. Güvenlik ve Uyumluluk Merkezi PowerShell 'e bağlanma
-2. Aşağıdaki komutu çalıştırarak:
+1. Bağlan ve Uyumluluk Merkezi Powershell'e
+2. Aşağıdaki komutlar çalıştırın:
 
     `$org = “yourdomain.com”`
 
     `Get-ComplianceSecurityFilter -Organization $org`
 
-Uyumluluk güvenliği filtreleri hakkında ek bilgi için bkz: [Içerik araması Için Izinler filtreleme](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)
+Uyumluluk Güvenlik Filtreleri hakkında ek bilgi için bkz. [İçerik Arama için İzin Filtreleme](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)

@@ -8,23 +8,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9f8e385b-dd2c-4d4e-b5f0-e28a24db4d83
-ms.openlocfilehash: ecbaf5a52a0867893c470f759a030bafea376e34
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a2aeb4e943311143be7d9c1477c81d9652067a02c739dc258e4187deb79cade7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747427"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032326"
 ---
 # <a name="create-a-site"></a>Site oluşturma
 
-- [Microsoft 365 Yönetim merkezinde siteler sayfasına](https://portal.office.com/adminportal/home#/SitesList)gidin ve **Site Ekle**'yi seçin. 
+- Site sayfasında [Siteler sayfasına gidin ve Microsoft 365 yönetim merkezi](https://portal.office.com/adminportal/home#/SitesList) **Ekle'yi seçin.** 
     
-- Yeni SharePoint Yönetim merkezinde, siteler sayfasında **Oluştur**'u tıklatın. 
+- Yeni yönetim SharePoint, Siteler sayfasında, Oluştur'a **tıklayın.** 
     
-**Not:** Var olan bir siteyle aynı URL 'ye sahip yeni bir site oluşturamazsınız. 
+**Not:** Var olan bir siteyle aynı URL'ye sahip olan yeni bir site oluşturamazsanız. 
   
-Site oluşturma hakkında daha fazla bilgi için [site oluşturma](https://go.microsoft.com/fwlink/?linkid=866295)konusuna bakın.
+Site oluşturma hakkında daha fazla bilgi için [bkz. Site oluşturma.](https://go.microsoft.com/fwlink/?linkid=866295)
   
-Kullanıcıların kendi sitelerini oluşturmasına izin verme hakkında bilgi için, [SharePoint Online 'da site oluşturmayı yönetme](https://go.microsoft.com/fwlink/?linkid=866296)konusuna bakın.
+Kullanıcıların kendi sitelerini oluşturmasına izin verme hakkında bilgi için [bkz. SharePoint Online'da site SharePoint.](https://go.microsoft.com/fwlink/?linkid=866296)
   
 

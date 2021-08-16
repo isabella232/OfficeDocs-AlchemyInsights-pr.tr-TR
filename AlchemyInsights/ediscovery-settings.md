@@ -1,5 +1,5 @@
 ---
-title: EBulma ayarları
+title: Ebulma ayarları
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711007"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101250"
 ---
-# <a name="ediscovery-settings"></a>EBulma ayarları
+# <a name="ediscovery-settings"></a>Ebulma ayarları
 
-eBulma/Içerik aramaları, Exchange Online posta kutularının, SharePoint Online ve OneDrive Iş siteleri, Skype Kurumsal görüşmeleri, Microsoft ekipleri ve Microsoft 365 grupları 'ndan içerik aramanızı, tutabilir ve dışarı aktarabilirsiniz.
+eBulma/İçerik aramaları Exchange Online posta kutuları, SharePoint Online ve OneDrive İş sitelerinden, Skype Kurumsal konuşmalarından, Microsoft Teams ve Gruplarından içerik aramanızı, tutmanızı ve Microsoft 365 sağlar.
 
-- EBulma veya Içerik arama menüsü seçeneklerini arıyorsanız, [eBulma sorunlarına](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)bakın.
-- [EBulma aramaları için gereken Izinlerden](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)eBulma aramaları gerçekleştirmek için gereken izinler hakkında bilgi edinin.
-- Aramanız beklenen sonuçları döndürmediyse, [arama beklenen sonuçları döndürmemektedir](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- eBulma veya İçerik Arama menü seçeneklerini arıyorsanız, [bkz. eBulma Sorunları](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- eBulma aramaları için gereken izinler'den eBulma aramaları [gerçekleştirmek için gereken izinler hakkında bilgi edinmek için:](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- Aramanız beklenen sonuçları döndürlenmiyorsa, bkz. [Arama beklenen sonuçları döndürlenmiyor.](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)
 
-EBulma hakkında daha fazla bilgi için [eBulma](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)konusuna bakın.
+ebulma hakkında daha fazla bilgi için bkz. [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

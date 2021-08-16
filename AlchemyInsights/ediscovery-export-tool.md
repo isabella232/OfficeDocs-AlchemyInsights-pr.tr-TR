@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7b7e1ae4f1f686fa510403d398c4ff750dbadb9065b8d63701a927eeac52d9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814608"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101322"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>eBulma Dışarı Aktarma Aracı'nı yükleye mi çalıştırasınız veya çalıştırasınız?
 
@@ -28,7 +28,7 @@ Arama sonuçlarını indirmek için eBulma Dışarı Aktarma Aracı'nı yükleye
   
 - Kullanmakta olduğunuz bilgisayar şu önk önkulları karşılar:
 
-  - Windows 7 ve sonraki sürümlerin 32 veya 64 bit sürümleri
+  - 7 ve sonraki sürümlerin 32 veya 64 bit Windows sürümleri
 
   - Microsoft .NET Framework 4.7
 
@@ -38,13 +38,13 @@ Arama sonuçlarını indirmek için eBulma Dışarı Aktarma Aracı'nı yükleye
 
     Veya
 
-  - Internet Explorer 10 ve sonraki sürümleri
+  - Internet Explorer 10 sürümleri
 
     Google Chrome ve Mozilla Firefox gibi diğer tarayıcılar desteklenmez.
 
 - Organizasyonunız Azure'daki **\* .blob.core.windows.net** uç noktasına bağlanabilirsiniz (joker karakter, dışarı aktarma işinin benzersiz bir tanımlayıcısını temsil eder).
 
-- Microsoft 365 Güvenlik Uyumluluk Merkezi'nde Dışarı Aktarma &amp; rolüne atandık. Varsayılan olarak, bu rol yalnızca eBulma Yöneticisi rol grubuna atanır. Bkz. [eBulma izinleri atama.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- Güvenlik Uyumluluk Merkezi'nde Dışarı Aktarma rolüne Microsoft 365 &amp; atandı. Varsayılan olarak, bu rol yalnızca eBulma Yöneticisi rol grubuna atanır. Bkz. [eBulma izinleri atama.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 Daha fazla bilgi için bkz. [İçerik Arama sonuçlarını dışarı aktarma.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 

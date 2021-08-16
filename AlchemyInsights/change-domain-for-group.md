@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 grubunun etki alanını değiştirme
+title: Grup için etki Microsoft 365 değiştirme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: aefd66e86b12985456bda8fd99365adec2f1ad2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b32d921288d6d1f39a4b98fb0050624fc96529ddb1e6f9f385687187c729ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071064"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>Microsoft 365 Grubu için etki alanını değiştirme
+# <a name="change-the-domain-for-microsoft-365-group"></a>Grup için etki Microsoft 365 değiştirme
 
-Oluşturma sırasında bir Microsoft 365 Grubu için etki alanını değiştirmek için [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)Grupları oluştururken kullanmak üzere etki alanını seçme'de yer alan adımları izleyin.
+Oluşturma sırasında bir Microsoft 365 Grubunun etki alanını değiştirmek için Grup oluşturma sırasında kullanmak üzere etki alanını seçme [Microsoft 365 izleyin.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
   
-Microsoft 365 Grubu oluşturulduktan sonra, şu anda etki alanını değiştirmenin bir yolu yoktur. Bunun tek yolu, yeni bir Microsoft 365 Grubu oluşturmak ve gerekirse eski grubu silmektir (ek e-posta adresleri Exchange Yönetim Merkezi [aracılığıyla eklenebilir).](https://outlook.office365.com/ecp.aspx)
+Etki Microsoft 365 oluşturulduktan sonra, şu anda etki alanını değiştirmenin bir yolu yoktur. Bunun tek yolu, gerekirse yeni bir Microsoft 365 Grubu oluşturmak ve eskiyi silmektir (ek e-posta adresleri Exchange [Merkezi aracılığıyla eklenebilir).](https://outlook.office365.com/ecp.aspx)
