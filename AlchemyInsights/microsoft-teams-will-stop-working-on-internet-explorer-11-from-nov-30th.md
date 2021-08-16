@@ -1,5 +1,5 @@
 ---
-title: Microsoft ekipleri, 30 Kasım
+title: Microsoft Teams 30 Kasım'dan itibaren Internet Explorer 11'de çalışmayı durduracak
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004213"
 - "7406"
-ms.openlocfilehash: b9558864ea632be3a69dc8af98dc4d47e19bee30
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
-ms.translationtype: MT
+ms.openlocfilehash: 339a179e1be88d80dc9df377eb06853f9184b4305b9fd029f565ba54fd30e546
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026962"
 ---
-# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Microsoft ekipleri, 30 Kasım
+# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Microsoft Teams 30 Kasım'dan itibaren Internet Explorer 11'de çalışmayı durduracak
 
-MC225570 ile, 30 Kasım 2020 tarihinde, Microsoft ekipleri Web App artık Internet Explorer 'ı (IE) desteklememektedir. 
+Mc225570'te, 30 Kasım 2020'den itibaren Microsoft Teams web uygulaması artık Internet Explorer (IE) 11'i desteklemez. 
 
-Daha güvenli ve daha yenilikçi çevrimiçi deneyimle ilgili yeni [Microsoft kenarına](https://www.microsoft.com/edge) güncelleştirmenizi öneririz. 
+Daha güvenli ve daha yenilikçi bir çevrimiçi [Microsoft Edge](https://www.microsoft.com/edge) için yeni kullanıcı deneyimini güncelleştirmenizi öneririz. 
 
-Daha fazla bilgi için bkz: [microsoft 365 uygulamaları Internet Explorer 11 ve Windows 10 için Farewell](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)
+Daha fazla bilgi için Internet [Explorer 11 Microsoft 365 e](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) ve gün batımına Windows 10 olduğunu söylemenizi Microsoft Edge'in eski sürümü - Microsoft Tech Community
 
