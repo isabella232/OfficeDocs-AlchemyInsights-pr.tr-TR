@@ -1,5 +1,5 @@
 ---
-title: Yammer kiracınızı Yerel Modda doğrulama
+title: Yerel Yammer Yerel Modda olduğunu doğrulama
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 97deabc8abadac8d2f3e93de0b4a3f7feb0fb4d9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: de5e808de41463381972eacd3ce477bb34f7094fabc1b94e438964c350a78c0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747269"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070272"
 ---
-# <a name="verify-your-yammer-tenant-is-in-native-mode"></a>Yammer kiracınızı Yerel Modda doğrulama
+# <a name="verify-your-yammer-tenant-is-in-native-mode"></a>Yerel Yammer Yerel Modda olduğunu doğrulama
 
-Bu adım isteğe bağlıdır. Yerel Modda, tüm Yammer kullanıcıları Azure Active Directory'de (Azure AD), tüm gruplar Microsoft 365 Grupları'dır ve tüm dosyalar SharePoint Online'da depolanır. Yammer'daki özel iletilerde ve topluluk konuşmalarında riskli konuşmaları taramak ve tanımlamak için, Yammer kiracınız Yerel Modda olmalıdır.  
+Bu adım isteğe bağlıdır. Yerel Modda, Yammer tüm kullanıcılar Azure Active Directory (Azure AD), tüm gruplar Microsoft 365 Grupları olur ve tüm dosyalar SharePoint Online'da depolanır. yerel Yammer iletilerde ve topluluk konuşmalarında riskli konuşmaları taramak ve tanımlamak için iletişim uyumluluk ilkelerinin etkin olması için yerel kiracınız Yerel Modda Yammer.  
   
-Yammer'ı Yerel Modda yapılandırma hakkında daha fazla bilgi için bkz. [Microsoft 365'te Yammer](https://go.microsoft.com/fwlink/?linkid=2129829) Yerel Modu'ya Genel Bakış ve [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129772)için Yerel Mod için Yammer ağınızı yapılandırma.
+Yerel Modda yerel Yammer yapılandırma hakkında daha fazla bilgi için bkz. [Microsoft 365'de Yerel](https://go.microsoft.com/fwlink/?linkid=2129829) Mod Yammer Genel Bakış ve Yammer için Yerel Mod için Yerel [Mod'Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2129772)

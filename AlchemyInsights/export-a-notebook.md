@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000739"
 - "4709"
-ms.openlocfilehash: 51153353a62ea4643b24cb369e2727b707a80ce5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2dd837d9b71c96ae8aa03def91eae46bde4cfb6cb9f425fdbe4d7c61917bf0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813420"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100530"
 ---
 # <a name="export-a-notebook"></a>Not defterini dışarı aktarma
 
-OneNote 2016 masaüstü uygulamasında:
+Masaüstü OneNote 2016 içinde:
 
 1. Dışarı aktarmayı istediğiniz sayfada Dosya Veya Dışarı **Aktar > tıklayın.**
 2. Geçerliyi **Dışarı Aktar** altında, dışarı aktarmak istediğiniz bölüme (sayfa, bölüm veya not defteri) tıklayın.
@@ -30,4 +30,4 @@ OneNote 2016 masaüstü uygulamasında:
 Bulutta depolanan bir dosyanın sahipliğini taşımak için,  not defterlerinin içeriğini geçirmek için Paylaş veya **Taşı/Kopyala** bölüm özelliklerini de kullanabilirsiniz.  
 
 - Uygulama penceresinin sağ üst köşesinde Paylaş öğesine tıklayın veya **dokunun.**
-- Not defterini taşımak için [bkz. Başkalarla paylaştırdınız Windows için OneNote not defterini taşıma](https://support.office.com/article/move-a-onenote-for-windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4?ui=en-US&rs=en-US&ad=US).
+- Not defterini taşımak için [bkz. başka OneNote Windows not defteri](https://support.office.com/article/move-a-onenote-for-windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4?ui=en-US&rs=en-US&ad=US)için not defterini taşıma .

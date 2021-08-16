@@ -1,5 +1,5 @@
 ---
-title: Ekiplerde Toplantı kaydını silme
+title: E-postada toplantı kaydını Teams
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -8,26 +8,26 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c8e6c1bc9a64cca6bf84c13e71387629326f62f4
-ms.sourcegitcommit: dd4054a97ac9c317cb559994846a9695543ddc2c
+ms.openlocfilehash: b58ca3d72eb7e937fbc33beb87a5f47e4b6280ca845224f973189e689c33c03c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447473"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031570"
 ---
-# <a name="delete-a-meeting-recording-in-teams"></a>Ekiplerde Toplantı kaydını silme
+# <a name="delete-a-meeting-recording-in-teams"></a>E-postada toplantı kaydını Teams
 
-Kayıt sahipleri (kaydı başlatan kişi veya bu kişi tarafından adlandırılan herhangi bir ek sahip) kayıtları silebilen kişiler.  
+Kayıt sahipleri (kaydı başlatan kişi veya bu kişinin adını ek sahipler) yalnızca kayıtları silebilir.  
 
-OneDrive 'da (kanal dışı toplantılar için) Toplantı kaydını silme hakkında bilgi edinmek için  [buraya gidin](https://support.microsoft.com/office/21fe345a-e488-4fa7-932b-f053c1bebe8a).  
+Kanal dışı toplantılarda (kanal olmayan OneDrive) toplantı kaydını silme hakkında bilgi edinmek için [buraya gidin.](https://support.microsoft.com/office/21fe345a-e488-4fa7-932b-f053c1bebe8a)  
 
-SharePoint 'te (kanal toplantıları için) bir Toplantı kaydını silme hakkında bilgi edinmek için  [buraya gidin](https://support.microsoft.com/office/71f3c90a-0d24-4d80-8b66-f88234b79a52).  
+Kanal toplantılarında (kanal toplantılarında) bir SharePoint silme hakkında bilgi edinmek [için buraya gidin.](https://support.microsoft.com/office/71f3c90a-0d24-4d80-8b66-f88234b79a52)  
 
-**Önemli**
+**Önemli:**
 
-- 2021 'da, **ekip toplantısı kayıtları artık [Microsoft Stream](https://stream.microsoft.com/)'e kaydedilmeyecek**. İleriye doğru taşıma, tüm toplantı kayıtları OneDrive ve SharePoint 'e kaydedilir. Bazı kuruluşlar bu değişikliği yapmayı tercih ediyor. Bu kullanıcılar için,  [OneDrive ve SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change)  'e geçiş 2020 Ekim tarihinde başlayacaktır.
+- 2021'in Teams kaydı artık **[Microsoft Stream'e kaydedimeyecektir.](https://stream.microsoft.com/)** Daha sonra tüm toplantı kayıtları başka bir kayda OneDrive SharePoint. Bazı kuruluşlar zaten bu değişikliği yapmaya karar verdi. Bu kullanıcılar için, OneDrive [ve SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change) geçiş işlemi Ekim 2020'de başlayacaktır.
 
-**Kuruluşunuzda hala akış** kullanılıyorsa, lütfen şu yönergeleri izleyin:
+**Organizasyonunız stream kullanıyorsa** lütfen şu yönergeleri izleyin:
 
-- Ekipler 'de, yazılı mesajlaşma geçmişindeki kayda gidin ve diğer seçenekler * * * * * * * > Microsoft Stream 'de aç 'a tıklayın.
-- Microsoft Stream portalında, * * * * * * * > Sil 'e tıklayın.
+- Daha Teams sohbet geçmişinde kayda gidin ve Diğer seçenekler ******* veya Microsoft Stream'de > seçeneğine tıklayın.
+- Microsoft Stream portalında ******* veya Sil> tıklayın.

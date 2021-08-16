@@ -1,5 +1,5 @@
 ---
-title: Office 'i uzak kullanıcılara dağıtma Sihirbazı
+title: Uzak Office için dağıtma sihirbazı
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679570"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031462"
 ---
-# <a name="deploy-office-to-remote-users-wizard"></a>Office 'i uzak kullanıcılara dağıtma Sihirbazı
+# <a name="deploy-office-to-remote-users-wizard"></a>Uzak Office için dağıtma sihirbazı
 
-Artık uzakta çalışıyor, kullanıcıların iç ağınıza bağlı değilken veya kendi cihazlarını kullanırken kuruluşunuzun Office ayarlarını alması gerekir.
+Artık norm uzaktan çalıştığı için, kullanıcıların iç ağınıza bağlı değilken veya kendi cihazlarını kullanırken Office ayarlarını almaları gerekir.
 
-Özelleştirilmiş bir Office yüklemesi oluşturmak için [Office 'i uzak kullanıcılara dağıtma](https://go.microsoft.com/fwlink/?linkid=2149564) Sihirbazı 'nı kullanın ve ardından kullanıcılara Office 'i yapılandırmanızla sorunsuz bir şekilde yükleyecek bir oluşturulmuş PowerShell betiği gönderin.
+Özelleştirilmiş bir [Office Office](https://go.microsoft.com/fwlink/?linkid=2149564) oluşturmak için Uzak kullanıcılara dağıtma sihirbazını kullanın Office sonra da kullanıcılara, yapılandırmanıza uygun olarak sorunsuz bir şekilde yüklemesi için oluşturulmuş bir PowerShell Office gönderin.

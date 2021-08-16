@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 94651ca9efff3c6b7ab1ba858e092247195679f9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 55ee011c16fe9bd7a35cde1a73dd610d988f227c316f379adab0483973ab903d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070416"
 ---
 # <a name="set-up-online-services"></a>Çevrimiçi hizmetleri ayarlama
 
-Çevrimiçi hizmetleri ayarlamak için aşağıdaki adımları uygulayın:
+Çevrimiçi hizmetleri ayarlamak için aşağıdaki adımları izleyin:
 
-1. Web **sitenizin kayıtlarını ekleyin sayfasında:** a. Web **siteniz** yoksa, Sonraki'ne tıklayın. Ardından DNS ayarlarını güncelleştir **sayfasına inersiniz.**
-    b. Bir web siteniz varsa, kaydı DNS barındırma sağlayıcınızda bulun. Ardından, kopyalayıp sayfaya yapıştırın.
-2. DNS **ayarlarını** güncelleştir sayfasına gitmek **için Sonraki'ne** tıklayın.
+1. Web **siteniz için kayıtları ekleyin sayfasında:** a. Web **siteniz** yoksa, Sonraki'ne tıklayın. Ardından, DNS ayarlarını güncelleştirme **sayfasına inersiniz.**
+    b. Web siteniz varsa, kaydı DNS barındırma sağlayıcınızda bulun. Ardından, kopyalayıp sayfaya yapıştırın.
+2. DNS **ayarlarını** güncelleştirme sayfasına gitmek **için Sonraki'ne** tıklayın.

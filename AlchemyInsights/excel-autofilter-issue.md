@@ -1,5 +1,5 @@
 ---
-title: Excel otomatik filtre sorunu
+title: Excel Otomatik Filtre sorunu
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: c7d6bee548a8b7feeb5c9103c594d71754c4fc4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b50a0c2bcc72674c55938608f09de324a18433879b4126fb0e9c3314480dc180
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783391"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100566"
 ---
-# <a name="excel-autofilter-issue"></a>Excel otomatik filtre sorunu
+# <a name="excel-autofilter-issue"></a>Excel Otomatik Filtre sorunu
 
-Excel 2016 kullanırken, otomatik filtre açılan listesi tüm kullanılabilir denetim kutularını göstermiyor veya Denetim kutuları tıklatılabilir değilse, bunun nedeni Excel 'in önceki sürümlerinde bilinen bir sorun olabilir. 
+Excel 2016 kullanırken, Otomatik Filtre açılan listeniz kullanılabilen tüm onay kutularını göstermüyorsa veya onay kutuları tıklanabilir durumda değilse, bu durum Excel'in önceki derlemeleri arasında bilinen bir sorundan dolayı olabilir. 
   
-Bu sorun, **sürüm 1707 (8326,2073)** veya sonraki sürümlerde düzeltildi. Güncelleştirmeyi hemen edinmek için Excel 'i açın ve **Dosya** \> **hesabı** \> **güncelleştirme seçenekleri** \> **güncelleştirmesini şimdi**yapın.
+Bu sorun, Sürüm **1707 (8326.2073)** ve sonraki sürümlerde düzeltilmiştir. Güncelleştirmeyi hemen almak için Hesabı Aç'Excel Dosya Hesabı **Güncelleştirme Seçenekleri Şimdi** \>  \> **Güncelleştir'i** \> **seçin.**
   
 

@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: b00170a44afe8d3f2a28bb63df46c646a29f787b844b904bec3b3006fefba300
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571757"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100854"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Uygulamalar için fatura profilini düzenleme
 
-**Faturalandırma profillerini düzenleme**
+**Ödeme profillerini düzenleme**
 
-1. **Faturalandırma**  >  **[faturaları & ödemeler](https://go.microsoft.com/fwlink/p/?linkid=848039)** sayfasına gidin ve **Faturalama profilleri**'ne tıklayın.
+1. Faturalar **ve**  >  **[ödemeler &, ardından](https://go.microsoft.com/fwlink/p/?linkid=848039)** Fatura **profilleri'ne tıklayın.**
 
-2. Faturalandırma profilleri listesinde, düzenlemek istediğiniz faturalandırma profilini seçin.
+2. Fatura profilleri listesinden, düzenlemek istediğiniz fatura profilini seçin.
 
-**Uygulamalardaki faturalama profilini değiştirmek için**
+**Uygulamalarda fatura profilini değiştirmek için**
 
-1. Ürünler sayfasına gidin **ve**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** **uygulamalar** sekmesini tıklatın.
+1. Ürünlerinizi   >  **[Faturala sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054)** gidin ve Uygulamalar **sekmesine** tıklayın.
 
 2. Yönetmek istediğiniz uygulamayı bulun ve seçin.  
 
-3. **Faturalama profili**'Nin yanında **Düzenle** 'ye tıklayın ve uygulamayla ilişkilendirmek istediğiniz faturalandırma profilini seçin.
+3. Ödeme **profili'nin** yanında **Düzenle'ye** tıklayın ve uygulamayla ilişkilendirmek istediğiniz fatura profilini seçin.

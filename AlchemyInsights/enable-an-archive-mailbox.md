@@ -12,12 +12,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: d0b7125cb25d739d553bf00054fb24c84eb4cae6
-ms.sourcegitcommit: 3e2a80d0db0111f203628e7232760b3e1e3a23a0
+ms.openlocfilehash: b7274404ed5c88273af1cc6ba0f967a7d9529a6126b6dc6f5a8e9561f0b77418
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51857900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100818"
 ---
 # <a name="enable-an-archive-mailbox"></a>Arşiv posta kutusunu etkinleştirme
 
@@ -31,7 +31,7 @@ Ya da bu [bağlantıyı izleyin.](https://sip.compliance.microsoft.com/informati
 
 Paylaşılan posta kutuları için:
 
-1. Exchange yönetim [merkezine gidin ve](https://outlook.office365.com/ecp) yönetici hesabınızla oturum açın.
+1. Exchange [merkezine gidin ve](https://outlook.office365.com/ecp) yönetici hesabınızla oturum açın.
 2. Paylaşılan Alıcılar  >  **'a gidin.**
 3. Paylaşılan posta kutusunu seçin.
 4. Sağ bölmede yer alan Yerinde Arşiv'in altında Etkinleştir'e tıklayın ve sonra da arşiv posta **kutusunu** etkinleştirmek için Evet'e tıklayın. 
