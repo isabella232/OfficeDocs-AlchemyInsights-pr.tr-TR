@@ -1,5 +1,5 @@
 ---
-title: Çok faktörlü kimlik doğrulamasını etkinleştirme
+title: Multifactor Authentication'i etkinleştirme
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4de9a1baf12fad1de21af9c5739c1538e5ee7e176757fa8ce7586aa3a7f2b71f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678056"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002932"
 ---
-# <a name="enable-multi-factor-authentication"></a>Multi-Factor Authentication 'ı etkinleştirme
+# <a name="enable-multi-factor-authentication"></a>Çok faktörlü kimlik doğrulamasını etkinleştirme
 
-Microsoft 365 Yönetim merkezinde Multi-Factor Authentication 'ı etkinleştirmek için:
+Çok faktörlü kimlik doğrulamasını etkinleştirmeniz Microsoft 365 yönetim merkezi:
 
-1. **Kullanıcılar** \> **etkin kullanıcıları** sayfasına gidin.
+1. Kullanıcılar Etkin **kullanıcılar** \> **sayfasına** gidin.
     
-2. Sayfanın en üstünde **Multi-Factor Authentication**öğesini seçin. 
+2. Sayfanın üst kısmında **Multi-factor authentication öğesini seçin.** 
     
-3. Çok faktörlü kimlik doğrulaması için etkinleştirmek istediğiniz kullanıcıyı veya kullanıcıları bulun. Tüm kullanıcıları görmek için, en üstteki **Multi-Factor Authentication durum** filtresini değiştirmeniz gerekebilir.
+3. Çok faktörlü kimlik doğrulaması için etkinleştirmek istediğiniz kullanıcı veya kullanıcıları bulun. Tüm kullanıcıları görmek için, en üstte **Multi-FactorAuth durum** filtresini değiştirmeniz gerekir.
     
-4. Etkinleştirmek istediğiniz kullanıcıların yanındaki kutuyu işaretleyin.
+4. Etkinleştirmek istediğiniz kullanıcıların yanındaki onay kutusunu seçin.
     
-5.  Sağ Kullanıcı bilgileri bölmesinde, **hızlı adımlar**'ın altında **Etkinleştir**'i seçin. 
+5.  Sağ kullanıcı bilgileri bölmesinde, hızlı adımların **altında Etkinleştir'i** **seçin.** 
     
-6. Açılan iletişim kutusunda, **Multi-Factor Authentication 'ı etkinleştir**'i seçin. 
+6. Açılan iletişim kutusunda **Multi-FactorAuth'ı etkinleştir'i seçin.** 
     
 

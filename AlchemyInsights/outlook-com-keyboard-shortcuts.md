@@ -10,18 +10,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000087
-ms.openlocfilehash: b40efccdb0c38c3b24919c36983d71814a4be7c4
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 875363cc21eb62ecd77c460991e3fe9773e4ec85268eb813da3dbd13bb6bb079
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041462"
 ---
-# <a name="keyboard-shortcuts-in-outlookcom"></a>Klavye kısayolları Outlook.com
+# <a name="keyboard-shortcuts-in-outlookcom"></a>Outlook.com'da klavye kısayolları
 
-Aynı Outlook.com Gmail, Yahoo Mail veya diğer e-posta hizmetleriyle çalışmaya alışan e-posta hizmetiyle aynı klavye kısayollarını Outlook.com.
+Outlook.com'da, Gmail, Yahoo Mail veya Outlook.com gibi, üzerinde çalışmak üzere kullandığınız e-posta hizmetiyle aynı klavye kısayollarını kullanabilirsiniz.
 
-Erişilebilirlik ayarları [ayarlarına](https://go.microsoft.com/fwlink/?linkid=2080840) **gidin** 
- > **Tüm Outlook ayarlarını görüntüleme**  >  **Genel**  >  **Erişilebilirlik**) ve kullanmak istediğiniz klavye kısayollarını seçin.
+Erişilebilirlik ayarları [ve ayarlarına](https://go.microsoft.com/fwlink/?linkid=2080840) **Ayarlar** 
+ > **Tüm uygulama Outlook görüntüleme**  >  **Genel**  >  **Erişilebilirlik**) ve kullanmak istediğiniz klavye kısayollarını seçin.
 
-Klavye kısayollarının tam listesini görmek için bkz. [Outlook.com kısayolları.](https://support.microsoft.com/topic/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd)
+Klavye kısayollarının tam listesini görmek için bkz. [Outlook.com klavye kısayolları.](https://support.microsoft.com/topic/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd)

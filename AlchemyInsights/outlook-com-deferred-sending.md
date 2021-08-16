@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 'te ertelenmiş gönderme
+title: Outlook.com'da göndermeyi ertelemiş
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028768348fd81b4fecc622b94b140107b58e04110127166cab8e92ce3ab33b36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752091"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041426"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>E-posta iletileri göndermeyi geciktirme veya zamanlama
+# <a name="delay-or-schedule-sending-email-messages"></a>E-posta iletilerini göndermeyi geciktirme veya zamanlama
 
-Üzgünüz, bir mobil uygulamada veya Web tarayıcısında e-posta iletilerinin gönderilmesini Erteleyemiyorsanız veya zamanlayamıyoruz. Bunu yapmak için [Windows Için Outlook veya Mac Için Outlook](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)'u kullanın.
+Üzgünüz, ancak bir mobil uygulama veya web tarayıcısında e-posta iletilerinin gönderilmesini erteleyebilirsiniz veya zamanlayabilirsiniz. Bunu yapmak için, [Outlook veya Windows için Mac için Outlook.](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)
 
-**Göndermeyi geri al**
+**Göndermeyi geri alma**
 
-Outlook.com ayarlarınızı değiştirerek, bir iletiyi 10 saniyeye kadar erteleyebilirsiniz. Bu dönemde ileti göndermeyi iptal edebilirsiniz. Bu özelliği açmak için [geri alma gönderme](https://outlook.live.com/mail/options/mail/messageContent/undoSend) ayarlarınızı açın.
+Outlook.com ayarlarınızı 10 saniyeye kadar ileti göndermeyi geciktirmek için değiştirebilirsiniz. Bu süre içinde iletiyi göndermeyi iptal edebilirsiniz. Bu özelliği açmak için Göndermeyi geri alma [ayarlarınızı](https://outlook.live.com/mail/options/mail/messageContent/undoSend) açın.
 
-[Outlook.com 'de e-postayı geri çekme](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)hakkında daha fazla bilgi
+[Outlook.com'da e-postayı geri çekme hakkında daha fazla bilgi alın.](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)

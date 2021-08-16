@@ -1,5 +1,5 @@
 ---
-title: 973 geçiş Stalto * kuralı
+title: 973 Geçiş StalledDueTo* kuralı
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "973"
 - "3500008"
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: 5c1127878dfe2c4a2c79712eceaa9181e95c794a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 41852cb864ee3c6e9919039f9228eb5f12bbdaa7aa2ed86d2c1b654bd84c65c9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992347"
 ---
-# <a name="stalleddueto-errors-during-migration"></a>Geçiş sırasında hatalarla karşılaşırsanız
+# <a name="stalleddueto-errors-during-migration"></a>Geçiş sırasında oluşan StalledDueTo hataları
 
-"StalledDueTo..." ile başlayan çeşitli hatalar görebilirsiniz. Exchange Online 'a geçiş sırasında. Bu hataların birçoğu çok normaldir. Daha fazla bilgi için [Exchange Online geçişlerde kaynak tabanlı azaltma ve öncelik belirlemeye](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020)bakın.
+"StalledDueTo..." ile başlayan çeşitli hatalar görüyorsanız e-Exchange Online. Bu hataların birçoğu tamamen normaldir. Daha fazla bilgi için bkz. Kaynak Tabanlı Azaltma [ve Geçişlerde Kaynak Exchange Online.](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020)

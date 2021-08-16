@@ -1,5 +1,5 @@
 ---
-title: Web üzerinde Outlook 'ta 1800029 bağlantılı hesaplar desteklenmiyor
+title: 1800029 Bağlı hesaplar bu hesaplarda Web üzerinde Outlook
 ms.author: daeite
 author: daeite
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 480cb83aebe85efac51c9ca8970e1ddc9bb96e30
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c6422e74401ac03f25e588b575b439147c3d183d069ac0c579973cab326ff84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978469"
 ---
 # <a name="connected-accounts-are-no-longer-supported"></a>Bağlı hesaplar artık desteklenmiyor
 
-Microsoft, 15 Eylül 2018 ' de bağlı hesaplar özelliğini kullanarak Web üzerinde Outlook 'a yeni hesap ekleme özelliğini kaldırmıştır ve 15 Eylül 2018 ' den önce bağlanmış olan 30 Ekim 2018 tarihinde mevcut hesapları eşitlemeyi durdurur. 15 Kasım 'da, bağlı hesaplar seçeneği ( **Ayarlar** \> **posta** \> **hesapları**) Web üzerinde Outlook 'tan kaldırılacaktır.Daha fazla bilgi için bkz: [Web üzerinde Outlook 'Ta bağlı hesaplar artık desteklenmiyor (Microsoft 365 iş hesapları için)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+Microsoft, 15 Eylül 2018'de Bağlı hesaplar özelliğini kullanarak Web üzerinde Outlook'e yeni hesap ekleme özelliğini kaldırdıktan sonra, 30 Ekim 2018'de 15 Eylül 2018'den önce bağlanmış mevcut hesapları eşitlemeyi durduracak. 15 Kasım'da Bağlı hesaplar seçeneği **(Ayarlar** Posta Hesapları \>  \> ) hesaptan Web üzerinde Outlook.Daha fazla bilgi için bkz. Bağlı hesaplar artık kurumsal hesaplarda [Web üzerinde Outlook desteklenmiyor (Microsoft 365 hesapları için)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
-Diğer hesaplardan e-postayı görmeye devam etmek için: e-postayı yine de Web üzerinde Outlook 'a iletebilirsiniz. Daha fazla bilgi için bkz.:
+Diğer hesaplardan gelen e-postaları görmeye devam etmek için yine de bu hesaplardan e-postayı başka hesaplara Web üzerinde Outlook. Daha fazla bilgi için bkz.:
   
-[Outlook.com 'de otomatik yönlendirmeyi açma veya kapatma](https://go.microsoft.com/fwlink/?linkid=2038346)
+[Outlook.com'da otomatik iletmeyi açma veya kapatma](https://go.microsoft.com/fwlink/?linkid=2038346)
   
 [Gmail iletilerini otomatik olarak başka bir hesaba iletme](https://aka.ms/forward-gmail-messages)
   
-[Yahoo Mail 'de otomatik e-posta iletme](https://aka.ms/yahoo-email-forwarding)
+[Yahoo Mail'de otomatik e-posta iletme](https://aka.ms/yahoo-email-forwarding)
   

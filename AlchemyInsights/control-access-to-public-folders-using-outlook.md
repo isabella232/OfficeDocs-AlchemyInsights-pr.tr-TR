@@ -1,5 +1,5 @@
 ---
-title: Outlook'u kullanarak ortak klasörlere erişimi denetleme
+title: Klasörleri kullanarak ortak klasörlere erişimi Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: f528044ca7f6f2ee2812f9f831093c44eca26fe1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1386b97f804e63455094abf64b9d9e2541d57dafa36535813b0d7689e0ce2966
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816760"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032578"
 ---
-# <a name="control-access-to-public-folders-using-outlook"></a>Outlook'u kullanarak ortak klasörlere erişimi denetleme
+# <a name="control-access-to-public-folders-using-outlook"></a>Klasörleri kullanarak ortak klasörlere erişimi Outlook
 
-Outlook'u kullanarak ortak klasörlere hangi kullanıcıların eriş erişeni kontrol etmek için:
+Klasörleri kullanarak ortak klasörlere hangi kullanıcıların erişeni Outlook:
 
 1. Kullanım `Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true or $false`
 
-$true: Kullanıcıların Outlook'ta ortak klasörlere erişmesine izin verme  
-$false: Outlook'ta kullanıcının ortak klasörlere erişimini engelin. Bu, varsayılan değerdir.  
+$true: Kullanıcıların e-postada ortak klasörlere erişmesine izin Outlook  
+$false: Bir klasörde kullanıcının ortak klasörlere erişimini Outlook. Bu, varsayılan değerdir.  
 
 2. `Set-OrganizationConfig -PublicFolderShowClientControl $true`
 
-Not: Bu yordam yalnızca Windows istemcileri için Outlook masaüstü ile bağlantıları kontrol eder. Kullanıcılar ortak klasörlere OWA veya Mac için Outlook'u kullanarak erişmeye devam ediyor.
+Not: Bu yordam, yalnızca Outlook istemcileri için Outlook Windows denetime sahiptir. Kullanıcılar, OWA veya klasörleri kullanarak ortak klasörlere erişmeye devam Mac için Outlook.
 
-Daha fazla bilgi için bkz. [Outlook'ta Ortak Klasörlere Denetimli](https://aka.ms/controlpf) Bağlantılar.
+Daha fazla bilgi için bkz. [Denetimli Ortak Klasörlere Outlook](https://aka.ms/controlpf) Daha fazla bilgi için bkz.

@@ -1,5 +1,5 @@
 ---
-title: Fatura hesap bilgilerini güncelleştirme
+title: Fatura hesabı bilgileri nasıl güncelleştirmesi gerekir?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7316"
-ms.openlocfilehash: 3f6e0b375189526e1a6da3c4320b7d2b97507cc6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 40b5cb04f053f23549ab61ba48badcdbfdf852aeead8fbda8a94e6e5184a3e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679498"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015352"
 ---
-# <a name="how-to-update-billing-account-information"></a>Fatura hesap bilgilerini güncelleştirme
+# <a name="how-to-update-billing-account-information"></a>Fatura hesabı bilgileri nasıl güncelleştirmesi gerekir?
 
-Ücreti olan hizmetleri satın almadan önce, kuruluşunuzun iş adresini, e-posta adresini ve kişi adını eklemeniz veya güncelleştirmeniz gerekir.
+Ücreti olan hizmetleri satın almadan önce, kuruluşun iş adresini, iletişim e-posta adresini ve kişi adını eklemeniz veya güncelleştirmeniz gerekir.
 
-İş adresini kullanarak satış VERGISINI ve KDV 'yi hesaplayın. VERGI/KDV numaranızı güncelleştirmek istiyorsanız, Microsoft Müşteri sözleşmenizin fatura hesabı sahibi aşağıdaki adımları izleyerek bunu yapabilir:
+İş adresini satış VERGIsini ve KDV'yi hesaplamak için kullanıruz. VERGI/KDV numaranızı güncelleştirmek için Microsoft müşteri sözleşmenizin fatura hesabı sahibi aşağıdaki adımları takip edinerek bunu gerçekleştirebilirsiniz:
 
-**Fatura hesap bilgilerini güncelleştirmek ve VERGI kimliğinizi güncelleştirmek için**:
+**Fatura hesabı bilgilerini güncelleştirmek ve VERGI Numaranızı güncelleştirmek için:**
 
-1. [İş Için Microsoft Mağazası](https://businessstore.microsoft.com/)'nda oturum açın.
-1.   >  **Faturalandırma hesaplarını** Yönet 'i tıklatın.
-1. **Genel bakış**'dan **faturalandırma hesabı bilgilerini düzenle**'yi tıklatın.
-1. Güncelleştirmelerinizi yapın ve sonra **Kaydet**'e tıklayın. 
+1. Oturum açma [İş İçin Microsoft Store.](https://businessstore.microsoft.com/)
+1. Fatura **hesaplarını**  >  **yönet 'e tıklayın.**
+1. Genel **Bakış 'tan** Fatura **hesabı bilgilerini düzenle'ye tıklayın.**
+1. Güncelleştirmelerinizi alın ve Kaydet'e **tıklayın.** 
 
 **Önerilen belgeler**
 
-- [MCA faturaınızı anlama](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
+- [MCA faturanızı anlama](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
 
-- [Azure faturanızın vergi belgelerini görüntüleme ve indirme](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
+- [Azure faturanız için vergi belgelerini görüntüleme ve indirme](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
 
-- [Faturalandırma hesabı ayarlarını güncelleştirme](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Fatura hesabı ayarlarını güncelleştirme](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

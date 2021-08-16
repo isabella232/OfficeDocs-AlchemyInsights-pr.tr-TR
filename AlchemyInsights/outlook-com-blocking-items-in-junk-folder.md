@@ -1,5 +1,5 @@
 ---
-title: Gereksiz e-posta klasöründeki öğeleri engelleme
+title: Gereksiz E-posta klasöründe öğeleri engelleme
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2682"
-ms.openlocfilehash: 7f372a623ead564a341e0b4abc0c26ffa6148f15
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e19036bfbcae2e79833d90ab3bb2ab2f1b308f21569c89a8c3ab2ac321c4214a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753423"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025090"
 ---
-# <a name="blocking-items-in-your-junk-email-folder"></a>Gereksiz e-posta klasörünüzdeki öğeleri engelleme
+# <a name="blocking-items-in-your-junk-email-folder"></a>Gereksiz E-posta klasörünüzdeki öğeleri engelleme
 
-Gereksiz e-posta klasörünüzde bulunan bir öğenin engellenmesi bunu siler. [Gereksiz e-posta klasörünüzdeki](https://outlook.live.com/mail/junkemail) öğeler 30 gün sonra otomatik olarak silinir. Ne zaman silineceğini görmek için gereksiz e-posta klasörünüzdeki bir öğeyi seçin.
+Zaten Gereksiz E-posta klasörünüzdeki bir öğeyi engellemek, o öğeyi siler. Gereksiz [E-posta klasörünüzdeki öğeler](https://outlook.live.com/mail/junkemail) 30 gün sonra otomatik olarak silinir. Ne zaman silineceklerini görmek için Gereksiz E-posta klasörünüzden bir öğe seçin.
 
-[Gönderenleri engelleme veya e-postayı gereksiz olarak işaretleme](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)hakkında daha fazla bilgi edinin.
+Gönderenleri engelleme veya [e-postaları gereksiz olarak işaretleme hakkında daha fazla bilgi alın.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)
