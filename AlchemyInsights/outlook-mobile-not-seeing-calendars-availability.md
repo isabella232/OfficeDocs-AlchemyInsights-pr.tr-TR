@@ -1,5 +1,5 @@
 ---
-title: Outlook Mobile kullanılabilirlik 'i seçerken takvimleri görmüyor
+title: Outlook Uygunluk durumu seçerken mobilde takvimleri görmüyor
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3070"
 - "9001109"
-ms.openlocfilehash: e0523100caead474b63ef8ddfcd4622ccbd3669c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 150d0f470571a5e78124634f190ea61f2c5debbd13925af133c83b351bb6c6f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721858"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000340"
 ---
-# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Durumumu seçerken beklediğim takvimleri göremiyorum
+# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Uygunluk durumumı seçerken bekley görüştüğüm takvimleri bu değilim
 
-İstediğiniz takvimleri görmüyorsanız, takvim 'e gidin, ekranın sol üst köşesindeki menü düğmesine dokunun ve görmeyi düşündüğünüz takvimlerin seçildiğinden emin olun. Uygunluk için saat seçerken yalnızca bu menüdeki takvimler etkinleştirilir.
+Beklediğiniz takvimleri görmüyorsanız Takvim'e gidin, ekranın sol üst köşesindeki menü düğmesine dokunun ve görmeyi beklediğiniz takvimlerin seçili olduğundan emin olun. Uygunluk Durumunu Gönder için zaman seçerken yalnızca bu menüde etkin olan takvimler görüntülenir.

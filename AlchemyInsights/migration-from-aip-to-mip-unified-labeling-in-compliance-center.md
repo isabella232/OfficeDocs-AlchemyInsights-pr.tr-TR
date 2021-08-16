@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825391"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000386"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Uyumluluk Merkezi'nde AIP'den MIP/Birleşik Etiketleme'ye geçiş
 
@@ -25,11 +25,11 @@ Güvenlik ve Uyumluluk Merkezi'nde AIP etiketlerinden Birleşik Etiketleme'ye ge
 
 **Azure portaldan korumayı etkinleştirme**
 
-1. Henüz açmadısanız yeni bir tarayıcı penceresi açın ve [Azure portalında oturum açın.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) **Azure Information Protection blade'a** gidin. Örneğin, hub menüsünde Tüm **hizmetler'e tıklayın ve** Filtre **kutusuna Bilgi** yazmaya başlayın. **Azure Information Protection öğesini seçin.** Azure Information Protection blade'e daha önce erişemediysanız [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) bu blade'i portala eklemek için tek seferlik ek adımlara bakın. Azure Information Protection blade'i açmak için, [bir Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) planınız veya Hak Yönetimi içeren bir Office 365 planınız olması gerekir. Bu aboneliklerden birini kullanıyorsanız ancak geçerli bir aboneliğin buluna olmadığını haber veren bir ileti görüyorsanız [Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) Desteği'ne başvurun veya standart destek kanallarınızı kullanın.
+1. Henüz açmadısanız yeni bir tarayıcı penceresi açın ve [Azure portalında oturum açın.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) **Azure Information Protection blade'a** gidin. Örneğin, hub menüsünde Tüm **hizmetler'e tıklayın ve** Filtre **kutusuna Bilgi** yazmaya başlayın. **Azure Information Protection öğesini seçin.** Azure Information Protection blade'e daha önce erişemediysanız [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) bu blade'i portala eklemek için tek seferlik ek adımlara bakın. Azure Information Protection blade'i açmak için, [Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) planınız veya Hak Yönetimi Office 365 içeren bir Office 365 planınız olması gerekir. Bu aboneliklerden birini kullanıyorsanız ancak geçerli bir aboneliğin buluna olmadığını haber veren bir ileti görüyorsanız [Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) Desteği'ne başvurun veya standart destek kanallarınızı kullanın.
 
 2. Yönet menü **seçeneklerini** bulun ve Koruma **etkinleştirme'yi seçin.** **Etkinleştir'e** tıklayın ve ardından eyleminizi onaylayın. Etkinleştirme tamamlandığında, bilgi çubuğunda Etkinleştirme başarıyla **tamamlandı olarak görüntülenir.**
 
-**Azure Information Protection etiketlerini Office 365 Güvenlik ve Uyumluluk & geçirme**
+**Azure Information Protection etiketlerini Güvenlik ve uyumluluk Office 365'& geçirme**
 
 1. Genel Yönetici izni olan bir kullanıcı olarak oturum açtığınızdan emin olun.
 
