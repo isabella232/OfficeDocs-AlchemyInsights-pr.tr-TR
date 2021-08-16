@@ -1,5 +1,5 @@
 ---
-title: Windows Update hatalarını düzeltme
+title: Güncelleştirme Windows düzeltme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6e90c0ba8a8cbe79838e1f49cd7049bf3e24e985d371ee1462d50e47834cdac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812664"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068292"
 ---
-# <a name="fix-windows-update-errors"></a>Windows Update hatalarını düzeltme
+# <a name="fix-windows-update-errors"></a>Güncelleştirme Windows düzeltme
 
-Windows Update'i indirir ve yüklerken bir hata kodu alırsanız, **Güncelleştirme Sorun Gidericisi** sorunu çözmeye yardımcı olabilir.
+Güncelleştirme güncelleştirmesini indirir ve yüklerken bir hata Windows, **Güncelleştirme** Sorun Gidericisi sorunun çözümüne yardımcı olabilir.
 
-- [Windows 10 için Güncelleştirme Sorun Gidericisi'ni indirin](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Sorun gidericiyi çalıştırın. Bitirdikten sonra, en iyisi cihazınızı yeniden başlatmaktır. Ardından, Windows Update'de Ayarlar ve Güncelleştirme [>'> Başlat'a & > gidin.](ms-settings:windowsupdate)
+- [Sorun Gidericisi'ni Yükleme Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Sorun gidericiyi çalıştırın. Bitirdikten sonra, en iyisi cihazınızı yeniden başlatmaktır. Ardından, Güncelleştirme ve Güvenlik Güncelleştirmelerini [Başlat'a > Ayarlar > ve yeni & > Windows kontrol edin.](ms-settings:windowsupdate)
 
-Bu bilgiler yine de işe yaramadı mı? Daha fazla bilgi için [lütfen Windows Update: SSS](https://support.microsoft.com/help/12373/windows-update-faq) bölümünü inceleyin.
+Bunlar yine de işe yaramadı mı? Daha fazla bilgi için [Windows: SSS](https://support.microsoft.com/help/12373/windows-update-faq) bölümünü inceleyin.

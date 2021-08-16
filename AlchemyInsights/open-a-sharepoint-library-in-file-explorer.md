@@ -1,5 +1,5 @@
 ---
-title: Dosya Gezgini 'nde SharePoint kitaplığını açma
+title: Dosya Gezgini SharePoint te dosya kitaplığı açma
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: b47bbec23a6e96559d5ed516b9470c36fa06335a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4bdf4b5975095bf35808a78ec301c375b5744df49b685e033406a38151141597
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729099"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025270"
 ---
-# <a name="open-a-sharepoint-library-in-file-explorer"></a>Dosya Gezgini 'nde SharePoint kitaplığını açma
+# <a name="open-a-sharepoint-library-in-file-explorer"></a>Dosya Gezgini SharePoint te dosya kitaplığı açma
 
-1. Internet Explorer 10 veya Internet Explorer 11 ' de kitaplığa göz atın. 
+1. Internet Explorer 11'Internet Explorer 10 kitaplığına gidin. 
     
-2. Sağ üstteki görünüm simgesine tıklayın ve ardından **Dosya Gezgini 'Nde görüntüle**'ye tıklayın.
+2. Sağ üstteki Görünüm simgesine ve sonra Dosya **Gezgini'nde Görüntüle'ye tıklayın.**
     
 > [!NOTE]
-> Bir kitaplığı dosya Gezgini 'nde açmak, birden çok dosya ve klasörü bir kez kopyalamanız veya taşımanız gerekiyorsa kullanışlıdır, ancak kitaplıkta düzenli olarak çalışmak istiyorsanız, eşitlemeyi öneririz. Dosya Gezgini 'nde açma sorunlarını gidermek için [, bkz.](https://go.microsoft.com/fwlink/?linkid=871665) Eşitlemeyi ayarlama hakkında bilgi için, [SharePoint dosyalarını yeni OneDrive eşitleme Istemcisiyle eşitleme](https://go.microsoft.com/fwlink/?linkid=871666)bölümüne bakın. 
+> Birden çok dosya ve klasörü bir kez kopyalamanız veya taşımanız gerekirse, Dosya Gezgini'nde bir kitaplığı açmak kullanışlıdır, ancak kitaplıkta düzenli olarak çalışmak için kitaplığı eşitlemenizi öneririz. Dosya Gezgini'nde açma sorunlarını gidermek için bkz. [Explorer'da Aç](https://go.microsoft.com/fwlink/?linkid=871665). Eşitlemeyi ayarlama hakkında daha fazla bilgi için [bkz. SharePoint dosyaları yeni OneDrive eşitleme istemciyle eşitleme](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

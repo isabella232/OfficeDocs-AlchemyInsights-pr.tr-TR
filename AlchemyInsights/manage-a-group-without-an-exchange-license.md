@@ -1,5 +1,5 @@
 ---
-title: Exchange lisansı olmadan grubu yönetme
+title: Grup yönetme Lisansı Exchange yönetme
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: 8a02362eb716e7e879deae7392d86ccc9f10ce5c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 949c37b035a85dd9996a741da73eb2e8a0dbfdcfc7dcef3905aa78e5759404e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796092"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099090"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>Exchange lisansı olmadan grubu yönetme
+# <a name="manage-a-group-without-an-exchange-license"></a>Grup yönetme Lisansı Exchange yönetme
 
-Yönetici hesabınızda posta kutusu yoksa, bir Microsoft 365 grubunu düzenlemeye çalıştığınızda eksik bir ürün lisansıyla ilgili bir hata alabilirsiniz.
+Yönetici hesabınızla ilgili posta kutusu yoksa, Grup Oluşturma Grubu'nda düzenlemeye çalışsanız bile eksik ürün lisansıyla ilgili bir Microsoft 365 alabilirsiniz.
   
-Kiracı yöneticisi olduğunuzdan, Exchange lisansınız olmasa bile bir grubu düzenlemeniz olasıdır. Microsoft 365 grubunu yönetmek için [Exchange Yönetim Merkezi](https://outlook.office365.com/ecp.aspx) \> **gruplarına** gidin.
+Kiracı yöneticisi sizseniz, bir Grup düzenleme lisansınız olmasına rağmen grubu Exchange. Yeni Yönetim [Exchange yönetmek için](https://outlook.office365.com/ecp.aspx) \> **Yönetim** Merkezi Grupları'Microsoft 365 gidin.
   
-Yönetim merkezinde grupları düzenlemek istiyorsanız, yönetici hesabınıza bir Exchange lisansı ekleyin. Bir grubu düzenleyebilmeniz için posta kutusu tam olarak oluşturulana kadar beklemeniz gerekir.
+Grupları yönetim merkezinde düzenlemek için yönetici hesabınıza bir Exchange lisans ekleyin. Grubu düzenleyinceye kadar posta kutusunun tümüyle oluşturulmayı beklemeniz gerekir.
   

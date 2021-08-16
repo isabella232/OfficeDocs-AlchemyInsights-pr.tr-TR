@@ -1,5 +1,5 @@
 ---
-title: Yeni Office 365 E1 Deneme Sürümü
+title: Yeni Office 365 E1 Denemesi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: fc2f20488e55f73ed2437220d3fd56ff64848450
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 53be3bad8018b434bdac15ea953d3ccf5a83f59377f19bb2441247ee4892e26c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825211"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025450"
 ---
-# <a name="new-office-365-e1-trial"></a>Yeni Office 365 E1 Deneme Sürümü
+# <a name="new-office-365-e1-trial"></a>Yeni Office 365 E1 Denemesi
 
-1 Temmuz 2020'den sonra, Office 365 E1 Deneme lisansı artık kullanılamaz. Microsoft Teams'de kullanıcılara lisanslamanız gerekirse, Teams içeren ücretli aboneliklerin listesi için [Microsoft Teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) hizmet açıklamasını okuyun. Alternatif olarak, uygun kuruluşlar [Teams'in Ücretsiz sürümünü](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)kullanabilir veya çalışanlar Teams Araştırmacı deneyimini [etkinleştirecektir.](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory)
+1 Temmuz 2020'den Office 365 E1 Deneme lisansı artık kullanılamaz. Kullanıcılara lisans Microsoft Teams, Microsoft Teams abonelikleri içeren [](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) ücretli aboneliklerin listesi için aşağıdaki hizmet Teams. Alternatif olarak, uygun kuruluşlar [Teams'in](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)Ücretsiz sürümünü kullanabilir veya çalışanlar keşif [Teams etkinleştir](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) olabilir.

@@ -1,5 +1,5 @@
 ---
-title: 1264 IP çok fazla istenmeyen posta göndermek için engellendi (550 5.7.51)
+title: 1264 IP çok fazla istenmeyen posta gönderdiği için engellendi (550 5.7.51)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 1a80c9faf463f4bd2e96d9b7f7cc62fdd4b4fad3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64d8d9588b8ed7d394e6e359d48bf941cbff26e93e0f8ea284bf3b6688400b3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695849"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099270"
 ---
-# <a name="access-denied-banned-sender"></a>Erişim reddedildi, yasaklanmış Gönderen
+# <a name="access-denied-banned-sender"></a>Erişim reddedildi, yasaklanmış gönderen
 
- **Hata**: uzak sunucudan alış irsaliyesi için SMTP hatası, Host: *xxxx*-com.mail.Protection.Outlook.com (*xxx.xxx.xxx.xxx*) neden: 550 5.7.511 Access reddedildi, yasaklanmış Gönderen [*xx.xxx.x.xxx*]. 
+ **Hata:** RCPT TO komutu için uzak sunucudan SMTP hatası, ana bilgisayar: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) neden: 550 5.7.511 Erişim reddedildi, yasaklanmış gönderen [*xx.xxx.x.xxx*]. 
 
-Bir Microsoft 365 alıcısına e-posta gönderirken bu hatayı alıyorsanız, etkilenen Gönderenler listesinden etkilenen hesabı kaldırın [https://sender.office.com](https://sender.office.com) .
+Alıcıya e-posta gönderirken bu hatayı Microsoft 365, etkilenen hesabı 'da engellenen gönderenler listesinden [https://sender.office.com](https://sender.office.com) kaldırın.

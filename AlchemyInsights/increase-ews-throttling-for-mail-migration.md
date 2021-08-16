@@ -1,5 +1,5 @@
 ---
-title: Posta geçişi için EWS azaltma sınırlarını arttırma
+title: Posta geçişi için EWS azaltma sınırlarını artırma
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "2691"
 - "3500008"
 ms.assetid: ''
-ms.openlocfilehash: 88b739e5e59ada7fb33cfc076181ba397af21f4c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24194ccb4ef4d981001ebf1c0c911eb881a53a5f178529b783ee9114af944e90
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730035"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099378"
 ---
-# <a name="increase-ews-throttling-limits-for-mail-migration"></a>Posta geçişi için EWS azaltma sınırlarını arttırma
+# <a name="increase-ews-throttling-limits-for-mail-migration"></a>Posta geçişi için EWS azaltma sınırlarını artırma
 
-E-posta geçişi için kiracınızın EWS azaltma sınırlarını artırdığınızda, lütfen ilerleyin ve destek bileti açın.
+Kiracınıza e-posta geçişi için EWS azaltma sınırlarını artırmak için devam edin ve bir destek bileti açın.
