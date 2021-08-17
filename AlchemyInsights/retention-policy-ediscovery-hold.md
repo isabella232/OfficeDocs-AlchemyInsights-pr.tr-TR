@@ -1,5 +1,5 @@
 ---
-title: 2609-bekletme veya eBulma
+title: 2609-bekletme-veya-ediscovery-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: dee208560e7576597e20aec897f42432d7973727
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3aa158f5f84d3de018f9949ed0123fafec5bbecd7d4c18a3cef8af7fe738d78c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727911"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074844"
 ---
-# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>SharePoint Online veya OneDrive Iş 'te öğeler silinemiyor
+# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>SharePoint Online veya OneDrive İş'de öğeler silinemiyor
 
-Siz veya kullanıcılarınız SharePoint Online veya OneDrive Iş 'te öğeleri silemeyebilir, çünkü bir bekletme ilkesi, bekletme etiketi veya eBulma saklama, OneDrive sitesine veya belirli bir öğeye uygulanır. Bu, belge, belge sürümü, klasör, belge kitaplığı, liste, uygulama, site veya site koleksiyonu silememesini içerir. 
+SharePoint Online veya OneDrive İş sitesinde bir bekletme ilkesi, bekletme etiketi veya eBulma bekletme bir SharePoint sitesine veya belirli bir öğeye uygulandığı için siz veya kullanıcılarınız öğeleri OneDrive silemezsiniz. Bu durum belgeyi, belge sürümünü, klasörü, belge kitaplığını, listeyi, uygulamayı, siteyi veya site koleksiyonunu silemez. 
 
-Bu senaryolardan birindeki öğeleri silmek için, bekletme ilkesinin, bekletme etiketinin veya eBulma tutmanın kaldırılması (veya bir sitenin bekletme ilkesinden dışlanmak zorunda olması). Bu soruna neden olan ilgili tutmayı devre dışı bırakmanız veya dışarıda bırakmanız gerekir. Bekletme ilkesi veya tutma kaldırıldıktan sonra, değişikliğin geçerlilik kazanması 24 saate kadar sürebilir. 
+Bu senaryolardan birdeki öğeleri silmek için bekletme ilkesi, bekletme etiketi veya eBulma saklamanın kaldırılması gerekir (veya bir site bekletme ilkesinden çıkarılmalıdır). Bu soruna neden olan ilgili tutma özelliğini devre dışı bırakmanız veya dışarıda bırakmanız gerekir. Bekletme ilkesi veya saklama kaldırıldıktan sonra, değişikliğin etkili bir şekilde kaldırılması 24 saate kadar sürebilir. 
 
-SharePoint sitelerine ve OneDrive hesaplarına uygulanabilen farklı bekletme ve tutma özellikleri hakkında bilgi için aşağıdaki konulardan birine bakın.
+Sitelere ve hesaplara uygulanıyor farklı bekletme ve saklama SharePoint hakkında OneDrive için, aşağıdaki konulardan birini ziyaret edin.
 
 - [Bekletme ilkelerine genel bakış](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
 - [Bekletme etiketlerine genel bakış](https://docs.microsoft.com/microsoft-365/compliance/labels)
-- [Gelişmiş eBulma 'da saklamaları yönetme](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
-- [eBulma tutuyor](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- [Aynı anda 12 Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
+- [eKbulma 1](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 - [Eski site kapatma ve silme ilkeleri](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)

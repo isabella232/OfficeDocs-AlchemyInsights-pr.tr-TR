@@ -1,5 +1,5 @@
 ---
-title: Windows 10 cihazlarını yapılandırmak için Microsoft Intune güvenlik temellerini kullanma
+title: Cihazları Microsoft Intune için güvenlik taban çizgilerini Windows 10 kullanma
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004135"
 - "7211"
-ms.openlocfilehash: 24257f1ac5752df1598d08fcfdb95ee2642adfea
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: a94c6b72df3874ee80413adac86d60306175734b6ff28b2e015e05eec6f3838b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573785"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104364"
 ---
-# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Windows 10 cihazlarını yapılandırmak için Microsoft Intune güvenlik temellerini kullanma
+# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Cihazları Microsoft Intune için güvenlik taban çizgilerini Windows 10 kullanma
 
-Intune güvenlik temelleri, kullanıcıları ve cihazları korur. Güvenlik temelleri, bilinen bir ayar grubunu uygulamak için kullanılan önceden yapılandırılmış gruplar ve ilgili güvenlik ekipleri tarafından önerilen varsayılan değerleri, Windows ayarları 'nı uygulamak için kullanılır. Intune 'da bir güvenlik temel profili oluşturarak, birden çok cihaz yapılandırma profilinden oluşan bir şablon oluşturacaksınız.
+Intune güvenlik taban çizgisi, kullanıcıları ve cihazları korumaya yardımcı olur. Güvenlik taban Windows, bilinen bir grup ayarın ve ilgili güvenlik ekipleri tarafından önerilen varsayılan değerlerin kullanılması için kullanılan, ayarların önceden yapılandırılmış gruplarıdır. Intune'da güvenlik taban çizgisi profili oluşturarak, birden çok cihaz yapılandırma profili içeren bir şablon oluşturabilirsiniz.
 
-Güvenlik temellerini Kullanıcı veya cihaz gruplarına dağıtırken, ayarlar Windows 10 veya üstünde çalışan cihazlara uygulanır. Örneğin, MDM güvenlik temeli otomatik olarak (1) çıkarılabilir sürücüler için BitLocker 'ı, (2) cihazın kilidini açmak için parola gerektirir ve (3) temel kimlik doğrulamasını devre dışı bırakır. Varsayılan bir değer ortamınızda çalışmazsa, ihtiyacınız olan ayarları uygulamak için taban çizgisini özelleştirin.
+Kullanıcı veya cihaz gruplarına güvenlik taban çizgilerini dağıtıyorken, ayarlar daha sonra veya birden çok Windows 10 uygulanır. Örneğin, MDM Güvenlik Temeli (1) çıkarılabilir sürücüler için BitLocker'ı otomatik olarak etkinleştirir, (2) cihazın kilidini açmak için parolayı gerektirir ve (3) temel kimlik doğrulamayı devre dışı bırakır. Ortamınıza bir varsayılan değer çalışmazsa, ihtiyacınız olan ayarları uygulamak için temeli özelleştirin.
 
-Güvenlik temelleri, Microsoft 365 'da uçtan uca güvenli bir iş akışı oluşturmaya da yardımcı olur. Aşağıda, bunun avantajları verilmiştir:
+Güvenlik taban çizgisi, aynı zamanda iş akışlarında uç- uç güvenli iş akışı Microsoft 365. Aşağıdaki avantajlardan bazılarıdır:
 
-- Güvenlik temeli, güvenliği etkileyen ayarlar için en iyi yöntemleri ve önerileri içerir. Intune, Grup ilkeleri için taban çizgileri oluşturan Windows Güvenlik ekibinden gelen iş ortakları nedeniyle, bu öneriler düz kılavuza ve kapsamlı deneyimlere dayanır.
-- Intune 'a yeni bağlıysanız ve nereden başlayacağınızı bilmiyorsanız, güvenlik temelleri hızlı bir şekilde güvenli bir profil oluşturup dağıtmanızı sağlayacaktır.
-- Şu anda bir grup ilkesi kullanıyorsanız, yönetim amaçları için Intune 'a geçirmek, güvenlik temelleriyle çok daha kolaydır çünkü bu, Intune 'da yerleşik olmaları ve yönetim için uçtan uca özellikler içermektedir.
+- Güvenlik temeli, güvenliği etkileyen en iyi yöntemleri ve ayarların önerilerini içerir. Intune, grup ilkeleri için taban Windows oluşturan güvenlik ekibiyle ortak olduğundan, bu öneriler sağlam kılavuza ve kapsamlı deneyime dayalıdır.
+- Intune'da yeniyseniz ve nereden başlayacağınıza emin değilseniz, güvenlik taban çizgisi hızla güvenli bir profil oluşturmanıza ve dağıtmanıza yardımcı olur.
+- Şu anda bir grup ilkesi kullanıyorsanız, güvenlik taban çizgileriyle Intune'da yerleşik olarak olduğundan ve yönetim için en yeni özellikleri içermelerine neden olduğundan, yönetim amacıyla Intune'a varma işlemi çok daha kolaydır.
 
-Daha fazla bilgi edinmek için [Windows güvenlik temelleri](https://go.microsoft.com/fwlink/?linkid=2141503) ve [mobil cihaz yönetimi](https://go.microsoft.com/fwlink/?linkid=2141701)'ne bakın.
+Daha fazla bilgi edinmek için [bkz. Windows temelleri ve](https://go.microsoft.com/fwlink/?linkid=2141503) [Mobil cihaz yönetimi.](https://go.microsoft.com/fwlink/?linkid=2141701)

@@ -1,5 +1,5 @@
 ---
-title: Delve 'de Kullanıcı profillerini yönetme
+title: Kullanıcı profillerini e-posta Delve
 ms.author: ponincev
 author: pebaum
 ms.date: 04/21/2020
@@ -9,28 +9,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 38f209e37ff8a5694ae59f7b7b85e1d439d88a3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bcd7b20d847492d1f516878fd52dc2a6798b6b2afa90edea8eb4e460834a4eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042218"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Delve 'de Kullanıcı profillerini yönetme
+# <a name="manage-user-profiles-in-delve"></a>Kullanıcı profillerini e-posta Delve
 
-Office Delve kullanıcıların kullanıcı profillerini yönetmesine olanak tanır. Kullanıcılar:
+Office Delve, kullanıcıların kendi kullanıcı profillerini yönetmelerine olanak sağlar. Kullanıcılar şunları şunları olabilir:
   
 - Bilgilerini görüntüleme ve güncelleştirme
     
-- Bazı bilgileri özelleştirme
+- Bazı bilgileri gizli tutma
     
-- Profillerini veya kapak resmini değiştirme
+- Profil veya kapak resmini değiştirme
     
-- Delve için dil ve saat biçimini değiştirme
+- E-postanın dil ve saat biçimini Delve
     
 > [!NOTE]
-> Bir Kullanıcı profil resmini güncelledi ve değişiklik SharePoint veya OneDrive 'da görünmüyorsa, bir Web tarayıcısı açmasını isteyin, [Office.com adresine gidin](https://www.office.com), iş veya okul hesabıyla oturum açın ve ardından OneDrive veya SharePoint kutucuğunu tıklatın. Bu, profil resminin eşitlenmesini isteyecek. Kullanıcının tarayıcısının özel sürümüyle bu adımları tamamlamayı denemeniz gerekebilir. 
+> Kullanıcı profil resmini güncellemişse ve değişiklik SharePoint veya OneDrive'te görünmüyorsa, web tarayıcısını açmasını, [Office.com](https://www.office.com)adresine gidip iş veya okul hesabıyla oturum açmasını ve ardından OneDrive veya SharePoint kutucuğuna tıklayın. Bu, profil resminin eşitlenimlerini sağlar. Kullanıcının bu adımları tarayıcının Özel sürümü ile tamamlamayı denemesi gerekiyor olabilir. 
   
-[Delve 'de profilleri güncelleştirme hakkında daha fazla bilgi edinin](https://go.microsoft.com/fwlink/?linkid=735070)
+[E-Delve'de profilleri güncelleştirme hakkında daha fazla Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

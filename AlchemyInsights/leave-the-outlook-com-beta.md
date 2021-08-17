@@ -1,5 +1,5 @@
 ---
-title: 8000035 Outlook.com beta sürümü
+title: 8000035 Outlook.com beta sürümünden ayrılma
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -19,18 +19,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 1ff3fb4bd0397682aac7825383c53e02f94b7e2d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b481f343a0a25e740a09b387fcdf685fc4f719e9d08d0af2c885f7441ff1b23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676362"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042866"
 ---
 # <a name="the-new-outlookcom"></a>Yeni Outlook.com
 
-Outlook.com beta sürümünü bırakıp Outlook.com 'ın klasik sürümüne dönmek mümkün değildir.
+Outlook.com beta sürümünden ayrılarak Outlook.com'un klasik sürümüne dönmek artık mümkün değildir.
   
-Yeni Outlook.com hakkında bildirimde bulunmak istiyorsanız, [UserVoice forumuna](https://go.microsoft.com/fwlink/p/?linkid=851599)gidin. Adreslenen görmek istediğiniz fikirleri veya sorunları oylayabilirsiniz ve doğrudan en üstteki açıklamalara ve önerilere yanıt verelim.
+Yeni uygulama.com hakkında geri bildirim Outlook, [UserVoice forumuna gidin.](https://go.microsoft.com/fwlink/p/?linkid=851599) Üzerinde değinilen fikirlere veya sorunlara oy ve oylamaya gerek yok, biz de doğrudan en çok oy alan yorumları ve önerileri yanıtlaacağız.
   
-[Yeni Outlook.com hakkında daha fazla bilgi edinin.](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[Yeni web Outlook.com hakkında daha fazla bilgi edinebilirsiniz.](https://go.microsoft.com/fwlink/p/?linkid=874356)
   

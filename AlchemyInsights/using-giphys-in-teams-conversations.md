@@ -1,5 +1,5 @@
 ---
-title: Gıfın ekip konuşmalarını kullanma
+title: Konuşmalarda Giphy'Teams kullanma
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 2fc29974bff9484c226c9651b9b000a89cad14dc
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982574"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104328"
 ---
-# <a name="using-giphys-in-teams-conversations"></a>Gıfın ekip konuşmalarını kullanma
+# <a name="using-giphys-in-teams-conversations"></a>Konuşmalarda Giphy'Teams kullanma
 
-Ekipler sohbetinde gifiziksel erişim varsayılan olarak etkinleştirilmiştir. Yönetici olarak, [bir mesajlaşma ilkesi ayarlayarak](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) ve **gifin konuşmaların** **Açık** olduğundan emin olmak için gıas kullanıcıları tarafından kullanılabilir olup olmadığını denetleyebilirsiniz.
+Sohbette Giphys Teams varsayılan olarak etkindir. Yönetici olarak, bir ileti ilkesi ayarp Görüşmelerde [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) Giphy kullanımı ayarının Açık olduğu hakkında bilgi sağlayarak, kullanıcıları **Giphys'in kullanııp kullanamaya olduğunu** kontrol **etmek için kullanabilirsiniz.**
 
-Gelen GIF 'Ler ekip konuşmalarında beklendiği gibi çalışmıyorsa aşağıdakileri doğrulayın:
+Bu görüşmelerde GIF'ler beklendiği gibi Teams, şunları doğrulayın:
 
-[Mesajlaşma ilkesi](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) , gifiziksel. PowerShell cmdlet 'lerini kullanarak doğrulamak için:
+[Giphys'e](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) izin vermek için ileti ilkesi gerekir. PowerShell cmdlet'lerini kullanarak doğrulamak için:
 
-- [PowerShell Ile takımları yönetebildiğinizi](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell)doğrulayın.
-- [Get-CsTeamsMessagingPolicy-Identity genel](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) PowerShell komutunu çalıştırarak, **Allowgiphy** 'ın **true** olarak ayarlandığını doğrulayın.
-- **Allowgiphy** **yanlış** olarak ayarlanmışsa, aşağıdaki PowerShell komut [kümesi-CsTeamsMessagingPolicy-Identity Global-allowgıphy $true](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
+- [Teams'i PowerShell ile yönetenizi doğrulayın.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell)
+- [Get-CsTeamsMessagingPolicy -Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) PowerShell komutunu çalıştırın ve **AllowGiphy'in** TRUE olarak ayar olduğunu **doğrulayın.**
+- **AllowGiphy** **YANLIŞ** olarak ayarlanırsa, aşağıdaki PowerShell komutunu [Set-CsTeamsMessagingPolicy -Identity Global -AllowGiphy $True.](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps)
 
-Giphy URL 'ye erişime izin vermek için [Isteğe bağlı bağlantılı deneyimlerin](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) etkinleştirilmesi gerekir.
+[Giphy URL'sine](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) erişim izni vermek için isteğe bağlı Bağlı Deneyimlerin etkinleştirilmesi gerekir.
 
 > [!NOTE]
-> Kiracınız için yapılandırılmış birden fazla ekip mesajlaşma ilkeniz varsa, etkilenen kullanıcıya atanan ilkenin kimliğini [Get-CsOnlineUser-Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) | PowerShell komutuyla belirleyebilirsiniz. <user@domain.com> TeamsMessagingPolicy öğesini seçin.
+> Kiracınız için yapılandırılmış birden Teams mesajlaşma ilkeleriniz varsa, [Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) PowerShell komutuyla, etki altında olan kullanıcıya atanan ilkenin kimliğini <user@domain.com> | TeamsMessagingPolicy seçeneğini seçin.
