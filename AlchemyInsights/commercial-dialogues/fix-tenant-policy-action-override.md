@@ -1,5 +1,5 @@
 ---
-title: Kiracı ilkesi düzeltme (eylem geçersiz kılma)
+title: Kiracı ilkesi (eylem geçersiz kılma) düzeltme
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748985"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896095"
 ---
-# <a name="fix-tenant-policy-action-override"></a>Kiracı ilkesi düzeltme (eylem geçersiz kılma)
+# <a name="fix-tenant-policy-action-override"></a>Kiracı ilkesi (eylem geçersiz kılma) düzeltme
 
-Kiracınıza gelen istenmeyen posta önleme ilkesi bu iletiyi etkiledi. İlkeyi gözden geçirmek için şunları yapın:
+İstenmeyen posta önleme ilkelerinizin biri bu iletiyi etkiliyordi. İlkeleri gözden geçirmek için aşağıdaki adımları izleyin:
 
-1. [Office 365 Güvenlik ve Uyumluluk &'ne](https://go.microsoft.com/fwlink/p/?linkid=2077143)gidin ve ardından Tehdit yönetimi İlkesi İstenmeyen Postayla   >    >  [Mücadele'ye gidin.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. İlke kaynağının **şunları gösterir** olup olmadığını kontrol edin:  **Add-Xheader/ModifySubject/Redirect/Delete/No action/ BCC iletisi**
+1. aşağıdaki Microsoft 365 Defender portalında, İlkeler bölümünde <https://security.microsoft.com/> **E-posta &** İşbirliği \> **İlkeleri'&** Kurallar Tehdit ilkeleri \>  \> **İstenmeyen** postayla **mücadele'ye** gidin.
 
-    Öyleyse, Özel **sekmesinde** iletiyi etkilenen ilkenin ayarlarını kontrol edin. Tüm Exchange Online Protection **müşterilerine uygulanan** Standart ayarlar iletiyi etkilemektedir.
+   Doğrudan İstenmeyen posta **önleme ilkeleri sayfasına gitmek** için, <https://security.microsoft.com/antispam> kullanın.
 
-İstenmeyen posta filtresi ilkelerini yapılandırma hakkında daha fazla bilgi için bkz. [İstenmeyen posta filtresi ilkelerinizi yapılandırma.](https://go.microsoft.com/fwlink/?linkid=2101431)
+2. İstenmeyen posta önleme ilkeleri sayfasında, ilkenin adına tıklayarak ilkeyi  seçin (**Tür** Özel istenmeyen posta önleme ilkesi veya Ad, İstenmeyen posta önleme gelen  **ilkesidir (Varsayılan)**). 
+3. Görüntülenen ayrıntılar açılır bölmesinde Eylemler bölümünde **Eylemleri düzenle'yi** seçin. 
+4. İleti eylemleri **bölümünde,** aşağıdaki değerlerden herhangi biri seçili olup olmadığını  görmek için İstenmeyen Posta **,** Yüksek güven istenmeyen posta **,** Kimlik Avı ve Yüksek güven amaçlı kimlik avı kararlarını gözden geçirin:
+   - **X üstbilgisi ekle**
+   - **Konu satırına metin ekleme**
+   - **İletiyi e-posta adresine yeniden yönlendirme**
+   - **İletiyi silme**
+   - **Eylem yok**
+
+   Tüm müşterilere uygulanan **Standart ayarlar** iletiyi Exchange Online Protection iletiyi etkiliyor olabilir.
+
+Daha fazla bilgi için [bkz. EOP'de istenmeyen posta önleme ilkelerini yapılandırma.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

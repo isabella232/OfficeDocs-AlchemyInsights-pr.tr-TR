@@ -12,16 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045152"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311419"
 ---
 # <a name="view-all-quarantined-messages"></a>Tüm karantinaya alınmış iletileri görüntüleme
 
-1. Yönetim merkezinde Güvenlik ve Uyumluluk [& gidin.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Tehdit yönetimi **Karantinayı Gözden**  >  **Geçirme'ye**  >  **gidin.**
+1. Aşağıdaki Microsoft 365 Defender portalında <https://security.microsoft.com> E-posta Gönder ve İşbirliği Gözden  \> **&'ne** \> **gidin.**
+
+   Doğrudan Karantina sayfasına **gitmek için,** <https://security.microsoft.com/quarantine> kullanın.
+
+2. Karantina **sayfasında,** e-posta sekmesinin **seçili** olduğunu doğrulayın.
 3. Varsayılan olarak, İletinin alınma tarihine göre iletiler en yeniden en eskiye doğru sıralandı. Üst bilgiye tıklayarak bir alana göre sıraabilirsiniz.
-4. Yalnızca en çok 100 öğe üzerinde toplu işlem yapsanız da filtreleme, 100'den fazla öğeniz varsa sonuç kümenizi azaltmaya da yardımcı olabilir.
+4. Yalnızca en çok 100 öğe üzerinde toplu işlem yapsanız da filtreleme, 100'den fazla öğeniz varsa sonuç kümenizi azaltmaya yardımcı olabilir.
+
+Daha fazla bilgi için aşağıdaki makalelere bakabilirsiniz:
+
+- [Karantinaya alınan iletileri kullanıcı olarak bulma ve serbest bırakma](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Karantinaya alınan iletileri ve dosyaları yönetici olarak yönetme](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
