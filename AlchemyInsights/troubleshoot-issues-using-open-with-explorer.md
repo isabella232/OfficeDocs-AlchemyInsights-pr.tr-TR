@@ -1,5 +1,5 @@
 ---
-title: Explorer ile aç 'ı kullanarak sorunları giderme
+title: Explorer ile Aç'ı kullanmayla ilgili sorunları giderme
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,26 +12,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: e7fe59b94d216d89c2f2f7100a3d8bf7a0b0196e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cbcfb506295d5732f7109be7a103bbdef530a529c7408c6d9d45a7b38a89915
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659078"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048176"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Explorer ile aç sorunlarını giderme
+# <a name="fix-problems-with-open-with-explorer"></a>Explorer ile Aç ile ilgili sorunları düzeltme
 
-SharePoint veya OneDrive 'da belge kitaplığı açma ile ilgili sık karşılaşılan sorunları, **Explorer Ile aç** komutunu kullanarak Düzeltme: 
+Gezginle Aç komutunu kullanarak belge kitaplığını SharePoint veya OneDrive **ile ilgili sık karşılaşılan sorunları** düzeltin: 
   
-- Internet Explorer 10 veya Internet Explorer 11 kullanın. **Explorer Ile aç** , Microsoft Edge, Google Chrome, Firefox ve diğer kişilerle uyumlu değildir. Internet Explorer dışında tüm tarayıcılarda **Explorer Ile aç** özelliği devre dışı bırakılmıştır. 
+- Internet Explorer Internet Explorer 10 11'i kullanın. **Explorer ile Aç,** Microsoft Edge, Google Chrome, Firefox ve diğer cihazlarla uyumlu değildir. **Internet** Explorer dışındaki tüm tarayıcılarda Explorer ile Aç devre dışıdır. 
     
-- SharePoint kitaplıkları için modern deneyimde **Explorer Ile aç** özelliği kullanılamaz. Bunun yerine **Dosya Gezgini 'Nde görünüm** kullanın. **View options** \> **Dosya Gezgini 'nde**görünüm seçenekleri görünümünü seçin. Dosya Gezgini 'ndeki görünüm, Microsoft Edge, Google Chrome, Firefox ve diğer kişilerle uyumlu değildir. **Dosya Gezgini** 'Nde yalnızca Internet Explorer 'da kullanılabilir. 
+- **Yeni kitaplıklar** için Explorer ile Aç modern SharePoint kullanılamaz. Bunun **yerine Dosya Gezgini'nde Görünüm'e** tıklayın. Dosya **Gezgini'nde** \> **Görünüm seçenekleri Görünümü'ne tıklayın.** Dosya Gezgini'nde Görüntüle, Microsoft Edge, Google Chrome, Firefox ve diğer dosyalarla uyumlu değildir. Yalnızca Internet **Explorer'da** kullanılabilen Dosya Gezgini'nde görüntüle. 
     
-- WebClient hizmetinin çalıştığından emin olun. Windows Arama kutusuna Çalıştır yazın, masaüstü uygulamasını Çalıştır 'ı seçin, Services. msc yazın ve ENTER tuşuna basın. WebClient hizmetine gidin ve **durum** sütununda "çalışıyor" olduğundan emin olun. Desteklemiyorsa, hizmeti çift tıklatın, **Başlat**'ı ve ardından **Tamam**'ı tıklatın. ( **Başlangıç türü** kutusunda **el ile** veya **Otomatik** 'i seçerek hizmeti etkinleştirmeniz gerekebilir.) 
+- WebClient hizmetinin çalışıyor olduğundan emin olun. Arama Windows çalıştır yazın, Masaüstü uygulamasını çalıştır'ı seçin, services.msc yazın ve Enter tuşuna basın. Ekranı aşağı kaydırarak WebClient hizmetine ilerleyin ve Durum **sütununda** "Çalışıyor" ifadesinin görüntü olduğundan emin olun. Yoksa, hizmete çift tıklayın, Başlat 'a tıklayın **ve ardından** Tamam'a **tıklayın.** (İlk olarak Başlangıç türü kutusunda El  ile veya Otomatik'i **seçerek** hizmeti **etkinleştirmeniz** gerekir.) 
     
 > [!NOTE]
-> Bir kitaplığı dosya Gezgini 'nde açmak, birden çok dosya ve klasörü bir kez kopyalamanız veya taşımanız gerekiyorsa kullanışlıdır, ancak kitaplıkta düzenli olarak çalışmak istiyorsanız, eşitlemeyi öneririz. Dosya Gezgini 'nde açma sorunlarını gidermek için [, bkz.](https://go.microsoft.com/fwlink/?linkid=871665) Eşitlemeyi ayarlama hakkında bilgi için, [SharePoint dosyalarını yeni OneDrive eşitleme Istemcisiyle eşitleme](https://go.microsoft.com/fwlink/?linkid=871666)bölümüne bakın.
+> Birden çok dosya ve klasörü bir kez kopyalamanız veya taşımanız gerekirse, Dosya Gezgini'nde bir kitaplığı açmak kullanışlıdır, ancak kitaplıkta düzenli olarak çalışmak için kitaplığı eşitlemenizi öneririz. Dosya Gezgini'nde açma sorunlarını gidermek için bkz. [Explorer'da Aç](https://go.microsoft.com/fwlink/?linkid=871665). Eşitlemeyi ayarlama hakkında daha fazla bilgi için [bkz. SharePoint dosyaları yeni OneDrive eşitleme istemciyle eşitleme](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Daha fazla bilgi için [SharePoint Online 'daki sorunları gidermek üzere "Gezgin Ile aç" komutunun nasıl kullanılacağı](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) makalesine bakın. 
+Daha fazla bilgi için lütfen SharePoint Online'da sorunları gidermek için "Explorer ile [Aç"](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) komutunu kullanma makalesine bakın. 
   
 

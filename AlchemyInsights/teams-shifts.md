@@ -1,5 +1,5 @@
 ---
-title: Takım vardiyaları
+title: Teams Vardiyalar
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750723"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106524"
 ---
-# <a name="using-teams-shifts"></a>Ekip vardiyalarını kullanma
+# <a name="using-teams-shifts"></a>Vardiyalar Teams kullanma
 
-Vardiyaların ayarlanması, kullanıcılara vardiyaları etkinleştirme ve vardiyalar uygulamasını yönetme gibi vardiyalarının yönetimi hakkında bilgi için bkz:
+Vardiyalar uygulamasını yönetme, vardiyaları ayarlama, kullanıcılar için Vardiyalar'ın etkinleştirme ve Vardiyalar uygulamasını yönetme gibi bilgiler için bkz.
  
-- [Microsoft ekiplerde kuruluşunuzun vardiyalarını uygulamasını yönetin](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- [Kuruluşunuzdaki belirli kullanıcılar Için vardiyaları etkinleştirme veya devre dışı bırakma](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [Vardiyalar uygulamasını kendi uygulamasında Microsoft Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts)
+- [Kuruluş belirli kullanıcılar için Vardiyalar'ı etkinleştirme veya devre dışı bırakma.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
 
-Bir vardiya yönetme dahil, ekiplerin vardiyaları hakkında daha fazla bilgi edinmek için [bkz.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
+Vardiyalar zamanlaması yönetme de dahil olmak Teams Vardiyalar hakkında daha fazla bilgi edinmek için bkz. [Vardiyalar Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
 
-**30 haziran 2020**, Microsoft ekonomik hub kullanımdan kaldırılmıştır. Daha fazla bilgi için bkz [.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
+**30 Haziran 2020'de** geçerli olmak için Microsoft Staffhub kullanımı kaldırıldı. Daha fazla bilgi için [bkz. Microsoft StaffHub'ın kullanımı kaldırıldı.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 

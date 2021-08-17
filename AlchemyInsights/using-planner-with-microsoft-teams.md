@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams ile Planner'ı kullanma
+title: Planner'ı Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2653"
 - "9000727"
-ms.openlocfilehash: fb0677e7b4115cb957d32c74ee8ad6de954eb373
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 96f88e51c03c147eff23ab402139a2ede1b185c9438cc9b2de3613d91e4363f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827164"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047960"
 ---
-# <a name="using-planner-with-microsoft-teams"></a>Microsoft Teams ile Planner'ı kullanma
+# <a name="using-planner-with-microsoft-teams"></a>Planner'ı Microsoft Teams
 
-Teams kanalına bir veya daha fazla Planner sekmesi ekleyerek görevlerinizi düzenleyebilirsiniz: 
+Bir çalışma kanalına bir veya daha fazla Planner sekmesi ekleyerek Teams düzenleyebilirsiniz: 
 
-- [Ekip kanalına Planner sekmesi ekleme](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). Sekmeyi ekleyen kullanıcı, yalnızca ekibin sahibi değil, aynı zamanda ekibin üyesi olmalı. Microsoft Teams arabirimi aracılığıyla bir üye olarak kullanıcı ekleme.
-- [Microsoft Teams'e Mevcut bir plan ekleyin.](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)
-- [Planner sekmesini kaldırma veya planı silme](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). Silinen planlar Teams'de kurtarılamaz. Grup zaten silinmişse, silinmiş planları [ve grupları kurtararak kurtarılabilir.](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups)
-- [Teams'de Planner ödev bildirimlerini etkinleştirme veya devre dışı bırakma.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams)
+- [Ekip kanalına Planner sekmesi ekleme](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). Sekmeyi ekleyen kullanıcı, yalnızca ekibin sahibi değil, aynı zamanda ekibin üyesi olmalı. Kullanıcıyı Microsoft Teams arabirimi aracılığıyla üye olarak Microsoft Teams.
+- [Var Olan Planı Ekle Microsoft Teams.](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)
+- [Planner sekmesini kaldırma veya planı silme](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). Silinmiş planlar aynı anda Teams. Grup zaten silinmişse, silinmiş planları [ve grupları kurtararak kurtarılabilir.](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups)
+- [Planner atama bildirimlerini bu dosyada etkinleştirme veya Teams.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams)
 
-**Not:** Planner'ın Microsoft Teams ile tümleşmesine genel bir bakış için [bkz. Microsoft Teams'de Planner kullanma.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)
+**Not:** Planner ile Planner tümleştirmesi hakkında genel bir Microsoft Teams için bkz. [Planner'i Microsoft Teams.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)
