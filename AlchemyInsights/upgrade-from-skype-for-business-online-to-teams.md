@@ -1,5 +1,5 @@
 ---
-title: Skype Kurumsal Çevrimiçi Sürüm'den Teams'e yükseltme
+title: Skype Kurumsal Online'dan Teams'a yükseltme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2693"
-ms.openlocfilehash: 6febce6559b697261c1a8dc3d72a39df2fb80652
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8e1c292a415794c65cf6efa1f5f335be627759db64a6aa7b4918f05436502fd0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827344"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073584"
 ---
-# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Skype Kurumsal Çevrimiçi Sürüm'den Teams'e yükseltme  
+# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Skype Kurumsal Online'dan Teams'a yükseltme  
 
-Skype Kurumsal Çevrimiçi Sürüm';;de dağıttıysanız ve kullanıcılarınızı Skype Kurumsal'dan Teams'e yükseltmek istiyorsanız, aşağıdaki makaledeki yönergeleri izleyin. Kullanıcılarınıza uygun birlikte çalışma ve yükseltme modunu ataarak, kuruluş seçtiğiniz yükseltme yolculuğuna dayalı olarak kullanıcıları aşamalı olarak veya hepsini bir defada yükseltebilirsiniz.
+Skype Kurumsal Online'da dağıttıysanız ve kullanıcılarınızı Skype Kurumsal'tan başka bir sürüme yükseltmek Teams. Kullanıcılarınıza uygun birlikte çalışma ve yükseltme modunu ataarak, kuruluş seçtiğiniz yükseltme yolculuğuna dayalı olarak kullanıcıları aşamalı olarak veya hepsini bir defada yükseltebilirsiniz.
 
-[Skype Kurumsal Çevrimiçi Sürüm'den Teams'e yükseltme](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 
+[Skype Kurumsal Online'dan Teams'a yükseltme](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 

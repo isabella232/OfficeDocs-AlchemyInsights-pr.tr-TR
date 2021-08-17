@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "6128"
-ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
-ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.openlocfilehash: 9d8184efdc60befd359059c62ea3eb1a14ad7d2a20dade921d4a71e424f52033
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038978"
 ---
 # <a name="troubleshoot-sspr"></a>SSPR sorunlarını giderme
 
-**Parola sıfırlamayı yapılandırmada sorun istemiyorum**
+**Parola sıfırlamayı yapılandırmada sorunlanıyorum**
 
-- Yöneticiyseniz ve kendi kendine parola sıfırlamayı nasıl etkinleştirebilirsiniz diye arıyorsanız, [öğreticide SSPR'yi](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr)etkinleştirme, parola sıfırlamayı yapılandırmaya bakın. Lisans gereksinimlerini gözden geçirmek [de istiyor olabilirsiniz.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support) Kuruluşta en az bir lisans atanmış olması gerekir.
-    - **Yalnızca bulut kullanıcıları** - Ücretli tüm Office 365 (O365) SKU'ları veya Azure AD Basic
-    - **Bulut ve/veya şirket içi** kullanıcılar - Azure AD Premium P1 veya P2, Enterprise Mobility + Security (EMS) veya Secure Productive Enterprise (SPE)
-- Self servis parola sıfırlama hakkında daha fazla soru için SSS [bölümlerimizi inceleyin.](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Yöneticiyseniz ve kendi kendine parola sıfırlamayı etkinleştirmeyi öğrenmek arıyorsanız, Öğretici, [SSPR'yi](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr)etkinleştirme, kurum için parola sıfırlamayı yapılandırma öğreticisi'ne bakın. Lisans gereksinimlerini gözden geçirmek [de istemeniz gerekir.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support) Kuruluşta en az bir lisans atanmış olması gerekir.
+    - **Yalnızca bulut kullanıcıları** - Tüm Office 365 (O365) ücretli SKU veya Azure AD Basic
+    - **Bulut ve/veya şirket içi kullanıcılar** - Azure AD Premium P1 veya P2, Enterprise Mobility + Security (EMS) veya Secure Productive Enterprise (SPE)
+- Self servis parola sıfırlama hakkında daha fazla soru için SSS bölümünü [inceleyin.](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Hata iletisi alıyorum**
+**Bir hata iletisi alıyorum**
 
-Sık karşılaşılan hataları ve bunların çözümlerini bulmak için bu makaleyi gözden geçirme: Self [servis parola sıfırlama sorunlarını giderme](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)
+Sık karşılaşılan hataları ve çözümlerini bulmak için bu makaleyi gözden geçirme: [Self servis parola sıfırlama sorunlarını giderme](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Parola sıfırlama ilkemde sorun var**
 
-- Parola sıfırlama ilkeniz beklendiği gibilenmiyorsa veya parola sıfırlama ilkeleri hakkında sorularınız varsa şu makaleyi gözden geçirebilirsiniz: Azure Active Directory'de parola ilkeleri ve [kısıtlamaları.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Parola sıfırlama ilkeleri yöneticiler için geçerli değildir. Microsoft, herhangi bir Azure yönetici rolü için güçlü bir varsayılan iki kapılı parola sıfırlama ilkesi zorunlu tutulmaktadır. Yönetici olmadığınız bir kullanıcıyla test etmekte olduğundan emin olun. Yönetici sıfırlama ilkesi hakkında daha fazla bilgi için bu makaleye bakın: Yönetici sıfırlama [ilkesi farklılıkları.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences)
+- Parola sıfırlama ilkeniz beklendiği gibilenmiyorsa veya parola sıfırlama ilkeleri hakkında sorularınız varsa, şu makaleyi gözden geçirebilirsiniz: parola ilkeleri ve [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).
+- Parola sıfırlama ilkeleri yöneticiler için geçerli değildir. Microsoft, herhangi bir Azure yönetici rolü için güçlü bir varsayılan iki sınırlı parola sıfırlama ilkesi zorlar. Yönetici olmadığınız bir kullanıcıyla test olduğundan emin olun. Yönetici sıfırlama ilkesi hakkında daha fazla bilgi için şu makaleye bakın: [Yönetici sıfırlama ilkesi farklılıkları.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences)
 
-**Kullanıcılarımı parola sıfırlama için ek güvenlik bilgileri kaydetmelerini istemiyorum**
+**Kullanıcılarımın parola sıfırlama için ek güvenlik bilgilerini kaydetmelerini istemiyorum**
 
-API, PowerShell veya Azure AD Connect kullanarak kullanıcılarınız için verileri (e-posta ve telefon öznitelikleri) önceden doldurmak için kullanabilirsiniz. Okumayı öğrenmek için:
+API, PowerShell veya Azure AD kimlik bilgileri kullanarak kullanıcılarınız için verileri (e-posta ve telefon öznitelikleri) önceden Bağlan. Okumayı öğrenmek için:
 
 - [Kullanıcıların kaydolması gerekmeden parola sıfırlamayı dağıtma](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
 - [Parola sıfırlama ile kullanılan veriler](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Kullanıcılarımı parola sıfırlama için ek güvenlik bilgilerini kaydetmelerini istiyorum**
+**Kullanıcılarımın parola sıfırlama için ek güvenlik bilgilerini kaydetmelerini istiyorum**
 
-1. Kullanıcılarınızı, güvenlik bilgilerini kendi kendine parola sıfırlama için kaydetmelerini ve bu bilgileri kullanıcılarınızı [aka.ms/ssprsetup.](https://mysignins.microsoft.com/security-info)
-1. Veriler kullanıcı (kullanıcı veya yönetici tarafından) doldurulduğunda, kullanıcılarınızı kendi parolalarını [sıfırlama](https://passwordreset.microsoftonline.com/) gücü aka.ms/sspr için kullanıcınızı e-postaya yönlendirin.
-1. Kullanıcılar hala sorun yaşıyorsa, bunlar büyük olasılıkla **federasyon** veya parola karması **eşitlenmiş kullanıcılardır.** Bu, Büyük olasılıkla Parola Geri Yazma hizmetiyle ilgili bir sorun olduğu anlamına gelir.
+1. Kullanıcılarınızı güvenlik bilgilerini self servis parola sıfırlama için kaydetmelerini ve bu bilgileri kullanıcılarınızı [aka.ms/ssprsetup.](https://mysignins.microsoft.com/security-info)
+1. Veriler kullanıcı (kullanıcı veya yönetici tarafından) doldurulduğunda, kullanıcılarınızı [](https://passwordreset.microsoftonline.com/) parolalarını sıfırlamaya aka.ms/sspr için kullanıcınızı bu verilere yönlendirin.
+1. Kullanıcılar hala sorun yaşıyorsa, bunlar büyük olasılıkla federasyon veya parola **karması** **eşitlenmiş kullanıcılardır.** Bu, parola geri yazma hizmette büyük olasılıkla bir sorun olduğu anlamına gelir.

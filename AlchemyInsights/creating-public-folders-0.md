@@ -12,24 +12,24 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 7c6cd03163dba1b0b64e2f6dbe3abac747065645
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f380ad158108e07c08d50daafd415a5847df730c1bf4715d70aab7c30860f4d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746707"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103320"
 ---
 # <a name="creating-public-folders"></a>Ortak klasörler oluşturma
 
-Kullanıcılarınızın ortak klasörleri kullanabilmeniz için, en az bir ortak klasör posta kutusu oluşturmanız gerekir. Oluşturmak için:
+Kullanıcılarınız ortak klasörleri kullanamadan önce en az bir ortak klasör posta kutusu oluşturmanız gerekir. Oluşturmak için:
   
-1. Microsoft 365 Yönetim merkezinde, **Yönetim Merkezleri** \> **Exchange**'e gidin.
+1. Genel Microsoft 365 yönetim merkezi Yönetim merkezleri **'ne Exchange.** \> 
 
-2. Ortak **Klasörler** \> **ortak klasör posta kutularına**gidin ve **Ekle**'yi tıklatın.
+2. Ortak klasörler **Ortak klasör posta** \> **kutularına gidin ve** Ekle'ye **tıklayın.**
 
-3. **Ortak klasör posta**kutusunda, ortak klasör posta kutusu için bir ad sağlayın.
+3. Ortak **Klasör Posta Kutusu'da,** ortak klasör posta kutusu için bir ad girin.
 
-4. **Kaydet**’e tıklayın.
+4. **Kaydet**'e tıklayın.
 
-Posta kutusu oluşturulduktan sonra tek tek klasörler oluşturmaya başlayabilir veya kullanıcılarınıza [Outlook 'ta ortak klasörler oluşturmaya ve kullanmaya başlamasını](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)söyleyebilirsiniz.
+Posta kutusu oluşturulduktan sonra, tek tek klasörler oluşturmaya başlayabilir veya kullanıcılarınızı bu klasörde ortak klasörler oluşturmaya ve kullanmaya [başlamalarını Outlook.](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)
   

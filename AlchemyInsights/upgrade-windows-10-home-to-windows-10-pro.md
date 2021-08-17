@@ -1,5 +1,5 @@
 ---
-title: Windows 10 Home'u Windows 10 Pro'ya yükseltme
+title: Yükseltme Windows 10 Home yükseltme Windows 10 Pro
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001443"
 - "3443"
-ms.openlocfilehash: 5a9eb8275167a85d0ae9f097aa73c1b244e3d3c3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5d760314d17888ac4fdc3d85b0a2511437953d9b9126845169acd3fe486e55b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073548"
 ---
 # <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a>Ürün anahtarı veya dijital lisans kullanarak yükseltme
 
-**Ürün anahtarı kullanarak Windows 10 Pro'ya yükseltme**
+**Ürün anahtarı Windows 10 Pro ürün anahtarı kullanarak yükseltme**
 
-1. Ayarları **Güncelleştirme ve**  >  **Güvenlik**&  >  **başlat'ı**  >  **seçin.**
-2. Ürün **anahtarını değiştir'i** seçin ve ardından 25 karakterlik Windows 10 Pro ürün anahtarını girin.
-3. Windows  10 Pro'ya yükseltmeyi başlatmak için Sonraki'yi seçin.
+1. Güvenlik **Etkinleştirmeyi**  >    >  **Ayarlar'i &'i**  >  **seçin.**
+2. Ürün **anahtarını değiştir'i** seçin ve ardından 25 karakterlik Windows 10 Pro girin.
+3. **Yükseltmeyi** başlatmak için Sonraki'yi Windows 10 Pro.
 
-**Dijital lisans kullanarak Windows 10 Pro'ya yükseltme**
+**Dijital Windows 10 Pro kullanarak yeni sürüme yükseltme**
 
-Cihazınıza Windows 10 Pro'u zaten yükledikten ve etkinleştirdikten sonra ürün anahtarı olmadan Windows 10 Home'dan Windows 10 Pro'ya yükseltmenize olanak sağlayan dijital bir lisansınız olur.
+Cihazınıza önceden Windows 10 Pro bilgisayarınız varsa, Windows 10 Home'dan Windows 10 Pro ürün anahtarı olmadan yükseltmenizi sağlayan dijital bir lisansınız olur.
 
-Ayarları **Güncelleştirme ve**  >  **Güvenlik**&  >  **başlat'ı**  >  **seçin.**
+Güvenlik **Etkinleştirmeyi**  >    >  **Ayarlar'i &'i**  >  **seçin.**
 
-- Windows 10 Pro için dijital lisansınız varsa ve Windows 10 Home şu anda etkinleştirilmişse **Microsoft Store'a** git'i seçin; Windows 10 Pro'ya ücretsiz yükseltmeniz istenir.
-- Windows 10 Pro için dijital lisansınız varsa ve Windows 10 Home etkinleştirilmiş değilse, Sorun gider öğesini seçin ve ardından Windows 10 Pro'ya yükseltmek için adımları izleyin. 
+- Windows 10 Pro için dijital lisansınız varsa ve Windows 10 Home şu anda etkinleştirilmişse **Microsoft Store'e** git'i seçin; ücretsiz olarak Windows 10 Pro'e yükseltmeniz istenir.
+- Windows 10 Pro için dijital lisansınız varsa ve Windows 10 Home etkinleştirilmiş değilse, Sorun gider öğesini seçin ve ardından yükseltme adımlarını Windows 10 Pro.
 
-[Windows 10'da etkinleştirme hakkında daha fazla bilgi](https://support.microsoft.com/help/12440)
+[Etkinleştirme hakkında daha fazla bilgi için Windows 10](https://support.microsoft.com/help/12440)

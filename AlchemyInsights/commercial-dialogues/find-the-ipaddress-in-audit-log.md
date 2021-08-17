@@ -13,24 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017152"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303597"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>Denetim günlüğünde IP adresini bulma
 
-1. Kullanıcı veya yönetici tarafından gerçekleştirilen bir faaliyete karşılık gelen IP adresi denetim günlüklerinde gösterilir. Müşteri bilgileri de günlüğe kaydedilir. IP adresini şu şekilde tanımlayabilirsiniz:
+Kullanıcı veya yönetici tarafından gerçekleştirilen bir faaliyete karşılık gelen IP adresi denetim günlüklerinde gösterilir. Müşteri bilgileri de günlüğe kaydedilir. IP adresini şu şekilde tanımlayabilirsiniz:
 
-1. Güvenlik ve [Uyumluluk Office 365 & gidin.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Arama **Denetimi günlüğü** araması öğesini  >  **[seçin.](https://go.microsoft.com/fwlink/?linkid=2103759)**
-    > [!NOTE]
-    > Denetimi açmamız gereken bir bildirim görüyorsanız, devam edin ve hemen açmayın. Bu özellik etkin değilse, arama sonuçları önceki tarihlerden veri çekebilirsiniz.
-1. Belirli bir etkinlik ilginizi çekiyorsa, Etkinlikler **listesinden bu etkinliği** seçin; aksi takdirde, seçilen kullanıcı için varsayılan olarak tüm etkinlikler döndürülür. Etkinlikler menüsünde belirli etkinliklerin seçiilenem **sağlanmay olabileceğini** unutmayın; Bununla birlikte, Tüm etkinlikler için sonuçları göster **seçiliyse bu denetim** öğeleri döndürülür (varsayılan ayar).
-1. Tarih aralığını belirtin ve Kullanıcılar **alanında,** araştırma yapmak istediğiniz kullanıcının kullanıcı adını seçin.
-1. **Arama'ya seçin.** Etkinlikler Sonuçlar altında **görüntülenir.** Her etkinliğin IP adresini görüyoruz.
-1. Ayrıntıları görüntülemek için bir etkinlik seçin ve ardından Daha Fazla Bilgi **öğesini seçin.**
+1. Aşağıdaki eylemlerden birini yapın:
+   - Aşağıdaki Microsoft 365 uyumluluk merkezi , <https://compliance.microsoft.com> Çözüm Denetimi **'ne** \> **gidin.** Veya doğrudan Denetim sayfasına **gitmek için** <https://compliance.microsoft.com/auditlogsearch> kullanın.
+   - Aşağıdaki Microsoft 365 Defender portalında <https://security.microsoft.com> Denetim'e **gidin.** Veya doğrudan Denetim sayfasına **gitmek için** <https://security.microsoft.com/auditlogsearch> kullanın.
 
-Daha fazla bilgi edinmek için bkz. [Sık Office 365 sorunlarını gidermek için denetim günlüğünde arama.](https://go.microsoft.com/fwlink/?linkid=2103944)
+    **Not:** Denetimi açması gereken bir bildirim görüyorsanız, devam edin ve hemen açmayın. Bu özellik etkin değilse, arama sonuçları önceki tarihlerden veri çekebilirsiniz.
+
+2. Denetim **sayfasında,** Arama sekmesinin **seçili olduğunu** doğrulayın ve sonra aşağıdaki ayarları yapılandırabilirsiniz:
+   - **Tarih ve saat aralığı:** Başlangıç ve Bitiş  kutularında **tarih/saat** aralığını seçin.
+   - **Etkinlikler:** Belirli bir etkinlikle ilgileniyorsanız, listeden seçin; aksi takdirde, tüm **etkinlikler için sonuçları göster varsayılan değeri** tüm etkinlikleri döndürür. Belirli etkinliklerin seçim için kullanılamıyor olabileceğini unutmayın; Bununla birlikte, Tüm etkinlikler için sonuçları **göster seçiliyse, bu denetim öğeleri** döndürülür.
+   - **Kullanıcılar:** Tüm kullanıcıların sonuçlarını sonuç olarak almak için boş varsayılan değeri kabul etme veya bir veya birden çok kullanıcı girin.
+
+3. Bitirdikten sonra Ara'ya **tıklayın.** Etkinlikler, yeni Denetim arama **sayfasında** görüntülenir.
+
+4. Sonuçlarda, Sonuçları **Filtrele'ye** tıklayın ve **etkinlik filtresi kutusuna Set-Mailbox** yazın.
+
+5. Ayrıntılar açılır öğesini açmak için sonuçlarda bir **denetim kaydı** seçin.
+
+Daha fazla bilgi için [bkz. Sık karşılaşılan destek sorunlarını araştırmak için denetim günlüğünde arama.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
