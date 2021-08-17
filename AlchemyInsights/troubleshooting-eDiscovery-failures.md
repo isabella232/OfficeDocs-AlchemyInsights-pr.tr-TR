@@ -1,5 +1,5 @@
 ---
-title: 1490-sorun giderme-eBulma-hatalar
+title: 1490-troubleshooting-eDiscovery-failures
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105588"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Içerik arama hatalarını giderme
+# <a name="troubleshoot-content-search-errors"></a>İçerik Arama hatalarını giderme
 
-Arama sonuçlarını dışarı aktardığınızda Içerik aramayla ilgili sorun yaşıyor veya hata alıyor mu?
+İçerik Arama ile ilgili sorunlar mı yaşıyor veya arama sonuçlarını dışarı aktararak hata alıyor musunuz?
 
-Örneğin, aramaları çalıştırırken aşağıdakileri mi alıyorsunuz?
+Örneğin, aramaları çalıştırarak aşağıdaki bilgileri alıyor musunuz?
 
 - CS008 veya CS012 hataları
 
-- Sunucu meşgul/zamanaşımı hataları
+- Sunucu meşgul/zaman aşımı hataları
 
 - Uygulama hatası oluştu
 
-Veya sonuçları çok sayıda posta kutusu (100.000 posta kutusu üzerinden) ararken veya verirken dışarı aktarma hatalarını mı alıyorsunuz?
+Çok fazla sayıda posta kutusundan (100.000'den fazla posta kutusu) arama veya sonuçları dışarı aktarma sırasında dışarı aktarma hataları mı alısınız?
 
-Bu hata türleri için başarısız olan içerik konumlarını aramayı yeniden deneyin. Daha fazla bilgi için  [Bu makaleye](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) bakın.
+Bu tür hatalarda, başarısız olan içerik konumlarını arama işlemini yeniden deneyin. Daha  [fazla bilgi için](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) bu makaleye bakın.
 
-100K posta kutularını dışarı aktarıyorsanız, dışarı aktarma sonuçlarını indirmek için aşağıdaki PowerShell 'i kullanmanız gerekir:  [100 ' den fazla posta kutusu 'ndan sonuçları dışarı aktarma](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+100.000'den fazla posta kutusunu dışarı aktarıyorsanız, Sonuçları dışarı aktarma:  [100.000'den](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)fazla posta kutusundan sonuçları dışarı aktarma.

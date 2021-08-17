@@ -1,5 +1,5 @@
 ---
-title: Parola eşitleme sorunlarını giderme
+title: Parola eşitlemesi sorunlarını giderme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,31 +14,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 96f63f2ae8e5de246bce7fc15a9b2c3d604f2eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb782c0d1dc396ee7a9f016afb9629a2cdee93d52f5408b7a73e576e783ebc0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664946"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105798"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Parola eşitleme sorunlarını giderme
+# <a name="troubleshoot-password-synchronization"></a>Parola eşitlemesi sorunlarını giderme
 
-Parola eşitleme sorunlarını gidermek için, bu AAD Connect sorun giderme görevini kullanarak parolaların neden eşitlenmediğine karar verin. Başlamak için [doğrudan Eşitlemeyi Yönet](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement)'e gidin.  
+Parola eşitleme sorunlarını gidermek için, bu AAD'yi kullanarak Bağlan neden parolaların eşitleneme olmadığını belirlemek için sorun giderme görevine bakın. Başlamak için Doğrudan eşitlemeyi [yönet 'e gidin.](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement)  
 
-1. Azure AD Connect sunucunuzda yeni bir Windows PowerShell oturumu açın ve **yönetici olarak farklı** aç seçeneğini belirtin.
+1. Azure AD Windows PowerShell sunucunuzda yeni bir Bağlan oturum açın ve Yönetici Olarak **Çalıştır seçeneğini** belirleyin.
 
-2. Set-ExecutionPolicy RemoteSigned veya set-ExecutionPolicy kısıtlanmaz.
+2. Run Set-ExecutionPolicy RemoteSigned veya Set-ExecutionPolicy Unrestricted.
 
-3. Azure AD Connect Sihirbazı 'nı başlatın.
+3. Azure AD Ad Bağlan başlatın.
 
-4. Sonraki görevler sayfasına **gidin >**  >  **sonraki**görevler sayfasına gidin.
+4. Sonraki Sorun Giderme'ye > **Görevler sayfasına**  >  **gidin.**
 
-5. PowerShell sorun giderme menüsünü açmak için **Başlat** 'ı seçin.
+5. PowerShell **sorun** giderme menüsünü açmak için Başlat'ı seçin.
 
-6. **Parola eşitleme sorunlarını giderme**'yi seçin.
+6. Parola **Eşitlemesi Sorunlarını Gider'i seçin.**
 
-    Bu sorun genellikle parolanın belirli bir kullanıcı hesabı için eşitlenmemesidir.
+    Sorun genellikle parolanın belirli bir kullanıcı hesabı için eşitlenmez durumdadır.
 
-    **Notları** Son başarılı parola eşitleme işlemi biraz önce olmuşsa parola eşitlemesi başarısız olur.
+    **Notlar** Parola eşitlemenin son başarılı olması için bir süre geçtiyseniz parola eşitleme başarısız olur.
 
-Parola eşitleme sorunlarını gidermek için, [Azure AD Connect eşitlemesi ile parola karması eşitlemesi sorunlarını giderme](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)konusuna bakın.
+Parola eşitlemesi sorunlarını gidermek için bkz. Azure AD ile parola [karması eşitlemesi sorunlarını Bağlan.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
