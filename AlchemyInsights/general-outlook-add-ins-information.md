@@ -1,5 +1,5 @@
 ---
-title: Genel Outlook eklentileri bilgileri
+title: Genel Outlook eklentileriyle ilgili bilgiler
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003117"
 - "5902"
-ms.openlocfilehash: 308c53545a73b5c2ea9052e04a29773b586dc86b
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 790de41737c2915969a7a5a2300213559f08b2ae2f9c3e900b96e0e25fb9c06a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679971"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116964"
 ---
-# <a name="general-outlook-add-ins-information"></a>Genel Outlook eklentileri bilgileri
+# <a name="general-outlook-add-ins-information"></a>Genel Outlook eklentileriyle ilgili bilgiler
 
-[Outlook eklentileri oluşturma](https://docs.microsoft.com/office/dev/add-ins/outlook/)ile ilgili tüm belgelendirme kaynaklarınız için bu Web sitesini ziyaret edin.
+Yeni eklentiler eklemeyle ilgili tüm belge kaynaklarınız [için bu Outlook ziyaret edin.](https://docs.microsoft.com/office/dev/add-ins/outlook/)
 
-Eklentileri yönetme, dağıtma ve etkinleştirme hakkında ek kaynaklar için bkz:
+Eklentileri yönetme, dağıtma ve etkinleştirmeyle ilgili ek kaynaklar için bkz:
 
-- [Kuruluşunuzda merkezi eklentilerin dağıtımının çalışıp çalışmadığını saptayın](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins).
+- [Merkezi Dağıtım eklentilerinin kurum için kullanılabilir olup olmadığını belirler.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins)
 - [Microsoft 365 yönetim merkezinde eklentilerin dağıtımı yönetme](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
-- [Outlook için eklentileri yükleyip yönetebilen yöneticileri ve kullanıcıları belirtme](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [Kullanıcıların eklentilerini yükp yönetecek yöneticileri ve kullanıcıları Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)

@@ -1,5 +1,5 @@
 ---
-title: 1374 iki posta kutusu nasıl çözümler
+title: 1374 İki posta kutusunu nasıl çöz
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676abe299daef2a4b423faab6e9bc125cd6a7e47733a10ff46f9f492cc5ad34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720918"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110088"
 ---
-# <a name="a-user-has-two-mailboxes"></a>Kullanıcının iki posta kutusu vardır
+# <a name="a-user-has-two-mailboxes"></a>Bir kullanıcının iki posta kutusu vardır
 
-Azure Active Directory Connect (AAD Connect) veya DirSync kullanan karma ortamlar yanlışlıkla kullanıcının iki posta kutusuna sahip olmasına neden olabilir: şirket içinde bir şirket içi ve bir tane. İki yerde de yinelenen posta kutusu oluşturulabilir.
+Azure Active Directory Bağlan (AAD Bağlan) veya DirSync kullanan karma ortamlar bir kullanıcının yanlışlıkla iki posta kutusuna sahip olmasına neden olabilir: bir şirket içi ve bir tane de bulutta. Her iki yerde de yinelenen bir posta kutusu oluşturulabilir.
 
-Bu sorunu çözmek için, [hem Exchange Online 'da hem de şirket içinde bir posta kutusu bulunduğunda nasıl kurtarılacağını](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises)öğrenin. Bunun gelecekte oluşmasını önleme konusunda daha fazla bilgi edinmek isterseniz, [kullanıcımın şirket içi ve Exchange Online 'da posta kutusu olduğunu görün. Yardım!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Bu sorunu çözmek için [bkz. Posta kutusu hem](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises)şirket içinde hem de Exchange Online olduğunda kurtarma . Bunun gelecekte böyle bir durumdan nasıl kaçınılması konusunda daha fazla bilgi edinmek için bkz. Kullanıcımda hem şirket içinde hem de posta [kutularında bir Exchange Online. Yardım edin!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).

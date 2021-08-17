@@ -1,5 +1,5 @@
 ---
-title: Geçiş yaparken izin sorunları
+title: Bu durum, bir yandan da ilerlerken karşılaşılan izin sorunları
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 39b36a85319ccd71278571f3a3cbbc7cf0b9f0fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c8c2cc4c13ed095987c7312bb752bac6b1940d92a3f7b229a99787273cb4883
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798072"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086616"
 ---
-# <a name="user-profile-and-photo-synchronization"></a>Kullanıcı profili ve fotoğraf eşitlemesi
+# <a name="user-profile-and-photo-synchronization"></a>Kullanıcı Profili ve Fotoğraf eşitlemesi
 
- **Profil fotoğraf eşitlemesi** -kullanıcılar, profil fotoğraflarının SharePoint 'e eşitlenmediğini fark edebilir. Veya, profil fotoğrafını güncelleştirmeyi denemiş ve fotoğraf eski fotoğraf olarak görünmeye devam ediyor olabilir. Profil fotoğrafınızın beklediğiniz gibi göründüğünden emin olmak için, kullanıcının fotoğraf eşitlemesini başlatması gerekir. 
+ **Profil Fotoğraf Eşitlemesi** - Kullanıcılar profil fotoğrafının diğer kullanıcılarla eşitlenme SharePoint. Ya da profil fotoğrafını güncelleştirmeyi deneseler ve fotoğraf hala eski fotoğraf olarak görünür. Profil fotoğrafının beklendiği gibi göstere olduğundan emin olmak için, kullanıcının bir fotoğraf eşitlemesi başlatması gerekir. 
   
-Fotoğraf eşitleme işlemiyle ilgili daha fazla bilgi için [Microsoft 365 'da profil resmi eşitlemesi hakkında bilgi](https://go.microsoft.com/fwlink/?linkid=2022634) bölümüne bakın
+Fotoğraf eşitleme işlemi hakkında daha fazla bilgi için bkz. Profil [resmi eşitlemesi hakkında Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2022634)
   
-- **Profil eşitleme** -profil eşitlemesini tamamlamak için gereken süre, ad alma işinin işleme yapması gereken değişiklik sayısına (çalışma) bağlıdır. Çok sayıda değişiklik varsa zamanlayıcı işinin gerçekleşmesi çok işe alınır ve değişikliklerin Kullanıcı profili uygulamasında yansıtılması uzun sürer. Zamanlayıcı işi için küçük bir iş birimi varsa, değişiklikler Kullanıcı profili uygulamasına daha hızlı yansıtılır. 
+- **Profil Eşitleme** - Profil eşitlemesini tamamlamak için gereken süre, AD İçeri Aktarma Işinin işlemesi gereken değişiklik sayısına (çalışma) bağlıdır. Çok fazla değişiklik varsa, zamanlayıcı işinin yapacak çok fazla işi vardır ve değişikliklerin Kullanıcı Profili Uygulamasına yansıt olması daha uzun sürer. Süreölçer işinin yapacak fazla işi yoksa, değişiklikler Kullanıcı Profili Uygulamasına çok daha hızlı yansıt olacaktır. 
   
-Profil eşitleme işlemiyle ilgili daha fazla bilgi için [SharePoint Online 'da Kullanıcı profili eşitleme bilgilerine](https://go.microsoft.com/fwlink/?linkid=2022639) bakın
+Profil eşitleme işlemi hakkında daha fazla bilgi için [bkz. SharePoint Online'da kullanıcı profili eşitlemesi hakkında bilgiler](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Office Delve 'de güncelleştirme profili** -Delve kullanıcıları Microsoft 365 profilini yönetebilir. Daha fazla bilgi için [Office Delve 'de profilinizi görüntüleme ve güncelleştirme](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)konusuna bakın.
+- **Profili Güncelleştirme Office Delve** - Delve kullanıcıların profil profillerini Microsoft 365. Daha fazla bilgi için [bkz. Bu bağlantıda profilinizi görüntüleme Office Delve.](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)
     
 
