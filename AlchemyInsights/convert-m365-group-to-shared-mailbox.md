@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Grubu ve Paylaşılan Posta Kutularını Dönüştürme
+title: Grup ve Microsoft 365 Posta Kutularını Dönüştürme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "624"
 - "3500003"
-ms.openlocfilehash: 4a8fecc830ac559a3c2ff62c9a120ac165153d0c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dc50957b472817dc0d18782a812c8763e8ec630cba72724464a920596abaf950
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081126"
 ---
-# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Microsoft 365 Grubu ve Paylaşılan Posta Kutularını Dönüştürme
+# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Grup ve Microsoft 365 Posta Kutularını Dönüştürme
 
-Şu anda Microsoft 365 Grubu posta kutusuyla Paylaşılan Posta Kutusu arasında dönüştürmenin bir yolu yoktur.
+Şu anda grup grubu posta kutusuyla Paylaşılan Microsoft 365 kutusu arasında dönüştürmenin bir yolu yok.
 
 Lütfen bu özellik için oy vermeye buradan yardım [edin.](https://aka.ms/M365GroupToShared)
