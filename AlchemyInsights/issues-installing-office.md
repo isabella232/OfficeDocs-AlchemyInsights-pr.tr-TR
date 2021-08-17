@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 2b60d65f6f5144c00b23664075d05af1995d5baac7fb884c59cbe82efca3d198
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0b6155ce38cd2703a4bf406d73ebbc59eb4c9034
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013156"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320775"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Office yüklerken karşılaşılan sorunlara çözümler
 
@@ -30,7 +30,8 @@ Office hatanızı gidermek için bu çözümleri deneyin:
 - Varsa Office’in önceki kalıntılarını temizleyin ve Destek ve Kurtarma Yardımcısı’nı (SaRA) kullanarak yeniden yükleyin. 
 
     - [Destek ve Kurtarma Yardımcısı](https://aka.ms/SARA-OfficeUninstall-Alchemy)’nı indirip yükleyin. Açıldığında, **Office ürünlerini kaldır** seçeneğinden (varsa) kaldırmak istediğiniz sürümü seçin ve **İleri**’ye tıklayın. Ekranlarda ilerlemeye devam edin ve istendiğinde bilgisayarınızı yeniden başlatın. Yeniden başlattıktan sonra, SaRA kaldırma işlemini tamamlamak için otomatik olarak yeniden açılır.
-    - [Office’i kaldırmak için](https://aka.ms/sara-officeinstall) SaRA’yı kullanın. **Not**: SaRA’yı kullanarak Visio’yu veya Project’i ayarlamak Için [Visio’yu yükleme](https://aka.ms/SaRA-VisioSetupScenario) veya [Project’i yükleme](https://aka.ms/SaRA-ProjectSetupScenario) seçeneğini kullanın.  
+    - [Office’i kaldırmak için](https://aka.ms/sara-officeinstall) SaRA’yı kullanın. 
+    **Not**: SaRA’yı kullanarak Visio’yu veya Project’i ayarlamak Için [Visio’yu yükleme](https://aka.ms/SaRA-VisioSetupScenario) veya [Project’i yükleme](https://aka.ms/SaRA-ProjectSetupScenario) seçeneğini kullanın.  
 
 - Office’i yüklemek için [Office çevrimdışı yükle kullanın](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
 

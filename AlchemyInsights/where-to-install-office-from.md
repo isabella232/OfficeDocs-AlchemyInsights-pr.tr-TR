@@ -1,5 +1,5 @@
 ---
-title: Office 'in nereden yükleneceği
+title: Office nereden yüklenir
 ms.author: janellem
 author: janellem
 ms.audience: ITPro
@@ -11,25 +11,25 @@ ms.custom:
 - "913"
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: 38eb63760ecb16480b140e026565c7323473e8cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b38246a350fb0a2ad0c73ed7e126e8addf97eb008a3130954a2c01ecc8f4eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664622"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083286"
 ---
 # <a name="install-office"></a>Office'i yükleme
 
-Office 'i yüklemek için kullanıcıların masaüstü uygulamalarını ve [atanmış lisansı](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)Içeren bir [Microsoft 365 iş ürününe](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) sahip olmaları gerekir.
+Masaüstü Office yüklemek için, kullanıcıların [](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) Microsoft 365 uygulamalarını ve atanmış lisansı içeren bir kurumsal ürüne [sahip olması gerekir.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
   
-Office, aşağıdaki adımlardan sonra yüklenebilir:
+Office aşağıdaki adımları takiparak yükleyebilirsiniz:
   
-1. [Portal.Office.com/ols/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx) adresine gidin
+1. [Portal.office.com/OLS/MySoftware.aspx'a gidin](https://portal.office.com/OLS/MySoftware.aspx)
 
-2. Office giriş sayfasında, istediğiniz dili seçin ve ardından 64 bit veya 32 bit sürümü arasında seçim yapmak için **Gelişmiş** 'i seçin.
+2. Sayfa Office istediğiniz dili seçin ve ardından Gelişmiş'i  seçerek 64 bit veya 32 bit sürüm arasında bir seçim seçin.
 
-3. **Office 'ı yükle 'yi**seçin.
+3. **Yükleme'yi Office.**
 
-Daha fazla bilgi için, [PC veya Mac 'e Office 'ı indirme ve yükleme veya yeniden](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)yükleme konusuna bakın.
+Daha fazla ayrıntı için bkz. [PC veya Mac bilgisayara Office yükleme veya yeniden yükleme.](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
   
-Visio veya [Project ile](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)ilgili belirli yönergeler [için bkz.](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710)
+Visio veya Project ile ilgili özel yönergeler için bkz. [Visio’yu Yükleme](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) veya [Project’i Yükleme](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).

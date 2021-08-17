@@ -14,15 +14,15 @@ ms.custom:
 - "9003245"
 - "7922"
 - "7921"
-ms.openlocfilehash: b35d3a402bc08a27a818209385c5666b901fa524
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 95b5c3b768caf4b5d80a088a17a33facb39805fc766e4888586ae052d91681e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885560"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057878"
 ---
 # <a name="domain-service-synchronization"></a>Etki alanı hizmeti eşitlemesi
 
-Azure Active Directory etki alanı Hizmetleri (Azure AD DS) yönetilen etki alanındaki nesneler ve kimlik bilgileri, etki alanı içinde yerel olarak veya Azure Active Directory (Azure AD) kiracısından eşitlenebilir. İlk kez Azure AD DS 'yi dağıtırken, Azure AD 'den nesneleri çoğaltmaya yönelik otomatik tek yönlü eşitleme yapılandırılır ve başlatılır. Bu tek yönlü eşitleme, Azure AD DS yönetilen etki alanını Azure AD 'deki değişikliklerle güncel tutmak için arka planda çalışmaya devam eder. Azure AD DS 'den Azure AD 'ye geri eşitleme yapılmaz.
+Azure Active Directory Domain Services (Azure AD DS) tarafından yönetilen bir etki alanındaki nesneler ve kimlik bilgileri etki alanı içinde yerel olarak oluşturulabilir veya bir Azure Active Directory (Azure AD) kiracısı tarafından eşitlenir. Azure AD DS'yi ilk dağıtıldığında, otomatik tek yol eşitleme yapılandırılır ve Azure AD'den nesneleri çoğaltmak üzere başlatılır. Azure AD DS tarafından yönetilen etki alanını Azure AD'den yapılan tüm değişikliklerle güncel tutmak için, bu tek yolla eşitlemenin arka planda çalışması devam eder. Azure AD DS'den Azure AD'ye eşitleme işlemi olmaz.
 
-Azure Active Directory etki alanı hizmeti eşitlemesi hakkında daha fazla bilgi için bkz: [etki alanı hizmeti eşitleme](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 
+Etki alanı hizmeti eşitlemesi Azure Active Directory diğer ayrıntılar için bkz. [Etki Alanı Hizmeti Eşitlemesi.](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization) 
