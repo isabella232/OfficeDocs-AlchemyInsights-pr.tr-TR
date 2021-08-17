@@ -1,5 +1,5 @@
 ---
-title: Faturaya göre Öde (Çek/tel aktarımı)
+title: Faturayla ödemeye geç (havale/havale)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: ebdb65c76837b4a31c8f6cff89223481dec1ef804275608cfd60986a4f089204
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755423"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049553"
 ---
-# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Faturaya göre Öde (Çek/tel aktarımı)
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Faturayla ödemeye geç (havale/havale)
 
-Sorun açıklamanızı temel alarak sizin için bir çözüm bulduk. Çoğu müşteri, belgelerimizi takip ettikten sonra sorununu kendi başınıza çözümlerler.
+Sorun açıklamanıza bağlı olarak sizin için bir çözüm bulduk. Çoğu müşteri belgelerimizi takip ettikten sonra sorununuzu kendi kendine çöze kavuştur bulundu.
 
-Faturaya göre öde 'ye geçerseniz, bu, faturanızı fatura tarihinin 30 günü içinde ödeyeceğiniz anlamına gelir. Azure aboneliğiniz için ödeme yapmak üzere bir Azure desteğine istek gönderin. İsteğiniz onaylandıktan sonra, [Azure portalında](https://portal.azure.com/)fatura ödemesi için aboneliği değiştirebilirsiniz.
+Faturayla ödemeye geçiş olursa, fatura tarihini takipen 30 gün içinde faturanızı ödemeniz gerekir. Azure aboneliğinizin ödemelerini faturayla almaya uygun olmak için, Azure desteğine bir istek gönderin. Talebiniz onaylandıktan sonra Azure portalda fatura ödemesi aboneliğine [geçebilirsiniz.](https://portal.azure.com/)
 
-**Daha fazla devam etmeden önce aşağıdaki gereksinimleri/fatura ödeme isteğinde bulunan sınırlamaları gözden geçirin:**
+**Devam başlamadan önce, fatura ödeme seçeneğini talep etmek için aşağıdaki gereksinimleri/sınırlamaları gözden geçirin:**
 
-- [Azure portalında](https://portal.azure.com/) oturum açın ve ödeme yöntemlerine gidin. Fatura ödemesi için önceden onaylanmış olup olmadığını denetleyin.
-- Fatura ödemesi yalnızca iş hesaplarında kullanılabilir, kişisel hesaplarda kullanılamaz.
-- Fatura ödemenize geçmeden önce tüm bekleyen ücretleri ödemelisiniz.
-- Destek ekibi, fatura ödeme moduna uygun olup olmadığını belirlemek için hesabı gözden geçirir.
-- Market üçüncü taraf hizmetleri için fatura ödeme modu desteklenmez; geçerli aboneliği Market veya üçüncü taraf hizmetlerini içeren bir faturaya geçirmek istiyorsanız, bu hizmetlerin geçiş öncesinde silinmesi gerekir. Gelecekteki Market Hizmetleri için önce kredi kartında ayrı bir abonelik satın alın ve ardından Market üçüncü taraf hizmetlerini satın alın veya dağıtın.
-- Fatura ödemelerini değiştirdiğinizde, kredi veya banka kartı ödemesi 'ne geri dönebilirsiniz.
+- [Azure portalda oturum](https://portal.azure.com/) açın ve ödeme yöntemlerine gidin. Fatura ödemesi için önceden onaylanmış olup ola bir kontrol edin.
+- Fatura ödemesi yalnızca iş hesapları için kullanılabilir; kişisel hesaplarda kullanılamaz.
+- Fatura ödemeye geçiş yapmak için önce devreden tüm ücretleri ödemelisiniz.
+- Destek ekibi, fatura ödeme moduna uygun olup olmadığını belirlemek için hesabı inceler.
+- Fatura ödeme modu marketin 3. taraf hizmetlerde desteklenmiyor; Geçerli aboneliğini market veya üçüncü taraf hizmetleri içeren bir faturaya geçmek için bu hizmetlerin geçiş öncesinde silinmesi gerekir. Gelecek market hizmetleri için, önce kredi kartında ayrı bir abonelik satın alın ve ardından üçüncü taraf hizmetleri satın alın veya dağıtın.
+- Fatura ödeme yöntemine geçiş olduktan sonra, kredi kartı veya banka kartı ödemesi ödemeye geri geçesiniz.
 
-*Faturaya göre ödeme yapmayı onayladıktan sonra* Azure aboneliğinizi, [Azure portalında](https://portal.azure.com/)çek veya kablo aktarımı aracılığıyla fatura ödemenize değiştirebilirsiniz.
+*Faturayla ödeme onaylandıktan sonra,* Azure portalında bir veya daha fazla havale yoluyla Azure aboneliğinizi fatura  [ödemenize geçebilirsiniz.](https://portal.azure.com/)
 Bunu yapmak için:
 
-1. Hesap Yöneticisi olarak [Azure portalında](https://portal.azure.com/)oturum açın   .  **Maliyet yönetimi + faturalamayı** arayıp seçin.
-2. Fatura ödemesini yapmak istediğiniz aboneliği seçin. **Ödeme yöntemlerini** seçin.
-3. Komut çubuğunda **faturaya göre öde** düğmesini tıklatın.
+1. Hesap Yöneticisi olarak [Azure portalında](https://portal.azure.com/)   oturum açın. Maliyet Yönetimi + **Faturalama'yi bulun ve seçin.**
+2. Fatura ödemene geçmek istediğiniz aboneliği seçin. Ödeme **yöntemleri'ne seçin.**
+3. Komut çubuğunda Faturayla öde **düğmesine** tıklayın.
 
 **Önerilen Belgeler**
 
-- [Azure Faturalandırma faturanızı ve kullanım verilerinizi isteme/Indirme/görüntüleme](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
-- [Azure faturalarını doğrudan gelen kutunuza gönderin](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
-- [Faturayla öde](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice)
+- [Azure fatura ve kullanım verilerinizi İstek/İndirme/Görüntüleme](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Azure faturalarını doğrudan gelen kutunuza e-postayla gönderme](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Faturayla ödeme](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice)
 - [Ayrıntılı kullanım ücretlerini anlama](https://docs.microsoft.com/azure/billing/billing-understand-your-bill)
-- [Faturanızın şartlarını anlama](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
+- [Fatura ödeme koşullarınızı anlama](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
 - [Sahipliği aktarma](https://docs.microsoft.com/azure/billing/billing-subscription-transfer)

@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: 5b4aae884bff8be2a7b2a7018eb28e65aef87e50
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9ee8e58510ec8ca550de60ff7b07855427633bae055b738eeef3e838edd7c609
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708226"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048824"
 ---
-# <a name="id-like-to-sign-up-for-teams-for-free"></a>Teams'e ücretsiz olarak kaydolmak istiyorum
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Teams'a ücretsiz Teams istiyorum
 
-Teams birkaç farklı program aracılığıyla ücretsiz olarak kullanılabilir. Bu istekle destek ekibiyle iletişime geçerek zaten bir Microsoft 365 kiracınız var demektir. Bu da Microsoft Teams'e zaten sahip olduğunuz anlamına gelir.
+Teams, birkaç farklı program aracılığıyla ücretsiz olarak kullanılabilir. Bu istekle destekle iletişime geçerek, zaten bir kiracınız Microsoft 365 var demektir ve bu da zaten bir kiracınız Microsoft Teams.
 
-Çoğu durumda, Teams tüm kullanıcılarınız için varsayılan olarak açıktır. Bu açıkken kullanıcılarınız Teams'i masaüstü ve [](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)mobil istemcileri yükleyerek ya da   Microsoft Teams'de [tarayıcıdan](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client) [](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)    [çalıştırabilirsiniz.](https://www.microsoft.com/microsoft-teams/teams-for-work)
+Çoğu durumda, Teams tüm kullanıcılarınız için varsayılan olarak Açıktır. Bu açıkken, kullanıcılarınız Teams istemcilerini yükleyerek veya [](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)Microsoft Teams'de tarayıcıdan    [](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)  [](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)   çalıştırabilirsiniz. [](https://www.microsoft.com/microsoft-teams/teams-for-work)
 
-Bunun tek istisnası Eğitim için Microsoft Teams'tir (EDU). EDU lisansınız varsa, Microsoft Teams'i el ile etkinleştirmeniz gerekir. Bunu yapmak için Microsoft Teams'de Hizmetler ve eklentiler> Microsoft 365 **yönetim > gidin.** Yeni Teams yönetim merkezini kullanıyorsanız, Hizmetler'i ve **** eklentileri bulmak için yeni yönetim merkezini    **deneyin'i kapatmamız gerekir.** ÖNEMLİ: Değişikliklerinizin etkili bir şekilde devam etmek için 24 saate kadar beklemeniz gerekiyor olabilir.
+Bunun tek istisnası Eğitim için Microsoft Teams (EDU). Edu lisansınız varsa, bu özelliği el ile Microsoft Teams gerekir. Bunu yapmak için Hizmetler ve Microsoft 365 yönetim merkezi **>'ne > Microsoft Teams.** Yeni Yönetim Merkezi'ni Teams, Hizmetler ve eklentiler'i bulmak **** için Yeni yönetim merkezini    **deneyin'i kapatmalı.** ÖNEMLİ: Değişikliklerinizin etkili bir şekilde devamsı için 24 saate kadar beklemeniz gerekiyor olabilir.
 
-Teams ile uzaktan çalışanları destekleme [kılavuzlarımızı kaçırmayın.](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)
+Bu destekle uzak çalışanları desteklemeyle [ilgili kılavuzlarımızı Teams.](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)

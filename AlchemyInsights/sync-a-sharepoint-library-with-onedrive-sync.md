@@ -1,5 +1,5 @@
 ---
-title: SharePoint Kitaplığını OneDrive Eşitleme ile eşitleme
+title: OneDrive Eşitleme SharePoint Kitaplığı'OneDrive eşitleme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5797"
-ms.openlocfilehash: 66ed9c9e579eb591ea56436966976f6b1d9669b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 83f3793f4feadc68160046680d8291a259da3b417049be743f14a0f0784f4246
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831142"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049481"
 ---
-# <a name="sync-a-sharepoint-library-with-onedrive-sync"></a>SharePoint Kitaplığını OneDrive Eşitleme ile eşitleme
+# <a name="sync-a-sharepoint-library-with-onedrive-sync"></a>OneDrive Eşitleme SharePoint Kitaplığı'OneDrive eşitleme
 
 SharePoint dosyalarınızın yerel sabit sürücüyle eşitlensin diye aşağıdaki adımları tamamlayın:
 
