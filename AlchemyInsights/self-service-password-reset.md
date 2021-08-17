@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 680b0e869cdef360095e3f287a219261393ac0cac30868e541219de3485f0921
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 19b9471a610305fb25e61359d455d1824c5bec6033fd603da265af9333543ccc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54108936"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898444"
 ---
 # <a name="self-service-password-reset-sspr"></a>Kendi kendine parola sıfırlama (SSPR)
 
@@ -28,8 +28,8 @@ ms.locfileid: "54108936"
 
     Daha fazla bilgi için bkz.:
 
-    Temel SSPR ayarı - [Kullanıcıların kendi parolalarını sıfırlamasına izin verme](/microsoft-365/admin/add-users/let-users-reset-passwords)
+    Temel SSPR ayarı - [Kullanıcıların kendi parolalarını sıfırlamasına izin verme](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)
 
-    [SSPR SSS](/azure/active-directory/authentication/active-directory-passwords-faq)
+    [SSPR SSS](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
 
-    [SSPR Sorun Giderici](/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
+    [SSPR Sorun Giderici](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)

@@ -12,16 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a35e818ea5005a29163d990825a753ca834e9f8c24d6038b319b1382587fc286
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967965"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898340"
 ---
 # <a name="find-a-specific-quarantined-message"></a>Belirli bir karantinaya alınmış iletiyi bulma
 
-1. Güvenlik ve [Uyumluluk & gidin.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Tehdit yönetimi **Karantinayı Gözden**  >  **Geçirme'ye**  >  **gidin.**
-3. **Arama'ya seçin.**
-4. Koşulların yanındaki onay kutularını seçerek koşulların herhangi bir bileşimini seçin (şu anda joker karakter kullanamazsınız).
+1. Aşağıdaki Microsoft 365 Defender portalında, İşbirliği Gözden Geçirme <https://security.microsoft.com> **Karantinası'& e-posta** \> **gönder'e** \> **gidin.**
+
+   Doğrudan Karantina sayfasına **gitmek için,** <https://security.microsoft.com/quarantine> kullanın.
+
+2. Karantina **sayfasında,** e-posta sekmesinin **seçili olduğunu** doğrulayın ve Filtre'ye **tıklayın.**
+3. Filtrelemek ve iletiyi bulmak için herhangi bir özellik birleşimini seçin.
+
+Daha fazla bilgi için, aşağıdaki konulara bakın:
+
+- [Karantinaya alınan iletileri kullanıcı olarak bulma ve serbest bırakma](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Karantinaya alınan iletileri ve dosyaları yönetici olarak yönetme](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
