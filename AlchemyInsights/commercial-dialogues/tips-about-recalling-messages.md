@@ -1,5 +1,5 @@
 ---
-title: İletileri geri çağırma hakkında ipuçları
+title: İpuçları geri çekme hakkında daha fazla bilgi
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 0e44d3c7c13511d2d5e3ad93eb9ca7c9786c8b2d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a259f4036e9f24e5f03f5526426df82a6644f8db7e0ccafee8aaa37dcd0f552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749786"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081486"
 ---
-# <a name="tips-about-recalling-messages"></a>İletileri geri çağırma hakkında ipuçları
+# <a name="tips-about-recalling-messages"></a>İpuçları geri çekme hakkında daha fazla bilgi
 
 İletileri geri çağırabilirsiniz ve geri çağıramayabilirsiniz:
 
 * Yönetici olarak, PowerShell kullanarak kullanıcılar adına iletileri geri çağırabilirsiniz. Yönetim merkezinden gelen iletileri geri çağırasınız.
-* Yalnızca kuruluşta yer alan insanlara gönderilen iletileri geri çağırabilirsiniz. Örneğin ileti bir Gmail adresine gönderilmişse, iletiyi geri çağırasınız.
-* **Yalnızca PC için Outlook 2016'dan gönderilen iletileri geri çağırabilirsiniz.** Kullanıcı Mac için Outlook veya Web üzerinde Outlook kullanarak ileti gönderirse, iletiyi geri çağırasınız.
+* Yalnızca kuruluşun kişilerine gönderilen iletileri geri çağırabilirsiniz. Örneğin ileti bir Gmail adresine gönderilmişse, geri çağırasınız.
+* **Yalnızca BILGISAYARıNıZ için Outlook 2016 iletileri geri çağırabilirsiniz.** Kullanıcı e-posta Mac için Outlook Web üzerinde Outlook ileti gönderirse, iletiyi geri çağırasınız.

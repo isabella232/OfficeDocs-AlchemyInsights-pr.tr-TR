@@ -1,5 +1,5 @@
 ---
-title: E-posta iletme raporu
+title: Otomatik iletili iletiler raporu
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,14 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 6ec48c625ad183b34cb9dd665e5275c0c6c23b075233fcee4712404ab8f37284
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f501b9c74b7480a706def72dd60fa9012c98318b1ef590a5c4c9c17d707d5240
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030148"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891471"
 ---
-# <a name="email-forwarding-report"></a>E-posta iletme raporu
+# <a name="auto-forwarded-messages-report"></a>Otomatik iletili iletiler raporu
 
-Kuruluşunuzda otomatik olarak iletilen iletilerin sayısını gösteren bir rapor görmek için, [Microsoft 365 Güvenlik &amp; Uyumluluk Merkezi](https://protection.office.com/#/homepage) altında [Otomatik olarak iletilen İletiler öngörüsü](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) içeriğini gözden geçirin.
-  
-Lütfen unutmayın: Güvenlik ve Uyumluluk Merkezi'nde ilk kez oturum açıyorsanız, kullanılabilir seçeneklerin tümünü görmek için birkaç dakika sonra tarayıcıyı yenilemeniz gerekebilir.
+Raporda, kurumda kaç otomatik ileti olduğunu görmek için, Raporlar [](https://docs.microsoft.com/exchange/monitoring/mail-flow-reports/mfr-auto-forwarded-messages-report) Posta akışı'nda yer alan Exchange yönetim merkezinde (EAC) Otomatik iletili iletiler <https://admin.exchange.microsoft.com/> \>  \> **raporuna bakın.** Veya doğrudan Otomatik iletili **iletiler sayfasına gitmek için** , <https://admin.exchange.microsoft.com/#/reports/autoforwardedmessages> kullanın.
   
