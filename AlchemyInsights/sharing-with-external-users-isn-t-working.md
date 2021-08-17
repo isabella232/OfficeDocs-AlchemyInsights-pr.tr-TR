@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 53f6fd009d3dab3cd66d33d9cd248201219caa1605c7a4e7758a5a8d720f68c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 02d79c1b1e112eb41e8c60ffa2ef28e429f76ada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910386"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304389"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Dış kullanıcılarla SharePoint paylaşma sorunlarını düzeltme
 
@@ -29,15 +29,14 @@ Dış paylaşımın, kurum için açık olduğundan emin olun:
     
 Site için dış paylaşımın açık olduğundan emin olun. Klasik bir site koleksiyonu için:
   
-1. Yeni yönetim SharePoint sol bölmede, siteler 'e **tıklayın.**
+1. Yeni yönetim SharePoint, sol bölmede siteler 'e **tıklayın.**
     
 2. Siteyi veya siteleri seçin ve şeritte Paylaşım 'a **tıklayın.**
     
-Bir grup veya iletişim sitesine Microsoft 365 ekip sitesi için:
+Bir grup veya iletişim Microsoft 365 ekip sitesi için:
   
 - Kuruluş genelindeki ayar oturum açma gerektirmeyen bağlantıları kullanarak dosya paylaşımına izin veren sürece bu yeni site türleri, kuruluş genelindeki ayarıyla aynı paylaşım ayarına sahiptir. Bu durumda, siteler oturum eden yeni ve var olan dış kullanıcılarla paylaşıma olanak sağlar. Belirli sitelerin ayarını değiştirmek için yönetim merkezi veya PowerShell SharePoint yeni yönetim merkezini kullanın. [Daha fazla bilgi edinin](https://go.microsoft.com/fwlink/?linkid=871863).
     
-> [!NOTE]
-> Herhangi bir sitenin dış paylaşım ayarı, kuruluş genelindeki ayarınıza göre daha kısıtlayıcı olabilir, ancak kuruluş genelindeki ayardan daha fazla izinli olmaz. 
+**Not:** Herhangi bir sitenin dış paylaşım ayarı, kuruluş genelindeki ayarınıza göre daha kısıtlayıcı olabilir, ancak kuruluş genelindeki ayardan daha fazla izinli değildir. 
   
 

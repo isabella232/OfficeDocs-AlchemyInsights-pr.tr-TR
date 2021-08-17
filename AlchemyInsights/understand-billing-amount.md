@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919689"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304353"
 ---
 # <a name="understand-billing-amount"></a>Fatura miktarını anlama
 
 **Müşteri Tarafından Yönlendirildi (WD):**
 
-- Faturanızı gözden geçirmenize ve anlamanıza yardımcı olmak için lütfen şu sayfalara [bakın: Öğretici:](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support) Tek tek Azure Faturanızı gözden geçirme
+- Faturanızı gözden geçirmenize ve anlamanıza yardımcı olmak için lütfen şu sayfalara bakın: Öğretici: Tek [tek Azure Faturanızı gözden geçirme](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Fatura ödeme koşullarınızı anlama: [Azure fatura koşullarının açıklaması](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Azure Kullanım ücretleri koşullarını anlama: [Kullanım koşullarının açıklaması](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Faturanızı PDF olarak ve ayrıntılı günlük kullanım dosyanın (.CSV) bir kopyasını almak için: Fatura [ve kullanım verilerini alma](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
@@ -47,14 +47,14 @@ ms.locfileid: "53919689"
 **Kurumsal Anlaşma (EA)**
 
 - Faturanızı gözden geçirmenize ve anlamanıza yardımcı olmak için lütfen şu ifadeye bakın: [Azure faturanızı Kurumsal Anlaşma anlama](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Microsoft hesabı (EA müşterisi) olan bir Azure Kurumsal Anlaşma, kuruluş faturalarını indiresiniz. Faturalar, kayıt için fatura almak üzere ayarlanmış olan kişiye gönderilir, azure portalında kullanımı [indirebilirsiniz.](https://portal.azure.com/)
+- Kurumsal Anlaşma hesabı (EA müşterisi) olan bir Azure müşterisiysanız, kuruluş faturalarını indiresiniz. Faturalar, kayıt için fatura almak üzere ayarlanmış olan kişiye gönderilir, azure portalında kullanımı [indirebilirsiniz.](https://portal.azure.com/)
 
 Hizmet fazlalık faturasını gözden geçirme:
 
-- Enterprise **portalında oturum açın.** **Raporlar**'ı seçin
+- **Enterprise portalında oturum açın.** **Raporlar**'ı seçin
 - Sekmenin sağ üst köşesinde, **M'den** **C'ye** görünümü değiştirme ve faturada dönemi eşleşme
 - Toplam Kullanım **tutarı,** hizmet fazla kullanım **faturasında** yer alan Toplam Genişletilmiş Tutar ile eşleşmeli
-- Ücretleriniz **hakkında daha fazla bilgi >** için Gelişmiş Rapor İndirmesi'ne **gidin.** Not: Bu rapor, vergileri, rezervasyon ücretlerini veya market ücretlerini içermemektedir
+- Ücretleriniz **hakkında daha fazla bilgi >** için Kullanım İndirme Gelişmiş Rapor İndirmesi'ne **gidin.** Not: Bu rapor vergileri, rezervasyon ücretlerini veya market ücretlerini içermemektedir
 
 **Azure Marketi**
 
@@ -62,12 +62,14 @@ Hizmet fazlalık faturasını gözden geçirme:
 
 Market faturasına gözden geçir:
 
-Uygulama portalında Raporlar ve Kullanım > Azure Marketi toplamını Enterprise faturanız ile karşılaştırın. Market faturası yalnızca Azure Marketi satın alma ve kullanım için hazır. Kullanım Özeti'ne miktarı vergi dahil değil.
+Yeni portalda Raporlar ve Kullanım > Azure Marketi toplamını Enterprise market faturanız ile karşılaştırın. Market faturası yalnızca Azure Marketi satın alma ve kullanım için hazır. Kullanım Özeti'ne miktarı vergi dahil değil.
 
-- Enterprise **portalında oturum açın.** **Raporlar**'ı seçin
+- **Enterprise portalında oturum açın.** **Raporlar**'ı seçin
 - Sekmenin sağ üst köşesinde, **M'den** **C'ye** görünümü değiştirme ve faturada dönemi eşleşme
 - **Azure Marketi toplamı,** market **faturadaki Toplam** Satışla eşleşmeli
-- Kullanım tabanlı **ücretleriniz hakkında** daha fazla bilgi almak için Kullanımı İndir'e gidin. Market **Ücretleri altında Notu** **İndir:** Bu rapor vergileri içermemiyor veya tek seferlik satın almaları göster'i seçin
+- Kullanım tabanlı **ücretleriniz hakkında** daha fazla bilgi almak için Kullanımı İndir'e gidin. Market **Ücretleri altında İndir'i** **seçin** 
+
+**Not:** Bu rapor vergileri dahil değildir veya tek seferlik satın almaları gösterir
 
 **Bulut Çözümü Sağlayıcısı (CSP)**
 
