@@ -1,5 +1,5 @@
 ---
-title: 1800014 Outlook mobil uygulamasında e-postayı ayarlama
+title: 1800014 Mobil uygulamada e-Outlook ayarlama
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -16,31 +16,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 218c50e1fb7cccb27001f20682785bab84fbfeb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6bc0d854d7033657bba8f0b72a379f82411dabc1c77d58007b8b93f8179daf5a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801060"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073944"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>Outlook mobil uygulamasında e-postayı ayarlama
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>Mobil uygulamada e Outlook ayarlama
 
-1. Mobil uygulamada e-postayı ilk kez ayarlarken **başlayın** 'ı seçin. Aksi takdirde, **menüye** dokunun ve sonra **Ayarlar** \> **Hesap Ekle** \> **e-posta hesabı ekle**'ye dokunun.
+1. Mobil **Başlarken** ilk kez e-posta ayarlamanızsa E-postayı Seç'i seçin. Aksi takdirde, **Menü'ye ve** ardından Hesap **E Ayarlar** \> **E-posta Hesabı Ekle'ye** \> **dokunun.**
 
-2. Tam e-posta adresinizi girin ve **devam et** veya **Hesap Ekle**'ye dokunun.
+2. Tam e-posta adresinizi girin ve **Devam'a veya Hesap** **Ekle'ye dokunun.**
 
-3. E-posta hesabınızın parolasını girin ve **oturum aç** 'A veya **İleri**'ye dokunun.
+3. E-posta hesabı parolanızı girin ve Oturum Açın **veya Sonraki** öğesine **dokunun.**
 
-4. [Çok faktörlü kimlik doğrulaması](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) etkinleştirilmişse, ayarladığınız yöntemi (6 basamaklı kod, telefon görüşmesi veya Microsoft Authenticator uygulaması) kullanmayı doğrulayın.
+4. Çok [faktörlü kimlik doğrulaması](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) etkinse, ayar yöntemini (6 basamaklı kod, telefon araması veya uygulamanın Microsoft Authenticator doğrulayın.
 
-5. Başka BT Yöneticisi ilkeleri varsa etkinleştirmek için **Etkinleştir** 'e dokunun.
+5. Başka IT yönetici ilkeleri varsa etkinleştirmek için **Etkinleştir'e** dokunun.
 
-6. Outlook takviminize, kişilerinize ve diğer bilgilerinize erişme izni isteyebilir. Evet veya **Izin ver** **'i** seçin.
+6. Outlook, kişiler ve diğer bilgilere erişim izni talep etmek zorunda olabilir. **Evet'i veya** İzin Ver'i **seçin.**
 
-Ayrıntılı bilgi edinin [Android Için Outlook](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) veya [iOS için Outlook](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) yönergelerini ayarlayın.
+iOS için Android veya Outlook [uygulamalarına yönelik](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) ayrıntılı [Outlook yönergeleri buradan](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) edinin.
   
- **Yardım mı gerekiyor?**
+ **Yardıma mı ihtiyacınız var?**
   
-- [Cep telefonunda e-posta kurulumu sorunlarını giderme](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [Mobil cihazlarda e-posta kurulumu sorunlarını giderme](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [İOS ve Android için Outlook 'ta uygulama içi yardım alma](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [iOS ve Android için Outlook uygulama içinde yardım al](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

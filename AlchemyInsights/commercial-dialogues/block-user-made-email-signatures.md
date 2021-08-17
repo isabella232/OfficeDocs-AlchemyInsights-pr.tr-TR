@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: ad743cea4b8735b35b90bd5bf3d0b5b933184ed82858e828a68beb2ca2f8270c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483362"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103572"
 ---
 # <a name="block-user-made-email-signatures"></a>Kullanıcı tarafından yapılan e-posta imzalarını engelleme
 
-Aşağıdaki çözüm yalnızca Web üzerinde Outlook'ta oluşturulmuş e-posta imzaları için geçerlidir. Outlook uygulamasındaki imzaları yalnızca şirket içi Exchange Server'nız varsa engelleyebilirsiniz.
+Aşağıdaki çözüm yalnızca E-posta'da oluşturulmuş e-posta imzaları Web üzerinde Outlook. İmzaları yalnızca şirket içi Outlook varsa, imzaları Exchange Server.
 
-1. Yönetim merkezinde Exchange Yönetim **merkezleri'ni**  >  **seçin.**
-2. İzinler   >  **Outlook Web App ilkelerine tıklayın.**
+1. Yönetim merkezinde Yönetim merkezleri ve **Merkezi'ni**  >  **Exchange.**
+2. **İlkeler için**  >  **Outlook Web App tıklayın.**
 3. İlkeyi seçin ve düzenlemek için kalem simgesine tıklayın.
-4. Diğer   >  **seçenekler'e tıklayın.**
+4. Özellikler Diğer  >  **seçenekler'e tıklayın.**
 5. Kullanıcı **deneyimi altında,** E-posta **imzası onay** kutusunu temizleyin ve Kaydet'e **tıklayın.**
 
 **Önemli:** Bu onay kutusunu temizlemeden önce bir imza eklenmişse, kullanıcı bu imzayı kullanmaya devam ediyor olabilir. Kaldırmalarını iste.
