@@ -17,30 +17,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 133b4dab80a69c7c47e1193e6109551ca665552fbf9168dde8be14096336efe5
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498992"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898912"
 ---
 # <a name="change-your-billing-address"></a>Fatura adresinizi değiştirme
 
 Faturanız üç adres içerir.
 
-**Ödeme yönteminin fatura adresini değiştirme**
+**Ödeme yöntemi için fatura adresini değiştirme**
 
 1. Yönetim merkezinde Fatura ve **Ödeme > [gidin.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 2. Değiştirmek istediğiniz kredi kartını veya banka hesabını seçin.
 3. Ödeme yöntemi **ayrıntıları sayfasında Düzenle'ye** **tıklayın.**
-4. Fatura adresinizi güncelleştirin ve ardından Bitti **kaydet'> tıklayın.**
+4. Fatura adresinizi güncelleştirin ve ardından Bitti olarak **Kaydet > tıklayın.**
 
-Adres ve bildirim değişiklikleri hakkında daha fazla bilgi için [bkz. İşletmeler](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)için fatura Microsoft 365 değiştirme .
+Adres ve bildirim değişiklikleri hakkında daha fazla bilgi için [bkz. İşletmeler](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)için Fatura Microsoft 365 değiştirme .
 
 **Fatura hesabı bilgilerini değiştirme**
 
 1. Yönetim merkezinde Faturalama ve **Faturalama > [gidin.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
 2. Fatura **hesabı bilgilerini düzenle'yi seçin.**
-3. Fatura hesabı bilgilerini güncelleştirin ve ardından Bitti olarak **Kaydet'> tıklayın.**
+3. Fatura hesabı bilgilerini güncelleştirin ve ardından Bitti Olarak **Kaydet'> tıklayın.**
 
 **Not:** Ülke/Bölge'nin ayarlarını değiştiremezsiniz. Bu alanın değişmesi gerekirse yeni bir kiracı satın alırsanız.

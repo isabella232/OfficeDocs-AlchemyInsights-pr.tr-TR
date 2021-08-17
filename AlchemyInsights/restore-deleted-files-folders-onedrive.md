@@ -1,5 +1,5 @@
 ---
-title: OneDrive 'da silinen dosyaları veya klasörleri geri yükleme
+title: Bir çalışma klasöründe silinmiş dosyaları veya klasörleri OneDrive
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3172"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 619c796dc1675cea33186d12af9df60adf2aaf31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b02cc8ce9bfe9c87b23d17aba0809a28cc558390812473914d378d60ea30a660
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808511"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109836"
 ---
-# <a name="restore-deleted-files-or-folders-in-onedrive"></a>OneDrive 'da silinen dosyaları veya klasörleri geri yükleme
+# <a name="restore-deleted-files-or-folders-in-onedrive"></a>Bir çalışma klasöründe silinmiş dosyaları veya klasörleri OneDrive
 
-OneDrive 'da bir dosyayı veya klasörü yanlışlıkla silerseniz, daha sonra OneDrive geri dönüşüm kutusundan kurtarabilirsiniz.
+Bir dosya veya klasörü yanlışlıkla OneDrive, daha sonra geri dönüşüm OneDrive kurtarabilirsiniz.
 
-* [OneDrive 'da silinen dosyaları veya klasörleri geri yükleme](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
+* [Bir çalışma klasöründe silinmiş dosyaları veya klasörleri OneDrive](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-OneDrive dosyalarınızın çoğu silinmiş, üzerine yazılmış, bozuk veya virüslü olabilir, OneDrive 'ı önceki bir zamana geri yükleyebilirsiniz.
+Birçok OneDrive silinir, üzerine yazılır, bozulur veya kötü amaçlı yazılımdan virüs bulaşırsa tüm dosyalarınızı OneDrive önceki bir zaman için geri yükleyebilirsiniz.
 
-* [OneDrive 'ı geri yükleme](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

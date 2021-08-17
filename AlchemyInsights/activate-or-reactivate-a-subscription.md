@@ -14,24 +14,24 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 0fd0eab942a07fdf4e01eb5b4a45dd1035b490bb4ef265e57c28701e93eb3c11
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937913"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889402"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aboneliği etkinleştirme veya yeniden etkinleştirme
 
 **Aboneliği etkinleştirme**
 
-- Kullanıcılara hizmet erişimi vermek için onlara lisans atayın. Nasıl olduğunu öğrenmek için [bkz. Kullanıcılara lisans atama](/microsoft-365/admin/manage/assign-licenses-to-users).
+- Kullanıcılara hizmet erişimi vermek için onlara lisans atayın. Nasıl olduğunu öğrenmek için [bkz. Kullanıcılara lisans atama](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Size atanmış bir lisansınız zaten varsa, hesabım sayfasından indirebilirsiniz [uygulamaları bulabilirsiniz.](https://portal.office.com/account/#installs) Bu sayfada, atanmış olan lisanslara göre indirmeniz için gerek kullanılabilen uygulamaların listesi yer almaktadır.
-- Office uygulamalarını Office, iş veya okul hesabınızla uygulamalarda oturum açmanız gerekiyor olabilir. Bunu herhangi bir Office uygulamasında (Word, Excel, vb.) Dosya Hesabı'Office   >   (altta) tıklayarak yapabilirsiniz. Kullanıcı **Bilgileri'nin** altında Hesap **Değiştir'i seçin.** Daha fazla bilgi için [bkz. Office yükleme.](/microsoft-365/admin/setup/install-applications)
+- Office uygulamalarını Office, iş veya okul hesabınızla uygulamalarda oturum açmanız gerekiyor olabilir. Bunu herhangi bir Office uygulamasında (Word, Excel, vb.) Dosya Hesabı'Office  >   (altta) tıklayarak yapabilirsiniz. Kullanıcı **Bilgileri altında Hesap** **Değiştir'i seçin.** Daha fazla bilgi için [bkz. Office yükleme.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
 
 **Aboneliği yeniden etkinleştirme**
 
-Aboneliğinizin süresi dolduğunda, Microsoft tarafından devre dışı bırakıldı ise veya abonelik süresinin ortasında aboneliğinizi iptal ettiyseniz yönetim merkezinde yeniden etkinleştirebilirsiniz.
+Aboneliğinizin süresi dolduğunda, Microsoft tarafından devre dışı bırakıldı ise veya abonelik süresinin ortasında aboneliğinizi iptal ettiyseniz, yönetim merkezinde yeniden etkinleştirebilirsiniz.
   
 1. Yönetim merkezinde Ürünlerinizi Faturalandırma   >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
 2. Ürünler **sekmesinde,** yeniden etkinleştirmek istediğiniz aboneliği bulun.
@@ -41,9 +41,9 @@ Aboneliğinizin süresi dolduğunda, Microsoft tarafından devre dışı bırak�
 4. Bu aboneliği **yeniden etkinleştir bölmesinde mevcut bir** ödeme yöntemini seçin veya Ödeme yöntemi ekle öğesini **seçin.**
 5. Yeniden **Etkinleştir'i seçin.**
 
-Daha fazla bilgi için bkz. [Aboneliğinizi yeniden etkinleştirme](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Daha fazla bilgi için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Ürün anahtarıyla yeni bir aboneliği etkinleştirme**
 
-1. Ürün anahtarınızla yeni Microsoft 365 bir abonelik etkinleştirmek için bkz. Ürün [anahtarınızı Office girme](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
-2. Microsoft 365 ürün anahtarınızı girip komut istemlerini izleyerek aboneliğinizi etkinleştirin. Etkinleştirmeyle ilgili sorunlarız varsa, bu sık karşılaşılan ürün [anahtarı hataları ve çözümleri listesine bakın.](/microsoft-365/commerce/product-key-errors-and-solutions)
+1. Ürün anahtarınızla yeni Microsoft 365 fazla aboneliği etkinleştirmek için bkz. Ürün [anahtarınızı Office girme](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+2. Microsoft 365 ürün anahtarınızı girip komut istemlerini izleyerek aboneliğinizi etkinleştirin. Etkinleştirmeyle ilgili sorunlarız varsa, bu sık karşılaşılan ürün [anahtarı hataları ve çözümleri listesine bakın.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

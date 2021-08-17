@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: f094d5fec9c85a7db0a3757177c3866f25e7b2227b05a41bcd554b1dda092517
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bc10199fe98460f55519e56dbacd7d49f09df89be6d677c4fe2b6b95f529e26d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54077418"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889746"
 ---
 # <a name="need-help-with-email-quarantine"></a>E-posta karantinada yardıma mı ihtiyacınız var?
 
-- **E-posta iletilerini karantinadan görüntülemek ve serbest** bırakmak için, güvenlik ve uyumluluk [Office 365'nde Karantina & gidin.](https://protection.office.com/quarantine) Ayrıntılı yönergeler [burada.](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages)
-- İleti hatalı olarak karantinaya alındıktan **sonra (hatalı** pozitif sonuç) ise, Karantina sayfasında iletiyi budikten sonra "İletileri çözümleme için Microsoft'a bildir" seçeneğine tıklayın. 
-- İletinin **"karantina nedeni" alanı** altında karantinaya alınmasının nedenini bulun.
-- **Karantinada e-postalar eksik mi?** Karantinaya alınmış bazı e-postalar son kullanıcılar tarafından yayım olamaz. Bunlar büyük olasılıkla, yüksek güvene sahip kimlik avı e-postaları, kötü amaçlı yazılım veya aktarım eylemi tarafından sınıflandırılmış iletilerdir. Yöneticiler bu [iletileri görüntüleme, sürüm veya silebilir.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide) 
+- E-posta **iletilerini karantinadan** son kullanıcı olarak görüntülemek  ve serbest bırakmak için, Karantinayı Gözden Geçir'de veya doğrudan Microsoft 365 Defender portalında Karantina  \>  sayfasına <https://security.microsoft.com/quarantine> gidin. Ayrıntılı yönergeler için [bkz. Karantinaya alınmış iletilerinizi görüntüleme](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user#view-your-quarantined-messages).
+- İleti hatalı olarak karantinaya alındı ise (hatalı pozitif **sonuç)**, listeden iletiyi seçin ve çözümleme için **İletileri Microsoft'a bildir'e tıklayın.**
+- İletinin **karantinaya alınma nedenini, Nedenini** **karantinaya alın alanında** bulun.
+- **Karantinada e-posta iletisi eksik mi?** Karantinaya alınmış bazı e-posta, son kullanıcılar tarafından görüntü alınama veya serbest bırakıyabilirsiniz. Bunlar büyük olasılıkla kimlik avı, kötü amaçlı yazılım veya posta akış kuralı (aktarım kuralı olarak da bilinir) tarafından sınıflandırılmış iletilerdir. Yöneticiler bu iletileri görüntüde veya sürümde ilebilir veya silebilir. Daha fazla bilgi için, [EOP'de yönetici olarak karantinaya alınmış](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)iletileri ve dosyaları yönetin.

@@ -1,5 +1,5 @@
 ---
-title: Ekip sohbetinde bilinmeyen kullanıcıyla ilgili sorunu çözme
+title: Sohbette Bilinmeyen Kullanıcı ile ilgili Teams çözme
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003807"
 - "6809"
-ms.openlocfilehash: 523c11cb9d5c4696703c67c2a6b3184f5d12f8e7
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 276a073a7213bca4a66dc6b9f27b6c9270a2845c9f2b3aaee791ce28f17e9a75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109944"
 ---
-# <a name="resolving-issue-with-unknown-user-in-teams-chat"></a>Ekip sohbetinde "Bilinmeyen Kullanıcı" ile ilgili sorunu çözme
+# <a name="resolving-issue-with-unknown-user-in-teams-chat"></a>Sohbette "Bilinmeyen Kullanıcı" ile ilgili Teams çözme
 
-Bazen, kaldırılmış bir Kullanıcı "Bilinmeyen Kullanıcı" olarak görünür. Bu bilinen bir [sorundur](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/removed-user-appears-as-unknown).
+Bazen, kaldırılan kullanıcı "Bilinmeyen Kullanıcı" olarak görünür. Bu bilinen bir [sorundur.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/removed-user-appears-as-unknown)
 
-Ekip sohbetlerinde "Bilinmeyen Kullanıcı" olarak gösterilen kullanıcıları kalıcı olarak görüyorsanız, önbelleği deneyin:
+Sürekli olarak sohbetlerde kullanıcıların "Bilinmeyen Kullanıcı" olarak Teams görüyorsanız, önbelleği temizlemeyi deneyin:
 
-1.  Görev çubuğundaki takımlar simgesine sağ tıklayın. **Quit** 'i tıklatın.
-2.  Bilgisayarınızdaki%appdata%\Microsoft\teams\ klasörüne gidin ve bu dizindeki tüm dosyaları silin.
+1.  Görev çubuğundaki Teams simgesine sağ tıklayın. Çık **'a tıklayın.**
+2.  Bilgisayarınızda %appdata%\Microsoft\teams\ klasörüne gidin ve bu dizindeki tüm dosyaları silin.
 
-Anonim kullanıcıların, lobide beklediklerini sağlayarak toplantıları katılırsanız. Daha fazla bilgi için bkz [.](https://support.microsoft.com/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e)
+Anonim kullanıcıların lobide bekleyenince toplantılara katılmalarını önebilirsiniz. Daha fazla bilgi için [bkz. Toplantının katılımcı Teams değiştirme.](https://support.microsoft.com/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e)
