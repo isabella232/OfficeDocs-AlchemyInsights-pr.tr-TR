@@ -1,5 +1,5 @@
 ---
-title: Hata 30174-4 için çözümler
+title: Hata 30174-4 çözümleri
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,22 +14,22 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: fee75a657db7c3e79a8098a9691b2f7d0490acd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca8f4d68eae7ff223e396925678fbcfd5af7537ff50153bf91d35ed04b41b554
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050174"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a>Office 'i yüklerken hata kodu 30174-4
+# <a name="error-code-30174-4-when-installing-office"></a>Hata kodu 30174-4 yükleme Office
 
-Virüsten koruma yazılımınız, güvenlik duvarınız, proxy ayarlarınız veya bağlantınız Office 'i yüklemenizi engelliyorsa bu hatayı görebilirsiniz. Burada sorunu çözmek için deneyebileceğiniz bazı şeyler bulabilirsiniz.
+Virüsten koruma yazılımınız, güvenlik duvarınız ara sunucu ayarlarınız veya bağlantınız virüsten koruma yazılımınız veya bilgisayarınıza Office. İşte sorunu çözmek için deneyeceğimiz bazı şeyler.
   
-- Kablolu bağlantı kullanın
+- Kablolu bağlantı kullanma
 
 - Proxy ayarlarını geçici olarak kapatma
 
 - Virüsten koruma yazılımını geçici olarak kapatma
 
-[Office 'i yüklerken hata kodu 30174-4](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[Hata kodu 30174-4 yükleme Office](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   

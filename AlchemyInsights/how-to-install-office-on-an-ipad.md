@@ -1,5 +1,5 @@
 ---
-title: iPad'e Office yükleme
+title: Office bilgisayara yükleme iPad
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
 ms.custom:
 - "649"
 - "2000016"
-ms.openlocfilehash: 917c4354ccabe48a1e7a32855dd5bc7e21630a4e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8762321c9cd758b96ee6d2dce62d1c31cacc45c71a43cdc5f454ea04fe6a24f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078858"
 ---
-# <a name="how-to-install-office-on-an-ipad"></a>iPad'e Office yükleme
+# <a name="how-to-install-office-on-an-ipad"></a>Office bilgisayara yükleme iPad
 
-- Word, Excel, PowerPoint [ve](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) OneNote için kullanıcının mobil cihazından indirme bağlantısına dokunması gerekir.
+- Kullanıcının mobil [cihazından indirme bağlantısına](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) dokunması için Word, Excel, PowerPoint ve OneNote.
 
 - Kullanıcının uygulamayı başlatmasını ve Oturum **aç'a dokunmasını** ve iş veya okul kimlik bilgilerini girin.

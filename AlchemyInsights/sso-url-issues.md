@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7812"
-ms.openlocfilehash: 7ab8c9f64e376218ca6c76056952f8f835f699ac
-ms.sourcegitcommit: 688642f4ebc0f1c335e954e780bb9ec8893e2f3f
+ms.openlocfilehash: 2ebad785eb966e822d7dfedbaaa0e37c6d6acb2e4aff12e1c4f85c5cc481bd65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917175"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049994"
 ---
 # <a name="sso-url-issues"></a>SSO URL sorunları
 
-1. [Kullanıcı-oluşturma SSO URL 'si](https://docs.microsoft.com/rest/api/apimanagement/2019-12-01/User/GenerateSsoUrl) : belirli bir kullanıcıyı Geliştirici Portalında imzalamak için kimlik doğrulama belirtecini içeren bir yeniden yönlendirme URL 'si alır.
-2. Bir oturum açma sayfasına veya hata sayfasına yönlendirilmeniz halinde bir [belge IÇINDE SSO Web sitesine köprü 'yü](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/click-hyperlink-to-sso-website) tıklattığınızda veya bir OFFICE belgesinde SSO Web sitesinin köprüsünü tıklattığınızda kimlik doğrulama bilgileri istenirse sorunlara bakın.
-3. Yönlendirme URI (yanıt URL 'SI) kısıtlamalarının ve sınırlamaların listesi için [Bu makaleye](https://docs.microsoft.com/azure/active-directory/develop/reply-url) bakın.
+1. [Kullanıcı - SSO Url'si](https://docs.microsoft.com/rest/api/apimanagement/2019-12-01/User/GenerateSsoUrl) Oluştur - Belirli bir kullanıcıyı geliştirici portalında imzalamak için kimlik doğrulama belirteci içeren bir yeniden yönlendirme URL'si alır.
+2. Bir oturum açma sayfasına veya hata sayfasına yeniden yönlendirildiysanız veya bir Office belgesinde SSO Web sitesi köprüsüne tıklarsanız, belgedeki [SSO Web](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/click-hyperlink-to-sso-website) sitesi köprüsüne tıklarsanız kimlik doğrulama bilgileri istendiğinde, Belgedeki SSO Web sitesi köprüsüne tıklarken karşılaşılan Sorunlar'a bakın.
+3. Yeniden [yönlendirme URI'si](https://docs.microsoft.com/azure/active-directory/develop/reply-url) (yanıt URL'si) kısıtlamaları ve sınırlamalarının listesi için bu makaleye bakın.

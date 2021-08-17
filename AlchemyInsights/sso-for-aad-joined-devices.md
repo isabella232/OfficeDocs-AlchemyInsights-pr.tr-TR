@@ -1,5 +1,5 @@
 ---
-title: Single-Sign Active Directory'ye katılmış cihazlar için daha fazla bilgi edinin
+title: Single-Sign katıldığınız Azure Active Directory için daha fazla bağlantı
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9891"
-ms.openlocfilehash: f6426a3fb4addc24c5041196fe837134bf0d296b
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 365225926296677feb7853481651a634792fd8bfa9abd9dc9359ffaae50b60eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405664"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050030"
 ---
-# <a name="single-sign-on-for-azure-active-directory-joined-devices"></a>Azure Active Directory'ye Katılan Cihazlar için çoklu oturum açma
+# <a name="single-sign-on-for-azure-active-directory-joined-devices"></a>Katıldığınız Cihazlar için Azure Active Directory oturum açma
 
-Şirket içi Active Directory (AD) ortamınız varsa ve AD etki alanına katılmış bilgisayarlarınızı Azure AD'ye katılmak istiyorsanız, karma Azure AD birleştirmeyi yaparak bunu gerçekleştirebilirsiniz. [Nasıl Kullanılır: Karma Azure Active Directory birleştirme](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) uygulamanızı planlamak, ortamınıza karma bir Azure AD birleştirmesi uygulamayla ilgili adımlar sağlar.
+Şirket içi Active Directory (AD) ortamınız varsa ve AD etki alanına katılmış bilgisayarlarınızı Azure AD'ye katılmak için, karma Azure AD birleştirmeyi yaparak bunu gerçekleştirebilirsiniz. [Nasıl İlgili: Karma Azure Ad Azure Active Directory planlama,](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) ortamınıza karma bir Azure AD birleştirmesi uygulamak için ilgili adımları sağlar.
 
-[İş için Windows Hello kullanarak Şirket İçi Single-Sign Için Azure AD'ye katılmış cihazları yapılandırma](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) 
+[Windows Hello For Business kullanarak Şirket içi cihazlar için Azure AD'ye Single-Sign cihazları yapılandırma](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) 
 
-**Birincil Yenileme Belirteci (PRT) sorunları** Birincil Yenileme Belirteci (PRT), Windows 10, Windows Server 2016 ve sonraki sürümler, iOS ve Android cihazlarında Azure AD kimlik doğrulamasının önemli bir yapıdır. Bu, bu cihazlarda kullanılan uygulamalarda çoklu oturum açmayı (SSO) etkinleştirmek için Microsoft birinci taraf belirteç aracıları için özel olarak verilen bir JSON Web Belirtecidir (JWT). [Birincil Yenileme Belirteci nedir?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)Windows 10 cihazlarında BIR PRT'nin nasıl çıkar, kullanılır ve korunarak nasıl korunduğla ilgili ayrıntılar sağlarız.
+**Birincil Yenileme Belirteci (PRT) sorunları** Birincil Yenileme Belirteci (PRT), Windows 10, Windows Server 2016, iOS ve Android cihazlarında Azure AD kimlik doğrulamasının önemli bir yapıdır. Bu, bu cihazlarda kullanılan uygulamalarda çoklu oturum açma (SSO) özelliği sağlamak için microsoft birinci taraf belirteç aracıları için özel olarak bir JSON Web Belirteci (JWT) verir. [Birincil Yenileme Belirteci nedir?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)altında, farklı cihazlarda PRT'nin nasıl konuldu, kullanıldı ve Windows 10 sağlarız.
 
-**WamDefaultSet: YES ve AzureADPrt: YES** Bu alanlar, kullanıcının cihazda oturum a açması için Azure AD'de başarılı bir şekilde kimlik doğrulaması olup olmadığını gösterir. Değerler NO **ise,** son tarihi şu olabilir:
+**WamDefaultSet: YES ve AzureADPrt: YES** Bu alanlar, cihazda oturum a açmada kullanıcının Azure AD'ye başarıyla kimlik doğrulaması edip olmadığını gösterir. Değerler NO **ise,** bunun nedeni şu olabilir:
 
-- Kayıt sırasında cihazla ilişkilendirilmiş OLAN TPM'de hatalı depolama anahtarı (yükseltilmiş çalışırken KeySignTest'i kontrol edin).
+- Kayıt sırasında cihazla ilişkilendirilmiş TPM'de kötü depolama anahtarı (yükseltilmiş çalışırken KeySignTest'i kontrol edin).
 - Alternatif Oturum Açma Kimliği
 - HTTP Proxy bulunamadı
 
-dsregcmd komutunu kullanarak cihaz sorunlarını giderme - [SSO durumu](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state)
+dsregcmd komutunu - [SSO](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state) durumunu kullanarak cihaz sorunlarını giderme
