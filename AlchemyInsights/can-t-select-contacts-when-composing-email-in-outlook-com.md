@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 'de e-posta oluştururken kişileri seçemiyorum
+title: Outlook.com'da e-posta oluşturmak için kişi seçemim
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,13 +15,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: 439a9889a688c1945b2c907f71fa7a9a73e9b0e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfc88e44fde67792fe7362b78f54970c313661df76dea752cdd85fd03802d290
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045980"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a>E-posta oluştururken kişiler seçemiyorum
+# <a name="cant-select-contacts-when-composing-email"></a>E-posta oluşturmada kişiler seçilem
 
-Yeni bir e-posta oluştururken, **Kime veya** **bilgi** düğmelerine tıkladıklarında bazı müşteriler kişilerin listesini göremezler. Kişi **seçmek için kime veya** **bilgi** alanlarına yazmaya başlayın ve ilgili kişileriniz görüntülenir.
+Yeni e-posta oluşturmada, bazı müşterilerE veya Bilgi düğmelerine tıklayana kadar **kişi** **listesini** görmüyor. Kişi seçmek için, İlk veya Bilgi **alanlarına** **yazmaya** başlayın; ilgili kişileriniz görüntülenir.

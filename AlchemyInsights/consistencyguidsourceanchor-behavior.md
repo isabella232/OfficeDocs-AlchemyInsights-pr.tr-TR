@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: eafe1ec9636cddc9d73a88beb7ae3ad9f6fad660
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9b5765ff3c59b1312bead41a45a53478a96260df0567f006ab93c3ccfaf4be64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817012"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044361"
 ---
 # <a name="consistencyguid--sourceanchor-behavior"></a>TutarlılıkGuid / sourceAnchor behavior
 
-Azure AD Connect (sürüm 1.1.524.0 ve sonrası) artık msDS-ConsistencyGuid'ın sourceAnchor özniteliği olarak kullanımını kolaylaştırır. Bu özelliği kullanırken, Azure AD Connect eşitleme kurallarını otomatik olarak şu şekilde yapılandırıyor:
+Azure AD Bağlan (sürüm 1.1.524.0 ve sonrası) artık sourceAnchor özniteliği olarak msDS-ConsistencyGuid kullanımını kolaylaştırır. Bu özelliği kullanırken, Azure AD Bağlan eşitleme kurallarını şu şekilde otomatik olarak yapılandırıyor:
   
 - Kullanıcı nesneleri için sourceAnchor özniteliği olarak msDS-ConsistencyGuid'ı kullanın. ObjectGUID diğer nesne türleri için kullanılır.
     
-- msDS-ConsistencyGuid özniteliği doldurulmamış herhangi bir şirket içi AD Kullanıcı nesnesi için, Azure AD Connect nesneGUID değerini şirket içi Active Directory'de msDS-ConsistencyGuid özniteliğine geri yazar. msDS-ConsistencyGuid özniteliği doldurulduğunda, Azure AD Connect nesneyi Azure AD'ye aktarıyor.
+- msDS-ConsistencyGuid özniteliği doldurulmamış herhangi bir şirket içi AD Kullanıcı nesnesi için, Azure AD Bağlan nesneGUID değerini şirket içi Active Directory'de msDS-ConsistencyGuid özniteliğine geri yazar. msDS-ConsistencyGuid özniteliği doldurulduğunda, Azure AD Bağlan nesneyi Azure AD'ye aktarmış olur.
     
- **Not:** Şirket içi AD nesnesi Azure AD Connect'e aktarıldıktan (başka bir ifadeyle, AD Bağlayıcısı Alanı'nın içine aktarılmış ve Metaverse'e projesi) aktarılmışsa, artık sourceAnchor değerini değiştiremezsiniz. Belirli bir şirket içi AD nesnesinin sourceAnchor değerini belirtmek için, Azure AD Connect'e aktarmadan önce msDS-ConsistencyGuid özniteliğini yapılandırın. 
+ **Not:** Şirket içi AD nesnesi Azure AD Bağlan'e aktarıldıktan (başka bir ifadeyle, AD Bağlayıcısı Alanı'nın içine aktarılmış ve MetaVerse'e projesi) aktarılmışsa, sourceAnchor değerini artık değiştiremezsiniz. Belirli bir şirket içi AD nesnesinin sourceAnchor değerini belirtmek için, Azure AD'ye aktarmadan önce msDS-ConsistencyGuid özniteliğini Bağlan. 
   
-SourceAnchor ve ConsistencyGuid hakkında daha fazla bilgi için aşağıdakilere bakın: [Azure AD Connect: Tasarım kavramları](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+SourceAnchor ve ConsistencyGuid hakkında daha fazla bilgi için aşağıdakilere bakın: [Azure AD Bağlan: Tasarım kavramları](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 
