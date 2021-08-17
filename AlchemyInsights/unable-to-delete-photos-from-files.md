@@ -1,5 +1,5 @@
 ---
-title: 8000031, dosyalardaki fotoğraflar silinemiyor
+title: 8000031 Dosyalar'dan fotoğraf silinemiyor
 ms.author: daeite
 author: daeite
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: e07d4542c57fc57a9c7bf1a594ab4df104c88854
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 2735d7117969ceab23476f58cdcc3210ee912950799cc1082e151bff6bf692d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653380"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104976"
 ---
-# <a name="unable-to-delete-photos-from-files"></a>Dosyalardan fotoğraflar silinemiyor
+# <a name="unable-to-delete-photos-from-files"></a>Dosyalar'dan fotoğraf silinemiyor
 
-Outlook.com 'daki dosyalardan fotoğraf silmek için:
+Outlook.com'da Dosyalar'dan fotoğrafları silmek için:
   
-1. **Gelen kutusu** veya **Gönderilmiş öğeler** klasörünüze gidin ve bağlı oldukları e-posta iletisini silin.
+1. Gelen Kutusu **veya Gönderilmiş** Öğeler **klasörünüze** gidin ve ekli olduğu e-posta iletiyi silin.
 
-2. Öğeleri **Silinmiş öğelerinizden**kaldırın.
+2. Silinmiş öğeler'inizin öğelerini **kaldırın.**
 
-Daha fazla bilgi için, [Outlook.com 'da dosya veya fotoğrafların nasıl silineceğini](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx)okuyun.
+Daha fazla bilgi için [Outlook.com'da dosya veya fotoğraf silme makalelerini okuyun.](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx)
   
