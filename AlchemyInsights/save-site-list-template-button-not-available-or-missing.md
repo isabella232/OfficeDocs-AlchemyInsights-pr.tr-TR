@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: a7dadd6fed2d6623c60e66a6ac564b6160be5aa5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 99d7bbd9494179f82a57749d802c5c8d4d98c5640f17d28f8562bd9ef5192ed8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51789308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109296"
 ---
 # <a name="save-sitelist-template-button-not-available-or-missing"></a>Site/liste şablonu kaydet düğmesi kullanılamıyor veya eksik
 
-Siteyi şablon olarak kaydetme özelliği, modern İletişim veya Ekip Siteleri ile desteklanmaz. Şablonları kullanma hakkında daha fazla bilgi için [bkz. SharePoint sitesini şablon olarak kaydetme, indirme ve karşıya yükleme.](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template)
+Siteyi şablon olarak kaydetme özelliği, modern İletişim veya Ekip Siteleri ile desteklanmaz. Şablonları kullanma hakkında daha fazla bilgi için bkz. SharePoint [sitesini şablon olarak kaydetme, indirme ve karşıya yükleme.](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template)
 
 Yöneticilerin şablon özelliklerini etkinleştirmek için Özel Betiklere İzin Vermeleri gerekir. Ayrıntılı adımlar, örnekler ve dikkate alınacak noktalar için bkz:
 

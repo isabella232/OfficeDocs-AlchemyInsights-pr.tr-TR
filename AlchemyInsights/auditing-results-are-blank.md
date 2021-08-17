@@ -12,23 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: 30395b291818c8f193fc2147e5302e04efe9929dad8df96586be1c3e75bd35aa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cfb9996bda7d18453d1fe14b398f0f6dfcbd0d9965cb6e7674f3b6bb8fbc143f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53917731"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893119"
 ---
 # <a name="auditing-results-are-blank"></a>Denetim sonuçları boş
 
- **Klasik siteler için denetim raporları**
+**Klasik siteler için denetim raporları**
   
-Bir site koleksiyonuna bir SharePoint görüntülemek için, site koleksiyonunda yönetici olmak gerekir. Kendinizi yönetici olarak eklemek için [bkz. Site koleksiyonu yöneticilerini](https://go.microsoft.com/fwlink/?linkid=869390)genel yönetici veya SharePoint ekleme . Denetim günlüğüyle çalışma hakkında daha fazla bilgi için [bkz. Denetim günlüğü raporlarını görüntüleme](https://go.microsoft.com/fwlink/?linkid=395237). 
+Bir site koleksiyonunda yer alan SharePoint için, site koleksiyonunda yönetici olmak gerekir. Kendinizi yönetici olarak eklemek için bkz. [Site yöneticilerini yönetme](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators). Denetim günlüğüyle çalışma hakkında daha fazla bilgi için [bkz. Denetim günlüğü raporlarını görüntüleme.](https://support.microsoft.com/office/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
   
- **Denetim günlüğünde arama**
+**Denetim günlüğünde arama**
   
-Güvenlik Uyumluluk Merkezi'nde denetim günlüğüyle çalışmak için genel yönetici [ &amp; olmak gerekir.](https://protection.office.com) Başlamadan önce denetim günlüğünü açma. Ardından, denetim günlüğü aramalarını çalıştırarak. 
+'daki denetim günlüğünde veya portalında denetim günlüğüyle Microsoft 365 uyumluluk merkezi <https://compliance.microsoft.com/auditlogsearch> için genel Microsoft 365 Defender <https://security.microsoft.com/auditlogsearch> gerekir. Başlamadan önce denetim günlüğünü açma. Ardından, denetim günlüğü aramalarını çalıştırarak.
   
-[Denetim günlüğünde nasıl arama yapmayı öğrenin.](https://go.microsoft.com/fwlink/?linkid=708432)
-  
-
+[Denetim günlüğünde nasıl arama yapmayı öğrenin.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)

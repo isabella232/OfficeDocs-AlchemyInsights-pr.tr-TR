@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "11941"
 - "9007100"
-ms.openlocfilehash: f16a13eca800044fa0e6a40e3f085a21196e625d00f7898cdc0f5a20a218b170
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d33c4cf06e6812bca2d02122fad429c82f54dc47f9147e13cc57c7b1bff689f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57813937"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892759"
 ---
 # <a name="debug-webview2-apps"></a>WebView2 uygulamaları hata ayıklama
 
-WebView2 uygulamanızı geliştirirken, hata ayıklaması yapmaya dikkat edin. WebView2 uygulamanıza hem web hem de yerel kodda hata ayıklamaya yönelik araçlar hakkında daha fazla bilgi için bkz. WebView2 uygulamaları hata [ayıklamaya başlama.](/microsoft-edge/webview2/how-to/debug)
+WebView2 uygulamanızı geliştirirken, hata ayıklaması yapmaya dikkat edin. WebView2 uygulamanıza hem web hem de yerel kodda hata ayıklamaya yönelik araçlar hakkında daha fazla bilgi için bkz. WebView2 uygulamaları hata [ayıklamaya başlama.](https://docs.microsoft.com/microsoft-edge/webview2/how-to/debug)

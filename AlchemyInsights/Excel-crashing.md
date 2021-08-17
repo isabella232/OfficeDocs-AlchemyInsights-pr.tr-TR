@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918487"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312779"
 ---
 # <a name="frequent-excel-crashes"></a>Sık Excel kilitlenmeler mi var?
 
-Hatalı bir Excel, hatalı bir eklenti neden olabilir. Aşağıdaki yönergeleri izleyerek Excel eklentiyi devre dışı 300'e 500'e 5000'e kadar devre dışı edin:
+Hatalı bir Excel sık kilitlenmelere neden olabilir. Aşağıdaki yönergeleri izleyerek Excel eklentisini devre dışı 300'e yanit dışı 365 saat olarak kullanabilirsiniz:
   
 1. Dosya  \> **Seçenekleri**, \> **Eklentiler'i seçin.**
 
@@ -28,8 +28,7 @@ Hatalı bir Excel, hatalı bir eklenti neden olabilir. Aşağıdaki yönergeleri
 
 3. Kullanılabilir Add-Ins kutusunda, devre dışı bırakmak istediğiniz eklentinin yanındaki onay kutusunu temizleyin ve Tamam'a **tıklayın.**
 
-> [!NOTE]
-> Başlatma Excel bir uygulama kilitleniyorsa, lütfen programı Kasa sırasında Ctrl tuşunu basılı tutarak bu modu Kasa modunda başlatın.
+**Not:** Excel sırasında uygulama kilitleniyorsa, lütfen programı Kasa sırasında Ctrl tuşunu basılı tutarak bu modu başlatabilirsiniz.
   
 Hala sorun yaşıyorsanız, aşağıdaki makalelere bakın:
   

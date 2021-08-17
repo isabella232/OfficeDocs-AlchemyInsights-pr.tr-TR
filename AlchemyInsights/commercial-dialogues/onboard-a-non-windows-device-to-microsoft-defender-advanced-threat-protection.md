@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender Gelişmiş Tehdit Koruması'ne (MDATP) Windows dışı bir cihaz ekleme
+title: Microsoft Defender Gelişmiş Tehdit Windows (MDATP) hizmetine yerleşik olmayan bir cihaz ekleme
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: de230abdc56d32780e70e5ae1bf95ac45e9252cc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 228fe6a4514df4508dda7f7fbdfa650a439b38ef51abafa7936afa4ecfd54e04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081882"
 ---
-# <a name="onboard-a-non-windows-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Microsoft Defender Gelişmiş Tehdit Koruması'ne (MDATP) Windows dışı bir cihaz ekleme
+# <a name="onboard-a-non-windows-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Microsoft Defender Gelişmiş Tehdit Windows (MDATP) hizmetine yerleşik olmayan bir cihaz ekleme
 
 Cihazın Linux dağılımının mı yoksa macOS sürümünün MDATP ile uyumlu olup olmadığını belirleme:
 
 - [Linux cihazları için gereksinimler](https://go.microsoft.com/fwlink/?linkid=2143462)
 - [macOS cihazları için gereksinimler](https://go.microsoft.com/fwlink/?linkid=2143461)
-- [Windows dışı cihazları ekleme](https://go.microsoft.com/fwlink/?linkid=2143628)
+- [Windows olmayan cihazları ekleme](https://go.microsoft.com/fwlink/?linkid=2143628)

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 3514600ba19efe508adc552fa26bdd64ec107f00
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 170219c96a82a00db66757874c9d0c447e9064c626331b153e070ad9010f7e7b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081846"
 ---
 # <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>E-postanın, URL'nin veya ek gönderimin durumunu gözden geçirme
 
-E-posta iletisi, URL veya ek gönderdikten sonra, aynı gönderimler sayfasında durumunu ve sonuçlarını kontrol edebilirsiniz.
+E-posta iletisi, URL veya ek gönderdikten sonra, aynı gönderiler sayfasında durumunu ve sonuçlarını kontrol edebilirsiniz.
 
-Sayfada gönderimin ilerlemesini görebilir, ayrıca önceki gönderilerin ayrıntılarını ve sonuçları görmek için detaya girebilirsiniz.
+Ayrıca, sayfada gönderimin ilerlemesini görebilir ve ayrıca, önceki gönderilerin ayrıntılarını ve sonuçları görmek için detaya girebilirsiniz.
 
 > [!NOTE]
 > Gönderiler Gezgini'ni kullanarak bir öğe gönderdiğinizde, sonuçların görünmesi birkaç dakika sürebilir.
