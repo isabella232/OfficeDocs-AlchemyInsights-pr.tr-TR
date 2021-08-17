@@ -13,24 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403259"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883375"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft Güvenli Puan
 
-Microsoft Güvenli Puan'ı kullanarak ortamınızı daha güvenli hale kullanabilirsiniz. Bunu, güvenlik için kredi puanı olarak düşün. Bu size, kuruluş güvenliğinizi geliştirmeye yardımcı olacak işlemler gerçekleştirebilirsiniz.
+Microsoft Güvenli Puanı'ı kullanarak ortamınızı daha güvenli hale kullanabilirsiniz. Bunu güvenlik için kredi puanı olarak düşün. Bu, size, kuruluş güvenliğinizi artırmaya yardımcı olacak işlemler gerçekleştirin.
 
-1. [Office 365 Güvenlik ve Uyumluluk & gidin.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Microsoft Güvenli Puan kartını seçin veya [Microsoft Güvenli Puan'a gidin.](https://go.microsoft.com/fwlink/?linkid=2099589)
-    > [!TIP]
-    >  Microsoft Güvenli Puana Genel Bakış sayfasında, kuruluş güvenliğini sağlama önerileri için Geliştirme eylemleri'ne tıklayın. Sırayla tamamlarsanız daha iyi olacak eylemleri hızlı bir şekilde tanımlamak için tabloda Filtrele veya Grupla'yi seçin.
-1. Listeden bir geliştirme eylemi seçin. Eylemin kısa bir açıklamasını veren bir açılır çıkış görüntülenir.
-1. Görünüm **ayarlarına** tıklayın ve sonraki adımlarda sağlanan yönergeleri **izleyin.**
+1. aşağıdaki Microsoft 365 Defender portalında <https://security.microsoft.com> Güvenli **puan'a gidin.**
+
+   Doğrudan Güvenli puan **sayfasına gitmek** için <https://security.microsoft.com/securescore>
+
+2. Gözden geçirme **eylemleri ve** En  iyi geliştirme **eylemleri bölümlerindeki** Genel bakış sekmesinde, kuruluş güvenliğini sağlamayla ilgili önerileri not edin.
+
+3. Geliştirme **eylemleri sekmesinde,** Geliştirme  Sıraları eylem girdilerinde To adresi  veya **Regresyon** **durum** değerlerine sahip olduğunu unutmayın.  Tablodaki **Filtrele** **veya Grupla'ya** kullanarak, sırayla tamamlarsanız daha iyi olabileceğiniz eylemleri hızla tanımlayabilirsiniz.
+
+4. Geliştirme eylemleri **sekmesindeki** **listeden bir Son** adresi veya Regresyon **öğesi** seçin. Yeni bir sayfa açılır ve tam bir açıklama ile sorunu **düzeltmek** için Yönet düğmesi görüntülenir.
+
     > [!NOTE]
-    > Önerilen güvenlik özelliklerini yapılandırmayla ilgili puanlar verilir, ancak bazı eylemlerin **[Puanlanmaz] olarak etiketlenmiş olduğunu unutmayın.** Bu, bu geliştirme eylemini uygulaysanız bile puanınız için hiçbir puan kazanıla anlamına gelir. Aksi *takdirde, puanınızı güncelleştirmeniz 24* saate kadar sürebilir.
+    > Önerilen güvenlik özelliklerini yapılandırmayla ilgili puanlar verilir, ancak bazı eylemlerin **[Puan verilmedi] olarak etiketlenmiş olduğunu unutmayın.** Başka bir ifadeyle, bu geliştirme eylemini gerçekleştirsanız bile puanınız için hiçbir puan uygulanmaz. Aksi *takdirde, puanının güncelleştirilsi 24* saate kadar sürebilir.
 
-Microsoft Güvenli Puanı hakkında daha fazla bilgi için [microsoft güvenli puanına bakın.](https://go.microsoft.com/fwlink/?linkid=2103077)
+Microsoft Güvenli Puanı hakkında daha fazla bilgi için bkz. [Microsoft Güvenli Puanı](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score).

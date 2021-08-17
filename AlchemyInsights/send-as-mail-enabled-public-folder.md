@@ -1,5 +1,5 @@
 ---
-title: EXO 'da posta olarak etkin ortak klasör olarak gönder
+title: EXO'da Posta Etkin Olarak Gönder Ortak Klasör
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: ed62c6d7db0ae532f806ce4fdc48f42623bcd545
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 22aa3e8f46c2ff4f62cb520b9498041dffb9d3a3eb607d788cc97b10bf32dbb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48462076"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052586"
 ---
-# <a name="sendas-mail-enabled-public-folder"></a>SendAs mail etkin ortak klasör
+# <a name="sendas-mail-enabled-public-folder"></a>SendAs Mail Enabled Public Folder
 
-Aşağıdaki örnek, Kullanıcı Jason posta etkin ortak klasörü için "Farklı Gönder" izinlerini atar.
+Aşağıdaki örnekte, kullanıcı Jason'a posta özelliği etkin ortak klasör NewPF1 için "Farklı Gönder" izinleri atanıyor.
 
-Add-RecipientPermission-IDENTITY ' NewPF1 '-güvenilen "Jason"-AccessRights ' SendAs '
+Add-RecipientPermission -Identity 'NewPF1' -Trustee "Jason" -AccessRights 'SendAs'
 
-Ayrıntılı sözdizimi ve parametre bilgileri için [posta etkinleştirilmiş ortak klasörler için "Farklı Gönder" veya "adına Gönder" izinlerinin](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs)bakın.
+Ayrıntılı söz dizimi ve parametre bilgileri için bkz. Posta özellikli ortak klasörler için ["Farklı Gönder" veya "Adına Gönderme" izinleri.](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs)
 
