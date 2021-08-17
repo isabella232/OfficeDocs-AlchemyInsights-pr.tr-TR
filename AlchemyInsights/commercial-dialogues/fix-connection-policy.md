@@ -12,20 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7eae77358b0305582f53c411a092e3d2f1dbe17fd58ceac1ac00d5c07b3dd202
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988232"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888426"
 ---
 # <a name="fix-connection-policy"></a>Bağlantı ilkesi düzeltme
 
-E-posta güvenli olarak işaretlendi ve gönderen IP adresi Bağlantı Filtresi ilkesinde güvenli olarak işaretlenen için kullanıcının gelen kutusuna teslim edildi. İlkeyi gözden geçirmek için şunları yapın:
+E-posta güvenli olarak işaretlendi ve kullanıcının Gelen Kutusu'na teslim edildi çünkü kaynak IP adresi varsayılan bağlantı filtresi ilkesinde güvenli olarak işaretlendi. İlkeyi gözden geçirmek için aşağıdaki adımları izleyin:
 
-1. [Office 365 Güvenlik & Merkezi'ne gidin](https://go.microsoft.com/fwlink/p/?linkid=2077143)ve ardından Tehdit yönetimi İstenmeyen postayla mücadele  >  **ilkesi**  >  ['ne gidin.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Özel sekmesinde **Bağlantı** filtresi **ilkesi'ne tıklayın ve sonra İlkeyi** **düzenle'yi seçin.**
-3. İzin Ver **IP listesini gözden** geçirebilirsiniz. Liste **listesinin Kasa olup** değildir.
+1. aşağıdaki Microsoft 365 Defender portalında, İlkeler bölümünde <https://security.microsoft.com/> **E-posta &** İşbirliği \> **İlkeleri'&** Kurallar Tehdit ilkeleri \>  \> **İstenmeyen** postayla **mücadele'ye** gidin.
 
-    > [!NOTE]
-    > Microsoft, güvenilir gönderenlerin üçüncü taraf kaynaklarına abone olur. Bu **Kasa etkinleştirilirse,** bu güvenilen gönderenler yanlışlıkla istenmeyen posta olarak işaretlenir. Bu seçeneğin kullanılması önerilir, çünkü size gelen hatalı pozitif sonuç sayısını (istenmeyen posta olarak sınıflandırılmış iyi posta) azaltır.
+   Doğrudan İstenmeyen posta **önleme ilkeleri sayfasına gitmek** için, <https://security.microsoft.com/antispam> kullanın.
+
+2. **İstenmeyen posta önleme ilkeleri** sayfasında, ilkenin adına tıklayarak Bağlantı filtresi ilkesi **(Varsayılan)** adlı ilkeyi seçin.
+
+3. Görüntülenen ayrıntılar açılır bölmesinde, Bağlantı filtreleme **bölümündeki Bağlantı filtresi ilkesi düzenle'ye** tıklayın. 
+
+4. Her zaman aşağıdaki **IP** adreslerinden veya adres aralığından gelen iletilere izin ver bölümündeki girdileri gözden geçirin ve Güvenli listeyi **aç'ın seçili olupsına** bakın.
+
+   > [!NOTE]
+   > Microsoft, güvenilir gönderenlerin üçüncü taraf kaynaklarına abone olur. Güvenli liste etkinleştirilirse, bu güvenilir gönderenler yanlışlıkla istenmeyen posta olarak işaretlenir. Bu seçeneği öneririz, çünkü size gelen hatalı pozitif sonuç sayısını (istenmeyen posta olarak sınıflandırılmış iyi posta) azaltır.
+
+Daha fazla bilgi için [bkz. Bağlantı filtrelemeyi yapılandırma.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy)

@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 uygulamaları yazılım indirme ayarlarını yönetme
+title: Uygulama Microsoft 365 indirme ayarlarını yönetme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "5733"
-ms.openlocfilehash: 7ca7e8a979acdb09765095f0ae6ab61ef9a43b3c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 479c4fbfb46479af01d9b9dbc4b7a994ab27bc5bd8a8b8751f3dc9d203a60313
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054062"
 ---
-# <a name="manage-office-installation-options"></a>Office yükleme seçeneklerini yönetme
+# <a name="manage-office-installation-options"></a>Yükleme Office seçeneklerini yönetme
 
-Bir Office 365 yöneticisi olarak, kullanıcılarının Office 365'i hangi Office yazılımlarından indir indirip yüklerini yükley gerçekten denetim altına ayasınız. Daha fazla bilgi için [bkz. Microsoft 365 yönetim merkezinde Office yükleme seçeneklerini yönetme.](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365)
+Bir Office 365 yöneticisi olarak, kullanıcılarınızı Office yazılımlarından hangilerinin indir denetim altında Office 365. Daha fazla bilgi için [bkz. Office yükleme seçeneklerini yönetme Microsoft 365 yönetim merkezi.](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365)

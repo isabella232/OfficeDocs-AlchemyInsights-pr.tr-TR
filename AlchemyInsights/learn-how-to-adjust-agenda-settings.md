@@ -1,5 +1,5 @@
 ---
-title: 603 gündem ayarlarını ayarlamayı öğrenin
+title: 603 Ajanda ayarlarını yapmayı öğrenin
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "603"
 - "3800002"
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: 1dac3f87e47eb791add54015673fb3ba1ae0c3b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10aa9b32c50763d6d8c4a5db793204a7993a8498e5589312b54e2d02a14d7dcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676578"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054134"
 ---
-# <a name="learn-how-to-configure-agenda-settings"></a>Gündem ayarlarını yapılandırmayı öğrenme
+# <a name="learn-how-to-configure-agenda-settings"></a>Ajanda ayarlarını yapılandırmayı öğrenin
 
-Gündem ayarları Web üzerinde Outlook 'ta **Takvim** ayarlarında yer alır. Daha fazla bilgi için [Web üzerinde Outlook 'Ta Takvim ayarları](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f)konusuna bakın.
+Ajanda ayarları, Ajanda **ayarları'nın** Web üzerinde Outlook. Daha fazla bilgi için [bkz. Takvim Web üzerinde Outlook.](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f)
 
-Yöneticiler, ajanda ayarlarını yapılandırmak için Exchange Online PowerShell 'de **set-CalendarNotification** cmdlet 'ini kullanabilir. Daha fazla bilgi için [set-CalendarNotification](https://technet.microsoft.com/library/dd351284)konusuna bakın.
+Yöneticiler ajanda ayarlarını yapılandırmak için **PowerShell'de Set-CalendarNotification** cmdlet'ini Exchange Online kullanabilir. Daha fazla bilgi için [bkz. Takvim](https://technet.microsoft.com/library/dd351284)Ayarlama Açıklama .
