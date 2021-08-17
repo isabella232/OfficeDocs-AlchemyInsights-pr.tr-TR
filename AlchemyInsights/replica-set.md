@@ -14,17 +14,17 @@ ms.custom:
 - "9004395"
 - "8265"
 - "9276"
-ms.openlocfilehash: 3834696ff59b7e96e90a5b660a489003dfa9729c
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 45cf530c3258fa3c7008c3e8251fdb7b74be6911d0487f58c5ce2530e25ca282
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110700"
 ---
 # <a name="replica-set"></a>Çoğaltma kümesi
 
-AADDS, yönetilen etki alanı olarak da adlandırılan bir etki alanıdır. Aslında, arka uç tarafından çalıştır ve bakımını yapılan iki etki alanı denetleyicisidir. İki DC bir ana DC ve bir çoğaltma DC içerir. AADDS'de (yönetilen etki alanı) yedeklemeler, Azure platformu tarafından yönetilen otomatik bir işlemdir. Yönetilen etki alanınız ile ilgili bir sorun varsa, Azure desteği yedeklemeden geri yüklemede size yardımcı olabilir.
+AADDS, yönetilen etki alanı olarak da çağrılır. Aslında, arka uç tarafından çalıştırarak bakımını yapılan iki etki alanı denetleyicisi vardır. İki DC bir ana DC ve bir de çoğaltma DC'si içerir. AADDS'de (yönetilen etki alanı) yedeklemeler, Azure platformu tarafından yönetilen otomatik bir işlemdir. Yönetilen etki alanınız ile ilgili bir sorun varsa, Azure desteği yedekten geri yüklemede size yardımcı olabilir.
 
-Sanal bir ağda her çoğaltma kümesi oluşturabilirsiniz. Her sanal ağ, yönetilen bir etki alanının çoğaltma kümesi barındıran diğer tüm sanal ağlara eş olmalıdır. Bu yapılandırma, dizin çoğaltmayı destekleyen bir ağ ağı topolojisi oluşturur. Her çoğaltma kümesi farklı bir sanal alt ağda yer alan sanal ağ, birden çok çoğaltma kümesini destekleyenin.
+Her bir kopya kümesi için bir sanal ağ oluşturabilirsiniz. Her sanal ağ, yönetilen bir etki alanının çoğaltma kümesi barındıran diğer tüm sanal ağlara eş olmalıdır. Bu yapılandırma, dizin çoğaltmayı destekleyen bir ağ ağı topolojisi oluşturur. Her çoğaltma kümesi farklı bir sanal alt ağda olmalıdır ve sanal ağ birden çok çoğaltma kümelerini destekleyene.
 
-Çoğaltma kümesi hakkında daha fazla ayrıntı için, Kavramlar Çoğaltma [kümelerini gözden geçirin.](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets)
+Çoğaltma kümesi hakkında daha fazla ayrıntı için bkz. [Kavram Çoğaltma kümeleri](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets).

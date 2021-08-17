@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "10935"
 - "9001435"
-ms.openlocfilehash: 8935f461aaf24cb100516311203ef642f5dbed931e472df944c1cd7e72a8cf4e
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 04f56dfc7ebe7de91bc64a5e6d2b480b07741c6e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890286"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314368"
 ---
 # <a name="401-unauthorized-error-in-sharepoint"></a>401 Yetkisiz hata SharePoint
 
-Bu hatanın TLS 1.0/1.1'i kullanımdan SharePoint'de "(401) Yetkisiz" hatasını alırsanız, bu hata TLS 1.0/1'in kullanımdan kullanılmasıyla ilgili olabilir. Daha fazla bilgi için bkz:
+Yetkisiz "(401) Yetkisiz" hatasını alırsanız SharePoint BU, TLS 1.0/1.1'in kullanımdan kullanılmasıyla ilgili olabilir. Daha fazla bilgi için bkz:
 
 - [Office 365 ve Office 365 GCC'de TLS 1.2'ye hazırlanma](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
 
@@ -30,4 +30,4 @@ Bu hatanın TLS 1.0/1.1'i kullanımdan SharePoint'de "(401) Yetkisiz" hatasını
 
 - [Windows'da WinHTTP'da varsayılan güvenli protokol olarak TLS 1.1 ve TLS 1.2'yi etkinleştirmek Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)
 
-Kullanıcılar 7. Windows varsa, Windows [7'de TLS Şifreleme Paketlerini Windows olun.](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7)
+Kullanıcılar 7. Windows varsa, [7.](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7)ve 7. Windows TLS Şifreleme Paketlerini Windows olun.

@@ -1,5 +1,5 @@
 ---
-title: 8000036 profil Outlook.com
+title: 8000036.com'da profil resmini/adını Outlook değiştirme
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: bf719490da8142ae193af2825ddb8cf6ad24ac16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dc8630b53c69b731f50951358c9ec2fec71f13f9d80cc45e30c5741c2a10de56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662705"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111276"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Outlook.com 'daki profil resmimi veya adını değiştirme
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Outlook.com'da profil resmimi veya adım değiştirme
 
-1. [Microsoft hesap bilgilerinize](https://go.microsoft.com/fwlink/p/?linkid=860841)gidin.
-1. **Adı Düzenle** veya **Resmi Değiştir**'i seçin.
+1. Microsoft hesap [bilgileriniz'e gidin.](https://go.microsoft.com/fwlink/p/?linkid=860841)
+1. Adı **düzenle veya Resmi** **değiştir'i seçin.**
 
-Lütfen profil fotoğrafınıza veya adınıza yapılan değişiklikler için 24 saate kadar bekleyin.
+Lütfen profil fotoğraf veya adınızda yapılan değişikliklerin etkili olmasına 24 saate kadar izin kullanın.

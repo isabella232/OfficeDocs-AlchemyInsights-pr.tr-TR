@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: 29383643e6867bca7fd31774a9594b82fdc080bb0e7254141e8c883ad861075e
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c17408442cec6c0877b7d66bc8a7fd3062eb0e47
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57886159"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314404"
 ---
 # <a name="11-call-recording"></a>Bire bir arama kaydı
 
-Bir **aramada** Kaydı Başlat düğmesi gri görüntüye sahipse, etkiyi alan kullanıcının ilke ayarlarını değiştirmeniz gerekir. İlke ayarını kontrol etmek için, yukarıdaki **Diag: 1:1** Arama Kaydı yazın ve etki Teams Tanılama'yı çalıştırın.     
+Bir **aramada** Kaydı Başlat düğmesi gri görüntüye sahipse, etkiyi alan kullanıcının ilke ayarlarını değiştirmeniz gerekir. İlke ayarını kontrol etmek için, yukarıdaki **Diag: 1:1** Arama Kaydı yazarak etki Teams Tanılama'yı çalıştırın.     
 
-31 Mayıs 2021'den başlayarak, *AllowCloudRecordingForCalls* için yeni bir Çağrı Teams zorlamaya başlayacağız. Bu değişiklikten önce, 1:1 arama kaydı Toplantı İlkesi'ne göre *AllowCloudRecording* Teams denetlenir. Bu değişiklik İleti Merkezi gönderisinde belgelenmektedir: [(Güncelleştirildi) 1:1 Arama kaydı ilkesi giriş.](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)  
+31 Mayıs 2021'den başlayarak, Yeni bir Arama İlkesi *AllowCloudRecordingForCalls Teams zorlamaya başlayacağız.* Bu değişiklikten önce, 1:1 arama kaydı Toplantı İlkesi'ne göre *AllowCloudRecording* Teams denetlenir. Bu değişiklik İleti Merkezi gönderisinde belgelenmektedir: [(Güncelleştirildi) 1:1 Arama kaydı ilkesi giriş.](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)  
 
 *AllowCloudRecordingForCalls*   arama ilkesi seçeneği varsayılan olarak **$False** olarak ayarlanır. Tüm kullanıcıların bire bir arama kaydetmelerini engellemeyi tercih ederseniz herhangi bir işleme gerek yok.  
 
-Bire bir aramalarda tüm kullanıcılarda arama kaydını etkinleştirmek için [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install) kullanarak aşağıdaki cmdlet'i çalıştırın: 
+Bire bir aramalarda tüm kullanıcılarda arama kaydını etkinleştirmek için Teams [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install) kullanarak aşağıdaki cmdlet'i çalıştırın: 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 

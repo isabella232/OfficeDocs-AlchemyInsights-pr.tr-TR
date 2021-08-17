@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948975"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894415"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Kimlik avı, istenmeyen posta veya yanlış filtrelenmiş e-postaları araştırma
 
 İletiyi Microsoft'a göndermek için Gönderim Gezgini'ni kullanın. İleti filtreleme ve sorunun nedeni hakkında hemen geri bildirim alırsınız. Adımların özeti şöyledir:
 
-1. Güvenlik ve Uyumluluk [Office 365'& gidin,](https://go.microsoft.com/fwlink/p/?linkid=2077143)Tehdit yönetimi Gönderimleri'ne ve ardından  >   **+Yeni gönderi'yi seçin.**
-2. Yeni gönderim uç **bilgisinde ayrıntıları** belirtin.
-3. Kullanıcılarınıza şüpheli e-postaları Microsoft'a bildirmeleri ve Rapor İletisi eklentinin bu amaçla kullanmaları gereken araç olduğunu haberdir. [](https://go.microsoft.com/fwlink/?linkid=2092385)
+1. aşağıdaki Microsoft 365 Defender portalında <https://security.microsoft.com> E-posta ve **işbirliği gönderileri &** \> **gidin.**
+
+   Doğrudan Gönderiler **sayfasına gitmek için** <https://security.microsoft.com/reportsubmission> kullanın.
+
+2. Gönderiler **sayfasında** Çözümleme için gönderildi **sekmesinin seçili** olduğunu doğrulayın ve ardından çözümleme için + Microsoft'a **Gönder'e tıklayın.**
+
+3. E-posta, URL veya dosya gönderme seçeneğiyle birlikte bir çıkış görüntülenir. Daha fazla bilgi için bkz. Yönetici Gönderimi'ni kullanarak şüpheli istenmeyen posta, kimlik [avı, URL'ler ve dosyaları Microsoft'a gönderme](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission).
+
+4. Rapor İletisi eklentisini veya Rapor Kimlik Avını Bildir eklentisini kullanarak kullanıcılarınıza Gelen Kutuları'daki şüpheli [iletileri bildirmeleri konusunda bilgilendirin.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

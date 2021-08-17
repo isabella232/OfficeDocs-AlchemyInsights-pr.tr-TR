@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889402"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314332"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aboneliği etkinleştirme veya yeniden etkinleştirme
 
@@ -27,17 +27,18 @@ ms.locfileid: "57889402"
 
 - Kullanıcılara hizmet erişimi vermek için onlara lisans atayın. Nasıl olduğunu öğrenmek için [bkz. Kullanıcılara lisans atama](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Size atanmış bir lisansınız zaten varsa, hesabım sayfasından indirebilirsiniz [uygulamaları bulabilirsiniz.](https://portal.office.com/account/#installs) Bu sayfada, atanmış olan lisanslara göre indirmeniz için gerek kullanılabilen uygulamaların listesi yer almaktadır.
-- Office uygulamalarını Office, iş veya okul hesabınızla uygulamalarda oturum açmanız gerekiyor olabilir. Bunu herhangi bir Office uygulamasında (Word, Excel, vb.) Dosya Hesabı'Office  >   (altta) tıklayarak yapabilirsiniz. Kullanıcı **Bilgileri altında Hesap** **Değiştir'i seçin.** Daha fazla bilgi için [bkz. Office yükleme.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
+- Office uygulamalarını zaten indirdikten sonra iş veya okul hesabınızla uygulamalarda oturum açmanız gerekir. Bunu herhangi bir Office uygulamasında (Word, Excel, vb.) Dosya Hesabı'Office  >   (altta) tıklayarak yapabilirsiniz. Kullanıcı **Bilgileri'nin** altında Hesap **Değiştir'i seçin.** Daha fazla bilgi için [bkz. Office yükleme.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
 
 **Aboneliği yeniden etkinleştirme**
 
-Aboneliğinizin süresi dolduğunda, Microsoft tarafından devre dışı bırakıldı ise veya abonelik süresinin ortasında aboneliğinizi iptal ettiyseniz, yönetim merkezinde yeniden etkinleştirebilirsiniz.
+Aboneliğinizin süresi dolduğunda, Microsoft tarafından devre dışı bırakıldı ise veya abonelik süresinin ortasında aboneliğinizi iptal ettiyseniz yönetim merkezinde yeniden etkinleştirebilirsiniz.
   
 1. Yönetim merkezinde Ürünlerinizi Faturalandırma   >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
 2. Ürünler **sekmesinde,** yeniden etkinleştirmek istediğiniz aboneliği bulun.
 3. Üç noktayı (diğer eylemler) ve ardından Bu aboneliği **yeniden etkinleştir'i seçin.**
-    > [!IMPORTANT]
-    > Kullanılabilir bir eylem olarak bu **aboneliği yeniden etkinleştir'i** görmüyorsanız, [aboneliğinizi yeniden etkinleştirmek](https://go.microsoft.com/fwlink/p/?linkid=518322) için Desteği arayın.
+
+    **Önemli:** Kullanılabilir bir eylem olarak Bu aboneliği yeniden **etkinleştir'i** görmüyorsanız, [aboneliğinizi](https://go.microsoft.com/fwlink/p/?linkid=518322) yeniden etkinleştirmek için Desteği arayın.
+
 4. Bu aboneliği **yeniden etkinleştir bölmesinde mevcut bir** ödeme yöntemini seçin veya Ödeme yöntemi ekle öğesini **seçin.**
 5. Yeniden **Etkinleştir'i seçin.**
 
@@ -45,5 +46,5 @@ Daha fazla bilgi için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs
 
 **Ürün anahtarıyla yeni bir aboneliği etkinleştirme**
 
-1. Ürün anahtarınızla yeni Microsoft 365 fazla aboneliği etkinleştirmek için bkz. Ürün [anahtarınızı Office girme](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+1. Ürün anahtarınızla yeni Microsoft 365 bir abonelik etkinleştirmek için bkz. Ürün [anahtarınızı Office girme .](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 2. Microsoft 365 ürün anahtarınızı girip komut istemlerini izleyerek aboneliğinizi etkinleştirin. Etkinleştirmeyle ilgili sorunlarız varsa, bu sık karşılaşılan ürün [anahtarı hataları ve çözümleri listesine bakın.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

@@ -1,5 +1,5 @@
 ---
-title: 8000059 istenmeyen posta Filtresi çalışmıyor
+title: 8000059 İstenmeyen posta filtresi çalışmıyor
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: aff7b1f7d4f857c7480de08540e35e55840190cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f7b20d7d1bfac00a2a3148095284debb379218c4cd9c2387249df994fbb08b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758301"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084510"
 ---
-# <a name="spam-filter-not-working"></a>İstenmeyen posta Filtresi çalışmıyor
+# <a name="spam-filter-not-working"></a>İstenmeyen posta filtresi çalışmıyor
 
-Outlook.com 'de aldığınız bir iletinin bir kimlik avı veya sızdırma dolandırıcılığı olduğunu düşünüyorsanız, iletiyi seçin ve **Junk** \> kimlik avı dolandırıcılığı olarak işaretlemek için gereksiz **kimlik avı** 'nı seçin. Uygunsuz kullanım, kimlik avı ve sızdırma hakkında daha fazla bilgi edinmek için [bunu okuyun](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy). E-posta adreslerini engellemek için güvenilir Gönderenler listenize adres veya etki alanları ekleyin veya başka gereksiz e- **posta seçenekleri uygulayın.**
+Outlook.com'da size gelen bir iletinin bir kimlik avı dolandırıcılığı veya kimlik sahtekarlığı olduğunu  inanıyorsanız, iletiyi seçin ve Önemsiz Kimlik Avı'ı seçerek bu iletiyi kimlik avı dolandırıcılığı \>  olarak işaret edin. Kötüye kullanım, kimlik avı ve kimlik sahtesi hakkında daha fazla bilgi edinmek için [bu makaleyi okuyun.](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) E-posta adreslerini engellemek, adresleri veya etki alanlarını Kasa gönderenler listenize eklemek veya diğer gereksiz e-posta seçeneklerini uygulamak için Gereksiz **e-posta seçenekleri'ne tıklayın.**
   

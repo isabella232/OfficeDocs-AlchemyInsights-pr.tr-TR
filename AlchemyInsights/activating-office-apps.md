@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889274"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314260"
 ---
 # <a name="activating-microsoft-365-apps"></a>Microsoft 365 etkinleştirme
 
-**Not:** Windows'in eski bir sürümünü kullanıyorsanız (örneğin, Windows 7), TLS 1.2'nin varsayılan olarak etkinleştirildiğinden emin olun. Daha fazla bilgi için bkz. Windows'da WinHTTP'da varsayılan güvenli protokol olarak [TLS 1.1 ve TLS 1.2'yi](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)etkinleştirmek için Windows.
+**Not:** Windows'in önceki bir sürümünü kullanıyorsanız (örneğin, Windows 7 SP1, Windows Server 2008 R2), kolay düzeltmeyi kullanarak TLS 1.2'yi varsayılan [olarak etkinleştirin.](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) Daha fazla bilgi için bkz. Windows'da WinHTTP'da varsayılan güvenli protokol olarak [TLS 1.1 ve TLS 1.2'yi etkinleştirmek için Windows.](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)
 
 Office’i etkinleştirmek için bkz:
 
@@ -29,7 +29,7 @@ Office’i etkinleştirmek için bkz:
 
 - [Mac’te Office’i etkinleştirme](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Not:**  Office 365, İş için Microsoft 365 Uygulamaları Microsoft 365 veya Office gibi Office istemci uygulamaları içeren bir [Microsoft 365 İş Standart](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)veya İş için Microsoft 365 Uygulamaları aboneliğiniz olduğundan emin Kurumlar için Microsoft 365 Uygulamaları. Buna ek olarak, bir lisans atanmışsa, bu hesapta oturum Office kullanıcı [hesabının olduğundan emin olun.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**Not:**  Office 365, İş için Microsoft 365 Uygulamaları Microsoft 365 veya Office gibi Office istemci uygulamaları içeren bir [Microsoft 365 İş Standart](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)veya İş için Microsoft 365 Uygulamaları aboneliğiniz olduğundan emin Kurumlar için Microsoft 365 Uygulamaları. Buna ek olarak, bir lisans atanmışsa bu hesapta oturum Office kullanıcı [hesabının olduğundan emin olun.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Office etkinleştirme sorunlarını gidermek için bkz:
 
@@ -38,7 +38,7 @@ Office etkinleştirme sorunlarını gidermek için bkz:
 
 - [Office Mac’i yükleyemiyor veya etkinleştiremiyorsanız deneyebileceğiniz şeyler](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**İpucu** Windows makinelerde sizin için birçok genel Office oturum açma sorunlarını tanılayabilir ve otomatik olarak düzeltebiliriz. Otomatik aracımızı kullanmak için  **[Office 365 Destek ve Kurtarma Yardımcısını](https://aka.ms/SaRA-OfficeSignInScenario)** indirip çalıştırın.
+**İpucu:** Windows makinelerde sık karşılaşılan bazı oturum açma sorunlarını sizin için Office ve otomatik olarak düzeltebiliriz. Otomatik aracımızı kullanmak için  **[Office 365 Destek ve Kurtarma Yardımcısını](https://aka.ms/SaRA-OfficeSignInScenario)** indirip çalıştırın.
 
 Bu uygulamalarda oturum açamıyorsanız Microsoft 365 adımları izleyin:
 
