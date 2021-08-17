@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 16aa12120034e1f848e62bab151d8e30b251a29e5727f085300d74ca7b49ca52
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017116"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896175"
 ---
 # <a name="fix-languageip-filter-policy"></a>Dil/IP filtresi ilkesi düzeltme
 
-Kiracınıza gelen özel bir istenmeyen posta önleme ilkesi bu iletiyi etkiliyordi. İlkeyi gözden geçirmek için şunları yapın:
+İstenmeyen posta önleme ilkelerinizin biri bu iletiyi etkiliyordi. İlkeleri gözden geçirmek için aşağıdaki adımları izleyin:
 
-1. [Office 365 Güvenlik & Merkezi'ne gidin](https://go.microsoft.com/fwlink/p/?linkid=2077143)ve ardından Tehdit yönetimi İstenmeyen postayla mücadele  >  **ilkesi**  >  ['ne gidin.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Özel sekmesinde **Varsayılan** istenmeyen posta filtresi **ilkesi'ne veya** daha önce oluşturduğunuz başka herhangi bir özel ilkeye tıklayın ve sonra İlkeyi düzenle'yi **seçin.**
-3. Uluslararası istenmeyen **posta seçeneğini** genişletin ve ayarları gözden geçirin.
+1. aşağıdaki Microsoft 365 Defender portalında, İlkeler bölümünde <https://security.microsoft.com/> **E-posta &** İşbirliği \> **İlkeleri'&** Kurallar Tehdit ilkeleri \>  \> **İstenmeyen** postayla **mücadele'ye** gidin.
 
-İstenmeyen posta filtresi ilkelerini yapılandırma hakkında daha fazla bilgi için bkz. [Özel istenmeyen posta filtresi ilkesi ayarlarını yapılandırma.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   Doğrudan İstenmeyen posta **önleme ilkeleri sayfasına gitmek** için, <https://security.microsoft.com/antispam> kullanın.
+
+2. İstenmeyen posta önleme ilkeleri sayfasında, ilkenin adına tıklayarak ilkeyi  seçin (**Tür** Özel istenmeyen posta önleme ilkesi veya Ad, İstenmeyen posta önleme gelen  **ilkesidir (Varsayılan)**). 
+3. Görüntülenen ayrıntılar açılır bölümünde, toplu e-posta eşiği **ve istenmeyen** posta özellikleri bölümünden İstenmeyen **posta eşiğini & seçin.**
+4. **İstenmeyen posta olarak işaretle** bölümünde Belirli dilleri içerir ve **Bu** ülkelerden **ayarlarını gözden** geçirebilirsiniz.
+
+Daha fazla bilgi için [bkz. EOP'de istenmeyen posta önleme ilkelerini yapılandırma.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

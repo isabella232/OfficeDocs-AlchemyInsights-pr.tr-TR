@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893075"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314936"
 ---
 # <a name="billing-and-payment"></a>Faturalama ve ödeme
 
@@ -38,7 +38,7 @@ Kredi kartı veya banka hesabıyla ödeme yapılacaksa, abonelikleriniz ile ili�
 
 Yeni kart eklediysanız ve hala eski kredi kartında reddetme bildirimi alıyorsanız, bu yeni kartı abonelikle ilişkilendirmeniz gerekiyor olabilir.
 
-1. Yönetim merkezinde Faturalar ve **ödemeler &**  >    >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=2018806) gidin.
+1. Yönetim merkezinde Faturalar ve **ödemeler**  >  **&**  >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=2018806) gidin.
 
 2. Değiştir tarihine kadar ödeme yönteminin satır seçin. Sağ bölmede, seçilen ödeme yöntemini kullanan tüm fatura profilleri ve tek tek abonelikler liste gösterilir.
 
@@ -46,8 +46,7 @@ Yeni kart eklediysanız ve hala eski kredi kartında reddetme bildirimi alıyors
 
 4. Mevcut bir ödeme yöntemini kullanmak için açılan listeden bir ödeme yöntemi seçin ve sonra da Değiştir öğesini **seçin.**
 
-    > [!NOTE]
-    > Bir fatura profiliyle ilişkilendirilmiş abonelikleriniz varsa, ödeme yapmak için yalnızca kredi kartı veya banka kartı kullanabilirsiniz. Ödeme yöntemleri sayfasında listelenen banka **hesaplarınız** varsa, bu hesaplar açılan listede kullanılamaz.
+    **Not:** Faturalandırma profiliyle ilişkilendirilmiş abonelikleriniz varsa, ödeme yapmak için yalnızca kredi kartı veya banka kartı kullanabilirsiniz. Ödeme yöntemleri sayfasında listelenen banka **hesaplarınız** varsa, bu hesaplar açılan listede kullanılamaz.
 
 5. Yeni bir ödeme yöntemi eklemek için Ödeme yöntemi **ekle'yi seçin.**
 

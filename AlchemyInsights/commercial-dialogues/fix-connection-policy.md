@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d27d570a7bc0f2c1081ba7fd52264a20bf25a453
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888426"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314864"
 ---
 # <a name="fix-connection-policy"></a>Bağlantı ilkesi düzeltme
 
 E-posta güvenli olarak işaretlendi ve kullanıcının Gelen Kutusu'na teslim edildi çünkü kaynak IP adresi varsayılan bağlantı filtresi ilkesinde güvenli olarak işaretlendi. İlkeyi gözden geçirmek için aşağıdaki adımları izleyin:
 
-1. aşağıdaki Microsoft 365 Defender portalında, İlkeler bölümünde <https://security.microsoft.com/> **E-posta &** İşbirliği \> **İlkeleri'&** Kurallar Tehdit ilkeleri \>  \> **İstenmeyen** postayla **mücadele'ye** gidin.
+1. aşağıdaki Microsoft 365 Defender portalında, İlkeler bölümünde <https://security.microsoft.com/> **E-&** İşbirliği \> **İlkeleri'&** Kurallar Tehdit \>  \> **İlkeleri İstenmeyen** postayla **mücadele'ye** gidin.
 
    Doğrudan İstenmeyen posta **önleme ilkeleri sayfasına gitmek** için, <https://security.microsoft.com/antispam> kullanın.
 
@@ -33,7 +33,6 @@ E-posta güvenli olarak işaretlendi ve kullanıcının Gelen Kutusu'na teslim e
 
 4. Her zaman aşağıdaki **IP** adreslerinden veya adres aralığından gelen iletilere izin ver bölümündeki girdileri gözden geçirin ve Güvenli listeyi **aç'ın seçili olupsına** bakın.
 
-   > [!NOTE]
-   > Microsoft, güvenilir gönderenlerin üçüncü taraf kaynaklarına abone olur. Güvenli liste etkinleştirilirse, bu güvenilir gönderenler yanlışlıkla istenmeyen posta olarak işaretlenir. Bu seçeneği öneririz, çünkü size gelen hatalı pozitif sonuç sayısını (istenmeyen posta olarak sınıflandırılmış iyi posta) azaltır.
+   **Not:** Microsoft, üçüncü taraf güvenilir gönderenlerin kaynaklarına abonedir. Güvenli liste etkinleştirilirse, bu güvenilir gönderenler yanlışlıkla istenmeyen posta olarak işaretlenir. Bu seçeneği öneririz, çünkü size gelen hatalı pozitif sonuç sayısını (istenmeyen posta olarak sınıflandırılmış iyi posta) azaltır.
 
 Daha fazla bilgi için [bkz. Bağlantı filtrelemeyi yapılandırma.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy)

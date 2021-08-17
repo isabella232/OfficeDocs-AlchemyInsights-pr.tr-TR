@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 'da Silinmiş Öğeler klasörünü boşaltma
+title: Outlook.com'da Silinmiş Öğeler klasörünü boşaltma
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f17cefcc981fc2637aa0c90f4b476289b97e7969a26588664baf67485daf5d5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111816"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Silinmiş Öğeler klasörünü boşaltma
 
-1. Silinmiş Öğeler klasörünüzü açın ve **klasörü boşalt**'ı seçin.
-2. Sayfanın en üstündeki **Kurtarılabilir Öğeler** 'i seçin ve **klasörü** yeniden seçin.
+1. Silinmiş Öğeler klasörlerinizi açın ve Klasörü **boşalt'ı seçin.**
+2. Sayfanın **en üstünde Kurtarılabilir** öğeler'i seçin ve klasörü **boşalt'ı yeniden** seçin.
 
-**Silinmiş Öğeler klasörü boşaltımı yok**
+**Silinmiş Öğeler klasörü boşaltamıyor**
 
-- Çok sayıda e-posta sildiyseniz, bu öğelerin Silinmiş Öğeler klasöründen taşınması veya silinmesi biraz zaman alabilir. Silme sırasında tarayıcı penceresini açık bırakın.
-- E-posta yine de düzgün bir şekilde silememiyorsa, silmek için daha küçük bir toplu iş seçin.
-- Silinen e-posta geri gelirse, yakın zamanda çok sayıda e-posta silmiş olmanız olabilir. Lütfen daha sonra tekrar deneyin.
+- Çok fazla e-posta sildikten sonra bu öğelerin Silinmiş Öğeler klasörüne taşıması veya bu klasörden silinmesi biraz zaman alsa da. Silme işlemi sürerken tarayıcı penceresini açık bırakın.
+- E-posta yine de düzgün bir şekilde silinmezse, silmek için daha küçük bir toplu işlemi seçin.
+- Silinen e-posta geri gelirse, bunun nedeni yakın zamanda çok fazla e-posta silmiş olması olabilir. Lütfen daha sonra yeniden deneyin.
