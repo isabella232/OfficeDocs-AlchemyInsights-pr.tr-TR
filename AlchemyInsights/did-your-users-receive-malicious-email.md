@@ -14,18 +14,18 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929217"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893423"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Kullanıcılarınız kötü amaçlı e-posta mı aldı?
 
-- Artık [Güvenlik ve Uyumluluk Merkezi’nde Yönetici Gönderimleri](https://sip.protection.office.com/reportsubmission)’ni kullanarak kötü amaçlı e-postayı Microsoft’a bildirebilirsiniz.
+Artık portalda Gönderiler'i kullanarak kötü amaçlı [e-postaları Microsoft Microsoft 365 Defender bildirebilirsiniz.](https://sip.security.microsoft.com/reportsubmission?viewid=admin)
 
-[Yönetici gönderimlerinde](https://sip.protection.office.com/reportsubmission) gönderdiğiniz iletiler taranır ve **ayrıntılar** açılır öğesinde aşağıdaki sonuçlar gösterilir:
+Yönetici gönderimleri içinde [gönderilen iletiler](https://security.microsoft.com/reportsubmission?viewid=admin) taranır ve ayrıntılı çıkışta aşağıdaki sonuçlar görüntülenir:
 
 - Teslim sırasında gönderenin e-posta kimlik doğrulamasında hata olup olmadığı.
 - İletiyle ilgili kararı etkilemiş veya geçersiz kılmış olabilecek bir ilke eşleşmesi hakkında bilgi.
@@ -39,9 +39,9 @@ Geçersiz kılma bulunursa, yeniden tarama işlemi birkaç dakika içinde tamaml
 Bu arada, [bu makalede](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization) sağlanan yönergeleri izleyerek kötü amaçlı e-postayı kullanıcı gelen kutularından kaldırabilirsiniz.
 
 - Office 365 için Microsoft Defender kullanan müşteriler:
-    - [Şüpheli e-postayı bulmak ve silmek için Tehdit Gezgini’ni](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered) kullanabilir
-    - kötü amaçlı URL’ye [erişimi engellemek için Güvenli Bağlantıları kullanabilir](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)
-    - kötü amaçlı URL’leri tıklayan ve bu URL’lere erişen kullanıcıları izleyebilir: [Kimlik avı URL’sini görüntüleme ve karar verilerine tıklama](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
-    - el ile [Otomatik Araştırma başlatabilir](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
+  - Şüpheli [e-postaları bulmak ve silmek için Tehdit Gezgini'ni kullanma](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+  - Kötü amaçlı Kasa BIR [URL'ye erişimi engellemek için](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) Hızlı Bağlantılar'a tıklayın
+  - Kötü amaçlı URL'lere tık kullanan ve erişilen kullanıcıları izleme: Kimlik avı URL'sini [görüntüle ve](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)karar verisi  &  [Al-UrlTrace'e tıklayın](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+  - Otomatik [Araştırmayı el ile başlatma](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 Ayrıca kötü amaçlı dosyalar ve URL’lerden korunmak için [Kötü amaçlı URL’ler ve dosyalardan koruma](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats) adresinde sağlanan yönergeleri de izleyebilirsiniz.

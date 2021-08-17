@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483164"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893611"
 ---
 # <a name="retrieve-the-audit-logs"></a>Denetim günlüklerini alma
 
-Denetim günlüğünü ilk kez açarken boş olur. Orada ne olduğunu görmek için bir arama yapmak zorunda. Tüm etkinlikler için genel arama yapmak için şu şekilde gerçekleştirin:
+Denetim günlüğünü ilk kez açarken boş kalır. Orada ne olduğunu görmek için arama yapmak zorundasiniz. Tüm etkinlikler için genel arama şöyle olur:
 
-1. Denetim günlüğü arama [sayfasına gidin (veya](https://protection.office.com/#/unifiedauditlog) Yönetim merkezleri Güvenlik ve Uyumluluk & Arama merkezi   >    >  **Arama & denetim günlüğü**  >  **araması) gidin.**
-1. Etkinlikler **kutusunda,** varsayılan olan Tüm etkinlikler **için sonuçları göster onay kutusunu kabul et.**
-1. Tarih aralığını belirtin ve Kullanıcılar kutusunda tüm **kullanıcılar** için sonuçların sonuç olarak varsayılan olarak kabul edilir veya araştırma yapmak istediğiniz kullanıcının kullanıcı adını seçin.
-1. **Ara'ya tıklayın.** Etkinlikler Sonuçlar altında **görüntülenir.**
-1. Ayrıntıları görüntülemek için bir etkinliği tıklatın ve Daha Fazla **Bilgi'yi seçin.** İstemci, eylem gerçekleştirilen kullanıcı vb. daha fazla bilgi edinebilirsiniz.
+1. Aşağıdaki eylemlerden birini yapın:
+   - Aşağıdaki Microsoft 365 uyumluluk merkezi , <https://compliance.microsoft.com> Çözüm **Denetimi'ne** \> **gidin.** Veya doğrudan Denetim sayfasına **gitmek için** <https://compliance.microsoft.com/auditlogsearch> kullanın.
+   - aşağıdaki Microsoft 365 Defender portalında <https://security.microsoft.com> Denetim 'e **gidin.** Veya doğrudan Denetim sayfasına **gitmek için** <https://security.microsoft.com/auditlogsearch> kullanın.
+
+2. Denetim **sayfasının** Ara **sekmesinde** aşağıdaki ayarları yapılandırabilirsiniz:
+   - **Tarih ve saat aralığı:** Başlangıç ve Bitiş  kutularında **tarih/saat** aralığını seçin.
+   - **Etkinlikler**: Tüm **etkinlikler için sonuçları göster'in seçili** olduğunu doğrulayın.
+   - **Kullanıcılar:** Tüm kullanıcıların sonuçlarını sonuç olarak almak için boş varsayılan değeri kabul etme veya bir veya birden çok kullanıcı girin.
+
+3. Bitirdikten sonra Ara'ya **tıklayın.** Etkinlikler, yeni Denetim arama **sayfasında** görüntülenir.
+
+4. Ayrıntılar açılır öğesini açmak için sonuçlardan bir etkinlik seçin. daha fazla bilgi (İstemci, eylem gerçekleştirilen Kullanıcı gibi) gibi bilgiler vardır.
+
+Daha fazla bilgi edinmek için [bkz. Sık karşılaşılan destek sorunlarını araştırmak için denetim günlüğünde arama.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
