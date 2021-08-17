@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5035"
-ms.openlocfilehash: 0c6cc5a2b0500a5e83f70c015e3cd55320c1fa89
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ef7e4cf2dbe7c1e410ba19d23eb5c8300772f49b28e38732a87722259b46f02d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107892"
 ---
 # <a name="sharepoint-migration-assessment-tool-smat"></a>SharePoint Geçiş Değerlendirme Aracı (SMAT)
 
-SharePoint Geçiş Değerlendirme Aracı (SMAT), sunucularınızı Microsoft 365 ile SharePoint Online'a geçirmenin etkisini tanımlamaya yardımcı olmak için SharePoint grubu içeriklerini tarar ve basit bir komut satırı yürütülebilir aracıdır.
+SharePoint Geçiş Değerlendirme Aracı (SMAT), SharePoint ile sunucularınızı SharePoint Online'a geçirmenin etkisini tanımlamaya yardımcı olmak için SharePoint grubu içeriklerini taratan basit bir komut satırı yürütülebilir Microsoft 365.
 
 [SharePoint Geçiş Değerlendirme Aracına Genel Bakış](https://docs.microsoft.com/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
