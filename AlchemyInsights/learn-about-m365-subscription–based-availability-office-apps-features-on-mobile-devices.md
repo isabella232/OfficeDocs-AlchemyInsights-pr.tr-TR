@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 aboneliği ve mobil cihazlarda Office uygulamalarının özelliklerinin kullanılabilirliği hakkında bilgi edinin
+title: Mobil Microsoft 365, uygulama özelliklerinin abonelik Office kullanılabilirliği hakkında bilgi edinin
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003891"
 - "6945"
-ms.openlocfilehash: c73fec987bc9ec63c97ee05962ee16fb857e809b
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 19955a72cf9c9888f011f26085fbd493fdf8a15d1dfe17709244497f52be02d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680379"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087444"
 ---
-# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Microsoft 365 aboneliği ve mobil cihazlarda Office uygulamalarının özelliklerinin kullanılabilirliği hakkında bilgi edinin
+# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Mobil Microsoft 365, uygulama özelliklerinin abonelik Office kullanılabilirliği hakkında bilgi edinin
 
-Tüm Microsoft 365 planları, Word, Excel, PowerPoint ve OneNote 'ta iOS, Android ve Windows Mobile cihazlarında belge görüntülemenizi sağlar. Ancak, bu uygulamaların özelliklerinin ve dosyalarının kullanılabilirliği aboneliğinize (Microsoft 365 uygun planı veya uygun olmayan bir plan ya da bir defalık Office satın alma
+Tüm Microsoft 365 planları iOS, Android ve Excel mobil cihazlarda Word, Excel, PowerPoint ve OneNote belgeleri Windows görüntülemenizi sağlar. Bununla birlikte, bu uygulamaların özelliklerinin ve dosyalarının kullanılabilirliği aboneliğinize bağlıdır (Microsoft 365 uygun olmayan bir plan veya uygun olmayan bir plan ya da bir defalık Office satın alma) ve mobil cihazın ekran boyutu.
 
-Daha fazla bilgi edinmek için, [Microsoft 365 aboneliğiyle mobil cihazlarda Office uygulamalarında neler yapabileceğinizi](https://go.microsoft.com/fwlink/?linkid=2135575)görün. 
+Daha fazla bilgi edinmek için bkz. Office aboneliği olan mobil [cihazlarda mobil Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2135575) 

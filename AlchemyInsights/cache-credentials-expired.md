@@ -1,5 +1,5 @@
 ---
-title: 'Hata: önbelleğe alınan kimlik bilgilerinizin süresi dolduğundan değişikliklerinizi karşıya yükleyemiyoruz veya indiremiyoruz'
+title: 'Hata: Önbelleğe alınan kimlik bilgilerinizin süresi sona erdikten sonra değişikliklerinizi karşıya yükleyeme veya indireyemedik'
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -12,22 +12,22 @@ ms.collection: ''
 ms.custom:
 - "3534"
 - "9001489"
-ms.openlocfilehash: 8105fa7b311bc932f95c8bff4d6b58ed9aabe74a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 623c2f1175ed2ab9638e742521395fe62ba9cad9d21b517f17426fb5c96a2d73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734499"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059462"
 ---
-# <a name="error-we-cant-upload-or-download-your-changes-because-your-cached-credentials-have-expired"></a>Hata: önbelleğe alınan kimlik bilgilerinizin süresi dolduğundan değişikliklerinizi karşıya yükleyemiyoruz veya indiremiyoruz
+# <a name="error-we-cant-upload-or-download-your-changes-because-your-cached-credentials-have-expired"></a>Hata: Önbelleğe alınan kimlik bilgilerinizin süresi sona erdikten sonra değişikliklerinizi karşıya yükleyeme veya indireyemedik
 
-Dosyaları OneDrive uygulamasına kaydederken, **"önbelleğe alınmış kimlik bilgileriniz süresi doldu"** ifadesini içeren bir hata alırsanız aşağıdaki adımları uygulayın:
+Dosyaları OneDrive uygulamasına kaydederek "Önbelleğe alınmış kimlik bilgilerinizin süresi **doldu"** ifadesini içeren bir hata alırsanız, aşağıdaki adımları uygulayın:
 
-1. Tüm Office uygulamalarını kapatın.
-1. Kimlik bilgileri Yöneticisi 'ni açın ve görev çubuğundaki arama kutusuna **kimlik bilgileri Yöneticisi** yazın, ardından **kimlik bilgileri Yöneticisi Denetim Masası**'nı seçin.
-1. **Windows kimlik bilgileri**'ni seçin.
-1. **OneDrive**Word ile başlayan herhangi bir girişi bulun.
-1. Girdiyi seçip **Kaldır**'a basın.
-1. Kimlik bilgileri Yöneticisi 'ni kapatın, ardından syıseçtiğiniz mavi buluta sağ tıklayın ve **OneDrive 'ı kapat**'ı seçin.
-1. Görev çubuğundaki arama kutusuna **OneDrive** yazın ve OneDrive 'ı başlatmak Için **OneDrive uygulamasını** seçin.
-1. OneDrive 'da oturum açın ve dosyayı OneDrive 'a kaydetmeyi deneyin.
+1. Tüm uygulama Office kapatın.
+1. Kimlik Bilgileri Yöneticisi'ni açın ve **görev çubuğundaki** arama kutusuna kimlik bilgileri yöneticisi yazın, ardından Kimlik Bilgileri Yöneticisi **Denetim Masası'nı seçin.**
+1. Kimlik **Windows'yi seçin.**
+1. sözcükle başlayan tüm girdileri **OneDrive.**
+1. Girişi seçin ve Kaldır'a **basın.**
+1. Kimlik Bilgileri Yöneticisi'ni kapatın, systray'ı mavi buluta sağ tıklayın ve Kimlik Bilgilerini **Kapat'ı OneDrive.**
+1. Görev **OneDrive** arama kutusuna aramanızı yazın ve görev çubuğunu **OneDrive Uygulama'ya** OneDrive.
+1. Oturum OneDrive, ardından dosyayı kaydetmek ve kaydetmek için OneDrive.

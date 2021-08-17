@@ -1,5 +1,5 @@
 ---
-title: 2637 belirli iletilere izin vermek için istenmeyen posta filtreleme atlansın mı?
+title: 2637 Belirli iletilere izin vermek için istenmeyen posta filtrelemeyi atlasın mı?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 3c2fd2bb8394b7a4499b539c9b676918d3c0e5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa9ee7cd7710517dfcc441cd931b9f427474869ad49ed0fa0a91a06e06682ed7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059580"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Belirli iletilere izin vermek için istenmeyen filtreleme atlansın mı?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Belirli iletilere izin vermek için istenmeyen posta filtrelemesi atlanır mı?
 
-İzin verilenler listesi oluştururken [dikkatli](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) olmanız önerilir. Örneğin, kendi etki alanınıza izin verirseniz, kötü amaçlı gönderenler, etki alanınız olarak sızdırmasına ve gönderebilir.  Bunun yerine, meşru bir iletinin istenmeyen posta teslimine neden olduğunu saptamanıza ve iletinin teslim edilmesi için ne yapabileceğinizi belirleyebilmeniz için bu [yanlış sorun giderme kılavuzunu](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)öneririz.
+İzin [listesi](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) ekleyebilirsiniz. Örneğin, kendi etki alanınıza izin verdiysiniz, kötü niyetli gönderenler sizin etki alanınız olarak kimliği doğru hesabı kullanarak gönderebilir.  Bunun yerine, geçerli [bir](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)iletinin neden istenmeyen posta olarak işaretlenirken olduğunu ve iletinin teslimini güvenli bir şekilde izin vermek için neler yapsanız iyi bir yol bu yanlış pozitif sorunları giderme kılavuzuna öneririz.

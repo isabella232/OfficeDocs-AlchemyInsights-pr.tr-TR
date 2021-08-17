@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365'te 2681 Attack Ayrıca
+title: Microsoft 365'te 2681 Attack Her Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: b173c6eb3bbbd1beba3b59878ae12bbe7684d0447a16fef746e5b97b82349e53
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065304"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895811"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Saldırı Saldırı Microsoft 365
 
-- Saldırı Uçak'larını mı kaybettiniz? Attack Defender, **Plan 2 veya Office 365** **E5** için Microsoft Defender Office 365 Kurumsal gerektirir. Attack **Evet,** Plan 1, Office 365 Kurumsal E3 veya herhangi bir Office 365 için Microsoft Defender'a İş için Microsoft 365 Uygulamaları değildir.
+- Saldırı Uçak'larını mı kaybettiniz? Attack Defender, **Plan 2 veya Office 365** **E5** için Microsoft Defender Office 365 Kurumsal gerektirir. Attack **Evet,** Plan 1, Office 365 E3 veya herhangi bir Office 365 Kurumsal için Microsoft Defender'İş için Microsoft 365 Uygulamaları dahil değildir.
 
-- Benzetimi yapılan saldırılar başlatmak için kullanabileceğiniz hesap, genel yönetici veya güvenlik yöneticisi izinlerini ve Çok Faktörlü Kimlik Doğrulaması (MFA) gerektirir. SaldırıYanı gereksinimleri hakkında daha fazla bilgi için [bu konuya bakın.](/microsoft-365/security/office-365-security/attack-simulator)
+- Benzetimi yapılan saldırılar başlatmak için kullanabileceğiniz hesap, genel yönetici veya güvenlik yöneticisi izinlerini ve Çok Faktörlü Kimlik Doğrulaması (MFA) gerektirir. SaldırıYanı gereksinimleri hakkında daha fazla bilgi için [bu konuya bakın.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
 
 - Force Force Password saldırı **benzetimleri hakkında önemli** şeyler:
 
@@ -35,8 +35,8 @@ ms.locfileid: "54065304"
 
   - Tasarım olarak, Kimlik avı oturum açma sunucusu **URL'si için özel bir değer sağ yoktur.**
 
-  - Alıcı iletiyi [](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) kimlik avı olarak raporu yapmak için Rapor İletiyi Etkinleştir eklentilerini kullanırsa, iletiyle ilgili uyarı alamayabilirsiniz (çünkü bu sanal bir saldırıdır).
+  - Alıcı iletiyi [](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) kimlik avı olarak rapor etmek için Rapor İletiyi Etkinleştir eklentilerini kullanırsa, iletiyle ilgili uyarı alamayabilirsiniz (çünkü bu sanal bir saldırıdır).
 
 - Raporlar: Benzetimi yapılan saldırı tamamlandıktan sonra, Saldırı Ayrıntıları'nın **üzerine** tıklar ve raporu görebilirsiniz.
 
-- Attack Ayrıca'daki ayrıntılı yönergeler ve yeni özellikler için Saldırı [Saldırı'ya Microsoft 365.](/microsoft-365/security/office-365-security/attack-simulator)
+- Attack Evet'te ayrıntılı yönergeler ve yeni özellikler için bkz. Saldırı [Saldırı Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)

@@ -14,19 +14,19 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58310951"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895727"
 ---
 # <a name="payment-faq"></a>Ödemeyle ilgili SSS
 
 Ödeme gün içinde **Microsoft 365 yönetim merkezi.**
 
-- Abonelik ödeme **yöntemlerinizi > [için Ödeme yöntemi](https://go.microsoft.com/fwlink/p/?linkid=842054)** Ürünleriniz'e gidin.
-- Ödeme yöntemleri **[>, güncelleştirmek, değiştirmek](https://go.microsoft.com/fwlink/p/?linkid=2018806)** veya silmek için Ödeme yöntemleri'ne gidin.
+- Abonelik ödeme **> [atamak veya değiştirmek](https://go.microsoft.com/fwlink/p/?linkid=842054)** için Ürünleriniz için Faturalar'a gidin.
+- Ödeme yöntemleri **[eklemek>, güncelleştirmek,](https://go.microsoft.com/fwlink/p/?linkid=2018806)** değiştirmek veya silmek için Fatura ve Ödeme yöntemleri'ne gidin.
 
 - **Ödeme Yöntemleri** - Kredi kartı veya banka hesabı ile ödeme yapıyorsanız, fatura oluşturulduktan sonra birkaç gün içinde aboneliklerinizle ilişkili ödeme yöntemi aracılığıyla ücret tahsil edilir. Ödeme başarısız olursa, ödeme yönteminizi güncelleştirin. Daha fazla bilgi için bkz. [Ödeme yöntemlerini yönetme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 

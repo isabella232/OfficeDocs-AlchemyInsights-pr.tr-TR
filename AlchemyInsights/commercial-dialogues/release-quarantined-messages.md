@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: d1ca4a95a9f08255eb631af0996d274395d122bc76ca369944cc029f7f4314f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58296071"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895999"
 ---
 # <a name="release-quarantined-messages"></a>Karantinaya alınan iletileri serbest bırakma
 
 Karantinaya alınmış bir iletiyi (veya ileti kümesi) tüm alıcılara serbest bırakabilirsiniz veya yalnızca tüm alıcılar listesinden seçtiğiniz belirli kişiler için serbest ekleyebilirsiniz. Bunu şu şekilde yapabilirsiniz:
 
-1. Aşağıdaki Microsoft 365 Defender portalında <https://security.microsoft.com> E-posta Gönder ve İşbirliği Gözden  \> **&'ne** \> **gidin.**
+1. Aşağıdaki Microsoft 365 Defender portalında <https://security.microsoft.com> E-posta Gönder ve İşbirliği gözden **&'e** \>  \> **gidin.**
 
    Doğrudan Karantina sayfasına **gitmek için,** <https://security.microsoft.com/quarantine> kullanın.
 

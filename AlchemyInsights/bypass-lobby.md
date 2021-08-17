@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dac6690b66181455a1c9c0f40a642b71f2af3516d91ea0853d06564b017b03a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820054"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059616"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Teams'te lobi ayarlarını ve katılım düzeyini denetleme
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Lobi ayarlarını ve katılımcı düzeyi ayarlarını Teams
 
 Arayarak bağlanılan, dış ve anonim kullanıcılar dahil herkesin lobiyi atlayarak bu görevi gerçekleştirmesine izin vermek için PowerShell'i kullanın. İşte, genel toplantı ilkesi ayarlarının kurum için değiştirilmesi için bir örnek.
 
@@ -32,9 +32,9 @@ bir ilkeyi ayar defa kullanıcılara uygulayabilirsiniz; veya Genel ilkesi deği
 Bunun tam olarak neleri izin yaptığını anlamak için bu değişiklikleri yapmadan önce aşağıdaki belgeleri gözden geçirmeyi deneyin.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Teams toplantı lobisi ilke denetimlerini anlama
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Toplantı Teams ilke denetimlerini anlama
 
-Bu ayarlar, toplantıya kabul edilen toplantı katılımcılarını ve bir toplantıya katılım düzeyini kontrol sağlar. Henüz uygulanmamış toplantı ilkesi ayarlarını (Teams yönetim merkezinde "çok yakında" etiketli) güncelleştirmek için PowerShell'i kullanabilirsiniz. Tüm kullanıcıların lobiyi atlaymalarını sağlayan örnek PowerShell cmdlet'i için aşağıya bakın.
+Bu ayarlar, toplantıya kabul edilen toplantı katılımcılarını ve bir toplantıya katılım düzeyini kontrol sağlar. Henüz uygulanmamış toplantı ilkesi ayarlarını (çok yakında" etiketli) yönetim merkezinde güncelleştirmek için PowerShell Teams kullanabilirsiniz. Tüm kullanıcıların lobiyi atlaymalarını sağlayan örnek PowerShell cmdlet'i için aşağıya bakın.
 
 - [Kişilerin otomatik olarak kabul](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) etmek, kişilerin toplantıya doğrudan mı katılacağını yoksa kimliği doğrulanmış bir kullanıcı tarafından kabul edilene kadar lobide mi bekleyeceğini kontrol eden düzenleyici başına bir ilkedir.
 
@@ -44,4 +44,4 @@ Bu ayarlar, toplantıya kabul edilen toplantı katılımcılarını ve bir topla
 
 - [Düzenleyicilerin](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) lobi ayarlarını geçersiz k olmasına izin ver **(çok** yakında), yöneticinin Otomatik olarak kişi kabul  et ve  Arayarak bağlanılan kullanıcıların yeni bir toplantı zamanlaması sırasında lobiyi atlaması için izin ver ayarında ayarlayan lobi ayarlarını geçersiz kıp et etebileceğini kontrol eden, düzenleyici başına bir ilkedir.
 
-**Not:** Microsoft [Teams toplantı ilkelerine tam bir](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) genel bakış için Teams'de toplantı ilkelerini yönetme makalesinde okuyabilirsiniz.
+**Not:** Toplantı [ilkeleriyle ilgili eksiksiz bir genel Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) için Toplantı ilkelerini Microsoft Teams makalesinde okuyun.

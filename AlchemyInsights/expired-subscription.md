@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029752"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895907"
 ---
 # <a name="expired-subscription"></a>Süresi dolmuş abonelik
 
@@ -35,7 +35,7 @@ Bir veya birden çok aboneliğin süresi dolmuş gibi görünüyor. Hizmeti deva
 3. Bu **aboneliği yeniden etkinleştir bölmesinde,** açılan listeden bir ödeme yöntemi seçin veya Ödeme yöntemi ekle **öğesini seçin.**
 4. **Kaydet**'i seçin.
 
-Daha fazla bilgi edinmek için bkz. [Aboneliğinizi yeniden etkinleştirme](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Daha fazla bilgi edinmek için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Yeni bir satın alma**
   
@@ -44,4 +44,4 @@ Daha fazla bilgi edinmek için bkz. [Aboneliğinizi yeniden etkinleştirme](/mic
 3. İhtiyacınız olan lisans sayısını girin ve aylık veya yıllık ödemeyi seçin. Şu anda lisansı olmayan herkese otomatik olarak lisans atanmasını isteyip istemediğinizi seçin. Ardından Şimdi göz **at'ı seçin.**
 4. Çıkış işlemini tamamlamak için kalan adımları izleyin.
 
-Daha fazla bilgi edinmek için bkz. [Başka bir abonelik satın alma.](/microsoft-365/commerce/buy-another-subscription)
+Daha fazla bilgi edinmek için bkz. [Başka bir abonelik satın alma.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)
