@@ -1,5 +1,5 @@
 ---
-title: 8000089 Outlook.com Güvenli Gönderenler
+title: 8000089 Outlook.com Kasa Gönderenler
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 473259594605dfb88885e2176086cd6df1c5ea03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2235a7ae246122b62e77adf34a0d022e3137cb8d4d2edb7d5b5db4d78bc42e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722907"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111420"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>İletileri gereksiz e-posta klasörünüze dönüştürme
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>İletilerin Gereksiz E-posta klasörünüze akmalarını durdurma
 
-Belirli bir kişiden veya etki alanından gelen iletilerin Outlook.com 'daki önemsiz e-posta klasörünüze bitmesini istemediğiniz zamanlar vardır. Güvenilir Gönderenler listesindeki adreslerden veya etki alanlarından gelen iletiler önemsiz e-posta klasörünüze taşınmaz.
+Belirli bir kişi veya etki alanındaki iletilerin Outlook.com'daki Gereksiz E-posta klasörünüzde yer almalarını istemeyebilirsiniz. Güvenilir gönderenler listesinde, adreslerden veya etki alanlarından gelen iletiler Gereksiz E-posta klasörünüze taşınmaz.
 
-1. [Güvenilir Gönderenler ayarlarınızı](https://go.microsoft.com/fwlink/?linkid=2035804)açın.
-2. **Güvenilir Gönderenler ve etki alanları**altında, eklemek istediğiniz e-posta adresini veya etki alanını girin ve **Ekle**'yi seçin.
-3. Güvenilir gönderenlere posta listesi eklemek için, **Güvenli posta listeleri** 'nin altına posta listesini girip **Ekle**'yi seçin.
+1. Kasa [Senders ayarlarınızı açın.](https://go.microsoft.com/fwlink/?linkid=2035804)
+2. Etki **Kasa altında, eklemek** istediğiniz e-posta adresini veya etki alanını girin ve Ekle öğesini **seçin.**
+3. Güvenilir gönderenlerinize posta listesi eklemek için, posta listesini Posta listelerini girin ve **Ekle Kasa öğesini** **seçin.**
 4. **Kaydet**'i seçin.
 
-[Outlook.com 'daki gönderenleri engelleyin veya engellemeyi kaldırın](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+[Outlook.com'da gönderenleri engelleme veya engelini kaldırma makalesinde daha fazla bilgi bulabilirsiniz.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
