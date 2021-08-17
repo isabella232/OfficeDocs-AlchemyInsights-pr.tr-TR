@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: 8479c4af8833fc4f1dbc66ef3c59a4e24290b83c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 92930fb94da4280a1a5e8b3b7f77f42171a812ac99092f355df0f5481e3f3909
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813852"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079434"
 ---
 # <a name="enter-imap-port-numbers"></a>IMAP bağlantı noktası numaralarını girin
 
 Gelişmiş kurulum ekranı ile oturum açma ve gelen ve giden sunucu adreslerinizi bir iki nokta arkasına ekleme. (Bu ayrıntıları e-posta servis sağlayıcınızdan alabilirsiniz.) 
 
-Ayarlar Hesap **Ekleme**  >    >  **IMAP Ayarları'>** Gelişmiş ayarları **göster'e tıklayın** ve ayrıntılarınızı girin. 
+Hesap **Ayarlar**  >  IMAP **Ayarları'>** Gelişmiş  >   ayarları **göster'e tıklayın** ve ayrıntılarınızı girin. 
 
 *Gelen posta sunucusu:* imap.servername.com:000 (genellikle 993 veya 143) 
 

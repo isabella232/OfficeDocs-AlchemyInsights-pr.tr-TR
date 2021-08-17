@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
-ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
+ms.openlocfilehash: f93b7efebd0a619acf300120cc6ece0adbedc39675f6e782fd982dc1f988edbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51958722"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079686"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP İlkesi İpucu sorunları
 
@@ -30,6 +30,6 @@ Tam zorlama modunda Güvenlik ve Uyumluluk Merkezi'nde DLP ilkenize & ilke ipuç
 
 - İçeriğinizin, Hassas bilgi türü varlık tanımlarında belirtilen kuralı tetiklemesi için [gerekenle eşlendiğinden emin olma.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- İlke ipuçları hem OWA'da hem de Outlook'ta görüntülenir. Bununla birlikte, Outlook 2013 veya sonraki bir kullanıyorsanız, ilke ipuçları yalnızca belirli koşullarda görüntülenir. Belirli koşullar listesi için, İlke [İpuçları'nın görüntülenmesi için bkz. Outlook 2013 veya sonraki bir yıl için desteklenen koşullar](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
+- İlke ipuçları hem OWA'da hem de Başka bir Outlook. Bununla birlikte, Outlook 2013 veya sonraki bir sonrakini kullanırken, ilke ipuçları yalnızca belirli koşullar altında görüntülenir. Belirli koşullar listesi için bkz. İlke Bilgileri'Outlook [2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)veya sonraki bir sonraki koşulları İpuçları.
 
-DLP İlkesi ipuçları hakkında bilgi için bkz. [DLP İlkesi İpuçları Başvurusu ve](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) DLP İlkesi ipuçları için Destek [Matrisi.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
+DLP İlkesi ipuçları hakkında bilgi için bkz. [DLP](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) İlkesi İpuçları İpuçları için DLP İlkesi [Başvuru ve Destek Matrisi.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)

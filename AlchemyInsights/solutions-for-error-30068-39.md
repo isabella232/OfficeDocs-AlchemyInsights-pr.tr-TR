@@ -14,27 +14,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 5f9c9ae86f0f80a209444bb161e763a2fbceddeb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a5adca5950e2db34b88c77f1b635c3f273eff4e45eea7312ed2100b8d6f7f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835363"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050246"
 ---
 # <a name="solutions-for-error-30068-39"></a>Hata 30068-39 çözümleri
 
 [30068-39 hatasını düzeltmek için şu çözümleri deneyin:](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)
   
-- Bilgisayarınızı yeniden başlatın ve [Office'i yüklemeyi deneyin.](https://portal.office.com/OLS/MySoftware.aspx)
+- Bilgisayarınızı yeniden başlatın ve yeniden [yüklemeyi Office.](https://portal.office.com/OLS/MySoftware.aspx)
 
 - **Microsoft Tıkla-Çalıştır hizmetinin devre dışı bırakılmıştır** [](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) ve devre dışı bırakılmışsa, durumu El ile veya Otomatik **olarak** **değiştirebilirsiniz.**
 
 - [Destek ve Kurtarma Yardımcısı](https://aka.ms/SARA-OfficeUninstall-Alchemy)’nı indirip yükleyin.
 
-1. Açıldığında, Office ürünlerini **kaldır seçeneğinden** kaldırmak istediğiniz sürümü seçin ve sonra da Sonraki öğesini **seçin.**
+1. Açılırken, Kaldır ve **Office ürünlerden** kaldırmak istediğiniz sürümü seçin ve sonra da Sonraki öğesini **seçin.**
 
 2. Ekranlarda ilerlemeye devam edin ve istendiğinde bilgisayarınızı yeniden başlatın.
 
-    Yeniden başlatmanın ardından, kaldırma işleminin tamamlanması için Destek ve Kurtarma Yardımcısı otomatik olarak yeniden açılır.
+    Yeniden başlatmanın ardından, Destek ve Kurtarma Yardımcısı için dosya yeniden açılır.
 
-3. Kalan istemleri izleyin ve [Office'i yeniden](https://portal.office.com/OLS/MySoftware.aspx) yükleyin veya yardımcıyı kapatın.
+3. Kalan istemleri izleyin ve [yeniden Office](https://portal.office.com/OLS/MySoftware.aspx) veya yardımcıyı kapatın.

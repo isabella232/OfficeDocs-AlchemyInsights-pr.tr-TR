@@ -13,25 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: deb83d278a2b398b4ea6fc31b043c33309b736e3
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 626bd7515270f03e1560a3ed637e7bc60b374c5525527205d5f6775e4758f07a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483707"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882655"
 ---
 # <a name="find-events-performed-on-inbox-rules"></a>Gelen kutusu kurallarında gerçekleştirilen olayları bulma
 
-Gelen kutusu kuralları oluşturulduğunda, değiştirdiğinde veya silindiğinde olaylar denetim günlüğüne kaydedilir. Bunları şu şekilde gözden geçirsiniz:
+Gelen kutusu kuralları oluşturulduğunda, değiştirdiğinde veya silindiğinde olaylar denetim günlüğüne kaydedilir. Bunları şu şekilde gözden geçirersiniz:
 
-1. [Office 365 Güvenlik ve Uyumluluk & gidin.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Denetim günlüğü > Arama'ya seçin.
+1. Aşağıdaki eylemlerden birini yapın:
+   - Aşağıdaki Microsoft 365 uyumluluk merkezi , <https://compliance.microsoft.com> Çözüm **Denetimi'ne** \> **gidin.** Veya doğrudan Denetim sayfasına **gitmek için** <https://compliance.microsoft.com/auditlogsearch> kullanın.
+   - aşağıdaki Microsoft 365 Defender portalında <https://security.microsoft.com> Denetim 'e **gidin.** Veya doğrudan Denetim sayfasına **gitmek için** <https://security.microsoft.com/auditlogsearch> kullanın.
 
     > [!NOTE]
-    > Denetimi açmamız gereken bir bildirim görüyorsanız, şimdi devam edin ve bu bildirimi açmayın. Bu özellik açık değilse, arama sonuçları önceki tarihlerden veri alamı olmayacaktır.
-1. Etkinlikler alanını seçin, Exchange posta kutusu etkinliklerini bulun ve ardından Outlook Web App'New-InboxRule gelen kutusu kuralı oluştur'u seçin. Bitir bittiğinde, Etkinlikler bölmesini simge durumuna küçültmek için bölmenin dışına tıklayın.
-1. Tarih aralığını belirtin ve Kullanıcılar alanında, araştırma yapmak istediğiniz kullanıcının kullanıcı adını seçin. Bir defada birden çok kullanıcı seçin.
-1. Ara'ya seçin. Etkinlikler Sonuçlar altında görünür.
-1. Ayrıntıları görüntülemek için bir etkinlik seçin ve ardından Daha Fazla Bilgi'yi seçin. Parametreler bölümünün altında kuralın adını, ayarlanmış koşulları ve kuralın gerçekleştirecek eylemlerini bulabilirsiniz.
+    > Denetimi açmamız gereken bir bildirim görüyorsanız, devam edin ve hemen açmayın. Bu özellik açık değilse, arama sonuçları önceki tarihlerden veri çekebilirsiniz.
 
-Daha fazla bilgi edinmek için bkz. Yaygın senaryoların sorunlarını gidermek için Office 365 denetim günlüğünde arama yapın.
+2. Denetim **sayfasının** Ara **sekmesinde** aşağıdaki ayarları yapılandırabilirsiniz:
+   - **Tarih ve saat aralığı:** Başlangıç ve Bitiş  kutularında **tarih/saat** aralığını seçin.
+   - **Etkinlikler:** Select **New-InboxRule Create Inbox rule from Outlook Web App**
+
+3. Bitirdikten sonra Ara'ya **tıklayın.** Etkinlikler, yeni Denetim arama **sayfasında** görüntülenir.
+
+4. Ayrıntılar açılır öğesini açmak için sonuçlardan bir etkinlik seçin. Parametreler **bölümünün** altında, kuralın adını, koşullar kümesi ve kuralın gerçekleştirecek eylemleri görebilirler.
+
+Daha fazla bilgi edinmek için [bkz. Sık karşılaşılan destek sorunlarını araştırmak için denetim günlüğünde arama.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

@@ -1,5 +1,5 @@
 ---
-title: İş için Microsoft Defender Kasa ta bağlantı ilkelerini Office 365
+title: Destek Kasa Microsoft Defender'da Bağlantı ilkelerini Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070380"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882587"
 ---
-# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>İş için Microsoft Defender Kasa ta bağlantı ilkelerini Office 365
+# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Destek Kasa Microsoft Defender'da Bağlantı ilkelerini Office 365
 
-Sizin için Microsoft Defender'Kasa Bağlantılar için varsayılan Office 365 ilke sizin için zaten oluşturulmuş olur. Yapılandırmaları değiştirmek için:
+1. aşağıdaki Microsoft 365 Defender portalında, İlkeler bölümündeki & İşbirliği <https://security.microsoft.com/>  \> **İlkeleri'ne &** Tehdit \>  \> Kasa **Bağlantılar'a** gidin. 
 
-1. Güvenlik ve [Uyumluluk Office 365 & gidin.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Tehdit **Yönetimi İlkesi'ne**  >  **seçin.** İlke **sayfasında,** Çevrimiçi Bağlantılar için [Microsoft Defender Office 365 Kasa seçin.](https://go.microsoft.com/fwlink/?linkid=2101058)
-3. Kuruluşun **tamamına uygulanacak ilkeler bölümünde** Varsayılan öğesini **seçin** ve sonra da Düzenle **simgesini** seçin.
-4. Aşağıdaki **URL'leri engelle bölümünde,** kurum bölümündeki kişilerin ziyaretini engellemek istediğiniz bir veya birden çok URL belirtin. Daha fazla bilgi edinmek için, [Bağlantı Listesinin "Aşağıdaki URL'leri engelleme" Kasa bakın.](https://go.microsoft.com/fwlink/?linkid=2092123)
-5. **E Ayarlar dışında içeriğe uygun olan içerikte,** kullanmak istediğiniz seçenekleri seçin (veya silin). (Tüm seçenekleri seçmeniz önerilir.)
-6. **Kaydet**'i seçin.
+   Doğrudan Bağlantılar sayfasına **Kasa için,** <https://security.microsoft.com/safelinksv2> kullanın.
+
+2. Bağlantılar **Kasa,** aşağıdaki adımlardan herhangi birini yapın:
+   - Yeni ilke eklemek için + Oluştur **öğesini seçin.** İlke ayarlarınızı tanımlamanıza yardımcı olacak bir sihirbaz başlatır.
+   - Var olan bir ilkeyi düzenlemek için, ilkenin adına tıklayarak ilkeyi seçin. Görüntülenen ayrıntılar açılır sayfasında, yapılandırmak **istediğiniz** ayarları içeren bölümde Düzenle'yi seçin.
+   - Url'lerin Bağlantılar Kasa engellemek için veya desteklenen Kasa Uygulamaları'Kasa Office 365 Bağlantılar ayarlarını yapılandırmak için, Genel ayarlar'a tıklayın, istediğiniz ayarları yapılandır ve ardından Kaydet'e **tıklayın.**
+
+3. Ayarlarınızı gözden geçirmenizin ardından Gönder (yeni) **veya** Kaydet (düzenle) **seçeneğini** seçin.
+
+Daha fazla bilgi için aşağıdaki makalelere bakabilirsiniz:
+
+- [Web için Microsoft Defender Kasa da Bağlantılar ilkelerini Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Gizlilik için Microsoft Defender'Kasa Bağlantıları için genel ayarları Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)

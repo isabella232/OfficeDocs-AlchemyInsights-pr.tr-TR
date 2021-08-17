@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1300012"
 - "7420"
-ms.openlocfilehash: a304504f7483036884878639dfa6ebfc3cdfcac8
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
+ms.openlocfilehash: c4059364cd8aba920dba833c88a69413bad95a2c3b895599d9f6895b50ff73d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079650"
 ---
 # <a name="deploy-ad-fs"></a>AD FS'yi dağıtma
 
-Active Directory Federasyon Hizmetleri (AD FS) dağıtımı, Office 365 hizmetleri için kullanıcıların kimliğini doğrulamak için şirket içi altyapınızı kullanır. Federasyon oturum açmayla, kullanıcıların Azure Active Directory (Azure AD) ile tümleştirilmiş Office 365 hizmetlerinde ve Yazılım Hizmet (SAAS) uygulamalarında oturum açmasını sebilirsiniz. Şirket içi oturum açma, AD FS aracılığıyla şirket içi Active Directory'niz üzerinden kullanıcıların kimliğini doğrular. Ayrıca şirket ağınız açıkken kullanıcıların parolalarını yeniden girmeniz gerekmez.
+Active Directory Federasyon Hizmetleri (AD FS) dağıtımı, şirket içi altyapınızı kullanarak şirket içi hizmetlerin kullanıcılarının kimliğini Office 365 kullanır. Federasyon oturum açmayla, kullanıcıların Azure Active Directory (Azure AD) ile tümleşik Hizmet olarak Office 365 Hizmet olarak Yazılım (SAAS) uygulamalarında oturum açmasını sabilirsiniz. Şirket içi oturum açma, ad FS aracılığıyla şirket içi Active Directory'niz üzerinden kullanıcıların kimliğini doğrular. Ayrıca şirket ağınız açıkken kullanıcıların parolalarını yeniden girmeniz gerekmez.
 
-[AD FS dağıtım](https://go.microsoft.com/fwlink/?linkid=2071178) danışmanı, Microsoft 365 ve Office 365 hizmetleri için kullanıcıların kimliğini doğrulayanın şirket içi AD FS altyapısını dağıtma konusunda size adım adım kılavuz sağlar. Bu kılavuzla, organizasyonunız AD FS bileşenlerini ve gereksinimlerini gözden geçirebilir, dağıtım için gerekli SSL sertifikalarını edinebilir ve yükleyebilir ve gerekli bir web uygulaması ara sunucusu yükleyebilir.
+[AD FS](https://go.microsoft.com/fwlink/?linkid=2071178) dağıtım danışmanı size, Microsoft 365 ve Office 365 hizmetlerde kullanıcıların kimliklerini doğru kullanan şirket içi AD FS altyapısını dağıtma konusunda adım Office 365 sağlar. Bu kılavuzla, organizasyonunız AD FS bileşenlerini ve gereksinimlerini gözden geçirebilir, dağıtım için gerekli SSL sertifikalarını edinebilir ve yükleyebilir ve gerekli bir web uygulaması ara sunucusu yükleyebilir.
