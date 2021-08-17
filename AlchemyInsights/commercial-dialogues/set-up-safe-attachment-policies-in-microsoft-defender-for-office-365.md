@@ -1,5 +1,5 @@
 ---
-title: Gizlilik için Kasa Defender'da Ek ilkelerini Office 365
+title: Kasa Office 365 için Microsoft Defender'da ek Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058562"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888390"
 ---
-# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Gizlilik için Kasa Defender'da Ek ilkelerini Office 365
+# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Kasa Office 365 için Microsoft Defender'da ek Office 365
 
-1. Güvenlik ve Uyumluluk [Office 365 Merkezi'& gidin](https://go.microsoft.com/fwlink/p/?linkid=2077143) ve Ekler **için Tehdit Yönetimi**  >  **İlkesi Kasa**  >  **seçin.**
-2. Bu özelliği diğer iş yükleri için etkinleştirmek üzere SharePoint Online, OneDrive ve Office 365 için **Microsoft Defender'ı Microsoft Teams.**
-3. Yeni bir ilke oluşturmak için Yeni **(** ) **+** simgesini seçin.
-4. İlkenin adını, açıklamasını ve ayarlarını belirtin.
-5. **Kaydet**'i seçin.
+1. aşağıdaki Microsoft 365 Defender portalında, <https://security.microsoft.com/> İlkeler **bölümünde E-posta &** İşbirliği İlkeleri & Kuralları Tehdit \>  \>  \> **Kasa'e** gidin. 
+
+   Ekler sayfasında doğrudan **Kasa için,** <https://security.microsoft.com/safeattachmentv2> kullanın.
+
+2. Ekleri **Kasa** sayfasında, aşağıdaki adımlardan birini uygulayın:
+   - Yeni ilke eklemek için + Oluştur **öğesini seçin.** İlke ayarlarınızı tanımlamanıza yardımcı olacak bir sihirbaz başlatır.
+   - Var olan bir ilkeyi düzenlemek için, ilkenin adına tıklayarak ilkeyi seçin. Görüntülenen ayrıntılar açılır sayfasında, yapılandırmak **istediğiniz ayarları** içeren bölümde Düzenle'yi seçin.
+   - SharePoint, OneDrive ve Kasa Ekleri'Microsoft Teams açmak veya kapatmak için Genel ayarlar'a tıklayın, ayarı açın veya kapatın ve ardından Kaydet'e **tıklayın.** 
+
+3. Ayarlarınızı gözden geçirmenizin ardından Gönder (yeni) **veya** Kaydet (düzenle) **seçeneğini** seçin.
+
+Daha fazla bilgi için aşağıdaki makalelere bakabilirsiniz:
+
+- [Ekleri Kasa için Microsoft Defender'da Ekleri Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [E-Kasa, E-SharePoint, OneDrive için Ekleri Açma Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)

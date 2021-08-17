@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ea0f3dd2c1e21455b4750afbf9c43c931ad34bf357e94dd604ffe5bcdd2fa64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816148"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080370"
 ---
 # <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Kullanıcılarınızı başka bir kuruluşla işbirliği yapmak için Kuruluş İlişkisi oluşturma
 
-1. Microsoft 365 yönetim merkezi panosunda Yönetici **Exchange'e**  >  **gidin.**
+1. Microsoft 365 yönetim merkezi panosundan Yönetici **Hesabı'Exchange.**  >  
 2. Kuruluş paylaşımı  >  **'ne gidin.**
 3. Kuruluş **Paylaşımı altında,** Yeni **'ye tıklayın.**
 4. Yeni **kuruluş ilişkisinde,** **İlişki adı kutusuna** kuruluş ilişkisi için kolay bir ad yazın.
-5. Paylaşacağız **etki alanları** kutusuna takvimlerinizi görmelerini istediğiniz dış Office 365 veya Exchange şirket içi kuruluşlarının etki alanını yazın. Birden fazla etki alanı girmeniz gerekirse, etki alanı adlarını virgülle birbirinden ayırabilirsiniz. Örneğin, contoso.com, service.contoso.com.
+5. **Paylaşıla etki alanları** kutusuna, takvimlerinizi görmelerini istediğiniz dış Office 365 veya Exchange şirket içi kuruluş için etki alanını yazın. Birden fazla etki alanı girmeniz gerekirse, etki alanı adlarını virgülle birbirinden ayırabilirsiniz. Örneğin, contoso.com, service.contoso.com.
 6. Listelenen etki **alanlarıyla takvim paylaşımını açmak için Takvim serbest/meşgul** bilgi paylaşımını etkinleştir onay kutusunu seçin. Takvim serbest/meşgul bilgisinin paylaşım düzeyini ayarlayın ve hangi kullanıcıların takvim serbest/meşgul bilgilerini paylaşa ayarlaması için bunu ayarlayın.  
 
 Serbest/meşgul erişim düzeyini ayarlamak için, aşağıdaki seçeneklerden birini seçin:
@@ -46,6 +46,6 @@ Kuruluş **ilişkisini** oluşturmak için Kaydet'e tıklayın.
 
 **Bu konuyu tam olarak anlamak için lütfen aşağıdakini okuyun:**
 
-- [Exchange Online'da kuruluş ilişkisi oluşturma](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
-- [Exchange Online'da kuruluş ilişkisini değiştirme](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
-- [Exchange Online'da kuruluş ilişkisini kaldırma](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)
+- [Web'de kuruluş Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
+- [Exchange Online'de kuruluş ilişkisini değiştirme](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
+- [Exchange Online'da kuruluş ilişkisini Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)

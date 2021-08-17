@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: 8cdadf34a059856338d7f40528446b70373465e4
-ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
+ms.openlocfilehash: 29383643e6867bca7fd31774a9594b82fdc080bb0e7254141e8c883ad861075e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52702110"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886159"
 ---
 # <a name="11-call-recording"></a>Bire bir arama kaydı
 
@@ -28,10 +28,10 @@ Bir **aramada** Kaydı Başlat düğmesi gri görüntüye sahipse, etkiyi alan k
 
 *AllowCloudRecordingForCalls*   arama ilkesi seçeneği varsayılan olarak **$False** olarak ayarlanır. Tüm kullanıcıların bire bir arama kaydetmelerini engellemeyi tercih ederseniz herhangi bir işleme gerek yok.  
 
-Bire bir aramalarda tüm kullanıcılarda arama kaydını etkinleştirmek için [Teams PowerShell](/microsoftteams/teams-powershell-install) kullanarak aşağıdaki cmdlet'i çalıştırın: 
+Bire bir aramalarda tüm kullanıcılarda arama kaydını etkinleştirmek için [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install) kullanarak aşağıdaki cmdlet'i çalıştırın: 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-Alternatif olarak, yeni bir ilke oluşturabilir ve **-AllowCloudRecordingForCalls** $true bu ilkeyi ayarlayarak kullanıcılarınıza atabilirsiniz.  
+Alternatif olarak, yeni bir ilke oluşturabilir ve **-AllowCloudRecordingForCalls** $true ilkeyi ayarlayarak kullanıcılarınıza atabilirsiniz.  
 
 Daha fazla bilgi için [bkz. 1:1 Arama Kaydı İlkesi Denetimleri (Neredeyse!) Burada.](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668)
