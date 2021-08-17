@@ -14,18 +14,18 @@ ms.custom:
 - commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: c793ed6b7281a558a7a4ce0aa1a3fa432ba4863c7c473e3ec47d980d67c28b7b
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 0a160b0caba0098ce678872ae54df7b6ad69e78cba4eac85ac15567f2e75a8c7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503960"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891551"
 ---
 # <a name="change-payment-method-fromto"></a>Ödeme yöntemini değiştirme eski/yeni
 
 1. **Faturadan kredi kartına veya banka hesabına geçme**
 
-    - Faturayla ödeme yöntemini farklı bir ödeme yöntemiyle otomatik olarak değiştiremezsiniz. Bunun yerine, bir kredi veya banka kartı ya da banka hesabı ile ödemesi yapılan [farklı bir abonelik satın almanız](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription), [tüm kullanıcıları yeni aboneliğe taşımanız](/microsoft-365/commerce/subscriptions/move-users-different-subscription) ve ardından [eski aboneliği iptal etmeniz](/microsoft-365/commerce/subscriptions/cancel-your-subscription) gerekir.
+    - Faturayla ödeme yöntemini farklı bir ödeme yöntemiyle otomatik olarak değiştiremezsiniz. Bunun yerine, bir kredi veya banka kartı ya da banka hesabı ile ödemesi yapılan [farklı bir abonelik satın almanız](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription), [tüm kullanıcıları yeni aboneliğe taşımanız](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription) ve ardından [eski aboneliği iptal etmeniz](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) gerekir.
 
 2. **Kredi kartı veya banka hesabından faturaya geçme**
 
@@ -35,4 +35,4 @@ ms.locfileid: "54503960"
 
     - El ile değişikliği tamamlamak için [Kredi kartı ödemelerinden faturayla ödemeye nasıl geçebilirim?](how-do-i-change-from-credit-card-payments-to-invoice.md) makalesinde belirtilen adımları izleyin.
 
-Daha fazla bilgi için [Aboneliğinizi ödeme](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription) makalesine bakın.
+Daha fazla bilgi için [Aboneliğinizi ödeme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription) makalesine bakın.

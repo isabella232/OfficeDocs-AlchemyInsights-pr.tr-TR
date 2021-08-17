@@ -1,5 +1,5 @@
 ---
-title: Çıkan sorun
+title: Ortaya Çıkan Sorun
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1965"
 - "9000337"
-ms.openlocfilehash: 25aa596d548e01d8f355448f33dd873064d597f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34ed86c3044a0b73bc2cc94a7032b8f2c99dd643a497eadfdf3b26172c1200df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797712"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108972"
 ---
-# <a name="emerging-issue"></a>Çıkan sorun
+# <a name="emerging-issue"></a>Ortaya Çıkan Sorun
 
-Raporlarınıza benzer bir sorun hakkında birçok müşteri konuşdum. Bu soruna bakıyoruz.
+Birçok müşteri, bildirilene benzer bir sorundan şikayet etti. Bu sorunu arıyoruz.
 
-Hizmet [durumu panosunu](https://admin.microsoft.com/adminportal/home#/servicehealth) , tüm hizmet etkileyen olaylarını güncellenecek şekilde denetleyin.
+Olayları etkileyen [hizmetlerde güncel](https://admin.microsoft.com/adminportal/home#/servicehealth) kalmak için lütfen Hizmet Durumu Panosuna göz ekleyin.
