@@ -1,5 +1,5 @@
 ---
-title: Azure özellikleri Microsoft Edge 'de düzgün çalışmazsa ne yapmalısınız?
+title: Azure özellikleri e-Microsoft Edge'de düzgün çalışmazsa Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004128"
 - "7206"
-ms.openlocfilehash: 463236bcd9ff480471604c992aa1ed1ed4ac2987
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: e188ecb375f3d84b45a1a7718b3c0b797c756f822ba64b3824976fe79c1e8298
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117108"
 ---
-# <a name="what-to-do-if-azure-features-dont-work-properly-in-microsoft-edge"></a>Azure özellikleri Microsoft Edge 'de düzgün çalışmazsa ne yapmalısınız?
+# <a name="what-to-do-if-azure-features-dont-work-properly-in-microsoft-edge"></a>Azure özellikleri e-Microsoft Edge'de düzgün çalışmazsa Microsoft Edge
 
-Microsoft Edge, güvenlik bölgeleriyle ilgili [bilinen sorunlarla karşılaşmıştır](https://go.microsoft.com/fwlink/?linkid=2140608) ve Azure kullanıcılarının Windows Yönetim Merkezi 'nde oturum açmasını etkileyebilir. Microsoft Edge ile Azure özelliklerini kullanırken sorun yaşıyorsanız aşağıdaki adımları deneyin:
+Microsoft Edge [bölgelerle ilgili](https://go.microsoft.com/fwlink/?linkid=2140608) bilinen sorunlar vardır ve Azure kullanıcılarının bu Yönetim Merkezi'nde oturum açma Windows etkileyebilir. Microsoft Edge ile Azure özelliklerini kullanmada sorun Microsoft Edge adımları deneyin:
 
-1. **Başlat** menüsünde **Internet seçenekleri** 'ni arayın ve seçin.
-2. **Internet özellikleri** iletişim kutusunda, **güvenlik** sekmesine gidin.
-3. **Güvenilen siteler** bölgesini seçin ve sonra **siteler** düğmesini seçin.
-4. **Güvenilen siteler** iletişim kutusunda, ağ geçidi URL 'sini olduğu gibi [https://login.microsoftonline.com](https://login.microsoftonline.com) ve [https://login.live.com](https://login.live.com) ardından da **Kapat**'ı seçin.
-5. **Internet özellikleri** Iletişim kutusunda **Gizlilik** sekmesine gidin.
-6. Açılır pencere **Engelleyicisi** bölümünde **Ayarlar**'ı seçin. Açılan iletişim kutusunda, ve ile ağ geçidi URL 'sini [https://login.microsoftonline.com](https://login.microsoftonline.com) ve [https://login.live.com](https://login.live.com) ardından da **Kapat**'ı seçin.
+1. Başlat **menüsünde** Internet **Seçenekleri'ne gidin ve** seçin.
+2. Internet **Özellikleri iletişim** kutusunda Güvenlik **sekmesine** gidin.
+3. Güvenilen **siteler bölgelerini** ve ardından Siteler **düğmesini** seçin.
+4. Güvenilen **siteler iletişim kutusunda** ağ geçidi URL'nizi de ekleyin ve [https://login.microsoftonline.com](https://login.microsoftonline.com) sonra [https://login.live.com](https://login.live.com) Kapat'ı **seçin.**
+5. Internet **Özellikleri iletişim** kutusunda Gizlilik **sekmesine** gidin.
+6. Açılan **Pencere Engelleyicisi bölümünde Seçenekler'i** **Ayarlar.** Açılan iletişim kutusunda ağ geçidi URL'nizi ve sonra [https://login.microsoftonline.com](https://login.microsoftonline.com) [https://login.live.com](https://login.live.com) Kapat'ı **seçin.**

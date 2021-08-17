@@ -1,5 +1,5 @@
 ---
-title: E-postaya erişimi engelleme
+title: E-posta erişimini engelleme
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003890"
 - "6944"
-ms.openlocfilehash: 06079800fee6ce3fb47a1e56c9f4429805d061e2
-ms.sourcegitcommit: 72536a4cf4b84235d3a16ffdd428a92f38dd5e87
+ms.openlocfilehash: 851fc0dea7adf9d5befcf29c3d0e34943e322fcdd35d32c22fd7d2c49a7eed0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680427"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060048"
 ---
-# <a name="block-access-to-email"></a>E-postaya erişimi engelleme
+# <a name="block-access-to-email"></a>E-posta erişimini engelleme
 
-Eski çalışanların Microsoft 365 e-posta hesaplarına erişimini engellemek için şu adımları izleyin:
+Eski çalışanların e-posta hesaplarına şirket içinde erişimini Microsoft 365 aşağıdaki adımları izleyin:
 
 1. [Exchange yönetim merkezine](https://go.microsoft.com/fwlink/?linkid=2138629) gidin.
-1. **Alıcılar** altında **posta kutuları**'nı tıklatın.
-1. Kullanıcının görünen adına çift tıklayın ve ardından **posta kutusu özellikleri**'ne tıklayın.
-1. **Mobil cihazlar** altında,  **Exchange ActiveSync 'i devre dışı bırak** 'ı **ve ardından** 
-1. **E-posta bağlantısı**'Nın altında **devre dışı bırak** 'ı ve **Evet 'i**
-1. **Kaydet**’e tıklayın.
+1. **Alıcılar'ın altında** Posta **Kutuları'a tıklayın.**
+1. Kullanıcının görünen adına çift tıklayın ve sonra posta kutusu **özellikleri'ne tıklayın.**
+1. Mobil **Cihazlar altında,** Cihazları devre **dışı Exchange ActiveSync** ve Evet yanıtını, ardından Cihazlar için **OWA'yi devre** dışı bırak'ı seçin ve Evet **yanıtını seçin.** 
+1. **E-posta Bağlantısı'nın** altında Devre **dışı bırak'ı** seçin ve **Evet yanıtını seçin.**
+1. **Kaydet**'e tıklayın.

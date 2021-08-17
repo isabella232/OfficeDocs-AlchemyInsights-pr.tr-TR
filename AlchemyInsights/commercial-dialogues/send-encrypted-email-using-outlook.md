@@ -1,5 +1,5 @@
 ---
-title: Outlook kullanarak şifreli e-posta gönderme
+title: E-posta adresini kullanarak şifreli e-Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 59b6b6bae745edb18148b92e4a5514d62e2aa086
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 577c09436700e2bde9a2c8457414a4ec64ade7b57adac4f5fc51ca7cffe73656
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081588"
 ---
-# <a name="send-encrypted-email-using-outlook"></a>Outlook kullanarak şifreli e-posta gönderme
+# <a name="send-encrypted-email-using-outlook"></a>E-posta adresini kullanarak şifreli e-Outlook
 
-Kullanıcılar, herhangi bir ek kuruluma gerek kalmadan Outlook'u kullanarak e-posta iletilerini tek tek şifreler. Bunu yapmak için aşağıdaki adımları uygulayın:
+Kullanıcılar, herhangi bir ek kuruluma gerek kalmadan E-posta iletilerini Outlook bir esasa göre şifreler. Bunu yapmak için aşağıdaki adımları izleyin:
 
-1. Outlook uygulamasında: a. E-posta iletisi oluşturun ve Şifrele **seçenekleri > seçin.** 
-    b. Yalnızca **Şifrele veya** **Iletme'ye tıklayın.**
+1. Outlook: a. E-posta iletisi oluşturun ve Şifreleme için **Seçenekler > seçin.** 
+    b. Yalnızca **Şifrele'ye veya** **iletme'ye tıklayın.**
 
-2. Web üzerinde Outlook'ta: a. E-posta iletisi oluşturun ve Şifrele **> seçin.**
+2. Bu Web üzerinde Outlook: a. Bir e-posta iletisi oluşturun ve Encrypt > **seçin.**
     b. Şifrele **veya** **Iletme'ye tıklayın.**
 
 > [!TIP]
-> Bilinen dosya biçimleri korumalıdır. Bununla birlikte, OneDrive İş'te ek olarak gönderilen dosyalar şifrelenmez. Desteklenen tüm dosya türlerinin listesi için, Azure Information Protection istemcisi tarafından [desteklenen Dosya türlerine bakın.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)
+> Bilinen dosya biçimleri korumalıdır. Bununla birlikte, bir e-postadan OneDrive İş olarak gönderilen dosyalar şifrelenmez. Desteklenen tüm dosya türlerinin listesi için bkz. [Azure Information Protection istemcisi tarafından desteklenen dosya türleri.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)
 
-Daha fazla bilgi için PC için Outlook'ta şifreli iletileri [gönderme, görüntüleme ve yanıtlama makalesini görme.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
+Daha fazla bilgi için bkz. PC için Posta'da şifrelenmiş [iletileri gönderme, Outlook ve yanıtlama.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
 
 
 

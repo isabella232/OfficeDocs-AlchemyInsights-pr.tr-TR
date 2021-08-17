@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 23f136bdadcb892356c6faf8fd8ae8481aa8ff83
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 132ae114cac8c2ae1af7495c960b962fadd547522c03b9887f9bde481fff4bba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686942"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893975"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Microsoft 365 iptal mi ediyorsunuz?
 
@@ -33,4 +33,4 @@ Kuruluş verilerinize bağlı olarak, geçerli aboneliklerin tüm haklarında 25
 
 **Para iadesi:** Prorated krediler bir sonraki fatura döngüsünde size iade edilir.
 
-Daha fazla bilgi edinmek için bkz. [Aboneliğinizi iptal etme.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Daha fazla bilgi edinmek için bkz. [Aboneliğinizi iptal etme.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

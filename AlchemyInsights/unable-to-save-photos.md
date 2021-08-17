@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "11618"
 - "9001499"
-ms.openlocfilehash: 6583ea94b1169249571f57051c569ad3371edd72
-ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
+ms.openlocfilehash: 53cb5b223536cee2fbd5c896f38ed8d1938d615200f9151170070422da229448
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52897477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091738"
 ---
 # <a name="unable-to-save-user-photos"></a>Kullanıcı fotoğrafları kaydedemiyor
 
-Yöneticiler kullanıcı fotoğraflarını karşıya yükleyemiyor ve Microsoft 365 kaydedemiyor.
+Yöneticiler kullanıcı fotoğraflarını karşıya yükleyemiyor ve kaydedemiyor Microsoft 365 yönetim merkezi.
 
 En son bilgiler için bkz. Hizmet durumu [danışması M0260481.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth/advisories/:/alerts/MO260481)

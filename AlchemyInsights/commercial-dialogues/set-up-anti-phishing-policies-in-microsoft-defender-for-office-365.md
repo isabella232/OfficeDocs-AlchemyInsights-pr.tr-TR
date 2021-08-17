@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dc6445bcd77a37fd4040381491b96142f8cc6cdd1be6cb05dcfba0c4a9a55dc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966813"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313447"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Güvenlik için Microsoft Defender'da kimlik avına karşı koruma ilkelerini Office 365
 
-1. Güvenlik ve [Uyumluluk Office 365 & gidin.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Tehdit **yönetimi İlkesi'ne**  >  **seçin.** İlke **sayfasında Kimlik** avından korunma için Microsoft Defender Office 365 [seçin.](https://go.microsoft.com/fwlink/?linkid=2101369)
-3. Kimlik **avı önleme sayfasında,** aşağıdakilerden birini yapın:
-    1. Yeni ilke eklemek için + Oluştur **öğesini seçin.**
-    1. Var olan bir ilkeyi düzenlemek için, Kimlik avı önleme sayfasında görüntülenen **listeden ilke adını** seçin. Görüntülenen sayfada, değiştirmek **istediğiniz ayarın** yanındaki Düzenle'yi seçin. Kimlik avı önleme ilkenizi tanımlamanıza yardımcı olmak için bir sihirbaz başlatır.
-4. Yeni bir ilke oluşturuyorsanız, ilkenizin adını, açıklamasını ve ayarlarını belirtin.
-5. Ayarlarınızı gözden geçirmenizin ardından, Uygun şekilde Bu ilkeyi **oluştur'a veya** **Kaydet'e** tıklayın.
+1. aşağıdaki Microsoft 365 Defender portalında, İlkeler bölümünde <https://security.microsoft.com/> **E-posta &** İşbirliği İlkeleri & Kurallar Tehdit ilkeleri Kimlik avıyla \>  \>  \>  **mücadele'ye** gidin.
+
+   Doğrudan Kimlik avı önleme **sayfasına gitmek için** <https://security.microsoft.com/antiphishing> kullanın.
+
+2. Kimlik **avı önleme sayfasında,** aşağıdaki adımlardan birini uygulayın:
+   - Yeni ilke eklemek için + Oluştur **öğesini seçin.** İlke ayarlarınızı tanımlamanıza yardımcı olacak bir sihirbaz başlatır.
+   - Var olan bir ilkeyi düzenlemek için, ilkenin adına tıklayarak ilkeyi seçin. Görüntülenen ayrıntılar açılır sayfasında, yapılandırmak **istediğiniz** ayarları içeren bölümde Düzenle'yi seçin.
+
+3. Ayarlarınızı gözden geçirmenizin ardından Gönder (yeni) **veya** Kaydet (düzenle) **seçeneğini** seçin.
+
+Daha fazla bilgi için bkz. Kimlik avı için [Microsoft Defender'da kimlik avı ilkelerini Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)

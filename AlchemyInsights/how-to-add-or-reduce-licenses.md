@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501836"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892215"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Aboneliğiniz için lisans ekleme veya kaldırma
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501836"
 4. Lisansları satın almak **veya** kaldırmak için, **Toplam** lisanslar kutusuna Yeni miktar'ın altında, bu abonelik için istediğiniz toplam lisans sayısını girin. Örneğin, 100 lisansınız varsa ve 25 lisans daha eklemek istiyorsanız, 125 girin. 25 lisansı kaldırmak için 75 girin.
 5. **Kaydet**'i seçin.
 
-Lisans atama hakkında bilgi için bkz. [Kullanıcılara lisans atama](/microsoft-365/admin/manage/assign-licenses-to-users).
+Lisans atama hakkında bilgi için bkz. [Kullanıcılara lisans atama](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 **Kaynaklar**
   
-- [Lisans satın alma veya kaldırma](/microsoft-365/commerce/licenses/buy-licenses)
-- [İş Microsoft 365 aboneliğini iptal etme](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [İşletmeler için Microsoft 365 aboneliği deneme veya satın alma](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Lisans satın alma veya kaldırma](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [İş Microsoft 365 iptal etme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [İşletmeler için Microsoft 365 aboneliği deneme veya satın alma](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

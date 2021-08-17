@@ -13,26 +13,26 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681f7609f32b004ddfa7bfbeff179757e7063657
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891699"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312707"
 ---
 # <a name="alert-policies"></a>Uyarı ilkeleri
 
-Microsoft 365, ABD [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) Kamu E1/G1, E3/G3 veya E5/G5 aboneliği olan Microsoft 365 Kurumsal veya Microsoft 365 için uyarıları tetikleyen varsayılan uyarı ilkelerini içerir. Bu nedenle yöneticiler, Office365Alerts@microsoft.com tarafından gönderilen ve konu satırı "Düşük önem düzeyine sahip bir uyarı: uyarı ilkesi adı" gibi bir *uyarı e-posta bildirimi alsa* da bu bildirimi alırlar. Kullanıcıların şu durumlarda olduğu gibi yaygın etkinliklere yönelik uyarılar tetiklendiğinde uyarı bildirimleri gönderilir:
+Microsoft 365, ABD [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) Kamu E1/G1, E3/G3 veya E5/G5 aboneliği olan Microsoft 365 Kurumsal veya Microsoft 365 için uyarı tetikleyen varsayılan uyarı ilkelerini içerir. Bu nedenle yöneticiler, Office365Alerts@microsoft.com tarafından gönderilen ve konu satırı "Düşük önem düzeyine sahip bir uyarı: uyarı ilkesi adı" gibi bir uyarı e-posta *bildirimi alsa* da bu bildirimi alırlar. Kullanıcıların şu durumlarda olduğu gibi yaygın etkinliklere yönelik uyarılar tetiklendiğinde uyarı bildirimleri gönderilir:
 
 - E-postayı iletir gelen kutusu kuralları oluşturun.
 - Posta kutularına izinler attayabilirsiniz.
-- Dosya paylaşımında çok fazla sayıda dosyayı SharePoint silin.
+- Dosya paylaşımında çok fazla sayıda dosyayı SharePoint silme.
 - eBulma aramaları oluşturun ve arama sonuçlarını dışarı aktarın.
 
 Bir uyarıyı gözden geçirmek ve üzerinde eylemde yapmak için:
 
 1. Aşağıdaki adımlardan birini uygulayın:
-   - aşağıdaki <https://compliance.microsoft.com> Microsoft 365 uyumluluk merkezi, **Alerts 'e gidin.** Ya da doğrudan Uyarılar sayfasına **gitmek için** <https://compliance.microsoft.com/compliancealerts> kullanın.
+   - aşağıdaki Microsoft 365 uyumluluk merkezi <https://compliance.microsoft.com> , **Alerts 'e gidin.** Ya da doğrudan Uyarılar sayfasına **gitmek için** <https://compliance.microsoft.com/compliancealerts> kullanın.
    - Microsoft 365 Defender portalında Olaylar <https://security.microsoft.com> ve **Uyarılar &** \> **gidin.** Ya da doğrudan Uyarılar sayfasına **gitmek için** <https://security.microsoft.com/alerts> kullanın.
 2. Uyarıyla ilgili bilgilerin olduğu bir uç uç sayfa görüntülemek için uyarıya tıklayın.
 
