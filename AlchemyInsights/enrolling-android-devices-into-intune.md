@@ -1,5 +1,5 @@
 ---
-title: Android cihazlarını Intune 'a kaydetme
+title: Android cihazları Intune'a kaydetme
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 97b83d0982f9556fd28a62cc12e3b89259686270c684a46721f0ef3d683e5ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090176"
 ---
-# <a name="enrolling-android-devices-into-intune"></a>Android cihazlarını Intune 'a kaydetme
+# <a name="enrolling-android-devices-into-intune"></a>Android cihazları Intune'a kaydetme
 
-Kullanıcıları Android Cihaz Yöneticisi kaydı 'ndan Android kurumsal 'a geçirmeyi düşünüyorsanız, lütfen gözden geçirin: [Android cihazlarını cihaz yöneticisinden iş profili yönetimine taşıma](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
+Kullanıcıları Android Cihaz Yöneticisi kaydından Android Enterprise'e geçirmek için lütfen şu sayfayı gözden geçirme: Android cihazlarını cihaz yöneticisinden iş [profili yönetimine taşıma](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
 
-Intune aşağıdaki Android aygıtlarının kaydını destekler:  
+Intune aşağıdaki Android cihazlarının kaydı destekler:  
 
-- [Samsung KNOX, Ze,, Cihaz Yöneticisi](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
-- [Android kurumsal çalışma profili](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
-- [Android kurumsal adanmış](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
-- [Android kurumsal tam yönetimli](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
+- [Samsung Knox, Knox, Cihaz Yöneticisi](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Android Enterprise iş profili](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Android Enterprise ayrılmış](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Android Enterprise yönetiliyor](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Android cihazlar için kayıt ayarlamadan önce, [Önkoşulları Gözden geçirin](https://docs.microsoft.com/intune/enrollment/android-enroll).  
+Android cihazları için kayıt ayarlamadan [önce önkulları gözden geçirebilirsiniz.](https://docs.microsoft.com/intune/enrollment/android-enroll)  
 
-Genel ve bazı Android kayıt hatalarında cihaz [kaydı sorunlarını giderme](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)hakkında bilgi için bkz.
+Genel olarak cihaz kaydı sorunlarını giderme ve bazı Android kayıt hataları hakkında bilgi için [bkz.](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)Microsoft Intune.
 
-Ayrıca, kullanıcılarınızın hangi tür sorunları yaşadığını belirlemeye yardımcı olması için Intune sorun giderme Blade 'i tanımlayan içeriği de kullanabilirsiniz.
+Ayrıca, kullanıcılarının hangi sorunla karşılaşmış olduğunu belirlemek için Intune Sorun Giderme blade'ini açıklayan içeriği de kullanabilirsiniz.

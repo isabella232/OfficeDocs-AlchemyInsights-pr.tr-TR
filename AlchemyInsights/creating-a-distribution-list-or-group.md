@@ -1,5 +1,5 @@
 ---
-title: 711 dağıtım listesi veya grubu oluşturma
+title: 711 Dağıtım listesi veya grubu oluşturma
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: 179b3738f65b08fc81cf224393445717e4d4773f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 023a7646430bbbe176f9675721a6154d62269bcb866aa5b7413f7e6973947ae1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732339"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090216"
 ---
 # <a name="create-distribution-groups"></a>Dağıtım grupları oluşturma
 
-Kuruluşunuzun içindeki ve dışındaki kişilere e-posta iletileri göndermek için dağıtım grupları (dağıtım listeleri olarak da bilinir) kullanılır. Bunları oluşturmak kolaydır! Yönergeler için, [Microsoft 365 Yönetim merkezinde dağıtım listeleri oluşturma](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists)konusuna bakın.
+Dağıtım gruplarını (dağıtım listeleri olarak da bilinir) kuruluş içindeki ve dışındaki kişi gruplarına e-posta iletileri göndermek için kullanırsınız. Bunları oluşturmak çok kolay! Yönergeler için [bkz. Dağıtım listeleri oluşturma Microsoft 365 yönetim merkezi.](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists)
 
-**Not**: yöneticinin bir dağıtım grubunun üyeliğini yönetmesi gerekmektedir. Kullanıcıların kendi grup üyeliği listelerini yönetmesini istiyorsanız, bunun yerine [Microsoft 365 gruplarını](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) düşünebilirsiniz.
+**Not:** Bir yöneticinin bir dağıtım grubunun üyeliğini yönetmesi gerekir. Kullanıcıların kendi grup üyelik listelerini yönetmesini tercih ediyorsanız, bunun yerine Grup [Microsoft 365 göz önünde bulundurabilirsiniz.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)

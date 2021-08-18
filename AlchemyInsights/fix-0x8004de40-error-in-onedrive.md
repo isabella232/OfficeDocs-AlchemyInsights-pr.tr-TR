@@ -1,5 +1,5 @@
 ---
-title: Hatanın 0x8004de40 hatasını OneDrive
+title: Veri 0x8004de40 hatasını OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -8,15 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 05fb353dd7bda97b88d4ccfdf2ae708b4401ab862a8e8f4e4d0246b75011cad0
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: e53f27573a7d63f66ea7cedbf996b2e632c61b99160c0578440e33b19a598714
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894295"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089568"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>Hatanın 0x8004de40 hatasını OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Veri 0x8004de40 hatasını OneDrive
 
 Hata Kodu 0x8004de40, buluta OneDrive bağlanırken sorun yaşadığı anlamına olabilir. 
 
-Daha fazla bilgi için [bkz. Hata Kodu: 0x8004de40 oturum aken OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)
+Daha fazla bilgi için [bkz. Hata Kodu: 0x8004de40 e-postada oturum OneDrive](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)

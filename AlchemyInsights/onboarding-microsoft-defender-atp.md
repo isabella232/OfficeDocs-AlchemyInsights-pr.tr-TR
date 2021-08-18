@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: de38bd58c83ed840ccc8c610b61aa8d8b956251dea20895a7fc0e193d11585df
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78d3d95448e432110749b49e004575d6d17267cb0f9055a35480d227ff5c5a49
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985489"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901356"
 ---
 # <a name="onboarding-microsoft-defender-atp"></a>Microsoft Defender ATP'yi ekleme
 
 Windows 10, Windows sunucuları ve Mac ve Linux makineleri için Microsoft Defender ATP'yi ekleme kaynakları için bkz: 
 
-- **Windows 10 makinelerini** İş gereksinimlerinize bağlı olarak, iş gereksinimlerinize uygun makineye sahip bir makine Windows 10. Daha fazla bilgi için [bkz. Cihaz ekleme araçları ve Windows 10.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints) 
+- **Windows 10 makinelerini** İş gereksinimlerinize bağlı olarak, iş gereksinimlerinize bağlı olarak çalışan bir makineye kullanıcı Windows 10. Daha fazla bilgi için [bkz. Cihaz ekleme araçları ve Windows 10.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints) 
 
-- **Windows sunucuları** Windows Server sürümünüz için Microsoft Defender ATP'yi ekleme için bkz. [Sunucuları Microsoft Defender ATP hizmetine ekleme](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
+- **Windows sunucuları** Windows Server sürümünüz için Microsoft Defender ATP'yi ekleme için bkz. [Sunucuları Microsoft Defender ATP hizmetine ekleme](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
 
-- **Windows olmayan uç noktalar**  Sistem tabanlı olmayan bir Windows eklemeden önce Mac veya Linux için sistem gereksinimlerini [karşılamanız](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) [gerekir.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
+- **Windows olmayan uç noktalar**  Sistem tabanlı olmayan bir sistem Windows, Mac veya Linux için sistem gereksinimlerini [karşılamanız](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) [gerekir.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
 
-    Sistem gereksinimlerinizi onay verdikten sonra bkz. Cihaz [olmayan cihazları Windows.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines)
+    Sistem gereksinimlerinizi onay verdikten sonra bkz. Cihaz [olmayan cihazları Windows.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines)

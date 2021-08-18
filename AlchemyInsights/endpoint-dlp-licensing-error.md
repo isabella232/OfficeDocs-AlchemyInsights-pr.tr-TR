@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564872"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090179"
 ---
-# <a name="endpoint-dlp-licensing-error"></a>Uç nokta DLP lisanslama hatası
+# <a name="endpoint-dlp-licensing-error"></a>Uç nokta DLP Lisanslama hatası
 
-Uç nokta DLP 'yi ayarlamaya çalışırken aşağıdaki hatayı alırsanız:
+Uç Nokta DLP'lerini ayarlamaya çalışırken aşağıdaki hatayı alırsanız:
 
 `Your organization is missing the licenses required to manage these devices`.
 
-Aşağıdaki aboneliklerden veya eklentilerden birine sahip olduğunuzdan emin olun:
+Aşağıdaki aboneliklerden veya eklentilerden birini deneyin:
 
 - Microsoft 365 E5
-- Microsoft 365 a5 (EDU)
+- Microsoft 365 A5 (EDU)
 - Microsoft 365 E5 uyumluluğu
-- Microsoft 365 a5 uyumluluğu
-- Microsoft 365 E5 Information Protection ve idare
-- Microsoft 365 a5 bilgi koruması ve idare
+- Microsoft 365 A5 uyumluluğu
+- Microsoft 365 E5 koruma ve yönetim bilgilerini koruma
+- Microsoft 365 A5 koruma ve yönetim bilgilerini koruma
 
 > [!NOTE]
-> Bu,: Win E5 + O365 E5 + EMS E5 gibi lisans birleşimleri için çalışmaz. Bu özelliği ayarlamak için bir saf M365 E5 lisansınız olmalıdır.
+> Bu, şu gibi lisans bileşimleri için çalışmaz: Win E5 + O365 E5 + EMS E5. Bu özelliğin kurulumu için yalnızca bir M365 E5 lisansınız olması gerekir.
 
-Diğer uç nokta DLP lisanslama bilgileri için [ENDPOINT DLP lisansı](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management) 'na bakın.
+Daha fazla Uç Nokta DLP lisanslama bilgisi için bkz. [Uç Nokta DLP Lisansı.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)

@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afc210b65353d2487884070aadb3455a3b510fa7f2ef2800bef31cb77a5f1751
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012148"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901488"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft Tehdit Uzmanları - Hedefli Saldırı Bildirimi
 
-Hedefli Saldırı Bildirimi, bu iki farklı özellik Microsoft Tehdit Uzmanları dir. En kritik tehditlerin saptanması ve hızlı ve doğru biçimde yanıt sağlanmasına yardımcı olan, özel içgörüler ve çözümlemeler sağlayan proaktif bir tehdit arama hizmetidir.
+Hedefli Saldırı Bildirimi, bu iki uygulama Microsoft Tehdit Uzmanları dir. En kritik tehditlerin daha hızlı ve doğru bir şekilde tanımlanıyor ve yanıt vermelerine yardımcı olan, özel içgörüler ve çözümlemeler sağlayan proaktif bir tehdit arama hizmetidir.
 
-Uç nokta için Microsoft Defender müşterisiysiniz, bunları hızlı bir şekilde yanıt ver tanımak için en kritik tehditleri belirlemeye yardımcı olacak özel içgörüler ve çözümlemeler almak için Microsoft Tehdit Uzmanları - Hedefli Saldırı Bildirimleri'ne başvurmanız gerekir.
+Uç nokta için Microsoft Defender müşterisiysiniz, bu tehditlere hızla yanıt ver ver tanımak için en kritik tehditleri belirlemeye yardımcı olacak özel içgörüler ve çözümlemeler almak için Microsoft Tehdit Uzmanları - Hedefli Saldırı Bildirimleri'ne başvurmanız gerekir.
 
 Microsoft Tehdit Uzmanları - Hedefli Saldırı Bildirimleri avantajlarına kaydolmak için Ayarlar Genel Gelişmiş özellikler  >    >    >  **- Microsoft Tehdit Uzmanları Hedefli Saldırı** Bildirimleri'ne gidin. Kabul edildiktan sonra Hedefli Saldırı Bildirimleri'nin avantajlarından faydalanacaksınız.
 
@@ -38,4 +38,4 @@ Hedefli saldırı bildirimini şu Microsoft Tehdit Uzmanları üzerinden alırs�
 
 Hedefli saldırı bildirimlerini e-posta aracılığıyla almak için bir e-posta bildirim kuralı oluşturun. 
 
-Ayrıntılar [için bkz. Microsoft Tehdit Uzmanları özellikleri yapılandırma](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) ve yönetme.
+Ayrıntılar [için bkz. Microsoft Tehdit Uzmanları özellikleri yapılandırma](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) ve yönetme.
