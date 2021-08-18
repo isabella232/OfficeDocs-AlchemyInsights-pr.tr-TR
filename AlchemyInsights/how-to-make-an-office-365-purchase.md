@@ -1,5 +1,5 @@
 ---
-title: Satın alma Microsoft 365 yapma
+title: Microsoft 365 satın alma
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -15,22 +15,22 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 772eeb20defdaa190b000cdcbbd3abe150dff4de971b5cd9d676f261880776a9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499064"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896951"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Satın alma Microsoft 365 yapma
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Microsoft 365 satın alma
 
-Yönetim merkezinde Microsoft 365 aboneliği satın alabilirsiniz.
+Yönetim merkezinde Microsoft 365 abonelik satın alabilirsiniz.
   
 - Plan satın almak için Fatura satın **alma** \> **[hizmetleri sayfasına](https://go.microsoft.com/fwlink/p/?linkid=868433)** gidin.
 - Ek lisans satın almak için Ürünlerinizi **Faturalandırma** \> **[sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054)** gidin. Değiştirmek istediğiniz aboneliği seçin ve ardından Lisans satın al **'ı seçin.\**
 **Bunun nasıl olduğunu** gösteren videoyu izleyin: [Yeni lisans satın alma](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Daha fazla bilgi edinmek için [bkz. Lisans satın alma veya kaldırma](/microsoft-365/commerce/licenses/buy-licenses).
+Daha fazla bilgi edinmek için [bkz. Lisans satın alma veya kaldırma](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Sorun giderme**
 
@@ -38,5 +38,5 @@ Sayfa yükleme konusunda sorun yaşıyorsanız, web sayfasını başka bir taray
 
 **Ek Kaynaklar**
   
-- [Microsoft 365 İş'te kullanıcılara lisans atama](/microsoft-365/admin/add-users/add-users)
-- [İş Microsoft 365 aboneliğini iptal etme](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Microsoft 365 İş'te kullanıcılara lisans atama](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [İş Microsoft 365 aboneliğini iptal etme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

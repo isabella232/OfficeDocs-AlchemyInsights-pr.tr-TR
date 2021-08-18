@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58acaa29f9d0b066cc7be6f6ee57b1806d0e8812b194e20166b133b7715226a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086184"
 ---
-# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Yönetilen iOS ve Android aygıtlarının kullanıcılarına özel bildirimler gönderme
+# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Yönetilen iOS ve Android cihazları kullanıcılarına özel bildirim gönderme
 
-Intune için özel bildirimler, kullanıcının aygıtındaki Şirket portalı uygulaması tarafından işlenir. Uygulama o cihazda anında bildirim oluşturur.
+Intune için özel bildirimler, Şirket Portalı kullanıcının cihazına göre işlenir. Daha sonra uygulama, bu cihazda anında bildirimleri oluşturur.
 
-Aşağıda, özel bildirimlerin alındığını destekleyen cihaz önkoşulları ve uygulama için anında bildirim oluşturulması sağlanır:
+Aşağıda, özel bildirimlerin alınmasına destek olmak ve uygulamanın anında bildirim oluşturması için cihaz önkoşulları ve bunlar yer almaktadır:
 
-- Cihazda Şirket portalı uygulaması yüklü olmalıdır.  
+- Cihazda Şirket Portalı yüklü olması gerekir.  
 
-- Cihazın, Şirket portalı uygulamasının anında bildirim göndermesine izin vermesi gerekir. Uygulama yüklendiğinde veya güncelleştirildiğinde kullanıcıya bildirimlere izin vermesi istenir.
+- Cihazın, mobil uygulamanın Şirket Portalı bildirimleri göndermesine izin vermesi gerekir. Uygulama yüklü veya güncelleştirildiğinde, kullanıcıdan bildirimlere izin vermelerini ister.
 
-- Android cihazlarda Google Play Hizmetleri yüklü olmalıdır.
+- Android cihazlarda Google Play Services yüklü olması gerekir.
 
-- Cihaz Intune 'a kaydolmalıdır.
+- Cihazın Intune'a kaydolması gerekir.
 
-İleti gönderme hakkında daha fazla bilgi için [özellik belgelerine](https://docs.microsoft.com/intune/custom-notifications)bakın.
+İleti gönderme hakkında daha fazla bilgi için, özellik [belgelerine bakın.](https://docs.microsoft.com/intune/custom-notifications)

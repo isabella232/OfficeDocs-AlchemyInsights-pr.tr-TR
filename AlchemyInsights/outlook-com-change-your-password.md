@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 'da parolanızı değiştirme
+title: Outlook.com'da parolanızı değiştirme
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "201"
 - "8000002"
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
-ms.openlocfilehash: f69fcd8330bbb86cbda67156e69abb6450ea160d
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 909d97011d581641589cbc8245aeb9afa462734d53e208dda84657cd306d6fb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112212"
 ---
 # <a name="change-your-password"></a>Parolanızı değiştirme
 
-Outlook.com parolanız, Microsoft hesabınızın parolasıyla aynıdır.
+Outlook.com parolanız Microsoft hesabı parolanız ile aynıdır.
   
-Parolanızı değiştirmek için, [Microsoft hesabı güvenliği](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) 'ne gidin ve **parola güvenliği**'ni seçin.
+Parolanızı değiştirmek için Microsoft hesabı [güvenliği'ne gidin ve Parola](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) güvenliği öğesini **seçin.**
   
-Parolanızı unuttuysanız, [Hesabınızı kurtar](https://go.microsoft.com/fwlink/p/?linkid=841909) sayfasına gidin.
+Parolanızı unuttuysanız, Hesabı kurtar [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=841909) gidin.
   
-Daha fazla bilgi edinmek için [Outlook.com 'da parolanızı değiştirme](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy)konusuna bakın.
+Daha fazla bilgi edinmek için [bkz. Outlook.com'da parolanızı değiştirme.](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy)
