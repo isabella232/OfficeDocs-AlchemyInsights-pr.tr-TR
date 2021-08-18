@@ -14,12 +14,12 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5ac46a90e3ad928723ba601043acce92c23d5c84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005546"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320178"
 ---
 # <a name="delete-a-profile"></a>Profili silme
 
@@ -31,13 +31,12 @@ Profili silmek için aşağıdaki adımları kullanın.
 
 3. Posta **iletişim kutusunda,** silmek istediğiniz profili seçin ve Kaldır'a **tıklayın.**
 
-    > [!NOTE]
-    > Outlook silmenin çevrimdışı verileri kaldıracakları konusunda sizi uyarabilirsiniz. Outlook Veri Dosyalarında (.pst) depolanan hiçbir bilgiyi veya çevrimiçi hesaplarınıza depolanan bilgileri (örneğin, Outlook.com, Exchange veya Microsoft 365 hesaplarınızı kaybetmezsiniz.
+    **Not:** Outlook silmenin çevrimdışı verileri kaldıracakları konusunda sizi uyarabilirsiniz. Outlook Veri Dosyalarında (.pst) depolanan hiçbir bilgiyi veya çevrimiçi hesaplarınıza depolanmış olan bilgileri (örneğin, Outlook.com, Exchange veya Microsoft 365 kaybetmezsiniz.
   
-Profil **Mac için Outlook** fazla bilgi için [bkz.](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) Kimlik bilgilerini veya Mac için Outlook ya da aşağıdaki adımları kullanın.
+Profil **Mac için Outlook** fazla bilgi için [bkz. Kimlik bilgilerini](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) veya Mac için Outlook ya da aşağıdaki adımları kullanın.
   
 1. Finder'dan, **Uygulamalar** klasörünü açın.
 
 2. **Microsoft Outlook**'a ctrl tuşuyla bereber tıklayın ya da sağ tıklayın ve ardından **Paket İçeriğini Göster**'i seçin.
 
-3. İçerik **Paylaşılan** \> **Desteği öğesini seçin** ve ardından profil yöneticisi **Outlook'ı başlatabilirsiniz.**
+3. İçerik **Paylaşılan** \> **Desteği öğesini seçin** ve ardından Profil Yöneticisi **Outlook'i başlatabilirsiniz.**

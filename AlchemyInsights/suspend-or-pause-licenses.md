@@ -15,18 +15,18 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b56a623a70f1a51e501291c0babf7d45eecee4eb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900156"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321701"
 ---
 # <a name="suspend-or-pause-licenses"></a>Lisansları askıya alma veya duraklatma
 
 **Bunun nasıl yapl** olduğunu gösteren videoyu izleyin: [Var olan lisansları kaldırma](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-Lisans kullanımınızı geçici olarak askıya almak veya duraklatmak için lisansları Kullanıcı Microsoft 365 yönetim merkezi sonra yeniden eklersiniz.
+Lisans kullanımınızı geçici olarak askıya almak veya duraklatmak için lisansları kullanıcı Microsoft 365 yönetim merkezi sonra yeniden eklersiniz.
 
 1. Aboneliğinizin lisanslarını kaldırmadan önce, [kullanıcılardan lisans atamalarını kaldırmanız gerekir.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
 2. Ardından, Ürünlerinizi **Faturalandırma**  >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.

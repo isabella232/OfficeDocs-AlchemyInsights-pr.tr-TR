@@ -15,16 +15,16 @@ ms.custom:
 - commerce_licensing
 - "9000568"
 - "2425"
-ms.openlocfilehash: 31b2069e02aff949adcbe703675cd85ed2c87256fda2e73e96742542d1971b1f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 3e6ab7cdc92294a5902bd98c8c39cd3187b0aace
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502520"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321437"
 ---
 # <a name="change-app-license-quantity"></a>Uygulama lisans miktarını değiştirme
 
-Sahip olduğunuz lisans sayısını görüntüleme veya değiştirme ve lisansları kullanıcı lisansları Microsoft 365 yönetim merkezi.
+Sahip olduğunuz lisans sayısını görüntüleme veya değiştirme ve lisansları kullanıcı profilinde kullanıcılara Microsoft 365 yönetim merkezi.
 
 ## <a name="to-change-license-quantity"></a>Lisans miktarını değiştirmek için
 
@@ -33,7 +33,7 @@ Sahip olduğunuz lisans sayısını görüntüleme veya değiştirme ve lisansla
 1. Ürünlerinizi **Faturalandırma**  >  **[sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054)** gidin.
 2. Ürünler **sekmesindeki** Uygulamalar **bölümünde,** yönetmek istediğiniz uygulamayı bulun. Üç noktayı (diğer eylemler) ve ardından Lisans satın **al'ı seçin.**
 3. Lisans sayısını azaltmak için, Lisans satın al bölmesinin üst **kısmında** Lisansları **kaldır'ı seçin.**
-4. Lisansları satın almak **veya** kaldırmak için, **Toplam** lisanslar kutusuna Yeni miktar'ın altında, bu abonelik için istediğiniz toplam lisans sayısını girin. Örneğin, 100 lisansınız varsa ve beş lisans daha eklemek istiyorsanız, 105 girin. Beş tanesi kaldırmak için, 95 girin.
+4. Lisansları satın almak **veya** kaldırmak için, **Toplam** lisanslar kutusuna Yeni miktar'ın altında, bu abonelik için istediğiniz toplam lisans sayısını girin. Örneğin, 100 lisansınız varsa ve beş lisans daha eklemek istiyorsanız, 105 girin. Beş tanesi kaldırmak için 95 girin.
 5. **Kaydet**'i seçin.
 
 ## <a name="to-assign-app-licenses"></a>Uygulama lisanslarını atamak için

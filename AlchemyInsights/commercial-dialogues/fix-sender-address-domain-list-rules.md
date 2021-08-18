@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896131"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320509"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Gönderen Adresi/Etki Alanı listesi kurallarını düzeltme
 
 İstenmeyen posta önleme ilkelerinizin biri bu iletiyi etkiliyordi. İletinin göndereni İzin Ver veya Engelle listesinde bulundu. İlkeleri gözden geçirmek için aşağıdaki adımları izleyin:
 
-1. aşağıdaki Microsoft 365 Defender portalında, İlkeler bölümünde <https://security.microsoft.com/> **E-posta &** İşbirliği \> **İlkeleri'&** Kurallar Tehdit ilkeleri \>  \> **İstenmeyen** postayla **mücadele'ye** gidin.
+1. aşağıdaki Microsoft 365 Defender portalında, İlkeler bölümünde <https://security.microsoft.com/> **E-&** İşbirliği \> **İlkeleri'&** Kurallar Tehdit \>  \> **İlkeleri İstenmeyen** postayla **mücadele'ye** gidin.
 
    Doğrudan İstenmeyen posta **önleme ilkeleri sayfasına gitmek** için, <https://security.microsoft.com/antispam> kullanın.
 

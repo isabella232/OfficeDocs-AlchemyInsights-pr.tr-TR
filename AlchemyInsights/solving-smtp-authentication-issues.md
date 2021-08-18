@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: d16389ca577970deaf743255f75dc86134e79dcab2fff8c33987532fc7ee1105
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 14f1454ad687b4d76cf419583b442685fa19b5a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890454"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321773"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>SMTP kimlik doğrulamasını ve sorun gidermeyi etkinleştirme
 
@@ -33,7 +33,7 @@ Bir posta kutusu için SMTP kimlik doğrulamasını etkinleştirmek veya Microso
 
 2. [Lisanslı posta kutusuna İstemci SMTP](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) gönderimi'ni etkinleştirin.
 
-    a. Arama Microsoft 365 yönetim merkezi, Etkin **Kullanıcılar'a gidin** ve kullanıcısı seçin.<BR/>
+    a. Microsoft 365 yönetim merkezi'da Etkin **Kullanıcılar'a** gidin ve kullanıcısı seçin.<BR/>
     b. Posta sekmesine gidin ve E-posta **uygulamaları'nın altında E-posta** uygulamalarını **yönet'i seçin.**<BR/>
     d. Kimliği Doğrulanmış **SMTP'nin işaretli** olduğundan (etkinleştirildiğinden) emin olun.<BR/>
     e. Değişiklikleri **kaydet'i seçin.**<BR/>
