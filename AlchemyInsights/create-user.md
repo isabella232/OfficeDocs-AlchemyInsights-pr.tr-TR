@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a144b172787563b1aa57bdec790df1805a13f078
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896735"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323306"
 ---
 # <a name="create-user"></a>Kullanıcı oluşturma
 
@@ -29,8 +29,8 @@ ms.locfileid: "57896735"
 
 **Azure AD dizinimde yeni bir kullanıcı oluşturamıyor**
 
-1. Yeni standart kullanıcı oluşturma yetkinizin olduğundan emin olmak. Yalnızca Genel yönetici veya Kullanıcı yöneticisi rolü Azure Active Directory ad) yeni bir standart kullanıcı oluşturabilir. Bu rollerden biri değilseniz, bir yöneticiden sizi bu rollerden birini eklemesi veya sizin için yeni kullanıcı hesabı oluşturması için bir yöneticiden izin isteme.
-1. Kullanıcı adının Azure AD'niz içinde doğrulanmış bir etki alanında olduğundan emin olun. Azure AD'niz içinde doğrulanmış özel etki alanı adları yoksa *.onmicrosoft.com ile sona eren Azure AD ilk etki onmicrosoft.com.
+1. Yeni standart kullanıcı oluşturma yetkinizin olduğundan emin olmak. Yeni bir standart kullanıcı oluştur ("AD)"de yalnızca Genel Azure Active Directory veya Kullanıcı yöneticisi rolü olabilir. Bu rollerden biri değilseniz, bir yöneticiden sizi bu rollerden birini eklemesi veya sizin için yeni kullanıcı hesabı oluşturması için bir yöneticiden izin isteme.
+1. Kullanıcı adının Azure AD'niz içinde doğrulanmış bir etki alanında olduğundan emin olun. Azure AD'sinde doğrulanmış özel etki alanı adları yoksa , *.onmicrosoft.com ile sona eren Azure AD ilk etki onmicrosoft.com.
 1. Kullanıcı adının şirket içi AD'niz tarafından Azure AD ile şirket dışında bir etki alanında olduğundan emin olun. Kullanıcılar şirket içinde şirket dışından şirket dışından alınan etki alanı adlarına sahip olarak buluta ek olamaz.
 1. Başka hiçbir kullanıcının veya kişinin, yeni kullanıcıya atamak istediğiniz kullanıcı adına zaten sahip olduğundan emin olmak. Kullanıcı adları, Azure AD genelinde benzersiz olmalıdır.
 1. Bkz. [Azure AD'niz için](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) Azure AD rolleri ve yöneticileri.

@@ -1,5 +1,5 @@
 ---
-title: E-posta konuşmalarına birden çok imzanın eklenmelerini önleme
+title: E-posta konuşmalarına birden çok imza eklememek
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: fe460e94307043b8d271111bed83e7b1c35b9b47
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2a9d6acab661470f71adf9f757e6847c367d26979fa210dd8f35e0ffaaa8dc45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483954"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119340"
 ---
-# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>E-posta konuşmalarına birden çok imzanın eklenmelerini önleme
+# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>E-posta konuşmalarına birden çok imza eklememek
 
-E-posta ileti dizisinde tek bir kez eklenen bir uyarı veya imza almak için, Exchange yönetim merkezinde ayarı değiştirmeniz gerekir.
+Tek bir e-posta ileti dizisinde tek bir kez eklenen bir uyarı veya imza için yönetim merkezinde bu ayarı Exchange gerekir.
 
-1. Exchange yönetim [merkezine gidin.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
-2. Tekil **belgenize** benzersiz metinler için özel durum eklemek için Diğer seçenekleri'ne tıklayın. Bu, uyarının yalnızca özgün iletiye ekli olduğunu garantiler.
+1. [Exchange yönetim merkezine gidin.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
+2. Yasal **uyarınıza** benzersiz metinler ek olarak bir özel durum eklemek için Diğer seçenekler'i seçin. Bu, uyarının yalnızca özgün iletiye ekli olduğunu garantiler.
 

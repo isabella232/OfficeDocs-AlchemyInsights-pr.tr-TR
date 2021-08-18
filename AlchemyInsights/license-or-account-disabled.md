@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002459"
 - "3764"
-ms.openlocfilehash: 50e8185e90e40ef538230decf0a41f9e7ca0fb6c2649354559af43d4e563a9dc
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 6724a82f318ed13890a34039470eb9611a630e03
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893871"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323024"
 ---
 # <a name="license-or-account-disabled"></a>Lisans veya hesap devre dışı bırakıldı
 
@@ -29,8 +29,7 @@ Aboneliğinizin süresi dolduysa, Microsoft tarafından devre dışı bırakıld
 
 1. Yönetim merkezinde Ürünlerinizi Faturalandırma   >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
 2. Ürünler **sekmesinde,** yeniden etkinleştirmek istediğiniz aboneliği bulun. Üç noktayı (diğer eylemler) ve ardından Bu aboneliği **yeniden etkinleştir'i seçin.**
-    > [!NOTE]
-    > Bu aboneliği yeniden **etkinleştir'i görmüyorsanız destek** ile iletişime geçin.
+    **Not:** Bu aboneliği yeniden **etkinleştir'i görmüyorsanız destek** ile iletişime geçin.
 3. Bu **aboneliği yeniden etkinleştir bölmesinde,** açılan listeden bir ödeme yöntemi seçin veya Ödeme yöntemi ekle **öğesini seçin.**
 4. **Kaydet**'i seçin.
 

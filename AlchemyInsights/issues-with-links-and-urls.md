@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054818"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321927"
 ---
 # <a name="issues-with-links-and-urls"></a>Bağlantılar ve URL'lerle ilgili sorunlar
 
@@ -42,15 +42,13 @@ Yanıt URL'si eklemek için, Azure portalda bulunan **uygulama kayıt** sayfası
     - platform (iOS/Android/UWP)
     - iOS'taki paket kimliği, Android'deki paket adı ve imza karması gibi uygulamanızı oluşturmak için kullanılan bilgiler. Azure portal uygulaması kaydı size yardımcı olacaktır. Ayrıntılar için bkz: [Platform yapılandırması ve yönlendirme URI'leri](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Web API'leri ve belirteç almanın bazı sessiz yolları (IWA ve kullanıcı adı/parola) yönlendirme URI'si gerektirmez.
+**Not:** Web API'leri ve belirteçleri sessiz kabul etmenin bazı yolları (IWA ve kullanıcı adı/parola) yeniden yönlendirme URI'sini gerektirmez.
 
 **Web uygulamamı dağıttım ve dağıtılan uygulamayı test ettiğimde, yanıt URL'sinin uymadığına yönelik mesaj alıyorum.**
 
 Web uygulamanızı dağıttığınız tüm konumlar için yönlendirme URI'leri ekleyin. Daha fazla bilgi için bkz: [Azure portal kullanarak bir web uygulamasını kaydetme](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Uygulamayı o konumda dağıttıktan hemen sonra yönlendirme URI'sini konum için ekleyin.
+**Not:** Uygulamayı o konumda dağıttıktan hemen sonra bir konum için yeniden yönlendirme URI'sini ekleyin.
 
 **Yeterli yanıt URL'si kaydedemiyorum**
 
