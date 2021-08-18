@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 7e13c9e5fbfa6ade065c2810150687085c1a9daae1a11c134688ec9a83ad37d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115668"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Silinmiş e-posta iletileri için denetim günlükleri
 
@@ -34,6 +34,6 @@ Ocak 2019'dan başlayarak, Microsoft posta kutusu denetim günlüğünü varsay�
 
 Sonuçlarda, bir denetim kaydı seçin. Ayrıntılar uç bilgisinde, Daha Fazla **Bilgi'ye tıklayın.** Silinen öğe hakkında ek bilgiler (örneğin, konu satırı ve silindiğinde öğenin konumu) **AffectedItems alanında** görüntülenir. **ClientInfoString özelliği,** silme işleminin Outlook, Web üzerinde Outlook (eski adı Outlook Web App) veya başka bir cihazda olup olduğunu gösterir.
 
-Daha fazla bilgi için [bkz. Posta kutusu için e-posta iletmeyi kimlerin ayarlay olduğunu belirleme.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
+Daha fazla bilgi için [bkz. Posta kutusu için e-posta iletmeyi kimlerin ayarlay olduğunu belirleme.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
-**Not:** Silinmiş öğeleri denetim günlüğü özelliğini kullanarak geri alamayacak. Bir dosyadaki silinmiş iletileri Web üzerinde Outlook için bkz. Bir [dosyadaki silinmiş Outlook Web App.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)
+**Not:** Silinmiş öğeleri denetim günlüğü özelliğini kullanarak geri alamayacak. Bir dosyadaki silinmiş iletileri Web üzerinde Outlook için [bkz.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)Outlook Web App.

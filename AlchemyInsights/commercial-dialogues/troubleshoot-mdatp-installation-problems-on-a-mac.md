@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4b03361666f950a2010e4c4d8e78d156438d9e90
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 4139f47f40a89069521aaa1a3e4fdab56e9e27a2096ae0ad099be827f60d51fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749765"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091110"
 ---
 # <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>Mac'te MDATP yükleme sorunlarını giderme
 
-El ile yükleme başarısız **olursa, yükleme** sihirbazının Özet sayfası aşağıdaki hatayı gösterir:
+El ile yükleme başarısız olursa, **yükleme** sihirbazının Özet sayfasında aşağıdaki hata görüntülenir:
 
-"Yükleme sırasında bir hata oluştu. Yükleyici, yüklemenin başarısız olmasına neden olan bir hatayla karşılaştı. Yardım için yazılım üreticisine başvurun."
+"Yükleme sırasında bir hata oluştu. Yükleyici yüklemenin başarısız olmasına neden olan bir hatayla karşılaştı. Yardım için yazılım üreticisine başvurun."
 
-MDM dağıtımları için, sayfada genel yükleme hatası da görüntülenir.
+MDM dağıtımları için sayfada da genel yükleme hatası görüntülenir.
 
-Son kullanıcılara tam hatalar görüntülense de, **/Library/Logs/Microsoft/mdatp/install.log** dosyasında yükleme ilerlemesi olan bir günlük dosyası tutabilirsiniz. Her yükleme oturumu bu günlük dosyasının sonuna eklenir. Yalnızca son yükleme oturumunun çıkışını yapmak için `sed` kullanın.
+Son kullanıcılara tam olarak hatalar görüntüleyemse de, **/Library/Logs/Microsoft/mdatp/install.log** dosyasında yükleme ilerlemesi olan bir günlük dosyası tutabilirsiniz. Her yükleme oturumu bu günlük dosyasının sonuna eklenir. Yalnızca son yükleme oturumunun çıkışını kullanmak için `sed` kullanın.
 
-Daha fazla bilgi edinmek için [Mac için Microsoft Defender ATP'de yükleme sorunlarını giderme makalesine bakın.](https://go.microsoft.com/fwlink/?linkid=2144615)
+Daha fazla bilgi edinmek için [bkz. Mac için Microsoft Defender ATP'de yükleme sorunlarını giderme.](https://go.microsoft.com/fwlink/?linkid=2144615)

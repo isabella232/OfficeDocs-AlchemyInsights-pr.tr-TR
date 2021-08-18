@@ -14,23 +14,23 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 60b5df48f8e62ded27d9c1a3faf915afe23aec945b34cebbe6973d73fc4f5532
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53996614"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901756"
 ---
 # <a name="canceling-your-subscription"></a>Aboneliğiniz iptal mi ediyor?
 
 Gitmenizi üzgünüz, ancak aboneliğinizi iptal etmek için seçenekleriniz şunlardır:
   
 - 25'ten az atanmış lisansınız varsa, aboneliğinizi çevrimiçi olarak iptal edebilirsiniz. Ürünlerinizi  \> **[Faturalama sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054)** gidin ve iptal etmek istediğiniz aboneliği bulun. Üç noktayı (diğer eylemler) ve ardından Aboneliği iptal **et'i seçin.**
-- Kullanıcılara atanmış 25'den fazla lisansınız varsa aboneliğinizi iptal etmek için aboneliğinizi iptal etmek veya desteği aramak için bu lisans sayısını 25'in altında [bire düşürebilirsiniz.](/microsoft-365/business-video/get-help-support)
+- Kullanıcılara atanmış 25'den fazla lisansınız varsa aboneliğinizi iptal etmek için aboneliğinizi iptal etmek veya desteği aramak için bu lisans sayısını 25'in altında [bire düşürebilirsiniz.](https://docs.microsoft.com/microsoft-365/business-video/get-help-support)
   
-**Geri ödeme: Prorated krediler bir sonraki fatura döngüsü içinde size iade edilir.**
+**Para iadesi: Prorated krediler bir sonraki fatura döngüsünde size iade edilir.**
 
 > [!NOTE]
 > İptal etme seçeneğini görmüyorsanız, abonelik seçerek ayrıntılar sayfasını görüntüleyebilirsiniz. Abonelik ve **ödeme ayarları bölümünde Aboneliği** iptal **et'i seçin.**
 
-Daha fazla bilgi edinmek için bkz. [Aboneliğinizi iptal etme.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Daha fazla bilgi edinmek için bkz. [Aboneliğinizi iptal etme.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

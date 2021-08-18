@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ae4ddd365951190f58c551a4ca2874268ee64186c605be5b33860dcb864235da
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314548"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901984"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Ön ödemeli Microsoft 365 yenileme
 
@@ -28,8 +28,9 @@ ms.locfileid: "58314548"
 2. Ürünler **sekmesinde,** uzatmak istediğiniz aboneliği seçin.
 3. Abonelik ayrıntıları sayfasında, Abonelik ve ödeme **ayarları bölümünde Bitiş tarihini** uzat **'ı seçin.**
 4. Yenileme veya **kullanıcı lisansları ekleme sayfasında Yeni** ve kullanılmamış bir ürün anahtarı kullan'ı seçin ve **sonra** da Sonraki 'yi **seçin.**
-5. Ürün anahtarını girin, ardından Sonraki öğesini **seçin.**
-    **Not:** Birden fazla ürün anahtarınız varsa Başka bir ürün anahtarı **ekle'yi seçerek** bunları girsiniz.
+5. Ürün anahtarını girin, ardından Sonraki 'yi **seçin.**
+    > [!NOTE]
+    > Birden fazla ürün anahtarınız varsa Başka bir ürün anahtarı **ekle'yi seçerek** bunları girsiniz.
 6. Sipariş ayrıntılarınızı gözden geçirin ve ardından Kullan öğesini **seçin.**
 
 Daha fazla bilgi edinmek için [bkz. Ürün anahtarı kullanılarak ödemesi yapılan aboneliğe lisans ekleme veya aboneliği uzatma.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

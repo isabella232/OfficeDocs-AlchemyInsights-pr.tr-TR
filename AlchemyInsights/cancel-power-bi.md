@@ -15,25 +15,24 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899560"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318970"
 ---
 # <a name="cancel-power-bi"></a>Aboneliği iptal Power BI
 
 Power BI, e-Microsoft 365 yönetim merkezi.
 
-1. Yönetim merkezinde Faturalar Ve **Ürünleriniz > [gidin.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Yönetim merkezinde Faturalama Ürünleriniz **> [gidin.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Ürünler **sekmesinde,** iptal etmek istediğiniz aboneliği bulun. Üç noktayı (diğer eylemler) ve ardından Aboneliği iptal **et'i seçin.**
 3. Aboneliği **iptal et** bölmesinde iptal etme nedenini seçin. İsteğe bağlı olarak, herhangi bir geri bildirim gönderin.
 4. **Kaydet**'i seçin.
 
 **Para iadesi: Prorated krediler bir sonraki fatura döngüsünde size iade edilir.**
 
-> [!NOTE]
-> İptal etme seçeneğini görmüyorsanız, abonelik seçerek ayrıntılar sayfasını görüntüleyebilirsiniz. Abonelik ve **ödeme ayarları bölümünde Aboneliği** iptal **et'i seçin.**
+**Not:** İptal etme seçeneğini görmüyorsanız, abonelik seçerek ayrıntılar sayfasını görüntüleyebilirsiniz. Abonelik ve **ödeme ayarları bölümünde Aboneliği** iptal **et'i seçin.**
 
 Daha fazla bilgi edinmek için bkz. [Aboneliğinizi iptal etme.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
