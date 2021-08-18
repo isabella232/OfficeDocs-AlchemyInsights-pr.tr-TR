@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 90b078147bbb1e60cba0a2de6e49a862469f93aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899352"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316378"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>'Kimlik Avı Kiracı veya kullanıcı geçersiz kılma nedeniyle teslim edildi' ilkesinden gelen e-posta iletilerini uyarı
 
-Kiracı veya kullanıcı geçersiz **kılma** nedeniyle Kimlik Avı Teslim Edildi adlı varsayılan bir uyarı ilkesi, Office 365 P1 ve P2 lisansları için Microsoft Defender'a sahip kuruluşlarda kullanılabilir. Bu uyarıyı aldıysanız, şu adımları araştırabilirsiniz:
+Kiracı veya kullanıcı  geçersiz kılma nedeniyle Kimlik Avı Teslim Edildi adlı varsayılan bir uyarı ilkesi, Office 365 P1 ve P2 lisansları için Microsoft Defender'a sahip kuruluşlarda kullanılabilir. Bu uyarıyı aldıysanız, şu adımları araştırabilirsiniz:
 
 1. Uyarı iletisinde, **Uyarıyı Görüntüle'ye** **tıklar ve** portalda Uyarılar Microsoft 365 Defender gidin.
 
@@ -35,4 +35,4 @@ Kimlik avı iletisi elle yapılandırılan geçersiz kılma nedeniyle teslim edi
 
 İletinin yanlışlıkla kimlik avı olarak işaret olmadığını inanıyorsanız, iletiyi Microsoft'a [bildirmesi](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) için Yönetici gönderimi'ni kullanın.
 
-Kullanıcılar, [Microsoft'a ileti örnekleri göndermek](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) için Rapor İletisi eklentisinde veya Rapor Kimlik Outlook eklentisinde kullanılabilir.
+Kullanıcılar, [Microsoft'a](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) ileti örnekleri göndermek için Rapor İletisi eklentisinde veya Rapor Kimlik Outlook eklentisinde kullanılabilir.

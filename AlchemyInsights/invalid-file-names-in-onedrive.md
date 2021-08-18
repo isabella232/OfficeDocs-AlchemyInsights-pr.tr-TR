@@ -1,5 +1,5 @@
 ---
-title: OneDrive 'da geçersiz dosya adları
+title: Dosyada geçersiz dosya OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
-ms.openlocfilehash: 90c2df4eb6fe97925a6d6eb6e7afd357e2349850
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2564d25d9385e629ead0fd5af7e178f9d73cfd766c672fa31abc493185786c76
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088128"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>OneDrive ve SharePoint 'te geçersiz dosya ve klasör adları
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Dosya ve klasör OneDrive geçersiz SharePoint
 
-Bu karakterlere dosya ve klasör adlarında izin verilmemektedir " \* : \< \> ? / \ | 
+Dosya ve klasör adlarında bu karakterlere izin verilmez " \* : \< \> ? / \ | 
   
-Bazı kuruluşlarda henüz # ve% desteği etkinleştirilmemiş. Kuruluşunuzdaki bu karakterlere izin vermeyi öğrenmek için, [# ve% desteği etkinleştirme](https://go.microsoft.com/fwlink/?linkid=862611)konusuna bakın. 
+Bazı kuruluşlarda henüz # ve % desteği henüz açık değildir. Bu karakterlere kurumda nasıl izin ver kuruluşta izin ver ver kuruluşta # [ve % Destek 'i etkinleştirme hakkında bilgi edinmek için bkz.](https://go.microsoft.com/fwlink/?linkid=862611) 
   
 [Dosya ve klasör adı kısıtlamaları hakkında daha fazla bilgi](https://go.microsoft.com/fwlink/?linkid=866430)
   
