@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c3b1cac5379f4f3da93152fa20086068f7df562cd98b2980ce1b4280e0aa6d5f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58303597"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902280"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>Denetim günlüğünde IP adresini bulma
 
 Kullanıcı veya yönetici tarafından gerçekleştirilen bir faaliyete karşılık gelen IP adresi denetim günlüklerinde gösterilir. Müşteri bilgileri de günlüğe kaydedilir. IP adresini şu şekilde tanımlayabilirsiniz:
 
 1. Aşağıdaki eylemlerden birini yapın:
-   - Aşağıdaki Microsoft 365 uyumluluk merkezi , <https://compliance.microsoft.com> Çözüm Denetimi **'ne** \> **gidin.** Veya doğrudan Denetim sayfasına **gitmek için** <https://compliance.microsoft.com/auditlogsearch> kullanın.
+   - Aşağıdaki Microsoft 365 uyumluluk merkezi , <https://compliance.microsoft.com> Çözüm **Denetimi'ne** \> **gidin.** Veya doğrudan Denetim sayfasına **gitmek için** <https://compliance.microsoft.com/auditlogsearch> kullanın.
    - Aşağıdaki Microsoft 365 Defender portalında <https://security.microsoft.com> Denetim'e **gidin.** Veya doğrudan Denetim sayfasına **gitmek için** <https://security.microsoft.com/auditlogsearch> kullanın.
 
-    **Not:** Denetimi açması gereken bir bildirim görüyorsanız, devam edin ve hemen açmayın. Bu özellik etkin değilse, arama sonuçları önceki tarihlerden veri çekebilirsiniz.
+    > [!NOTE]
+    > Denetimi açmamız gereken bir bildirim görüyorsanız, devam edin ve hemen açmayın. Bu özellik etkin değilse, arama sonuçları önceki tarihlerden veri çekebilirsiniz.
 
 2. Denetim **sayfasında,** Arama sekmesinin **seçili olduğunu** doğrulayın ve sonra aşağıdaki ayarları yapılandırabilirsiniz:
    - **Tarih ve saat aralığı:** Başlangıç ve Bitiş  kutularında **tarih/saat** aralığını seçin.

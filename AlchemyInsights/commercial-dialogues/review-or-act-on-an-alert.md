@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: e18aaa8abe7fd7cf501b612ecb08b9fca7d9c36e0e6552f75742beb770063e93
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3342b24c744a6a3990aaa397abdfab36bfc4ebcf
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897063"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319714"
 ---
 # <a name="review-or-act-on-an-alert"></a>Uyarıyı gözden geçirme veya üzerinde eyleme geçirme
 
 Şu adımları izleyin:
 
 1. Aşağıdaki eylemlerden birini yapın:
-   - aşağıdaki <https://compliance.microsoft.com> Microsoft 365 uyumluluk merkezi, **Alerts 'e gidin.** Veya sayfayı doğrudan 'da <https://compliance.microsoft.com/compliancealerts> açın.
+   - aşağıdaki Microsoft 365 uyumluluk merkezi <https://compliance.microsoft.com> , **Alerts 'e gidin.** Veya sayfayı doğrudan 'da <https://compliance.microsoft.com/compliancealerts> açın.
    - Microsoft 365 Defender portalında <https://security.microsoft.com> **Alerts 'e gidin.** Veya sayfayı doğrudan 'da <https://security.microsoft.com/alerts> açın.
 2. Bir uyarı seçin. Görüntülenen ayrıntılar açılır görünümünde uyarıyı tetikleyen şeyi görüntüleme.
 3. Uyarı üzerinde işlem yapmak için sağlanan bağlantıya tıklayın.

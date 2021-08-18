@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge 'de (Kayıum) geliştirici araçlarıyla çalışmaya başlama
+title: Web'de (Microsoft Edge) geliştirici araçlarıyla Chromium
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004029"
 - "7099"
-ms.openlocfilehash: ba44365906b3ccaf763c3e64a7ffd7d1b34b9ac0
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: d1238ac3f3af4857aebe3c51b900e755ff86814fa425ec47be1e83cd5f9faa20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583727"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116388"
 ---
-# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Microsoft Edge 'de (Kayıum) geliştirici araçlarıyla çalışmaya başlama
+# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Web'de (Microsoft Edge) geliştirici araçlarıyla Chromium
 
-Microsoft Edge, Web 'in daha az parçalanmış ve Web platformlarının daha uyumlu olmasını sağlayan Kmuum açık kaynak projesini benimsemiştir. Bu değişiklik, diğer Kmuum tabanlı tarayıcılarda çalışan Web sitelerini oluşturmak ve sınamak için Microsoft Edge 'i kullanmanızı güçlendirilecektir.
+Microsoft Edge, web'Chromium daha az parçalı ve web platformlarını daha uyumlu hale yapmaya yönelik bir açık kaynak projesini benimsemektedir. Bu değişiklik, Microsoft Edge diğer Chromium tabanlı tarayıcılarda çalışan web sitelerinizi oluşturmak ve test etmek için Chromium gücü verir.
 
-Microsoft Edge (Kmium), size tanıdık ve kullandığınız araçlarla uyumlu olması gereken [en iyi sınıf geliştirici araçlarını](https://go.microsoft.com/fwlink/?linkid=2134941) da sağlar.
+Microsoft Edge (Chromium) ayrıca, size tanıdık [](https://go.microsoft.com/fwlink/?linkid=2134941) olması ve zaten kullanmakta olduğu araçlarla uyumlu olması gereken, sınıfının en iyisi geliştirici araçları da sağlar.
 
-Daha fazla bilgi edinmek için, [Microsoft Edge (Kmıum) DevTools 'Daki yeniliklere](https://go.microsoft.com/fwlink/?linkid=2135020)göz atın.
+Daha fazla bilgi edinmek [için bkz. Yeni (Microsoft Edge Chromium) DevTools.](https://go.microsoft.com/fwlink/?linkid=2135020)

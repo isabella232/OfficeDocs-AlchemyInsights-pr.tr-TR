@@ -1,5 +1,5 @@
 ---
-title: Android veya iOS cihazında Microsoft Edge'de NewsGuard'ı açma
+title: Android veya iOS cihazında Microsoft Edge NewsGuard'ı açma
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,17 +15,17 @@ ms.custom:
 - "7098"
 - "8308"
 - "9004621"
-ms.openlocfilehash: 73e2cefe98185ff9f741e8d46b92ebcc8a5a499a
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: e70c38192ab3ddcf7af08ad744e5de66d0f282c5a5a080ef930f5f50b9f9e3d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505664"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092394"
 ---
-# <a name="turn-on-newsguard-in-microsoft-edge-on-an-android-or-ios-device"></a>Android veya iOS cihazında Microsoft Edge'de NewsGuard'ı açma
+# <a name="turn-on-newsguard-in-microsoft-edge-on-an-android-or-ios-device"></a>Android veya iOS cihazında Microsoft Edge NewsGuard'ı açma
 
-NewsGuard, web sitelerini ABD'de güven ve saydamlık standartlarına göre değerlendiren ve değerlendiren üçüncü taraf bir uzantıdır. Bu uzantı Microsoft Edge'de kullanılabilir ancak varsayılan olarak kapalıdır. Açık olduğunda, uzantı sitelere erişimi engellemez ve gözatmayı kesintiye uğratmaz.
+NewsGuard, web sitelerini ABD'de standart bir güvenilirlik ve saydamlık standartlarına değerlendiren ve değerlendiren bir üçüncü taraf uzantısıdır. Bu uzantı Microsoft Edge kullanılabilir ancak varsayılan olarak kapalıdır. Uzantı açık olduğunda sitelere erişimi engellemez ve gözatma kesintiye uğratmaz.
 
 NewsGuard'ı açmak için aşağıdaki adımları tamamlayın:
-1. Şu seçeneği seçin: ... > **Ayarlar**  >  **Haberler derecelendirmesi.**
-2. Adres çubuğunda **Derecelendirmeyi göster'i açma.**
+1. Şu seçeneği seçin: ... > **Ayarlar**  >  **Haber derecelendirmesi**.
+2. Derecelendirmeyi **adres çubuğunda görüntüle'ye açma.**

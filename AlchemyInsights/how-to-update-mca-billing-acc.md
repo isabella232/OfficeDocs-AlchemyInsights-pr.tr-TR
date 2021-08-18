@@ -1,5 +1,5 @@
 ---
-title: MCA'nız ile ilişkilendirilmiş satılan adres ve fatura adresini güncelleştirme - önerilen adımlar
+title: MCA'nız ile ilişkilendirilmiş satış ve fatura adresi güncelleştirme - önerilen adımlar
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001528"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320050"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>MCA'nız ile ilişkilendirilmiş satılan adres ve fatura adresini güncelleştirme - önerilen adımlar
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>MCA'nız ile ilişkilendirilmiş satış ve fatura adresi güncelleştirme - önerilen adımlar
 
 Microsoft Müşteri Sözleşmesi'nize (MCA) ilişkili satılacak ve fatura adresinizi güncelleştirebilirsiniz. 
 
-> [!NOTE]
-> Kullanıcı profili bilgisinde yalnızca kullanıcı Azure Active Directory değişiklik yapabilirsiniz. Size kullanıcı yöneticisi rolü atanmamışsa, kullanıcı yöneticinize başvurun. Bir kullanıcının profilini değiştirme hakkında daha fazla bilgi için bkz. Kullanıcının profil bilgilerini [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+**Not:** Kullanıcı profili bilgilerde yalnızca kullanıcı Azure Active Directory değişiklik yapabilirsiniz. Size kullanıcı yöneticisi rolü atanmamışsa, kullanıcı yöneticinize başvurun. Bir kullanıcının profilini değiştirme hakkında daha fazla bilgi için bkz. Kullanıcının profil bilgilerini değiştirmek için Profil [Bilgileri'Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **Satılacak adres** - Satılan adres, kuruluşun veya fatura hesabından sorumlu olan kişinin adresi ve iletişim bilgileridir. Fatura hesabı için oluşturulan tüm faturalarda görüntülenir.
 

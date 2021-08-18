@@ -15,17 +15,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 797666be608e4f426cb6077dbf40e81e0adef7a6bf01f66b74722274a01c42c7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e1b25562e75926ce71ad1b854a0bad0af7a4687f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502196"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319520"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>KdvKimlik ekleme veya düzenleme
 
-> [!NOTE]
-> Türkiye gibi katma değer vergisinin (KDV) kullandığı bir ülkedeysanız, Microsoft Invoicing sizin için KDV'yi hesaplar ve tutarı faturalarınıza uygular. Daha fazla bilgi için [bkz. Avrupa](https://go.microsoft.com/fwlink/p/?LinkID=841741) komisyonu tarafından yayımlanan VIES uyarı.
+**Not:** Birleşik Krallık gibi katma değer vergisinin (KDV) kullandığı bir ülkedeysiniz, Microsoft Invoicing sizin için KDV'yi hesaplar ve tutarı faturalarınıza uygular. Daha fazla bilgi için [bkz. Avrupa](https://go.microsoft.com/fwlink/p/?LinkID=841741) komisyonu tarafından yayımlanan VIES uyarı.
 
 **KdvKimlik ekleme veya düzenleme**
 
@@ -34,4 +33,4 @@ ms.locfileid: "54502196"
 3. Abonelik ayrıntıları sayfasında, Hizmet kullanımı **adresi bölümünde Hizmet kullanım** adresini **düzenle'yi seçin.**
 4. Hizmet **kullanım adresinizi düzenleyin bölmesindeki** KDV numarası kutusuna KDV Kimliğinizi **yazın, ardından** Kaydet'i **seçin.** Bunu tamamladikten sonra, bir sonraki faturanıza KDV ödemezsiniz.
 
-Daha fazla bilgi edinmek için [bkz. Microsoft 365.](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)
+Daha fazla bilgi edinmek için [bkz. Bu yıl hangi vergiler Microsoft 365.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)

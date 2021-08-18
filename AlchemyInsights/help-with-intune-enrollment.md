@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: c749286a2b97b9ff36c25de30838ae38a2d0939a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 57a7973d8d7a8daede01b86f8bf2261a5aa33328fa3fa4ac3b2e0a8967ee964b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116280"
 ---
 # <a name="help-with-intune-enrollment"></a>Intune Kaydı ile ilgili yardım
 
@@ -28,7 +28,7 @@ ms.locfileid: "51811584"
 
 - [Intune ile Android cihaz Kaydı ayarlama](https://docs.microsoft.com/intune/android-enroll)
 
-- [Intune ile Windows cihaz Kaydı ayarlama](https://docs.microsoft.com/intune/windows-enroll)
+- [Intune ile Windows Kaydı ayarlama](https://docs.microsoft.com/intune/windows-enroll)
 
 **Cihaz Kaydı sorunlarını giderme**
 
