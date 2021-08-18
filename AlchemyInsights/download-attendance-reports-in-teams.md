@@ -12,17 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 99bbdff705fa0314c59d8750ecbd421e58dda739b11a0ac6298e15aa03fd8e47
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7792f50c4949a21a2b31fb29b2af709be1febe1f
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004384"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339088"
 ---
 # <a name="download-attendance-reports-in-teams"></a>Katılımcı raporlarını Teams
 
-Toplantı düzenleyicileri toplantılar sırasında katılım raporlarını indirebilir. Yönetici olarak, bir toplantı ilkesi ayarp toplantı düzenleyicilerinin toplantı katılım raporlarını indirip indir Teams denetim altına Teams gerekir. Raporu indirme özelliği varsayılan olarak kapalıdır. Bu özelliği açma adımları için bkz. Toplantı [ilkesi ayarları - Toplantı katılım raporu.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report)
+Toplantı düzenleyicileri, toplantılar sırasında katılım raporlarını indirebilir. Yönetici olarak, toplantı düzenleyicilerinin toplantı katılım raporlarını indirip indireyebileceğini, bir toplantı Teams ayarlarsanız. 
 
-Bu etkinleştirildikten sonra, toplantı sırasında toplantı düzenleyicileri Katılımcıları göster'i seçebilir **ve Katılımcı** listesini **indir'i seçebilir.** Daha fazla bilgi için lütfen [Toplantı katılım raporlarını Teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) ve Microsoft Teams [raporlarına bakın.](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)
+Raporu indirme özelliği varsayılan olarak kapalıdır. 
 
-**Önemli:** Katılım raporunu, toplantı devam ederken ve katılımcılar devam ederken yalnızca indirebilirsiniz.
+Katılım raporlarını etkinleştirmek için: 
+1.  [Teams yönetim merkezine gidin.](https://admin.teams.microsoft.com/policies/meetings)
+1.  Genel **(Kuruluş genelinde varsayılan) veya başka bir** belirli ilke seçin.
+1.  Genel **altında,** Görevlik raporuna **izin ver ayarına** gidin ve Etkinleştir'i **seçin.**
+
+Katılım raporları hakkında daha fazla bilgi için bkz:
+
+- [Toplantı ilkesi ayarları - Toplantı katılım raporu](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report)
+- [Katılımcı raporlarını Teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) 
+- [Microsoft Teams katılım raporu](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)
