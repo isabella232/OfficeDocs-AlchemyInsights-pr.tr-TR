@@ -1,5 +1,5 @@
 ---
-title: Kullanıcılara SharePoint ve OneDrive 'a erişim verme
+title: Kullanıcılara e-posta ve SharePoint erişim OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a7e9c0b7ffa5c11a2e24ee5fda6491f049f985f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e3d645f3c45525107f42a074899a30ef26bd559e5c5657e7b8ef69d406357b32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677227"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088922"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Kullanıcılara SharePoint ve OneDrive 'a erişim verme
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Kullanıcılara e-posta ve SharePoint erişim OneDrive
 
 > [!NOTE]
-> Bir OneDrive veya SharePoint sitesi daha önce erişimi olan birden çok kullanıcı için kullanılamıyorsa geçici bir hizmet sorunu olabilir. [Hizmet durumu panosunu denetleme](https://portal.office.com/adminportal/home#/servicehealth)
+> Erişim OneDrive veya SharePoint çok kullanıcı tarafından kullanılabilir site yoksa, geçici bir hizmet sorunu olabilir. [Hizmet durumu panosuna göz ayın](https://portal.office.com/adminportal/home#/servicehealth)
   
-Kuruluşunuzdaki kişilerin SharePoint ve OneDrive 'ı kullanmasını istiyorsanız, onlara hesap eklemeniz ve SharePoint ve OneDrive 'a erişim sağlayan bir lisansı olması gerekir. Kullanıcıları eklemenin en kolay yolu Microsoft 365 Yönetim merkezindedir.
+Kuruluşların kişilerin oturum açmasını ve SharePoint ile OneDrive'i kullanasını istemiyorsanız, bu kişilerin hesaplarını eklemeniz ve bu kişilerin SharePoint ve OneDrive'a erişmelerine izin veren bir lisansa sahip olduğundan emin OneDrive. Kullanıcı eklemenin en kolay yolu, kullanıcı Microsoft 365 yönetim merkezi.
   
-1. [Microsoft 365 Yönetim Merkezi 'Nde etkin kullanıcılar sayfasına](https://portal.office.com/adminportal/home#/users)gidin ve ardından **Kullanıcı Ekle**'ye tıklayın.
+1. Dosyada [Etkin kullanıcılar sayfasına gidin ve Microsoft 365 yönetim merkezi](https://portal.office.com/adminportal/home#/users)Ekle **'ye tıklayın.**
     
-2. Kullanıcının bilgilerini doldurun ve **ürün lisanslarının**altında, lisans atanmış ve **SharePoint Online** 'ın seçili olduğundan emin olun. 
+2. Kullanıcı bilgilerini doldurun ve Ürün lisansları altında bir lisans atan olduğundan ve Çevrimiçi'nin SharePoint **emin** olun. 
     
-Kuruluşunuzda dış paylaşıma izin verirseniz, kullanıcıların kuruluş dışından kişilerle SharePoint ve OneDrive içeriğini paylaşabileceği dikkate alın. Bu dış kullanıcı lisanslarını vermeniz gerekmez. Paylaşım "yalnızca var olan dış kullanıcılar" olarak ayarlanmadıkça de onlara hesap eklemeniz gerekmez. Bu durumda, insanlar kuruluşunuzun dizininde değillerse, bunları Azure AD Yönetim Merkezi 'nde Konuk Kullanıcı olarak eklemeniz gerekir.
+Unutmayın; kuruluşta dış paylaşıma izin verdiysiniz, kullanıcıların dış SharePoint ve OneDrive dış kullanıcılarla içerik paylaşabilir. Bu dış kullanıcılara lisans vermeniz gerek değildir. Ayrıca, paylaşım "Yalnızca mevcut dış kullanıcılar" olarak ayarlanmadıkça onlar için hesap eklemenize gerek yok. Bu durumda, kişiler kuruluş dizinde yer alanın, onları Azure AD yönetim merkezinde konuk kullanıcı olarak eklemeniz gerekir.
   
 

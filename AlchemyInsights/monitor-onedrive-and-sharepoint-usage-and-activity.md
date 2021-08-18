@@ -1,5 +1,5 @@
 ---
-title: OneDrive ve SharePoint kullanımını ve etkinliğini izleme
+title: Kullanım OneDrive etkinliği SharePoint etkinlikleri ve etkinlikleri izleme
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "865"
 - "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 7bf2c8dbb542773fce8830890f869d9dc99a9f66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0a74d150be81d4684e481a76eb4b1d93fcc8b70997d513c9230406f520d1ec2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113364"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>OneDrive ve SharePoint etkinlik ve kullanımıyla ilgili raporları görüntüleme
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Etkinlik ve kullanım OneDrive hakkında SharePoint raporları görüntüleme
 
-[Microsoft 365 Yönetim merkezinde kullanım raporları sayfasına](https://admin.microsoft.com/AdminPortal/Home)gidin. **Rapor Seç**'In altında OneDrive veya SharePoint etkinliği veya kullanım raporunu seçin.
+Rapor sayfasında [Kullanım raporları sayfasına Microsoft 365 yönetim merkezi.](https://admin.microsoft.com/AdminPortal/Home) Rapor **seçin altında Etkinlik** veya OneDrive raporu SharePoint seçin.
   
-[OneDrive raporları hakkında daha fazla bilgi](https://go.microsoft.com/fwlink/?linkid=875239)
+[Raporlar hakkında daha OneDrive bilgi](https://go.microsoft.com/fwlink/?linkid=875239)
   
-[SharePoint raporları hakkında daha fazla bilgi](https://go.microsoft.com/fwlink/?linkid=875240)
+[Raporlar hakkında daha SharePoint bilgi](https://go.microsoft.com/fwlink/?linkid=875240)
   

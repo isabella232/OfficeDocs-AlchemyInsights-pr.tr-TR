@@ -13,31 +13,33 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1e80917a323128ba23175651cdf4d892d7815a89c1223b654812c1b456c787da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028776"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899904"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Posta kutularda dış e-posta iletmenin ne zaman yapılandırıldığından emin olun
 
-Bir posta Microsoft 365 kullanıcı dış e-posta iletmeyi yapılandırıyorsa, etkinlik **Set-Mailbox cmdlet'i kapsamında** denetlenmektedir. Etkinlik, Güvenlik ve Uyumluluk Merkezi'nde denetim günlüğü arama &.
+Bir Microsoft 365 kullanıcı posta kutusunda dış e-posta iletmeyi yapılandırıyorsa, etkinlik **Set-Mailbox cmdlet'i kapsamında** denetlenmektedir. Denetim günlüğü aramalarını kullanarak etkinliği görüyoruz. Bunu nasıl yapacağım?
 
-1. [Uyumluluk Merkezi'Microsoft 365 oturum açma.](https://protection.office.com/)
+1. Aşağıdaki adımlardan birini uygulayın:
+   - Aşağıdaki Microsoft 365 uyumluluk merkezi , <https://compliance.microsoft.com> Çözüm **Denetimi'ne** \> **gidin.** Veya doğrudan Denetim sayfasına **gitmek için** <https://compliance.microsoft.com/auditlogsearch> kullanın.
+   - aşağıdaki Microsoft 365 Defender portalında <https://security.microsoft.com> Denetim 'e **gidin.** Veya doğrudan Denetim sayfasına **gitmek için** <https://sip.security.microsoft.com/auditlogsearch> kullanın.
 
-2. Arama Denetimi **günlüğü**  >  **araması sayfasına** gidin.
+2. Denetim **sayfasında,** Arama sekmesinin **seçili olduğunu** doğrulayın ve sonra aşağıdaki ayarları yapılandırabilirsiniz:
+   - Başlangıç ve Bitiş kutularında **tarih/saat** **aralığını** seçin.
+   - Tüm etkinlikler **için sonuçları** **göster'i içeren Etkinlikler kutusunu doğrulayın.**
 
-3. Başlangıç tarihi ve Bitiş **tarihi alanlarında tarih** **aralığını** seçin. Kullanıcı adı belirtmenize gerek yok. Etkinlikler **alanının Tüm** etkinlikler için sonuçları **göster olarak ayar olduğunu doğrulayın.**
+3. Bitirdikten sonra Ara'ya **tıklayın.** Etkinlikler, yeni Denetim arama **sayfasında** görüntülenir.
 
-4. **Arama'ya tıklayın.**
+4. Sonuçlarda, Sonuçları **Filtrele'ye** tıklayın ve **etkinlik filtresi kutusuna Set-Mailbox** yazın.
 
-Sonuçlarda, Sonuçları **Filtrele'ye** tıklayın ve **etkinlik filtresi kutusuna Set-Mailbox** yazın. Sonuçlarda bir denetim kaydı seçin. Ayrıntılar uç **bilgisinde,** Daha fazla **bilgi'ye tıklayın.** Etkinliğin e-posta iletmeyle ilgili olup olmadığını belirlemek için, her denetim kaydının ayrıntılarına bakabilirsiniz.
+5. Sonuçlarda bir denetim kaydı seçin. Ayrıntılar uç **bilgisinde,** Daha fazla **bilgi'ye tıklayın.** Etkinliğin e-posta iletmeyle ilgili olup olmadığını belirlemek için, her denetim kaydının ayrıntılarına bakabilirsiniz.
 
-- **ObjectId:** Değiştirilen posta kutusunun diğer ad değeri.
+   - **ObjectId:** Değiştirilen posta kutusunun diğer ad değeri.
+   - **Parametreler**: _ForwardingSmtpAddress_ hedef e-posta adresini gösterir.
+   - **UserId:** ObjectId alanında posta kutusunda e-posta iletmeyi **yapılandıran** kullanıcı.
 
-- **Parametreler**: _ForwardingSmtpAddress_ hedef e-posta adresini gösterir.
-
-- **UserId:** ObjectId alanında posta kutusunda e-posta iletmeyi **yapılandıran** kullanıcı.
-
-Daha fazla bilgi için [bkz. Posta kutusu için e-posta iletmeyi kimlerin ayarlay olduğunu belirleme.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
+Daha fazla bilgi için [bkz. Posta kutusu için e-posta iletmeyi kimlerin ayarlay olduğunu belirleme.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
