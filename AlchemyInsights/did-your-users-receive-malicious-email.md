@@ -14,16 +14,16 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 525af0b29ffa291ddf69f6f2d97f505e93342989
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893423"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326730"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Kullanıcılarınız kötü amaçlı e-posta mı aldı?
 
-Artık portalda Gönderiler'i kullanarak kötü amaçlı [e-postaları Microsoft Microsoft 365 Defender bildirebilirsiniz.](https://sip.security.microsoft.com/reportsubmission?viewid=admin)
+Artık portalda Gönderiler'i kullanarak kötü amaçlı [e-postaları Microsoft'Microsoft 365 Defender bildirebilirsiniz.](https://sip.security.microsoft.com/reportsubmission?viewid=admin)
 
 Yönetici gönderimleri içinde [gönderilen iletiler](https://security.microsoft.com/reportsubmission?viewid=admin) taranır ve ayrıntılı çıkışta aşağıdaki sonuçlar görüntülenir:
 
@@ -40,7 +40,7 @@ Bu arada, [bu makalede](https://docs.microsoft.com/microsoft-365/compliance/sear
 
 - Office 365 için Microsoft Defender kullanan müşteriler:
   - Şüpheli [e-postaları bulmak ve silmek için Tehdit Gezgini'ni kullanma](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-  - Kötü amaçlı Kasa BIR [URL'ye erişimi engellemek için](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) Hızlı Bağlantılar'a tıklayın
+  - Kötü amaçlı Kasa BIR [URL'ye erişimi engellemek için Hızlı](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) Bağlantılar'a tıklayın
   - Kötü amaçlı URL'lere tık kullanan ve erişilen kullanıcıları izleme: Kimlik avı URL'sini [görüntüle ve](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)karar verisi  &  [Al-UrlTrace'e tıklayın](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
   - Otomatik [Araştırmayı el ile başlatma](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 

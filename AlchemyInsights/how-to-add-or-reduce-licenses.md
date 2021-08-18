@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1d96cefc7918359e5d9006628d3eec723a39a77d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892215"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326409"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Aboneliğiniz için lisans ekleme veya kaldırma
 
@@ -38,4 +38,4 @@ Lisans atama hakkında bilgi için bkz. [Kullanıcılara lisans atama](https://d
   
 - [Lisans satın alma veya kaldırma](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 - [İş Microsoft 365 iptal etme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [İşletmeler için Microsoft 365 aboneliği deneme veya satın alma](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [İşletmeler için Microsoft 365 aboneliği deneyin veya satın alın](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

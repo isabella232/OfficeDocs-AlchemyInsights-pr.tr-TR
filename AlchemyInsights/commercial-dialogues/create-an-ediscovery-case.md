@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: aa505491f205eafd032fb3eef95f5d7d6f5226c61b73462312573789745258fc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6ab9ed1edddc2c6ade5d52f0de4d2793e87a85ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988387"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327005"
 ---
 # <a name="create-an-ediscovery-case"></a>eBulma durumu oluşturma
 
@@ -27,8 +27,8 @@ eBulma durumu şöyle oluşturabilirsiniz:
 1. Güvenlik ve [Uyumluluk & gidin ve](https://go.microsoft.com/fwlink/p/?linkid=2077143) **eBulma eKbulma** öğesini  >  **seçin.**
 1. eBulma sayfasında Vaka **oluştur'a tıklayın.**
 1. Bir Büyük/Küçük Harf adı ve Açıklama girin ve Kaydet'e **tıklayın.**
-    > [!TIP]
-    >Vaka izinlerini yönetmek için, vaka adının yanındaki beyaza basın (Aç'a tıklayın).
+    
+    **İpucu:** Vaka izinlerini yönetmek için, büyük/küçük harf adının yanındaki beyaza basın (Aç'a tıklayın).
 1. Bu vakaya bağlı Olarak Tut, Ara ve Dışarı Aktar ayarlarını yönetmek için Aç'a **tıklayın.**
 
-eBulma servis servislarının içerikle nasıl çalışıla ilgili ayrıntılı bilgi için bkz. [eBulma servis servis örnekleri.](https://go.microsoft.com/fwlink/?linkid=2101589)
+eBulma servis servislarının içerikle nasıl çalışıla ilgili ayrıntılı bilgi için bkz. [eBulma servis örnekleri.](https://go.microsoft.com/fwlink/?linkid=2101589)

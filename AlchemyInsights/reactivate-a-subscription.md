@@ -15,16 +15,16 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: c9fa862fce7c5f60d3d654b490e5ed181ebbf52ec10e475c2fa4815d845a1d59
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 30bfec6c66b4ac9ae82704785c4739322b412726
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900940"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327505"
 ---
 # <a name="reactivate-a-microsoft-365-subscription"></a>Microsoft 365 aboneliğini yeniden etkinleştirme
 
-Aboneliğinizin süresi dolduğunda, Microsoft tarafından devre dışı bırakıldı ise veya abonelik süresinin ortasında aboneliğinizi iptal ettiyseniz, yönetim merkezinde yeniden etkinleştirebilirsiniz.
+Aboneliğinizin süresi dolduğunda, Microsoft tarafından devre dışı bırakıldı ise veya abonelik süresinin ortasında aboneliğinizi iptal ettiyseniz yönetim merkezinde yeniden etkinleştirebilirsiniz.
   
 1. Yönetim merkezinde Ürünlerinizi Faturalandırma   >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
 2. Ürünler **sekmesinde,** yeniden etkinleştirmek istediğiniz aboneliği bulun. Üç noktayı (diğer eylemler) ve ardından Bu aboneliği **yeniden etkinleştir'i seçin.**

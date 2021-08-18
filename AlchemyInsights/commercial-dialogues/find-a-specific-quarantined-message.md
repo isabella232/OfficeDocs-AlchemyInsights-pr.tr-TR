@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: a35e818ea5005a29163d990825a753ca834e9f8c24d6038b319b1382587fc286
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7396ea1d863956e151f238e471e14eafa43f1881
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898340"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326853"
 ---
 # <a name="find-a-specific-quarantined-message"></a>Belirli bir karantinaya alınmış iletiyi bulma
 
-1. Aşağıdaki Microsoft 365 Defender portalında, İşbirliği Gözden Geçirme <https://security.microsoft.com> **Karantinası'& e-posta** \> **gönder'e** \> **gidin.**
+1. Aşağıdaki Microsoft 365 Defender portalında <https://security.microsoft.com> E-posta Gönder ve İşbirliği Gözden  \> **&'ne** \> **gidin.**
 
    Doğrudan Karantina sayfasına **gitmek için,** <https://security.microsoft.com/quarantine> kullanın.
 
