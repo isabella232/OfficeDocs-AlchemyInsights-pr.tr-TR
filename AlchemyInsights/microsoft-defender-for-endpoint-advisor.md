@@ -1,5 +1,5 @@
 ---
-title: Uç nokta için Microsoft Defender 'ı dağıtma
+title: Uç Nokta için Microsoft Defender'ı Dağıtma
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004195"
 - "7377"
-ms.openlocfilehash: 2501046d49d8b290668bef8ea04881e8379b43ee
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+ms.openlocfilehash: f1de44682dbdc4bdfc799e0a3ac618e4c5b76bf0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679834"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317578"
 ---
-# <a name="deploy-microsoft-defender-for-endpoint"></a>Uç nokta için Microsoft Defender 'ı dağıtma
+# <a name="deploy-microsoft-defender-for-endpoint"></a>Uç Nokta için Microsoft Defender'ı Dağıtma
 
-[Microsoft Defender for Endpoint Advisor](https://go.microsoft.com/fwlink/?linkid=2146241) , kurumsal ağınızın gelişmiş tehditleri engellemesine, algılamasına, araştırmasını ve yanıtlayacağı yönergeler sağlar. Kuruluşunuzun güvenlik açığıyla ilgili bilinçli bir değerlendirme yapın ve hangi dağıtım paketinin ve yapılandırma yöntemlerinin en iyi olduğuna karar verin.
+Uç [Nokta için Microsoft Defender danışmanı,](https://go.microsoft.com/fwlink/?linkid=2146241) kurumsal ağın gelişmiş tehditleri engellemesini, algılamasını, araştırmasını ve yanıtlamasını sağlayan yönergeler sağlar. Kuruluş güvenlik açığı hakkında bilinçli bir değerlendirmede bulunarak en uygun dağıtım paketi ve yapılandırma yöntemlerinin en uygun olduğuna karar verin.
 
-> [!NOTE]
-> Endpoint için bir Microsoft toplu lisansı gereklidir.
+**Not:** Uç Nokta için Defender'da bir Microsoft Toplu Lisansı gereklidir.

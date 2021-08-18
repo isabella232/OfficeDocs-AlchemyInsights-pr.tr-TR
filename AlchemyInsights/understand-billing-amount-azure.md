@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020104"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317160"
 ---
 # <a name="understand-billing-amount"></a>Fatura miktarını anlama
 
-Azure Ücretsiz Hesap teklifi, 200 ABD Doları'lık Azure kredisi (kaydolan ilk 30 gün içinde kullanılacak) ve 12 aylık seçili ücretsiz hizmetleri içerir (değişebilir)
+Azure Ücretsiz Hesap teklifi, 200 ABD Doları Azure kredisi (kaydolarak ilk 30 gün içinde kullanılacak) ve 12 aylık seçili ücretsiz hizmetleri içerir (değişebilir)
 
-Bu teklif uygun müşteri başına tek bir kayıtla sınırlıdır ve Microsoft tarafından izin verilmediği sürece başka bir teklifle birleştir kullanılamaz.
+Bu teklif uygun müşteri başına tek bir kayıtla sınırlıdır ve Microsoft'un izin verdiği aksi belirtilmedikçe başka bir teklifle birleştir kullanılamaz
 
-Kayıt işleminin ardından 30 gün içinde veya müşterinin kredilerinin tüketimini aşacak şekilde (hangisi önce gelirse), müşterinin Harcama Sınırı'nın kaldırılmasıyla Ödeme-As-You-Go hesabına yükseltmesi gerekir. Bu, kalan 11 ay boyunca Azure Ücretsiz Hesabı'nın kullanmaya devam edeceğini sağlar. Müşteri yükseltmeyi tamamladikten sonra, başlangıç kredileri dışındaki kullanım ve ücretsiz hizmetleri seçmek için Pay-As-You-Go fiyatlarıyla faturalandırılacaktır. Müşteri yükseltmeyi seçerse, Ücretsiz Hesap aboneliği devre dışı bırakılır.
+Kayıt işleminin ardından 30 gün içinde veya müşterinin kredilerinin tüketimini aşacak şekilde (hangisi önce gelirse), müşterinin Harcama Sınırı'nın kaldırılmasıyla Ödeme-As-You-Go hesabına yükseltmesi gerekir. Bu, kalan 11 ay boyunca Azure Ücretsiz Hesabı'nın kullanmaya devam edeceğini sağlar. Müşteri yükseltmeyi tamamladikten sonra, ilk kredilerin dışında yapılan kullanımlar ve belirli ücretsiz hizmetler Pay-As-You-Go oranlarında faturalandırılacaktır. Müşteri yükseltmeyi seçerse, Ücretsiz Hesap aboneliği devre dışı bırakılır.
 
 Daha fazla bilgi edinin: [Azure ücretsiz hesabı altında aylık ücretsiz kullanılabilen ürünler](https://azure.microsoft.com/free/free-account-faq/)
 
@@ -46,7 +46,7 @@ Daha fazla bilgi edinin:
 
 **Azure Ücretsiz Hesabı'yken herhangi bir şey ödemem var mı?**
 
-Yalnızca Azure Ücretsiz Hesabı'nın dahil olduğu hizmetleri dağıtırsanız ücret tahsil edilir. Ancak 200 TL'den fazla kredi kullandıktan veya 30 günlük süreye ulaştıktan sonra (hangisi önce gelirse) Ödeme-As-You-Go oranlarında faturalandırın.
+Yalnızca Azure Ücretsiz Hesabı'nın kapsamındaki hizmetleri dağıtırsanız ücret tahsil edilir. Ancak 200 TL'den fazla kredi kullandıktan veya 30 günlük süreye ulaştıktan sonra (hangisi önce gelirse) Ödeme-As-You-Go oranlarında faturalandırın.
 
 **Hesabımda kaç Azure Ücretsiz Hesap aboneliği kullanmama izin var?**  
 
@@ -58,19 +58,21 @@ Bu teklif EA müşterileri tarafından kullanılamaz. Bununla birlikte, bir mü�
 
 **Ücretsiz katmanda sunulan hizmetler ilk 200 TL'den tüketecek mi?**  
 
-Hayır. Müşteriler, ilk 30 gün için sabit bir Ücretsiz Katman hizmeti ve 200 ABD Doları kredisi elde eder. Bu nedenle müşteri Ücretsiz Katman hizmetleri olmayan diğer hizmetler için 200 ABD Doları'nın üzerinde kredi kullanabilir.
+Hayır. Müşteriler, ücretsiz Katman hizmetlerinin sabit sayısını ve ilk 30 gün için 200 ABD Doları kredisi elde eder. Bu nedenle müşteri Ücretsiz Katman hizmetleri olmayan diğer hizmetler için 200 ABD Doları'nın üzerinde kredi kullanabilir.
 
-**Sponsorluğum ile ilgili ayrıntıları 2013'e kadar sınyır.**
+**Sponsorluğum ile ilgili ayrıntılarımı 2013'e kadar 2013'e kadar**
 
 - Özel/gizli bir tarayıcı penceresi açma (Edge'de Ctrl + Shift + P)
 - Azure [sponsorluğuna gidin](http://www.microsoftazuresponsorships.com/)
 - Bakiyenizi Kontrol Edin bağlantısına tıklayın
-- Azure Government Sponsored hesabı kimlik bilgilerinizi kullanarak oturum açın (Oturum açmalar için kimlik user.name@xxxx.onmicrosoft.com gerekir)
+- Azure Government Sponsored hesabı kimlik bilgilerinizi kullanarak oturum açın (Oturum açmalar kimlik user.name@xxxx.onmicrosoft.com olmalıdır)
 - Şu bilgileri görüntüleyen bir sayfaya yönlendirildiniz: Başlangıç Tarihi, Bitiş Tarihi, Sponsorluk Tutarı, Kullanılan, Kalan Bakiye
 
 **Ücretsiz hizmetlerin etkin olduğunu veya bunların süresinin ne zaman dolacaklarını nasıl doğrularım?**
 
-Portal Portalı'> Abonelik > Genel Bakış > 12 ay boyunca ücretsiz hizmetler'e ilerleyin ve Bilgi simgesine tıklayın. Bu, Ücretsiz hizmetlerin süresinin dol olduğu tarihi **görüntüler Not:** V1 hizmetleri Azure Ücretsiz Dahil Edilen Hizmetlerin bir parçası değildir. Ücretsiz Hizmetlerin en güncel listesi için bkz. [12 ay boyunca ücretsiz olan ürünler](http://www.microsoftazuresponsorships.com/)
+Portal Portalı'> Abonelik > Genel Bakış > ekranı aşağı kaydırarak Ücretsiz hizmetler'e 12 ay kadar ilerleyin ve Bilgi simgesine tıklayın. Bu, Ücretsiz hizmetlerin süresinin dol olduğu tarihi görüntüler
+
+**Not:** V1 hizmetleri Azure Ücretsiz Dahil Edilen Hizmetlerin bir parçası değildir. Ücretsiz Hizmetlerin en güncel listesi için bkz. [12 ay boyunca ücretsiz olan ürünler](http://www.microsoftazuresponsorships.com/)
 
 Ek SSS: [Ücretsiz hesap SSS](https://azure.microsoft.com/free/free-account-faq/)
 

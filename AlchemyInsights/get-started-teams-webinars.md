@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: 82c6524011f996de07025e4401604101f50a326b37e38b890524626325a01aaf
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a82695d81db634cfd12971a9b6521ae1de56360a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888262"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317670"
 ---
 # <a name="getting-started-with-teams-webinars"></a>Web Seminerleri'Teams başlama
 
@@ -27,4 +27,4 @@ Organizasyonda web seminerleri ayardikten sonra, kullanıcılarınız web semine
 
 **Not:** Webinar işlevselliği kiracılara yardımcı olmak için Microsoft 365 devam ediyor. 
 
-Web Seminerleri için web seminerlerini ayarlama ve Teams daha fazla bilgi için bkz. Web seminerleri [için Microsoft Teams.](https://docs.microsoft.com/microsoftteams/set-up-webinars)
+Web Seminerleri için web seminerlerini ayarlama Teams yapılandırma hakkında daha fazla bilgi için bkz. Web seminerleri [için Microsoft Teams.](https://docs.microsoft.com/microsoftteams/set-up-webinars)

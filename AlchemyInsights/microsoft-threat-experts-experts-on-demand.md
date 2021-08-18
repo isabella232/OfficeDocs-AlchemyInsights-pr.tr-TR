@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50841784"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113940"
 ---
 # <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft Tehdit Uzmanları - Talep Üzerine Uzmanlar
 
-Talep Üzerine Uzmanlar, Microsoft Tehdit Uzmanları'nın ikinci özelliğidir. Algılamalar ve hasımlarla ilgili ilgili sorular konusunda danışmaya ihtiyacınız olduğunda bize buradan ulaşabilirsiniz.
+Aynı beceriye sahip ikinci Microsoft Tehdit Uzmanları uzmanlardır. Algılamalar ve yardımcılarla ilgili sorular hakkında danışmaya ihtiyaç olduğunda bize buradan ulaşabilirsiniz.
 
-Zaten Uç Nokta için Defender müşterisiysiniz, Microsoft Tehdit Uzmanlarına abone olmak için Microsoft temsilcinize başvurarak Talep Üzerine Uzmanlar'ı kullanabilirsiniz.
+Zaten uç nokta için Defender müşterisiysiniz, microsoft temsilcinize başvurarak Microsoft Tehdit Uzmanları Uzman'a abone olabilirsiniz.
 
-Bir tehdit **uzmanına Danışma seçeneği,** araştırmanız bağlamında uzmanlarla etkileşime girişebilirsiniz portalda aşağıdaki menülerde kullanılabilir:
+Bir tehdit **uzmanına danışma seçeneği,** araştırmanız bağlamında uzmanlarla etkileşime girişebilirsiniz portalda aşağıdaki menülerde kullanılabilir:
 
 - Yardım ve destek menüsü
 - Cihaz sayfası eylemleri menüsü
-- Uyarılar sayfası eylemleri menüsü
+- Uyarılar sayfa eylemleri menüsü
 - Dosya sayfası eylemleri menüsü
 
-Daha fazla bilgi için Bkz. [Microsoft Tehdit Uzmanlarının özelliklerini yapılandırma ve yönetme.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)
+Daha fazla bilgi için [bkz. Veri özelliklerini Microsoft Tehdit Uzmanları yönetme.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)
