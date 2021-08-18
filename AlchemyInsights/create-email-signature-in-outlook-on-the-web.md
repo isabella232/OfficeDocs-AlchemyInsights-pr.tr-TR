@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8198"
-ms.openlocfilehash: 88ee2793e926cb8704a730e18a3c44fe89853d16142f1163707149d8b01be5d9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 22155f87e9f604560ec74769e882d186e825a05e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53965553"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332281"
 ---
 # <a name="create-email-signature-in-outlook-on-the-web"></a>E-posta imzası Web üzerinde Outlook
 
@@ -26,8 +26,7 @@ ms.locfileid: "53965553"
 3. Seçenekler **panelinde, Posta** altında, **E-posta** imzası **düzenini**  >  **seçin.**
 4. Metin kutusuna imzanızı yazın ve kullanılabilir biçimlendirme seçeneklerini kullanarak görünümünü değiştirebilirsiniz.
 
-    > [!TIP]
-    > İmzanız için resim dosyası (örneğin, .gif veya .jpg biçiminde) ekleme destek değildir, ancak bir web sayfasından resim kopyalayıp imza kutusuna yapıştırabilirsiniz.
+    **İpucu:** İmzanız için resim dosyası (örneğin, .gif veya .jpg biçiminde) ekleme desteklanmaz, ancak bir web sayfasından resim kopyalayıp imza kutusuna yapıştırabilirsiniz.
 
-5. İmzanın yanıtlar ve iletilmeler de içinde olmak üzere tüm giden e-posta iletilerinin altında 30 gün 3 saat 9 saat 24 saat 24 saat 24 saat 24 saat 24 saat 20 saat 20 saat 20 saat 20 saat olarak 365 saat 365 saat 24 saat 24 saat 24 saat olarak 365 saat olarak 3659333339
+5. İmzanın yanıtlar ve iletilmeler de içinde olmak üzere tüm giden e-posta iletilerinin altında 36 saat 9 saat 9 saat 24 saat 24 saat 20 saat 65 saat 20 saat 20 saat 20 saat 20 saat olarak 365 saat olarak 365 saat 24 saat 24 saat 24 saat 24 saat 23 saat olarak 3659'da 3655
 6. **Kaydet**'e tıklayın.

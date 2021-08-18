@@ -1,5 +1,5 @@
 ---
-title: E-Microsoft Edge'de grup Microsoft Edge
+title: Çalışma grubunda grup Microsoft Edge
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006493"
 - "11108"
-ms.openlocfilehash: 55b98c3d34b1b4bce5cef746e18bc2933902624547d2020118579593ca5c6f77
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c7067ddf57eb7229a4e114eb74ff8306a4a9318a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889910"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331255"
 ---
-# <a name="group-policies-in-microsoft-edge"></a>E-Microsoft Edge'de grup Microsoft Edge
+# <a name="group-policies-in-microsoft-edge"></a>Çalışma grubunda grup Microsoft Edge
 
 Tarayıcının kuruluşta nasıl Microsoft Edge belirtmek için bu sürümlerde (sürüm 77 veya sonrası) kullanılabilen grup ilkelerini kullanın. Daha fazla bilgi için [bkz. Microsoft Edge - İlkeler.](https://docs.microsoft.com/deployedge/microsoft-edge-policies#available-policies)

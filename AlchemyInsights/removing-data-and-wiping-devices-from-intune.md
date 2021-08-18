@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922283"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331061"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Intune’dan verileri kaldırma ve cihazları silme
 
@@ -32,8 +32,7 @@ Cihaz Devre Dışı Bırakma ve Cihaz Silme uzak eylemleri Inture tarafından y�
 4. Onaylamak için **Evet**'i seçin. Silme işlemi bitene kadar Cihazın eylem durumu *Devre Dışı Bırakma Bekliyor* olarak gösterilir.
     Eylem tamamlandıktan sonra artık yönetilen cihaz listesinde mobil cihazı görmezsiniz.
 
-> [!NOTE]
-> Şirket verileri Azure AD’ye KATILMIŞ cihazlardan kaldırılamaz. 
+**Not:** Şirket verileri Azure AD'ye KATıLMıŞ cihazlardan kaldırılamaz. 
 
 Devre Dışı Bırakma ve Silme eylemlerinin etkisiyle ilgili olarak, nelerin tutulduğu ve nelerin silindiği de dahil olmak üzere tüm ayrıntılar için aşağıdaki belgelere bakın:
 

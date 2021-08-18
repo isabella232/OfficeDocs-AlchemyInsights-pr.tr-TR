@@ -13,12 +13,12 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 6b6493fefbd073935441a6344a166e4739a756e23cadd0169d41ebdbd927ae85
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0ad0a26430168ea26ad08a5faf911c0fc439588f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892619"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333087"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Sesli Konferans
 
@@ -30,7 +30,7 @@ Lisanslar [satın alınsa, kullanıcının](https://docs.microsoft.com/microsoft
 
 2. Yönetim merkezi sürümüne bağlı olarak, **Lisanslar ve Uygulamalar**’ı seçin veya **Ürün lisansları**’nda **Düzenle**’ye tıklayın.
 
-3. Kullanıcının sesli konferans, Microsoft Teams ve **Skype Kurumsal**(Plan 2) için Microsoft 365 **lisansları seçmiş olduğunu onaylayın.** Sesli **Microsoft 365 lisansı** yoksa, önce lisans [ekle'yi satın](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) alırsanız.
+3. Kullanıcının Sesli Konferans, Microsoft Teams ve **Microsoft 365**(Plan 2) için Skype Kurumsal **lisansları olduğunu onaylayın.** Sesli **Microsoft 365 lisansı** yoksa, önce lisans [ekle'yi satın](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) alırsanız.
 
 4. Kullanıcı **Yönetim merkezlerinde** **Tümünü göster**’e tıklayın, ardından **Teams**’e tıklayın.
 

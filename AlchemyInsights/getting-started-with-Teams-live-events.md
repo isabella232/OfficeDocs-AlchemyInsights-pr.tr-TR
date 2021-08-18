@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088884"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333179"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Teams canlı etkinliklerini kullanmaya başlama
 
@@ -25,9 +25,11 @@ Microsoft Teams canlı etkinlikleri, kalabalık çevrimiçi kitlelere akış yap
 
 Canlı etkinlik oluşturmak için şunlara ihtiyaç duyarsınız:
 
-- İlk olarak, Teams Bölgenize canlı [etkinliklerin ek olduğunu onaylayın](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Canlı Etkinlikler henüz bazı ülkelerde desteklenmiyor.  Lisans atadınız ve ilkeler ayardınız ancak yine de Teams Canlı Etkinlik oluşturamazsanız, büyük olasılıkla Canlı Etkinliklerin henüz kullanılabilir olmadığınız bir Ülke veya Bölgedesinizdir.
+- İlk olarak, Teams Bölgenize canlı [etkinliklerin ek olduğunu onaylayın;](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability) Canlı Etkinlikler henüz bazı ülkelerde desteklenmiyor.  Lisans atadınız ve ilkeler ayardınız ancak yine de Teams Canlı Etkinlik oluşturamazsanız, büyük olasılıkla Canlı Etkinliklerin henüz kullanılabilir olmadığınız bir Ülke veya Bölgedesinizdir.
 
-- [Office 365 Kurumsal E1, E3 veya E5 lisansı ya da bir Office 365 A3 veya A5 lisansı](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Not**: Son zamanlarda Teams kullanımında görülen artış nedeniyle, bir kullanıcıya Teams lisansı atadığınızda kullanıcının çalışmaya tamamen hazır olması yaklaşık 24 saat sürebilir. O zamana kadar bu kullanıcılara Teams ilkeleri atanamaz, kullanıcılar arama ve sesli konferans gibi bazı Teams özelliklerine erişemez.
+- [Office 365 Kurumsal E1, E3 veya E5 lisansı ya da bir Office 365 A3 veya A5 lisansı](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **Not**: Son zamanlarda Teams kullanımında görülen artış nedeniyle, bir kullanıcıya Teams lisansı atadığınızda kullanıcının çalışmaya tamamen hazır olması yaklaşık 24 saat sürebilir. O zamana kadar bu kullanıcılara Teams ilkeleri atanamaz, kullanıcılar arama ve sesli konferans gibi bazı Teams özelliklerine erişemez.
 
 - [Microsoft Teams yönetim merkezinde canlı etkinlik oluşturma](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy) izni.
 

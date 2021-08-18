@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963807"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339052"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Yöneticileri ekleme ve yönetme - önerilen adımlar
 
@@ -43,7 +43,7 @@ Hizmet Yöneticisi veya Ortak yönetici, aşağıdaki adımları kullanarak bu e
 
 1. Hizmet Yöneticisi olarak [Azure portalında](https://ms.portal.azure.com/#home) oturum açın.
 2. [Abonelikler'i](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) açın ve bir abonelik seçin. (Yardımcı yöneticiler yalnızca abonelik kapsamında atanabilir.)
-3. Access denetimi **(IAM)** Klasik yöneticiler Eş yönetici ekle bölmesini açmak için, Access denetimi (IAM) Klasik yöneticiler Eş yönetici ekle'ye gidin (Ortak yönetici ekle seçeneği devre dışı bırakılmışsa, izinlere sahip  >    >    >   olmadığınız gösterir). 
+3. Erişim denetimi **(IAM)** Klasik yöneticiler Eş yönetici ekle bölmesini açmak için Eş yönetici ekle'ye gidin (Ortak yönetici ekle seçeneği devre dışı bırakılmışsa, izinlere sahip  >    >    >   olmadığınız gösterilir). 
 4. Eklemek istediğiniz kullanıcıyı seçin ve Ekle'ye **tıklayın.**
 
 **Daha fazla bilgi edinin:**
@@ -53,12 +53,12 @@ Hizmet Yöneticisi veya Ortak yönetici, aşağıdaki adımları kullanarak bu e
 - [Hesap Yöneticisi'ne görüntüleme](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [RBAC ve Azure portalını kullanarak erişimi yönetme](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
 
-**Azure Active Directory (AD) kullanarak kullanıcı ekleme/silme**
+**E-posta (AD) Azure Active Directory kullanıcı ekleme/silme**
 
 Yeni kullanıcılar ekleyebilir veya var olan kullanıcıları Azure Active Directory (Azure AD) kuruluşundan silebilirsiniz:
 
 1. Yeni kullanıcı eklemek için, Azure [portalında](https://ms.portal.azure.com/#home) kuruluş için Kullanıcı yöneticisi olarak oturum açın.
-2. Yeni **Azure Active Directory** öğesini seçin, **Kullanıcılar'ı** seçin ve yeni kullanıcı **'ya tıklayın.**
+2. **Kullanıcılar Azure Active Directory ı** seçin ve **Ardından Yeni** kullanıcı **'ya tıklayın.**
 3. Kullanıcı **sayfasında** gerekli bilgileri doldurun. **Oluştur'a tıklayın.** Kullanıcı oluşturulur ve Azure AD kiracınıza eklenir.
 
 **Daha fazla bilgi:**
@@ -75,7 +75,7 @@ Yeni kullanıcılar ekleyebilir veya var olan kullanıcıları Azure Active Dire
 - [Öğretici: RBAC ve Azure portalını kullanan bir kullanıcı için erişim izni ver](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Azure'da RBAC sorunlarını giderme](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Azure yönetim gruplarıyla kaynaklarınızı düzenleme](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Azure faturalarının kopyasını e-posta yoluyla talep edin](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Azure faturalarının kopyasını e-posta yoluyla talep edin](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Azure'da kredi kartı veya banka kartı ekleme, güncelleştirme veya kaldırma](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Aboneliği yönetme (Yeniden Etkinleştir/İptal/Değiştir)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

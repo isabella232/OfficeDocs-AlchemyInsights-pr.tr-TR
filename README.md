@@ -1,3 +1,3 @@
 ## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft Açık Kaynak Kullanım Şartları
 Bu projede [Microsoft Açık Kaynak Kullanım Şartları](https://opensource.microsoft.com/codeofconduct/) benimsenmiştir.
-Daha fazla bilgi için Yürütme [Kuralları SSS](https://opensource.microsoft.com/codeofconduct/faq/) bölümüne bakın veya diğer [opencode@microsoft.com](mailto:opencode@microsoft.com) veya yorumlarınızı görmek için ilgili bölüme ulaşın.
+Daha fazla bilgi için, [Yürütme Kuralları hakkında SSS'ye](https://opensource.microsoft.com/codeofconduct/faq/) bakın [veya](mailto:opencode@microsoft.com) opencode@microsoft.com veya yorum ekleriyle iletişime geçin.

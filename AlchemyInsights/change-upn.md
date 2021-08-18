@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082422"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332455"
 ---
 # <a name="change-a-users-email-address"></a>Kullanıcının e-posta adresini değiştirme
 
 Bir kişinin e-posta adresi kolayca değişiklik gösteriyor! Şu adımları takip edin:
   
-1. Görünüm Microsoft 365 yönetim merkezi, Kullanıcılar sayfasına [gidin veya](https://go.microsoft.com/fwlink/p/?linkid=834822) Kullanıcılar Etkin **Kullanıcılar'ı** \> **seçin.**
+1. Görünüm Microsoft 365 yönetim merkezi, Kullanıcılar sayfasına [gidin](https://go.microsoft.com/fwlink/p/?linkid=834822) veya Kullanıcılar Etkin **Kullanıcılar'ı** \> **seçin.**
     
 2. Bir kullanıcı seçin.
     
@@ -31,7 +31,7 @@ Bir kişinin e-posta adresi kolayca değişiklik gösteriyor! Şu adımları tak
     
 4. Diğer ad **kutusuna yeni** bir e-posta yazın ve Ekle'yi **seçin.**
     
-    **ÖNEMLİ:**" **'EmailAddresses'** parametre adıyla eşleşen bir parametre bulunamadı" hata iletisini alırsanız, Microsoft'un kiracınızı veya özel etki alanınızı (yakın zamanda bir özel etki alanı eklediyseniz) ayarlamayı bitirmesi biraz uzun zaman alıyor demektir. Ayarlama işleminin tamamlanması 4 saat kadar sürebilir. Biraz bekleyerek ayarlama işleminin bitmesi için zaman tanıyın ve sonra yeniden deneyin. Sorun devam ederse sizin için tam eşitleme gerçekleştirecek olan Destek ekibini arayın.
+    **Önemli:**" **'EmailAddresses'** parametre adıyla eşleşen bir parametre bulunamadı" hata iletisini alırsanız, Microsoft'un kiracınızı veya özel etki alanınızı (yakın zamanda bir özel etki alanı eklediyseniz) ayarlamayı bitirmesi biraz uzun sürer. Ayarlama işleminin tamamlanması 4 saat kadar sürebilir. Biraz bekleyerek ayarlama işleminin bitmesi için zaman tanıyın ve sonra yeniden deneyin. Sorun devam ederse sizin için tam eşitleme gerçekleştirecek olan Destek ekibini arayın.
     
     "Üzgünüz, kullanıcı **düzenlenemedi. Kullanıcı bilgilerini gözden geçirin** ve yeniden deneyin " bu, genel yönetici olmadığınız ve kullanıcının adını değiştirme izinlerine sahip olmadığınız anlamına gelir.
     
