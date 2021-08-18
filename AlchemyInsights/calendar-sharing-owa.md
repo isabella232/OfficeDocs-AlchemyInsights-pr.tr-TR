@@ -1,5 +1,5 @@
 ---
-title: 616 Takvim paylaşımı
+title: 616 Takvim Paylaşımı
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,20 +13,20 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: def2bf5181dc1a79fe8705091b31cc55bafdd3cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f21000033715dd1ea1637289ffe3527759b8ad03593e01ecee1a01369421f55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119952"
 ---
 # <a name="troubleshooting-issues-with-calendar-sharing"></a>Takvim paylaşımıyla ilgili sorunları giderme
 
-- İzin sorunlarını tanılamak için [Exchange uzaktan bağlantı çözümleyici serbest meşgul](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy)'ı kullanarak çok özel hata Iletileri veren ücretsiz meşgul seçeneğini kullanın.
-- [Microsoft 365 Için Microsoft destek ve Kurtarma Yardımcısı](https://diagnostics.office.com/) 'nı kullanarak başka bir takvim sorununu tanılayabilir. 
-- Kullanıcıda Masaüstü Outlook varsa, [Outlook Için Takvim denetim aracı](https://www.microsoft.com/download/details.aspx?id=28786) olası sorunları çözebilir.
+- İzin sorunlarını tanılamak için, [çok özel Exchange iletileri](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy)veren Uzak Bağlantı Çözümleyicisi Serbest Meşgul bağlantısını kullanın.
+- Çeşitli diğer takvim sorunlarını [tanılamak Destek ve Kurtarma Yardımcısı Microsoft 365](https://diagnostics.office.com/) için Microsoft Microsoft 365'i de kullanabilirsiniz. 
+- Kullanıcının Masaüstü Masaüstü Outlook varsa, Kullanıcılar [için Takvim Outlook](https://www.microsoft.com/download/details.aspx?id=28786) aracı olası sorunları çözebilir.
 
-Diğer nasıl yapılır kaynakları:
+Ek nasıl kaynaklar:
 
 - [Outlook takvimini başkalarıyla paylaşma](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [İş için Web üzerinde Outlook 'ta Takviminizi paylaşma](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Web üzerinde Outlook İş'te takviminizi paylaşma](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)

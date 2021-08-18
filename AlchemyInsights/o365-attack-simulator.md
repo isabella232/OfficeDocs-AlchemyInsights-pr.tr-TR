@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f6e221cc82a1b707f6acc457cb78db743521d859
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895811"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325091"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Saldırı Saldırı Microsoft 365
 
-- Saldırı Uçak'larını mı kaybettiniz? Attack Defender, **Plan 2 veya Office 365** **E5** için Microsoft Defender Office 365 Kurumsal gerektirir. Attack **Evet,** Plan 1, Office 365 E3 veya herhangi bir Office 365 Kurumsal için Microsoft Defender'İş için Microsoft 365 Uygulamaları dahil değildir.
+- Saldırı Uçak'larını mı kaybettiniz? Attack Defender, **Plan 2 veya Office 365** **E5** için Microsoft Defender Office 365 Kurumsal gerektirir. Attack **Evet,** Plan 1, Office 365 Kurumsal E3 veya herhangi bir Office 365 için Microsoft Defender'a İş için Microsoft 365 Uygulamaları dahil değildir.
 
 - Benzetimi yapılan saldırılar başlatmak için kullanabileceğiniz hesap, genel yönetici veya güvenlik yöneticisi izinlerini ve Çok Faktörlü Kimlik Doğrulaması (MFA) gerektirir. SaldırıYanı gereksinimleri hakkında daha fazla bilgi için [bu konuya bakın.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
 
@@ -39,4 +39,4 @@ ms.locfileid: "57895811"
 
 - Raporlar: Benzetimi yapılan saldırı tamamlandıktan sonra, Saldırı Ayrıntıları'nın **üzerine** tıklar ve raporu görebilirsiniz.
 
-- Attack Evet'te ayrıntılı yönergeler ve yeni özellikler için bkz. Saldırı [Saldırı Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
+- Attack Ayrıca'daki ayrıntılı yönergeler ve yeni özellikler için Saldırı [Saldırı'ya Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)

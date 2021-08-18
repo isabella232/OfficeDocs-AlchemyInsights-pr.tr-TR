@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 63304667cce67c48fd8bbeee52ff6d61d033ea38fd8d4c4d96c240847dab2cab
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 607e27c883f83b4b29347e764b8f2273cf0f117e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118224"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325407"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Azure AD Connect'te parola geri yazmayı etkinleştirme
 
@@ -42,5 +42,4 @@ Azure AD Connect'te parola geri yazma etkinleştirildiğinde, geri yazma için A
 
 Daha fazla bilgi için bkz. [Şirket içi bir ortama Azure Active Directory self servis parola sıfırlama geri yazma özelliğini etkinleştirme.](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
-> [!NOTE]
->  Yönetici, Azure Portal'da bir kullanıcının parolasını sıfırladığında, kullanıcı şirket dışındansa veya parola karması eşitlenmişse, parola şirket içi bir ortama geri yazılır. Bu işlev için Azure Premium Lisansı (P1 veya P2) gerekiyor ve şu anda Office Yönetici portalında desteklenmiyor.
+**Not:** Yönetici Azure Portal'da bir kullanıcının parolasını sıfırlasa, bu kullanıcı şirket dışı parola veya parola karma eşitlenmişse, parola şirket içi olarak yeniden yazılır. Bu işlev için Azure Premium Lisansı (P1 veya P2) gerekiyor ve şu anda Office Yönetici portalında desteklenmiyor.

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d55dae30c875022b8c38c14ba72eafbc674efcae
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874559"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324545"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>İleti izleme kullanarak e-posta iletisi gönderme
 
-1. Posta akışı Exchange İleti izlemesi'nde, Exchange yönetim merkezine (EAC) <https://admin.exchange.microsoft.com> \>  \> **gidin.**
+1. Posta akışı Exchange İleti izlemesi'nde, genel yönetim merkezine (EAC) <https://admin.exchange.microsoft.com> \>  \> **gidin.**
 
    Doğrudan İleti izleme **sayfasına gitmek için** , <https://admin.exchange.microsoft.com/#/messagetrace> kullanın.
 

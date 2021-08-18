@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 987c91886aaa4ae04d9dc66567688cd15102a8adc5b0ba0dd4d59dc784d65d01
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57164d972780830087bb85f9cd809d290446fa3e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901200"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324336"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams yükseltme
 
-Teams'i kullanmaya yeni başlıyor, Skype Kurumsal ile birlikte Teams kullanıyor veya yükseltmeye hazır olun, başarıyla devam etmek için ihtiyacınız olan her şeye sahip olmak Teams. Daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
+Teams'i kullanmaya yeni başlıyor, Skype Kurumsal'in yanında Teams kullanıyor veya yükseltmeye hazır olun, başarıyla bir yolculuk yapmak için ihtiyacınız olan her şeye sahip Teams. Daha fazla bilgi için lütfen aşağıdaki bağlantıları ziyaret edin.
 
 [Yeni yükseltmenize Microsoft Teams başlama](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
@@ -30,6 +30,6 @@ Teams'i kullanmaya yeni başlıyor, Skype Kurumsal ile birlikte Teams kullanıyo
 
 [Skype Kurumsal Online'dan Teams'a yükseltmeyi gerçekleştirme](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Şirket içi Skype Kurumsal şirket dışından yükseltmeyi Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Şirket içi Skype Kurumsal şirket içi yükseltmeyi Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[PowerShell ile yükseltme Skype Kurumsal için Teams Online'ın durumunu denetleme](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[PowerShell'i Skype Kurumsal için Teams Online'ın durumunu denetleme](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

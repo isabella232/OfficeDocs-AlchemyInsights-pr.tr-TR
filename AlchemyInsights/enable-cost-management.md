@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003589"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325483"
 ---
 # <a name="enable-cost-management"></a>Maliyet yönetimini etkinleştirme
 
@@ -34,8 +34,7 @@ Azure portalda oturum açtıktan sonra Fatura API'lerini kullanarak faturaları 
 2. **Faturalar'ı** ve ardından **Faturalara eriş'i seçin.**
 3. Kullanıcıların abonelik kapsamındaki roller kapsamındaki kullanıcıların faturaları indirmesine izin vermek için, erişimi ve ardından değişiklikleri kaydetmeyi seçin.
 
-> [!NOTE]
-> Hesap Yöneticisi faturaların e-posta yoluyla gönderilmelerini de yapılandırabilirsiniz. Daha fazla bilgi için bkz. [Faturanızı e-postaya alın](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
+**Not:** Hesap Yöneticisi, faturaların e-posta ile gönderilmeleri için de yapılandırabilirsiniz. Daha fazla bilgi için bkz. [Faturanızı e-postaya alın](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
 **Fatura Okuyucusu rolüne kullanıcı ekleme**
 

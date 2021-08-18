@@ -15,19 +15,19 @@ ms.custom:
 - commerce_subscriptions
 - "86"
 - "1400001"
-ms.openlocfilehash: 5c6b305fe61d20c706ff27db51607bcbdbdfdfe5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 5745ca1bde0722b4a758c239e06a838b2c5e942ac0e8a1f4e953fcccb978b41e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311455"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119947"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Microsoft 365 iptal mi ediyorsunuz?
 
 Sizi gördüğünüz için üzgünüz!
   
-Kuruluş verilerinize dayanarak, geçerli aboneliklerinizin tüm kullanıcılarının 25'den az olduğuna inanıyoruz. Aboneliğinizi çevrimiçi olarak iptal etmek için Ürünlerinizi **Faturalandırma** \> [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin. Ürünler **sekmesinde iptal** etmek istediğiniz aboneliği bulun, üç noktayı (diğer eylemler) ve ardından Aboneliği iptal et'i **seçin.**
+Kuruluş verilerinize dayanarak, geçerli aboneliklerinizin tüm kullanıcılarının 25'den az kullanıcı olduğuna inanıyoruz. Aboneliğinizi çevrimiçi olarak iptal etmek için Ürünlerinizi **Faturalandırma** \> [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin. Ürünler **sekmesinde iptal** etmek istediğiniz aboneliği bulun, üç noktayı (diğer eylemler) ve ardından Aboneliği iptal et'i **seçin.**
   
 **Para iadesi:** Prorated krediler bir sonraki fatura döngüsünde size iade edilir.
 
-Daha fazla bilgi edinmek için bkz. [Aboneliğinizi iptal etme.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Daha fazla bilgi edinmek için bkz. [Aboneliğinizi iptal etme.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

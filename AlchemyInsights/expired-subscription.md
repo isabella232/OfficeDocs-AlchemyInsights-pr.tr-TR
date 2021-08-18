@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895907"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325315"
 ---
 # <a name="expired-subscription"></a>Süresi dolmuş abonelik
 
@@ -30,8 +30,7 @@ Bir veya birden çok aboneliğin süresi dolmuş gibi görünüyor. Hizmeti deva
   
 1. Yönetim merkezinde Ürünlerinizi Faturalandırma  \> [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
 2. Ürünler **sekmesinde,** yeniden etkinleştirmek istediğiniz aboneliği bulun. Üç noktayı (diğer eylemler) ve ardından Bu aboneliği **yeniden etkinleştir'i seçin.**
-    > [!NOTE]
-    > Bu aboneliği yeniden **etkinleştir'i görmüyorsanız,** desteği arayın.
+    **Not:** Bu aboneliği yeniden **etkinleştir'i görmüyorsanız desteği** arayın.
 3. Bu **aboneliği yeniden etkinleştir bölmesinde,** açılan listeden bir ödeme yöntemi seçin veya Ödeme yöntemi ekle **öğesini seçin.**
 4. **Kaydet**'i seçin.
 

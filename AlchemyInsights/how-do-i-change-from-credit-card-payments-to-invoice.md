@@ -14,17 +14,16 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3f3f52a5cedc8f065dbac59499cc087641e84682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868698"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323806"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kredi kartı ödemelerinden faturaya nasıl değişiklik yapabilirim?
 
-> [!NOTE]
-> Yalnızca aboneliğinizin maliyeti belirli bir tutarın üzerinde ise faturayla ödemeye değiştirebilirsiniz. Faturayla ödemeye başlamadan önce, kredi kartı veya banka hesabıyla bekleyen bakiyeyi ödemeniz gerekir.
+**Not:** Yalnızca aboneliğinizin maliyeti belirli bir tutarın üzerinde ise faturayla ödemeye değiştirebilirsiniz. Faturayla ödemeye başlamadan önce, kredi kartı veya banka hesabıyla bekleyen bakiyeyi ödemeniz gerekir.
 
 1. Yönetim merkezinde Ürünlerinizi Faturalandırma   >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
 2. Ürünler **sekmesinde,** alternatif ödeme yöntemiyle ödeme yapmak istediğiniz aboneliği bulun.

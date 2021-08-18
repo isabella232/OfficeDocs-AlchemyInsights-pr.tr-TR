@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 8698136c5d5505bae0d38ca5d416ee0ca0e27461d92dc3b41ce029cb383abfb8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e1ce2e78f5ea6eaa8c1a7ecc2bfea9a017e3cbf5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950973"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324148"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Kayboldun! Yöneticinizden bu özelliği etkinleştirmelerini Microsoft Teams
 
 Eğitim kiracınız varsa Microsoft Teams’i el ile etkinleştirmeniz gerekir. Bunu yapmak için, Microsoft 365 yönetim merkezi > **Hizmetleri'ne ve eklentilere > Microsoft Teams.** Yeni Yönetim Merkezi'ni Teams, Hizmetler ve eklentiler'i bulmak **** için Yeni yönetim merkezini    **deneyin'i kapatmalı.** 
 
-**ÖNEMLİ:** Değişikliklerinizin etkili bir şekilde devamını almak için 24 saate kadar beklemeniz gerekiyor olabilir.
+**Önemli**: Değişikliklerin etkili olması için 24 saate kadar beklemeniz gerekebilir.
