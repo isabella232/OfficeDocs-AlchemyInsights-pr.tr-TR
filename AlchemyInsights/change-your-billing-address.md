@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898912"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330428"
 ---
 # <a name="change-your-billing-address"></a>Fatura adresinizi değiştirme
 
@@ -30,7 +30,7 @@ Faturanız üç adres içerir.
 
 **Ödeme yöntemi için fatura adresini değiştirme**
 
-1. Yönetim merkezinde Fatura ve **Ödeme > [gidin.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
+1. Yönetim merkezinde Faturalama ve **Ödeme > [gidin.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 2. Değiştirmek istediğiniz kredi kartını veya banka hesabını seçin.
 3. Ödeme yöntemi **ayrıntıları sayfasında Düzenle'ye** **tıklayın.**
 4. Fatura adresinizi güncelleştirin ve ardından Bitti olarak **Kaydet > tıklayın.**
@@ -41,6 +41,6 @@ Adres ve bildirim değişiklikleri hakkında daha fazla bilgi için [bkz. İşle
 
 1. Yönetim merkezinde Faturalama ve **Faturalama > [gidin.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
 2. Fatura **hesabı bilgilerini düzenle'yi seçin.**
-3. Fatura hesabı bilgilerini güncelleştirin ve ardından Bitti Olarak **Kaydet'> tıklayın.**
+3. Fatura hesabı bilgilerini güncelleştirin ve ardından Bitti olarak **Kaydet'> tıklayın.**
 
 **Not:** Ülke/Bölge'nin ayarlarını değiştiremezsiniz. Bu alanın değişmesi gerekirse yeni bir kiracı satın alırsanız.

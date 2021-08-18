@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901756"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330192"
 ---
 # <a name="canceling-your-subscription"></a>Aboneliğiniz iptal mi ediyor?
 
@@ -30,7 +30,6 @@ Gitmenizi üzgünüz, ancak aboneliğinizi iptal etmek için seçenekleriniz şu
   
 **Para iadesi: Prorated krediler bir sonraki fatura döngüsünde size iade edilir.**
 
-> [!NOTE]
-> İptal etme seçeneğini görmüyorsanız, abonelik seçerek ayrıntılar sayfasını görüntüleyebilirsiniz. Abonelik ve **ödeme ayarları bölümünde Aboneliği** iptal **et'i seçin.**
+**Not:** İptal etme seçeneğini görmüyorsanız, abonelik seçerek ayrıntılar sayfasını görüntüleyebilirsiniz. Abonelik ve **ödeme ayarları bölümünde Aboneliği** iptal **et'i seçin.**
 
 Daha fazla bilgi edinmek için bkz. [Aboneliğinizi iptal etme.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

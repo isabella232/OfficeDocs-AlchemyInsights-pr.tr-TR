@@ -15,24 +15,22 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892447"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330688"
 ---
 # <a name="update-credit-card-information"></a>Kredi kartı bilgilerini güncelleştirin
 
 1. Microsoft 365 yönetim merkezinde **Faturalama** \> [Ödeme yöntemleri](https://go.microsoft.com/fwlink/p/?linkid=2018806) sayfasına gidin.
 
-    > [!NOTE]
-    > Güncelleştirmeleriniz tamamlanmadan önce sizi Yönetici giriş sayfasına yönlendiren bir döngüyle karşılaşırsanız InPrivate veya Gizli moduna geçmeyi deneyin.
+    **Not:** Güncelleştirmeleriniz tamamlandıktan önce sizi Yönetici giriş sayfasına geri gönderen bir döngüyle deneyimlerseniz InPrivate veya Gizli modunu deneyin.
   
 2. Güncelleştirmek istediğiniz kredi kartını seçin.
 
-    > [!NOTE]
-    > Ödeme yöntemini başka bir yönetici eklediyse, kredi kartı veya banka hesabı bilgilerini güncelleştiremezsiniz. Kredi kartının süresi dolmak üzereyse ve diğer yönetici kart bilgilerini güncelleştiremiyorsa **Ödeme yöntemi ekle**’yi seçip abonelik için farklı bir kredi kartı veya yeni bir banka hesabı ekleyerek hizmet kesintisini önleyebilirsiniz.
+    **Not:** Ödeme yöntemini başka bir yönetici eklediyseniz bu yöntem için kredi kartı veya banka hesabı bilgilerini güncelleştiresiniz. Kredi kartının süresi dolmak üzereyse ve diğer yönetici kart bilgilerini güncelleştiremiyorsa **Ödeme yöntemi ekle**’yi seçip abonelik için farklı bir kredi kartı veya yeni bir banka hesabı ekleyerek hizmet kesintisini önleyebilirsiniz.
   
 3. **Ödeme yöntemi ayrıntıları** bölmesinde **Düzenle**’yi seçin.
 
