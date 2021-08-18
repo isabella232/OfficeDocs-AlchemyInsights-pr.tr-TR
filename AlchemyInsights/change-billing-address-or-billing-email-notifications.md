@@ -16,12 +16,12 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 2f1f907a23e0f65cf8c230c8cf27b671e681d92565fd83bb5d39ebf3c53ab9fd
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: c145a5366ef173dbf82521e91d5cf032a26e2e7fa09d8e0061ec03887a2a3124
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54504032"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897436"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Fatura adresini veya fatura e-posta bildirimlerini değiştirme
 
@@ -33,7 +33,7 @@ ms.locfileid: "54504032"
 
 3. Ödeme yöntemi **ayrıntıları sayfasında Düzenle'ye** **tıklayın.**
 
-4. Fatura adresinizi güncelleştirin ve ardından Bitti **kaydet'> tıklayın.**
+4. Fatura adresinizi güncelleştirin ve ardından Bitti Olarak **Kaydet'> tıklayın.**
 
 **Fatura bildirimlerinizin gönderildiği alternatif e-posta adresini değiştirme** 
 
@@ -45,4 +45,4 @@ ms.locfileid: "54504032"
 
 4. Alternatif **e-posta** kutusuna kullanmak istediğiniz alternatif e-posta adresini yazın ve Kaydet'e **tıklayın.**
 
-Adres ve bildirim değişiklikleri hakkında daha fazla bilgi için [bkz. İşletmeler](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)için fatura Microsoft 365 değiştirme .
+Adres ve bildirim değişiklikleri hakkında daha fazla bilgi için [bkz. İşletmeler](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)için Fatura Microsoft 365 değiştirme .

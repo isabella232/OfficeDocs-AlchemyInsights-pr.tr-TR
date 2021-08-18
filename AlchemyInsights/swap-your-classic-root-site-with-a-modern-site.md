@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e8501414498bf1937e98abaca32987e3276bb54e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940839"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316160"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Klasik kök sitenizi Modern siteyle değiştirme
 
@@ -28,8 +28,8 @@ Ortamınız Nisan 2019'dan önce ayarlanmışsa, Microsoft PowerShell kullanarak
     - Özgün siteyi arşivlerken bir sitenin konumunu başka bir siteyle değiştirmek için [Invoke-SPOSiteSwap'ı](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) kullanın. Hem Ekip Sitesi (bir gruba bağlı değil) hem de İletişim Sitesi için kullanılabilir. 
 
 - Yakında, sitenin içeriğini kullanmaya devam etmek ancak var olan siteyi bir iletişim sitesine dönüştürmenizi sağlayacak ek özellikler de yakında yayınlanacak. 
->[!Important]
->Bu özellikler aşamalı olarak tüm bunlara sahip olacak. Güncelleştirmeleri İleti Merkezi'nde denetlemeye devam edin. 
+
+**Önemli:** Bu özellikler aşamalı olarak tüm özelliklere sahip olacak. Güncelleştirmeleri İleti Merkezi'nde denetlemeye devam edin. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Site değiştirmeyle ilgili bilinen sorunlar
 

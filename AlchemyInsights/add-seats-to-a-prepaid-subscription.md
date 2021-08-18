@@ -15,12 +15,12 @@ ms.custom:
 - "663"
 - "1500007"
 ms.date: 04/21/2020
-ms.openlocfilehash: 2d270fa84f6135ffdb5a42c0838c519ac4963a9873e3d021fcfcebf6c409fac6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1f4666a45695450e01efd5356de50a38a4f6c7aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53935609"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316068"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Ön ödemeli aboneliğe kullanıcı ekleme
 
@@ -31,8 +31,7 @@ ms.locfileid: "53935609"
 3. Abonelik ayrıntıları sayfasındaki Lisanslar **bölümünde Daha fazla** lisans **ekle'yi seçin.**
 4. Daha fazla **lisans ekle bölmesinde Yeni** ve kullanılmamış bir ürün anahtarı **kullan'ı ve ardından** Sonraki'yi **seçin.**
 5. Ürün anahtarını girin, ardından Sonraki öğesini **seçin.**
-    > [!NOTE]
-    > Birden fazla ürün anahtarınız varsa Başka bir ürün anahtarı **ekle'yi seçerek** bunları girsiniz.
+    **Not:** Birden fazla ürün anahtarınız varsa Başka bir ürün anahtarı **ekle'yi seçerek** bunları girsiniz.
 6. Sipariş ayrıntılarınızı gözden geçirin ve ardından Kullan öğesini **seçin.**
 
-Daha fazla bilgi edinmek için [bkz. Ürün anahtarı kullanılarak ödemesi](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)yapılan aboneliğe lisans ekleme veya aboneliği uzatma.
+Daha fazla bilgi edinmek için [bkz. Ürün anahtarı kullanılarak ödemesi yapılan aboneliğe lisans ekleme veya aboneliği uzatma.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

@@ -17,12 +17,12 @@ ms.custom:
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: 0dcb9eae3241ae76850e9c5149b4c813b6967c70a431c3bea38fba1843967a95
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d9e65533910eae15c58eb6b0881bdc60ebf1f5bbfaf0880da90811cb95c820a9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53959517"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897332"
 ---
 # <a name="reactivate-your-subscription"></a>Aboneliğinizi yeniden etkinleştirme
 
@@ -33,7 +33,7 @@ Aboneliğinizin süresi dolduysa, Microsoft tarafından devre dışı bırakıld
 3. Bu **aboneliği yeniden etkinleştir bölmesinde,** açılan listeden bir ödeme yöntemi seçin veya Ödeme yöntemi ekle **öğesini seçin.**
 4. **Kaydet**'i seçin.
 
-Daha fazla bilgi edinmek için bkz. [Aboneliğinizi yeniden etkinleştirme](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Daha fazla bilgi edinmek için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Abonelik yenilemeyi yönetme**
 
@@ -45,4 +45,4 @@ Aylık veya yıllık faturalamayı yönetmek için **Yinelenen fatura** özelli�
 4. Yinelenen faturalama **ayarlarını düzenle bölmesinde Aç** , Aç'ı **seçin, ancak bir kez yenile 'yi** veya **Kapat'ı seçin.** 
 5. **Kaydet**'i seçin.
 
-Daha fazla bilgi için bkz. [Yinelenen faturalamayı kapatma veya açma](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Daha fazla bilgi için bkz. [Yinelenen faturalamayı kapatma veya açma](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

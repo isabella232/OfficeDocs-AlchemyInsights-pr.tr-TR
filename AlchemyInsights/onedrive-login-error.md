@@ -1,5 +1,5 @@
 ---
-title: OneDrive oturum açma hatası AADSTS50011
+title: OneDrive açma hatası AADSTS50011
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003820"
 - "6840"
-ms.openlocfilehash: 1f906f82e99c322ed953800d54fba5a073eacd10
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 80aafa2aee7213e1b77d274509a7eb9741c20b525ed97f473093ac8c6514f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112932"
 ---
-# <a name="onedrive-login-error-aadsts50011"></a>OneDrive oturum açma hatası AADSTS50011
+# <a name="onedrive-login-error-aadsts50011"></a>OneDrive açma hatası AADSTS50011
 
-"AADSTS50011: istekte belirtilen yanıt URL 'SI Yanıtla eşleşmez", OneDrive uygulamasında oturum açarken aşağıdakileri denetleyin:
+OneDrive uygulamasında oturum a açma sırasında "AADSTS50011: İstekte belirtilen yanıt URL'si yanıtla eş eş değil" hatasını alırsanız, şunları kontrol edin:
 
-OneDrive sürümünüzün sürümü 20.052. XXXX sürümüne eşit veya bundan büyük olmalıdır. XXXX. Sürümünüzü denetlemek için bildirim alanında mavi OneDrive simgesine tıklayın, **yardım & ayarları > > ayarlar** 'ı seçin.
+Dosya OneDrive 20.052.XXXX.XXXX sürümüne eşit veya daha büyük olmalıdır. Sürümünizi kontrol etmek için bildirim alanında bulunan mavi OneDrive simgesine tıklayın, Yardım ve **Hakkında'& Ayarlar > Ayarlar > seçin.**
 
-Ağınız **g.Live.com** ve **oneclient.SFX.MS** trafiğini engelleyebilir. Bu trafik engellenirse, OneDrive kendisini güncelleştiremez. Bu URL 'Lere erişiminiz olduğundan emin olmak için ağ yöneticinizle birlikte çalışın. [Bu uç noktalar](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) Microsoft 365 planlarını kullanan müşteriler için erişilebilir olmalıdır.
+Ağınız gelen ve kapatılacak **g.live.com** **oneclient.sfx.ms.** Bu trafik engellenirse, OneDrive güncelleştirenin. Bu URL'lere erişiminiz olduğundan emin olmak için ağ yöneticinizle birlikte çalışabilirsiniz. [Bu uç noktalar,](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) Microsoft 365 kullanan müşteriler için Microsoft 365 olmalıdır.
 
-OneDrive 'ın geçerli bir sürümünü el ile almanız gerekirse, adresini ziyaret edin [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .
+Bu sürümlerden güncel bir sürümünü el ile OneDrive, ziyaret [https://aka.ms/getonedrive](https://aka.ms/getonedrive) edin.

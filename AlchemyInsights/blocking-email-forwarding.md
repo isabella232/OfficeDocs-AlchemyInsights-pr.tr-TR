@@ -1,5 +1,5 @@
 ---
-title: 726 E-posta iletmeyi engelleme
+title: Dış otomatik e-posta iletmeyi engelleme veya engellemesini kaldırma
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059652"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897488"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>E-posta iletmeyi engelleme veya engelini kaldırma
+# <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Otomatik e-posta iletmeyi engelleme veya engelini kaldırma
 
 Belirli bir posta kutusunda e-posta iletmeyi etkinleştirmek veya devre dışı bırakmak için bkz. [E-posta iletmeyi yapılandırma.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Kiracı düzeyinde, dış iletme denetimi giden istenmeyen posta ilkesi kullanılarak yapılır. Giden istenmeyen posta filtresi ilkesine buradan veya [](https://protection.office.com/antispam) [Get-HostedOutboundSpamFilterPolicy komutunu kullanarak bakabilirsiniz.](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)
+Yöneticiler, giden istenmeyen posta ilkelerini kullanarak kuruluş için [dış iletmeyi kontrol ediyor olabilir.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) Microsoft 365 Defender portalında giden istenmeyen posta ilkelerini, <https://security.microsoft.com/antispam> Exchange Online PowerShell'de [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) cmdlet'ini kullanarak yönetirsiniz.
 
-Aşağıdaki hatayı alıyorsanız: **"550 5.7.520 Erişim reddedildi,** Organizasyonunız dış iletmeye izin vermiyor" , lütfen ilkenin Dış Otomatik iletmeyi etkinleştirmek üzere yapılandırıldığından emin olun.
+Aşağıdaki hatayı alırsanız: **"550 5.7.520 Erişim reddedildi,** Organizasyonunız dış iletmeye izin vermiyor" iletisini alırsanız, ilkenin dış otomatik iletili iletileri etkinleştirmek üzere yapılandırıldığından emin olun.
 
-**Not:** Dış Otomatik Iletme özelliğini varsayılan giden istenmeyen posta filtresi ilkeniz üzerinde devre dışı tutmanız ve yalnızca dış iletme ihtiyacı olan kullanıcılar için özel bir ilke oluşturarak bu ilkeyi etkinleştirmeniz önerilir. Dış e-posta [iletmeyi yapılandırma makalesinde daha fazla bilgi Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)
+**Not:** Varsayılan giden istenmeyen posta filtresi ilkeniz (otomatik dış iletme engellendi; iç otomatik iletme hala çalışıyor) için otomatik iletme kuralları ayarı için denetlenen varsayılan Otomatik **-** Sistem değerini öneririz.  Özel giden istenmeyen posta filtresi ilkeleri oluşturmalı ve Açık - Yönlendirme yalnızca dış otomatik **e-posta** iletmesi gereken kullanıcılar için etkinleştirilmiştir. Daha fazla bilgi için [bkz. Dış e-posta iletmeyi Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)

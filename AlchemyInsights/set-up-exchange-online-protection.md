@@ -1,5 +1,5 @@
 ---
-title: E-Exchange Online Protection
+title: Ayarlama Exchange Online Protection
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085896"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897816"
 ---
-# <a name="set-up-exchange-online-protection"></a>E-Exchange Online Protection
+# <a name="set-up-exchange-online-protection"></a>Ayarlama Exchange Online Protection
 
-Microsoft Exchange Online Koruma (EOP), bulut tabanlı bir e-posta filtreleme hizmetidir ve istenmeyen postalara ve kötü amaçlı yazılımlara karşı koruma sağlar ve bu hizmet, kurumlarınızı ileti ilkesi ihlallerinden korumaya yönelik özelliklerle sunar.
+Microsoft Exchange Online Koruma (EOP), bulut tabanlı bir e-posta filtreleme hizmetidir ve istenmeyen postalara, kötü amaçlı yazılıma ve kimlik e-postalarına karşı koruma sağlar ve bu hizmet kurum için ileti ilkesi ihlallerini önleme özellikleri içerir.
 
-[EOP Exchange Online Protection i](https://go.microsoft.com/fwlink/?linkid=2071067) ayarlamak için şirket içi posta kutuları, karma (şirket içi ve bulut karma) posta kutuları veya tüm bulut posta kutuları gibi organizasyona uygun üç dağıtım senaryosu arasından seçim yapmak için Exchange Online Protection kurulum kılavuzunu kullanın. Bu kılavuz, Güvenlik ve Uyumluluk Merkezi'nde EOP &'yi ayarlamak, kullanıcı lisanslarını gözden geçirmek, Microsoft 365 yönetim merkezi'te izinler atamak ve kuruluş kötü amaçlı yazılımdan koruma ve istenmeyen posta ilkelerini yapılandırmak için bilgi ve kaynaklar sağlar.
+[EOP Exchange Online Protection e](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) en uygun üç dağıtım senaryosunu seçerek EOP'yi ayarlamak için aşağıdaki kurulum kılavuzunu kullanın:
+
+- Tüm şirket içi posta kutuları.
+- Karma (şirket içi ve bulut posta kutularının karışımı)
+- Tüm bulut posta kutuları, kuruma uygun.
+
+Bu kılavuz, EOP'yi ayarlamak, kullanıcı lisanslarını gözden geçirmek, kullanıcı lisanslama izinlerini web'de atamak ve Microsoft 365 yönetim merkezi ilkeleri yapılandırmak için bilgi ve kaynaklar sağlar.

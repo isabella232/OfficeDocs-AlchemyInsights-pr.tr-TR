@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "441"
 - "1500017"
-ms.openlocfilehash: eaac309cda64aafa5c2d3f99d7761ee7f4faa75f1fa138a095615efe927e109b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bb372f31392d6a8875a6c1e0a1905bcffb0da016b61eaf5bc6dbb2bcbb561a45
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001996"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898712"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Aboneliği yeniden etkinleştirme
 
@@ -32,4 +32,4 @@ Aboneliğinizin süresi dolduysa, iptal edildiyse veya Microsoft tarafından dev
 3. Bu **aboneliği yeniden etkinleştir bölmesinde,** açılan listeden bir ödeme yöntemi seçin veya Ödeme yöntemi ekle **öğesini seçin.**
 4. **Kaydet**'i seçin.
 
-Daha fazla bilgi edinmek için bkz. [Aboneliğinizi yeniden etkinleştirme](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Daha fazla bilgi edinmek için bkz. [Aboneliğinizi yeniden etkinleştirme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

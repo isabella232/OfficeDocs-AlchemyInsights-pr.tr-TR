@@ -1,5 +1,5 @@
 ---
-title: 898 dış takvim paylaşım seçenekleri hakkında bilgi edinin
+title: 898 Dış Takvim Paylaşım Seçenekleri hakkında bilgi alın
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,19 +12,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 1512892d0712c9a00b4a105d95a39ddbff55333b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fe9bdc4a341017529460dacd349f00aec8b5626142ef6b164fc61ae2581d5584
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087696"
 ---
 # <a name="exchange-online-collaboration-options"></a>Exchange Online işbirliği seçenekleri
 
-- **Dış Takvim paylaşımına genel bir bakış**Için [Exchange Online 'da paylaşma](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx)konusuna bakın.
+- Dış takvim paylaşımı hakkında **genel bilgi için bkz.** Takvim [paylaşımı Exchange Online.](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx)
 
-- **Başka bir Office 365 kuruluşundaki takvimleri paylaşmak**Için [Exchange Online 'da kuruluş ilişkilerine](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx)bakın.
+- Başka **bir kuruluşla takvim paylaşmak Office 365 için** [bkz.](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx)Exchange Online.
 
-- **Kullanıcılarınızın kendi takvimlerini kuruluşunuzun dışındaki kişilerle nasıl paylaştığınızı denetlemek**Için [Exchange Online 'da ilkeleri paylaşma](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx)konusuna bakın.
+- Kullanıcılarının **takvimlerini kuruluş dışındaki kullanıcılarla nasıl paylaştıklarını kontrol etmek** için [bkz.](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx)Exchange Online.
 
-- Takvim paylaşımı 'nda yapılan **geliştirmeleri** görmek Için, [Microsoft 365 'da Takvim paylaşımı](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4)konusuna bakın.
+- Takvim **paylaşımında yapılan** iyileştirmeleri görmek için bkz. Takvim [paylaşımı için bkz. Microsoft 365.](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4)

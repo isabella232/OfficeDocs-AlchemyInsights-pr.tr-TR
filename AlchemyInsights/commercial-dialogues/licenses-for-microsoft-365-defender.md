@@ -12,30 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ee0b821f8b02df8066013975e1a9cebf6a0a2dd7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53968001"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315706"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>Lisanslar Microsoft 365 Defender
 
-Aşağıdaki lisanslar, güvenlik Microsoft 365 Defender özelliklerine Microsoft 365 erişimi sağlar:
+Aşağıdaki lisanslar, güvenlik merkezinde Microsoft 365 Defender özelliklerine Microsoft 365 sağlar:
 
 - Microsoft 365 E5 veya A5
-- Microsoft 365 E5 Güvenlik veya A5 Güvenliği
+- Microsoft 365 E5 Güvenlik A5 Güvenliği
 - Windows 10 Enterprise E5 veya A5
 - Enterprise Mobility + Security (EMS) E5 veya A5
-- Office 365 E5 A5
+- Office 365 E5 veya A5
 - Uç Nokta için Microsoft Defender
 - Kimlik için Microsoft Defender
 - Microsoft Cloud App Security
 - Office 365 için Microsoft Defender (Plan 2)
 
-    > [!NOTE]
-    > Şu anda, diğer e-Office 365 deneme lisansları posta hizmetine Microsoft 365 Defender.
+    **Not:** Şu anda, bazı posta Office 365 deneme lisansları posta hizmetine Microsoft 365 Defender.
 
 Daha fazla bilgi için Planlar [karşılaştırması Microsoft 365 Kurumsal bakın.](https://go.microsoft.com/fwlink/?linkid=2143458)
 
-Henüz bir lisansınız yok mu? [Microsoft 365 aboneliği Microsoft 365 satın alın.](https://go.microsoft.com/fwlink/?linkid=2143625)
+Henüz bir lisansınız yok mu? [Microsoft 365 aboneliğini deneyin veya satın alın.](https://go.microsoft.com/fwlink/?linkid=2143625)
