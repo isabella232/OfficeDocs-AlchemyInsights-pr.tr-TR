@@ -14,23 +14,19 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: aca0371dad9ba43fa21b0df8e50f1b8ee536528af90d6bda401995c6e5796be4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4938b889461f85ad32eae125151c2cc94879cd8b
+ms.sourcegitcommit: 02562a6796d58991c7238ec81053c23633b3f823
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056510"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58522374"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>E-posta kutusu bulunamadı hatası mı Web üzerinde Outlook?
 
-Web üzerinde Outlook kullanıyorsanız ve hata için bir Posta Kutusu bulunamadı iletisini alırsanız, **Web üzerinde Outlook'a** bağlanmak için kullanılan hesabın Exchange Online lisansı yoktur ve dolayısıyla hesapla ilişkili posta kutusu yoktur. Yöneticiniz aşağıdaki adımları kullanarak hesabınıza lisans atayabilirsiniz:
+Bir Outlook Web App (OWA) hatası alırsanız: "Kullanıcı için bir posta kutusu bulunamadı.", oturum açan kullanıcının Exchange Onlince Lisansı ve SP'si yok, bu kullanıcı hesabıyla ilişkilendirilmiş hiçbir Exchange Online posta kutusu yok demektir. 
 
-1. Kullanıcılar [Microsoft 365 yönetim merkezi](https://portal.office.com/adminportal/home#/homepage) altındaki Etkin **kullanıcılar'a** **gidin** ve hatayı gören kullanıcıyı seçin.
+Kuruluş yöneticisi aşağıdaki adımları Exchange kullanıcıya kuruluş aracılığıyla Microsoft 365 yönetim merkezi lisansı atayabilirsiniz:
 
-2. Açılan kullanıcı sayfasında Lisanslar ve  Uygulamalar bölümüne gidin, uygun  Konum değerini seçin ve Konum değerini içeren bir lisans at Exchange Online (ayrıntılarını görmek için lisansı genişletin). Bitirdikten sonra Değişiklikleri kaydet **'e tıklayın.**
-
-Bazı durumlarda, lisans bir kullanıcı hesabına zaten atanmışsa lisansı kaldırmak ve yeniden atamak sorunu çözmenize ve sistem için uygun şekilde sağlanmasına yardımcı olur: 
-
-- M365 aboneliklerinizi (varsa Exchange Online diğer aboneliklerinizi güncel olup olmadığını ve yakın zamanda süresinin dolmadı olup olmadığını kontrol edin.
-
-Aboneliğinizin süresinin dolmay olduğundan ve kullanıcı hesabına geçerli bir lisans atanmalarından emin olduktan sonra, lisansın sağlanması 24 saate kadar sürebilir; dolayısıyla sorununuzu çözmeyi beklemeniz gerekir. Daha fazla bilgi için [bkz. Lisans atama ve yönetme.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)
+1. Etkin [kullanıcılar'a gidin,](https://portal.office.com/adminportal/home#/users)kullanıcısı seçin ve Ürün **Lisansları Düzenleme'yi**  >  **seçin.** 
+1. Gerekli konumu ayarlayın.
+1. Yeni hizmet planı olan bir Exchange Online attayabilirsiniz.
