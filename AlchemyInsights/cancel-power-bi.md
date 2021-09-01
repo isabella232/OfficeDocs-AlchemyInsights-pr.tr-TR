@@ -15,18 +15,19 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 29d543859717e52bd625395429a49b785b35d3ff
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318970"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843434"
 ---
 # <a name="cancel-power-bi"></a>Aboneliği iptal Power BI
 
-Power BI, e-Microsoft 365 yönetim merkezi.
+Power BI içinde iptal Microsoft 365 yönetim merkezi.
 
-1. Yönetim merkezinde Faturalama Ürünleriniz **> [gidin.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Yönetim merkezinde Faturalar ve **Ürünleriniz > [gidin.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Ürünler **sekmesinde,** iptal etmek istediğiniz aboneliği bulun. Üç noktayı (diğer eylemler) ve ardından Aboneliği iptal **et'i seçin.**
 3. Aboneliği **iptal et** bölmesinde iptal etme nedenini seçin. İsteğe bağlı olarak, herhangi bir geri bildirim gönderin.
 4. **Kaydet**'i seçin.
