@@ -3,7 +3,6 @@ title: Fatura ve ödeme bilgileri
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,22 +15,23 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 8790752b10012d891b6b23078986ef589cf4d650
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: b28778c821b4440636a3edea450920306ee9f6a0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321983"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845342"
 ---
 # <a name="invoice-and-payment-information"></a>Fatura ve ödeme bilgileri
 
 **Ödeme**
 
-Doğrudan Microsoft'tan Microsoft 365 aboneliği satın alırken kredi kartıyla veya banka kartıyla ödeme alabilirsiniz.  Bazı ülkelerde/bölgelerde, banka hesabıyla da ödemeebilirsiniz.  Bu ödeme yöntemlerini yönetme ve sorun giderme hakkında, Ödeme yöntemlerini yönetme ['den öğrenebilirsiniz.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Bu, kredi kartınız reddedilene ve ödeme bilgilerini güncelleştiren sorunları da içerir.
+Doğrudan Microsoft'tan Microsoft 365 aboneliği satın alırken kredi kartıyla veya banka kartıyla ödeme alabilirsiniz.  Bazı ülkelerde/bölgelerde, banka hesabıyla da ödemeebilirsiniz.  Bu ödeme yöntemlerini yönetme ile ödeme yöntemlerini yönetme ve sorun giderme [hakkında bilgi edinmek için: Ödeme yöntemlerini yönetebilirsiniz.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Bu, kredi kartınız redded olduğunda ve ödeme bilgilerini güncelleştirerek ilgili sorunları çözmeyi içerir.
 
 **Fatura/Fatura**
 
-Faturalarınızı Faturalar ve ödeme sayfasında **bulabilir**  >  [& indirebilirsiniz.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
+Faturalarınızı Faturalar ve ödeme sayfasında **bulabilir**  >  [& bulabilirsiniz.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
 
 **Not:** Fatura görünmüyorsa tarih aralığı filtresini ayarlamanız gerekiyor olabilir.  Varsayılan olarak son 3 aylık faturalar gösterilir.
 
