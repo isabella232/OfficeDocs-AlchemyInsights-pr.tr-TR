@@ -1,26 +1,29 @@
 ---
-title: Lisans eksik veya yönetici merkezinden kaybolur
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Lisans eksik veya yönetim merkezinden kayboluyor
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9003038"
 - "5800"
-ms.openlocfilehash: 90c6a9bf73148fbd91573972f8d64f5f63af5164
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.date: 08/05/2021
+ms.openlocfilehash: b2e9290806465bf0d1f862ed4e91a9bfd6a84b88
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708104"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844550"
 ---
-# <a name="license-missing-or-disappears-from-the-admin-center"></a>Lisans eksik veya yönetici merkezinden kaybolur
+# <a name="license-missing-or-disappears-from-the-admin-center"></a>Lisans eksik veya yönetim merkezinden kayboluyor
 
+Lisanslarınız kaybolduysa aboneliğinizin süresinin dolmadığından emin olun. Son kullanma tarihini kontrol etmek için **Faturalama** > [Ürünleriniz](https://go.microsoft.com/fwlink/p/?linkid=842054) bölümüne gidin.
 
-Lisanslarınız kaybolduysa, aboneliğinizin süresinin dolmadığını doğrulayın. Son kullanma tarihini kontrol **Billing**etmek   >   **[için, Ürünlerinizi](https://go.microsoft.com/fwlink/p/?linkid=842054)** Faturalandırma'ya gidin.  
-
-Görünüme bağlı olarak, son kullanma tarihi **Date** etiketli en sağ sütunda veya **sona eren**abonelik ayrıntılarının **Faturalandırma bölümünde** görünür.
+Son kullanma tarihi, **Abonelik durumu** sütununda görünür.
