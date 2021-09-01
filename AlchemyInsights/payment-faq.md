@@ -3,7 +3,6 @@ title: Ödemeyle ilgili SSS
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +13,20 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: d14fcc47898e068e505e30a18195ce812e0f3a3c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895727"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841921"
 ---
 # <a name="payment-faq"></a>Ödemeyle ilgili SSS
 
 Ödeme gün içinde **Microsoft 365 yönetim merkezi.**
 
-- Abonelik ödeme **> [atamak veya değiştirmek](https://go.microsoft.com/fwlink/p/?linkid=842054)** için Ürünleriniz için Faturalar'a gidin.
-- Ödeme yöntemleri **[eklemek>, güncelleştirmek,](https://go.microsoft.com/fwlink/p/?linkid=2018806)** değiştirmek veya silmek için Fatura ve Ödeme yöntemleri'ne gidin.
+- Abonelik ödeme **> [atamak veya değiştirmek](https://go.microsoft.com/fwlink/p/?linkid=842054)** için Ürünleriniz için Fatura yöntemi'ne gidin.
+- Ödeme yöntemleri **[>, güncelleştirmek, değiştirmek](https://go.microsoft.com/fwlink/p/?linkid=2018806)** veya silmek için Ödeme yöntemleri'ne gidin.
 
 - **Ödeme Yöntemleri** - Kredi kartı veya banka hesabı ile ödeme yapıyorsanız, fatura oluşturulduktan sonra birkaç gün içinde aboneliklerinizle ilişkili ödeme yöntemi aracılığıyla ücret tahsil edilir. Ödeme başarısız olursa, ödeme yönteminizi güncelleştirin. Daha fazla bilgi için bkz. [Ödeme yöntemlerini yönetme](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 

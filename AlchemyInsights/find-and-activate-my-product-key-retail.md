@@ -14,18 +14,19 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: 56bd131a3bbbd42bd6cd4ccf53f18d63ea2408b2
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 08/11/2021
+ms.openlocfilehash: 36e351d95d4a7c1387bf1385291b2977bf3768f7
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58451942"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836809"
 ---
 # <a name="retail-prepaid-card"></a>Perakende ön ödemeli kart
 
 Satış mağazasından Microsoft 365 İş Standart satın aldıysanız, aşağıdaki adımları kullanarak son kullanma tarihini uzatin veya var olan aboneliğe lisans ekleyin.
 
-**Not:** Ürün anahtarını kullanarak son kullanma tarihini uzatmak veya mevcut Microsoft 365 İş Standart aboneliğinize lisans eklemek için, aynı abonelik için yeni ve kullanılmamış bir Microsoft 365 gerekir. İlk ürün Microsoft 365 anahtarınızı girmek işe yaramadı, çünkü daha önce kullanılmış bir anahtar yeniden kullanılamaz.
+**Not:** Ürün anahtarını kullanarak son kullanma tarihini uzatmak veya mevcut Microsoft 365 İş Standart aboneliğinize lisans eklemek için, aynı aboneliğin yeni ve kullanılmamış bir Microsoft 365 gerekir. İlk ürün Microsoft 365 gir kullanılamaz, çünkü kullanılmış bir anahtar yeniden kullanılamaz.
 
 1. Yönetim merkezinde Ürünlerinizi Faturalandırma   >  **[sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054)** gidin.
 2. Süresini uzatmak veya lisans eklemek istediğiniz aboneliği bulun. Bitiş [tarihini uzat'ı seçin](https://go.microsoft.com/fwlink/p/?linkid=842054) veya daha fazla lisans [ekleyin.](https://go.microsoft.com/fwlink/p/?linkid=842054)

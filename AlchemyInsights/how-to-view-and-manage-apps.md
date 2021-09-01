@@ -4,7 +4,6 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_subscriptions
 - "9000561"
 - "2420"
-ms.openlocfilehash: 51592209db0f15be26b1d7edea74e665ec86f3cb
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 07/30/2021
+ms.openlocfilehash: 50f5a100fc8fe2b5ed7e4e82d97945b7feee3ac7
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58451798"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842065"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Uygulamaları görüntüleme ve yönetme
 
-Uygulamalarınızı aynı görünümde Microsoft 365 yönetim merkezi.
+Uygulamalarınızı tek bir Microsoft 365 yönetim merkezi.
 
 1. Yönetim merkezinde Ürünlerinizi Faturalandırma   >  [sayfasına](https://go.microsoft.com/fwlink/p/?linkid=842054) gidin.
 2. Ürünler **sekmesinde,** ekranı aşağı kaydırarak Uygulamalar **bölümüne** gidin.

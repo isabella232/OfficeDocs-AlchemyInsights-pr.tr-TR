@@ -3,7 +3,6 @@ title: Fatura adresini veya fatura e-posta bildirimlerini değiştirme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,12 +15,13 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 398f4409429f33c0e1a9e7481766d014db0f092c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 68b3df057f44c9f8927ac4a3d58cbd427cf97756
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58332501"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842029"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Fatura adresini veya fatura e-posta bildirimlerini değiştirme
 
@@ -45,4 +45,4 @@ ms.locfileid: "58332501"
 
 4. Alternatif **e-posta** kutusuna kullanmak istediğiniz alternatif e-posta adresini yazın ve Kaydet'e **tıklayın.**
 
-Adres ve bildirim değişiklikleri hakkında daha fazla bilgi için [bkz. İşletmeler](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)için Fatura Microsoft 365 değiştirme .
+Adres ve bildirim değişiklikleri hakkında daha fazla bilgi için [bkz. İşletmeler için](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)Fatura Microsoft 365 değiştirme .
