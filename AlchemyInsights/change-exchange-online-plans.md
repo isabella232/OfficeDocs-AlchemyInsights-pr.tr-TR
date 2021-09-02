@@ -1,31 +1,32 @@
 ---
 title: Exchange Online planlarını değiştirme
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002450"
 - "4766"
-ms.openlocfilehash: c83fa35f948456d0ee2a53621e9b4e7ad63b84f2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.date: 08/10/2021
+ms.openlocfilehash: 80ff73a7e70188d030ead9c4aacf92831c9a1888
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706883"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841993"
 ---
 # <a name="change-exchange-online-plans"></a>Exchange Online planlarını değiştirme
 
-Yöneticilerin planlar arasında el ile geçiş yapması gerekir. Tüm adımlar için bkz. [İş için Microsoft 365 planlarını el ile değiştirme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
+Yöneticilerin Microsoft 365 yönetim merkezinde planları el ile değiştirmesi gerekir. Tüm adımlar için [Planları el ile değiştirme](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually) makalesine bakın.
 
-1. Yeni abonelik planını satın alın. Microsoft 365 Yönetim Merkezi’nde **Faturalama > [Hizmetleri Satın Al](https://go.microsoft.com/fwlink/p/?linkid=868433)** öğesine gidin. Exchange planlarını bulmanın en kolay yolu Arama kutusunu kullanmaktır.
-
-2. Yeni aboneliğinizi ve lisanslarınızı denetleyin. Microsoft 365 Yönetim Merkezi’nde **Faturalama > [Abonelikler](https://go.microsoft.com/fwlink/p/?linkid=842054)** öğesine gidin. Yeni abonelik listelenmiyorsa veya etkin değilse durumu [burada](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active) denetleyin.
-
-3. Lisansları kullanıcılara yeniden atayın. Microsoft 365 Yönetim Merkezi’nde **Kullanıcılar > [Etkin kullanıcılar](https://go.microsoft.com/fwlink/p/?linkid=834822)** öğesine gidin ve lisansları atayın.
-
-4. Artık ihtiyacınız olmayan [abonelikleri iptal edin veya lisansları kaldırın](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#step-5-cancel-subscriptions-or-remove-licenses-that-you-no-longer-need-optional).
+1. **Yeni abonelik planını satın alın.** **Faturalama** > [Hizmet Satın Alın](https://go.microsoft.com/fwlink/p/?linkid=868433) sayfasına gidin ve yeni aboneliği satın alın.
+2. **Yeni aboneliğinizi ve lisanslarınızı kontrol edin.** **Faturalama** > [Ürünleriniz](https://go.microsoft.com/fwlink/p/?linkid=842054) sayfasına gidin ve yeni aboneliğin listelendiği ve doğru lisans sayısına sahip olduğunu doğrulayın. 
+3. **Lisansları kullanıcılara yeniden atayın.** **Kullanıcılar** > [Etkin kullanıcılar](https://go.microsoft.com/fwlink/p/?linkid=834822) sayfasına gidin ve lisansları atayın.
+4. Artık ihtiyacınız olmayan [aboneliğinizi iptal edin](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) veya [lisansları kaldırın](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
