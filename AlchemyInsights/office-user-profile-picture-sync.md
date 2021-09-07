@@ -9,33 +9,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 67d041da543dc1ac3668190faacefe4207d6c8eb30af4c19a5ff0833a3b46538
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea00bfb368cca514c2b4732667cfb55509f9a3f5
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985657"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923754"
 ---
 # <a name="sync-a-users-profile-picture"></a>Kullanıcının profil resmini eşitleme
 
-Office.com'dan veya bilgisayarınızda ya da telefonunuzun tarayıcısında Microsoft uygulamalarını kullanırken, Microsoft 365'de profil fotoğrafını ekleyebilir veya değiştirebilirsiniz. Fotoğrafınız, fotoğraf albümünde profil fotoğrafı dairesinin göründüğü her Microsoft 365.
-
-Microsoft 365 İş'e profil Microsoft 365 için:
-
-1. Kullanmak istediğiniz bir fotoğrafı bulun ve bu fotoğrafı bilgisayarınıza, OneDrive veya başka bir konuma depolarsınız.
-
-2. office.com'Microsoft 365 iş veya okul [hesabınızla oturum office.com.](https://www.office.com)
-
-3. Sayfanın sağ üst köşesindeki, baş harflerinizi veya bir kişi simgesi gösteren daireyi seçin.
-
-4. Hesaplarım bölmesinde baş harflerinizi ya da bir kişi simgesi gösteren daireyi seçin. Görüntülenen açılır pencerede fotoğrafnızı değiştirebilirsiniz.
-
-**Not:** Bir kullanıcı profil resmi diğer Microsoft SharePoint göre farklı görünüyorsa, kullanıcının şu adımları tamamlamalarını bekleyin:
-
-1. Özel (InPrivate/incognito) bir tarayıcı oturumu açın.
-1. Microsoft Office 365 [.](https://www.office.com)
-1. Metin SharePoint seçin.
-1. Fotoğraf güncelleştirilmez bir siteye veya sayfaya ya da kullanıcının Kişiler Web Bölümü'ne dahil olduğu bir sayfaya gidin.
+SharePoint Online profil resminiz sitelerde veya kişiler web SharePoint'de görüntülenmez. Profil resminizi görüntülenebilir yapmak için, [SharePoint Online'da profil resminizin görüntülenme SharePoint izleyin.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/profile-picture-not-showing)
 
 Daha fazla bilgi için [bkz. Microsoft 365.](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
 

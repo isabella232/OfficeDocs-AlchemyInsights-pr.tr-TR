@@ -1,5 +1,5 @@
 ---
-title: Microsoft Viva Bağlantılar Kullanılabilirlik
+title: Viva Connections masaüstü uygulamasını ayarlama
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c00d30e32914d9fb35d3c8e563aababa9e11093
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54000484"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923718"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Microsoft Viva Bağlantılar Kullanılabilirlik
+# <a name="set-up-the-viva-connections-desktop-app"></a>Viva Connections masaüstü uygulamasını ayarlama
 
-Microsoft Viva Bağlantılar, 2021'in ilk yarısında masaüstü için ve 2021 yaz aylarında mobil cihazlar için de kullanılabilir olacak. Ek özellikler 2022 yılında tüm yıl boyunca tüm yeni özelliklere sahip olacak.
+Masaüstü için Viva Connections için iki ana Teams vardır. 
 
-Daha fazla bilgi için bkz. Microsoft Viva Bağlantılar herkesin meşgul ve bilgi [sahibi olarak kalmasını nasıl sağlar.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)
+- Kiracı SharePoint Viva Connections'ın tüm avantajlarından yararlan olması için uygulama çubuğunun etkinleştirilmesi ve etkinleştirilmesi gerekir. Giriş sitesini giriş sayfası giriş deneyimi olarak Teams. 
+- Viva Connections'ın ilk sürümü, PowerShell kullanılarak Microsoft indirme merkezi üzerinden sağ yüklenebilir (SharePoint [PowerShell'in en güncel sürümünü kullanın).](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps) Viva Connections daha sonra yönetim merkezinde uygulama Teams karşıya yüklenen. PowerShell betiği 31 Mart 2021'den bu yana sağlanmaktadır. Resmi Microsoft İndirme Merkezi'nden Viva Connections [Masaüstü'nü indirin.](https://www.microsoft.com/download/confirmation.aspx?id=102888) 
+
+Daha fazla bilgi için [bkz. PowerShell'e genel Microsoft Teams için Viva](https://docs.microsoft.com/SharePoint/viva-connections) [Microsoft Teams ekleme.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)
