@@ -1,5 +1,5 @@
 ---
-title: 365 Office 365 bilgisayarlarda Windows etkinleştirme
+title: Windows 365 bilgisayarlarında Office 365 uygulamalarını etkinleştirme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: ecbd34d10ca079cfd4a7c3cd0511e9101b946511
-ms.sourcegitcommit: faeffebb79a18b9256b3c518840842879e22c00e
-ms.translationtype: MT
+ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58792949"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923538"
 ---
-# <a name="activating-office-365-applications-on-windows-365-pcs"></a>365 Office 365 bilgisayarlarda Windows etkinleştirme
+# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Windows 365 bilgisayarlarında Office 365 uygulamalarını etkinleştirme
 
-Windows 365 bilgisayar görüntüleri, Office 365 uygulamalarından herhangi birini ilk kez a açmada etkinleştirilen Office uygulamalarının yüklü kopyalarını içerir.
+**Not**: Bu sorun Windows 365 Enterprise lisanslarına sahip kullanıcılar için geçerli değildir.
 
-Etkinleştirme işlemi sırasında, Windows 365 İş lisanslı bir kullanıcı aşağıdaki hatayla karşılaş olabilir:
+Windows 365 bilgisayar görüntüleri Office 365 uygulamalarının yüklü kopyalarını içerir ve bunlar, herhangi bir Office uygulaması ilk kez açıldığında etkinleştirilir.
+
+Windows 365 Business lisansına sahip bir kullanıcı, etkinleştirme işlemi sırasında aşağıdaki hatayla karşılaşabilir:
 
 "Hesap Sorunu
 
-Hesapta bulduğumuz ürünler, paylaşılan bilgisayar senaryolarında Office'i etkinleştirmek için kullanılamaz. Hata kodu kodu 0x80004005"
+Hesabınızda bulduğumuz ürünler, paylaşılan bilgisayar senaryolarında Office'i etkinleştirmek için kullanılamaz Hata kodu 0x80004005"
 
-Bu sorunu çözmek için, etkilenen kullanıcıdan aşağıdaki adımları tamamlamalarını sorun: 
+Bu sorunu çözmek için etkilenen kullanıcıdan aşağıdaki adımları tamamlamasını isteyin: 
 
-1. Bulut bilgisayarınızdan Office uygulamaları kaldırın.
-1. Office.com adresine gidin ve Yükleme'yi Office.
+1. Bulut bilgisayarından mevcut Office uygulamalarını kaldırın.
+1. Office.com’a gidin ve Office’i yükleme seçeneğini belirtin.
 
-    Office etkinleştirme başarılı bir şekilde tamamlanır.
+    Office etkinleştirmesi başarılı bir şekilde tamamlanır.
