@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: 96b6ed46dabe665b51cc06d480e6ab9096229558
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 73198c74b5c4a250a3f3e74d35dde7331d2085d0
+ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314052"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327798"
 ---
 # <a name="add-a-user"></a>Kullanıcı ekleme
 
@@ -27,6 +27,6 @@ ms.locfileid: "58314052"
 2. 
             **Kullanıcı ekleme** seçeneğine tıklayın.
 
-3. Kullanıcı bilgileri, pÜrün lisansları, isteğe bağlı roller ve profil bilgileri eklemek için sihirbazı izleyin.
+3. Kullanıcı bilgileri, Ürün lisansları, isteğe bağlı roller ve profil bilgileri eklemek için sihirbazı izleyin.
 
 Daha fazla bilgi edinmek için bkz. [Kullanıcıları tek tek veya toplu olarak ekleme](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
