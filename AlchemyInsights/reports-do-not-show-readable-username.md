@@ -1,5 +1,5 @@
 ---
-title: Raporlarda Microsoft 365 yönetim merkezi kullanıcı adı okunamaz durumda değil
+title: Microsoft 365 yönetim merkezinde raporlar okunur bir kullanıcı adı göstermiyor
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,20 +15,20 @@ ms.custom:
 - "13810"
 - "13812"
 - "9008619"
-ms.openlocfilehash: 16aa4f052c934421423c73244f03a20aa38e4785
-ms.sourcegitcommit: 76c61dec041b93d0039764fae38107108da324aa
-ms.translationtype: MT
+ms.openlocfilehash: ff8eac6487ef544277c5ce2c0c0b7068c9d400ca
+ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2021
-ms.locfileid: "59316354"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327834"
 ---
-# <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Raporlarda Microsoft 365 yönetim merkezi kullanıcı adı okunamaz durumda değil
+# <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Microsoft 365 yönetim merkezinde raporlar okunur bir kullanıcı adı göstermiyor
 
-E-Microsoft 365 yönetim merkezi raporlar kullanıcı adlarını değil, bunun yerine B2BC6C15BB9FCDEA71E5CD302D228CC8 gibi alfa sayısal değerleri gösterir.
+Microsoft 365 yönetim merkezinde raporlar kullanıcı adlarını değil, bunun yerine B2BC6C15BB9FCDEA71E5CD302D228CC8 gibi alfanümerik değerler gösteriyor.
 
-Bu beklenen bir davranıştır ve İleti Merkezi'nde (MC275344, 3 Ağu 2021) yayımlanmıştır. 
+Bu beklenen bir davranıştır ve İleti Merkezi'nde iletilmiştir (MC275344, 3 Ağustos 2021’de yayımlandı). 
 
-Genel yöneticiler, kiracıları için bu değişikliği geri döndürebilir ve kuruluş gizlilik uygulamaları izin verdiyse tanımlanabilecek kullanıcı bilgilerini gösterebilir. Kiracının değişikliğini geri dönmek için:
+Genel yöneticiler, kiracıları için bu değişikliği geri alabilir ve kuruluş gizlilik uygulamaları izin veriyorsa tanımlanabilecek kullanıcı bilgilerini gösterebilir. Kiracı değişikliğini geri almak için:
 
-1. Yönetim merkezinde Kuruluş ayarları **hizmetleri'Ayarlar**  >  **gidin**  >  [**ve**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services)Raporlar'ı **seçin.** 
-1. Kullanıcı **bilgilerini nasıl göster öğesinin altında Raporlarda** **tanınmaya neden olan kullanıcı** bilgilerini göster öğesini seçin ve raporu yeniden çalıştırın.
+1. Yönetim merkezinde, **Ayarlar** > **Kuruluş ayarları** > [**Hizmetler**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services ) ve **Raporlar**’a gidin. 
+1. **Kullanıcı bilgilerini gösterme** öğesinin altında **Raporlarda tanınabilir kullanıcı bilgilerini göster** öğesini seçin ve raporu yeniden çalıştırın.
