@@ -12,27 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 2e5f66b813d275bf6c799d54dd13f55a08a909d78aa24fac56f54caf8a0f4f58
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4003faac9294725283786fd865217fdc7fcdcef
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060876"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446675"
 ---
 # <a name="set-up-insider-risk-management"></a>İçeriden risk yönetimi ayarlama
 
-İçeriden risk yönetimine erişmek ve bunu kullanmak için kuruluşunuzda aşağıdaki aboneliklerden biri **olmalıdır**:
+İçeriden risk yönetimine erişmek ve bunu kullanmak için kuruluşunuzda aşağıdaki aboneliklerden biri olmalıdır:
 
-- **Microsoft 365 E5** aboneliği.
+- Microsoft 365 G5 aboneliği (ücretli veya deneme sürümü)
+- Microsoft 365 G3 + Microsoft 365 G5 Uyumluluk eklentiniz
+- Microsoft 365 G3 + Microsoft 365 G5 Insider Risk Management eklentiniz
+- Office 365 E3 + Enterprise Mobil Kullanım ve Güvenlik E3 + Microsoft 365 E5 Uyumluluk eklenti
 
-- Microsoft E5 uyumluluk etkinlentisi içeren **Microsoft 365 E3** aboneliği.
+Mevcut bir Microsoft 365 E5 planınız yoksa ve Insider risk yönetimini denemek için mevcut aboneliğinize Microsoft 365 ekleyebilir veya Microsoft 365 Kurumsal'in deneme sürümüne kaydolabilirsiniz.
 
-Mevcut bir **Microsoft 365 E5** planınız yoksa ve şirket içi risk yönetimini denemek istiyorsanız, mevcut aboneliğinize Microsoft 365’i ekleyebilir ya da Microsoft 365 Kurumsal E5’in deneme sürümüne Kaydolabilirsiniz.
+**İpuçları:**
 
-> [!İPUÇLARI]
-- > “Veri Sızıntıları” Şablonunu Kullanma: En az bir DLP ilkesini yapılandırdığınızdan emin olun.
-- > Yönetici Görmüyor Uyarıları: Kullanıcının şu gruplardan birine atandığından emin olun:
-    - >**İçeriden Risk Yönetimi Analistleri**
-    - >**İçeriden Risk Yönetimi Araştırmacıları**
+- Veri Sızıntıları şablonunu kullanarak en az bir Veri Kaybı Önleme (DLP) ilkesi yapılandırıldığından emin olun. Ancak, yapılandırılmış bir DLP ilkesi gerektirmeyen yeni bir tetikleyici seçeneği vardır.
 
-İçeriden risk ilkelerinin kuruluşunuzdaki riskleri yönetmede size nasıl yardımcı olabileceği hakkında daha fazla bilgi için [Microsoft 365’te içeriden risk yönetimi](https://go.microsoft.com/fwlink/?linkid=2123907) bölümüne bakın.
+- Genel yöneticilerin varsayılan olarak Insider Risk Yönetimi portalına erişimi olmaz. Bu rollere Insider Risk Yönetimi rollerinden biri atanmaları gerekir.
+
+- Yönetici uyarıları görmüyorsa, kullanıcının aşağıdaki gruplardan biri için atandığından emin olun:
+
+    İçeriden Risk Yönetimi Analistleri
+
+    İçeriden Risk Yönetimi Araştırmacıları
+
+Insider risk güvenliklerinin, kuruluşta riski yönetmenize nasıl yardımcı olduğu hakkında daha fazla bilgi için bkz. Kuruluşta [Insider risk yönetimi Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management)

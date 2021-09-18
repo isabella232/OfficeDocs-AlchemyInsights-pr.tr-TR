@@ -13,12 +13,12 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 1b0beb89eaf8a4105659a1faa7cc723174a73940ef46bd2355bdddfee7b94adb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c0996e0cc923c13b7de3752ac6534026e8627c51
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030814"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446711"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP'ye özel bir tür gerekiyor olabilir
 
@@ -26,18 +26,20 @@ ms.locfileid: "54030814"
 
 **DLP için özel bir bilgi türü gerekli olabilir**
 
-Veri kaybını önleme (DLP) ilkesiyle, kuruluşta hassas verileri tanımlayabilir ve koruyabilirsiniz. Bazı senaryolarda, kendi özel hassas  bilgi türlerinizi oluşturmak ve kurum verilerinizi korumak için ihtiyacınız olabilir.
+Veri kaybını önleme (DLP) ilkesiyle, kuruluşta hassas verileri tanımlayabilir ve koruyabilirsiniz. Bazı senaryolarda, kendi özel hassas bilgi türlerinizi oluşturmak ve kurum verilerinizi korumak için ihtiyacınız olabilir. Daha fazla bilgi için [bkz. Hassas bilgi türleri ve Hassas](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about) bilgi türü varlık [tanımları hakkında bilgi.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-Örneğin, kuruma özgü çalışan kimliklerini veya diğer verileri belirli bir biçimde tanımlaması ve korumaları gerekiyor olabilir. Öyleyse, daha fazla bilgi için aşağıdaki makalelere bakın.
-  
- **Yerleşik hassas bilgi türünü özelleştirme**
-  
-Yerleşik bir hassas bilgi türü yalnızca birkaç düzeltmeyle gereksinimlerinizi karşılayacaksa, yerleşik bir hassas bilgi [türünü özelleştirebilirsiniz.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type) Örneğin, anahtar sözcükler ekleyebilir veya kaldırabilir ya da tarih veya adres gibi destekleyen kanıt ekleyebilir veya kaldırabilirsiniz.
-  
- **Özel hassas bilgi türü oluşturma**
-  
-Ancak farklı türde hassas bilgileri bir bir şekilde tanımlamaya [](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) ve korumaya gerek olursa, Güvenlik ve Uyumluluk Merkezi'nin kullanıcı arabiriminde özel bir hassas bilgi & oluşturabilirsiniz.
-  
+Özel hassas bilgi türleri ve ilkeleri oluşturma hakkında daha fazla bilgi için bkz: 
+
+**Yerleşik hassas bilgi türünü özelleştirme**
+
+Yerleşik bir hassas bilgi türü yalnızca birkaç düzeltmeyle gereksinimlerinizi karşılayacaksa, [bkz. Yerleşik](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type)hassas bilgi türünü özelleştirme . Örneğin, anahtar sözcükler ekleyebilir veya kaldırabilir ya da tarih veya adres gibi destekleyen kanıt ekleyebilir veya kaldırabilirsiniz.
+
+**Özel hassas bilgi türü oluşturma**
+
+Ancak, farklı türde hassas bilgileri bir bir şekilde tanımlamaya ve korumaya gerek varsa, çalışma sayfalarında özel bir hassas bilgi Microsoft 365 uyumluluk merkezi. Daha fazla bilgi için [bkz. Özel hassas bilgi türleriyle çalışmaya başlama.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type)
+
 **Güvenlik ve Uyumluluk Merkezi PowerShell'de özel & bilgi türü oluşturma**
 
-Son olarak, kullanıcı arabirimi size gereken tüm seçenekleri sağlayamasa da, Güvenlik ve Uyumluluk Merkezi PowerShell'de özel & [bilgi türü oluşturabilirsiniz.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell) XML dosyasıyla başlayarak, kullanılabilen tüm seçenekleri kullanabilirsiniz.
+Son olarak, kullanıcı arabirimi size gereken tüm seçenekleri sağlayamasa da, Güvenlik ve Uyumluluk Merkezi PowerShell'de özel & bilgi türü oluşturabilirsiniz. XML dosyasıyla başlayarak, kullanılabilir tüm seçenekleri kullanabilirsiniz. Daha fazla bilgi için [bkz. PowerShell kullanarak özel duyarlı bilgi türü oluşturma.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell)
+
+İlk olarak test modunda ilkenizi test etmek için [bkz. İlkeyi test](https://docs.microsoft.com/microsoft-365/compliance/dlp-learn-about-dlp#implement-policy-in-test-mode) modunda uygulama ve DLP ilkesi [oluşturma, sınama ve ayarlama.](https://docs.microsoft.com/microsoft-365/compliance/create-test-tune-dlp-policy) 
