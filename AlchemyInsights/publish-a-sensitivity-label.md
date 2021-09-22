@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062892"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475237"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Duyarlılık etiketi yayımlama
 
-1. Uyumluluk Merkezi'Microsoft 365 Bilgi > **ilkeleri'ne**  >  **gidin.**
+1. Uyumluluk Merkezi'Microsoft 365 Bilgi > **ilkelerini**  >  **ziyaret edin.**
 
 1. Yeni **duyarlılık etiketi sihirbazını** başlatmak için + Etiketi yayımla'yı seçin.
 
@@ -36,6 +36,8 @@ ms.locfileid: "54062892"
 
 1. Farklı kullanıcılar veya konumlar için farklı ilke ayarlarına ihtiyacınız varsa bu adımları yineler. Örneğin, bir kullanıcı grubu için ek etiketler veya kullanıcı alt kümesi için farklı bir varsayılan etiket istiyor olabilir.
 
-1. Kullanıcı veya konumla çakışmaya neden olacak birden çok etiket ilkesi oluşturmanız gerekiyorsa, ilke siparişlerini gözden geçirin ve gerekirse bunları yukarı veya aşağı sürükleyin. Etiket ilkesi sıralamalarını değiştirmek için, üç noktayı (diğer eylemler) ve sonra da Yukarı taşı veya Aşağı **taşı'ya seçin.** 
+1. Bir kullanıcı veya konumla çakışmaya neden olacak birden çok etiket ilkesi oluşturmanız gerekiyorsa, ilke siparişlerini gözden geçirin ve gerekirse bunları yukarı veya aşağı hareket ettirin. Etiket ilkesi sıralamalarını değiştirmek için, üç noktayı (diğer eylemler) seçin ve ardından Yukarı taşı veya Aşağı **taşı** **öğesini seçin.**
 
 Sihirbazın tamamlanması etiket İlkesini otomatik olarak yayımlar.
+
+Daha fazla bilgi için [bkz. Duyarlılık etiketlerini ve ilkelerini oluşturma ve yapılandırma.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
