@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 782d79d7a67515ff02f9cef61176b9bea9017f1ad490090e748a10005c3c8bf3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54092352"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60077234"
 ---
 # <a name="uk-domain-transfers"></a>.uk etki alanı aktarımları
 
-Microsoft Desteği'ne başvurun ve **İleride etki alanını yönetmek** istediğiniz kayıt şirketiyle eşleşmesi için IPS Etiketi değişikliği isteğinde geçin. Etiket değiştiktan sonra, etki alanı hemen yeni kayıt şirketine aktarılmaktadır. Bu işlemi tamamlamak için büyük olasılıkla aktarım ücretlerini ödemeniz ve aktarılan etki alanını yeni kayıt şirketiyle hesabınıza ekleme işlemlerini tamamlamak için yeni kayıt şirketiyle birlikte çalışmanız gerekir.
+Birleşik Krallık'ta etki alanı aktarımı için yeni kayıt şirketin IPS etiketi gerekir. IPS etiketi Microsoft yönetim portalında Etki Alanı Aktarım Sihirbazı'nda girilebilir:
 
-Etki alanı aktarımları hakkında daha fazla bilgi için [bkz. Etki alanını Microsoft'tan başka bir ana bilgisayara aktarma.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+- Etki Alanları **Ayarlar** gidin, etki alanına çift tıklayın ve aktarma sihirbazını başlatmak için Etki  >  Alanını Aktar'ı  seçin.
 
-'da bulunan yeni kayıt şirketin IPS etiketini sağlamak için hazır https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ olun.
+Etiket değiştiktan sonra, etki alanı hemen yeni kayıt şirketine aktarılmaktadır. Ardından, aktarım işlemini tamamlamak, büyük olasılıkla aktarım ücretlerini ödemek ve aktarılan etki alanını yeni kayıt şirketiyle hesabınıza eklemek için yeni kayıt şirketiyle birlikte çalışmanız gerekir.
+
+Etki alanı aktarımları hakkında daha fazla bilgi için [bkz. Etki alanını Microsoft'tan başka bir ana bilgisayara aktarma.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
